@@ -1,0 +1,1011 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-7087" indent="0">CHAPTER XXIV BOSTON JOBS AND LIVING WAGE ORDINANCE</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-7087" number="8815" version="8">
+			<HEADING>CHAPTER XXIV   BOSTON JOBS AND LIVING WAGE ORDINANCE</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERXXIV" name="CHAPTER XXIV"/>CHAPTER XXIV&#160; <LINEBRK/>BOSTON JOBS AND LIVING WAGE ORDINANCE</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-7089" number="8816" version="40">
+				<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s Note:</CHARFORMAT>
+					<LINEBRK/>
+					<TAB tab-count="1"/>Prior ordinance history includes portions of Ordinance Nos. 1997 c. 5 and 1998 c. 3.</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7090" number="8817" version="2">
+				<HEADING>24-1 TITLE AND PURPOSE.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-1" name="24-1"/>24-1<TAB tab-count="1"/>TITLE AND PURPOSE.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7091" number="8818" version="2">
+					<PARA>
+						<TAB tab-count="1"/>This Chapter shall be known as the “Boston Jobs and Living Wage Ordinance.” The purpose of this Chapter is to assure that employees of vendors who contract with the City of Boston to provide services earn an hourly wage that is sufficient for a family of four (4) to live at or above the Federal poverty level. This Chapter is also designed to maximize access for low- and moderate-income Bostonians to the jobs that are created, maintained or subsidized through service contracts with the City of Boston.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7092" number="8819" version="2">
+					<PARA>(Ord. 1998 c. 5 § 1)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7093" number="8820" version="2">
+				<HEADING>24-2 DEFINITIONS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-2" name="24-2"/>24-2<TAB tab-count="1"/>DEFINITIONS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7094" number="8821" version="2">
+					<PARA>
+						<TAB tab-count="1"/>For the purpose of this Chapter, the term:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7095" number="8822" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Assistance </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean any grant, loan, tax incentive, bond financing, subsidy, or other form of assistance of one hundred thousand ($100,000.00) dollars or more realized by or through the authority or approval of the City of Boston, including, but not limited to industrial development bonds, Community Development Block Grant (CDBG) loans and Federal Enhanced Enterprise Community designations awarded after the effective date of this Chapter. The forgiveness of a loan shall be regarded as financial assistance. A loan shall be regarded as financial assistance to the extent of any differential between the amount of the loan and the present value of the payments thereunder, discounted over the life of the loan by the applicable Federal rate as used in 26 U.S.C., Section 1274(d) 7872(f). A recipient of assistance shall not be deemed to include leases and subleases.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7096" number="8823" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Beneficiary </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean any direct recipient of at least one hundred thousand ($100,000.00) dollars of assistance provided that the beneficiary is a for-profit employer of at least twenty-five (25) FTE&apos;s or a not-for-profit employer of at least one hundred (100) FTE&apos;s.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7097" number="8824" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Contracting department </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean any City department that awards a service contract.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7098" number="8825" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Covered employee </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean a person employed by a covered vendor who directly expends or would directly expend his or her time on the service contract with the City of Boston or on the service subcontract.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7099" number="8826" version="77">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Covered vendor</CHARFORMAT> means any for-profit employer or any not-for-profit employer who employs at least twenty-five (25) FTE&apos;s who has been awarded a service contract or service subcontract after the effective date of this section. This term does not include beneficiary as herein defined.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7100" number="8827" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Designated department </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean the City of Boston department or agency, designated by the Mayor, to be responsible for the overall implementation, compliance and enforcement of this Chapter.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7101" number="8828" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">First Source Hiring Agreement </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean a signed agreement between a covered vendor or a beneficiary and a referral agency.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7102" number="8829" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>h.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Full-time equivalent (FTE) </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean a formula to calculate the number of employee work hours which equal one (1) full-time position. For the purposes of this Chapter, full time shall mean the standard number of working hours, between thirty-five (35) hours and forty (40) hours per week, that is used by the covered vendor to determine full time employment.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7103" number="8830" version="44">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>i.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Living wage </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean the rate established by the designated department as the minimum hourly wage rate that shall be paid to a covered employee by a covered vendor pursuant to the formula set forth in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-6" destination-id="JD_24-6">24-6</LINK> of this Chapter.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7104" number="8831" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>j <TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Low- and moderate-income persons </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean persons with an annual income that is less than eighty (80%) percent of median income for the Boston Primary Standard Metropolitan Statistical Area as published by the Department of Housing and Urban Development.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7105" number="8832" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>k.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Person </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean one (1) or more of the following or their agents, employees, servants, representatives, and legal representatives: individuals, corporations, partnerships, joint ventures, associations, labor organizations, educational institutions, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in bankruptcy, receivers, fiduciaries, and all other entities recognized at law by this Commonwealth.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7106" number="8833" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>l.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Referral agency </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean any organized job registry and referral service operated by a not-for-profit organization or union provided that the not-for-profit organization has the following:</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7107" number="8834" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>An established community membership base and record of conducting outreach in low- and moderate-income Boston communities;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7108" number="8835" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>A computerized skills bank where individuals may register for employment and training opportunities;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7109" number="8836" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>An established process whereby an employer can post job openings, and where referrals can begin within forty-eight (48) hours of such posting;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7110" number="8837" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>A governing board comprised of a majority of low- and moderate-income Boston residents; or the majority of services provided by the entity are furnished to low- and moderate-income Boston residents;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7111" number="8838" version="77">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>A proven track record of nondiscriminatory job placement with respect to race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, marital status, discharge from the military service or handicap unrelated to job ability; and</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7112" number="8839" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Is certified as meeting requirements l, 1. through 5. by the Boston Office of Jobs and Community Services.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7113" number="8840" version="57">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>m.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service contract</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean any contract of at least fifty thousand ($50,000.00) dollars or more awarded to a vendor by the City for the furnishing of services to or for the City. Beginning on July 1, 2002, &quot;Service Contract&quot; shall mean any contract of at least twenty-five thousand ($25,000.00) dollars or more awarded to a vendor by the City for the furnishing of services to or for the City.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7114" number="8841" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>n.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Service subcontract </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean a subcontract of twenty-five thousand ($25,000.00) dollars or more awarded to a vendor by a covered vendor, provided the subcontract is paid for by funds from the service contract.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7115" number="8842" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>o.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Youth program </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean any City, State, or Federally funded program which employs youth, as defined by City, State, or Federal guidelines, during the summer, or as part of a school to work program, or in other related seasonal or part-time program.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7116" number="8843" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>p.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Vendor agreement </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">shall mean a written agreement between the City of Boston and any covered vendor that is executed at the time a service contract is signed with the City or a subcontract is signed with a covered vendor.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7117" number="8844" version="77">
+					<PARA>(Ord. 1998 c. 5 § 2; Ord. 2001 c. 8; Ord. 2002 c. 9)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7118" number="8845" version="2">
+				<HEADING>24-3 APPLICABILITY, EXEMPTIONS, AND WAIVERS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-3" name="24-3"/>24-3<TAB tab-count="1"/>APPLICABILITY, EXEMPTIONS, AND WAIVERS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7119" number="8846" version="2">
+					<HEADING> 24-3.1 Applicability.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_24-3.1" name="24-3.1"/>
+						<TAB tab-count="1"/>24-3.1<TAB tab-count="1"/>Applicability.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7120" number="8847" version="2">
+						<PARA>
+							<TAB tab-count="1"/>All of the provisions of this Chapter shall apply to all covered vendors as defined in this Chapter, not including the exemptions listed in subsection 24-3.2 of this section.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7121" number="8848" version="2">
+						<PARA>(Ord. 1998 c. 5 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7122" number="8849" version="40">
+					<HEADING> 24-3.2 Exemptions.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-3.2" name="24-3.2"/>24-3.2<TAB tab-count="1"/>Exemptions.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7123" number="8850" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The following types of assistance, service contracts and subcontracts shall be exempt from the provisions of this Chapter:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7124" number="8851" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>Construction contracts awarded by the City of Boston that are subject to the State prevailing wage law; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7125" number="8852" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>Assistance or contracts awarded to youth programs, as defined in this Chapter, provided that the contract is for stipends to youth in the program; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7126" number="8853" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>Assistance or contracts awarded to work-study or cooperative educational programs, provided that the assistance or contract is for stipends to students in the programs; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7127" number="8854" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>Assistance and contracts awarded to vendors who provide services to the City and are awarded to vendors who provide trainees a stipend or wage as part of a job training program and provides the trainees with additional services, which may include but are not limited to room and board, case management, and job readiness services, and provided further that the trainees do not replace current City funded positions.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7128" number="8855" version="2">
+						<PARA>(Ord. 1998 c. 5 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7129" number="8856" version="40">
+					<HEADING> 24-3.3 Affidavit Certifying Exemption Required.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-3.3" name="24-3.3"/>24-3.3<TAB tab-count="1"/>Affidavit Certifying Exemption Required.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7130" number="8857" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Covered vendors and beneficiaries of assistance must certify in an affidavit in a form approved by the designated department and provided by the contracting department and signed by a principal officer of the covered vendor or beneficiary of assistance, that one (1) of the exemptions herein applies to them before they can be considered exempt. The covered vendor or the beneficiary of assistance shall submit the affidavit to the contracting department who shall forward a copy to the designated department and the Living Wage Advisory Committee.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7131" number="8858" version="40">
+						<PARA>(Ord. 1998 c. 5 § 3)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7132" number="8859" version="40">
+					<HEADING> 24-3.4 Waivers.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-3.4" name="24-3.4"/>24-3.4<TAB tab-count="1"/>Waivers.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7133" number="8860" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">General Waiver. </CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Waivers may be granted by the designated department where application of this Chapter to a particular form of assistance, a service contract or subcontract violates a specific State or Federal statutory, regulatory or constitutional provision or provisions. All general waiver requests shall include the following:</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7134" number="8861" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>The assistance, service contract or subcontract to which this Chapter applies;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7135" number="8862" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>The conflicting statutory, regulatory or constitutional provision or provisions that makes compliance with this Chapter unlawful, and a copy of each such provision; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7136" number="8863" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>An explanation of how compliance with this Chapter would violate the cited provision or provisions, and the consequences that would result if this violation were to occur.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7137" number="8864" version="2">
+						<PARA>
+							<TAB tab-count="1"/>A general waiver request shall be submitted directly to the designated department. The designated department shall forward a copy of all requests to the Living Wage Advisory Committee.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7138" number="8865" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Hardship Waiver. </CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">The contracting departments shall monitor, and as necessary, recommend to the designated department, individual or group exemptions necessary in cases in which compliance with this Chapter would cause undue economic hardship. Such waivers shall be subject to the designated department&apos;s approval after having held a public hearing on the request.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7139" number="8866" version="2">
+						<PARA>
+							<TAB tab-count="1"/>All hardship waiver requests shall include the following:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7140" number="8867" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>The service contract or service subcontract to which this Chapter applies;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7141" number="8868" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>The lower wage paid by the covered vendor, and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7142" number="8869" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>A detailed explanation of how the payment of a living wage will cause undue economic hardship including supporting financial statements.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7143" number="8870" version="2">
+						<PARA>
+							<TAB tab-count="1"/>All hardship waiver requests shall be forwarded to the Living Wage Advisory Committee. Hardship waivers under this section shall not be applicable to beneficiaries of assistance.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7144" number="8871" version="2">
+						<PARA>(Ord. 1998 c. 5 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7145" number="8872" version="2">
+				<HEADING>24-4 FIRST SOURCE HIRING AGREEMENTS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-4" name="24-4"/>24-4<TAB tab-count="1"/>FIRST SOURCE HIRING AGREEMENTS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7146" number="8873" version="2">
+					<PARA>
+						<TAB tab-count="1"/>All covered vendors and all beneficiaries of assistance (hereinafter referred to as “the employer” for the purposes of this section) shall sign a First Source Hiring Agreement with one (1) or more referral agencies or one (1) or more Boston One Stop Career Centers which shall include the following:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7147" number="8874" version="2">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Prior to announcing or advertising an employment position for work which shall be performed as a result of a service contract, service subcontract or assistance created either as a result of a vacancy of an existing position or of a new employment position, the employer shall notify the referral agency about the position, including a general description and the employer&apos;s minimum requirements for qualified applicants for such position;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7148" number="8875" version="2">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The employer shall not make such public announcement or advertisement for a period of five (5) business days after notification to the referral agency of the availability of such position. Such five (5) day period is hereinafter referred to as the “Advance Notice Period”;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7149" number="8876" version="2">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The referral agency shall maintain a database of job opportunities subject to this Chapter and shall provide information on such job opportunities to all Boston residents who receive services;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7150" number="8877" version="2">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The Advance Notice Period shall be waived if the referral agency has no qualified candidates to refer to the covered vendor or beneficiary;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7151" number="8878" version="2">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The referral agency or Career Center shall institute a tracking system and record which applicants were interviewed, which applicants were not interviewed, and which applicants were hired for the positions;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7152" number="8879" version="2">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The Agreement does not require the employer to comply with these procedures if it fills the job vacancy or newly created position by transfer or promotion from existing staff or from a file of qualified applicants previously referred by the referral agency or Career Center; and</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7153" number="8880" version="2">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The Agreement shall not require the employer to hire any applicant referred under the terms of this Agreement.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7154" number="8881" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Beneficiaries who receive assistance from the City in the amount of one million ($1,000,000.00) dollars or more in any twelve (12) month period shall be required to comply with this section for five (5) years from the date such assistance reaches the one million ($1,000,000.00) dollar threshold. Beneficiaries receiving less than one million ($1,000,000.00) dollars but at least one hundred thousand ($100,000.00) dollars of assistance in any twelve (12) month period shall be required to comply with this section for one (1) year.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7155" number="8882" version="2">
+					<PARA>(Ord. 1998 c. 5 § 4)&#160; Penalty, see § 24-11</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7156" number="8883" version="2">
+				<HEADING>24-5 NOTIFICATION REQUIREMENTS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-5" name="24-5"/>24-5<TAB tab-count="1"/>NOTIFICATION REQUIREMENTS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7157" number="8884" version="2">
+					<PARA>
+						<TAB tab-count="1"/>All contracting departments engaged in the awarding of contracts shall provide in writing, an explanation designed by the designated department, of the requirements of this Chapter in all requests for bids for service contracts with the City of Boston. All persons who have signed a service contract with the City of Boston shall forward a copy of such requirements to any person submitting a bid for a subcontract on the service contract.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7158" number="8885" version="40">
+					<PARA>(Ord. 1998 c. 5 § 5)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7159" number="8886" version="2">
+				<HEADING>24-6 LIVING WAGE PAYMENT TO EMPLOYEES.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-6" name="24-6"/>24-6<TAB tab-count="1"/>LIVING WAGE PAYMENT TO EMPLOYEES.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7160" number="8887" version="2">
+					<HEADING> 24-6.1 Applicability.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_24-6.1" name="24-6.1"/>
+						<TAB tab-count="1"/>24-6.1<TAB tab-count="1"/>Applicability.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7161" number="8888" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Covered vendors shall pay no less than the living wage to covered employees. </PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7162" number="8889" version="2">
+						<PARA>(Ord. 1998 c. 5 § 6)&#160; Penalty, see § 24-11</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7163" number="8890" version="40">
+					<HEADING> 24-6.2 Calculation of the Living Wage.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-6.2" name="24-6.2"/>24-6.2<TAB tab-count="1"/>Calculation of the Living Wage.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7164" number="8891" version="57">
+						<PARA>
+							<TAB tab-count="1"/>The living wage shall be calculated on an hourly basis and shall be no less than ten dollars and twenty-five ($10.25) cents from the effective date of passage of this section, subject to adjustment each year on July 1:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7168" number="8892" version="57">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>To the hourly rate which at forty (40) hours of work a week for fifty (50) weeks a year would be equal to but not less than one hundred sixteen percent (116%) of the poverty threshold for a family of four (4) as published by the United States Department of Health and Human Services; or</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-9839" number="8893" version="57">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>In proportion to the increase at the immediately preceding December 31 over the year earlier level of the Annual Average Consumer Price Index for All Urban Consumers (CPI-U) Boston-Lawrence-Salem, MA NH as published by the Bureau of Labor Statistics, United States Department of Labor applied to ten dollars and twenty-five ($10.25) cents; or</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-9838" number="8894" version="57">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>One hundred ten (110%) percent of the Federal or State minimum wage; or whichever of the foregoing is higher.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-9837" number="8895" version="57">
+						<PARA>(Ord. 1998 c. 5 § 6; Ord. 2001 c. 8)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7169" number="8896" version="2">
+				<HEADING>24-7 DUTIES OF COVERED VENDORS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-7" name="24-7"/>24-7<TAB tab-count="1"/>DUTIES OF COVERED VENDORS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7170" number="8897" version="2">
+					<HEADING> 24-7.1 Notification Requirements.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_24-7.1" name="24-7.1"/>
+						<TAB tab-count="1"/>24-7.1<TAB tab-count="1"/>Notification Requirements.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7171" number="8898" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Covered vendors shall provide each covered employee with a fact sheet about this Chapter and shall post a notice about the Chapter in a conspicuous location visible to all employees. The fact sheet and poster shall be provided to the covered vendor by the designated department and shall include:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7172" number="8899" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>Notice of the living wage amount;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7173" number="8900" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>A summary of the provisions of this Chapter;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7174" number="8901" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>A description of the enforcement provisions of the Chapter;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7175" number="8902" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>The name, address, and phone number of a person designated by the designated department to which complaints of noncompliance with this Chapter should be directed.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7176" number="8903" version="40">
+						<PARA>(Ord. 1998 c. 5 § 7)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7177" number="8904" version="40">
+					<HEADING> 24-7.2 Maintenance and Examination of Payroll Records.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-7.2" name="24-7.2"/>24-7.2<TAB tab-count="1"/>Maintenance and Examination of Payroll Records.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7178" number="8905" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Maintenance of Payroll Records. </CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Each covered vendor shall maintain payrolls for all covered employees and basic records relating thereto for a period of three (3) years. The records shall contain the name and address of each employee, the job title and classification, the number of hours worked each day, the gross wages, deductions made, actual wages paid, a copy of the social security returns, and evidence of payment thereof, a record of fringe benefit payments including contributions to approved plans, funds or programs and/or additional cash payments, and such other data as may be required by the contracting department from time to time.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7179" number="8906" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Examination of Payrolls. </CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">Each covered vendor shall permit representatives of the designated department or their designees to observe work being performed upon the work site, to interview employees and to examine the books and records relating to the payrolls being investigated.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7180" number="8907" version="40">
+						<PARA>(Ord. 1998 c. 5 § 7)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7181" number="8908" version="40">
+					<HEADING> 24-7.3 Vendor Agreements.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-7.3" name="24-7.3"/>24-7.3<TAB tab-count="1"/>Vendor Agreements.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7182" number="8909" version="2">
+						<PARA>
+							<TAB tab-count="1"/>At the time of signing a service contract with the City of Boston or subcontract with a vendor, the contract with the covered vendor must include the following:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7183" number="8910" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>The name of the program or project under which the contract or subcontract is being awarded;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7184" number="8911" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>A local contact name, address, and phone number for the covered vendor;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7185" number="8912" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/> A written commitment by the covered vendor to pay all covered employees not less than the living wage, subject to adjustment each July 1, and to comply with the provisions of this Chapter;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7186" number="8913" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>A workforce profile of covered employees paid for by the service contract or subcontract including the employees&apos; job titles with wage ranges, number of covered employees who are Boston residents, and the number of covered employees who are minorities and women;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7187" number="8914" version="2">
+						<PARA>
+							<TAB tab-count="1"/>e.<TAB tab-count="1"/>A written narrative of the covered vendors&apos; past efforts and future goals to hire low- and moderate-income Boston residents and train covered employees; the potential for advancement and raises for covered employees; the net increase and decrease in number of jobs or number of jobs maintained by classification that will result from the awarding of the service contract;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7188" number="8915" version="2">
+						<PARA>
+							<TAB tab-count="1"/>f.<TAB tab-count="1"/>For service contracts, a list of all service subcontracts either awarded or that will be awarded to vendors with funds from the service contract. Any covered vendor awarded a service contract shall notify the contracting department within three (3) working days of signing a service subcontract with a vendor.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7189" number="8916" version="40">
+						<PARA>(Ord. 1998 c. 5 § 7)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7190" number="8917" version="57">
+					<HEADING> 24-7.4 Reports.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-7.4" name="24-7.4"/>24-7.4<TAB tab-count="1"/>Reports.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7194" number="8918" version="57">
+						<PARA>
+							<TAB tab-count="1"/>Covered vendors shall provide quarterly reports to the designated department of their employment activities. Not-for-profit vendors with fifty (50) or more FTE&apos;s and all for-profit vendors shall be required to provide such reports biannually. These reports shall include:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-9840" number="8919" version="57">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>The job positions charged to the service contract or service subcontract, the wage ranges of those positions;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-9841" number="8920" version="57">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>The total number of Boston residents, women and minorities who are charged to the service contract or service subcontract;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-9842" number="8921" version="57">
+						<PARA>
+							<TAB tab-count="1"/>The designated department shall submit a summary of said reports to the City Council and Living Wage Advisory Committee within thirty (30) working days following the end of each quarterly or biannual reporting period.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7195" number="8922" version="57">
+						<PARA>(Ord. 1998 c. 5 § 7; Ord. 2001 c. 8)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-11" destination-id="JD_24-11">24-11</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7196" number="8923" version="2">
+				<HEADING>24-8 LIVING WAGE ADVISORY COMMITTEE.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-8" name="24-8"/>24-8<TAB tab-count="1"/>LIVING WAGE ADVISORY COMMITTEE.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7197" number="8924" version="2">
+					<HEADING> 24-8.1 Purpose.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_24-8.1" name="24-8.1"/>
+						<TAB tab-count="1"/>24-8.1<TAB tab-count="1"/>Purpose.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7198" number="8925" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The purpose of the Living Wage Advisory Committee shall be to review the effectiveness of this Chapter in creating and retaining living wage jobs in Boston, to promote access to living wage jobs for low- and moderate-income Bostonians, to review the implementation and enforcement of this Chapter, and to make recommendations from time to time in connection therewith.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7199" number="8926" version="2">
+						<PARA>(Ord. 1998 c. 5 § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7200" number="8927" version="40">
+					<HEADING> 24-8.2 Composition and Term.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-8.2" name="24-8.2"/>24-8.2<TAB tab-count="1"/>Composition and Term.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7201" number="8928" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Living Wage Advisory Committee shall be comprised of seven (7) members who shall be appointed by the Mayor:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7202" number="8929" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>One (1) member of the Committee shall be a labor union member appointed by the Mayor from a list of three (3) nominees recommended by the Massachusetts AFL-CIO;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7203" number="8930" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>One (1) member of the Committee shall be a member of the Association of Community Organizations for Reform Now (ACORN) appointed by the Mayor from a list of three (3) nominees recommended by ACORN;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7204" number="8931" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>One (1) member of a community-based organization operating solely within the City of Boston;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7205" number="8932" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>One (1) member of the Greater Boston Chamber of Commerce appointed by the Mayor from a list of three (3) nominees recommended by the Chamber; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7206" number="8933" version="2">
+						<PARA>
+							<TAB tab-count="1"/>e.<TAB tab-count="1"/>One (1) member of the Boston Chamber of Neighborhood Commerce appointed by the Mayor from a list of three (3) nominees recommended by the Neighborhood Chamber.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7207" number="8934" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Each member of this committee shall serve a three (3) year term. </PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7208" number="8935" version="2">
+						<PARA>(Ord. 1998 c. 5 § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7209" number="8936" version="40">
+					<HEADING> 24-8.3 Meetings.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-8.3" name="24-8.3"/>24-8.3<TAB tab-count="1"/>Meetings.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7210" number="8937" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Living Wage Advisory Committee shall meet quarterly and in special session as required. All meetings of the Living Wage Advisory Committee shall be open to the public under the Commonwealth&apos;s Open Meeting Law. The Committee shall promulgate regulations and rules which allow for public participation and testimony at hearings and meetings.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7211" number="8938" version="2">
+						<PARA>(Ord. 1998 c. 5 § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7212" number="8939" version="40">
+					<HEADING> 24-8.4 Conflict of Interest.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-8.4" name="24-8.4"/>24-8.4<TAB tab-count="1"/>Conflict of Interest.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7213" number="8940" version="2">
+						<PARA>
+							<TAB tab-count="1"/>For the purposes of this Chapter, no member of the Living Wage Advisory Committee shall participate in any proceeding concerning a beneficiary, a covered vendor, a covered employee, or applicant for waiver or exemption, if the member or any member of his or her immediate family has a direct or indirect financial interest in said individual or in the award of a service contract, subcontract or assistance or the granting of relief to said individual.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7214" number="8941" version="2">
+						<PARA>(Ord. 1998 c. 5 § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7215" number="8942" version="2">
+				<HEADING>24-9 ENFORCEMENT POWERS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-9" name="24-9"/>24-9<TAB tab-count="1"/>ENFORCEMENT POWERS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7216" number="8943" version="2">
+					<PARA>
+						<TAB tab-count="1"/>If necessary for the enforcement of this Chapter, the designated department may issue subpoenas, compel the attendance and testimony of witnesses and production of books, papers, records and documents relating to payroll records necessary for hearing, investigations, and proceedings. The designated department may apply to a court of competent jurisdiction to enforce these provisions.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7217" number="8944" version="2">
+					<PARA>(Ord. 1998 c. 5 § 9)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7218" number="8945" version="2">
+				<HEADING>24-10 COMPLAINT PROCEDURES AND INVESTIGATIONS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-10" name="24-10"/>24-10<TAB tab-count="1"/>COMPLAINT PROCEDURES AND INVESTIGATIONS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7219" number="8946" version="2">
+					<HEADING> 24-10.1 Complaints.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_24-10.1" name="24-10.1"/>
+						<TAB tab-count="1"/>24-10.1<TAB tab-count="1"/>Complaints.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7220" number="8947" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>A person or an employee who believes that he or she is a covered employee or a person who is an applicant for a position to be filled by a covered employee and believes that his or her employer is not complying with requirements of this Chapter applicable to the employee, may file a complaint with the designated department. Complaints by covered employees of alleged violations may be made at any time. Statements written or oral, made by an employee, shall be treated as confidential and shall not be disclosed to the covered vendor without the consent of the employee.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7221" number="8948" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>A complaint of noncompliance with this Chapter may be filed by any person with the designated department, which shall provide a copy of the complaint to each covered vendor against whom the complaint is made within five (5) business days.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7222" number="8949" version="42">
+						<PARA>(Ord. 1998 c. 5 § 10)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7223" number="8950" version="40">
+					<HEADING> 24-10.2 Discrimination Against Covered Employees Barred.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-10.2" name="24-10.2"/>24-10.2<TAB tab-count="1"/>Discrimination Against Covered Employees Barred.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7224" number="8951" version="2">
+						<PARA>
+							<TAB tab-count="1"/>If a covered vendor: discharges; reduces the compensation of; or discriminates against any covered employee or any other person for making a complaint to the designated department, otherwise asserting his or her rights under this Chapter, participating in any of its proceedings, or using any civil remedies to enforce his or her rights under the Chapter, the covered vendor shall be considered in violation of this Chapter. The designated department shall investigate allegations of retaliation or discrimination and shall, if found to be true, after notice and a hearing order appropriate relief to the employee or person and penalties for the covered vendor and may suspend the contract or order the service contractor to suspend the subcontract.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7225" number="8952" version="2">
+						<PARA>(Ord. 1998 c. 5 § 10)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7226" number="8953" version="40">
+					<HEADING> 24-10.3 Investigations.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-10.3" name="24-10.3"/>24-10.3<TAB tab-count="1"/>Investigations.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7227" number="8954" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The designated department, or its designee shall investigate all complaints of noncompliance. Investigations may include routine reviews, spot checks, and investigations pursuant to complaints. The designated department, or its designee, shall have the responsibility to examine promptly all payrolls for compliance upon receiving a complaint, in furtherance of any investigation.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7228" number="8955" version="2">
+						<PARA>(Ord. 1998 c. 5 § 10)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7229" number="8956" version="40">
+					<HEADING> 24-10.4 Noncompliance.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-10.4" name="24-10.4"/>24-10.4<TAB tab-count="1"/>Noncompliance.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7230" number="8957" version="44">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>If the designated department finds evidence that the covered vendor is not in compliance or has violated any of the provisions of this Chapter, the designated department shall order such remedial measures as required to ensure compliance herewith including, but not limited to: ordering back-pay to covered employees for noncompliance with Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="24-6" destination-id="JD_24-6">24-6</LINK>, Living Wage Payment to Employees.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7231" number="8958" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>If the covered vendor does not comply with the designated department&apos;s order within ten (10) working days, the designated department shall review the facts of the finding and may proceed with a formal hearing and investigation. If a hearing is held by the designated department, the department shall review remedies and penalties with the Living Wage Advisory Committee. If the designated department decides not to proceed with a hearing, it shall so notify the Living Wage Advisory Committee and provide a statement of the reasons for the decision.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7232" number="8959" version="2">
+						<PARA>(Ord. 1998 c. 5 § 10)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-7233" number="8960" version="40">
+					<HEADING> 24-10.5 Living Wage Advisory Committee Compliance Review Hearings.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_24-10.5" name="24-10.5"/>24-10.5<TAB tab-count="1"/>Living Wage Advisory Committee Compliance Review Hearings.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-7234" number="8961" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Living Wage Advisory Committee shall determine the need for an additional public hearing on any recommendations by the designated department. If a hearing is deemed necessary, it shall be scheduled and conducted by the Committee, in conjunction with the designated department, within twenty (20) business days of the designated department&apos;s notification to the Committee of a covered vendor&apos;s noncompliance. The Committee shall file a notice of the hearing seven (7) working days before such hearing to the City Clerk, the covered vendor, and the complaining party or parties.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-7235" number="8962" version="2">
+						<PARA>(Ord. 1998 c. 5 § 10)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7236" number="8963" version="2">
+				<HEADING>24-11 PENALTIES AND REMEDIES.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-11" name="24-11"/>24-11<TAB tab-count="1"/>PENALTIES AND REMEDIES.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7237" number="8964" version="2">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>In the event that the designated department determines, after notice and hearing, that any covered vendor has failed to pay the living wage rate or has otherwise violated the provisions of this Chapter, the designated department may order any or all of the following penalties and relief</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7238" number="8965" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Fines in the amount of three hundred ($300.00) dollars for each covered employee for each day that the covered vendor is in violation of this Chapter;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7239" number="8966" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The filing of a complaint with the pertinent State or Federal agency;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7240" number="8967" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Wage restitution for each affected employee;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7241" number="8968" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Suspension of ongoing contracts and subcontract payments; and</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7242" number="8969" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Ineligibility for future contracts with the City for three (3) years or until all penalties and restitution have been paid in full;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7243" number="8970" version="2">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Any other action deemed appropriate and within the discretion and authority of the City.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7244" number="8971" version="2">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Remedies Herein Non-Exclusive. </CHARFORMAT>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">No remedy set forth in this Chapter is intended to be exclusive or a prerequisite for asserting a claim for relief to enforce the right granted under this Chapter in a court of law. This Chapter shall not be construed to limit an employee&apos;s right to bring common law cause of action for wrongful termination.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7245" number="8972" version="2">
+					<PARA>(Ord. 1998 c. 5 § 11)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7246" number="8973" version="2">
+				<HEADING>24-12 EARNED INCOME CREDIT NOTIFICATION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-12" name="24-12"/>24-12<TAB tab-count="1"/>EARNED INCOME CREDIT NOTIFICATION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7247" number="8974" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Covered vendors and beneficiaries shall inform covered employees earning less than twelve ($12.00) dollars per hour, or such other amount as determined by the designated department, of their possible eligibility for the State and/or Federal Earned Income Credit (“EIC”).</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7248" number="8975" version="2">
+					<PARA>(Ord. 1998 c. 5 § 12)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7249" number="8976" version="40">
+				<HEADING>24-13 SEVERABILITY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-13" name="24-13"/>24-13<TAB tab-count="1"/>SEVERABILITY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7250" number="8977" version="2">
+					<PARA>
+						<TAB tab-count="1"/>In the event any provision of this Chapter shall be held invalid or unenforceable by any court of competent jurisdiction, such holding shall not invalidate or render unenforceable any other provisions hereof.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7251" number="8978" version="2">
+					<PARA>(Ord. 1998 c. 5 § 13)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7252" number="8979" version="2">
+				<HEADING>24-14 EFFECTIVE DATE.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_24-14" name="24-14"/>24-14<TAB tab-count="1"/>EFFECTIVE DATE.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7253" number="8980" version="2">
+					<PARA>
+						<TAB tab-count="1"/>This Chapter shall be effective upon its passage.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7254" number="8981" version="2">
+					<PARA>(Ord. 1998 c. 5 § 14)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

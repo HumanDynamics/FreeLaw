@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-299" indent="0">CHAPTER III ACQUISITION AND DISPOSITION OF PROPERTY</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-299" number="344" version="9">
+			<HEADING>CHAPTER III   ACQUISITION AND DISPOSITION OF PROPERTY</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERIII" name="CHAPTER III"/>CHAPTER III&#160; <LINEBRK/>ACQUISITION AND DISPOSITION OF PROPERTY</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-300" number="345" version="10">
+				<PARA>
+					<TAB tab-count="1"/>No Ordinances Apply. See Statutes.</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-301" number="346" version="10">
+				<PARA>(CBC 1975 St. T3)</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

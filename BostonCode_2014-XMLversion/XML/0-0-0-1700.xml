@@ -1,0 +1,1072 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-1700" indent="0">CHAPTER VIII DEVELOPMENT</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-1700" number="1976" version="19">
+			<HEADING>CHAPTER VIII   DEVELOPMENT</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERVIII" name="CHAPTER VIII"/>CHAPTER VIII&#160; <LINEBRK/>DEVELOPMENT</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1701" number="1977" version="2">
+				<HEADING>8-1 PUBLIC FACILITIES DEPARTMENT.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-1" name="8-1"/>8-1<TAB tab-count="1"/>PUBLIC FACILITIES DEPARTMENT.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1704" number="1978" version="46">
+					<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+						<PARAFORMAT left-indent="36" first-indent="-36">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s Note:</CHARFORMAT>
+							<LINEBRK/>Ordinance No. 1994 c. 6 transferred certain functions of the Public Facilities Department to the Real Property Department. See subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="11-7.1" destination-id="JD_11-7.1">11-7.1</LINK>b. of this Code for transferred functions.</PARAFORMAT>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1705" number="1979" version="2">
+					<HEADING> 8-1.1 Power to Designate Community Schools.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-1.1" name="8-1.1"/>
+						<TAB tab-count="1"/>8-1.1<TAB tab-count="1"/>Power to Designate Community Schools.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1706" number="1980" version="2">
+						<PARA>
+							<TAB tab-count="1"/>In addition to the powers conferred upon it by Chapter 642 of the Acts of 1966, the Public Facilities Commission shall have the power to designate as a Community School any schoolhouse constructed, reconstructed, or remodeled under the provisions of Section 3(c) of said Chapter 642. Such power shall be exercised before the care, custody, and control of any such schoolhouse shall have been transferred to the School Committee. The Public Facilities Commission shall also have the power, with approval of the School Committee, to designate as a Community School any schoolhouse the care, custody, and control whereof shall have been transferred to or shall rest with the School Committee, whether or not such schoolhouse was constructed, reconstructed, or remodeled under the provisions of said Section 3(c).</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1707" number="1981" version="2">
+						<PARA>(Ord. 1972 c. 18; CBC 1975 Ord. T8 § 1)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1709" number="1982" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>St. 1966 c. 642 § 3(c); Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="19-1" destination-id="JD_19-1">19-1</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1710" number="1983" version="2">
+					<HEADING> 8-1.2 Community School Program.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-1.2" name="8-1.2"/>
+						<TAB tab-count="1"/>8-1.2<TAB tab-count="1"/>Community School Program.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1711" number="1984" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Public Facilities Commission shall further have the power to conduct a Community School Program in any schoolhouse designated as a Community School whether or not the care, custody, and control thereof shall have been transferred to or shall rest with the School Committee, and for such purpose may exercise any power conferred upon it by Chapter 642 of the Acts of 1966. Without limitation on the generality of the foregoing the Public Facilities Commission may for the purpose of conducting a Community School Program at any schoolhouse designated as Community School make, with the approval of the Mayor, such agreements or contracts with persons, firms, corporations, and governmental agencies, including the School Committee, as may be necessary or convenient for the carrying out of such Community School Program, and said Public Facilities Commission shall exercise its power hereunder in cooperation with the School Committee and other affected departments of the City. These departments shall include, but not be limited to, the Parks and Recreation Department, the Mayor&apos;s Office of Human Rights, the Youth Activities Commission, and the Office of Cultural Affairs.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1712" number="1985" version="2">
+						<PARA>(Ord. 1972 c.18; CBC 1975 Ord. T8 § 2)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1714" number="1986" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>St. 1966 c. 642; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="2-7" destination-id="JD_2-7">2-7</LINK>; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="7-4" destination-id="JD_7-4">7-4</LINK>; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="12-6" destination-id="JD_12-6">12-6</LINK>; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="19-1" destination-id="JD_19-1">19-1</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1715" number="1987" version="2">
+					<HEADING> 8-1.3 Community School Councils.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-1.3" name="8-1.3"/>
+						<TAB tab-count="1"/>8-1.3<TAB tab-count="1"/>Community School Councils.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1716" number="1988" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Public Facilities Commission shall establish, in conjunction with representatives designated by existing Community School Councils, guidelines for the creation and implementation of Community School Councils in each area served by a Community School. These councils are to be composed of individuals representative of the residents of the area and the users of the facilities of the school. The Public Facilities Commission shall recognize such a Community School Council and will accept and act on recommendations from such councils in matters relating to personnel, program, and budget, as well as in areas of general policy. The Public Facilities Commission shall, within thirty (30) days after the receipt of recommendations in writing from a Community School Council, notify such Community School Council as to the adoption or rejection of such recommendations, and shall inform such Community School Council of a timetable for the implementation of adopted recommendations; community involvement in the decision-making process shall apply to every phase of the Community School Program.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1717" number="1989" version="2">
+						<PARA>(Ord. 1972 c. 18; CBC 1975 Ord. T8 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1718" number="1990" version="2">
+					<HEADING> 8-1.4 Maintenance and Repair Powers of School Committee.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-1.4" name="8-1.4"/>
+						<TAB tab-count="1"/>8-1.4<TAB tab-count="1"/>Maintenance and Repair Powers of School Committee.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1719" number="1991" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Nothing in this ordinance shall be interpreted as abridging the exclusive power and authority of the School Committee to perform necessary alterations (as defined in Section 3 of Chapter 642 of the Acts of 1966), maintenance, and repairs of public school buildings and their yards and furnishings, nor the employment of schoolhouse custodians.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1720" number="1992" version="2">
+						<PARA>(Ord. 1972 c. 18; CBC 1975 Ord. T8 § 4)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1722" number="1993" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="19-1" destination-id="JD_19-1">19-1</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1723" number="1994" version="2">
+				<HEADING>8-2 BOSTON URBAN HOMESTEAD PROGRAM.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-2" name="8-2"/>8-2<TAB tab-count="1"/>BOSTON URBAN HOMESTEAD PROGRAM.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1724" number="1995" version="2">
+					<HEADING> 8-2.1 Urban Homestead Program.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.1" name="8-2.1"/>
+						<TAB tab-count="1"/>8-2.1<TAB tab-count="1"/>Urban Homestead Program.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1725" number="1996" version="2">
+						<PARA>
+							<TAB tab-count="1"/>There shall be, within the Public Facilities Commission created by Chapter 642 of the Acts of 1966, a Committee to be known as the Boston Urban Homestead Committee, which shall consist of all the members of said Commission, the City Auditor or his designee, one member appointed by the Mayor for a term of five (5) years from two (2) nominees of the Greater Boston Real Estate Board, one member regularly employed as a mortgage-lending officer of an institution subject to the terms of Section 52 of Chapter 167 of the General Laws to be appointed by the Mayor for a period of five (5) years, the Commissioner of Real Property or his designee, and two (2) low-income residents of the City appointed by the Mayor for a term of five (5) years who neither own, directly or indirectly, or manage real property to a greater extent than three (3) housing units. The members appointed by the Mayor (except for those serving ex officio) shall be deemed to be Special Municipal Employees for the purposes of Chapter 268A of the General Laws. All members shall serve without compensation. Any vacancy shall be filled in like manner as the member vacating the appointment, for a similar term as the original appointee. The Director of the Commission shall serve as Director of the Committee, without further compensation.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1726" number="1997" version="2">
+						<PARA>(Ord. 1973 c.13; CBC 1975 Ord. T8 § 6)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1728" number="1998" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>St. 1966 c. 642; G.L. c. 167 § 52; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="6-1" destination-id="JD_6-1">6-1</LINK>; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="8-1" destination-id="JD_8-1">8-1</LINK>; Ord. ss <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="11-7.1" destination-id="JD_11-7.1">11-7.1</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1729" number="1999" version="2">
+					<HEADING> 8-2.2 Powers and Duties of Committee.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.2" name="8-2.2"/>
+						<TAB tab-count="1"/>8-2.2<TAB tab-count="1"/>Powers and Duties of Committee.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1730" number="2000" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The said Committee shall from time to time prepare and distribute lists of City-owned residential structures, which for the purposes of this ordinance shall be determined to be buildings containing at least one (1) and not more than four (4) dwelling units, and not more than one (1) business or commercial unit. Upon application of any person who is a bona fide resident of the City of Boston, or on its own initiative, the Committee shall determine whether any such structure is suitable for rehabilitation under the Urban Homestead Program. In the event that the Committee determines the structure suitable it shall request the Commission to assume the care, custody, and control of the same from the Real Property Department and, if in the opinion of the Commission the same is not needed for municipal purposes nor likely to be used for a public purpose, the structure (and the parcel of land on which it is situated) shall be declared available for lease and sale under the provisions of the Urban Homestead Program. The said Committee shall prepare, and from time to time amend, a standard leasehold agreement to be executed for consideration of one ($1.00) dollar by individuals taking an interest in any such structure. Every such agreement shall provide that the lessee shall reside in the demised structure for a period of not less than five (5) years from the date that the Commissioner of Housing Inspection shall certify the same to be in compliance with the State Sanitary Code as applies to residential structures and the Building Commissioner shall certify the same to be in compliance with the terms of the building code then in effect (considering any allowances the code may make for preexisting conditions or construction), whichever is later. The said agreement shall provide that, unless the Committee shall extend the time, the lessee shall do everything necessary to secure such certificates, and shall actually obtain such certificates, within eighteen (18) months of the execution of such agreement. The said agreement shall further provide that no tax or payment in lieu of tax shall be due to the City for a period of sixty (60) months after execution, and that a payment in lieu of tax, approximately equal to one-twelfth (1/12) of the tax that would ordinarily be assessed on that building in the then-current year, shall be payable to the City as an ordinary debt of the lessee for each month over sixty (60) months that the lease is in effect, and that the City shall, at the end of the month of December following the expiration of sixty (60) months from the later of the dates of certificate, execute and deliver to the lessee for a consideration of one ($1.00) dollar a deed conveying title in fee simple to said premises. In the event that a lessee has obtained a mortgage from an institution subject to the terms of Section 52 of Chapter 167 of the General Laws, and has used the proceeds thereof solely for the purposes of rehabilitating said premises, the City shall agree to subjugate its rights to said premises in case of default, and shall agree that in such case it will execute and deliver a deed conveying title in fee simple to such institution, provided that the said institution shall dispose of such property in like manner as foreclosed real estate and shall pay over any part of the proceeds of such disposition as shall exceed the amount remaining to be paid on account of such a mortgage, together with the actual cost of such sale, to the City of Boston. The Committee shall from time to time, with the approval of the Mayor and City Council, promulgate, amend, and repeal reasonable regulations for the conduct of the Urban Homestead Program not inconsistent with this section. The aforementioned leasehold agreement shall be in a form approved by the Mayor and City Council and shall be executed by the said Commission in the name of the City without the further approval of any Board, Officer, or of the City Council. The Committee may, without further approval, accept by gift, title to any property situated in Boston it deems suitable for the Urban Homestead Program provided the same is conveyed to it clear of any mortgage, lien, attachment, or other encumbrance which would prevent the lease or conveyance of the same, as aforesaid.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1731" number="2001" version="2">
+						<PARA>(Ord. 1973 c. 13 § 2; CBC 1975 Ord. T8 § 7)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1734" number="2002" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="2-7" destination-id="JD_2-7">2-7</LINK>; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="2-8" destination-id="JD_2-8">2-8</LINK>; Ord. Section 3-1; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="9-1" destination-id="JD_9-1">9-1</LINK>; Ord. ss <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="11-7.6" destination-id="JD_11-7.6">11-7.6</LINK>; St. 1938 c. 479</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1735" number="2003" version="2">
+					<HEADING> 8-2.3 Application for Lease.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.3" name="8-2.3"/>
+						<TAB tab-count="1"/>8-2.3<TAB tab-count="1"/>Application for Lease.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1736" number="2004" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Committee shall receive from any person, except any person who has in the five (5) years next preceding owned, directly or indirectly, any parcel of land in the City of Boston which was subject of a taking by the said City, duly recorded in the Suffolk County Registry of Deeds, by reason of nonpayment of a tax or lawful charge or assessment, applications for participation in the Urban Homestead Program. The Committee shall satisfy itself that the applicant has the ability to rehabilitate the structure which the applicant proposes to lease. In arriving at its determination, the Committee shall consider the following:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1737" number="2005" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>The condition of the structure;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1738" number="2006" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>The personal abilities of the applicant;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1739" number="2007" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>Assets of the applicant;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1740" number="2008" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>Mortgage commitments;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1741" number="2009" version="2">
+						<PARA>
+							<TAB tab-count="1"/>e.<TAB tab-count="1"/>Availability of financing.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1742" number="2010" version="2">
+						<PARA>
+							<TAB tab-count="1"/>In the event the Committee so satisfies itself, it shall declare the applicant eligible to lease the structure applied for.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1743" number="2011" version="2">
+						<PARA>(Ord. 1973 c. 13 § 3; CBC 1975 Ord. TS § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1744" number="2012" version="20">
+					<HEADING> 8-2.4 Decisions by Committee.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.4" name="8-2.4"/>
+						<TAB tab-count="1"/>8-2.4<TAB tab-count="1"/>Decisions by Committee.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1745" number="2013" version="2">
+						<PARA>
+							<TAB tab-count="1"/>In the event that only one person has made application for a particular structure, and has been found eligible to lease the same, the Committee shall execute and deliver a lease as aforesaid, and, in the event that more than one applicant has been determined to be so eligible to lease a particular building, the said Committee shall conduct a drawing by lot, open to the public, and shall execute and deliver a lease to that applicant so selected, provided however, that no lease shall be executed unless the particular property to be demised has been advertised in a newspaper of general circulation in the City at least twice, seven (7) days apart, the second advertisement to be published at least fourteen (14) days before the last date for applications to be filed.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1746" number="2014" version="2">
+						<PARA>(Ord. 1973 c. 13 § 4; CBC 1975 Ord. T8 § 9)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1747" number="2015" version="20">
+					<HEADING> 8-2.5 Consent of Committee.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_8-2.5" name="8-2.5"/>8-2.5<TAB tab-count="1"/>Consent of Committee.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1748" number="2016" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Any lease given hereunder may be assigned with the consent of the Committee, which shall not be unreasonably withheld. The Committee may terminate a lease or make other equitable adjustment in the case of death or disability of the lessee.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1749" number="2017" version="2">
+						<PARA>(Ord. 1973 c. 13 § 5; CBC 1975 Ord. T8 § 10)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1750" number="2018" version="2">
+					<HEADING> 8-2.6 Cooperation by Committee, Building Commissioner, and Commissioner of Housing Inspection.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.6" name="8-2.6"/>
+						<TAB tab-count="1"/>8-2.6<TAB tab-count="1"/>Cooperation by Committee, Building Commissioner, and Commissioner of Housing Inspection.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1751" number="2019" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Building Commissioner and the Commissioner of Housing Inspection shall offer all reasonable assistance to lessee hereunder and the Committee, which assistance, without limiting the generality of the foregoing, shall include periodic inspection of the premises, the issuance of certificates as aforesaid, technical assistance in the preparation of building permit applications, consultation on applicable law, rehabilitation procedures and technique.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1752" number="2020" version="2">
+						<PARA>(Ord. 1973 c. 13 § 6; CBC 1975 Ord. T8 § 11)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1754" number="2021" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="9-1" destination-id="JD_9-1">9-1</LINK>; St. T9 §§ 50, 56, 57</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1755" number="2022" version="2">
+					<HEADING> 8-2.7 Preference in Selecting Prospective Purchasers.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.7" name="8-2.7"/>
+						<TAB tab-count="1"/>8-2.7<TAB tab-count="1"/>Preference in Selecting Prospective Purchasers.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1756" number="2023" version="2">
+						<PARA>
+							<TAB tab-count="1"/>In the selection of the prospective purchasers of the buildings which are the subject of this ordinance, preference shall be given to the bona fide resident applicants of the neighborhood in which the building is situated. If there are no applicants from the neighborhood in which the building is situated, then the selecting authority may select any resident applicant of Boston as a purchaser, the selection of these prospective applicants to be subject to the approval of a local Selection Board appointed by the Mayor of the City of Boston.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1757" number="2024" version="2">
+						<PARA>(Ord. 1973 c. 13 § 7; CBC 1975 Ord. T8 § 12)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1758" number="2025" version="2">
+					<HEADING> 8-2.8 Urban Homesteading Under the Housing and Community Development Act of 1974.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-2.8" name="8-2.8"/>
+						<TAB tab-count="1"/>8-2.8<TAB tab-count="1"/>Urban Homesteading Under the Housing and Community Development Act of 1974.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1759" number="2026" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Notwithstanding the foregoing, the Boston Redevelopment Authority and the Office of Community Development may conduct an Urban Homestead Program under the provisions of Section 810 of the Housing and Community Development Act of 1974 provided that such program is conducted consistent with an order adopted by the City Council on February 9, 1976, and provided further that selection of applicants is done in a manner consistent with both that order and subsections 8-2.4, 8-2.5, 8-2.6 and 8-2.8 hereof, except that the duties that would pertain to the Committee shall be exercised by the Office of Community Development.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1760" number="2027" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The said Office of Community Development shall from time to time, subject to the approval of the Mayor and City Council, promulgate, amend, and repeal reasonable regulations not inconsistent with this section.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1761" number="2028" version="2">
+						<PARA>(Ord. 1976 c. 2)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1762" number="2029" version="2">
+				<HEADING>8-3 BOSTON REDEVELOPMENT AUTHORITY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-3" name="8-3"/>8-3<TAB tab-count="1"/>BOSTON REDEVELOPMENT AUTHORITY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1763" number="2030" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No Ordinances Apply. See Special Statutes.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1764" number="2031" version="2">
+					<PARA>(CBC 1975 Ord. T8 c. 3)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1765" number="2032" version="2">
+				<HEADING>8-4 ECONOMIC DEVELOPMENT AND INDUSTRIAL CORPORATION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-4" name="8-4"/>8-4<TAB tab-count="1"/>ECONOMIC DEVELOPMENT AND INDUSTRIAL CORPORATION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1766" number="2033" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No Ordinances Apply. See Special Statutes.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1767" number="2034" version="2">
+					<PARA>(CBC 1975 Ord. T8 c. 5)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1768" number="2035" version="2">
+				<HEADING>8-5 DEVELOPMENT AND INDUSTRIAL COMMISSION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-5" name="8-5"/>8-5<TAB tab-count="1"/>DEVELOPMENT AND INDUSTRIAL COMMISSION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1769" number="2036" version="2">
+					<HEADING> 8-5.1 Composition of Board.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-5.1" name="8-5.1"/>
+						<TAB tab-count="1"/>8-5.1<TAB tab-count="1"/>Composition of Board.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1770" number="2037" version="2">
+						<PARA>
+							<TAB tab-count="1"/>There shall be in the City a Board, known as the Development and Industrial Commission, consisting of fifteen (15) Commissioners appointed by the Mayor. The Development and Industrial Commissioners shall serve for a term of five (5) years. As the term of any Commissioner expires, his successor shall be appointed by the Mayor for a term of five (5) years. Any vacancy in the office of a Commissioner shall be filled by the Mayor for the unexpired term.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1771" number="2038" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Mayor shall from time to time designate one of the Commissioners as Chairman and the other as Vice-Chairman. The Commission shall elect a Secretary who need not be a Commissioner.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1772" number="2039" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Commissioners shall serve without compensation, but shall be reimbursed for expenses necessarily incurred in the performance of their duties. The Commissioners shall be deemed to be special municipal employees for the purposes of Chapter 268A of the General Laws.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1773" number="2040" version="2">
+						<PARA>(Ord. 1969 c. 2; Rev. Ord. 1961 (Sup. 1971) c. 10B § 1; CBC 1975 Ord. T8 § 300)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1775" number="2041" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>G.L. c. 268A; Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="2-7" destination-id="JD_2-7">2-7</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1776" number="2042" version="2">
+					<HEADING> 8-5.2 Executive Director; Employees.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-5.2" name="8-5.2"/>
+						<TAB tab-count="1"/>8-5.2<TAB tab-count="1"/>Executive Director; Employees.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1777" number="2043" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Mayor may, upon nomination of the Development and Industrial Commission, appoint an Executive Director for such Commission, who shall serve at the pleasure of the Mayor and receive such compensation for his services as the Commission, with the approval of the Mayor, shall from time to time determine. The Commission may employ such other experts, assistants and employees as the Commission may think necessary or expedient.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1778" number="2044" version="2">
+						<PARA>(Rev. Ord. 1961 (Sup. 1971) c. 10B § 2; CBC 1975 Ord. T8 § 301)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1780" number="2045" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>Ord. Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="2-7" destination-id="JD_2-7">2-7</LINK>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1781" number="2046" version="2">
+					<HEADING> 8-5.3 Powers and Duties.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-5.3" name="8-5.3"/>
+						<TAB tab-count="1"/>8-5.3<TAB tab-count="1"/>Powers and Duties.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1782" number="2047" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Development and Industrial Commission shall conduct research into industrial conditions, investigate and assist in the establishment of educational or commercial projects, including projects involving private enterprise, for the purpose of expanding or strengthening the local economy, and shall seek to coordinate the activities of unofficial bodies organized for said purposes, and may advertise, prepare, print and distribute books, maps, charts, and pamphlets which in its judgment will further the purposes for which it is established. The Commission shall have such other powers and perform such other duties as may from time to time be conferred or imposed by Section 8A of Chapter 40 of the General Laws.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1783" number="2048" version="2">
+						<PARA>(Rev. Ord. 1961 (Sup. 1971) c. 10B § 3; CBC 1975 Ord. T8 § 302)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1785" number="2049" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>G.L. c. 40 § 8A</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1786" number="2050" version="2">
+				<HEADING>8-6 INDUSTRIAL DEVELOPMENT FINANCING AUTHORITY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-6" name="8-6"/>8-6<TAB tab-count="1"/>INDUSTRIAL DEVELOPMENT FINANCING AUTHORITY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1787" number="2051" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No Ordinances Apply. See Special Statutes.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1788" number="2052" version="2">
+					<PARA>(CBC 1975 Ord. T8 c. 9)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1789" number="2053" version="20">
+				<HEADING>8-7 PUBLIC IMPROVEMENT COMMISSION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-7" name="8-7"/>8-7<TAB tab-count="1"/>PUBLIC IMPROVEMENT COMMISSION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1790" number="2054" version="2">
+					<HEADING> 8-7.1 Composition of Board; Powers and Duties.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-7.1" name="8-7.1"/>
+						<TAB tab-count="1"/>8-7.1<TAB tab-count="1"/>Composition of Board; Powers and Duties.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1791" number="2055" version="45">
+						<PARA>
+							<TAB tab-count="1"/>There shall be in the Public Works Department a Board known as the Public Improvement Commission, consisting of the Commissioner of Public Works, the Commissioner of Real Property, the Commissioner of Traffic and Parking and the Building Commissioner, ex officiis. The Public Improvement Commission shall be subject to the supervision or control of the Commissioner of Public Works except as he acts as a member of said Commission; but unless otherwise ordered by the Mayor, the Public Improvement Commission shall not communicate with the Mayor, or make any annual or other report, except through the Commissioner of Public Works. The Public Improvement Commission shall have all powers and perform all duties conferred or imposed by statute on the Board of Street Commissioners except (a) those conferred or imposed on the Committee on Licenses in the Public Safety Commission by subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="14-2.1" destination-id="JD_14-2.1">14-2.1</LINK>, (b) those conferred or imposed on the Commissioner of Public Works by subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="11-6.1" destination-id="JD_11-6.1">11-6.1</LINK> and (c) those conferred or imposed on the Real Property Board by subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="11-7.1" destination-id="JD_11-7.1">11-7.1</LINK>.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1792" number="2056" version="2">
+						<PARA>(Ord. 1954 c. 2 § 57; Ord. 1962 c. 9 § 3; Rev. Ord. 1961 (Sup. 1971) c. 21 § 36; CBC 1975 Ord. T8 §500; Ord. 1976 c. 10)</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1794" number="2057" version="20">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+							<LINEBRK/>
+							<TAB tab-count="1"/>St. 7 § 201; St. 11 es. 1, 5, 7; St. 14 c. 3</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1799" number="2058" version="46">
+						<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+							<PARAFORMAT left-indent="36" first-indent="-36">
+								<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s Note:</CHARFORMAT>
+								<LINEBRK/>The powers and duties of the Traffic and Parking Commission, the Traffic and Parking Commissioner and the Traffic and Parking Department were assumed by the Transportation Commission, the Transportation Commissioner and the Transportation Department respectively under the provisions of s. 20 of Ch. 608 of the Acts of 1986.</PARAFORMAT>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1800" number="2059" version="20">
+				<HEADING>8-8 CREATING THE EMPLOYMENT AND ECONOMIC POLICY ADMINISTRATION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-8" name="8-8"/>8-8<TAB tab-count="1"/>CREATING THE EMPLOYMENT AND ECONOMIC POLICY ADMINISTRATION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1801" number="2060" version="2">
+					<HEADING> 8-8.1 Creation of EEPA; Appointment of Administrator.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-8.1" name="8-8.1"/>
+						<TAB tab-count="1"/>8-8.1<TAB tab-count="1"/>Creation of EEPA; Appointment of Administrator.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1802" number="2061" version="45">
+						<PARA>
+							<TAB tab-count="1"/>In accordance with City of Boston Code, Ordinances, subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="2-12.3" destination-id="JD_2-12.3">2-12.3</LINK>, there is hereby created a City Department to be known as the Employment and Economic Policy Administration (hereinafter “EEPA”) which shall be under the charge of an officer, known as the Administrator, appointed by the Mayor for a term expiring on the first Monday of January following the next biennial municipal election at which a Mayor is elected, who shall have the powers and perform the duties imposed upon him by law.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1803" number="2062" version="2">
+						<PARA>(Ord. 1980 c. 17 § 1)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1804" number="2063" version="2">
+					<HEADING> 8-8.2 Authority of Administrator.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-8.2" name="8-8.2"/>
+						<TAB tab-count="1"/>8-8.2<TAB tab-count="1"/>Authority of Administrator.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1805" number="2064" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Subject to fundings, the Administrator shall be the appointing authority and from time to time shall establish within the Department such divisions and administrative units within such divisions as may be necessary for the efficient and economical administration of the Department, and when necessary for such purpose, he may abolish any such division, or he may merge any two (2) or more of them, and may abolish or merge any such other administrative units within divisions as he may deem advisable. The Administrator shall prepare and keep current a statement of the organization of the Department, of the assignment of functions to its various administrative units, offices, and employees, and of the places at which, and the methods whereby, the public may receive information or make requests. The Administration shall annually on or before the fifteenth (15th) of August provide to the Mayor and to the City Council a detailed report of the activity of the agency, its projects and plans, and comments on its progress in attacking and solving the problem of unemployment.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1806" number="2065" version="2">
+						<PARA>(Ord. 1980 c. 17 § 2)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1807" number="2066" version="20">
+					<HEADING> 8-8.3 Purpose.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-8.3" name="8-8.3"/>
+						<TAB tab-count="1"/>8-8.3<TAB tab-count="1"/>Purpose.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1808" number="2067" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The Employment and Economic Policy Administration shall develop and administer programs in conjunction with Federal, State and local government, private industry and nonprofit organizations to employ more Bostonians and to improve the general economic well-being of the City. In order to accomplish these ends, the Employment and Economic Policy Administration shall develop and administer programs to:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1809" number="2068" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>Train and educate chronically unemployed Boston residents;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1810" number="2069" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>Establish referral and placement opportunities in unsubsidized jobs in private and public sector employment for Boston residents;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1811" number="2070" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>Encourage increased job development in the City, including technical assistance to private industry to hire and train more Boston residents;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1812" number="2071" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>Establish specialized programs to assist handicapped and young people in obtaining meaningful employment opportunities to promote their career development;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1813" number="2072" version="2">
+						<PARA>
+							<TAB tab-count="1"/>e.<TAB tab-count="1"/>Coordinate with private and public school systems to assist people in obtaining marketable job skills and training as part of their education;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1814" number="2073" version="2">
+						<PARA>
+							<TAB tab-count="1"/>f.<TAB tab-count="1"/>Apply for and expend Federal, State and/or other grants to assist in these ends in conjunction with the approval of the Mayor and City Council.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1815" number="2074" version="2">
+						<PARA>(Ord. 1980 c. 17 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1816" number="2075" version="21">
+					<HEADING> 8-8.4 Use of Funds.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-8.4" name="8-8.4"/>
+						<TAB tab-count="1"/>8-8.4<TAB tab-count="1"/>Use of Funds.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1817" number="2076" version="2">
+						<PARA>
+							<TAB tab-count="1"/>No more than twenty (20%) percent of the annual operating budget of the Employment and Economic Policy Administration may be expended on administrative staff and overhead costs. In any case, no more than two hundred eighty (280) administrative personnel, all of whom shall be residents of Boston, may be employed by the Employment and Economic Policy Administration after December 31, 1980.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1818" number="2077" version="45">
+						<PARA>
+							<TAB tab-count="1"/>All administrative staff positions in EEPA shall be filled and held subject to the receipt by the City of funds from the United States for the various programs set forth in subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="8-8.3" destination-id="JD_8-8.3">8-8.3</LINK>. All qualified residents of the City shall have an equal opportunity for appointment to such positions and shall enjoy equal protection in the holding of such positions.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1819" number="2078" version="2">
+						<PARA>(Ord. 1980 c. 17 § 4)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1820" number="2079" version="21">
+				<HEADING>8-9 ESTABLISHING THE BOSTON RESIDENTS JOBS POLICY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-9" name="8-9"/>8-9<TAB tab-count="1"/>ESTABLISHING THE BOSTON RESIDENTS JOBS POLICY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1821" number="2080" version="21">
+					<HEADING> 8-9.1 Definitions.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.1" name="8-9.1"/>
+						<TAB tab-count="1"/>8-9.1<TAB tab-count="1"/>Definitions.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1822" number="2081" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The following words as used in this ordinance shall, unless the context otherwise requires, have the following meanings:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1823" number="2082" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Agency</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean the unit of government, within the structure of the City of Boston that is responsible for the application, administration and execution of Community Development Block Grants, projects in the area of housing and employment, and Federal affirmative action programs, currently the Neighborhood Development and Employment Agency.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1824" number="2083" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Approved Apprenticeship Training Program</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall be defined as it is in G.L. c. 23, § 11H and 11I and is approved by the Division of Apprentice Training of the Department of Labor and Industries.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1825" number="2084" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Contract Compliance Office</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean that office within the structure of the City of Boston government that has purview over the areas of compliance and enforcement for Federal, State and/or local affirmative action programs.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1826" number="2085" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Minority person</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean and include those persons who are Black, Hispanic, Asian, or native American.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1827" number="2086" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Resident</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean any person for whom the principal place where that person normally eats and sleeps and maintains his or her normal personal and household effects is within the City limits for the City of Boston.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1828" number="2087" version="2">
+						<PARA>(Ord. 1983 c. 30 § 2; Ord. 1998 c. 1 § 1)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1829" number="2088" version="21">
+					<HEADING> 8-9.2 Policy.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.2" name="8-9.2"/>
+						<TAB tab-count="1"/>8-9.2<TAB tab-count="1"/>Policy.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1830" number="2089" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>On any construction project funded in whole or in part by City funds, or funds which, in accordance with a Federal grant or otherwise, the City expends or administers, or which the City is a signatory to the construction contract, the worker hours on a craft-by-craft basis shall be performed, in accordance with the contract documents provided for in paragraph b. below, as follows:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1831" number="2090" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+								<TAB tab-count="1"/>1.<TAB tab-count="1"/>At least fifty (50%) percent of the total employee manhours in each trade shall be by </CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">bona fide</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> Boston residents;</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1832" number="2091" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>At least twenty-five (25%) percent of the total employee manhours in each trade shall be by minorities;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1833" number="2092" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>At least ten (10%) percent of the total employee manhours in each trade shall be by women.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1834" number="2093" version="2">
+						<PARA>
+							<TAB tab-count="1"/>For purposes of this paragraph worker hours shall include work performed by persons filling apprenticeship and on-the-job training positions.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1835" number="2094" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>In order to insure compliance with the ordinance, the provisions of the City of Boston Supplemental Minority participation and Residents Preference Section shall be included by each City Department in all contracts with any private corporation or individual for construction projects covered by this ordinance.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1836" number="2095" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>It is the policy of the City of Boston that all bidders and all subcontractors under the bidder for public construction projects subject to the provisions of G.L. c. 149, § 44a(2), shall as a condition for bidding, comply with the following conditions:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1837" number="2096" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>The bidder and all subcontractors under the bidder shall comply with the Boston Employment Plan as it currently exists (CBC Ord. § 8-9 et seq. and 12-10 et seq.) and as it may, from time to time, be amended.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1838" number="2097" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>The bidder and all subcontractors under the bidder shall comply with the obligations established under G.L. c. 149 to pay the appropriate lawful prevailing wage rates to their employees.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1839" number="2098" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>The bidder and all subcontractors under the bidder shall comply with the obligations established under G.L. c. 149, § 26 concerning the provision of hospitalization and medical benefits to the extent the requirements of G.L. c. 149, § 26 are applicable to public construction contracts in the City of Boston.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1840" number="2099" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>4.<TAB tab-count="1"/>The bidder and all subcontractors under the bidder shall comply with the obligations established under G.L. c. 149, § 148B and properly classify employees as employees and treat them accordingly for purposes of workers&apos; compensation insurance coverage, unemployment taxes, social security taxes, and income tax withholding.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1841" number="2100" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>5.<TAB tab-count="1"/>The bidder and all subcontractors under the bidder shall adhere to the requirements of this paragraph and G.L. c. 149 for public construction contracts, and shall be sanctioned accordingly for failure to do so. The City of Boston may sanction any bidder or subcontractor under a bidder who fails to maintain throughout the entire duration of a construction project, compliance with this policy or State law with one or more of the following sanctions:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1842" number="2101" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Cessation of work at no cost to the City of Boston until compliance is obtained.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1843" number="2102" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Removal from the project altogether.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1844" number="2103" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Withholding of payment until compliance is obtained.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1845" number="2104" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Liquidated damages based on the value of the contract.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1846" number="2105" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>6.<TAB tab-count="1"/>It is the policy of the City of Boston to report to the proper enforcement agency of the Commonwealth any contractor or subcontractor who the City of Boston deems in violation of any Massachusetts General Law which is applicable to City-owned construction projects.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1847" number="2106" version="2">
+						<PARA>(Ord. 1983 c. 30 § 3; Ord. 1998 c. 1 § 2)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1848" number="2107" version="21">
+					<HEADING> 8-9.3 Compliance, Enforcement, Sanctions.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.3" name="8-9.3"/>
+						<TAB tab-count="1"/>8-9.3<TAB tab-count="1"/>Compliance, Enforcement, Sanctions.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1849" number="2108" version="45">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>The agency, as defined in subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="8-9.1" destination-id="JD_8-9.1">8-9.1</LINK>, shall be designated as responsible for the planning, implementation and enforcement of this section, and shall have the following duties:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1850" number="2109" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Planning and Implementation</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">. Prior to the commencement of any construction project, capital works, or City economic development plan covered by this section, the agency shall:</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1851" number="2110" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>Review spending plans for such project;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1852" number="2111" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>Identify the number of job positions to be created by the project;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1853" number="2112" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>Specify training needed for entry level and semi-skilled positions by job title;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1854" number="2113" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>4.<TAB tab-count="1"/>In conjunction with appropriate unions and their existing collective bargaining agreements, recruit employees and arrange for training through established union apprenticeship programs; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1855" number="2114" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>5.<TAB tab-count="1"/>Establish a job screening and referral agency which shall refer City residents, minorities, and women to contractors and subcontractors to enable such contractors and subcontractors to comply with this section.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1856" number="2115" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>The Contract Compliance Office for the City of Boston shall be responsible for enforcing and monitoring compliance with the provisions of this section and for contract provisions established in accordance therewith shall have the following duties:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1857" number="2116" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>To require all contractors and subcontractors affected by this section to submit weekly workforce charts listing workers by name, residential address, craft, job category, hours worked, sex, race and apprenticeship participation. These charts shall be public records.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1858" number="2117" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>To negotiate with all contractors/developers in order to identify and classify construction jobs by job titles, hiring dates, duration and training.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1859" number="2118" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>To register all interested community-based organizations, and notify such organizations of any pre-award conferences between the agency and developer/contractor relating to hiring requirements and goals as stated herein.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1860" number="2119" version="45">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>The agency shall have the power, by means of the contract provisions referred to in subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="8-9.2" destination-id="JD_8-9.2">8-9.2</LINK>, to impose sanctions upon contractors and subcontractors found to be in noncompliance with this section. Such sanctions shall include, but not be limited to: (i) suspension of payments; (ii) termination of the contract; (iii) recovery by the City of .1 percent of the contract award price as liquidated damages; and (iv) denial of right to participate in future projects for up to three (3) years.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1861" number="2120" version="2">
+						<PARA>(Ord. 1983 c. 30 § 4; Ord. 1998 c.1 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1862" number="2121" version="21">
+					<HEADING> 8-9.4 Liaison Committee.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.4" name="8-9.4"/>
+						<TAB tab-count="1"/>8-9.4<TAB tab-count="1"/>Liaison Committee.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1863" number="2122" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The agency shall establish a liaison committee which shall meet monthly, in a forum open to the public, to review the agency&apos;s reports, monitor compliance with the provisions of the section, and make recommendations to the Agency and the City Council regarding enforcement of this section. The agency shall accept nominations of three (3) persons from interested groups including, but not limited to: Union Contractors, Non-Union Contractors, Boston Building Trades, State Office of Minority Business Assistance, Contractor Association of Boston, training agency personnel, human rights activist groups, women&apos;s organizations, community-based organizations and the Boston Chamber of Commerce. The agency shall thereafter select one person from those nominations submitted by each organization to serve without compensation for a term of two (2) years. This nomination and selection process shall be used to fill any vacancy.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1864" number="2123" version="2">
+						<PARA>(Ord. 1983 c. 30 § 5)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1865" number="2124" version="2">
+					<HEADING> 8-9.5 Training Program.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.5" name="8-9.5"/>
+						<TAB tab-count="1"/>8-9.5<TAB tab-count="1"/>Training Program.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1866" number="2125" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The City of Boston shall establish or cause to be established, either independently or in concert with craft unions, and construction contractors, job training programs to train minorities, Boston residents, and women for skilled or semi-skilled construction jobs; or, all bidders and all subcontractors under the bidder shall maintain and participate in an approved apprentice training program as defined by G.L. c. 23, § 11H and 11I for each apprenticeable trade or occupation represented in his or her workforce that is approved by the Division of Apprentice Training of the Department of Labor and Industries and must abide by the apprentice to journeymen ratio for each trade prescribed therein in the performance of the contract. These programs shall be supervised by the agency.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1867" number="2126" version="2">
+						<PARA>(Ord. 1983 c. 30 § 6; Ord. 1998 c.1 § 4)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1868" number="2127" version="21">
+					<HEADING> 8-9.6 Fines.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.6" name="8-9.6"/>
+						<TAB tab-count="1"/>8-9.6<TAB tab-count="1"/>Fines.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1869" number="2128" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Any person who provides false information regarding his or her residence address shall be subject to a fine of not more than three hundred ($300.00) dollars.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1870" number="2129" version="2">
+						<PARA>(Ord. 1983 c. 30 § 7)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1871" number="2130" version="21">
+					<HEADING> 8-9.7 Independent Agencies.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-9.7" name="8-9.7"/>
+						<TAB tab-count="1"/>8-9.7<TAB tab-count="1"/>Independent Agencies.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1872" number="2131" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Any and all activities of any independent agency, operating or acting on behalf of the City of Boston, including, but not limited to, the Boston Redevelopment Authority and the Economic Development and Industrial Corporation shall comply with the provisions of this section.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1873" number="2132" version="2">
+						<PARA>(Ord. 1983 c. 30 § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-1874" number="2133" version="21">
+				<HEADING>8-10 DISRUPTION MITIGATION PLAN FOR ROAD CONSTRUCTION PROJECTS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-10" name="8-10"/>8-10<TAB tab-count="1"/>DISRUPTION MITIGATION PLAN FOR ROAD CONSTRUCTION PROJECTS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1875" number="2134" version="2">
+					<HEADING> 8-10.1 Definitions.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-10.1" name="8-10.1"/>
+						<TAB tab-count="1"/>8-10.1<TAB tab-count="1"/>Definitions.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1876" number="2135" version="2">
+						<PARA>
+							<TAB tab-count="1"/>When used in this section:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1877" number="2136" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Major road construction project</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean a construction project involving a street or other roadway within the City which is expected to continue in excess of six (6) months and to cost more than one million ($1,000,000.00) dollars to complete.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1878" number="2137" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Affected area</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean the immediate area disrupted by a major road construction project, as determined by the Transportation Department.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1879" number="2138" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Small business</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean a business which 1) has fewer than twenty (20) full and part-time employees, and 2) had a yearly sales volume of less than one million ($1,000,000.00) dollars during its most recent fiscal year.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1880" number="2139" version="2">
+						<PARA>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+								<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+							</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Completion of a major construction project</CHARFORMAT>
+							<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0"> shall mean the date on which the Transportation Department accepts the project as finished.</CHARFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1881" number="2140" version="2">
+						<PARA>(Ord. 1990 c. 6 § 1)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1882" number="2141" version="2">
+					<HEADING> 8-10.2 Disruption Mitigation Plan.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-10.2" name="8-10.2"/>
+						<TAB tab-count="1"/>8-10.2<TAB tab-count="1"/>Disruption Mitigation Plan.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1883" number="2142" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The plans for all major road construction projects shall include a plan for minimizing the disruption to be caused to both small businesses and residents within the affected area. The types of disruption which must be minimized shall include, but shall not be limited to, disruption in the flow of vehicular and pedestrian traffic, loss of parking, interruption of utilities, storage of construction equipment, noise and dust, rodent infestations, deliveries to the construction site and to small businesses, and damage to landscaping. This disruption mitigation plan must be approved by the Transportation Department prior to the start of construction. No officer in charge of a department issuing a building permit, street occupancy permit or any other permit necessary for a major road construction project shall issue such a permit until the Transportation Department has approved that project&apos;s disruption mitigation plan. In addition, no officer authorized to enter into any contract for conducting any part of a major road construction project on any street, roadway or other land owned by the City or any of its agencies shall enter into such a contract unless that contract incorporates the provisions of the disruption mitigation plan approved by the Transportation Department.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1884" number="2143" version="2">
+						<PARA>(Ord. 1990 c. 6 § 2)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1885" number="2144" version="2">
+					<HEADING> 8-10.3 Disruption Impact Fund.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-10.3" name="8-10.3"/>
+						<TAB tab-count="1"/>8-10.3<TAB tab-count="1"/>Disruption Impact Fund.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1886" number="2145" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>All individuals, developers and general contractors performing any part of a major road construction project shall set aside an amount equal to one-half of one (.5%) percent of the expected total cost of the road construction work they are performing as a contingency fund for the reimbursement of damages to small businesses caused by disruption due to the project. This disruption impact fund shall be deposited with the Public Facilities Department prior to the start of construction. No street occupation permit or other permit issued by any officer in charge of a department with respect to a major road construction project shall be valid if the disruption impact fund is not on deposit with the Public Facilities Department.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1887" number="2146" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>If a small business within the affected area:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1888" number="2147" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>Suffers a decline in its gross receipts equal to or greater than twenty (20%) percent for any period of sixty (60) consecutive days during the course of the construction work; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1889" number="2148" version="2">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>That decline can be reasonably attributed to the disruption caused by the major road construction project, then that small business is eligible for reimbursement from the disruption impact fund in an amount equal to the direct and incidental damage to its business which is reasonably attributable to the disruption caused by the project. Compliance with the disruption mitigation plan by those parties performing the construction work shall in no way affect any small business&apos;s eligibility for reimbursements from the disruption impact fund. For the purposes of determining a decline in gross receipts, gross receipts for the relevant sixty (60) day period shall be compared with the average of the small business&apos; gross receipts from the same sixty (60) day period in the previous two (2) fiscal years.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1890" number="2149" version="2">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>The Public Facilities Department shall administer the disruption impact fund. However, eligibility for reimbursements from the disruption impact fund shall not be determined by the Public Facilities Department. Rather, eligibility for the reimbursements shall be determined by arbitration, in accordance with the Commercial Arbitration Rules of the American Arbitration Association.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1891" number="2150" version="2">
+						<PARA>
+							<TAB tab-count="1"/>d.<TAB tab-count="1"/>The Public Facilities Department shall prepare and distribute application forms for small businesses to use to document their claims. Small businesses shall return completed applications to the Public Facilities Department. Upon receiving a completed application from a small business, the Public Facilities Department 1) shall notify the individuals, developers or general contractors responsible for depositing the project&apos;s disruption impact fund of the small business&apos; claim, and 2) shall refer the small business&apos; claims for appropriate arbitration.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1892" number="2151" version="2">
+						<PARA>
+							<TAB tab-count="1"/>e.<TAB tab-count="1"/>The Public Facilities Department shall be responsible for disbursing the reimbursements from the disruption impact fund to those small businesses the arbitrator determines to be eligible. The individuals, developers or general contractors responsible for initially depositing the disruption impact fund for the project shall reimburse the disruption fund for all disbursements made from the fund to small businesses and for all disbursements made to pay the fees for the arbitration. No street occupation permit or other permit issued by any officer in charge of a department with respect to a major road construction project shall be valid if the disruption impact fund is not regularly replenished after the Public Facilities Department makes disbursements from the fund.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1893" number="2152" version="2">
+						<PARA>
+							<TAB tab-count="1"/>f.<TAB tab-count="1"/>Small businesses may apply to the Public Facilities Department for reimbursements from the disruption impact fund as soon as they believe they meet the eligibility criteria, but they must apply no later than thirty (30) days after completion of the major road construction project. Small businesses may make successive reimbursement applications during the course of the construction work if the small business continues to suffer qualifying declines in business.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1894" number="2153" version="2">
+						<PARA>
+							<TAB tab-count="1"/>g.<TAB tab-count="1"/>When ninety (90) days have passed after the completion of a major road construction project and all outstanding claims for reimbursement made to the Public Facilities Department have been finally resolved, the Public Facilities Department shall return any funds remaining in the disruption impact fund to the individual, developer or general contractor who originally deposited those funds with the Public Facilities Department.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1895" number="2154" version="2">
+						<PARA>(Ord. 1990 c. 6 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-1896" number="2155" version="2">
+					<HEADING> 8-10.4 Severability.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_8-10.4" name="8-10.4"/>
+						<TAB tab-count="1"/>8-10.4<TAB tab-count="1"/>Severability.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-1897" number="2156" version="2">
+						<PARA>
+							<TAB tab-count="1"/>If any court of competent jurisdiction holds any provision or subsection of this section to be unconstitutional or otherwise invalid, that decision shall in no way affect or impair the other provisions and subsections.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-1898" number="2157" version="2">
+						<PARA>(Ord. 1990 c. 6 § 4)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-15841" number="2158" version="269">
+				<HEADING>8-11 NAMING OF MUNICIPAL BUILDINGS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_8-11" name="8-11"/>8-11<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+						<TAB tab-count="1"/>NAMING OF MUNICIPAL BUILDINGS.</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-15842" number="2159" version="269">
+					<HEADING> 8-11.1 Naming of Municipal Buildings.</HEADING>
+					<PARA>
+						<TAB tab-count="1"/>
+						<DESTINATION id="JD_8-11.1" name="8-11.1"/>8-11.1<TAB tab-count="1"/>Naming of Municipal Buildings.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-15843" number="2160" version="269">
+						<PARA>
+							<TAB tab-count="1"/>The Public Facilities Commission shall have the exclusive authority in naming municipal buildings.&#160; The Public Facilities Commission shall provide notice in writing to the City Council when naming municipal buildings.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-15844" number="2161" version="269">
+						<PARA>(Ord. 2013 c. 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

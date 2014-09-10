@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-15234" indent="0">CHAPTER XIII RESERVED</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-15234" number="4946" version="252">
+			<HEADING>CHAPTER XIII   RESERVED</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERXIII" name="CHAPTER XIII"/>CHAPTER XIII&#160; <LINEBRK/>RESERVED</PARA>
+		</RECORD>
+	</LEVEL>
+</DOCUMENT>

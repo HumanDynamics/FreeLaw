@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-1" indent="0">CITY OF BOSTON MUNICIPAL CODE</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-1" number="1" version="239">
+			<HEADING>CITY OF BOSTON MUNICIPAL CODE</HEADING>
+			<PARA><DESTINATION/>CITY OF BOSTON<LINEBRK/>MUNICIPAL CODE</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-2" number="2" version="258">
+				<PARA>
+					<TABLE>
+						<TABLEFORMAT number-of-widths="2" horizontal-alignment="2" left-border-space="0" left-border-width="30" left-border-color="#000000" right-border-space="0" right-border-width="30" right-border-color="#000000" top-border-space="0" top-border-width="30" top-border-color="#000000" bottom-border-space="0" bottom-border-width="30" bottom-border-color="#000000" horizontal-border-space="0" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="0" vertical-border-width="15" vertical-border-color="#000000">
+							<COLUMNFORMAT column-width="225" percentage="no"/>
+							<COLUMNFORMAT column-width="313" percentage="no"/>
+						</TABLEFORMAT>
+						<ROW>
+							<COL>
+								<PARA style-name="Intro" style-name-escaped="Intro" style-id="0-0-0-7251">
+									<PARAFORMAT justify="center" left-indent="0">
+										<CELLFORMAT left-border-space="0" left-border-width="0" left-border-color="#000000" right-border-space="0" right-border-width="0" right-border-color="#000000" top-border-space="0" top-border-width="0" top-border-color="#000000" bottom-border-space="0" bottom-border-width="0" bottom-border-color="#000000">
+											<PICTURE id="0-0-0-7158-img" object-class="Folio Objects" name="bostonseal.bmp" href="#!-- #ID:boston0-0-0-7158-img --#" width="4425" height="4155" left-border-line-color="0" left-border-line-width="0" left-border-space="0" right-border-line-color="0" right-border-line-width="0" right-border-space="0" top-border-line-color="0" top-border-line-width="0" top-border-space="0" bottom-border-line-color="0" bottom-border-line-width="0" bottom-border-space="0"/>
+										</CELLFORMAT>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA style-name="Intro" style-name-escaped="Intro" style-id="0-0-0-7251">
+									<PARAFORMAT justify="center">
+										<CELLFORMAT left-border-space="0" left-border-width="0" left-border-color="#000000" right-border-space="0" right-border-width="0" right-border-color="#000000" top-border-space="0" top-border-width="0" top-border-color="#000000" bottom-border-space="0" bottom-border-width="0" bottom-border-color="#000000">
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Contains local legislation current through Ord. 2013, c. 10, passed 11-26-13<LINEBRK/>
+												<LINEBRK/>
+											</CHARFORMAT>
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12" background-color-auto="1">Published by:</CHARFORMAT>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="12" background-color-auto="1">
+												<LINEBRK/>
+											</CHARFORMAT>
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" point-size="14" background-color-auto="1">American Legal Publishing Corporation </CHARFORMAT>
+											
+											
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">
+												<LINEBRK/>432 Walnut Street, 12th Floor<LINEBRK/>Cincinnati, Ohio&#160; 45202<LINEBRK/>Tel: (800) 445-5588<LINEBRK/>Fax: (513) 763-3562<LINEBRK/>Email: customerservice@amlegal.com<LINEBRK/>Internet: <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-5461" type="Web" url="http://www.amlegal.com">http://www.amlegal.com</LINK>
+											</CHARFORMAT>
+										</CELLFORMAT>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+					</TABLE>
+				</PARA>
+				<PARA>
+					<PARAFORMAT justify="center">
+					</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

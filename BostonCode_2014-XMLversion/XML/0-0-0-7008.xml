@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-7008" indent="0">CHAPTER XXII SUFFOLK COUNTY</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-7008" number="8715" version="8">
+			<HEADING>CHAPTER XXII   SUFFOLK COUNTY</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERXXII" name="CHAPTER XXII"/>CHAPTER XXII&#160; <LINEBRK/>SUFFOLK COUNTY</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7009" number="8716" version="2">
+				<HEADING>22-1 SUFFOLK COUNTY COURTHOUSE COMMISSION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_22-1" name="22-1"/>22-1<TAB tab-count="1"/>SUFFOLK COUNTY COURTHOUSE COMMISSION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7010" number="8717" version="38">
+					<PARA>
+						<TAB tab-count="1"/>No Ordinances Apply. See Special Statutes<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">. </CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7011" number="8718" version="38">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(CBC 1975 <FIELD style-name="" style-name-escaped="invalid-characters-in-style-name" name="" id="0-0-0-11">St. T18</FIELD> c. 1)</CHARFORMAT>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7012" number="8719" version="2">
+				<HEADING>22-2 SUFFOLK COUNTY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_22-2" name="22-2"/>22-2<TAB tab-count="1"/>SUFFOLK COUNTY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7013" number="8720" version="38">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>No Ordinances Apply. See Special Statutes. </CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7014" number="8721" version="38">
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">(CBC 1975 <FIELD style-name="" style-name-escaped="invalid-characters-in-style-name" name="" id="0-0-0-11">St. T18</FIELD> c. 3)</CHARFORMAT>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

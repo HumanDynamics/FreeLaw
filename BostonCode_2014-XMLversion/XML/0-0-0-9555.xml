@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-9555" indent="0">CHAPTER I GENERAL PROVISIONS</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-9555" number="6" version="6">
+			<HEADING>CHAPTER I  GENERAL PROVISIONS</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERI" name="CHAPTER I"/>CHAPTER I <LINEBRK/>GENERAL PROVISIONS</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-3" number="7" version="2">
+				<HEADING>1-1 DEFINITIONS AND RULES OF CONSTRUCTION.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-1" name="1-1"/>1-1<TAB tab-count="1"/>DEFINITIONS AND RULES OF CONSTRUCTION.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4" number="8" version="2">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The following rules of construction shall be observed for this and every other ordinance, unless inconsistent with the manifest intent of the City Council or the context of the ordinance:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5" number="9" version="2">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The repeal of an ordinance shall not revive an ordinance in force before, or at the time when, the ordinance repealed took effect.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6" number="10" version="2">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The repeal of an ordinance shall not affect any punishment or penalty incurred before the repeal took effect, or any suit, prosecution, or proceeding pending at the time of the repeal, for a violation of such ordinance.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7" number="11" version="2">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Words importing the singular shall include the plural, words importing the plural shall include the singular, and words importing the masculine gender shall include women and boards.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-8" number="12" version="2">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The word “street” shall mean and include all public ways, alleys, lanes, courts, and sidewalks, and those parts of public squares and places which form travelled parts of highways.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-9" number="13" version="2">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>The words “public grounds” shall mean and include the common and public garden, the public lands under the charge of the parks and recreation department, and those parts of public squares and places which do not form travelled parts of highways.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-10" number="14" version="2">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The word “owner,” applied to a building or land, shall mean and include any part owner, joint owner, tenant in common, or joint tenant, of the whole or of a part of such building or land.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-11" number="15" version="2">
+					<PARA>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>The word “tenant” or “occupant,” applied to a building or land, shall mean and include any person who occupies the whole or a part of such building or land, either alone or with others.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-12" number="16" version="2">
+					<PARA>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>The word “person” shall mean and include firms and corporations.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13" number="17" version="2">
+					<PARA>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>The word “officer” shall mean and include officers and boards in charge of departments and the members of such boards; and the word “subordinate” shall include all assistants, deputies, and employees appointed by an officer.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-14" number="18" version="2">
+					<PARA>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>The words “Faneuil-Hall market” shall mean and include the lower floors, porches, and cellar of the building called “Faneuil Hall.”</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-15" number="19" version="2">
+					<PARA>
+						<TAB tab-count="1"/>11.<TAB tab-count="1"/>The words “Faneuil-Hall market limits” shall mean and include Faneuil-Hall market as above defined, and the territory included within the following boundary, viz.: Beginning in the northerly line of North Market Street extended, at a point thirty-five (35&apos;) feet distant westerly from the sidewalk on the easterly side of Commercial Street; thence parallel with and thirty-five (35&apos;) feet distant westerly from said sidewalk, to a line thirty-five (35&apos;) feet distant northerly from the sidewalk on the southerly side of South Market Street extended; thence by a line parallel with and thirty-five (35&apos;) feet distant northerly from said sidewalk to Merchants Row; thence diagonally across Merchants Row to the nearest point in a line twenty (20&apos;) feet distant northerly from the sidewalk on the southerly side of Faneuil Hall Square; thence by a line parallel with and twenty (20&apos;) feet outside of the sidewalk of said square and North Market Street to Merchants Row; thence diagonally across said Merchants Row to the northeast corner of said Merchants Row and North Market Street; thence by the northerly side of said North Market Street to the point of beginning; but excluding any territory which is the subject of that certain redevelopment agreement made as of May 21, 1974, by and between the Boston Redevelopment Authority and Faneuil Hall Marketplace, Inc.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-16" number="20" version="2">
+					<PARA>
+						<TAB tab-count="1"/>12.<TAB tab-count="1"/>The words “Market limits,” without any words of limitation preceding them, shall mean and include the territory bounded as follows: Beginning at the southerly corner of Atlantic Avenue and State Street; thence running west by the southerly line of State Street to India Street; thence north to the center line of State Street; thence west by the center line of State Street to the line of the curbstone on the easterly side of Commercial Street produced to the centerline of State Street; thence north by the line of the curbstone on the easterly side of Commercial Street produced to the center of State Street to a point in the curbstone on the easterly side of Commercial Street opposite the corner of said street and State Street; thence west across Commercial Street to the westerly corner of Commercial Street and State Street; thence north by the westerly line of Commercial Street to Chatham Street; thence west by the southerly line of Chatham Street and by said line produced to the westerly line of Merchants Row; thence north by the westerly line, west by the southerly line, and again north by the westerly line of Merchants Row to Faneuil Hall Square; thence west by the southerly line and north by the westerly line of Faneuil Hall Square to Dock Square; thence west by the southerly line of Dock Square to Exchange Street; thence north by the easterly line of Exchange Street produced across Dock Square; thence north by the westerly line of Dock Square and across Elm Street to the corner of Elm and Union Streets; thence north by the westerly line of Union Street to the southerly corner of Friend and Union Streets; thence east across Union Street to the corner of Union and North Streets; thence east by the northerly line and northeast by the northwesterly line of North Street to Blackstone Street; thence northwest by the southwesterly line of Blackstone Street to Haymarket Square; thence north across Blackstone Street to the corner of Cross and Blackstone Streets; thence southeast by the northeasterly line of Blackstone Street to the corner of Blackstone and North Streets; thence northeast by the northwesterly line of North Street to the northerly corner of North and Richmond Streets; thence crossing North Street, southeast by the northeasterly line and east by the northerly line of Richmond Street to the northerly corner of said street and Atlantic Avenue; thence east by the northerly line of Richmond Street produced across Atlantic Avenue to the easterly side thereof; thence south by the easterly line of Atlantic Avenue to the northerly corner of said avenue and India Wharf; thence west across Atlantic Avenue to the northerly corner of said avenue and India Street; and thence north by the westerly line of Atlantic Avenue to the point of beginning. All said Faneuil-Hall Market limits are shown in red, and said Market limits are shown in blue, on a plan numbered L-2826 and marked: “Faneuil Hall Market Limits and Market Limits in the City of Boston, February 16,1897, William Jackson, City Engineer,” and filed in the office of the commissioner of public works; but excluding any territory which is the subject of that certain redevelopment agreement made as of May 21, 1974, by and between the Boston Redevelopment Authority and Faneuil Hall Marketplace, Inc.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-17" number="21" version="2">
+					<PARA>
+						<TAB tab-count="1"/>13.<TAB tab-count="1"/>Words purporting to give a joint authority to three (3) or more officers or other persons shall be construed as giving such authority to a majority of such officers or persons.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-18" number="22" version="2">
+					<PARA>
+						<TAB tab-count="1"/>14.<TAB tab-count="1"/>Words prohibiting anything from being done, except in accordance with a license or permit or authority from a board or officer, shall be construed as giving such board or officer power to license or permit or authorize such thing to be done.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-19" number="23" version="7">
+					<PARA>(Para 5. Ord. 1954 c. 2 §1; Para 9. Ord. 1953 c.8 §1; Para 10. Ord. 1974 c.15 § 1; Para 11. Ord. May 18, 1866, Ord. 1974 c. 15 § 2; Para 12. St. 1896 c. 376, St. 1907 c. 584, Ord. 1954 c. 2 §1; Ord. 1974 c. 15 § 3; Rev. Ord. 1961 c. 1 § 1; Ord. 1974 c. 15; CBC 1975 Ord. T1 § 1)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-20" number="24" version="2">
+				<HEADING>1-2 CITY SEAL AND CITY FLAG.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-2" name="1-2"/>1-2<TAB tab-count="1"/>CITY SEAL AND CITY FLAG.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-21" number="25" version="2">
+					<HEADING> 1-2.1 City Seal.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.1" name="1-2.1"/>
+						<TAB tab-count="1"/>1-2.1<TAB tab-count="1"/>City Seal.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-22" number="26" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The seal of the City shall be circular in form, shall bear a view of the City, the motto SICUT PATRIBUS, SIT DEUS NOBIS, and the inscription, BOSTONIA CONDITA AD. 1630 CIVITATIS REGIMINE DONATA AD. 1822, as herewith shown.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-23" number="27" version="54">
+						<PARA>
+							<PARAFORMAT justify="center">
+								<PICTURE id="0-0-0-7158-img" object-class="Folio Objects" name="bostonseal.bmp" href="#!-- #ID:boston0-0-0-7158-img --#" width="4815" height="4665" left-border-line-color="0" left-border-line-width="0" left-border-space="0" right-border-line-color="0" right-border-line-width="0" right-border-space="0" top-border-line-color="0" top-border-line-width="0" top-border-space="0" bottom-border-line-color="0" bottom-border-line-width="0" bottom-border-space="0"/>
+							</PARAFORMAT>
+						</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-24" number="28" version="2">
+						<PARA>(Ord. January 2, 1823; Rev. Ord. 1961 c. 1 § 5; CBC 1975 Ord. T1 § 2)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-25" number="29" version="7">
+					<HEADING> 1-2.2 Municipal Standard and City Flag.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.2" name="1-2.2"/>
+						<TAB tab-count="1"/>1-2.2<TAB tab-count="1"/>Municipal Standard and City Flag.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-26" number="30" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The municipal standard of the City of Boston, which is hereby established, shall be made of silk of the colors designated, namely: Continental blue and buff, and shall be five (5&apos;) feet in length and three and one-half (3½&apos;) feet in width, or in proportion thereto. Provided, that a City flag of like design and colors may be made of bunting for outdoor display, the size of such bunting flag to depend upon the place of display. The body of the standard shall be blue, as specified, with the official City seal embroidered in the center; and two (2) rings of white shall encircle the seal. The reverse of the municipal standard shall bear a representation of the Trimountain. The City flag shall have no reverse except the seal showing through the bunting, the seal to be painted on or woven in the fabric. The municipal standard shall have a fringe of Continental buff; the City flag shall be without fringe.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-27" number="31" version="2">
+						<PARA>(Ord. 1961 c. 8; Rev. Ord. 1961 c. 1 § 6; CBC 1975 Ord. T1 § 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-28" number="32" version="2">
+					<HEADING> 1-2.3 City Colors.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.3" name="1-2.3"/>
+						<TAB tab-count="1"/>1-2.3<TAB tab-count="1"/>City Colors.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-29" number="33" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The colors herein specified shall be the official colors for the City of Boston, namely: Continental blue and Continental buff. </PARA>
+					</RECORD>
+					<RECORD id="0-0-0-30" number="34" version="2">
+						<PARA>(Rev. Ord. 1961 c. 1 § 7; CBC 1975 Ord. T1 § 4)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-31" number="35" version="2">
+					<HEADING> 1-2.4 Displaying Flag on City Hall and Boston Common.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.4" name="1-2.4"/>
+						<TAB tab-count="1"/>1-2.4<TAB tab-count="1"/>Displaying Flag on City Hall and Boston Common.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-32" number="36" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The City flag shall be displayed on City Hall and may be displayed on Boston Common on occasions when the national flag is ordered displayed.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-33" number="37" version="2">
+						<PARA>(Rev. Ord. 1961 c. 1 § 8; CBC 1975 Ord. T1 § 5)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-34" number="38" version="2">
+					<HEADING> 1-2.5 Further Uses of Flag.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.5" name="1-2.5"/>
+						<TAB tab-count="1"/>1-2.5<TAB tab-count="1"/>Further Uses of Flag.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-35" number="39" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The municipal standard of silk may be carried or displayed in parades, at reviews, and on other official occasions when the Mayor is present and when directed by him. Boston organizations may have copies of the municipal standard on approval by the Mayor.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-36" number="40" version="2">
+						<PARA>(Rev. Ord. 1961 c. 1 § 9; CBS 1975 Ord. T1, § 6)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-37" number="41" version="2">
+					<HEADING> 1-2.6 Prohibitions on Use of Flag.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.6" name="1-2.6"/>
+						<TAB tab-count="1"/>1-2.6<TAB tab-count="1"/>Prohibitions on Use of Flag.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-38" number="42" version="2">
+						<PARA>
+							<TAB tab-count="1"/>Neither the municipal standard nor the City flag nor any reproduction shall be used for any commercial purpose, and no advertising device shall be placed upon it or used in connection with it; and the municipal flag or standard shall not be used for any purpose not authorized by the foregoing sections, except with the permission of the Mayor.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-39" number="43" version="2">
+						<PARA>(Rev. Ord. 1961 c. 1 § 10; CBC 1975 Ord. T1 § 7)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-40" number="44" version="2">
+					<HEADING> 1-2.7 Penalties.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.7" name="1-2.7"/>
+						<TAB tab-count="1"/>1-2.7<TAB tab-count="1"/>Penalties.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-41" number="45" version="45">
+						<PARA>
+							<TAB tab-count="1"/>Any person violating any provision of subsection <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="1-2.6" destination-id="JD_1-2.6">1-2.6</LINK> shall be punished by a fine not exceeding twenty ($20.00) dollars for each offense, and not only the person actually doing the prohibited thing, but also his employer and every other person concerned in so doing shall be punished by such fine.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-42" number="46" version="2">
+						<PARA>(Rev. Ord. 1961 c. 1 § 11; CBC 1975 Ord. T1 § 8)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-43" number="47" version="2">
+					<HEADING> 1-2.8 Custodian.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-2.8" name="1-2.8"/>
+						<TAB tab-count="1"/>1-2.8<TAB tab-count="1"/>Custodian.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-44" number="48" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The City messenger shall be custodian of the municipal standard and of the City flag.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-45" number="49" version="2">
+						<PARA>(Rev. Ord. 1961 c. 1 § 12; CBC 1975 Ord. T1 § 9)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-46" number="50" version="2">
+				<HEADING>1-3 DISPLAY OF UNITED STATES FLAG.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-3" name="1-3"/>1-3<TAB tab-count="1"/>DISPLAY OF UNITED STATES FLAG.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-47" number="51" version="2">
+					<PARA>
+						<TAB tab-count="1"/>The United States flag shall be displayed, unless the weather is unsuitable, upon the City Hall on every day except Sunday, and upon the other public buildings and public places where flag poles are available on Franklin&apos;s Birthday, January 17; Lincoln&apos;s Birthday, February 12; Washington&apos;s Birthday, February 22; Evacuation Day, March 17; Patriots&apos; Day, April 19; Grant&apos;s Birthday, April 27; Memorial Day, May 30; Flag Day, June 14; Bunker Hill Day, June 17; Independence Day, July 4; Labor Day, first Monday in September; anniversary of the settlement of Boston, September 17; Columbus Day, October 12; Veterans Day, November 11; and on such other days as the Mayor or the City Council may from time to time order. Whenever any of the above-named days fall on Sunday the flags shall be displayed on the following day. It shall be the duty of the assistant commissioner of real property to display the flag in accordance with this section upon the City Hall and other public buildings under his care, custody and management.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-48" number="52" version="2">
+					<PARA>(Ord. 1944 c. 2; Ord. 1953 c. 4 § 3; Ord. 1954 c. 2 § 79; Rev. Ord. 1961 c. 1 § 13; CBC 1975 Ord. T1 § 10)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-49" number="53" version="2">
+				<HEADING>1-4 CITY AUTOMOBILES.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-4" name="1-4"/>1-4<TAB tab-count="1"/>CITY AUTOMOBILES.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-50" number="54" version="2">
+					<PARA>
+						<TAB tab-count="1"/>All automobiles owned by the City shall be registered in its name, and shall be painted a uniform distinctive color, bearing on each side the words “City of Boston” and also a designation in words showing by which department such automobiles are used; provided, however, that the automobiles of the fire department may be painted red.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-51" number="55" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No department, agency, board, or division of the City of Boston shall purchase, lease, rent or otherwise acquire any passenger automobile certified by the Environmental Protection Agency of the United States as having a city mileage rate of less than twenty-four (24) miles per gallon of gasoline. The provisions of this ordinance shall not apply to vehicles used for security, emergency and for rescue purposes.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-52" number="56" version="2">
+					<PARA>(Ord. 1909 c. 9; Rev. Ord. 1961 c. 1 § 14; CBC 1975 Ord. T1 § 11; Ord. 1980 c. 14)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-53" number="57" version="2">
+				<HEADING>1-5 CONTROL OF ROOMS IN CITY HALL.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-5" name="1-5"/>1-5<TAB tab-count="1"/>CONTROL OF ROOMS IN CITY HALL.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-54" number="58" version="2">
+					<PARA>
+						<TAB tab-count="1"/>In the City Hall the rooms used by the Mayor shall be under his control; the rooms used by the City Clerk shall be under his control; and the rooms used by the City Council shall, except as ordered by the City Council, be under the control of the president of the City Council. All rooms in the City Hall, the City Hall Annex and other public buildings, not assigned by this ordinance, may be assigned by the assistant commissioner of real property with the approval of the Mayor.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-55" number="59" version="2">
+					<PARA>(Ord. 1954 c. 2 § 1; Rev. Ord. 1961 c. 1 § 15; CBC 1975 Ord. T1 § 12)</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-57" number="60" version="7">
+					<PARA>
+						
+						<CHARFORMAT bold="1" italic="1" underline="0" strike-out="0" hidden="0">Cross-reference:</CHARFORMAT>
+						
+						<LINEBRK/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+							<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="11-7.4" destination-id="JD_11-7.4">Ord. ss 11-7.4</LINK>
+						</CHARFORMAT>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-58" number="61" version="2">
+				<HEADING>1-6 PROHIBITING ADVERTISING OF NAME OF ELECTED OFFICIAL ON CITY PUBLICATIONS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-6" name="1-6"/>1-6<TAB tab-count="1"/>PROHIBITING ADVERTISING OF NAME OF ELECTED OFFICIAL ON CITY PUBLICATIONS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-59" number="62" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Unless expressly authorized by the Mayor and City Council the name, title, photograph or other image of any City official shall not appear on any publication, pamphlet, television or radio advertising, or advertising display of any description paid for in whole or in part from funds appropriated by the City Council or from funds requiring approval of the Council prior to expenditure.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-60" number="63" version="2">
+					<PARA>(Ord. 1979 c. 11)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-61" number="64" version="2">
+				<HEADING>1-7 PROHIBITING USE OF WORD MAYOR IN TITLES OF PERSONS NOT SO DESIGNATED BY STATUTE.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_1-7" name="1-7"/>1-7<TAB tab-count="1"/>PROHIBITING USE OF WORD MAYOR IN TITLES OF PERSONS NOT SO DESIGNATED BY STATUTE.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-62" number="65" version="2">
+					<HEADING> 1-7.1 Use of Title “Mayor.”</HEADING>
+					<PARA>
+						<DESTINATION id="JD_1-7.1" name="1-7.1"/>
+						<TAB tab-count="1"/>1-7.1<TAB tab-count="1"/>Use of Title “Mayor.”</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-63" number="66" version="2">
+						<PARA>
+							<TAB tab-count="1"/>No person in the City service or employ, other than the lawfully elected Mayor and the Acting Mayor chosen in accordance with the provisions of City of Boston Code, Statute 2, Section 4, shall use or be entitled to use the word Mayor in the title of any position held by such person in such service or employ. Any position presently existing or purporting to exist which conflicts with the provisions of this section shall be, and hereby is, abolished. The Collector-Treasurer shall be, and hereby is, prohibited from making any payments of City funds for the salary of any person holding or purporting to hold any position in conflict with this section.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-64" number="67" version="2">
+						<PARA>(Ord. 1979 c. 41 § 11)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

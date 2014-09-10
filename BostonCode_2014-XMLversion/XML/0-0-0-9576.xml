@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-9576" indent="0">CITY OFFICIALS</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-9576" number="3" version="7">
+			<HEADING>CITY OFFICIALS</HEADING>
+			<PARA><DESTINATION/>CITY OFFICIALS</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-12501" number="4" version="261">
+				<PARA>
+					<TABLE>
+						<TABLEFORMAT number-of-widths="2" horizontal-alignment="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+							<COLUMNFORMAT column-width="226" percentage="no"/>
+							<COLUMNFORMAT column-width="211" percentage="no"/>
+						</TABLEFORMAT>
+						</TABLE>
+<SCROLL_TABLE id="scroll1">
+<TABLEFORMAT number-of-widths="2" horizontal-alignment="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+							<COLUMNFORMAT column-width="226" percentage="no"/>
+							<COLUMNFORMAT column-width="211" percentage="no"/>
+						</TABLEFORMAT>
+<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL cells-merged-right="1">
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Martin J. Walsh, </CHARFORMAT>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0" point-size="12">Mayor</CHARFORMAT>
+											
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL cells-merged-right="1">
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">City Council – 2014</CHARFORMAT>
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL cells-merged-right="1">
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Bill Linehan, </CHARFORMAT>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0" point-size="12">President</CHARFORMAT>
+											
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Frank Baker</CHARFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Stephen J. Murphy</CHARFORMAT>
+									
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Mark S. Ciommo</CHARFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Matt O&apos;Malley</CHARFORMAT>
+									
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Michael Flaherty</CHARFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Ayanna Pressley</CHARFORMAT>
+									
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Tito Jackson</CHARFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Michelle Wu </CHARFORMAT>
+									
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Salvatore LaMattina</CHARFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Charles C. Yancey</CHARFORMAT>
+									
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Timothy McCarthy</CHARFORMAT>
+								</PARA>
+							</COL>
+							<COL>
+								<PARA>
+									
+									<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Councilor Josh Zakim</CHARFORMAT>
+									
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL cells-merged-right="1">
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Maureen Feeney, </CHARFORMAT>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0" point-size="12">City Clerk</CHARFORMAT>
+											
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+						<ROW>
+							<COL>
+								<PARA>
+									<PARAFORMAT justify="center">
+										<CELL cells-merged-right="1">
+											<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" point-size="12">Eugene L. O&apos;Flaherty, </CHARFORMAT>
+											<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0" point-size="12">Corporation Counsel</CHARFORMAT>
+											
+										</CELL>
+									</PARAFORMAT>
+								</PARA>
+							</COL>
+						</ROW>
+					</SCROLL_TABLE>
+				</PARA>
+				<PARA>
+					
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-12504" number="5" version="242">
+				<PARA style-name="Intro" style-name-escaped="Intro" style-id="0-0-0-7251">
+					<PARAFORMAT justify="center">Contains local legislation current through Ord. 2012, c. 9, passed 12-28-12</PARAFORMAT>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-7015" indent="0">CHAPTER XXIII TRASH AND REFUSE DISPOSAL</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-7015" number="8722" version="8">
+			<HEADING>CHAPTER XXIII   TRASH AND REFUSE DISPOSAL</HEADING>
+			<PARA>
+				<DESTINATION id="JD_CHAPTERXXIII" name="CHAPTER XXIII"/>CHAPTER XXIII&#160; <LINEBRK/>TRASH AND REFUSE DISPOSAL</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7016" number="8723" version="2">
+				<HEADING>23-1 TRANSPORTATION OF REFUSE.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-1" name="23-1"/>23-1<TAB tab-count="1"/>TRANSPORTATION OF REFUSE.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7019" number="8724" version="187">
+					<PARA>
+						<TAB tab-count="1"/>No person, other than employees of the City or of a contractor acting for the City while engaged in public work, shall transport or carry refuse in, upon or through any street except in accordance with a permit from the Commissioner of Public Works, who shall forthwith revoke such permit if the permittee transports or carries to any refuse disposal incinerator constructed, maintained and operated by the City any refuse originating outside the City. The word “refuse,” as used in this paragraph, shall be construed to include rubbish, ashes, nonputrescible industrial wastes, and street cleanings, but not garbage, offal or other offensive substances coming within Sections 31A and 31B of Chapter 111 of the General Laws.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13439" number="8725" version="187">
+					<PARA>(CBC 1975 Ord. T14 § 264; Recodified by Ord. 1991 c. 5 § 28; Ord. 2008 c. 3)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7020" number="8726" version="2">
+				<HEADING>23-2 DUMPSTERS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-2" name="23-2"/>23-2<TAB tab-count="1"/>DUMPSTERS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7021" number="8727" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No person shall, in or upon any way, street, alley, or other public place within the City, nor in or upon any estate within the City, maintain a dumpster so-called, being a device used or intended for the storage of one cubic yard or more of trash, rubbish, construction debris, or the like, unless the same is maintained agreeably to any regulation promulgated by the Commissioner of Public Works nor unless bearing a number issued by the said Commissioner to the owner of the dumpster, annually, upon payment of a filing fee of ten ($10.00) dollars plus two ($2.00) dollars per dumpster.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7022" number="8728" version="39">
+					<PARA>(Ord. 1986 c. 15 § 2; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7023" number="8729" version="2">
+				<HEADING>23-3 PROHIBITING THE OPERATION OF REFUSE TREATMENT AND DISPOSAL FACILITIES IN THE CITY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-3" name="23-3"/>23-3<TAB tab-count="1"/>PROHIBITING THE OPERATION OF REFUSE TREATMENT AND DISPOSAL FACILITIES IN THE CITY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7024" number="8730" version="2">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>No person shall operate, establish, or maintain, nor shall any place within the City of Boston be operated, established, or maintained for a refuse treatment or disposal facility. For purposes of this subsection, the term “refuse treatment and disposal facility” shall include a sanitary landfill, a refuse composting plant, a dumping ground for refuse, or any other works for treatment or disposing of refuse; and “refuse” shall mean all solid or liquid waste materials, including garbage and rubbish, but not including sewage.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7025" number="8731" version="2">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>This subsection shall not apply to any refuse treatment and disposal facility lawfully in existence upon the effective date of this ordinance, nor shall it apply to any refuse transfer station lawfully in existence or undergoing review, in accordance with the provisions of General Laws c. 111, s. 150A should such review result in a site assignment within the term of that section, upon the effective date of this ordinance (subsection), nor shall it apply to any waste to energy recovery facility operated by, or under contract with the City of Boston; provided, however, that this paragraph b. shall not apply to afford an exception in the case of or with respect to any parcel or parcels within said City now, or in the ten (10) years preceding the effective date of this ordinance (subsection), upon which the commercial removal of stone, block, or any mineral, mining, or quarrying activity has been performed.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7026" number="8732" version="2">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>This subsection shall not apply to any on site energy recovery waste disposal system which serves only the building within which it is located.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7027" number="8733" version="2">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Every new refuse transfer station shall be in a completely enclosed, covered structure and be located in an area zoned for industrial use.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7028" number="8734" version="39">
+					<PARA>(Ord. 1976 c. 13 §§ 1, 2; Ord. 1981 c. 4 § 3; Ord. 1983 c. 34 §§ 2, 3, 4; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7030" number="8735" version="39">
+					<PARA style-name="Cross Reference" style-name-escaped="Cross-Reference" style-id="0-0-0-5519">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s Note:</CHARFORMAT>
+						<LINEBRK/>
+						<TAB tab-count="1"/>The effective date of this subsection is November 3, 1976.</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7031" number="8736" version="2">
+				<HEADING>23-4 MEDICAL WASTE DISPOSAL.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-4" name="23-4"/>23-4<TAB tab-count="1"/>MEDICAL WASTE DISPOSAL.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7032" number="8737" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No person shall store, keep, transport, dispose or prepare for transport or disposal of infectious and/or hazardous medical waste as that term is defined in the Code of Massachusetts Regulations, except in accord with such regulations, nor unless the same are wrapped or placed in a container which will prevent puncture by, or spillage of, such waste, nor unless the same is then bagged in a plastic or craft paper container (meeting the requirements of the ordinances for strength) marked “INFECTIOUS AND/OR HAZARDOUS MEDICAL WASTE”. No person shall dispose of such waste in any manner inconsistent with state or federal law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7033" number="8738" version="39">
+					<PARA>(Ord. 1988 c. 17 § 1; Recodified by Ord. 1991 c. 5 §§ 19, 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7034" number="8739" version="39">
+				<HEADING>23-5 RUBBISH DISPOSAL.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-5" name="23-5"/>23-5<TAB tab-count="1"/>RUBBISH DISPOSAL.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7035" number="8740" version="2">
+					<PARA>
+						<TAB tab-count="1"/>The owner or person in control of any premises within the City shall at all times maintain the sidewalks, alleys, streets, and places adjoining the premises free of trash, refuse, rubbish, or debris; provided, however, that this subsection shall not prohibit the storage of litter in the manner and at the times prescribed by the Commissioner of Public Works for purposes of collection.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7036" number="8741" version="39">
+					<PARA>(Ord. 1975 c. 2; CBC 1975 Ord. T14 § 294; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7037" number="8742" version="2">
+				<HEADING>23-6 RUMMAGING.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-6" name="23-6"/>23-6<TAB tab-count="1"/>RUMMAGING.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7039" number="8743" version="187">
+					<PARA>
+						<TAB tab-count="1"/>No person shall in any public way, public alley or other public place under the charge of the Commissioner of Public Works or upon any roadway or walk thereof rummage in or through rubbish or refuse of any kind or interfere with any bundle of rubbish or refuse or any receptacle containing rubbish or refuse. For fines, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13440" number="8744" version="187">
+					<PARA>(CBC 1975 Ord. T14 § 295; Recodified by Ord. 1991 c. 5 § 28; Ord. 2008 c. 3)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7040" number="8745" version="2">
+				<HEADING>23-7 SIZE OF BARRELS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-7" name="23-7"/>23-7<TAB tab-count="1"/>SIZE OF BARRELS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7041" number="8746" version="44">
+					<PARA>
+						<TAB tab-count="1"/>No person shall deposit, drop or throw any filth, rubbish or other substance into a drum or other barrel with a diameter of more than twenty (20&quot;) inches or a height of more than twenty-eight (28&quot;) inches if by law or by arrangement such filth, rubbish or other substance is to be collected therefrom by the Public Works Department (whether through employees in its service or through an independent contractor acting for it) or by a person having a permit under Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-1" destination-id="JD_23-1">23-1</LINK> of this Chapter or Section 31A of Chapter 111 of the General Laws.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7042" number="8747" version="39">
+					<PARA>(CBC 1975 Ord. T14 § 296; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7043" number="8748" version="2">
+				<HEADING>23-8 OVERFILLING OF BARRELS OR DUMPSTER OF ANY SIZE.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-8" name="23-8"/>23-8<TAB tab-count="1"/>OVERFILLING OF BARRELS OR DUMPSTER OF ANY SIZE.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7044" number="8749" version="44">
+					<PARA>
+						<TAB tab-count="1"/>No person shall deposit, drop or throw into a drum or other barrel with a diameter of twenty (20&quot;) inches or less and a height of twenty-eight (28&quot;) inches or less, or dumpster of any size, any filth, rubbish or other substance which by law or by arrangement is to be collected therefrom by the Public Works Department (whether through employees in its service or through an independent contractor acting for it) or by a person having a permit under Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-1" destination-id="JD_23-1">23-1</LINK> of this Chapter or Section 31A of Chapter 111 of the General Laws if such drum or barrel or dumpster will thereby be filled so high that such filth, rubbish or other substance or any part thereof is likely to drop or fall from such receptacle while it is being moved in the process of such collection.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7045" number="8750" version="39">
+					<PARA>(CBC 1975 Ord. T14 § 297; Ord. 1985 c. 7; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7046" number="8751" version="39">
+				<HEADING>23-9 TRASH OUTSIDE OF PLACES OF BUSINESS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-9" name="23-9"/>23-9<TAB tab-count="1"/>TRASH OUTSIDE OF PLACES OF BUSINESS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7047" number="8752" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No person in control of a place of business abutting on a sidewalk shall knowingly suffer any rubbish, litter, filth, garbage or other refuse to remain on such sidewalk except in a receptacle or bundle placed on such sidewalk in accordance with the provisions in Section 23-1 of this Code. No dumpsters shall be allowed to remain on a property in an overflowing condition.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7048" number="8753" version="39">
+					<PARA>(CBC 1975 Ord. T14 § 301; Ord. 1985 c. 9 § 1; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7049" number="8754" version="39">
+				<HEADING>23-10 TRASH WITHIN PLACE OF BUSINESS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-10" name="23-10"/>23-10<TAB tab-count="1"/>TRASH WITHIN PLACE OF BUSINESS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7050" number="8755" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No person in control of a place of business abutting on a street shall knowingly suffer any rubbish, litter, or other refuse to remain in the open on the estate upon which such place of business is located except in a receptacle or bundle from which such rubbish, litter or refuse is not likely to be blown onto such street. No dumpster shall be allowed to remain on a property in an overflowing condition.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7051" number="8756" version="39">
+					<PARA>(CBC 1975 Ord. T14 § 302; Ord. 1985 c. 9 § 2; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7052" number="8757" version="2">
+				<HEADING>23-11 APPLICATION FOR PERMIT TO MAINTAIN OUTDOOR DUMPSTER.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-11" name="23-11"/>23-11<TAB tab-count="1"/>APPLICATION FOR PERMIT TO MAINTAIN OUTDOOR DUMPSTER.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7053" number="8758" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Every application for a permit to maintain an outdoor dumpster at a said location must be accompanied by evidence that a licensed refuse contractor servicing the facility will provide periodic pickup and removal of the refuse and cleaning and treatment against rodent or insect infestation at intervals not exceeding one week. The applicant must also supply evidence that the immediate area where the dumpster is to be located is free of rodent and insect infestation. If the applicant fails to have the refuse picked up and removed, or to have the area and the dumpster itself cleaned and treated within the specified time, the permit shall be revoked.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7054" number="8759" version="39">
+					<PARA>(Ord. 1982 c. 38 § 2; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7055" number="8760" version="2">
+				<HEADING>23-12 REFUSE CONTRACTORS REQUIRED TO BE LICENSED.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-12" name="23-12"/>23-12<TAB tab-count="1"/>REFUSE CONTRACTORS REQUIRED TO BE LICENSED.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7056" number="8761" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Each refuse contractor operating within the City of Boston shall be licensed annually by the Environmental Health Services Division of the Health and Hospitals Department.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7057" number="8762" version="39">
+					<PARA>(Ord. 1982 c. 38 § 3; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7058" number="8763" version="2">
+				<HEADING>23-13 CLEANING AND DISINFECTING OF STORAGE CONTAINERS; VIOLATIONS; PENALTY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-13" name="23-13"/>23-13<TAB tab-count="1"/>CLEANING AND DISINFECTING OF STORAGE CONTAINERS; VIOLATIONS; PENALTY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7059" number="8764" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Each refuse contractor licensed by the City of Boston Health and Hospitals Department who stores refuse containers within the City of Boston shall be required to clean and disinfect said containers before they are stored. Failure to do so shall be punishable by a fine of fifty ($50.00) dollars per container, per day. The lot, yard, or other area where containers are stored must be treated against rodent and insect infestation at intervals not exceeding thirty (30) days. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7060" number="8765" version="39">
+					<PARA>(Ord. 1982 c. 38 § 3A; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7061" number="8766" version="2">
+				<HEADING>23-14 ESSENTIAL FACILITIES PERMITTED TO BE OPERATED OR ESTABLISHED.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-14" name="23-14"/>23-14<TAB tab-count="1"/>ESSENTIAL FACILITIES PERMITTED TO BE OPERATED OR ESTABLISHED.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7062" number="8767" version="44">
+					<PARA>
+						<TAB tab-count="1"/>No person shall establish, maintain, operate or use any place within the City of Boston, nor shall any place within the City of Boston be operated, established or maintained for a refuse treatment or disposal facility, unless such facility has been determined to be absolutely essential or necessary to protect the public health and as a result assigned by the Board of Health and Hospitals in accordance with M.G.L. C. 111, Section 150A after a public hearing and the use and plans or design therefor have been approved by the Massachusetts Department of Environmental Quality Engineering. The process to determine the essential or necessary status of any and all site applications is defined in Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-19" destination-id="JD_23-19">23-19</LINK>. For the purposes of this section, the term “refuse treatment and disposal facility” shall include a sanitary landfill, a refuse composting plant, a dumping ground for refuse, a refuse transfer station, an incinerator with a grate area in excess of ten (10) square feet, a residual waste storage or treatment plant, a site for the storage of wastes generated at another location, or any other works for treating, disposing, recycling, or recovering resources from refuse. “Refuse” shall mean all solid or liquid waste materials including garbage and rubbish, but not including sewage.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7063" number="8768" version="40">
+					<PARA>(Ord. 1985 c. 10 § 1; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-21" destination-id="JD_23-21">23-21</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7064" number="8769" version="2">
+				<HEADING>23-15 EXCLUSION FOR SYSTEM SERVING ONLY ONE BUILDING.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-15" name="23-15"/>23-15<TAB tab-count="1"/>EXCLUSION FOR SYSTEM SERVING ONLY ONE BUILDING.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7065" number="8770" version="2">
+					<PARA>
+						<TAB tab-count="1"/>The provisions of this section shall not apply to any on-site energy recovery waste disposal system which serves only the building within which it is located. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7066" number="8771" version="40">
+					<PARA>(Ord. 1985 c. 10 § 2; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7067" number="8772" version="2">
+				<HEADING>23-16 REGULATIONS FOR NEW REFUSE TRANSFER STATIONS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-16" name="23-16"/>23-16<TAB tab-count="1"/>REGULATIONS FOR NEW REFUSE TRANSFER STATIONS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7068" number="8773" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Every new refuse transfer station shall be a completely enclosed, covered structure and be located in an area zoned for industrial use.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7069" number="8774" version="40">
+					<PARA>(Ord. 1985 c. 10 § 3; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7070" number="8775" version="2">
+				<HEADING>23-17 CONDITIONS FOR ASSIGNMENT IMPOSED.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-17" name="23-17"/>23-17<TAB tab-count="1"/>CONDITIONS FOR ASSIGNMENT IMPOSED.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7071" number="8776" version="2">
+					<PARA>
+						<TAB tab-count="1"/>No person shall establish, maintain, operate or use an assigned facility other than in accordance with conditions of assignment imposed by the Board of Health and Hospitals and Massachusetts Departments of Environmental Quality Engineering approved plans.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7072" number="8777" version="40">
+					<PARA>(Ord. 1985 c. 10 § 4; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7073" number="8778" version="2">
+				<HEADING>23-18 APPLICATION OF REGULATIONS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-18" name="23-18"/>23-18<TAB tab-count="1"/>APPLICATION OF REGULATIONS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7074" number="8779" version="44">
+					<PARA>
+						<TAB tab-count="1"/>Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-14" destination-id="JD_23-14">23-14</LINK> shall not apply to any assigned facility which was assigned as of December 30, 1983 and has Department of Environmental Quality Engineering approved plans, provided, however, that any assigned facility that applies for a substantial modification, change or amendment in the original site assignment shall be subject to the provisions of this section.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7075" number="8780" version="40">
+					<PARA>(Ord. 1985 c. 10 § 5; Recodified by Ord. 1991 c. 5, § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7076" number="8781" version="2">
+				<HEADING>23-19 “NECESSARY AND ESSENTIAL” DESIGNATION OBTAINED FROM CITY COUNCIL.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-19" name="23-19"/>23-19<TAB tab-count="1"/>“NECESSARY AND ESSENTIAL” DESIGNATION OBTAINED FROM CITY COUNCIL.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7077" number="8782" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Prior to any application for site assignment to the Health and Hospitals Department of the City of Boston under the provisions of M.G.L. C. 111, Section 150A, the prospective applicant must obtain a “necessary and essential” designation from the City Council. These designations may be obtained by the approval of a majority vote of the Council and the approval of the Mayor, provided, however, that if the Mayor disapproves the designation, the Council may approve the designation notwithstanding the disapproval of the Mayor by a two-thirds (2/3) vote of all the Councillors. Such votes for the approval of a designation shall be identical in format to any ordinance. The prospective applicant shall petition the City Council, through the City Clerk, on forms approved by the Clerk, which shall include, but not be limited to, name, address, and telephone number of applicant, place of current business, proposed site, type of business to be allowed, size and structure of proposed facility, list of abutters and statement of petitioner as to the “necessary and essential” nature of the proposed facility. The attested results of the final vote of the City Council relative to the petition shall be forwarded by the City Clerk to the petitioner forthwith. Any petitioner aggrieved by any action of the City Council refusing to grant the necessary and essential designation, within seven (7) days after such action, may appeal therefrom to the Board of Health and Hospitals. The Board of Health and Hospitals through its Trustees or their designee shall review the petition within sixty (60) days and render a decision. The decision of the Board of Health and Hospitals shall be final.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7078" number="8783" version="40">
+					<PARA>(Ord. 1985 c. 10 § 6; Recodified by Ord. 1991 c. 5 § 28)&#160; Penalty, see § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-20" destination-id="JD_23-20">23-20</LINK>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7079" number="8784" version="188">
+				<HEADING>23-20 VIOLATIONS; PENALTIES; FINES ESTABLISHED.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-20" name="23-20"/>23-20<TAB tab-count="1"/>VIOLATIONS; PENALTIES; FINES ESTABLISHED.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7081" number="8785" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Any person violating any provision of the following enumerated subsections of Chapter XXIII, shall be punished by the following penalties for violations thereof; and not only the person actually performing the prohibited act of thing, but also his employer and every other person concerned in so doing shall be punished by such fine.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13442" number="8786" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-1:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Two hundred ($200.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13444" number="8787" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-2:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Three hundred ($300.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13446" number="8788" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-3:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>The owner and/or operator of a facility in violation of this section shall be fined not less than one hundred ($100.00) dollars nor more than five hundred ($500.00) dollars per violation.&#160; Each entering loaded vehicle or loaded container of refuse delivered to the facility, the refuse from which is processed or stored either in a container or on the ground at the facility, shall constitute a separate violation.&#160; Each day of operation or maintenance shall constitute a separate violation.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13448" number="8789" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-4:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Three hundred ($300.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13450" number="8790" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-5:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Twenty-five ($25.00) dollars for residential premises.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13452" number="8791" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-6:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Ten ($10.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13454" number="8792" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-7:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Ten ($10.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13456" number="8793" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-8:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>One hundred ($100.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13458" number="8794" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-9:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Fifty ($50.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13460" number="8795" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Subsection 23-10:<TAB tab-count="1"/>
+						<TAB tab-count="1"/>Fifty ($50.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13461" number="8796" version="188">
+					<PARA>(Ord. 1985 c. 10 § 8; Recodified by Ord. 1991 c. 5 §28; Ord. 2008 c. 3)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-7082" number="8797" version="2">
+				<HEADING>23-21 VIOLATIONS; PENALTY; ENFORCEMENT.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-21" name="23-21"/>23-21<TAB tab-count="1"/>VIOLATIONS; PENALTY; ENFORCEMENT.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7083" number="8798" version="44">
+					<PARA>
+						<TAB tab-count="1"/>The user of a facility in violation of Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-5465" type="Jump" domain="massachusetts(boston)" destination-name="23-14" destination-id="JD_23-14">23-14</LINK> shall be fined not less than one hundred ($100.00) dollars nor more than five hundred ($500.00) dollars per violation. Both the waste hauling company and the vehicle operator shall be considered users. Each loaded vehicle or loaded container of refuse delivered to the facility for processing or for storage, either in a container or on the ground, at the facility shall constitute a separate violation.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7084" number="8799" version="2">
+					<PARA>
+						<TAB tab-count="1"/>The Board of Health and Hospitals, through its Commissioner of Health and Hospitals shall have enforcement powers hereunder.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7085" number="8800" version="2">
+					<PARA>
+						<TAB tab-count="1"/>This section shall take effect upon passage, provided however, that any current license holder shall be exempt but that any current applicant or future applicant for a license shall be subject to the provisions of this section. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7086" number="8801" version="2">
+					<PARA>(Ord. 1985 c. 10 §§ 1–12; Recodified by Ord. 1991 c. 5 § 28)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-12763" number="8802" version="153">
+				<HEADING>23-22 RUBBISH DISPOSAL; PENALTY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-22" name="23-22"/>23-22<TAB tab-count="1"/>RUBBISH DISPOSAL; PENALTY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-12765" number="8803" version="153">
+					<PARA>
+						<TAB tab-count="1"/>In the City of Boston, fines for violation of General Laws Chapter 270, Section 16, shall be determined based on volume, location and content subject to the following schedule:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-12768" number="8804" version="153">
+					<PARA>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Up to and including one (1) cubic yard illegally dumped in an unauthorized container will be fined one hundred ($100.00) dollars. Up to and including one (1) cubic yard illegally dumped in a vacant lot or on a public way and or public property will be fined two hundred fifty ($250.00) dollars. Up to and including one (1) cubic yard illegally dumped in a park or playground will be fined five hundred ($500.00) dollars. Any volume between one (1) and five (5) cubic yards found in a vacant lot or on a public way and/or public property will be fined one thousand ($1,000.00) dollars. If illegally dumped in a park or playground any volume between one (1) and five (5) cubic yards will be fined fifteen hundred ($1,500.00) dollars. Five (5) cubic yards or more found in a vacant lot or on a public way and/or property will be fined two thousand five hundred ($2,500.00) dollars and five (5) cubic yards or more illegally dumped in a park or a playground will be fined three thousand ($3,000.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-12770" number="8805" version="153">
+					<PARA>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Restricted solid waste as defined in 310 CMR 19 Massachusetts Department of Environmental Protection, including but not limited to televisions, major appliances and computer monitors, in any and all volumes illegally dumped in any and all locations will be fined two thousand ($2,000.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-12772" number="8806" version="153">
+					<PARA>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Construction debris and other related materials, in any and all volumes, illegally dumped in any and all locations will be fined two thousand five hundred dollars ($2,500.00) dollars and referred to the Boston Environmental Strike Team (B.E.S.T.) for further investigation and enforcement.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-12774" number="8807" version="153">
+					<PARA>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Hazardous/toxic waste as defined in M.G.L. c. 21C, s. 2, M.G.L. c. 21I, s. 2, M.G.L.&#160; c. 21I, s. 9, 310 CMR 16 Massachusetts Department of Environmental Protection and 310 CMR 19 Massachusetts Department of Environmental Protection, in any and all volumes illegally dumped in any and all locations will be fined three thousand ($3,000.00) dollars and referred to B.E.S.T. for investigation and enforcement including additional fines where authorized.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-12775" number="8808" version="153">
+					<PARA>(Ord. 2007 c. 10 §§ 1, 2)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-13462" number="8809" version="188">
+				<HEADING>23-23 ENFORCEMENT AND REGULATORY AUTHORITY.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-23" name="23-23"/>23-23<TAB tab-count="1"/>ENFORCEMENT AND REGULATORY AUTHORITY.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-13465" number="8810" version="188">
+					<PARA>
+						<TAB tab-count="1"/>The Commissioner of the Inspectional Services Department shall have the authority to enforce Chapter XXIII and to promulgate rules and regulations necessary to implement and enforce these sections. City of Boston, Ordinances, Chapter XXIII may be enforced in accordance with the provisions of G.L. c. 40, § 21 D as inserted by St. 1977, c. 401.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13466" number="8811" version="188">
+					<PARA>(Ord. 2008 c. 3)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-13469" number="8812" version="188">
+				<HEADING>23-24 ENFORCEMENT IN ACCORDANCE WITH MASSACHUSETTS GENERAL LAW.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_23-24" name="23-24"/>23-24<TAB tab-count="1"/>ENFORCEMENT IN ACCORDANCE WITH MASSACHUSETTS GENERAL LAW.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-13471" number="8813" version="188">
+					<PARA>
+						<TAB tab-count="1"/>Any person taking cognizance of a violation of the sections of this Code set forth in Chapter XXIII hereof which he is empowered to enforce by statute, ordinance, or by appointment as special Police Officer may enforce said ordinances in accordance with G.L. c. 40, § 21D as inserted by St. 1977, c. 401.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-13472" number="8814" version="188">
+					<PARA>(Ord. 1977 c. 16 [371]; Ord. 2008 c. 3)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

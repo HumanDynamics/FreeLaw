@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Boston" content-collection-id="boston" source-infobase-title="City of Boston Municipal Code" base-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\boston.mak" css-stylesheet-href="#!-- #ID=boston_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\Massachusetts\Boston_Output\XML\" css-stylesheet-name="boston_css" makefile-document-depth="1">
+	<REFERENCE>
+		<TITLE id="0-0-0-6809" indent="0">CHAPTER XIX SCHOOLS</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-22" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-6809" number="8507" version="8">
+			<HEADING>CHAPTER XIX   SCHOOLS</HEADING>
+			<PARA>
+				
+					<DESTINATION id="JD_CHAPTERXIX" name="CHAPTER XIX"/>CHAPTER XIX&#160; <LINEBRK/>
+				SCHOOLS</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-6810" number="8508" version="2">
+				<HEADING>19-1 SCHOOL DEPARTMENT.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_19-1" name="19-1"/>19-1<TAB tab-count="1"/>SCHOOL DEPARTMENT.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-6811" number="8509" version="2">
+					<HEADING> 19-1.1 Possession, Detection, of Weapons in Schoolhouses.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_19-1.1" name="19-1.1"/>
+						<TAB tab-count="1"/>19-1.1<TAB tab-count="1"/>Possession, Detection, of Weapons in Schoolhouses.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-6812" number="8510" version="2">
+						<PARA>
+							<TAB tab-count="1"/>No person other than a sworn officer of the Commonwealth, a member of the military service on active duty, or a constable, officer or official of the City or County having a license to carry firearms shall in any schoolhouse have possession of any dangerous weapon, which term shall include any firearm, and any item described in paragraphs (b) or (c) of Section 10 of Chapter 269 of the General Laws, unless authorized by the Superintendent of Schools or the Superintendent&apos;s designee. If the Superintendent shall determine public safety requires, a system for detection of weapons may be established in any schoolhouse and no person shall be admitted to, or enter, a schoolhouse without submitting to such detection system. Any person violating the provisions hereof shall be punished by a fine of two hundred ($200.00) dollars.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-6813" number="8511" version="2">
+						<PARA>(Ord. 1992 c. 3 § 1)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-6814" number="8512" version="38">
+					<HEADING> 19-1.2 Monthly Report on Incidents.</HEADING>
+					<PARA>
+						<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0">
+							<TAB tab-count="1"/>
+						</CHARFORMAT>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+							<DESTINATION id="JD_19-1.2" name="19-1.2"/>19-1.2<TAB tab-count="1"/>Monthly Report on Incidents.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-6815" number="8513" version="2">
+						<PARA>
+							<TAB tab-count="1"/>The School Committee shall prepare and furnish, each month to the Mayor and City Council, a report on the number of incidents reported in the schools of the City by the Boston School Police during the previous month, tabulated by school zone, and providing, in addition to the school zone, the geographical area of the City comprising the school zone. The School Committee shall, in preparing each report, also include the cumulative totals of the incidents enumerated above, tabulated as aforesaid, for the year to date of making the report.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-6816" number="8514" version="2">
+						<PARA>(Ord. 1994 c. 3)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-6817" number="8515" version="38">
+					<HEADING> 19-1.3 School Bus Safety.</HEADING>
+					<PARA>
+						<FIELD style-name="" style-name-escaped="invalid-characters-in-style-name" name="" id="0-0-0-11">
+							<TAB tab-count="1"/>
+							<DESTINATION id="JD_19-1.3" name="19-1.3"/>19-1.3<TAB tab-count="1"/>School Bus Safety.</FIELD>
+					</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-6818" number="8516" version="2">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>Every school bus regularly employed in the transportation of children to schools in the City shall be equipped with and use when accepting and discharging passengers a crossing gate, so called, which shall extend out in front of the school bus. This section shall not apply to those vehicles owned or leased by the Massachusetts Bay Transportation Authority.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-6819" number="8517" version="2">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>This section shall apply to all school buses purchased on or after July 1, 1999.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-6820" number="8518" version="2">
+						<PARA>(Ord. 2000 c. 2)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-6821" number="8519" version="2">
+				<HEADING>19-2 SALARY OF SCHOOL COMMITTEE MEMBERS.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_19-2" name="19-2"/>19-2<TAB tab-count="1"/>SALARY OF SCHOOL COMMITTEE MEMBERS.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6822" number="8520" version="2">
+					<PARA>
+						<TAB tab-count="1"/>Effective January 1, 1987, all members of the Boston School Committee be paid an annual stipend of seven thousand, five hundred ($7,500.00) dollars.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6823" number="8521" version="2">
+					<PARA>(Ord. 1986, c. 23 § 4 [500])</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-25" level-depth="2" toc-section="true">
+			<RECORD id="0-0-0-12437" number="8522" version="143">
+				<HEADING>19-3 PUBLIC SCHOOL INFRASTRUCTURE ANNUAL AUDITING.</HEADING>
+				<PARA>
+					<DESTINATION id="JD_19-3" name="19-3"/>19-3<TAB tab-count="1"/>PUBLIC SCHOOL INFRASTRUCTURE ANNUAL AUDITING.</PARA>
+			</RECORD>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-12439" number="8523" version="143">
+					<HEADING> 19-3.1 Report by Boston Public School Department.</HEADING>
+					<PARA>
+						<TAB tab-count="1"/>
+						<DESTINATION id="JD_19-3.1" name="19-3.1"/>19-3.1<TAB tab-count="1"/>Report by Boston Public School Department.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-12441" number="8524" version="143">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>The Boston Public School Department, or its successor, shall prepare a report detailing the repairs, renovations, and/or upgrades necessary to ensure, protect, and/or improve the condition of each and every school building.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12443" number="8525" version="143">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>The report shall include the actual and/or estimated costs of each repair, renovation, and/or upgrade.&#160; The report shall also identify:</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12453" number="8526" version="143">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>1.<TAB tab-count="1"/>The total amount allocated in the then- current year’s budget for school repairs, renovations, and/or upgrades;</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12455" number="8527" version="143">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>2.<TAB tab-count="1"/>The total amount actually spent on school repairs, renovations, and/or upgrades for the then-current school year as of the date of the report; and</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12457" number="8528" version="143">
+						<PARA>
+							<TAB tab-count="1"/>
+							<TAB tab-count="1"/>3.<TAB tab-count="1"/>The amount estimated to be spent on school repairs, renovations, and/or upgrades by the close of the then-current school year.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12459" number="8529" version="143">
+						<PARA>
+							<TAB tab-count="1"/>c.<TAB tab-count="1"/>On or before March 1 of each year, the Boston Public School Department shall submit the report to the Clerk for the City of Boston who shall assign the document a docket number for the next regular meeting of the Boston City Council.&#160; The appropriate committee of the Boston City Council shall study the report and shall convene a public hearing on the matter within four (4) weeks.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12460" number="8530" version="143">
+						<PARA>(Ord. 2006 c. 10 §1)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subsection" style-name-escaped="Subsection" style-id="0-0-0-28" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-12462" number="8531" version="143">
+					<HEADING> 19-3.2 Report by Healthy Schools Task Force.</HEADING>
+					<PARA>
+						<DESTINATION id="JD_19-3.2" name="19-3.2"/>
+						<TAB tab-count="1"/>19-3.2<TAB tab-count="1"/>Report by Healthy Schools Task Force.</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-12464" number="8532" version="143">
+						<PARA>
+							<TAB tab-count="1"/>a.<TAB tab-count="1"/>The Healthy Schools Task Force, or its successor, shall prepare a report detailing the environment audit of each and every school building.&#160; The report shall include whether repairs were indicated as necessary, whether such repairs were completed, the actual cost of such repairs actually completed, and the estimated cost of repairs not actually completed.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12466" number="8533" version="143">
+						<PARA>
+							<TAB tab-count="1"/>b.<TAB tab-count="1"/>On or before March 1 of each year, the Healthy Schools Task Force shall submit the report to the Clerk for the City of Boston who shall assign the document a docket number for the next regular meeting of the Boston City Council.&#160; The appropriate committee of the Boston City Council shall study the report and shall convene a public hearing on the matter within four (4) weeks.</PARA>
+					</RECORD>
+					<RECORD id="0-0-0-12467" number="8534" version="143">
+						<PARA>(Ord. 2006 c. 10 §1)</PARA>
+					</RECORD>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>
