@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ordinance
+	xmlns="http://example.com/"
+	xsi:schemaLocation="http://example.com/"
+	xml:base="http://example.com"
+	identifier="usml-cities/v1">
+
+	<title>
+	    <num>17</num>
+	    <heading>LICENSES AND REGULATIONS AFFECTING CERTAIN TRADES</heading>
+	    
+	    <chapter>
+	        <num>17-10</num>
+	        <heading>PERMITTING AND REGULATION OF MOBILE FOOD TRUCKS.</heading>
+	        
+	        <section>
+	            <num>17-10.1</num>
+	            <heading>Definitions.</heading>
+	            
+	            <text>When used in this section, unless the context otherwise requires, the following terms shall have the following meanings:</text>
+				<text><i>Commissioner</i> shall mean the Commissioner of Public Works of the City of Boston or his or her designee.</text>
+	  			<text><i>The Committee</i> shall mean the Commissioner, the Director of Food Initiatives, and the Departments, as defined.</text>
+			 	<text><i>Departments</i> shall mean the Transportation Department, the Inspectional Services Department, the Police Department, the Fire Department, and the Assessing Department, all of the City of Boston.</text>
+			 	<text><i>Food establishment</i> shall mean a business operation that stores, prepares, packages, serves, vends or otherwise provides food for human consumption as set forth in the State Sanitary Code 105 CMR 590.002.</text>
+			 	<text><i>Mobile food commissary</i> shall mean a licensed food establishment that a mobile food truck reports to twice daily for all food and supplies and for all cleaning and sanitizing of units and equipment.</text>
+			 	<text><i>Mobile food truck</i> shall mean a mobile food vehicle.</text>
+			 	<text><i>Mobile food vehicle</i> shall mean a food establishment that is located upon a vehicle, or which is pulled by a vehicle, where food or beverage is cooked, prepared and served for individual portion service, such as a mobile food kitchen; provided however that a mobile food vehicle shall not be considered a food service establishment for the purposes of CBC 18-1.6(39).</text>
+			    
+			    <sourceCredit>(Ord. 2011 c. 5)</sourceCredit>
+	        </section>
+	        
+	        <section>
+	            <num>17-10.2</num>
+	            <heading>Scope.</heading>
+	            
+	            <subsection>
+	            	<num>a.</num>
+	            	<text>The provisions of this section shall apply to mobile food operations engaged in the business of cooking, preparing, and distributing food or beverage with or without charge from mobile food trucks on or in public, private or restricted spaces. This section shall not apply to canteen, coffee, or ice cream trucks that move from place to place and are stationary in the same location for no more than thirty (30) minutes at a time or food vending push carts and stands.</text>
+	          	</subsection>
+	          	
+	          	<subsection>
+	          	    <num>b.</num>
+	          	    <text>The provisions of this section shall not apply to mobile food operations that receives a temporary event permit issued by the Public Works Department.</text>
+	          	</subsection>
+	          	
+			    <sourceCredit>(Ord. 2011 c. 5)</sourceCredit>
+	        </section>
+	        
+	        <section>
+	            <num>17-10.3</num>
+	            <heading>Mobile Food Trucks Committee.</heading>
+	            
+	            <subsection>
+	                <num>a.</num>
+	                <text>There shall be within the City of Boston a Mobile Food Trucks Committee consisting of the Public Works Department, the Transportation Department, the Inspectional Services Department, the Police Department, the Fire Department, the Director of Food Initiatives and the Assessing Department for the purpose of reviewing applications for mobile food truck permits and establishing rules and regulations as appropriate.</text>
+	            </subsection>
+	            
+	            <subsection>
+	                <num>b.</num>
+	                <text>The Committee may work with an industry-led task force in developing acceptable routes of operation throughout the city and establishing industry standards, such as the use of global positioning system (GPS) devices and other matters.</text>
+	            </subsection>
+	            
+	            <subsection>
+	                <num>c.</num>
+	                <text>The Committee may work with applicants for mobile food truck permits and renewals to encourage the following:</text>
+	                
+	                <paragraph>
+	                    <num>i.</num>
+	                    <text>Sustainable and environmentally friendly practices, including the use of energy-efficient vehicles,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>ii.</num>
+	                    <text>Charitable components to the business of operation,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>iii.</num>
+	                    <text>School nutrition programs or healthy food choices,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>iv.</num>
+	                    <text>Programs for children or the homeless,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>v.</num>
+	                    <text>Other socially responsible practices and programs,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>vi.</num>
+	                    <text>Routes that provide access to underserved neighborhoods of the city, and</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>vii.</num>
+	                    <text>The use of food commissaries within the City.</text>
+	                </paragraph>
+	            </subsection>
+	            
+	            <sourceCredit>(Ord. 2011 c. 5)</sourceCredit>
+	        </section>
+	        
+	        <section>
+	            <num>17-10.4</num>
+	            <heading>Mobile Food Truck Permit Required.</heading>
+	            
+	            <subsection>
+	                <num>a.</num>
+	                <text>No person or business entity, including a religious or charitable organization, shall operate a mobile food truck in any public, private or restricted space without a permit issued by the Committee.</text>
+	            </subsection>
+	            
+	            <subsection>
+	                <num>b.</num>
+	                <text>A mobile food truck permit is required for each and every mobile food truck.</text>
+	            </subsection>
+	            
+	            <sourceCredit>(Ord. 2011 c. 5)</sourceCredit>
+	        </section>
+	        
+	        <section>
+	            <num>17-10.5</num>
+	            <heading>Application for a Mobile Food Truck Permit.</heading>
+	            
+	            <subsection>
+	                <num>a.</num>
+	                <text><i>Single Application. </i>There shall be made available by the Commissioner a single application form to apply for each mobile food truck permit. The application shall provide the following:</text>
+	                
+	                <paragraph>
+	                    <num>i.</num>
+	                    <text>A description of necessary inspections and fees;</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>ii.</num>
+	                    <text>A description of areas of the City where the operation of mobile food trucks are limited or prohibited;</text>
+	                </paragraph>
+	            </subsection>
+	            
+	            <subsection>
+	                <num>b.</num>
+	                <text><i>Submission of Materials. </i>Each application shall indicate on its face, in addition to other requirements as may be determined by the Committee, that the following materials must be submitted by the applicant:</text>
+	                
+	                <paragraph>
+	                    <num>i.</num>
+	                    <text>The name of the business and its owner or owners and the mailing address of the business,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>ii.</num>
+	                    <text>A description of the proposed business plan for the mobile food truck operation,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>iii.</num>
+	                    <text>A proposed service route and hours of operation with a detailed schedule of times and locations where the mobile food truck will be stationary and serving food,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>iv.</num>
+	                    <text>Certification that the vehicle has passed all necessary inspections required by the Boston Fire Department and Department of Inspectional Services,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>v.</num>
+	                    <text>Proof that the mobile food truck will be serviced by a mobile food commissary,</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>vi.</num>
+	                    <text>Proof of access to restroom facilities with flushable toilets and access to hand washing facilities for the use of the mobile food truck employees within five hundred (500) feet of each location where the mobile food truck will be in operation for more than one (1) hour in any single day, and</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>vii.</num>
+	                    <text>A certificate of insurance providing general liability insurance listing the City as additionally insured. A food truck permit shall be issued only for the explicit time period covered by the effective dates of the general liability insurance policy.</text>
+	                </paragraph>
+	            </subsection>
+	            
+	            <subsection>
+	                <num>c.</num>
+	                <text><i>Approval Process. </i>An application must be submitted to the Commissioner of Public Works, who shall then forward the application to the Departments for review. The application must receive the approval of each of the Departments, based on duly published </CHARFORMAT>criteria established by the Committee, prior to its final approval and the issuance of a permit by the Commissioner.</text>
+	                
+	            	<paragraph>
+	                    <num>i.</num>
+	                    <text>The Committee may work with the applicant or permit holder to modify a service route at any time (i) before the issue of a permit or (ii) after the issue of a permit, if the grant of a permit or approval of a service route has led to the creation of a nuisance or otherwise endanger the public health, safety, or order or by request of the permit holder.</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>ii.</num>
+	                    <text>Within sixty (60) days of the submission of a completed application, the Commissioner shall either issue or deny the application for a permit.</text>
+	                </paragraph>
+	                
+	                <paragraph>
+	                    <num>iii.</num>
+	                    <text>If the application is denied in whole or in part, the Commissioner shall state the specific reasons for the denial. Any applicant who has been denied a permit may appeal such denial by submitting a written request for a hearing to the Commissioner within ten (10) days of denial. Such hearing shall be conducted by the Commissioner or his or her designee within thirty (30) days of receipt of said appeal. The decision resulting therefrom shall be final and subject only to judicial review under M.G.L. c. 30A, § 14.</text>
+	                </paragraph>
+	            </subsection>
+	            
+	            <sourceCredit>(Ord. 2011 c. 5)</sourceCredit>
+	        </section>
+	    </chapter>
+	</title>
+</ordinance>
