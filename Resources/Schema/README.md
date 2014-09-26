@@ -21,3 +21,5 @@
   * Description of UTF-8. 
   * XML Schema should comply to UTF-8.
 
+* http://www.w3schools.com/tags/att_html_xmlns.asp
+  * Explanation of attribute of xmlns attribute.
