@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ordinance
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://law.mit.edu/Schema"
+xsi:schemaLocation="http://law.mit.edu/Schema/ SimplifiedLaw.xsd">
+
+    <level Num="1" Heading="true" Text="false" ID="1234">
+	    UNIFORM ELECTRONIC TRANSACTIONS ACT (1999)
+	    
+	     <level Num="1.1" Heading="true" Text="false" ID="1243">
+	         SHORT TITLE
+	        
+	        <level Num="1.1.1" Heading="false" Text="true" ID="1324">
+	            This [Act] may be cited as the Uniform Electronic Transactions Act.
+	        </level>
+	        
+	     </level>
+	     
+	     <level Num="1.2" Heading="true" Text="false" ID="1243">
+	         DEFINITIONS
+	         
+	         <level Num="1.2.1" Heading="false" Text="true" ID="1324324">
+	            (1) “Agreement” means the bargain of the parties in fact, as found in their
+				language or inferred from other circumstances and from rules, regulations, and
+				procedures given the effect of agreements under laws otherwise applicable to a
+				particular transaction.
+			 </level>
+			 
+			 <level Num="1.2.2" Heading="false" Text="true" ID="1324324">
+				(2) “Automated transaction” means a transaction conducted or performed,
+				in whole or in part, by electronic means or electronic records, in which the acts or
+				records of one or both parties are not reviewed by an individual in the ordinary
+				course in forming a contract, performing under an existing contract, or fulfilling an
+				obligation required by the transaction.
+			 </level>
+			 
+			 <level Num="1.2.3" Heading="false" Text="true" ID="1324324">
+				(3) “Computer program” means a set of statements or instructions to be
+				used directly or indirectly in an information processing system in order to bring
+				about a certain result.
+			 </level>
+			 
+			 <level Num="1.2.4" Heading="false" Text="true" ID="1324324">
+				(4) “Contract” means the total legal obligation resulting from the parties’
+				agreement as affected by this [Act] and other applicable law.
+			 </level>
+			 
+			 <level Num="1.2.5" Heading="false" Text="true" ID="1324324">
+				(5) "Electronic"" means relating to technology having electrical, digital,
+				magnetic, wireless, optical, electromagnetic, or similar capabilities.
+			 </level>
+			 
+			 <level Num="1.2.5" Heading="false" Text="true" ID="1324324">
+				(6) “Electronic agent” means a computer program or an electronic or other
+				automated means used independently to initiate an action or respond to electronic
+				records or performances in whole or in part, without review or action by an
+				individual.
+			 </level>
+			 
+			 <level Num="1.2.6" Heading="false" Text="true" ID="1324324">
+				(7) “Electronic record” means a record created, generated, sent,
+				communicated, received, or stored by electronic means.
+			 </level>
+			 
+			 <level Num="1.2.7" Heading="false" Text="true" ID="1324324">
+				(8) “Electronic signature” means an electronic sound, symbol, or process
+				attached to or logically associated with a record and executed or adopted by a
+				person with the intent to sign the record.
+			 </level>
+			 
+			 <level Num="1.2.8" Heading="false" Text="true" ID="1324324">
+				(9) “ Governmental agency” means an executive, legislative, or judicial
+				agency, department, board, commission, authority, institution, or instrumentality of
+				the federal government or of a State or of a county, municipality, or other political
+				subdivision of a State.
+			 </level>
+			 
+			 <level Num="1.2.9" Heading="false" Text="true" ID="1324324">
+				(10) “Information” means data, text, images, sounds, codes, computer
+				programs, software, databases, or the like.
+			 </level>
+			 
+			 <level Num="1.2.10" Heading="false" Text="true" ID="1324324">
+				(11) “Information processing system” means an electronic system for
+				creating, generating, sending, receiving, storing, displaying, or processing
+				information.
+			 </level>
+			 
+			 <level Num="1.2.11" Heading="false" Text="true" ID="1324324">
+				(12) “Person” means an individual, corporation, business trust, estate, trust,
+				partnership, limited liability company, association, joint venture, governmental
+				agency, public corporation, or any other legal or commercial entity.
+			 </level>
+			 
+			 <level Num="1.2.12" Heading="false" Text="true" ID="1324324">
+				(13) “Record” means information that is inscribed on a tangible medium or
+				that is stored in an electronic or other medium and is retrievable in perceivable
+				form.
+			 </level>
+			 
+			 <level Num="1.2.13" Heading="false" Text="true" ID="1324324">
+				(14) “Security procedure” means a procedure employed for the purpose of
+				verifying that an electronic signature, record, or performance is that of a specific
+				person or for detecting changes or errors in the information in an electronic record. 
+				The term includes a procedure that requires the use of algorithms or other codes,
+				identifying words or numbers, encryption, or callback or other acknowledgment
+				procedures.
+			 </level>
+			 
+			 <level Num="1.2.14" Heading="false" Text="true" ID="1324324">
+				(15) “State” means a State of the United States, the District of Columbia,
+				Puerto Rico, the United States Virgin Islands, or any territory or insular possession
+				subject to the jurisdiction of the United States. The term includes an Indian tribe or
+				band, or Alaskan native village, which is recognized by federal law or formally
+				acknowledged by a State.
+			 </level>
+			 
+			 <level Num="1.2.15" Heading="false" Text="true" ID="1324324">
+				(16) “Transaction” means an action or set of actions occurring between two
+				or more persons relating to the conduct of business, commercial, or governmental
+				affairs.
+	         </level>
+	 	</level>
+	 </level>
+</ordinance>
