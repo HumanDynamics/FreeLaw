@@ -23,3 +23,6 @@
 
 * http://www.w3schools.com/tags/att_html_xmlns.asp
   * Explanation of attribute of xmlns attribute.
+
+* http://uscode.house.gov/download/download.shtml
+  * USLM Schema and Stylesheet download link.
