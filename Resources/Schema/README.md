@@ -17,4 +17,7 @@
 * http://wiki.eclipse.org/Introduction_to_the_XSD_Editor
   * An example of how to make a schema in Eclipse.
 
+* http://en.wikipedia.org/wiki/UTF-8
+  * Description of UTF-8. 
+  * XML Schema should comply to UTF-8.
 
