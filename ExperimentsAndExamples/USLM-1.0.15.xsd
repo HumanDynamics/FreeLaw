@@ -878,20 +878,6 @@
             ]]></xsd:documentation>
          </xsd:annotation>
       </xsd:attribute>
-      <xsd:attribute name="draftingTip" type="LongStringSimpleType" use="optional">
-         <xsd:annotation>
-            <xsd:documentation><![CDATA[
-               The @draftingTip is for internal use.
-            ]]></xsd:documentation>
-         </xsd:annotation>
-      </xsd:attribute>
-      <xsd:attribute name="codificationTip" type="LongStringSimpleType" use="optional">
-         <xsd:annotation>
-            <xsd:documentation><![CDATA[
-               The @codificationTip is for internal use by the OLRC.
-            ]]></xsd:documentation>
-         </xsd:annotation>
-      </xsd:attribute>
    </xsd:attributeGroup>
 
    <!-- ==================================================================== -->
@@ -996,67 +982,6 @@
 
    <!-- ==================================================================== -->
 
-   <xsd:attributeGroup name="AmendingGroup">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            The amending group is used to point to items being amended. See the
-            reference specification for how reference URL references are
-            constructed. The amending group should only be used on references
-            or actions within amending instructions.
-            
-            All attributes are optional.        
-         ]]></xsd:documentation>
-      </xsd:annotation>
-      <xsd:attribute name="pos" type="PositionEnum" use="optional">
-         <xsd:annotation>
-            <xsd:documentation><![CDATA[
-               The @pos attribute is used to specify a location relative
-               to the item being referenced. The @pos is intended primarily
-               for used with amending instructions.    
-            ]]></xsd:documentation>
-         </xsd:annotation>
-      </xsd:attribute>
-      <xsd:attribute name="posText" type="MediumStringSimpleType" 
-         use="optional">
-         <xsd:annotation>
-            <xsd:documentation><![CDATA[
-               The @posText attribute is used to specify text to be used as the
-               context for the @pos attribute.
-            ]]></xsd:documentation>
-         </xsd:annotation>
-      </xsd:attribute>
-      <xsd:attribute name="posCount" type="xsd:positiveInteger" use="optional">
-         <xsd:annotation>
-            <xsd:documentation><![CDATA[
-               The @posCount attribute is used to specify the number of 
-               occurrences of the @posText to seek out when establishing the 
-               context.
-            ]]></xsd:documentation>
-         </xsd:annotation>
-      </xsd:attribute>
-   </xsd:attributeGroup>
-   
-   <!-- ==================================================================== -->
-
-   <xsd:attributeGroup name="LinkGroup">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            The link group is used to reference external documents to be 
-            embedded in a document. The link group can be used for either
-            appendices or for images. The @src attribute is optional, but 
-            should always be used for images.
-         ]]></xsd:documentation>
-      </xsd:annotation>
-      <xsd:attribute name="src" type="xsd:anyURI" use="optional">
-         <xsd:annotation>
-            <xsd:documentation><![CDATA[
-               The @src attribute is a URL that points to an item to be included
-               in the published document. Unlike an @href attribute, a @src 
-               attribute can be any normal URL and can be relative or absolute.
-            ]]></xsd:documentation>
-         </xsd:annotation>
-      </xsd:attribute>
-   </xsd:attributeGroup>
 
    <!-- ==================================================================== -->
 
@@ -3066,35 +2991,9 @@
          ]]></xsd:documentation>
       </xsd:annotation>
    </xsd:element>
-   <xsd:element name="preamble" type="PreambleType">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            The <preamble> is a container for the "Whereas" clauses and the 
-            enacting formula. Modern practice is to not use the preamble, 
-            but to use a standalone enacting formula. However, for the rare
-            cases where a preamble is desired, the tags are made available.
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
-   <xsd:element name="recital" type="StatementType">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            A <recital> is a preliminary statement in a bill stating the reasons
-            for the Bill. Modern legislation seldom uses a recital although it
-            can still occur.
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
-   <xsd:element name="enactingFormula" type="StatementType">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            The <enactingFormula> is specified just before the main provisions of
-            a bill. The <enactingFormula> can appear as either the last statement
-            in a preamble or, when a preamble is not present, standalone within
-            the main element just prior to the main provisions. 
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
+
+
+
    <xsd:element name="level" type="LevelType">
       <xsd:annotation>
          <xsd:documentation><![CDATA[ 
@@ -3137,29 +3036,8 @@
          ]]></xsd:documentation>
       </xsd:annotation>
    </xsd:element>
-   <xsd:element name="subheading" type="HeadingType">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            The <subheading> is an optional part of a level element and various
-            other elements. Like the heading, the subheading is based on the 
-            content primitive and can contain various elements including 
-            definitions. A subheading should only be created if a heading 
-            already exists.
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
-   <xsd:element name="crossHeading" type="HeadingType">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            A <crossHeading> is a non-hierarchical heading construct which can
-            be placed within and amongst heading levels. A <crossHeading> acts
-            as a divider, separating items within a level. 
-            
-            Cross headings are typically shown as center-aligned headings 
-            without any level identification or level numbering.
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
+
+
    <xsd:element name="instruction" type="InstructionType" abstract="true">
       <xsd:annotation>
          <xsd:documentation><![CDATA[ 
@@ -3247,28 +3125,8 @@
          ]]></xsd:documentation>
       </xsd:annotation>
    </xsd:element>
-   <xsd:element name="quotedText" type="QuotedTextType" substitutionGroup="inline">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            A <quotedText> element is used for an extraction of simple text from 
-            another source or origin. If the quoted text is to have literal 
-            quotes surrounding it, then those characters must be included in the
-            text surrounding the quoted text and not within it.
-            
-            Quoted text is seen in amendments or modifications.            
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
-   <xsd:element name="quotedContent" type="QuotedContentType" substitutionGroup="content">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            A <quotedContent> element is used for an extraction of potentially structured
-            text (text with XML elements) from another source or origin.
-            
-            Quoted content is used in USC Notes, amendments, and modifications.            
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
+
+
 
    <!-- ==================================================================== -->
    <!-- Generic Definitions                                                  -->
@@ -3597,14 +3455,6 @@
       </xsd:annotation>
    </xsd:element>
 
-   <xsd:element name="uscDoc" type="LawDocType" substitutionGroup="lawDoc">
-      <xsd:annotation>
-         <xsd:documentation><![CDATA[ 
-            A <uscDoc> is a document containing a title or appendix of the
-            U.S. Code.
-         ]]></xsd:documentation>
-      </xsd:annotation>
-   </xsd:element>
   
    <!-- PropertyType -->
 
