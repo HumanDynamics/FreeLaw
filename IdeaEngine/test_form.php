@@ -2,6 +2,8 @@
 <html>
 <head>
 	<title>Test Form for Propose Law</title>
+	//created by Karin
+	//Creative Commons 0 license
 </head>
 
 <body>
