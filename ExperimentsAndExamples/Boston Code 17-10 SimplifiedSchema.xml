@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ordinance
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://law.mit.edu/Schema"
+xsi:schemaLocation="http://law.mit.edu/Schema SimplifiedLaw.xsd">
+
+	<level Num="17" Heading="true" Text="false" ID="1234">
+	    LICENSES AND REGULATIONS AFFECTING CERTAIN TRADES
+	    
+	    <level Num="17.10" Heading="true" Text="false" ID="1243">
+	        PERMITTING AND REGULATION OF MOBILE FOOD TRUCKS
+	        
+	        <level Num="17.10.1" Heading="true" Text="false" ID="1324">
+	            Definitions
+	            <level Num="17.10.1.1" Heading="false" Text="true" ID="1342">
+	                When used in this section, unless the context otherwise requires, the following terms shall have the following meanings:
+	            </level>
+	            
+	            <level Num="17.10.1.2" Heading="false" Text="true" ID="13425">
+	                Commissioner shall mean the Commissioner of Public Works of the City of Boston or his or her designee.
+	            </level>
+	            
+	            <level Num="17.10.1.3" Heading="false" Text="true" ID="13426">
+	            	The Committee shall mean the Commissioner, the Director of Food Initiatives, and the Departments, as defined.
+	            </level>
+	            
+	            <level Num="17.10.1.4" Heading="false" Text="true" ID="13427">
+	                Departments shall mean the Transportation Department, the Inspectional Services Department, the Police Department, the Fire Department, and the Assessing Department, all of the City of Boston.
+	            </level>
+	            
+	            <level Num="17.10.1.5" Heading="false" Text="true" ID="13428">
+	                Food establishment shall mean a business operation that stores, prepares, packages, serves, vends or otherwise provides food for human consumption as set forth in the State Sanitary Code 105 CMR 590.002.
+	            </level>
+	            
+	            <level Num="17.10.1.6" Heading="false" Text="true" ID="13429">
+	                Mobile food commissary shall mean a licensed food establishment that a mobile food truck reports to twice daily for all food and supplies and for all cleaning and sanitizing of units and equipment.
+	            </level>
+	            
+	            <level Num="17.10.1.7" Heading="false" Text="true" ID="13420">
+	                Mobile food truck shall mean a mobile food vehicle.
+	            </level>
+	            
+	            <level Num="17.10.1.8" Heading="false" Text="true" ID="134201">
+	                Mobile food vehicle shall mean a food establishment that is located upon a vehicle, or which is pulled by a vehicle, where food or beverage is cooked, prepared and served for individual portion service, such as a mobile food kitchen; provided however that a mobile food vehicle shall not be considered a food service establishment for the purposes of CBC 18-1.6(39).
+	            </level>
+	            
+	        </level>
+	        
+	    </level>
+	    
+	</level>
+	
+</ordinance>
