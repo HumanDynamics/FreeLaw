@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>Test Form for Propose Law</title>
-	//created by Karin
-	//Creative Commons 0 license
+	<!--created by Karin
+	Creative Commons 0 license-->
 </head>
 
 <body>
@@ -22,24 +22,39 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
      }
    }
    
-   if (empty($_POST["email"])) {
-     $emailErr = "Email is required";
-   } else {
-     $email = test_input($_POST["email"]);
-     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+   if (empty($_POST["email"]))
+     {$emailErr = "Email is required";}
+     else
+     {$email = test_input($_POST["email"]);
+	 	 if (!preg_match("/([\w\-]+\@[\w\-]+\.[\w\-]+)/",$email))
+       {
        $emailErr = "Invalid email format"; 
-     }
+       }
+	 }
+
+   if (empty($_POST["law"])) {
+     $lawErr = "Law is required";
+   } else {
+     $law = test_input($_POST["law"]);
    }
 
-   if (empty($_POST["comment"])) {
-     $comment = "";
-   } else {
-     $comment = test_input($_POST["comment"]);
-   }
+	
+	 if ($nameErr == "" & $emailErr == "" & $lawErr == ""){
+	
+	  header("Location: test_formPro.php?&name=".$name."&email=".$email."&law=".$law); 
+	  }	 
+	
 }
-	if($nameErr = $emailErr = $lawErr = ""){
-	header('Location: test_formPro.php');
-	}
+
+function test_input($data)
+{
+     $data = trim($data);
+     $data = stripslashes($data);
+     $data = htmlspecialchars($data);
+     return $data;
+	 
+	 	 
+}
 ?>
 	<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" > 
 	We need the following new or updated law: <input type="text" name="law" value="<?php echo $law;?>"><span class="error">* <?php echo $lawErr;?></span><br>
