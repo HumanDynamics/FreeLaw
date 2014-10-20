@@ -17,10 +17,10 @@ Text needs to be a tag.  Number however can be an attribute.
 
 # Example
 
-<Level Type = "Heading"> 17.10.1 Definitions </Level>
+`<Level Type = "Heading"> 17.10.1 Definitions </Level>`
 to express the section numbers, for example, in the most elegant manner, it is included within the Level tag as another attribute, like this:
 
-<Level Num = "17.10.1">
+`<Level Num = "17.10.1">`
 
 Alternative 1: When the Section of law includes text under the heading
 <Level Type = "Heading"> Definitions </Level>
