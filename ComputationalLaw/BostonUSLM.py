@@ -28,18 +28,10 @@ print title.find(namespace + "heading").text
 
 chapterList = tree.findall(namespace + "chapter")
 counter = 0
-for chapter in chapterList:
-    counter += 1
+
+def getText(section):
     output = ""
-    chapterNum = chapter.find(namespace + "num").attrib["value"]
-    chapterHeading = chapter.find(namespace + "heading").text
-    output += "\nChapter "
-    output += chapterNum + "\n"
-    output += chapterHeading + "\n"
-    section = chapter.findall(namespace + "section")
-    
-    for section in chapter:
-        if section.tag == ("{http://xml.house.gov/schemas/uslm/1.0}section"):            
+    if section.tag == ("{http://xml.house.gov/schemas/uslm/1.0}section"):            
             title = section.find(namespace + "heading")
             output += title.text + "\n"
             
@@ -48,16 +40,37 @@ for chapter in chapterList:
                 if para.tag == ("{http://xml.house.gov/schemas/uslm/1.0}content"):
                     paragraph = para.find(namespace + "p")
 
-            if paragraph != None:
+            if paragraph != None and paragraph.text != None:
                 output +=  paragraph.text + "\n"
                                 
             subsectionList = section.findall(namespace + "subsection")    
             for subsection in subsectionList:
                 for subsectionText in subsection.itertext():
                     output += subsectionText + "\n"
-    print output
+    return output
 
-print "Number of Chapters",counter
+for chapter in chapterList:
+    counter += 1
+    output = ""
+    chapterNum = chapter.find(namespace + "num").attrib["value"]
+    chapterHeading = chapter.find(namespace + "heading").text
+    output += "\nChapter "
+    output += chapterNum + "\n"
+    output += chapterHeading + "\n"
+    #section = chapter.findall(namespace + "section")
+    
+    for child in chapter:
+        if child.tag == ("{http://xml.house.gov/schemas/uslm/1.0}subchapter"):
+            for section in child:
+                output += getText(section)
+        output += getText(child)
+    fileName = "Chapter"+str(chapterNum)+".txt"
+    f = open(fileName, 'w')
+    f.write(output.encode('utf8'))
+    f.close()
+    #print output
+
+#print "Number of Chapters",counter
 """
                 if subsection != None:
                     subsectionText = subsection.findall(namespace + "p")
