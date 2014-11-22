@@ -1,10 +1,10 @@
-0	0.12632	house member representatives committee compensation mail official members district position clerk congress commission law elect service columbia regulations resident 
-1	0.06791	board program award lobbying center chapter activities members congressional public organization director paragraph client travel fellowship section appointed hunger 
-2	0.10264	senate counsel board title service notice officer party person days executive hearing day section court action decision filed testimony 
-3	0.04753	resolution budget year section fiscal joint order committee senate report title bill authority house motion sequestration amount president deficit 
-4	0.17805	senate minority fund expenses year fiscal senator majority office secretary leader committee account contingent amount authorized paid appropriations employees 
-5	0.11573	transferred budget year legislation repealed concurrent amendment act conference provision subsection section budgetary loan pursuant revenues effects congressional paygo 
-6	0.64408	section house office representatives subsection committee title general united congress states services regulations including date provisions congressional members employees 
-7	0.05192	capitol architect senate police section center house grounds service states building administration united fiscal buildings property employee chief board 
-8	0.04111	library congress librarian recording national film registry board research fund sound program service preservation amounts seal property recordings revolving 
-9	0.1258	state federal agency local commission director private page governments number estimates tribal president budget congress sector election mandates agencies 
+0	0.17627	house senator member representatives compensation committee congress official 
+1	0.42701	senate house committee representatives office year fiscal section 
+2	0.19756	section senate title counsel house office employee committee 
+3	0.3665	board section director members office congressional program congress 
+4	0.0407	congress library librarian national film recording registry section 
+5	0.06269	capitol architect section police states united title center 
+6	0.05852	joint year section budget order resolution fiscal senate 
+7	0.15068	transferred minority majority repealed leader studio allowance omitted 
+8	0.09412	state federal notice service election local time party 
+9	0.09642	budget resolution year section report committee legislation title 
