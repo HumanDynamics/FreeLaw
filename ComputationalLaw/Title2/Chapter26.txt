@@ -1,0 +1,847 @@
+
+Chapter 26
+DISCLOSURE OF LOBBYING ACTIVITIES
+ Findings
+“(a)
+ Except as otherwise provided in this section, this Act [see Short Title note below] and the amendments made by this Act shall take effect on 
+January 1, 1996
+.
+
+
+“(b)
+ The repeals and amendments made under sections 9, 10, 11, and 12 [amending 
+section 4804 of Title 15
+, Commerce and Trade, 
+section 219 of Title 18
+, Crimes and Criminal Procedure, sections 611, 613, 614, 616, 618, and 4002 of Title 22, Foreign Relations and Intercourse, 
+section 1352 of Title 31
+, Money and Finance, and 
+section 1490p of Title 42
+, The Public Health and Welfare, repealing sections 261 to 270 of this title and 
+section 3537b of Title 42
+, and repealing provisions set out as a note under 
+section 261 of this title
+] shall take effect as provided under subsection (a), except that such repeals and amendments—
+“(1)
+ shall not affect any proceeding or suit commenced before the effective date under subsection (a), and in all such proceedings or suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted; and
+
+
+
+
+“(2)
+ shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments.”
+
+
+
+
+ Definitions
+ Registration of lobbyists
+(a)
+ Registration
+(1)
+ General rule
+No later than 45 days after a lobbyist first makes a lobbying contact or is employed or retained to make a lobbying contact, whichever is earlier, or on the first business day after such 45th day if the 45th day is not a business day, such lobbyist (or, as provided under paragraph (2), the organization employing such lobbyist), shall register with the Secretary of the Senate and the Clerk of the House of Representatives.
+
+
+
+
+
+
+(2)
+ Employer filing
+Any organization that has 1 or more employees who are lobbyists shall file a single registration under this section on behalf of such employees for each client on whose behalf the employees act as lobbyists.
+
+
+
+
+
+
+(3)
+ Exemption
+(A)
+ General rule
+Notwithstanding paragraphs (1) and (2), a person or entity whose—
+(i)
+ total income for matters related to lobbying activities on behalf of a particular client (in the case of a lobbying firm) does not exceed and is not expected to exceed $2,500; or
+
+
+
+
+(ii)
+ total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $10,000,
+(as estimated under 
+section 1604 of this title
+) in the quarterly period described in 
+section 1604(a) of this title
+ during which the registration would be made is not required to register under this subsection with respect to such client.
+
+
+
+
+
+
+
+
+(B)
+ Adjustment
+The dollar amounts in subparagraph (A) shall be adjusted—
+(i)
+ on 
+January 1, 1997
+, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) since 
+December 19, 1995
+; and
+
+
+
+
+(ii)
+ on January 1 of each fourth year occurring after 
+January 1, 1997
+, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) during the preceding 4-year period,
+
+
+
+
+
+rounded to the nearest $500.
+
+
+
+
+
+
+(b)
+ Contents of registration
+Each registration under this section shall contain—
+(1)
+ the name, address, business telephone number, and principal place of business of the registrant, and a general description of its business or activities;
+
+
+
+
+(2)
+ the name, address, and principal place of business of the registrant’s client, and a general description of its business or activities (if different from paragraph (1));
+
+
+
+
+(3)
+ the name, address, and principal place of business of any organization, other than the client, that—
+(A)
+ contributes more than $5,000 to the registrant or the client in the quarterly period to fund the lobbying activities of the registrant; and
+
+
+
+
+(B)
+ actively participates in the planning, supervision, or control of such lobbying activities;
+
+
+
+
+
+
+(4)
+ the name, address, principal place of business, amount of any contribution of more than $5,000 to the lobbying activities of the registrant, and approximate percentage of equitable ownership in the client (if any) of any foreign entity that—
+(A)
+ holds at least 20 percent equitable ownership in the client or any organization identified under paragraph (3);
+
+
+
+
+(B)
+ directly or indirectly, in whole or in major part, plans, supervises, controls, directs, finances, or subsidizes the activities of the client or any organization identified under paragraph (3); or
+
+
+
+
+(C)
+ is an affiliate of the client or any organization identified under paragraph (3) and has a direct interest in the outcome of the lobbying activity;
+
+
+
+
+
+
+(5)
+ a statement of—
+(A)
+ the general issue areas in which the registrant expects to engage in lobbying activities on behalf of the client; and
+
+
+
+
+(B)
+ to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities; and
+
+
+
+
+
+
+(6)
+ the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served.
+
+
+
+
+
+No disclosure is required under paragraph (3)(B) if the organization that would be identified as affiliated with the client is listed on the client’s publicly accessible Internet website as being a member of or contributor to the client, unless the organization in whole or in major part plans, supervises, or controls such lobbying activities. If a registrant relies upon the preceding sentence, the registrant must disclose the specific Internet address of the web page containing the information relied upon. Nothing in paragraph (3)(B) shall be construed to require the disclosure of any information about individuals who are members of, or donors to, an entity treated as a client by this chapter or an organization identified under that paragraph.
+
+
+(c)
+ Guidelines for registration
+(1)
+ Multiple clients
+In the case of a registrant making lobbying contacts on behalf of more than 1 client, a separate registration under this section shall be filed for each such client.
+
+
+
+
+
+
+(2)
+ Multiple contacts
+A registrant who makes more than 1 lobbying contact for the same client shall file a single registration covering all such lobbying contacts.
+
+
+
+
+
+
+(d)
+ Termination of registration
+A registrant who after registration—
+(1)
+ is no longer employed or retained by a client to conduct lobbying activities, and
+
+
+
+
+(2)
+ does not anticipate any additional lobbying activities for such client,
+
+
+
+
+
+may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.
+
+
+ Reports by registered lobbyists
+(a)
+ Quarterly report
+No later than 20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under 
+section 1603 of this title
+, or on the first business day after such 20th day if the 20th day is not a business day, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such quarterly period. A separate report shall be filed for each client of the registrant.
+
+
+
+
+(b)
+ Contents of report
+Each quarterly report filed under subsection (a) of this section shall contain—
+(1)
+ the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under 
+section 1603(b)(3) of this title
+;
+
+
+
+
+(2)
+ for each general issue area in which the registrant engaged in lobbying activities on behalf of the client during the quarterly period—
+(A)
+ a list of the specific issues upon which a lobbyist employed by the registrant engaged in lobbying activities, including, to the maximum extent practicable, a list of bill numbers and references to specific executive branch actions;
+
+
+
+
+(B)
+ a statement of the Houses of Congress and the Federal agencies contacted by lobbyists employed by the registrant on behalf of the client;
+
+
+
+
+(C)
+ a list of the employees of the registrant who acted as lobbyists on behalf of the client; and
+
+
+
+
+(D)
+ a description of the interest, if any, of any foreign entity identified under 
+section 1603(b)(4) of this title
+ in the specific issues listed under subparagraph (A);
+
+
+
+
+
+
+(3)
+ in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;
+
+
+
+
+(4)
+ in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period; and
+
+
+
+
+(5)
+ for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments.
+
+
+
+
+(c)
+ Estimates of income or expenses
+For purposes of this section, estimates of income or expenses shall be made as follows:
+(1)
+ Estimates of amounts in excess of $5,000 shall be rounded to the nearest $10,000.
+
+
+
+
+(2)
+ In the event income or expenses do not exceed $5,000, the registrant shall include a statement that income or expenses totaled less than $5,000 for the reporting period.
+
+
+
+
+(d)
+ Semiannual reports on certain contributions
+(1)
+ In general
+Not later than 30 days after the end of the semiannual period beginning on the first day of January and July of each year, or on the first business day after such 30th day if the 30th day is not a business day, each person or organization who is registered or is required to register under paragraph (1) or (2) of 
+section 1603(a) of this title
+, and each employee who is or is required to be listed as a lobbyist under 
+section 1603(b)(6) of this title
+ or subsection (b)(2)(C) of this section, shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives containing—
+(A)
+ the name of the person or organization;
+
+
+
+
+(B)
+ in the case of an employee, his or her employer;
+
+
+
+
+(C)
+ the names of all political committees established or controlled by the person or organization;
+
+
+
+
+(D)
+ the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;
+
+
+
+
+(E)
+ the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—
+(i)
+ to pay the cost of an event to honor or recognize a covered legislative branch official or covered executive branch official;
+
+
+
+
+(ii)
+ to an entity that is named for a covered legislative branch official, or to a person or entity in recognition of such official;
+
+
+
+
+(iii)
+ to an entity established, financed, maintained, or controlled by a covered legislative branch official or covered executive branch official, or an entity designated by such official; or
+
+
+
+
+(iv)
+ to pay the costs of a meeting, retreat, conference, or other similar event held by, or in the name of, 1 or more covered legislative branch officials or covered executive branch officials,
+
+
+
+
+
+except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under 
+section 30104 of title 52
+;
+
+
+
+
+(F)
+ the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
+
+
+
+
+(G)
+ a certification by the person or organization filing the report that the person or organization—
+(i)
+ has read and is familiar with those provisions of the Standing Rules of the Senate and the Rules of the House of Representatives relating to the provision of gifts and travel; and
+
+
+
+
+(ii)
+ has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.
+
+
+
+
+
+
+
+
+(2)
+ Definition
+In this subsection, the term “leadership PAC” has the meaning given such term in 
+section 30104(i)(8)(B) of title 52
+.
+
+
+
+
+
+
+(e)
+ Electronic filing required
+A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
+
+
+
+
+ Disclosure and enforcement
+(a)
+ In general
+The Secretary of the Senate and the Clerk of the House of Representatives shall—
+(1)
+ provide guidance and assistance on the registration and reporting requirements of this chapter and develop common standards, rules, and procedures for compliance with this chapter;
+
+
+
+
+(2)
+ review, and, where necessary, verify and inquire to ensure the accuracy, completeness, and timeliness of registration and reports;
+
+
+
+
+(3)
+ develop filing, coding, and cross-indexing systems to carry out the purpose of this chapter, including—
+(A)
+ a publicly available list of all registered lobbyists, lobbying firms, and their clients; and
+
+
+
+
+(B)
+ computerized systems designed to minimize the burden of filing and maximize public access to materials filed under this chapter;
+
+
+
+
+
+
+(4)
+ make available for public inspection and copying at reasonable times the registrations and reports filed under this chapter and, in the case of a report filed in electronic form under 
+section 1604(e) of this title
+, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed;
+
+
+
+
+(5)
+ retain registrations for a period of at least 6 years after they are terminated and reports for a period of at least 6 years after they are filed;
+
+
+
+
+(6)
+ compile and summarize, with respect to each quarterly period, the information contained in registrations and reports filed with respect to such period in a clear and complete manner;
+
+
+
+
+(7)
+ notify any lobbyist or lobbying firm in writing that may be in noncompliance with this chapter;
+
+
+
+
+(8)
+ notify the United States Attorney for the District of Columbia that a lobbyist or lobbying firm may be in noncompliance with this chapter, if the registrant has been notified in writing and has failed to provide an appropriate response within 60 days after notice was given under paragraph (7);
+
+
+
+
+(9)
+ maintain all registrations and reports filed under this chapter, and make them available to the public over the Internet, without a fee or other access charge, in a searchable, sortable, and downloadable manner, to the extent technically practicable, that—
+(A)
+ includes the information contained in the registrations and reports;
+
+
+
+
+(B)
+ is searchable and sortable to the maximum extent practicable, including searchable and sortable by each of the categories of information described in section 1603(b) or 1604(b) of this title; and
+
+
+
+
+(C)
+ provides electronic links or other appropriate mechanisms to allow users to obtain relevant information in the database of the Federal Election Commission;
+
+
+
+
+
+
+(10)
+ retain the information contained in a registration or report filed under this chapter for a period of 6 years after the registration or report (as the case may be) is filed; and
+
+
+
+
+(11)
+ make publicly available, on a semiannual basis, the aggregate number of registrants referred to the United States Attorney for the District of Columbia for noncompliance as required by paragraph (8).
+
+
+
+
+(b)
+ Enforcement report
+(1)
+ Report
+The Attorney General shall report to the congressional committees referred to in paragraph (2), after the end of each semiannual period beginning on January 1 and July 1, the aggregate number of enforcement actions taken by the Department of Justice under this chapter during that semiannual period and, by case, any sentences imposed, except that such report shall not include the names of individuals, or personally identifiable information, that is not already a matter of public record.
+
+
+
+
+
+
+(2)
+ Committees
+The congressional committees referred to in paragraph (1) are the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+
+
+
+
+
+
+ Penalties
+(a)
+ Civil penalty
+Whoever knowingly fails to—
+(1)
+ remedy a defective filing within 60 days after notice of such a defect by the Secretary of the Senate or the Clerk of the House of Representatives; or
+
+
+
+
+(2)
+ comply with any other provision of this chapter;
+
+
+
+
+
+shall, upon proof of such knowing violation by a preponderance of the evidence, be subject to a civil fine of not more than $200,000, depending on the extent and gravity of the violation.
+
+
+(b)
+ Criminal penalty
+Whoever knowingly and corruptly fails to comply with any provision of this chapter shall be imprisoned for not more than 5 years or fined under title 18, or both.
+
+
+
+
+ Rules of construction
+(a)
+ Constitutional rights
+Nothing in this chapter shall be construed to prohibit or interfere with—
+(1)
+ the right to petition the Government for the redress of grievances;
+
+
+
+
+(2)
+ the right to express a personal opinion; or
+
+
+
+
+(3)
+ the right of association,
+
+
+
+
+
+protected by the first amendment to the Constitution.
+
+
+(b)
+ Prohibition of activities
+Nothing in this chapter shall be construed to prohibit, or to authorize any court to prohibit, lobbying activities or lobbying contacts by any person or entity, regardless of whether such person or entity is in compliance with the requirements of this chapter.
+
+
+
+
+(c)
+ Audit and investigations
+Nothing in this chapter shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.
+
+
+
+
+ Severability
+If any provision of this chapter, or the application thereof, is held invalid, the validity of the remainder of this chapter and the application of such provision to other persons and circumstances shall not be affected thereby.
+ Identification of clients and covered officials
+(a)
+ Oral lobbying contacts
+Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
+(1)
+ state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and
+
+
+
+
+(2)
+ state whether such client is a foreign entity and identify any foreign entity required to be disclosed under 
+section 1603(b)(4) of this title
+ that has a direct interest in the outcome of the lobbying activity.
+
+
+
+
+(b)
+ Written lobbying contacts
+Any person or entity registered under this chapter that makes a written lobbying contact (including an electronic communication) with a covered legislative branch official or a covered executive branch official shall—
+(1)
+ if the client on whose behalf the lobbying contact was made is a foreign entity, identify such client, state that the client is considered a foreign entity under this chapter, and state whether the person making the lobbying contact is registered on behalf of that client under 
+section 1603 of this title
+; and
+
+
+
+
+(2)
+ identify any other foreign entity identified pursuant to 
+section 1603(b)(4) of this title
+ that has a direct interest in the outcome of the lobbying activity.
+
+
+
+
+(c)
+ Identification as covered official
+Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.
+
+
+
+
+ Estimates based on tax reporting system
+(a)
+ Entities covered by 
+section 6033(b) of title 26
+A person, other than a lobbying firm, that is required to report and does report lobbying expenditures pursuant to 
+section 6033(b)(8) of title 26
+ may—
+(1)
+ make a good faith estimate (by category of dollar value) of applicable amounts that would be required to be disclosed under such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
+
+
+
+
+(2)
+ for all other purposes consider as lobbying contacts and lobbying activities only—
+(A)
+ lobbying contacts with covered legislative branch officials (as defined in 
+section 1602(4) of this title
+) and lobbying activities in support of such contacts; and
+
+
+
+
+(B)
+ lobbying of Federal executive branch officials to the extent that such activities are influencing legislation as defined in 
+section 4911(d) of title 26
+.
+
+
+
+
+
+
+(b)
+ Entities covered by 
+section 162(e) of title 26
+A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to 
+section 162(e) of title 26
+ may—
+(1)
+ make a good faith estimate (by category of dollar value) of applicable amounts that would not be deductible pursuant to such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
+
+
+
+
+(2)
+ for all other purposes consider as lobbying contacts and lobbying activities only—
+(A)
+ lobbying contacts with covered legislative branch officials (as defined in 
+section 1602(4) of this title
+) and lobbying activities in support of such contacts; and
+
+
+
+
+(B)
+ lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to 
+section 162(e) of title 26
+.
+
+
+
+
+
+
+(c)
+ Disclosure of estimate
+Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
+(1)
+ inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
+
+
+
+
+(2)
+ make all such estimates, in a given calendar year, under such procedures.
+
+
+
+
+(d)
+ Study
+Not later than 
+March 31, 1997
+, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) of this section and report to the Congress—
+(1)
+ the differences between the definition of “lobbying activities” in 
+section 1602(7) of this title
+ and the definitions of “lobbying expenditures”, “influencing legislation”, and related terms in sections 162(e) and 4911 of title 26, as each are implemented by regulations;
+
+
+
+
+(2)
+ the impact that any such differences may have on filing and reporting under this chapter pursuant to this subsection; and
+
+
+
+
+(3)
+ any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
+
+
+
+
+ Exempt organizations
+An organization described in 
+ Sense of Senate that lobbying expenses should remain nondeductible
+(a)
+ Findings
+The Senate finds that ordinary Americans generally are not allowed to deduct the costs of communicating with their elected representatives.
+
+
+
+
+(b)
+ Sense of Senate
+It is the sense of the Senate that lobbying expenses should not be tax deductible.
+
+
+
+
+ Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees
+(a)
+ Prohibition
+Any person described in subsection (b) may not make a gift or provide travel to a covered legislative branch official if the person has knowledge that the gift or travel may not be accepted by that covered legislative branch official under the Rules of the House of Representatives or the Standing Rules of the Senate (as the case may be).
+
+
+
+
+(b)
+ Persons subject to prohibition
+The persons subject to the prohibition under subsection (a) are any lobbyist that is registered or is required to register under 
+section 1603(a)(1) of this title
+, any organization that employs 1 or more lobbyists and is registered or is required to register under 
+section 1603(a)(2) of this title
+, and any employee listed or required to be listed as a lobbyist by a registrant under section 1603(b)(6) or 1604(b)(2)(C) of this title.
+
+
+
+
+ Annual audits and reports by Comptroller General
+(a)
+ Audit
+On an annual basis, the Comptroller General shall audit the extent of compliance or noncompliance with the requirements of this chapter by lobbyists, lobbying firms, and registrants through a random sampling of publicly available lobbying registrations and reports filed under this chapter during each calendar year.
+
+
+
+
+(b)
+ Reports to Congress
+(1)
+ Annual reports
+Not later than April 1 of each year, the Comptroller General shall submit to the Congress a report on the review required by subsection (a) for the preceding calendar year. The report shall include the Comptroller General’s assessment of the matters required to be emphasized by that subsection and any recommendations of the Comptroller General to—
+(A)
+ improve the compliance by lobbyists, lobbying firms, and registrants with the requirements of this chapter; and
+
+
+
+
+(B)
+ provide the Department of Justice with the resources and authorities needed for the effective enforcement of this chapter.
+
+
+
+
+
+
+(2)
+ Assessment of compliance
+The annual report under paragraph (1) shall include an assessment of compliance by registrants with the requirements of 
+section 1603(b)(3) of this title
+.
+
+
+
+
+
+
+(c)
+ Access to information
+The Comptroller General may, in carrying out this section, request information from and access to any relevant documents from any person registered under paragraph (1) or (2) of 
+section 1603(a) of this title
+ and each employee who is listed as a lobbyist under 
+section 1603(b)(6) of this title
+ or 
+section 1604(b)(2)(C) of this title
+ if the material requested relates to the purposes of this section. The Comptroller General may request such person to submit in writing such information as the Comptroller General may prescribe. The Comptroller General may notify the Congress in writing if a person from whom information has been requested under this subsection refuses to comply with the request within 45 days after the request is made.
+
+
+
+
