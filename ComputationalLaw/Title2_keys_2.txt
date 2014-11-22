@@ -1,0 +1,10 @@
+0	0.0351	congress library librarian 
+1	0.15264	senate section counsel 
+2	0.06421	capitol architect section 
+3	0.16448	board program director 
+4	0.19529	senate minority expenses 
+5	0.09157	transferred joint year 
+6	0.07557	federal section year 
+7	0.1036	budget resolution year 
+8	0.55587	house office representatives 
+9	0.10413	state member representatives 
