@@ -1,0 +1,10 @@
+0	5	house representatives committee member compensation members speaker law congress respect officer position district time administrative service state employees staff 
+1	5	joint year section budget resolution order fiscal senate title committee report sequestration president authority fund motion deficit account bill 
+2	5	board section director office program congressional appointed members carry congress general services public subsection states united personnel functions government 
+3	5	transferred senate office counsel section repealed title omitted officer chapter executive hearing regulations general action board decision court page 
+4	5	capitol architect section house states senate united representatives police employee title administration services date general committee fiscal center building 
+5	5	congress library librarian recording national service film research registry sound preservation revolving fund title seal time testimony recordings amounts 
+6	5	subsection act paragraph section title made provisions effect pursuant provided ii year period purposes senate subchapter budgetary legislation estimates 
+7	5	budget resolution committee fiscal house amendment order report year conference senate bill concurrent representatives section authority loan direct outlays 
+8	5	senate office expenses year minority fiscal majority senator fund secretary funds appropriations paid committee leader account section employees amount 
+9	5	federal section title commission state person information official agency general rule lobbying local filed review travel employee report day 
