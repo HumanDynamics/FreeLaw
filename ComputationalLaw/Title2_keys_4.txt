@@ -1,0 +1,5 @@
+0	0.11869	capitol architect transferred 
+1	0.14691	congress board library 
+2	0.33053	senate house office 
+3	0.09818	budget year resolution 
+4	0.1534	representatives house committee 
