@@ -1,0 +1,1662 @@
+
+Chapter 86
+EARTHQUAKE HAZARDS REDUCTION
+ Congressional findings
+ Congressional statement of purpose
+ Definitions
+ National Earthquake Hazards Reduction Program
+(a)
+ Establishment
+(1)
+ In general
+There is established the National Earthquake Hazards Reduction Program.
+
+
+
+
+
+
+(2)
+ Program activities
+The activities of the Program shall be designed to—
+(A)
+ develop effective measures for earthquake hazards reduction;
+
+
+
+
+(B)
+ promote the adoption of earthquake hazards reduction measures by Federal, State, and local governments, national standards and model code organizations, architects and engineers, building owners, and others with a role in planning and constructing buildings, structures, and lifelines through—
+(i)
+ grants, contracts, cooperative agreements, and technical assistance;
+
+
+
+
+(ii)
+ development of standards, guidelines, and voluntary consensus codes for earthquake hazards reduction for buildings, structures, and lifelines;
+
+
+
+
+(iii)
+ development and maintenance of a repository of information, including technical data, on seismic risk and hazards reduction; and
+
+
+
+
+
+
+(C)
+ improve the understanding of earthquakes and their effects on communities, buildings, structures, and lifelines, through interdisciplinary research that involves engineering, natural sciences, and social, economic, and decisions sciences; and
+
+
+
+
+(D)
+ develop, operate, and maintain an Advanced National Seismic Research and Monitoring System established under 
+section 7707 of this title
+, the George E. Brown, Jr. Network for Earthquake Engineering Simulation established under 
+section 7708 of this title
+, and the Global Seismographic Network.
+
+
+
+
+
+
+(3)
+ Interagency Coordinating Committee on Earthquake Hazards Reduction
+(A)
+ In general
+There is established an Interagency Coordinating Committee on Earthquake Hazards Reduction chaired by the Director of the National Institute of Standards and Technology (referred to in this subsection as the “Director”).
+
+
+
+
+
+
+(B)
+ Membership
+The committee shall be composed of the directors of—
+(i)
+ the Federal Emergency Management Agency;
+
+
+
+
+(ii)
+ the United States Geological Survey;
+
+
+
+
+(iii)
+ the National Science Foundation;
+
+
+
+
+(iv)
+ the Office of Science and Technology Policy; and
+
+
+
+
+(v)
+ the Office of Management and Budget.
+
+
+
+
+
+
+(C)
+ Meetings
+The Committee shall meet not less than 3 times a year at the call of the Director.
+
+
+
+
+
+
+(D)
+ Purpose and duties
+The Interagency Coordinating Committee shall oversee the planning, management, and coordination of the Program. The Interagency Coordinating Committee shall—
+(i)
+ develop, not later than 6 months after 
+October 25, 2004
+, and update periodically—
+(I)
+ a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2) of this section; and
+
+
+
+
+(II)
+ a detailed management plan to implement such strategic plan; and
+
+
+
+
+
+
+(ii)
+ develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2) of this section, and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
+
+
+
+
+
+
+
+
+(4)
+ Annual report
+The Interagency Coordinating Committee shall transmit, at the time of the President’s budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
+(A)
+ the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under subparagraph (3)(A);
+
+
+
+
+(B)
+ the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under subparagraph (3)(A);
+
+
+
+
+(C)
+ a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under (3)(A) 
+1
+1
+ So in original. Probably should be preceded by “subparagraph”.
+ ;
+
+
+
+
+(D)
+ a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
+
+
+
+
+(E)
+ a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program; and
+
+
+
+
+(F)
+ a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i) of this section.
+
+
+
+
+
+
+(5)
+ Advisory Committee
+(A)
+ In general
+The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of 
+section 7342(a)(1) of title 5
+ 
+2
+2
+ So in original. Probably should be followed by a closing parenthesis.
+ including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
+
+
+
+
+
+
+(B)
+ Assessment
+The Advisory Committee shall assess—
+(i)
+ trends and developments in the science and engineering of earthquake hazards reduction;
+
+
+
+
+(ii)
+ effectiveness of the Program in carrying out the activities under (a)(2) 
+3
+3
+ So in original. Probably should be preceded by “subsection”.
+ of this section;
+
+
+
+
+(iii)
+ the need to revise the Program; and
+
+
+
+
+(iv)
+ the management, coordination, implementation, and activities of the Program.
+
+
+
+
+
+
+(C)
+ Report
+Not later than 1 year after 
+October 25, 2004
+, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
+
+
+
+
+
+
+(D)
+ Federal Advisory Committee Act application
+Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14) shall not apply to the Advisory Committee.
+
+
+
+
+
+
+
+
+(b)
+ Responsibilities of Program agencies
+(1)
+ Lead agency
+The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute shall—
+(A)
+ ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
+
+
+
+
+(B)
+ support the development of performance-based seismic engineering tools, and work with appropriate groups to promote the commercial application of such tools, through earthquake-related building codes, standards, and construction practices;
+
+
+
+
+(C)
+ request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter; and
+
+
+
+
+(D)
+ work with the Federal Emergency Management Agency, the National Science Foundation, and the United States Geological Survey, to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (existing at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+
+
+
+
+
+
+(2)
+ Department of Homeland Security; Federal Emergency Management Agency
+(A)
+ Program responsibilities
+The Under Secretary of Homeland Security for Emergency Preparedness and Response (the Administrator of the Federal Emergency Management Agency)—
+(i)
+ shall work closely with national standards and model building code organizations, in conjunction with the National Institute of Standards and Technology, to promote the implementation of research results;
+
+
+
+
+(ii)
+ shall promote better building practices within the building design and construction industry including architects, engineers, contractors, builders, and inspectors;
+
+
+
+
+(iii)
+ shall operate a program of grants and assistance to enable States to develop mitigation, preparedness, and response plans, prepare inventories and conduct seismic safety inspections of critical structures and lifelines, update building and zoning codes and ordinances to enhance seismic safety, increase earthquake awareness and education, and encourage the development of multi-State groups for such purposes;
+
+
+
+
+(iv)
+ shall support the implementation of a comprehensive earthquake education and public awareness program, including development of materials and their wide dissemination to all appropriate audiences and support public access to locality-specific information that may assist the public in preparing for, mitigating against, responding to and recovering from earthquakes and related disasters;
+
+
+
+
+(v)
+ shall assist the National Institute of Standards and Technology, other Federal agencies, and private sector groups, in the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifelines, and aid in the development of performance-based design guidelines and methodologies supporting model codes for buildings, structures, and lifelines that are cost effective and affordable;
+
+
+
+
+(vi)
+ shall develop, coordinate, and execute the National Response Plan when required following an earthquake, and support the development of specific State and local plans for each high risk area to ensure the availability of adequate emergency medical resources, search and rescue personnel and equipment, and emergency broadcast capability;
+
+
+
+
+(vii)
+ shall develop approaches to combine measures for earthquake hazards reduction with measures for reduction of other natural and technological hazards including performance-based design approaches;
+
+
+
+
+(viii)
+ shall provide preparedness, response, and mitigation recommendations to communities after an earthquake prediction has been made under paragraph (3)(D); and
+
+
+
+
+(ix)
+ may enter into cooperative agreements or contracts with States and local jurisdictions and other Federal agencies to establish demonstration projects on earthquake hazard mitigation, to link earthquake research and mitigation efforts with emergency management programs, or to prepare educational materials for national distribution.
+
+
+
+
+
+
+(B)
+ State assistance program criteria
+In order to qualify for assistance under subparagraph (A)(i), a State must—
+(i)
+ demonstrate that the assistance will result in enhanced seismic safety in the State;
+
+
+
+
+(ii)
+ provide a share of the costs of the activities for which assistance is being given, in accordance with subparagraph (C); and
+
+
+
+
+(iii)
+ meet such other requirements as the Administrator of the Agency shall prescribe.
+
+
+
+
+
+
+(C)
+ Non-Federal cost sharing
+(i)
+ In the case of any State which has received, before 
+October 1, 1990
+, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
+
+
+
+
+(ii)
+ In the case of any State which has not received, before 
+October 1, 1990
+, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date—
+(I)
+ shall not include a requirement for cost sharing for the first fiscal year of such a grant;
+
+
+
+
+(II)
+ shall not include a requirement for cost sharing in an amount greater than 25 percent of the cost of the project for which the grant is made for the second fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions;
+
+
+
+
+(III)
+ shall not include a requirement for cost sharing in an amount greater than 35 percent of the cost of the project for which the grant is made for the third fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions; and
+
+
+
+
+(IV)
+ shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made for the fourth and subsequent fiscal years of such grant.
+
+
+
+
+
+
+
+
+
+
+(3)
+ United States Geological Survey
+The United States Geological Survey shall conduct research and other activities necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake predictions. In carrying out this paragraph, the Director of the United States Geological Survey shall—
+(A)
+ conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
+
+
+
+
+(B)
+ work with officials of State and local governments to ensure that they are knowledgeable about the specific seismic risks in their areas;
+
+
+
+
+(C)
+ develop standard procedures, in consultation with the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology, for issuing earthquake predictions, including aftershock advisories;
+
+
+
+
+(D)
+ issue when necessary, and notify the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
+
+
+
+
+(E)
+ operate, using the National Earthquake Information Center, a forum for the international exchange of earthquake information which shall—
+(i)
+ promote the exchange of information on earthquake research and earthquake preparedness between the United States and other nations;
+
+
+
+
+(ii)
+ maintain a library containing selected reports, research papers, and data produced through the Program;
+
+
+
+
+(iii)
+ answer requests from other nations for information on United States earthquake research and earthquake preparedness programs; and
+
+
+
+
+(iv)
+ direct foreign requests to the agency involved in the Program which is best able to respond to the request;
+
+
+
+
+
+
+(F)
+ operate a National Seismic System;
+
+
+
+
+(G)
+ support regional seismic networks, which shall complement the National Seismic Network; and 
+4
+4
+ So in original. The word “and” probably should not appear.
+
+
+
+
+(H)
+ work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+5
+5
+ So in original. The period probably should be a semicolon.
+
+
+
+
+(I)
+ work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries; and
+
+
+
+
+(J)
+ maintain suitable seismic hazard maps in support of building codes for structures and lifelines, including additional maps needed for performance-based design approaches.
+
+
+
+
+
+
+(4)
+ National Science Foundation
+The National Science Foundation shall be responsible for funding research on earth sciences to improve the understanding of the causes and behavior of earthquakes, on earthquake engineering, and on human response to earthquakes. In carrying out this paragraph, the Director of the National Science Foundation shall—
+(A)
+ encourage prompt dissemination of significant findings, sharing of data, samples, physical collections, and other supporting materials, and development of intellectual property so research results can be used by appropriate organizations to mitigate earthquake damage;
+
+
+
+
+(B)
+ in addition to supporting individual investigators, support university research consortia and centers for research in geosciences and in earthquake engineering;
+
+
+
+
+(C)
+ work closely with the United States Geological Survey to identify geographic regions of national concern that should be the focus of targeted solicitations for earthquake-related research proposals;
+
+
+
+
+(D)
+ support research that improves the safety and performance of buildings, structures, and lifeline systems using large-scale experimental and computational facilities of the George E. Brown Jr. Network for Earthquake Engineering Simulation and other institutions engaged in research and the implementation of the National Earthquake Hazards Reduction Program;
+
+
+
+
+(E)
+ emphasize, in earthquake engineering research, development of economically feasible methods to retrofit existing buildings and to protect lifelines to mitigate earthquake damage;
+
+
+
+
+(F)
+ support research that studies the political, economic, and social factors that influence the implementation of hazard reduction measures;
+
+
+
+
+(G)
+ include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations; and
+
+
+
+
+(H)
+ develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+
+
+
+
+
+
+(5)
+ National Institute of Standards and Technology
+In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technology shall be responsible for carrying out research and development to improve building codes and standards and practices for structures and lifelines. In carrying out this paragraph, the Director of the National Institute of Standards and Technology shall—
+(A)
+ work closely with national standards and model building code organizations, in conjunction with the Agency, to promote the implementation of research results;
+
+
+
+
+(B)
+ promote better building practices among architects and engineers;
+
+
+
+
+(C)
+ work closely with national standards organizations to develop seismic safety standards and practices for new and existing lifelines;
+
+
+
+
+(D)
+ support the development and commercial application of cost effective and affordable performance-based seismic engineering by providing technical support for seismic engineering practices and related building code, standards, and practices development; and
+
+
+
+
+(E)
+ work with the National Science Foundation, the Federal Emergency Management Agency, and the United States Geological Survey to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+
+
+
+
+
+
+(c)
+ Budget coordination
+(1)
+ Guidance
+The Interagency Coordinating Committee shall each year provide guidance to the other Program agencies concerning the preparation of requests for appropriations for activities related to the Program, and shall prepare, in conjunction with the other Program agencies, an annual Program budget to be submitted to the Office of Management and Budget.
+
+
+
+
+
+
+(2)
+ Reports
+Each Program agency shall include with its annual request for appropriations submitted to the Office of Management and Budget a report that—
+(A)
+ identifies each element of the proposed Program activities of the agency;
+
+
+
+
+(B)
+ specifies how each of these activities contributes to the Program; and
+
+
+
+
+(C)
+ states the portion of its request for appropriations allocated to each element of the Program.
+
+
+
+
+
+
+“(a)
+ Automatic Seismic Warning System Development.—
+“(1)
+ 
+Definitions
+.—
+In this section:
+“(A)
+ 
+Director
+.—
+The term ‘Director’ means the Director of the United States Geological Survey.
+
+
+
+
+“(B)
+ 
+High-risk activity
+.—
+The term ‘high-risk activity’ means an activity that may be adversely affected by a moderate to severe seismic event (as determined by the Director). The term includes high-speed rail transportation.
+
+
+
+
+“(C)
+ 
+Real-time seismic warning system
+.—
+The term ‘real-time seismic warning system’ means a system that issues warnings in real-time from a network of seismic sensors to a set of analysis processors, directly to receivers related to high-risk activities.
+
+
+
+
+
+
+“(2)
+ 
+In general
+.—
+The Director shall conduct a program to develop a prototype real-time seismic warning system. The Director may enter into such agreements or contracts as may be necessary to carry out the program.
+
+
+
+
+“(3)
+ 
+Upgrade of seismic sensors
+.—
+In carrying out a program under paragraph (2), in order to increase the accuracy and speed of seismic event analysis to provide for timely warning signals, the Director shall provide for the upgrading of the network of seismic sensors participating in the prototype to increase the capability of the sensors—
+“(A)
+ to measure accurately large magnitude seismic events (as determined by the Director); and
+
+
+
+
+“(B)
+ to acquire additional parametric data.
+
+
+
+
+
+
+“(4)
+ 
+Development of communications and computation infrastructure
+.—
+In carrying out a program under paragraph (2), the Director shall develop a communications and computation infrastructure that is necessary—
+“(A)
+ to process the data obtained from the upgraded seismic sensor network referred to in paragraph (3); and
+
+
+
+
+“(B)
+ to provide for, and carry out, such communications engineering and development as is necessary to facilitate—
+“(i)
+ the timely flow of data within a real-time seismic hazard warning system; and
+
+
+
+
+“(ii)
+ the issuance of warnings to receivers related to high-risk activities.
+
+
+
+
+
+
+
+
+“(5)
+ 
+Procurement of computer hardware and computer software
+.—
+In carrying out a program under paragraph (2), the Director shall procure such computer hardware and computer software as may be necessary to carry out the program.
+
+
+
+
+“(6)
+ Reports on progress.—
+“(A)
+ 
+In general
+.—
+Not later than 120 days after the date of enactment of this Act [
+Oct. 1, 1997
+], the Director shall prepare and submit to Congress a report that contains a plan for implementing a real-time seismic hazard warning system.
+
+
+
+
+“(B)
+ 
+Additional reports
+.—
+Not later than 1 year after the date on which the Director submits the report under subparagraph (A), and annually thereafter, the Director shall prepare and submit to Congress a report that summarizes the progress of the Director in implementing the plan referred to in subparagraph (A).
+
+
+
+
+
+
+“(7)
+ 
+Authorization of appropriations
+.—
+In addition to the amounts made available to the Director under section 12(b) of the Earthquake Hazards Reduction Act of 1977 (
+42 U.S.C. 7706(b)
+), there are authorized to be appropriated to the Department of the Interior, to be used by the Director to carry out paragraph (2), $3,000,000 for each of fiscal years 1998 and 1999; $2,600,000 for fiscal year 2001; $2,710,000 for fiscal year 2002; and $2,825,000 for fiscal year 2003.
+
+
+
+
+“(b)
+ Seismic Monitoring Networks Assessment.—
+“(1)
+ 
+In general
+.—
+The Director shall provide for an assessment of regional seismic monitoring networks in the United States. The assessment shall address—
+“(A)
+ the need to update the infrastructure used for collecting seismological data for research and monitoring of seismic events in the United States;
+
+
+
+
+“(B)
+ the need for expanding the capability to record strong ground motions, especially for urban area engineering purposes;
+
+
+
+
+“(C)
+ the need to measure accurately large magnitude seismic events (as determined by the Director);
+
+
+
+
+“(D)
+ the need to acquire additional parametric data; and
+
+
+
+
+“(E)
+ projected costs for meeting the needs described in subparagraphs (A) through (D).
+
+
+
+
+
+
+“(2)
+ 
+Results
+.—
+The Director shall transmit the results of the assessment conducted under this subsection to Congress not later than 1 year after the date of enactment of this Act [
+Oct. 1, 1997
+].
+
+
+
+
+“(c)
+ Earth Science Teaching Materials.—
+“(1)
+ 
+Definitions
+.—
+In this subsection:
+“(A)
+ 
+Local educational agency
+.—
+The term ‘local educational agency’ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 [
+20 U.S.C. 7801
+].
+
+
+
+
+“(B)
+ 
+School
+.—
+The term ‘school’ means a nonprofit institutional day or residential school that provides education for any of the grades kindergarten through grade 12.
+
+
+
+
+
+
+“(2)
+ 
+Teaching materials
+.—
+In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (
+42 U.S.C. 7704(b)(4)
+) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (
+42 U.S.C. 7706(c)
+) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+
+
+
+
+“(d)
+ Improved Seismic Hazard Assessment.—
+“(1)
+ 
+In general
+.—
+As soon as practicable after the date of enactment of this Act [
+Oct. 1, 1997
+], the Director shall conduct a project to improve the seismic hazard assessment of seismic zones.
+
+
+
+
+“(2)
+ Reports.—
+“(A)
+ 
+In general
+.—
+Not later than 1 year after the date of enactment of this Act, and annually during the period of the project, the Director shall prepare, and submit to Congress, a report on the findings of the project.
+
+
+
+
+“(B)
+ 
+Final report
+.—
+Not later than 60 days after the date of termination of the project conducted under this subsection, the Director shall prepare and submit to Congress a report concerning the findings of the project.
+
+
+
+
+
+
+“(e)
+ Study of National Earthquake Emergency Training Capabilities.—
+“(1)
+ 
+In general
+.—
+The Director of the Federal Emergency Management Agency shall conduct an assessment of the need for additional Federal disaster-response training capabilities that are applicable to earthquake response.
+
+
+
+
+“(2)
+ 
+Contents of assessment
+.—
+The assessment conducted under this subsection shall include—
+“(A)
+ a review of the disaster training programs offered by the Federal Emergency Management Agency at the time of the assessment;
+
+
+
+
+“(B)
+ an estimate of the number and types of emergency response personnel that have, during the period beginning on 
+January 1, 1990
+ and ending on 
+July 1, 1997
+, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
+
+
+
+
+“(C)
+ a recommendation on the need to provide additional Federal disaster-response training centers.
+
+
+
+
+
+
+“(3)
+ 
+Report
+.—
+Not later than 180 days after the date of enactment of this Act [
+Oct. 1, 1997
+], the Director shall prepare and submit to Congress a report that addresses the results of the assessment conducted under this subsection.”
+
+
+
+
+ Report on seismic safety property standards
+(a)
+ Authority
+The Secretary of Housing and Urban Development (in this section referred to as the “Secretary”) shall assess the risk of earthquake-related damage to properties assisted under programs administered by the Secretary and shall develop seismic safety standards for such properties. This section may not be construed to prohibit the Secretary from deferring to local building codes that meet the requirements of the seismic safety standards developed under this section.
+
+
+
+
+(b)
+ Standards
+The standards shall be designed to reduce the risk of loss of life to building occupants to the maximum extent feasible and to reduce the risk of shake-related property damage to the maximum extent practicable.
+
+
+
+
+(c)
+ Consultation
+In carrying out this section, the Secretary shall consult with the Administrator of the Federal Emergency Management Agency and may utilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 [
+42 U.S.C. 7701
+ et seq.]) and any other resources as may be required to carry out the activities under this section.
+
+
+
+
+ Repealed. 
+ Seismic standards
+(a)
+ Buildings
+(1)
+ Adoption of standards
+The President shall adopt, not later than 
+December 1, 1994
+, standards for assessing and enhancing the seismic safety of existing buildings constructed for or leased by the Federal Government which were designed and constructed without adequate seismic design and construction standards. Such standards shall be developed by the Interagency Committee on Seismic Safety in Construction, whose chairman is the Director of the National Institute of Standards and Technology or his designee, and which shall work in consultation with appropriate private sector organizations.
+
+
+
+
+
+
+(2)
+ Report to Congress
+The President shall report to the Congress, not later than 
+December 1, 1994
+, on how the standards adopted under paragraph (1) could be applied with respect to buildings—
+(A)
+ for which Federal financial assistance has been obtained through grants, loans, financing guarantees, or loan or mortgage insurance programs; or
+
+
+
+
+(B)
+ the structural safety of which is regulated by a Federal agency.
+
+
+
+
+
+
+(3)
+ Regulations
+The President shall ensure the issuance, before 
+February 1, 1993
+, by all Federal agencies of final regulations required by section 4(b) of Executive Order numbered 12699, issued 
+January 5, 1990
+.
+
+
+
+
+
+
+(b)
+ Lifelines
+The Administrator of the Agency, in consultation with the Director of the National Institute of Standards and Technology, shall submit to the Congress, not later than 
+June 30, 1992
+, a plan, including precise timetables and budget estimates, for developing and adopting, in consultation with appropriate private sector organizations, design and construction standards for lifelines. The plan shall include recommendations of ways Federal regulatory authority could be used to expedite the implementation of such standards.
+
+
+
+
+ Acceptance of gifts
+(a)
+ Authority
+In furtherance of the purposes of this chapter, the Administrator of the Agency may accept and use bequests, gifts, or donations of services, money, or property, notwithstanding 
+section 1342 of title 31
+.
+
+
+
+
+(b)
+ Criteria
+The Administrator of the Agency shall establish by regulation criteria for determining whether to accept bequests, gifts, or donations of services, money, or property. Such criteria shall take into consideration whether the acceptance of the bequest, gift, or donation would reflect unfavorably on the Administrator’s ability to carry out his responsibilities in a fair and objective manner, or would compromise the integrity of, or the appearance of the integrity of, the Program or any official involved in administering the Program.
+
+
+
+
+ Repealed. 
+ Post-earthquake investigations program
+ Authorization of appropriations
+(a)
+ General authorization for program
+(1)
+ There are authorized to be appropriated to the President to carry out the provisions of sections 7704 and 7705 
+1
+1
+ See References in Text note below.
+ of this title (in addition to any authorizations for similar purposes included in other Acts and the authorizations set forth in subsections (b) and (c) of this section), not to exceed $1,000,000 for the fiscal year ending 
+September 30, 1978
+, not to exceed $2,000,000 for the fiscal year ending 
+September 30, 1979
+, and not to exceed $2,000,000 for the fiscal year ending 
+September 30, 1980
+.
+
+
+
+
+(2)
+ There are authorized to be appropriated to the Director to carry out the provisions of sections 7704 and 7705 
+1
+ of this title for the fiscal year ending 
+September 30, 1981
+—
+(A)
+ $1,000,000 for continuation of the Interagency Committee on Seismic Safety in Construction and the Building Seismic Safety Council programs,
+
+
+
+
+(B)
+ $1,500,000 for plans and preparedness for earthquake disasters,
+
+
+
+
+(C)
+ $500,000 for prediction response planning,
+
+
+
+
+(D)
+ $600,000 for architectural and engineering planning and practice programs,
+
+
+
+
+(E)
+ $1,000,000 for development and application of a public education program,
+
+
+
+
+(F)
+ $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c) of this section, which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
+
+
+
+
+(G)
+ $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) of this section for earthquake activities in the Center.
+
+
+
+
+
+
+(3)
+ There are authorized to be appropriated to the Director for the fiscal year ending 
+September 30, 1982
+, $2,000,000 to carry out the provisions of sections 7704 and 7705 
+1
+ of this title.
+
+
+
+
+(4)
+ There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 
+1
+ of this title, $1,281,000 for the fiscal year ending 
+September 30, 1983
+.
+
+
+
+
+(5)
+ There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 
+1
+ of this title, for the fiscal year ending 
+September 30, 1984
+, $3,705,000, and for the fiscal year ending 
+September 30, 1985
+, $6,096,000.
+
+
+
+
+(6)
+ There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 
+1
+ of this title, for the fiscal year ending 
+September 30, 1986
+, $5,596,000, and for the fiscal year ending 
+September 30, 1987
+, $5,848,000.
+
+
+
+
+(7)
+ There are authorized to be appropriated to the Administrator of the Agency, to carry out this chapter, $5,778,000 for the fiscal year ending 
+September 30, 1988
+, $5,788,000 for the fiscal year ending 
+September 30, 1989
+, $8,798,000 for the fiscal year ending 
+September 30, 1990
+, $14,750,000 for the fiscal year ending 
+September 30, 1991
+, $19,000,000 for the fiscal year ending 
+September 30, 1992
+, $22,000,000 for the fiscal year ending 
+September 30, 1993
+, $25,000,000 for the fiscal year ending 
+September 30, 1995
+, $25,750,000 for the fiscal year ending 
+September 30, 1996
+, $20,900,000 for the fiscal year ending 
+September 30, 1998
+, $21,500,000 for the fiscal year ending 
+September 30, 1999
+; $19,861,000 for the fiscal year ending 
+September 30, 2001
+, of which $450,000 is for National Earthquake Hazard Reduction Program-eligible efforts of an established multi-state consortium to reduce the unacceptable threat of earthquake damages in the New Madrid seismic region through efforts to enhance preparedness, response, recovery, and mitigation; $20,705,000 for the fiscal year ending 
+September 30, 2002
+; and $21,585,000 for the fiscal year ending 
+September 30, 2003
+.
+
+
+
+
+(8)
+ There are authorized to be appropriated to the Federal Emergency Management Agency for carrying out this chapter—
+(A)
+ $21,000,000 for fiscal year 2005,
+
+
+
+
+(B)
+ $21,630,000 for fiscal year 2006,
+
+
+
+
+(C)
+ $22,280,000 for fiscal year 2007,
+
+
+
+
+(D)
+ $22,950,000 for fiscal year 2008, and
+
+
+
+
+(E)
+ $23,640,000 for fiscal year 2009,
+
+
+
+
+
+of which not less than 10 percent of available program funds actually appropriated shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable design guidelines and methodologies in codes for buildings, structures, and lifelines.
+
+
+
+
+(b)
+ United States Geological Survey
+(1)
+ There are authorized to be appropriated to the Secretary of the Interior for purposes for carrying out, through the Director of the United States Geological Survey, the responsibilities that may be assigned to the Director under this chapter not to exceed $27,500,000 for the fiscal year ending 
+September 30, 1978
+; not to exceed $35,000,000 for the fiscal year ending 
+September 30, 1979
+; not to exceed $40,000,000 for the fiscal year ending 
+September 30, 1980
+; $32,484,000 for the fiscal year ending 
+September 30, 1981
+; $34,425,000 for the fiscal year ending 
+September 30, 1982
+; $31,843,000 for the fiscal year ending 
+September 30, 1983
+; $35,524,000 for the fiscal year ending 
+September 30, 1984
+; $37,300,200 for the fiscal year ending 
+September 30, 1985
+ 
+2
+2
+ So in original. Probably should be followed by a semicolon.
+ $35,578,000 for the fiscal year ending 
+September 30, 1986
+; $37,179,000 for the fiscal year ending 
+September 30, 1987
+; $38,540,000 for the fiscal year ending 
+September 30, 1988
+; $41,819,000 for the fiscal year ending 
+September 30, 1989
+; $55,283,000 for the fiscal year ending 
+September 30, 1990
+, of which $8,000,000 shall be for earthquake investigations under 
+section 7705e of this title
+; $50,000,000 for the fiscal year ending 
+September 30, 1991
+; $54,500,000 for the fiscal year ending 
+September 30, 1992
+; $62,500,000 for the fiscal year ending 
+September 30, 1993
+; $49,200,000 for the fiscal year ending 
+September 30, 1995
+; $50,676,000 for the fiscal year ending 
+September 30, 1996
+; $52,565,000 for the fiscal year ending 
+September 30, 1998
+, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency; and $54,052,000 for the fiscal year ending 
+September 30, 1999
+, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency. There are authorized to be appropriated to the Secretary of the Interior for purposes of carrying out, through the Director of the United States Geological Survey, the responsibilities that may be assigned to the Director under this chapter $48,360,000 for fiscal year 2001, of which $3,500,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee established under 
+section 7709 of this title
+; $50,415,000 for fiscal year 2002, of which $3,600,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee; and $52,558,000 for fiscal year 2003, of which $3,700,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee. Of the amounts authorized to be appropriated under this paragraph, at least—
+(A)
+ $8,000,000 of the amount authorized to be appropriated for the fiscal year ending 
+September 30, 1998
+;
+
+
+
+
+(B)
+ $8,250,000 of the amount authorized for the fiscal year ending 
+September 30, 1999
+;
+
+
+
+
+(C)
+ $9,000,000 of the amount authorized to be appropriated for fiscal year 2001;
+
+
+
+
+(D)
+ $9,250,000 of the amount authorized to be appropriated for fiscal year 2002; and
+
+
+
+
+(E)
+ $9,500,000 of the amount authorized to be appropriated for fiscal year 2003,
+
+
+
+
+
+shall be used for carrying out a competitive, peer-reviewed program under which the Director, in close coordination with and as a complement to related activities of the United States Geological Survey, awards grants to, or enters into cooperative agreements with, State and local governments and persons or entities from the academic community and the private sector.
+
+
+
+
+(2)
+ There are authorized to be appropriated to the United States Geological Survey for carrying out this chapter—
+(A)
+ $77,000,000 for fiscal year 2005, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under 
+section 7707 of this title
+;
+
+
+
+
+(B)
+ $84,410,000 for fiscal year 2006, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under 
+section 7707 of this title
+;
+
+
+
+
+(C)
+ $85,860,000 for fiscal year 2007, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under 
+section 7707 of this title
+;
+
+
+
+
+(D)
+ $87,360,000 for fiscal year 2008, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under 
+section 7707 of this title
+; and
+
+
+
+
+(E)
+ $88,900,000 for fiscal year 2009, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under 
+section 7707 of this title
+.
+
+
+
+
+
+
+(c)
+ National Science Foundation
+(1)
+ To enable the Foundation to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated to the Foundation not to exceed $27,500,000 for the fiscal year ending 
+September 30, 1978
+; not to exceed $35,000,000 for the fiscal year ending 
+September 30, 1979
+; not to exceed $40,000,000 for the fiscal year ending 
+September 30, 1980
+; $26,600,000 for the fiscal year ending 
+September 30, 1981
+; $27,150,000 for the fiscal year ending 
+September 30, 1982
+; $25,000,000 for the fiscal year ending 
+September 30, 1983
+; $25,800,000 for the fiscal year ending 
+September 30, 1984
+; $28,665,000 for the fiscal year ending 
+September 30, 1985
+ 
+2
+ $27,760,000 for the fiscal year ending 
+September 30, 1986
+; $29,009,000 for the fiscal year ending 
+September 30, 1987
+; $28,235,000 for the fiscal year ending 
+September 30, 1988
+; $31,634,000 for the fiscal year ending 
+September 30, 1989
+; $38,454,000 for the fiscal year ending 
+September 30, 1990
+. Of the amounts authorized for Engineering under section 101(d)(1)(B) of the National Science Foundation Authorization Act of 1988, $24,000,000 is authorized for carrying out this chapter for the fiscal year ending 
+September 30, 1991
+, and of the amounts authorized for Geosciences 
+3
+3
+ So in original. Probably should not be capitalized.
+ under section 101(d)(1)(D) of the National Science Foundation Authorization Act of 1988, $13,000,000 is authorized for carrying out this chapter for the fiscal year ending 
+September 30, 1991
+. Of the amounts authorized for Research and Related Activities under section 101(e)(1) of the National Science Foundation Authorization Act of 1988, $29,000,000 is authorized for engineering research under this chapter, and $14,750,000 is authorized for geosciences research under this chapter, for the fiscal year ending 
+September 30, 1992
+. Of the amounts authorized for Research and Related Activities under section 101(f)(1) of the National Science Foundation Authorization Act of 1988, $34,500,000 is authorized for engineering research under this chapter, and $17,500,000 is authorized for geosciences research under this chapter, for the fiscal year ending 
+September 30, 1993
+. There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Science Foundation: (1) $16,200,000 for engineering research and $10,900,000 for geosciences research for the fiscal year ending 
+September 30, 1995
+, (2) $16,686,000 for engineering research and $11,227,000 for geosciences research for the fiscal year ending 
+September 30, 1996
+, (3) $18,450,000 for engineering research and $11,920,000 for geosciences research for the fiscal year ending 
+September 30, 1998
+, (4) $19,000,000 for engineering research and $12,280,000 for geosciences research for the fiscal year ending 
+September 30, 1999
+. There are authorized to be appropriated to the National Science Foundation $19,000,000 for engineering research and $11,900,000 for geosciences research for fiscal year 2001; $19,808,000 for engineering research and $12,406,000 for geosciences research for fiscal year 2002; and $20,650,000 for engineering research and $12,933,000 for geosciences research for fiscal year 2003.
+
+
+
+
+(2)
+ There are authorized to be appropriated to the National Science Foundation for carrying out this chapter—
+(A)
+ $38,000,000 for fiscal year 2005;
+
+
+
+
+(B)
+ $39,140,000 for fiscal year 2006;
+
+
+
+
+(C)
+ $40,310,000 for fiscal year 2007;
+
+
+
+
+(D)
+ $41,520,000 for fiscal year 2008; and
+
+
+
+
+(E)
+ $42,770,000 for fiscal year 2009.
+
+
+
+
+
+
+(d)
+ National Institute of Standards and Technology
+(1)
+ To enable the National Institute of Standards and Technology to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated $425,000 for the fiscal year ending 
+September 30, 1981
+; $425,000 for the fiscal year ending 
+September 30, 1982
+; $475,000 for the fiscal year ending 
+September 30, 1983
+; $475,000 for the fiscal year ending 
+September 30, 1984
+; $498,750 for the fiscal year ending 
+September 30, 1985
+ 
+2
+ $499,000 for the fiscal year ending 
+September 30, 1986
+; $521,000 for the fiscal year ending 
+September 30, 1987
+; $525,000 for the fiscal year ending 
+September 30, 1988
+; $525,000 for the fiscal year ending 
+September 30, 1989
+; $2,525,000 for the fiscal year ending 
+September 30, 1990
+; $1,000,000 for the fiscal year ending 
+September 30, 1991
+; $3,000,000 for the fiscal year ending 
+September 30, 1992
+; and $4,750,000 for the fiscal year ending 
+September 30, 1993
+. There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Institute of Standards and Technology, $1,900,000 for the fiscal year ending 
+September 30, 1995
+, $1,957,000 for the fiscal year ending 
+September 30, 1996
+, $2,000,000 for the fiscal year ending 
+September 30, 1998
+, $2,060,000 for the fiscal year ending 
+September 30, 1999
+, $2,332,000 for fiscal year 2001, $2,431,000 for fiscal year 2002, and $2,534,300 for fiscal year 2003.
+
+
+
+
+(2)
+ There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this chapter—
+(A)
+ $10,000,000 for fiscal year 2005,
+
+
+
+
+(B)
+ $11,000,000 for fiscal year 2006,
+
+
+
+
+(C)
+ $12,100,000 for fiscal year 2007,
+
+
+
+
+(D)
+ $13,310,000 for fiscal year 2008, and
+
+
+
+
+(E)
+ $14,640,000 for fiscal year 2009,
+
+
+
+
+
+of which $2,000,000 shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable codes for buildings, structures, and lifelines.
+
+
+
+
+ Advanced National Seismic Research and Monitoring System
+(a)
+ Establishment
+The Director of the United States Geological Survey shall establish and operate an Advanced National Seismic Research and Monitoring System. The purpose of such system shall be to organize, modernize, standardize, and stabilize the national, regional, and urban seismic monitoring systems in the United States, including sensors, recorders, and data analysis centers, into a coordinated system that will measure and record the full range of frequencies and amplitudes exhibited by seismic waves, in order to enhance earthquake research and warning capabilities.
+
+
+
+
+(b)
+ Management plan
+Not later than 90 days after 
+November 13, 2000
+, the Director of the United States Geological Survey shall transmit to the Congress a 5-year management plan for establishing and operating the Advanced National Seismic Research and Monitoring System. The plan shall include annual cost estimates for both modernization and operation, milestones, standards, and performance goals, as well as plans for securing the participation of all existing networks in the Advanced National Seismic Research and Monitoring System and for establishing new, or enhancing existing, partnerships to leverage resources.
+
+
+
+
+ Network for Earthquake Engineering Simulation
+(a)
+ Establishment
+The Director of the National Science Foundation shall establish the George E. Brown, Jr. Network for Earthquake Engineering Simulation that will upgrade, link, and integrate a system of geographically distributed experimental facilities for earthquake engineering testing of full-sized structures and their components and partial-scale physical models. The system shall be integrated through networking software so that integrated models and databases can be used to create model-based simulation, and the components of the system shall be interconnected with a computer network and allow for remote access, information sharing, and collaborative research.
+
+
+
+
+(b)
+ Authorization of appropriations
+In addition to amounts appropriated under 
+section 7706(c) of this title
+, there are authorized to be appropriated to the National Science Foundation for the George E. Brown, Jr. Network for Earthquake Engineering Simulation—
+(1)
+ $28,200,000 for fiscal year 2001;
+
+
+
+
+(2)
+ $24,400,000 for fiscal year 2002;
+
+
+
+
+(3)
+ $4,500,000 for fiscal year 2003;
+
+
+
+
+(4)
+ $17,000,000 for fiscal year 2004;
+
+
+
+
+(5)
+ $20,000,000 for fiscal year 2005, all of which shall be available for operations and maintenance;
+
+
+
+
+(6)
+ $20,400,000 for fiscal year 2006, all of which shall be available for operations and maintenance;
+
+
+
+
+(7)
+ $20,870,000 for fiscal year 2007, all of which shall be available for operations and maintenance;
+
+
+
+
+(8)
+ $21,390,000 for fiscal year 2008, all of which shall be available for operations and maintenance; and
+
+
+
+
+(9)
+ $21,930,000 for fiscal year 2009, all of which shall be available for operations and maintenance.
+
+
+
+
+ Scientific Earthquake Studies Advisory Committee
+(a)
+ Establishment
+The Director of the United States Geological Survey shall establish a Scientific Earthquake Studies Advisory Committee.
+
+
+
+
+(b)
+ Organization
+The Director shall establish procedures for selection of individuals not employed by the Federal Government who are qualified in the seismic sciences and other appropriate fields and may, pursuant to such procedures, select up to 10 individuals, one of whom shall be designated Chairman, to serve on the Advisory Committee. Selection of individuals for the Advisory Committee shall be based solely on established records of distinguished service, and the Director shall ensure that a reasonable cross-section of views and expertise is represented. In selecting individuals to serve on the Advisory Committee, the Director shall seek and give due consideration to recommendations from the National Academy of Sciences, professional societies, and other appropriate organizations.
+
+
+
+
+(c)
+ Meetings
+The Advisory Committee shall meet at such times and places as may be designated by the Chairman in consultation with the Director.
+
+
+
+
+(d)
+ Duties
+The Advisory Committee shall advise the Director on matters relating to the United States Geological Survey’s participation in the National Earthquake Hazards Reduction Program, including the United States Geological Survey’s roles, goals, and objectives within that Program, its capabilities and research needs, guidance on achieving major objectives, and establishing and measuring performance goals. The Advisory Committee shall issue an annual report to the Director for submission to Congress on or before September 30 of each year. The report shall describe the Advisory Committee’s activities and address policy issues or matters that affect the United States Geological Survey’s participation in the National Earthquake Hazards Reduction Program.
+
+
+
+

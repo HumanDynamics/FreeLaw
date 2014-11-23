@@ -1,0 +1,954 @@
+
+Chapter 81
+ENERGY CONSERVATION AND RESOURCE RENEWAL
+ Congressional findings and purpose
+(a)
+ The Congress finds that improvement in electric utility rate design has great potential for reducing the cost of electric utility services to consumers and current and projected shortages of capital, and for encouraging energy conservation and better use of existing electrical generating facilities.
+
+
+(b)
+ It is the purpose of this subchapter to require the Secretary to develop proposals for improvement of electric utility rate design and transmit such proposals to Congress; to fund electric utility rate demonstration projects; to intervene or participate, upon request, in the proceedings of utility regulatory commissions; and to provide financial assistance to State offices of consumer services to facilitate presentation of consumer interests before such commissions.
+
+
+ Definitions
+ Development of electric utility rate design proposals by Secretary; contents; submission to Congress; supporting analysis
+(a)
+ The Secretary shall develop proposals to improve electric utility rate design. Such proposals shall be designed to encourage energy conservation, minimize the need for new electrical generating capacity, and minimize costs of electric energy to consumers, and shall include (but not be limited to) proposals which provide for the development and implementation of—
+(1)
+ load management techniques which are cost effective;
+
+
+
+
+(2)
+ rates which reflect marginal cost of service, or time of use of service, or both;
+
+
+
+
+(3)
+ ratemaking policies which discourage inefficient use of fuel and encourage economical purchases of fuel; and
+
+
+
+
+(4)
+ rates (or other regulatory policies) which encourage electric utility system reliability and reliability of major items of electric utility equipment.
+
+
+
+
+(b)
+ The proposals prepared under subsection (a) of this section shall be transmitted to each House of Congress not later than 6 months after 
+August 14, 1976
+, for review and for such further action as the Congress may direct by law. Such proposals shall be accompanied by an analysis of—
+(1)
+ the projected savings (if any) in consumption of petroleum products, natural gas, electric energy, and other energy resources,
+
+
+
+
+(2)
+ the reduction (if any) in the need for new electrical generating capacity, and of the demand for capital by the electric utility industry, and
+
+
+
+
+(3)
+ changes (if any) in the cost of electric energy to consumers,
+
+
+
+
+
+which are likely to result from the implementation nationally of each of the proposals transmitted under this subsection.
+
+
+ Funding, administrative, and judicial authorities of Secretary
+ Grants for State consumer protection offices by Secretary
+(a)
+ Establishment, operation, and purpose; qualifications for funds
+The Secretary may make grants to States, or otherwise as provided in subsection (c) of this section, under this section to provide for the establishment and operation of offices of consumer services to assist consumers in their presentations before utility regulatory commissions. Any assistance provided under this section shall be provided only for an office of consumer services which is operated independently of any such utility regulatory commission and which is empowered to—
+(1)
+ make general factual assessments of the impact of proposed rate changes and other proposed regulatory actions upon all affected consumers;
+
+
+
+
+(2)
+ assist consumers in the presentation of their positions before utility regulatory commissions; and
+
+
+
+
+(3)
+ advocate, on its own behalf, a position which it determines represents the position most advantageous to consumers, taking into account developments in rate design reform.
+
+
+
+
+(b)
+ Grants subject to State assurances on funds
+Grants pursuant to subsection (a) of this section shall be made only to States which furnish such assurances as the Secretary may require that funds made available under such section will be in addition to, and not in substitution for, funds made available to offices of consumer services from other sources.
+
+
+
+
+(c)
+ Offices established by Tennessee Valley Authority
+Assistance may be provided under this section to an office of consumer services established by the Tennessee Valley Authority, if such office is operated independently of the Tennessee Valley Authority.
+
+
+
+
+ Statement in annual report
+The Secretary shall include in each annual report submitted under 
+ State utility regulatory assistance
+(a)
+ Grants to State utility regulatory commissions and nonregulated electric utilities
+The Secretary may make grants to State utility regulatory commissions and nonregulated electric utilities (as defined in the Public Utility Regulatory Policies Act of 1978 [
+16 U.S.C. 2602
+]) to carry out duties and responsibilities under titles I [
+16 U.S.C. 2601
+ et seq.] and III [
+15 U.S.C. 3201
+ et seq.], and section 210 [
+16 U.S.C. 824a–3
+], of the Public Utility Regulatory Policies Act of 1978. No grant may be made under this section to any Federal agency.
+
+
+
+
+(b)
+ Unnecessary requirements prohibited
+Any requirements established by the Secretary with respect to grants under this section may be only such requirements as are necessary to assure that such grants are expended solely to carry out duties and responsibilities referred to in subsection (a) of this section or such as are otherwise required by law.
+
+
+
+
+(c)
+ Application for grant
+No grant may be made under this section unless an application for such grant is submitted to the Secretary in such form and manner as the Secretary may require. The Secretary may not approve an application of a State utility regulatory commission or nonregulated electric utility unless such commission or nonregulated electric utility assures the Secretary that funds made available under this section will be in addition to, and not in substitution for, funds made available to such commission or nonregulated electric utility from other governmental sources.
+
+
+
+
+(d)
+ Apportionment of funds
+The funds appropriated for purposes of this section shall be apportioned among the States in such manner that grants made under this section in each State shall not exceed the lesser of—
+(1)
+ the amount determined by dividing equally among all States the total amount available under this section for such grants, or
+
+
+
+
+(2)
+ the amount which the Secretary is authorized to provide pursuant to subsections (b) and (c) of this section for such State.
+
+
+
+
+ Energy efficiency grants to State regulatory authorities
+(a)
+ Energy efficiency grants
+The Secretary is authorized in accordance with the provisions of this section to provide grants to State regulatory authorities in an amount not to exceed $250,000 per authority, for purposes of encouraging demand-side management including energy conservation, energy efficiency and load management techniques and for meeting the requirements of paragraphs (7), (8), and (9) of 
+section 2621(d) of title 16
+ and as a means of meeting gas supply needs and to meet the requirements of paragraphs (3) and (4) of 
+section 3203(b) of title 15
+. Such grants may be utilized by a State regulatory authority to provide financial assistance to nonprofit subgrantees of the Department of Energy’s Weatherization Assistance Program in order to facilitate participation by such subgrantees in proceedings of such regulatory authority to examine energy conservation, energy efficiency, or other demand-side management programs.
+
+
+
+
+(b)
+ Plan
+A State regulatory authority wishing to receive a grant under this section shall submit a plan to the Secretary that specifies the actions such authority proposes to take that would achieve the purposes of this section.
+
+
+
+
+(c)
+ Secretarial action
+(1)
+ In determining whether, and in what amount, to provide a grant to a State regulatory authority under this section the Secretary shall consider, in addition to other appropriate factors, the actions proposed by the State regulatory authority to achieve the purposes of this section and to consider implementation of the ratemaking standards established in—
+(A)
+ paragraphs (7), (8) and (9) of 
+section 2621(d) of title 16
+; or
+
+
+
+
+(B)
+ paragraphs (3) and (4) of 
+section 3203(b) of title 15
+.
+
+
+
+
+
+
+(2)
+ Such actions—
+(A)
+ shall include procedures to facilitate the participation of grantees and nonprofit subgrantees of the Department of Energy’s Weatherization Assistance Program in proceedings of such regulatory authorities examining demand-side management programs; and
+
+
+
+
+(B)
+ shall provide for coverage of the cost of such grantee and subgrantees’ participation in such proceedings.
+
+
+
+
+
+
+(d)
+ Recordkeeping
+Each State regulatory authority that receives a grant under this section shall keep such records as the Secretary shall require.
+
+
+
+
+(e)
+ “State regulatory authority” defined
+For purposes of this section, the term “State regulatory authority” shall have the same meaning as provided by 
+section 2602 of title 16
+ in the case of electric utilities, and such term shall have the same meaning as provided by 
+section 3202 of title 15
+ in the case of gas utilities, except that in the case of any State without a statewide ratemaking authority, such term shall mean the State energy office.
+
+
+
+
+(f)
+ Authorization
+There are authorized to be appropriated $5,000,000 for each of the fiscal years 1994, 1995 and 1996 to carry out the purposes of this section.
+
+
+
+
+ Authorization of appropriations
+ Congressional findings and purpose
+(a)
+ The Congress finds that—
+(1)
+ large amounts of fuel and energy are consumed unnecessarily each year in heating, cooling, ventilating, and providing domestic hot water for newly constructed residential and commercial buildings because such buildings lack adequate energy conservation features;
+
+
+
+
+(2)
+ Federal voluntary performance standards for newly constructed buildings can prevent such waste of energy, which the Nation can no longer afford in view of its current and anticipated energy shortage;
+
+
+
+
+(3)
+ the failure to provide adequate energy conservation measures in newly constructed buildings increases long-term operating costs that may affect adversely the repayment of, and security for, loans made, insured, or guaranteed by Federal agencies or made by federally insured or regulated instrumentalities; and
+
+
+
+
+(4)
+ State and local building codes or similar controls can provide an existing means by which to assure, in coordination with other building requirements and with a minimum of Federal interference in State and local transactions, that newly constructed buildings contain adequate energy conservation features.
+
+
+
+
+(b)
+ The purposes of this subchapter, therefore, are to—
+(1)
+ redirect Federal policies and practices to assure that reasonable energy conservation features will be incorporated into new commercial and residential buildings receiving Federal financial assistance;
+
+
+
+
+(2)
+ provide for the development and implementation, as soon as practicable, of voluntary performance standards for new residential and commercial buildings which are designed to achieve the maximum practicable improvements in energy efficiency and increases in the use of nondepletable sources of energy; and
+
+
+
+
+(3)
+ encourage States and local governments to adopt and enforce such standards through their existing building codes and other construction control mechanisms, or to apply them through a special approval process.
+
+
+
+
+ Definitions
+ Updating State building energy efficiency codes
+(a)
+ Consideration and determination respecting residential building energy codes
+(1)
+ Not later than 2 years after 
+October 24, 1992
+, each State shall certify to the Secretary that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
+
+
+
+
+(2)
+ The determination referred to in paragraph (1) shall be—
+(A)
+ made after public notice and hearing;
+
+
+
+
+(B)
+ in writing;
+
+
+
+
+(C)
+ based upon findings included in such determination and upon the evidence presented at the hearing; and
+
+
+
+
+(D)
+ available to the public.
+
+
+
+
+
+
+(3)
+ Each State may, to the extent consistent with otherwise applicable State law, revise the provisions of its residential building code regarding energy efficiency to meet or exceed CABO Model Energy Code, 1992, or may decline to make such revisions.
+
+
+
+
+(4)
+ If a State makes a determination under paragraph (1) that it is not appropriate for such State to revise its residential building code, such State shall submit to the Secretary, in writing, the reasons for such determination, and such statement shall be available to the public.
+
+
+
+
+(5)
+(A)
+ Whenever CABO Model Energy Code, 1992,
+1
+1
+ So in original. The comma probably should not appear.
+ (or any successor of such code) is revised, the Secretary shall, not later than 12 months after such revision, determine whether such revision would improve energy efficiency in residential buildings. The Secretary shall publish notice of such determination in the Federal Register.
+
+
+
+
+(B)
+ If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed the revised code for which the Secretary made such determination.
+
+
+
+
+(C)
+ Paragraphs (2), (3), and (4) shall apply to any determination made under subparagraph (B).
+
+
+
+
+
+
+(b)
+ Certification of commercial building energy code updates
+(1)
+ Not later than 2 years after 
+October 24, 1992
+, each State shall certify to the Secretary that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency. Such certification shall include a demonstration that such State’s code provisions meet or exceed the requirements of ASHRAE Standard 90.1–1989.
+
+
+
+
+(2)
+(A)
+ Whenever the provisions of ASHRAE Standard 90.1–1989 (or any successor standard) regarding energy efficiency in commercial buildings are revised, the Secretary shall, not later than 12 months after the date of such revision, determine whether such revision will improve energy efficiency in commercial buildings. The Secretary shall publish a notice of such determination in the Federal Register.
+
+
+
+
+(B)
+(i)
+ If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency in accordance with the revised standard for which such determination was made. Such certification shall include a demonstration that the provisions of such State’s commercial building code regarding energy efficiency meet or exceed such revised standard.
+
+
+
+
+(ii)
+ If the Secretary makes a determination under subparagraph (A) that such revised standard will not improve energy efficiency in commercial buildings, State commercial building code provisions regarding energy efficiency shall meet or exceed ASHRAE Standard 90.1–1989, or if such standard has been revised, the last revised standard for which the Secretary has made an affirmative determination under subparagraph (A).
+
+
+
+
+
+
+
+
+(c)
+ Extensions
+The Secretary shall permit extensions of the deadlines for the certification requirements under subsections (a) and (b) of this section if a State can demonstrate that it has made a good faith effort to comply with such requirements and that it has made significant progress in doing so.
+
+
+
+
+(d)
+ Technical assistance
+The Secretary shall provide technical assistance to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes or to otherwise promote the design and construction of energy efficient buildings.
+
+
+
+
+(e)
+ Availability of incentive funding
+(1)
+ The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
+
+
+
+
+(2)
+ Additional funding shall be provided under this subsection for implementation of a plan to achieve and document at least a 90 percent rate of compliance with residential and commercial building energy efficiency codes, based on energy performance—
+(A)
+ to a State that has adopted and is implementing, on a statewide basis—
+(i)
+ a residential building energy efficiency code that meets or exceeds the requirements of the 2004 International Energy Conservation Code, or any succeeding version of that code that has received an affirmative determination from the Secretary under subsection (a)(5)(A) of this section; and
+
+
+
+
+(ii)
+ a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard 90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
+
+
+
+
+
+
+(B)
+ in a State in which there is no statewide energy code either for residential buildings or for commercial buildings, to a local government that has adopted and is implementing residential and commercial building energy efficiency codes, as described in subparagraph (A).
+
+
+
+
+
+
+(3)
+ Of the amounts made available under this subsection, the Secretary may use $500,000 for each fiscal year to train State and local officials to implement codes described in paragraph (2).
+
+
+
+
+(4)
+(A)
+ There are authorized to be appropriated to carry out this subsection—
+(i)
+ $25,000,000 for each of fiscal years 2006 through 2010; and
+
+
+
+
+(ii)
+ such sums as are necessary for fiscal year 2011 and each fiscal year thereafter.
+
+
+
+
+
+
+(B)
+ Funding provided to States under paragraph (2) for each fiscal year shall not exceed one-half of the excess of funding under this subsection over $5,000,000 for the fiscal year.
+
+
+
+
+
+
+ Federal building energy efficiency standards
+(a)
+ In general
+(1)
+ Not later than 2 years after 
+October 24, 1992
+, the Secretary, after consulting with appropriate Federal agencies, CABO, ASHRAE, the National Association of Home Builders, the Illuminating Engineering Society, the American Institute of Architects, the National Conference of the States on Building Codes and Standards, and other appropriate persons, shall establish, by rule, Federal building energy standards that require in new Federal buildings those energy efficiency measures that are technologically feasible and economically justified. Such standards shall become effective no later than 1 year after such rule is issued.
+
+
+
+
+(2)
+ The standards established under paragraph (1) shall—
+(A)
+ contain energy saving and renewable energy specifications that meet or exceed the energy saving and renewable energy specifications of the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004 (in the case of commercial buildings);
+
+
+
+
+(B)
+ to the extent practicable, use the same format as the appropriate voluntary building energy code; and
+
+
+
+
+(C)
+ consider, in consultation with the Environmental Protection Agency and other Federal agencies, and where appropriate contain, measures with regard to radon and other indoor air pollutants.
+
+
+
+
+
+
+(3)
+(A)
+ Not later than 1 year after 
+August 8, 2005
+, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that—
+(i)
+ if life-cycle cost-effective for new Federal buildings—
+(I)
+ the buildings be designed to achieve energy consumption levels that are at least 30 percent below the levels established in the version of the ASHRAE Standard or the International Energy Conservation Code, as appropriate, that is in effect as of 
+August 8, 2005
+; and
+
+
+
+
+(II)
+ sustainable design principles are applied to the siting, design, and construction of all new and replacement buildings;
+
+
+
+
+
+
+(ii)
+ if water is used to achieve energy efficiency, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective; and
+
+
+
+
+(iii)
+ if lifecycle cost-effective, as compared to other reasonably available technologies, not less than 30 percent of the hot water demand for each new Federal building or Federal building undergoing a major renovation be met through the installation and use of solar hot water heaters.
+
+
+
+
+
+
+(B)
+ Not later than 1 year after the date of approval of each subsequent revision of the ASHRAE Standard or the International Energy Conservation Code, as appropriate, the Secretary shall determine, based on the cost-effectiveness of the requirements under the amendment, whether the revised standards established under this paragraph should be updated to reflect the amendment.
+
+
+
+
+(C)
+ In the budget request of the Federal agency for each fiscal year and each report submitted by the Federal agency under 
+section 8258(a) of this title
+, the head of each Federal agency shall include—
+(i)
+ a list of all new Federal buildings owned, operated, or controlled by the Federal agency; and
+
+
+
+
+(ii)
+ a statement specifying whether the Federal buildings meet or exceed the revised standards established under this paragraph.
+
+
+
+
+
+
+(D)
+ Not later than 1 year after 
+December 19, 2007
+, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that:
+(i)
+ For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under 
+section 3307 of title 40
+, in the case of public buildings (as defined in 
+section 3301 of title 40
+), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
+(I)
+ The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Fiscal Year
+Percentage Reduction
+
+
+
+
+
+
+  2010
+55
+
+
+  2015
+65
+
+
+  2020
+80
+
+
+  2025
+90
+
+
+  2030
+100.
+
+
+
+
+
+
+
+
+
+
+(II)
+ Upon petition by an agency subject to this subparagraph, the Secretary may adjust the applicable numeric requirement under subclause (I) downward with respect to a specific building, if the head of the agency designing the building certifies in writing that meeting such requirement would be technically impracticable in light of the agency’s specified functional needs for that building and the Secretary concurs with the agency’s conclusion. This subclause shall not apply to the General Services Administration.
+
+
+
+
+(III)
+ Sustainable design principles shall be applied to the siting, design, and construction of such buildings. Not later than 90 days after 
+December 19, 2007
+, the Secretary, after reviewing the findings of the Federal Director under 
+section 17092(h) of this title
+, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall identify a certification system and level for green buildings that the Secretary determines to be the most likely to encourage a comprehensive and environmentally-sound approach to certification of green buildings. The identification of the certification system and level shall be based on a review of the Federal Director’s findings under 
+section 17092(h) of this title
+ and the criteria specified in clause (iii), shall identify the highest level the Secretary determines is appropriate above the minimum level required for certification under the system selected, and shall achieve results at least comparable to the system used by and highest level referenced by the General Services Administration as of 
+December 19, 2007
+. Within 90 days of the completion of each study required by clause (iv), the Secretary, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall review and update the certification system and level, taking into account the conclusions of such study.
+
+
+
+
+
+
+(ii)
+ In establishing criteria for identifying major renovations that are subject to the requirements of this subparagraph, the Secretary shall take into account the scope, degree, and types of renovations that are likely to provide significant opportunities for substantial improvements in energy efficiency.
+
+
+
+
+(iii)
+ In identifying the green building certification system and level, the Secretary shall take into consideration—
+(I)
+ the ability and availability of assessors and auditors to independently verify the criteria and measurement of metrics at the scale necessary to implement this subparagraph;
+
+
+
+
+(II)
+ the ability of the applicable certification organization to collect and reflect public comment;
+
+
+
+
+(III)
+ the ability of the standard to be developed and revised through a consensus-based process;
+
+
+
+
+(IV)
+ an evaluation of the robustness of the criteria for a high-performance green building, which shall give credit for promoting—
+(aa)
+ efficient and sustainable use of water, energy, and other natural resources;
+
+
+
+
+(bb)
+ use of renewable energy sources;
+
+
+
+
+(cc)
+ improved indoor environmental quality through enhanced indoor air quality, thermal comfort, acoustics, day lighting, pollutant source control, and use of low-emission materials and building system controls; and
+
+
+
+
+(dd)
+ such other criteria as the Secretary determines to be appropriate; and
+
+
+
+
+
+
+(V)
+ national recognition within the building industry.
+
+
+
+
+
+
+(iv)
+ At least once every 5 years, and in accordance with 
+section 17092 of this title
+, the Administrator of General Services shall conduct a study to evaluate and compare available third-party green building certification systems and levels, taking into account the criteria listed in clause (iii).
+
+
+
+
+(v)
+ The Secretary may by rule allow Federal agencies to develop internal certification processes, using certified professionals, in lieu of certification by the certification entity identified under clause (i)(III). The Secretary shall include in any such rule guidelines to ensure that the certification process results in buildings meeting the applicable certification system and level identified under clause (i)(III). An agency employing an internal certification process must continue to obtain external certification by the certification entity identified under clause (i)(III) for at least 5 percent of the total number of buildings certified annually by the agency.
+
+
+
+
+(vi)
+ With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.
+
+
+
+
+(vii)
+ In addition to any use of water conservation technologies otherwise required by this section, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective.
+
+
+
+
+
+
+
+
+(b)
+ Omitted
+
+
+(c)
+ Periodic review
+The Secretary shall periodically, but not less than once every 5 years, review the Federal building energy standards established under this section and shall, if significant energy savings would result, upgrade such standards to include all new energy efficiency and renewable energy measures that are technologically feasible and economically justified.
+
+
+
+
+(d)
+ Interim standards
+Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before 
+October 24, 1992
+, shall remain in effect until the standards established under subsection (a) of this section become effective.
+
+
+
+
+“(c)
+ 
+Revision of Federal Acquisition Regulation
+.—
+Not later than 2 years after the date of the enactment of this Act [
+Dec. 19, 2007
+], the Federal Acquisition Regulation shall be revised to require Federal officers and employees to comply with this section [amending this section and 
+section 6832 of this title
+] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act ([former] 
+41 U.S.C. 421
+) [see 
+41 U.S.C. 1302
+]) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
+
+
+“(d)
+ 
+Guidance
+.—
+Not later than 90 days after the date of promulgation of the revised regulations under subsection (c), the Administrator for Federal Procurement Policy shall issue guidance to all Federal procurement executives providing direction and instructions to renegotiate the design of proposed facilities and major renovations for existing facilities to incorporate improvements that are consistent with this section.”
+
+
+ Federal compliance
+(a)
+ Procedures
+(1)
+ The head of each Federal agency shall adopt procedures necessary to assure that new Federal buildings meet or exceed the Federal building energy standards established under 
+section 6834 of this title
+.
+
+
+
+
+(2)
+ The Federal building energy standards established under 
+section 6834 of this title
+ shall apply to new buildings under the jurisdiction of the Architect of the Capitol. The Architect shall adopt procedures necessary to assure that such buildings meet or exceed such standards.
+
+
+
+
+(b)
+ Construction of new buildings
+The head of a Federal agency may expend Federal funds for the construction of a new Federal building only if the building meets or exceeds the appropriate Federal building energy standards established under 
+section 6834 of this title
+.
+
+
+
+
+ Support for voluntary building energy codes
+(a)
+ In general
+Not later than 1 year after 
+October 24, 1992
+, the Secretary, after consulting with the Secretary of Housing and Urban Development, the Secretary of Veterans Affairs, other appropriate Federal agencies, CABO, ASHRAE, the National Conference of States on Building Codes and Standards, and any other appropriate building codes and standards organization, shall support the upgrading of voluntary building energy codes for new residential and commercial buildings. Such support shall include—
+(1)
+ a compilation of data and other information regarding building energy efficiency standards and codes in the possession of the Federal Government, State and local governments, and industry organizations;
+
+
+
+
+(2)
+ assistance in improving the technical basis for such standards and codes;
+
+
+
+
+(3)
+ assistance in determining the cost-effectiveness and the technical feasibility of the energy efficiency measures included in such standards and codes; and
+
+
+
+
+(4)
+ assistance in identifying appropriate measures with regard to radon and other indoor air pollutants.
+
+
+
+
+(b)
+ Review
+The Secretary shall periodically review the technical and economic basis of voluntary building energy codes and, based upon ongoing research activities—
+(1)
+ recommend amendments to such codes including measures with regard to radon and other indoor air pollutants;
+
+
+
+
+(2)
+ seek adoption of all technologically feasible and economically justified energy efficiency measures; and
+
+
+
+
+(3)
+ otherwise participate in any industry process for review and modification of such codes.
+
+
+
+
+ Omitted
+ Repealed. 
+ Congressional findings and purpose
+(a)
+ The Congress finds that—
+(1)
+ the fastest, most cost-effective, and most environmentally sound way to prevent future energy shortages in the United States, while reducing the Nation’s dependence on imported energy supplies, is to encourage and facilitate, through major programs, the implementation of energy conservation and renewable-resource energy measures with respect to dwelling units, nonresidential buildings, and industrial plants;
+
+
+
+
+(2)
+ current efforts to encourage and facilitate such measures are inadequate as a consequence of—
+(A)
+ a lack of adequate and available financing for such measures, particularly with respect to individual consumers and owners of small businesses;
+
+
+
+
+(B)
+ a shortage of reliable and impartial information and advisory services pertaining to practicable energy conservation measures and renewable-resource energy measures and the cost savings that are likely if they are implemented in such units, buildings, and plants; and
+
+
+
+
+(C)
+ the absence of organized programs which, if they existed, would enable consumers, especially individuals and owners of small businesses, to undertake such measures easily and with confidence in their economic value;
+
+
+
+
+
+
+(3)
+ major programs of financial incentives and assistance for energy conservation measures and renewable-resource energy measures in dwelling units, nonresidential buildings, and industrial plants would—
+(A)
+ significantly reduce the Nation’s demand for energy and the need for petroleum imports;
+
+
+
+
+(B)
+ cushion the adverse impact of the high price of energy supplies on consumers, particularly elderly and handicapped low-income persons who cannot afford to make the modifications necessary to reduce their residential energy use; and
+
+
+
+
+(C)
+ increase, directly and indirectly, job opportunities and national economic output;
+
+
+
+
+
+
+(4)
+ the primary responsibility for the implementation of such major programs should be lodged with the governments of the States; the diversity of conditions among the various States and regions of the Nation is sufficiently great that a wholly federally administered program would not be as effective as one which is tailored to meet local requirements and to respond to local opportunities; the State should be allowed flexibility within which to fashion such programs, subject to general Federal guidelines and monitoring sufficient to protect the financial investments of consumers and the financial interest of the United States and to insure that the measures undertaken in fact result in significant energy and cost savings which would probably not otherwise occur;
+
+
+
+
+(5)
+ to the extent that direct Federal administration is more economical and efficient, direct Federal financial incentives and assistance should be extended through existing and proven Federal programs rather than through new programs that would necessitate new and separate administrative bureaucracies; and
+
+
+
+
+(6)
+ such programs should be designed and administered to supplement, and not to supplant or in any other way conflict with, State energy conservation programs under part C of title III of the Energy Policy and Conservation Act [
+42 U.S.C. 6321
+ et seq.]; the emergency energy conservation program carried out by community action agencies pursuant to section 2809(a)(12) 
+1
+1
+ See References in Text note below.
+ of this title; and other forms of assistance and encouragement for energy conservation.
+
+
+
+
+(b)
+ It is, therefore, the purpose of this subchapter to encourage and facilitate the implementation of energy conservation measures and renewable-resource energy measures in dwelling units, nonresidential buildings, and industrial plants, through—
+(1)
+ supplemental State energy conservation plans; and
+
+
+
+
+(2)
+ Federal financial incentives and assistance.
+
+
+
+

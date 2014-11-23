@@ -1,0 +1,914 @@
+
+Chapter 67
+INTEREST
+ Interest on underpayment, nonpayment, or extensions of time for payment, of tax
+(a)
+ General rule
+If any amount of tax imposed by this title (whether required to be shown on a return, or to be paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
+
+
+
+
+(b)
+ Last date prescribed for payment
+For purposes of this section, the last date prescribed for payment of the tax shall be determined under chapter 62 with the application of the following rules:
+(1)
+ Extensions of time disregarded
+The last date prescribed for payment shall be determined without regard to any extension of time for payment or any installment agreement entered into under section 6159.
+
+
+
+
+
+
+(2)
+ Installment payments
+In the case of an election under section 6156(a) 
+1
+1
+ See References in Text note below.
+ to pay the tax in installments—
+(A)
+ The date prescribed for payment of each installment of the tax shown on the return shall be determined under section 6156(b),
+1
+ and
+
+
+
+
+(B)
+ The last date prescribed for payment of the first installment shall be deemed the last date prescribed for payment of any portion of the tax not shown on the return.
+
+
+
+
+
+
+(3)
+ Jeopardy
+The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
+
+
+
+
+
+
+(4)
+ Accumulated earnings tax
+In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
+
+
+
+
+
+
+(5)
+ Last date for payment not otherwise prescribed
+In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
+
+
+
+
+
+
+(c)
+ Suspension of interest in certain income, estate, gift, and certain excise tax cases
+In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
+
+
+
+
+(d)
+ Income tax reduced by carryback or adjustment for certain unused deductions
+(1)
+ Net operating loss or capital loss carryback
+If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a net operating loss or net capital loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.
+
+
+
+
+
+
+(2)
+ Foreign tax credit carrybacks
+If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+
+
+
+
+
+
+(3)
+ Certain credit carrybacks
+(A)
+ In general
+If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+
+
+
+
+
+
+(B)
+ Credit carryback defined
+For purposes of this paragraph, the term “credit carryback” has the meaning given such term by section 6511(d)(4)(C).
+
+
+
+
+
+
+
+
+(4)
+ Filing date
+For purposes of this subsection, the term “filing date” has the meaning given to such term by section 6611(f)(4)(A).
+
+
+
+
+
+
+(e)
+ Applicable rules
+Except as otherwise provided in this title—
+(1)
+ Interest treated as tax
+Interest prescribed under this section on any tax shall be paid upon notice and demand, and shall be assessed, collected, and paid in the same manner as taxes. Any reference to this title (except subchapter B of chapter 63, relating to deficiency procedures) to any tax imposed by this title shall be deemed also to refer to interest imposed by this section on such tax.
+
+
+
+
+
+
+(2)
+ Interest on penalties, additional amounts, or additions to the tax
+(A)
+ In general
+Interest shall be imposed under subsection (a) in respect of any assessable penalty, additional amount, or addition to the tax (other than an addition to tax imposed under section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68) only if such assessable penalty, additional amount, or addition to the tax is not paid within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), and in such case interest shall be imposed only for the period from the date of the notice and demand to the date of payment.
+
+
+
+
+
+
+(B)
+ Interest on certain additions to tax
+Interest shall be imposed under this section with respect to any addition to tax imposed by section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68 for the period which—
+(i)
+ begins on the date on which the return of the tax with respect to which such addition to tax is imposed is required to be filed (including any extensions), and
+
+
+
+
+(ii)
+ ends on the date of payment of such addition to tax.
+
+
+
+
+
+
+
+
+(3)
+ Payments made within specified period after notice and demand
+If notice and demand is made for payment of any amount and if such amount is paid within 21 calendar days (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000) after the date of such notice and demand, interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand.
+
+
+
+
+
+
+(f)
+ Satisfaction by credits
+If any portion of a tax is satisfied by credit of an overpayment, then no interest shall be imposed under this section on the portion of the tax so satisfied for any period during which, if the credit had not been made, interest would have been allowable with respect to such overpayment. The preceding sentence shall not apply to the extent that section 6621(d) applies.
+
+
+
+
+(g)
+ Limitation on assessment and collection
+Interest prescribed under this section on any tax may be assessed and collected at any time during the period within which the tax to which such interest relates may be collected.
+
+
+
+
+(h)
+ Exception as to estimated tax
+This section shall not apply to any failure to pay any estimated tax required to be paid by section 6654 or 6655.
+
+
+
+
+(i)
+ Exception as to Federal unemployment tax
+This section shall not apply to any failure to make a payment of tax imposed by section 3301 for a calendar quarter or other period within a taxable year required under authority of section 6157.
+
+
+
+
+(j)
+ 2-percent rate on certain portion of estate tax extended under section 6166
+(1)
+ In general
+If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, then in lieu of the annual rate provided by subsection (a)—
+(A)
+ interest on the 2-percent portion of such amount shall be paid at the rate of 2 percent, and
+
+
+
+
+(B)
+ interest on so much of such amount as exceeds the 2-percent portion shall be paid at a rate equal to 45 percent of the annual rate provided by subsection (a).
+
+
+
+
+
+For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section.
+
+
+
+
+(2)
+ 2-percent portion
+For purposes of this subsection, the term “2-percent portion” means the lesser of—
+(A)
+(i)
+ the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the sum of $1,000,000 and the applicable exclusion amount in effect under section 2010(c), reduced by
+
+
+
+
+(ii)
+ the applicable credit amount in effect under section 2010(c), or
+
+
+
+
+
+
+(B)
+ the amount of the tax imposed by chapter 11 which is extended as provided in section 6166.
+
+
+
+
+
+
+(3)
+ Inflation adjustment
+In the case of estates of decedents dying in a calendar year after 1998, the $1,000,000 amount contained in paragraph (2)(A) shall be increased by an amount equal to—
+(A)
+ $1,000,000, multiplied by
+
+
+
+
+(B)
+ the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+
+
+
+
+
+If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
+
+
+
+
+(4)
+ Treatment of payments
+If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
+
+
+
+
+
+
+(k)
+ No interest on certain adjustments
+For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).
+
+
+
+
+ Interest on erroneous refund recoverable by suit
+Any portion of an internal revenue tax (or any interest, assessable penalty, additional amount, or addition to tax) which has been erroneously refunded, and which is recoverable by suit pursuant to section 7405, shall bear interest at the underpayment rate established under section 6621 from the date of the payment of the refund.
+ Deposits made to suspend running of interest on potential underpayments, etc.
+(a)
+ Authority to make deposits other than as payment of tax
+A taxpayer may make a cash deposit with the Secretary which may be used by the Secretary to pay any tax imposed under subtitle A or B or chapter 41, 42, 43, or 44 which has not been assessed at the time of the deposit. Such a deposit shall be made in such manner as the Secretary shall prescribe.
+
+
+
+
+(b)
+ No interest imposed
+To the extent that such deposit is used by the Secretary to pay tax, for purposes of section 6601 (relating to interest on underpayments), the tax shall be treated as paid when the deposit is made.
+
+
+
+
+(c)
+ Return of deposit
+Except in a case where the Secretary determines that collection of tax is in jeopardy, the Secretary shall return to the taxpayer any amount of the deposit (to the extent not used for a payment of tax) which the taxpayer requests in writing.
+
+
+
+
+(d)
+ Payment of interest
+(1)
+ In general
+For purposes of section 6611 (relating to interest on overpayments), except as provided in paragraph (4), a deposit which is returned to a taxpayer shall be treated as a payment of tax for any period to the extent (and only to the extent) attributable to a disputable tax for such period. Under regulations prescribed by the Secretary, rules similar to the rules of section 6611(b)(2) shall apply.
+
+
+
+
+
+
+(2)
+ Disputable tax
+(A)
+ In general
+For purposes of this section, the term “disputable tax” means the amount of tax specified at the time of the deposit as the taxpayer’s reasonable estimate of the maximum amount of any tax attributable to disputable items.
+
+
+
+
+
+
+(B)
+ Safe harbor based on 30-day letter
+In the case of a taxpayer who has been issued a 30-day letter, the maximum amount of tax under subparagraph (A) shall not be less than the amount of the proposed deficiency specified in such letter.
+
+
+
+
+
+
+
+
+(3)
+ Other definitions
+For purposes of paragraph (2)—
+(A)
+ Disputable item
+The term “disputable item” means any item of income, gain, loss, deduction, or credit if the taxpayer—
+(i)
+ has a reasonable basis for its treatment of such item, and
+
+
+
+
+(ii)
+ reasonably believes that the Secretary also has a reasonable basis for disallowing the taxpayer’s treatment of such item.
+
+
+
+
+
+
+(B)
+ 30-day letter
+The term “30-day letter” means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+
+
+
+
+
+
+
+
+(4)
+ Rate of interest
+The rate of interest under this subsection shall be the Federal short-term rate determined under section 6621(b), compounded daily.
+
+
+
+
+
+
+(e)
+ Use of deposits
+(1)
+ Payment of tax
+Except as otherwise provided by the taxpayer, deposits shall be treated as used for the payment of tax in the order deposited.
+
+
+
+
+
+
+(2)
+ Returns of deposits
+Deposits shall be treated as returned to the taxpayer on a last-in, first-out basis.
+
+
+
+
+
+
+ Interest on overpayments
+(a)
+ Rate
+Interest shall be allowed and paid upon any overpayment in respect of any internal revenue tax at the overpayment rate established under section 6621.
+
+
+
+
+(b)
+ Period
+Such interest shall be allowed and paid as follows:
+(1)
+ Credits
+In the case of a credit, from the date of the overpayment to the due date of the amount against which the credit is taken.
+
+
+
+
+
+
+(2)
+ Refunds
+In the case of a refund, from the date of the overpayment to a date (to be determined by the Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
+
+
+
+
+
+
+(3)
+ Late returns
+Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
+
+
+
+
+
+
+[(c)
+ Repealed. 
+Pub. L. 85–866, title I, § 83(c)
+, 
+Sept. 2, 1958
+, 
+72 Stat. 1664
+]
+
+
+(d)
+ Advance payment of tax, payment of estimated tax, and credit for income tax withholding
+The provisions of section 6513 (except the provisions of subsection (c) thereof, applicable in determining the date of payment of tax for purposes of determining the period of limitation on credit or refund, shall be applicable in determining the date of payment for purposes of subsection (a).
+
+
+
+
+(e)
+ Disallowance of interest on certain overpayments
+(1)
+ Refunds within 45 days after return is filed
+If any overpayment of tax imposed by this title is refunded within 45 days after the last day prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in the case of a return filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.
+
+
+
+
+
+
+(2)
+ Refunds after claim for credit or refund
+If—
+(A)
+ the taxpayer files a claim for a credit or refund for any overpayment of tax imposed by this title, and
+
+
+
+
+(B)
+ such overpayment is refunded within 45 days after such claim is filed,
+
+
+
+
+
+no interest shall be allowed on such overpayment from the date the claim is filed until the day the refund is made.
+
+
+
+
+(3)
+ IRS initiated adjustments
+If an adjustment initiated by the Secretary, results in a refund or credit of an overpayment, interest on such overpayment shall be computed by subtracting 45 days from the number of days interest would otherwise be allowed with respect to such overpayment.
+
+
+
+
+
+
+(4)
+ Certain withholding taxes
+In the case of any overpayment resulting from tax deducted and withheld under chapter 3 or 4, paragraphs (1), (2), and (3) shall be applied by substituting “180 days” for “45 days” each place it appears.
+
+
+
+
+
+
+(f)
+ Refund of income tax caused by carryback or adjustment for certain unused deductions
+(1)
+ Net operating loss or capital loss carryback
+For purposes of subsection (a), if any overpayment of tax imposed by subtitle A results from a carryback of a net operating loss or net capital loss, such overpayment shall be deemed not to have been made prior to the filing date for the taxable year in which such net operating loss or net capital loss arises.
+
+
+
+
+
+
+(2)
+ Foreign tax credit carrybacks
+For purposes of subsection (a), if any overpayment of tax imposed by subtitle A results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been made before the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made before the filing date for such subsequent taxable year.
+
+
+
+
+
+
+(3)
+ Certain credit carrybacks
+(A)
+ In general
+For purposes of subsection (a), if any overpayment of tax imposed by subtitle A results from a credit carryback, such overpayment shall be deemed not to have been made before the filing date for the taxable year in which such credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made before the filing date for such subsequent taxable year.
+
+
+
+
+
+
+(B)
+ Credit carryback defined
+For purposes of this paragraph, the term “credit carryback” has the meaning given such term by section 6511(d)(4)(C).
+
+
+
+
+
+
+
+
+(4)
+ Special rules for paragraphs (1), (2), and (3)
+(A)
+ Filing date
+For purposes of this subsection, the term “filing date” means the last date prescribed for filing the return of tax imposed by subtitle A for the taxable year (determined without regard to extensions).
+
+
+
+
+
+
+(B)
+ Coordination with subsection (e)
+(i)
+ In general
+For purposes of subsection (e)—
+(I)
+ any overpayment described in paragraph (1), (2), or (3) shall be treated as an overpayment for the loss year,
+
+
+
+
+(II)
+ such subsection shall be applied with respect to such overpayment by treating the return for the loss year as not filed before claim for such overpayment is filed.
+
+
+
+
+
+
+(ii)
+ Loss year
+For purposes of this subparagraph, the term “loss year” means—
+(I)
+ in the case of a carryback of a net operating loss or net capital loss, the taxable year in which such loss arises,
+
+
+
+
+(II)
+ in the case of a carryback of taxes paid or accrued to foreign countries or possessions of the United States, the taxable year in which such taxes were in fact paid or accrued (or, with respect to any portion of such carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such subsequent taxable year), and
+
+
+
+
+(III)
+ in the case of a credit carryback (as defined in paragraph (3)(B)), the taxable year in which such credit carryback arises (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, a capital loss carryback, or other credit carryback from a subsequent taxable year, such subsequent taxable year).
+
+
+
+
+
+
+
+
+(C)
+ Application of subparagraph (B) where section 6411(a) claim filed
+For purposes of subparagraph (B)(i)(II), if a taxpayer—
+(i)
+ files a claim for refund of any overpayment described in paragraph (1), (2), or (3) with respect to the taxable year to which a loss or credit is carried back, and
+
+
+
+
+(ii)
+ subsequently files an application under section 6411(a) with respect to such overpayment,
+
+
+
+
+
+then the claim for overpayment shall be treated as having been filed on the date the application under section 6411(a) was filed.
+
+
+
+
+
+
+(g)
+ No interest until return in processible form
+(1)
+ For purposes of subsections (b)(3) and (e), a return shall not be treated as filed until it is filed in processible form.
+
+
+
+
+(2)
+ For purposes of paragraph (1), a return is in a processible form if—
+(A)
+ such return is filed on a permitted form, and
+
+
+
+
+(B)
+ such return contains—
+(i)
+ the taxpayer’s name, address, and identifying number and the required signature, and
+
+
+
+
+(ii)
+ sufficient required information (whether on the return or on required attachments) to permit the mathematical verification of tax liability shown on the return.
+
+
+
+
+
+
+
+
+(h)
+ Prohibition of administrative review
+For prohibition of administrative review, see section 6406.
+
+
+
+
+ Cross references
+(a)
+ Interest on judgments for overpayments
+For interest on judgments for overpayments, see 
+28 U.S.C. 2411(a)
+.
+
+
+
+
+(b)
+ Adjustments
+For provisions prohibiting interest on certain adjustments in tax, see section 6413(a).
+
+
+
+
+(c)
+ Other restrictions on interest
+For other restrictions on interest, see 2014(e) 
+1
+1
+ So in original. Probably should be preceded by “sections”.
+ (relating to refunds attributable to foreign tax credits), 6412 (relating to floor stock refunds), 6413(d) (relating to taxes under the Federal Unemployment Tax Act), 6416 (relating to certain taxes on sales and services), 6419 (relating to the excise tax on wagering), and 6420 (relating to payments in the case of gasoline used on the farm for farming purposes), and 6421 (relating to payments in the case of gasoline used for certain nonhighway purposes or by local transit systems).
+
+
+
+
+ Determination of rate of interest
+(a)
+ General rule
+(1)
+ Overpayment rate
+The overpayment rate established under this section shall be the sum of—
+(A)
+ the Federal short-term rate determined under subsection (b), plus
+
+
+
+
+(B)
+ 3 percentage points (2 percentage points in the case of a corporation).
+
+
+
+
+
+To the extent that an overpayment of tax by a corporation for any taxable period (as defined in subsection (c)(3), applied by substituting “overpayment” for “underpayment”) exceeds $10,000, subparagraph (B) shall be applied by substituting “0.5 percentage point” for “2 percentage points”.
+
+
+
+
+(2)
+ Underpayment rate
+The underpayment rate established under this section shall be the sum of—
+(A)
+ the Federal short-term rate determined under subsection (b), plus
+
+
+
+
+(B)
+ 3 percentage points.
+
+
+
+
+
+
+(b)
+ Federal short-term rate
+For purposes of this section—
+(1)
+ General rule
+The Secretary shall determine the Federal short-term rate for the first month in each calendar quarter.
+
+
+
+
+
+
+(2)
+ Period during which rate applies
+(A)
+ In general
+Except as provided in subparagraph (B), the Federal short-term rate determined under paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
+
+
+
+
+
+
+(B)
+ Special rule for individual estimated tax
+In determining the addition to tax under section 6654 for failure to pay estimated tax for any taxable year, the Federal short-term rate which applies during the 3rd month following such taxable year shall also apply during the first 15 days of the 4th month following such taxable year.
+
+
+
+
+
+
+
+
+(3)
+ Federal short-term rate
+The Federal short-term rate for any month shall be the Federal short-term rate determined during such month by the Secretary in accordance with section 1274(d). Any such rate shall be rounded to the nearest full percent (or, if a multiple of ½ of 1 percent, such rate shall be increased to the next highest full percent).
+
+
+
+
+
+
+(c)
+ Increase in underpayment rate for large corporate underpayments
+(1)
+ In general
+For purposes of determining the amount of interest payable under section 6601 on any large corporate underpayment for periods after the applicable date, paragraph (2) of subsection (a) shall be applied by substituting “5 percentage points” for “3 percentage points”.
+
+
+
+
+
+
+(2)
+ Applicable date
+For purposes of this subsection—
+(A)
+ In general
+The applicable date is the 30th day after the earlier of—
+(i)
+ the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, or
+
+
+
+
+(ii)
+ the date on which the deficiency notice under section 6212 is sent.
+
+
+
+
+
+The preceding sentence shall be applied without regard to any such letter or notice which is withdrawn by the Secretary.
+
+
+
+
+(B)
+ Special rules
+(i)
+ Nondeficiency procedures
+In the case of any underpayment of any tax imposed by this title to which the deficiency procedures do not apply, subparagraph (A) shall be applied by taking into account any letter or notice provided by the Secretary which notifies the taxpayer of the assessment or proposed assessment of the tax.
+
+
+
+
+
+
+(ii)
+ Exception where amounts paid in full
+For purposes of subparagraph (A), a letter or notice shall be disregarded if, during the 30-day period beginning on the day on which it was sent, the taxpayer makes a payment equal to the amount shown as due in such letter or notice, as the case may be.
+
+
+
+
+
+
+(iii)
+ Exception for letters or notices involving small amounts
+For purposes of this paragraph, any letter or notice shall be disregarded if the amount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
+
+
+
+
+
+
+
+
+
+
+(3)
+ Large corporate underpayment
+For purposes of this subsection—
+(A)
+ In general
+The term “large corporate underpayment” means any underpayment of a tax by a C corporation for any taxable period if the amount of such underpayment for such period exceeds $100,000.
+
+
+
+
+
+
+(B)
+ Taxable period
+For purposes of subparagraph (A), the term “taxable period” means—
+(i)
+ in the case of any tax imposed by subtitle A, the taxable year, or
+
+
+
+
+(ii)
+ in the case of any other tax, the period to which the underpayment relates.
+
+
+
+
+
+
+
+
+(d)
+ Elimination of interest on overlapping periods of tax overpayments and underpayments
+To the extent that, for any period, interest is payable under subchapter A and allowable under subchapter B on equivalent underpayments and overpayments by the same taxpayer of tax imposed by this title, the net rate of interest under this section on such amounts shall be zero for such period.
+
+
+
+
+ Interest compounded daily
+(a)
+ General rule
+In computing the amount of any interest required to be paid under this title or sections 1961(c)(1) or 2411 of title 28, United States Code, by the Secretary or by the taxpayer, or any other amount determined by reference to such amount of interest, such interest and such amount shall be compounded daily.
+
+
+
+
+(b)
+ Exception for penalty for failure to file estimated tax
+Subsection (a) shall not apply for purposes of computing the amount of any addition to tax under section 6654 or 6655.
+
+
+
+
+ Notice requirements
+The Secretary shall include with each notice to an individual taxpayer which includes an amount of interest required to be paid by such taxpayer under this title information with respect to the section of this title under which the interest is imposed and a computation of the interest.

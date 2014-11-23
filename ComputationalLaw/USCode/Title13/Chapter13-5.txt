@@ -1,0 +1,746 @@
+
+Chapter 5
+CENSUSES
+ Collection and publication; five-year periods
+The Secretary shall take, compile, and publish censuses of manufactures, of mineral industries, and of other businesses, including the distributive trades, service establishments, and transportation (exclusive of means of transportation for which statistics are required by law to be filed with, and are compiled and published by, a designated regulatory body), in the year 1964, then in the year 1968, and every fifth year thereafter, and each such census shall relate to the year immediately preceding the taking thereof.
+“(a)
+ 
+Bureau of Labor Statistics
+.—
+The Bureau of Labor Statistics of the Department of Labor shall include in any census report it may prepare on women owned business data on—
+“(1)
+ sole proprietorships;
+
+
+
+
+“(2)
+ partnerships; and
+
+
+
+
+“(3)
+ corporations.
+
+
+
+
+“(b)
+ 
+Bureau of the Census
+.—
+The Bureau of the Census of the Department of Commerce shall include in its Business Census for 1992 and each such succeeding census data on the number of corporations which are 51 per centum or more owned by women.
+
+
+“(c)
+ 
+Combined Study
+.—
+Not later than one hundred and eighty days after the effective date of this section [
+Oct. 25, 1988
+], the Office of the Chief Counsel for Advocacy of the Small Business Administration (hereinafter referred to in this subsection as the ‘Office’) shall conduct a study and prepare a report recommending the most cost effective and accurate means to gather and present the data required to be collected pursuant to subsections (a) and (b). The Department of Commerce and the Department of Labor shall provide the Office such assistance and cooperation as may be necessary and appropriate to achieve the purposes of this subsection.”
+
+
+ Controlling law; effect on other agencies
+To the extent that the provisions of this subchapter or subchapter IV of this chapter conflict with any other provision of this title or other law, pertaining to the Secretary of the Department of Commerce, the provisions of this title shall control; but nothing in this title shall be deemed to revoke or impair the authority of any other Federal agency with respect to the collection or release of information.
+ Population and other census information
+(a)
+ The Secretary shall, in the year 1980 and every 10 years thereafter, take a decennial census of population as of the first day of April of such year, which date shall be known as the “decennial census date”, in such form and content as he may determine, including the use of sampling procedures and special surveys. In connection with any such census, the Secretary is authorized to obtain such other census information as necessary.
+
+
+(b)
+ The tabulation of total population by States under subsection (a) of this section as required for the apportionment of Representatives in Congress among the several States shall be completed within 9 months after the census date and reported by the Secretary to the President of the United States.
+
+
+(c)
+ The officers or public bodies having initial responsibility for the legislative apportionment or districting of each State may, not later than 3 years before the decennial census date, submit to the Secretary a plan identifying the geographic areas for which specific tabulations of population are desired. Each such plan shall be developed in accordance with criteria established by the Secretary, which he shall furnish to such officers or public bodies not later than April 1 of the fourth year preceding the decennial census date. Such criteria shall include requirements which assure that such plan shall be developed in a nonpartisan manner. Should the Secretary find that a plan submitted by such officers or public bodies does not meet the criteria established by him, he shall consult to the extent necessary with such officers or public bodies in order to achieve the alterations in such plan that he deems necessary to bring it into accord with such criteria. Any issues with respect to such plan remaining unresolved after such consultation shall be resolved by the Secretary, and in all cases he shall have final authority for determining the geographic format of such plan. Tabulations of population for the areas identified in any plan approved by the Secretary shall be completed by him as expeditiously as possible after the decennial census date and reported to the Governor of the State involved and to the officers or public bodies having responsibility for legislative apportionment or districting of such State, except that such tabulations of population of each State requesting a tabulation plan, and basic tabulations of population of each other State, shall, in any event, be completed, reported, and transmitted to each respective State within one year after the decennial census date.
+
+
+(d)
+ Without regard to subsections (a), (b), and (c) of this section, the Secretary, in the year 1985 and every 10 years thereafter, shall conduct a mid-decade census of population in such form and content as he may determine, including the use of sampling procedures and special surveys, taking into account the extent to which information to be obtained from such census will serve in lieu of information collected annually or less frequently in surveys or other statistical studies. The census shall be taken as of the first day of April of each such year, which date shall be known as the “mid-decade census date”.
+
+
+(e)
+(1)
+ If—
+(A)
+ in the administration of any program established by or under Federal law which provides benefits to State or local governments or to other recipients, eligibility for or the amount of such benefits would (without regard to this paragraph) be determined by taking into account data obtained in the most recent decennial census, and
+
+
+
+
+(B)
+ comparable data is obtained in a mid-decade census conducted after such decennial census,
+
+
+
+
+
+then in the determination of such eligibility or amount of benefits the most recent data available from either the mid-decade or decennial census shall be used.
+
+
+
+
+(2)
+ Information obtained in any mid-decade census shall not be used for apportionment of Representatives in Congress among the several States, nor shall such information be used in prescribing congressional districts.
+
+
+
+
+(f)
+ With respect to each decennial and mid-decade census conducted under subsection (a) or (d) of this section, the Secretary shall submit to the committees of Congress having legislative jurisdiction over the census—
+(1)
+ not later than 3 years before the appropriate census date, a report containing the Secretary’s determination of the subjects proposed to be included, and the types of information to be compiled, in such census;
+
+
+
+
+(2)
+ not later than 2 years before the appropriate census date, a report containing the Secretary’s determination of the questions proposed to be included in such census; and
+
+
+
+
+(3)
+ after submission of a report under paragraph (1) or (2) of this subsection and before the appropriate census date, if the Secretary finds new circumstances exist which necessitate that the subjects, types of information, or questions contained in reports so submitted be modified, a report containing the Secretary’s determination of the subjects, types of information, or questions as proposed to be modified.
+
+
+
+
+(g)
+ As used in this section, “census of population” means a census of population, housing, and matters relating to population and housing.
+
+
+“(a)
+ Congress finds that—
+“(1)
+ it is the constitutional duty of the Congress to ensure that the decennial enumeration of the population is conducted in a manner consistent with the Constitution and laws of the United States;
+
+
+
+
+“(2)
+ the sole constitutional purpose of the decennial enumeration of the population is the apportionment of Representatives in Congress among the several States;
+
+
+
+
+“(3)
+ section 2 of the 14th article of amendment to the Constitution clearly states that Representatives are to be ‘apportioned among the several States according to their respective numbers, counting the whole number of persons in each State’;
+
+
+
+
+“(4)
+ article I, section 2, clause 3 of the Constitution clearly requires an ‘actual Enumeration’ of the population, and 
+section 195 of title 13
+, United States Code, clearly provides ‘Except for the determination of population for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible, authorize the use of the statistical method known as “sampling” in carrying out the provisions of this title.’;
+
+
+
+
+“(5)
+ the decennial enumeration of the population is one of the most critical constitutional functions our Federal Government performs;
+
+
+
+
+“(6)
+ it is essential that the decennial enumeration of the population be as accurate as possible, consistent with the Constitution and laws of the United States;
+
+
+
+
+“(7)
+ the use of statistical sampling or statistical adjustment in conjunction with an actual enumeration to carry out the census with respect to any segment of the population poses the risk of an inaccurate, invalid, and unconstitutional census;
+
+
+
+
+“(8)
+ the decennial enumeration of the population is a complex and vast undertaking, and if such enumeration is conducted in a manner that does not comply with the requirements of the Constitution or laws of the United States, it would be impracticable for the States to obtain, and the courts of the United States to provide, meaningful relief after such enumeration has been conducted; and
+
+
+
+
+“(9)
+ Congress is committed to providing the level of funding that is required to perform the entire range of constitutional census activities, with a particular emphasis on accurately enumerating all individuals who have historically been undercounted, and toward this end, Congress expects—
+“(A)
+ aggressive and innovative promotion and outreach campaigns in hard-to-count communities;
+
+
+
+
+“(B)
+ the hiring of enumerators from within those communities;
+
+
+
+
+“(C)
+ continued cooperation with local government on address list development; and
+
+
+
+
+“(D)
+ maximized census employment opportunities for individuals seeking to make the transition from welfare to work.
+
+
+
+
+
+
+“(b)
+ Any person aggrieved by the use of any statistical method in violation of the Constitution or any provision of law (other than this Act [see Tables for classification]), in connection with the 2000 or any later decennial census, to determine the population for purposes of the apportionment or redistricting of Members in Congress, may in a civil action obtain declaratory, injunctive, and any other appropriate relief against the use of such method.
+
+
+“(c)
+ For purposes of this section—
+“(1)
+ the use of any statistical method as part of a dress rehearsal or other simulation of a census in preparation for the use of such method, in a decennial census, to determine the population for purposes of the apportionment or redistricting of Members in Congress shall be considered the use of such method in connection with that census; and
+
+
+
+
+“(2)
+ the report ordered by title VIII of 
+Public Law 105–18
+ [
+111 Stat. 217
+] and the Census 2000 Operational Plan shall be deemed to constitute final agency action regarding the use of statistical methods in the 2000 decennial census, thus making the question of their use in such census sufficiently concrete and final to now be reviewable in a judicial proceeding.
+
+
+
+
+“(d)
+ For purposes of this section, an aggrieved person (described in subsection (b)) includes—
+“(1)
+ any resident of a State whose congressional representation or district could be changed as a result of the use of a statistical method challenged in the civil action;
+
+
+
+
+“(2)
+ any Representative or Senator in Congress; and
+
+
+
+
+“(3)
+ either House of Congress.
+
+
+
+
+“(e)
+(1)
+ Any action brought under this section shall be heard and determined by a district court of three judges in accordance with 
+section 2284 of title 28
+, United States Code. The chief judge of the United States court of appeals for each circuit shall, to the extent practicable and consistent with the avoidance of unnecessary delay, consolidate, for all purposes, in one district court within that circuit, all actions pending in that circuit under this section. Any party to an action under this section shall be precluded from seeking any consolidation of that action other than is provided in this paragraph. In selecting the district court in which to consolidate such actions, the chief judge shall consider the convenience of the parties and witnesses and efficient conduct of such actions. Any final order or injunction of a United States district court that is issued pursuant to an action brought under this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under this section may be issued by a single Justice of the Supreme Court.
+
+
+
+
+“(2)
+ It shall be the duty of a United States district court hearing an action brought under this section and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any such matter.
+
+
+
+
+“(f)
+ Any agency or entity within the executive branch having authority with respect to the carrying out of a decennial census may in a civil action obtain a declaratory judgment respecting whether or not the use of a statistical method, in connection with such census, to determine the population for the purposes of the apportionment or redistricting of Members in Congress is forbidden by the Constitution and laws of the United States.
+
+
+“(g)
+ The Speaker of the House of Representatives or the Speaker’s designee or designees may commence or join in a civil action, for and on behalf of the House of Representatives, under any applicable law, to prevent the use of any statistical method, in connection with the decennial census, to determine the population for purposes of the apportionment or redistricting of Members in Congress. It shall be the duty of the Office of the General Counsel of the House of Representatives to represent the House in such civil action, according to the directions of the Speaker. The Office of the General Counsel of the House of Representatives may employ the services of outside counsel and other experts for this purpose.
+
+
+“(h)
+ For purposes of this section and section 210 [set out below]—
+“(1)
+ the term ‘statistical method’ means an activity related to the design, planning, testing, or implementation of the use of representative sampling, or any other statistical procedure, including statistical adjustment, to add or subtract counts to or from the enumeration of the population as a result of statistical inference; and
+
+
+
+
+“(2)
+ the term ‘census’ or ‘decennial census’ means a decennial enumeration of the population.
+
+
+
+
+“(i)
+ Nothing in this Act shall be construed to authorize the use of any statistical method, in connection with a decennial census, for the apportionment or redistricting of Members in Congress.
+
+
+“(j)
+ Sufficient funds appropriated under this Act or under any other Act for purposes of the 2000 decennial census shall be used by the Bureau of the Census to plan, test, and become prepared to implement a 2000 decennial census, without using statistical methods, which shall result in the percentage of the total population actually enumerated being as close to 100 percent as possible. In both the 2000 decennial census, and any dress rehearsal or other simulation made in preparation for the 2000 decennial census, the number of persons enumerated without using statistical methods must be publicly available for all levels of census geography which are being released by the Bureau of the Census for: (1) all data releases before 
+January 1, 2001
+; (2) the data contained in the 2000 decennial census 
+Public Law 94–171
+ [amending this section] data file released for use in redistricting; (3) the Summary Tabulation File One (STF–1) for the 2000 decennial census; and (4) the official populations of the States transmitted from the Secretary of Commerce through the President to the Clerk of the House used to reapportion the districts of the House among the States as a result of the 2000 decennial census. Simultaneously with any other release or reporting of any of the information described in the preceding sentence through other means, such information shall be made available to the public on the Internet. These files of the Bureau of the Census shall be available concurrently to the release of the original files to the same recipients, on identical media, and at a comparable price. They shall contain the number of persons enumerated without using statistical methods and any additions or subtractions thereto. These files shall be based on data gathered and generated by the Bureau of the Census in its official capacity.
+
+
+“(k)
+ This section shall apply in fiscal year 1998 and succeeding fiscal years.”
+
+
+“(a)
+ There shall be established a board to be known as the Census Monitoring Board (hereafter in this section referred to as the ‘Board’).
+
+
+“(b)
+ The function of the Board shall be to observe and monitor all aspects of the preparation and implementation of the 2000 decennial census (including all dress rehearsals and other simulations of a census in preparation therefor).
+
+
+“(c)
+(1)
+ The Board shall be composed of 8 members as follows:
+“(A)
+ Two individuals appointed by the majority leader of the Senate.
+
+
+
+
+“(B)
+ Two individuals appointed by the Speaker of the House of Representatives.
+
+
+
+
+“(C)
+ Four individuals appointed by the President, of whom—
+“(i)
+ one shall be on the recommendation of the minority leader of the Senate; and
+
+
+
+
+“(ii)
+ one shall be on the recommendation of the minority leader of the House of Representatives.
+
+
+
+
+
+
+
+All members of the Board shall be appointed within 60 days after the date of enactment of this Act [
+Nov. 26, 1997
+]. A vacancy in the Board shall be filled in the manner in which the original appointment was made.
+
+
+
+
+“(2)
+ Members shall not be entitled to any pay by reason of their service on the Board, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+
+
+
+“(3)
+ The Board shall have—
+“(A)
+ a co-chairman who shall be appointed jointly by the members under subsection (c)(1)(A) and (B), and
+
+
+
+
+“(B)
+ a co-chairman who shall be appointed jointly by the members under subsection (c)(1)(C).
+
+
+
+
+
+
+“(4)
+ The Board shall meet at the call of either co-chairman.
+
+
+
+
+“(5)
+ A quorum shall consist of five members of the Board.
+
+
+
+
+“(6)
+ The Board may promulgate any regulations necessary to carry out its duties.
+
+
+
+
+“(d)
+(1)
+ The Board shall have—
+“(A)
+ an executive director who shall be appointed jointly by the members under subsection (c)(1)(A) and (B), and
+
+
+
+
+“(B)
+ an executive director who shall be appointed jointly by the members under subsection (c)(1)(C),
+
+
+
+
+
+each of whom shall be paid at a rate not to exceed level IV of the Executive Schedule.
+
+
+
+
+“(2)
+ Subject to such rules as the Board may prescribe, each executive director—
+“(A)
+ may appoint and fix the pay of such additional personnel as that executive director considers appropriate; and
+
+
+
+
+“(B)
+ may procure temporary and intermittent services under 
+section 3109(b) of title 5
+, United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of pay payable for grade GS–15 of the General Schedule.
+
+
+
+
+
+Such rules shall include provisions to ensure an equitable division or sharing of resources, as appropriate, between the respective staff of the Board.
+
+
+
+
+“(3)
+ The staff of the Board shall be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
+
+
+
+
+“(4)
+ The Administrator of the General Services Administration, in coordination with the Secretary of Commerce, shall locate suitable office space for the operation of the Board in the W. Edwards Deming Building in Suitland, Maryland. The facilities shall serve as the headquarters of the Board and shall include all necessary equipment and incidentals required for the proper functioning of the Board.
+
+
+
+
+“(e)
+(1)
+ For the purpose of carrying out its duties, the Board may hold such hearings (at the call of either co-chairman) and undertake such other activities as the Board determines to be necessary to carry out its duties.
+
+
+
+
+“(2)
+ The Board may authorize any member of the Board or of its staff to take any action which the Board is authorized to take by this subsection.
+
+
+
+
+“(3)
+(A)
+ Each co-chairman of the Board and any members of the staff who may be designated by the Board under this paragraph shall be granted access to any data, files, information, or other matters maintained by the Bureau of the Census (or received by it in the course of conducting a decennial census of population) which they may request, subject to such regulations as the Board may prescribe in consultation with the Secretary of Commerce.
+
+
+
+
+“(B)
+ The Board or the co-chairmen acting jointly may secure directly from any other Federal agency, including the White House, all information that the Board considers necessary to enable the Board to carry out its duties. Upon request of the Board or both co-chairmen, the head of that agency (or other person duly designated for purposes of this paragraph) shall furnish that information to the Board.
+
+
+
+
+
+
+“(4)
+ The Board shall prescribe regulations under which any member of the Board or of its staff, and any person whose services are procured under subsection (d)(2)(B), who gains access to any information or other matter pursuant to this subsection shall, to the extent that any provisions of section 9 or 214 of title 13, United States Code, would apply with respect to such matter in the case of an employee of the Department of Commerce, be subject to such provisions.
+
+
+
+
+“(5)
+ Upon the request of the Board, the head of any Federal agency is authorized to detail, without reimbursement, any of the personnel of such agency to the Board to assist the Board in carrying out its duties. Any such detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+
+
+
+
+“(6)
+ Upon the request of the Board, the head of a Federal agency shall provide such technical assistance to the Board as the Board determines to be necessary to carry out its duties.
+
+
+
+
+“(7)
+ The Board may use the United States mails in the same manner and under the same conditions as Federal agencies and shall, for purposes of the frank, be considered a commission of Congress as described in 
+section 3215 of title 39
+, United States Code.
+
+
+
+
+“(8)
+ Upon request of the Board, the Administrator of General Services shall provide to the Board on a reimbursable basis such administrative support services as the Board may request.
+
+
+
+
+“(9)
+ For purposes of costs relating to printing and binding, including the cost of personnel detailed from the Government Printing Office, the Board shall be deemed to be a committee of the Congress.
+
+
+
+
+“(f)
+(1)
+ The Board shall transmit to the Congress—
+“(A)
+ interim reports, with the first such report due by 
+April 1, 1998
+;
+
+
+
+
+“(B)
+ additional reports, the first of which shall be due by 
+February 1, 1999
+, the second of which shall be due by 
+April 1, 1999
+, and subsequent reports at least semiannually thereafter;
+
+
+
+
+“(C)
+ a final report which shall be due by 
+September 1, 2001
+; and
+
+
+
+
+“(D)
+ any other reports which the Board considers appropriate.
+
+
+
+
+
+The final report shall contain a detailed statement of the findings and conclusions of the Board with respect to the matters described in subsection (b).
+
+
+
+
+“(2)
+ In addition to any matter otherwise required under this subsection, each such report shall address, with respect to the period covered by such report—
+“(A)
+ the degree to which efforts of the Bureau of the Census to prepare to conduct the 2000 census—
+“(i)
+ shall achieve maximum possible accuracy at every level of geography;
+
+
+
+
+“(ii)
+ shall be taken by means of an enumeration process designed to count every individual possible; and
+
+
+
+
+“(iii)
+ shall be free from political bias and arbitrary decisions; and
+
+
+
+
+
+
+“(B)
+ efforts by the Bureau of the Census intended to contribute to enumeration improvement, specifically, in connection with—
+“(i)
+ computer modernization and the appropriate use of automation;
+
+
+
+
+“(ii)
+ address list development;
+
+
+
+
+“(iii)
+ outreach and promotion efforts at all levels designed to maximize response rates, especially among groups that have historically been undercounted (including measures undertaken in conjunction with local government and community and other groups);
+
+
+
+
+“(iv)
+ establishment and operation of field offices; and
+
+
+
+
+“(v)
+ efforts relating to the recruitment, hiring, and training of enumerators.
+
+
+
+
+
+
+
+
+“(3)
+ Any data or other information obtained by the Board under this section shall be made available to any committee or subcommittee of Congress of appropriate jurisdiction upon request of the chairman or ranking minority member of such committee or subcommittee. No such committee or subcommittee, or member thereof, shall disclose any information obtained under this paragraph which is submitted to it on a confidential basis unless the full committee determines that the withholding of that information is contrary to the national interest.
+
+
+
+
+“(4)
+ The Board shall study and submit to Congress, as part of its first report under paragraph (1)(A), its findings and recommendations as to the feasibility and desirability of using postal personnel or private contractors to help carry out the decennial census.
+
+
+
+
+“(g)
+ There is authorized to be appropriated $4,000,000 for each of fiscal years 1998 through 2001 to carry out this section.
+
+
+“(h)
+ To the extent practicable, members of the Board shall work to promote the most accurate and complete census possible by using their positions to publicize the need for full and timely responses to census questionnaires.
+
+
+“(i)
+(1)
+ No individual described in paragraph (2) shall be eligible—
+“(A)
+ to be appointed or to continue serving as a member of the Board or as a member of the staff thereof; or
+
+
+
+
+“(B)
+ to enter into any contract with the Board.
+
+
+
+
+
+
+“(2)
+ This subsection applies with respect to any individual who is serving or who has ever served—
+“(A)
+ as the Director of the Census; or
+
+
+
+
+“(B)
+ with any committee or subcommittee of either House of Congress, having jurisdiction over any aspect of the decennial census, as—
+“(i)
+ a Member of Congress; or
+
+
+
+
+“(ii)
+ a congressional employee.
+
+
+
+
+
+
+
+
+“(j)
+ The Board shall cease to exist on 
+September 30, 2001
+.”
+
+
+“(a)
+ 
+In General
+.—
+Not later than 90 days after the date of the enactment of this Act [
+Aug. 22, 1996
+], the Secretary of Commerce, in carrying out 
+section 141 of title 13
+, United States Code, shall expand the data collection efforts of the Bureau of the Census (in this section referred to as the ‘Bureau’) to enable the Bureau to collect statistically significant data, in connection with its decennial census and its mid-decade census, concerning the growing trend of grandparents who are the primary caregivers for their grandchildren.
+
+
+“(b)
+ 
+Expanded Census Question
+.—
+In carrying out subsection (a), the Secretary of Commerce shall expand the Bureau’s census question that details households which include both grandparents and their grandchildren. The expanded question shall be formulated to distinguish between the following households:
+“(1)
+ A household in which a grandparent temporarily provides a home for a grandchild for a period of weeks or months during periods of parental distress.
+
+
+
+
+“(2)
+ A household in which a grandparent provides a home for a grandchild and serves as the primary caregiver for the grandchild.”
+
+
+
+
+ Repealed. 
+ Repealed. 
+ Quinquennial censuses; inclusion of certain data
+The Secretary shall take, compile, and publish for the year 1957 and for every fifth year thereafter a census of governments. Each such census shall include, but shall not be limited to, data on taxes and tax valuations, governmental receipts, expenditures, indebtedness, and employees of States, counties, cities, and other governmental units.
+ Repealed. 
+ Authority of other agencies
+This subchapter does not revoke or impair the authority of any other Federal agency with respect to the collection or release of information.
+ Population
+(a)
+ During the intervals between each census of population required under 
+section 141 of this title
+, the Secretary, to the extent feasible, shall annually produce and publish for each State, county, and local unit of general purpose government which has a population of fifty thousand or more, current data on total population and population characteristics and, to the extent feasible, shall biennially produce and publish for other local units of general purpose government current data on total population. Such data shall be produced and published for each State, county, and other local unit of general purpose government for which data is compiled in the most recent census of population taken under 
+section 141 of this title
+. Such data may be produced by means of sampling or other methods, which the Secretary determines will produce current, comprehensive, and reliable data.
+
+
+(b)
+ If the Secretary is unable to produce and publish current data during any fiscal year on total population for any county and local unit of general purpose government as required by this section, a report shall be submitted by the Secretary to the President of the Senate and to the Speaker of the House of Representatives not later than 90 days before the commencement of the following fiscal year, enumerating each government excluded and giving the reasons for such exclusion.
+
+
+ Surveys
+The Secretary may make surveys deemed necessary to furnish annual and other interim current data on the subjects covered by the censuses provided for in this title.
+ Use of most recent population data
+(a)
+ Except as provided in subsection (b), for the purpose of administering any law of the United States in which population or other population characteristics are used to determine the amount of benefit received by State, county, or local units of general purpose government, the Secretary shall transmit to the President for use by the appropriate departments and agencies of the executive branch the data most recently produced and published under this title.
+
+
+(b)
+ This section shall not apply with respect to any law of the United States which, for purposes of determining the amount of benefit received by State, county, or local units of general purpose government, provides that only population or population characteristics data obtained in the most recent decennial census may be used in such determination.
+
+
+ Definitions
+ Geographic scope of censuses
+(a)
+ Each of the censuses authorized by this chapter shall include each State, the District of Columbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
+
+
+(b)
+ For censuses taken in the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or any possession or area not specifically designated in subsection (a) of this section, the Secretary may use census information collected by the Governor or highest ranking Federal official, if such information was obtained in accordance with plans prescribed or approved by the Secretary.
+
+
+(c)
+ If, pursuant to a determination by the Secretary under subsection (a) of this section, any census is not taken in a possession or area over which the United States exercises jurisdiction, control, or sovereignty, the Secretary may include data obtained from other Federal agencies or government sources in the census report. Any data obtained from foreign governments shall be obtained through the Secretary of State.
+
+
+ Preliminary and supplemental statistics
+In advance of, in conjunction with, or after the taking of each census provided for by this chapter, the Secretary may make surveys and collect such preliminary and supplementary statistics related to the main topic of the census as are necessary to the initiation, taking, or completion thereof.
+ Use of sampling
+Except for the determination of population for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible, authorize the use of the statistical method known as “sampling” in carrying out the provisions of this title.
+ Special censuses
+The Secretary may conduct special censuses for the government of any State, or of any county, city, or other political subdivision within a State, for the government of the District of Columbia, and for the government of any possession or area (including political subdivisions thereof) referred to in 

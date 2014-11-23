@@ -1,0 +1,2377 @@
+
+Chapter 33
+FEDERAL BUREAU OF INVESTIGATION
+ Federal Bureau of Investigation
+The Federal Bureau of Investigation is in the Department of Justice.
+“(a)
+ 
+Enterprise Architecture Defined
+.—
+In this section, the term ‘enterprise architecture’ means a detailed outline or blueprint of the information technology of the Federal Bureau of Investigation that will satisfy the ongoing mission and goals of the Federal Bureau of Investigation and that sets forth specific and identifiable benchmarks.
+
+
+“(b)
+ 
+Enterprise Architecture
+.—
+The Federal Bureau of Investigation shall—
+“(1)
+ continually maintain and update an enterprise architecture; and
+
+
+
+
+“(2)
+ maintain a state of the art and up to date information technology infrastructure that is in compliance with the enterprise architecture of the Federal Bureau of Investigation.
+
+
+
+
+“(c)
+ 
+Report
+.—
+Subject to subsection (d), the Director of the Federal Bureau of Investigation shall, on an annual basis, submit to the Committees on the Judiciary of the Senate and House of Representatives a report on whether the major information technology investments of the Federal Bureau of Investigation are in compliance with the enterprise architecture of the Federal Bureau of Investigation and identify any inability or expectation of inability to meet the terms set forth in the enterprise architecture.
+
+
+“(d)
+ 
+Failure To Meet Terms
+.—
+If the Director of the Federal Bureau of Investigation identifies any inability or expectation of inability to meet the terms set forth in the enterprise architecture in a report under subsection (c), the report under subsection (c) shall—
+“(1)
+ be twice a year until the inability is corrected;
+
+
+
+
+“(2)
+ include a statement as to whether the inability or expectation of inability to meet the terms set forth in the enterprise architecture is substantially related to resources; and
+
+
+
+
+“(3)
+ if the inability or expectation of inability is substantially related to resources, include a request for additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
+
+
+
+
+“(e)
+ 
+Enterprise Architecture, Agency Plans and Reports
+.—
+This section shall be carried out in compliance with the requirements set forth in section 1016(e) and (h) [
+6 U.S.C. 485(e)
+, (h)].”
+
+
+“(a)
+ 
+Establishment
+.—
+Not later than 90 days after the date of enactment of this Act [
+Oct. 30, 1998
+], the Attorney General shall establish within the Federal Bureau of Investigation a Child Abduction and Serial Murder Investigative Resources Center to be known as the ‘Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center’ (in this section referred to as the ‘CASMIRC’).
+
+
+“(b)
+ 
+Purpose
+.—
+The CASMIRC shall be managed by the National Center for the Analysis of Violent Crime of the Critical Incident Response Group of the Federal Bureau of Investigation (in this section referred to as the ‘NCAVC’), and by multidisciplinary resource teams in Federal Bureau of Investigation field offices, in order to provide investigative support through the coordination and provision of Federal law enforcement resources, training, and application of other multidisciplinary expertise, to assist Federal, State, and local authorities in matters involving child abductions, mysterious disappearances of children, child homicide, and serial murder across the country. The CASMIRC shall be co-located with the NCAVC.
+
+
+“(c)
+ 
+Duties of the CASMIRC
+.—
+The CASMIRC shall perform such duties as the Attorney General determines appropriate to carry out the purposes of the CASMIRC, including—
+“(1)
+ identifying, developing, researching, acquiring, and refining multidisciplinary information and specialities to provide for the most current expertise available to advance investigative knowledge and practices used in child abduction, mysterious disappearances of children, child homicide, and serial murder investigations;
+
+
+
+
+“(2)
+ providing advice and coordinating the application of current and emerging technical, forensic, and other Federal assistance to Federal, State, and local authorities in child abduction, mysterious disappearances of children, child homicide, and serial murder investigations;
+
+
+
+
+“(3)
+ providing investigative support, research findings, and violent crime analysis to Federal, State, and local authorities in child abduction, mysterious disappearances of children, child homicide, and serial murder investigations;
+
+
+
+
+“(4)
+ providing, if requested by a Federal, State, or local law enforcement agency, on site consultation and advice in child abduction, mysterious disappearances of children, child homicide and serial murder investigations;
+
+
+
+
+“(5)
+ coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
+
+
+
+
+“(6)
+ conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
+
+
+
+
+“(7)
+ working under the NCAVC in coordination with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to provide appropriate training to Federal, State, and local law enforcement in matters regarding child abductions, mysterious disappearances of children, child homicides; and
+
+
+
+
+“(8)
+ establishing a centralized repository based upon case data reflecting child abductions, mysterious disappearances of children, child homicides and serial murder submitted by State and local agencies, and an automated system for the efficient collection, retrieval, analysis, and reporting of information regarding CASMIRC investigative resources, research, and requests for and provision of investigative support services.
+
+
+
+
+“(d)
+ Appointment of Personnel to the CASMIRC.—
+“(1)
+ 
+Selection of members of the casmirc and participating state and local law enforcement personnel
+.—
+The Director of the Federal Bureau of Investigation shall appoint the members of the CASMIRC. The CASMIRC shall be staffed with Federal Bureau of Investigation personnel and other necessary personnel selected for their expertise that would enable them to assist in the research, data collection, and analysis, and provision of investigative support in child abduction, mysterious disappearances of children, child homicide and serial murder investigations. The Director may, with concurrence of the appropriate State or local agency, also appoint State and local law enforcement personnel to work with the CASMIRC.
+
+
+
+
+“(2)
+ 
+Status
+.—
+Each member of the CASMIRC (and each individual from any State or local law enforcement agency appointed to work with the CASMIRC) shall remain as an employee of that member’s or individual’s respective agency for all purposes (including the purpose of performance review), and service with the CASMIRC shall be without interruption or loss of civil service privilege or status and shall be on a nonreimbursable basis, except if appropriate to reimburse State and local law enforcement for overtime costs for an individual appointed to work with the resource team. Additionally, reimbursement of travel and per diem expenses will occur for State and local law enforcement participation in resident fellowship programs at the NCAVC when offered.
+
+
+
+
+“(3)
+ 
+Training
+.—
+CASMIRC personnel, under the guidance of the Federal Bureau of Investigation’s National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
+
+
+
+
+“(e)
+ 
+Report to Congress
+.—
+One year after the establishment of the CASMIRC, the Attorney General shall submit to Congress a report, which shall include—
+“(1)
+ a description of the goals and activities of the CASMIRC; and
+
+
+
+
+“(2)
+ information regarding—
+“(A)
+ the number and qualifications of the members appointed to the CASMIRC;
+
+
+
+
+“(B)
+ the provision of equipment, administrative support, and office space for the CASMIRC; and
+
+
+
+
+“(C)
+ the projected resource needs for the CASMIRC.
+
+
+
+
+
+
+“(f)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001.”
+
+
+“(a)
+ 
+In General
+.—
+With funds made available pursuant to subsection (c)—
+“(1)
+ the Attorney General shall—
+“(A)
+ provide support and enhance the technical support center and tactical operations of the Federal Bureau of Investigation;
+
+
+
+
+“(B)
+ create a Federal Bureau of Investigation counterterrorism and counterintelligence fund for costs associated with the investigation of cases involving cases of terrorism;
+
+
+
+
+“(C)
+ expand and improve the instructional, operational support, and construction of the Federal Bureau of Investigation Academy;
+
+
+
+
+“(D)
+ construct a Federal Bureau of Investigation laboratory, provide laboratory examination support, and provide for a command center;
+
+
+
+
+“(E)
+ make grants to States to carry out the activities described in subsection (b); and
+
+
+
+
+“(F)
+ increase personnel to support counterterrorism activities; and
+
+
+
+
+
+
+“(2)
+ the Director of the Federal Bureau of Investigation shall expand the combined DNA Identification System (CODIS) to include analyses of DNA samples collected from—
+“(A)
+ individuals convicted of a qualifying Federal offense, as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 [
+42 U.S.C. 14135a(d)
+];
+
+
+
+
+“(B)
+ individuals convicted of a qualifying District of Columbia offense, as determined under section 4(d) of the DNA Analysis Backlog Elimination Act of 2000 [
+42 U.S.C. 14135b(d)
+]; and
+
+
+
+
+“(C)
+ members of the Armed Forces convicted of a qualifying military offense, as determined under 
+section 1565(d) of title 10
+, United States Code.
+
+
+
+
+
+
+“(b)
+ State Grants.—
+“(1)
+ 
+Authorization
+.—
+The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, may make grants to each State eligible under paragraph (2) to be used by the chief executive officer of the State, in conjunction with units of local government, other States, or any combination thereof, to carry out all or part of a program to establish, develop, update, or upgrade—
+“(A)
+ computerized identification systems that are compatible and integrated with the databases of the National Crime Information Center of the Federal Bureau of Investigation;
+
+
+
+
+“(B)
+ the capability to analyze deoxyribonucleic acid (DNA) in a forensic laboratory in ways that are compatible and integrated with the combined DNA Identification System (CODIS) of the Federal Bureau of Investigation; and
+
+
+
+
+“(C)
+ automated fingerprint identification systems that are compatible and integrated with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation.
+
+
+
+
+
+
+“(2)
+ 
+Eligibility
+.—
+To be eligible to receive a grant under this subsection, a State shall require that each person convicted of a felony of a sexual nature shall provide to appropriate State law enforcement officials, as designated by the chief executive officer of the State, a sample of blood, saliva, or other specimen necessary to conduct a DNA analysis consistent with the standards established for DNA testing by the Director of the Federal Bureau of Investigation.
+
+
+
+
+“(3)
+ 
+Interstate compacts
+.—
+A State may enter into a compact or compacts with another State or States to carry out this subsection.
+
+
+
+
+“(c)
+ Authorization of Appropriations.—
+“(1)
+ 
+In general
+.—
+There are authorized to be appropriated for the activities of the Federal Bureau of Investigation, to help meet the increased demands for activities to combat terrorism—
+“(A)
+ $114,000,000 for fiscal year 1997;
+
+
+
+
+“(B)
+ $166,000,000 for fiscal year 1998;
+
+
+
+
+“(C)
+ $96,000,000 for fiscal year 1999; and
+
+
+
+
+“(D)
+ $92,000,000 for fiscal year 2000.
+
+
+
+
+
+
+“(2)
+ 
+Availability of funds
+.—
+Funds made available pursuant to paragraph (1), in any fiscal year, shall remain available until expended.
+
+
+
+
+“(3)
+ Allocation.—
+“(A)
+ 
+In general
+.—
+Of the total amount appropriated to carry out subsection (b) in a fiscal year—
+“(i)
+ the greater of 0.25 percent of such amount or $500,000 shall be allocated to each eligible State; and
+
+
+
+
+“(ii)
+ of the total funds remaining after the allocation under clause (i), there shall be allocated to each State an amount which bears the same ratio to the amount of remaining funds described in this subparagraph as the population of such State bears to the population of all States.
+
+
+
+
+
+
+“(B)
+ 
+Definition
+.—
+For purposes of this paragraph, the term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, except that for purposes of the allocation under this subparagraph, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one State and that for these purposes, 67 percent of the amounts allocated shall be allocated to American Samoa, and 33 percent to the Commonwealth of the Northern Mariana Islands.”
+
+
+
+
+
+
+ Director of the Federal Bureau of Investigation
+The Attorney General may appoint a Director of the Federal Bureau of Investigation. The Director of the Federal Bureau of Investigation is the head of the Federal Bureau of Investigation.
+“(a)
+ 
+Findings
+.—
+Congress makes the following findings:
+“(1)
+ The National Commission on Terrorist Attacks Upon the United States in its final report stated that, under Director Robert Mueller, the Federal Bureau of Investigation has made significant progress in improving its intelligence capabilities.
+
+
+
+
+“(2)
+ In the report, the members of the Commission also urged that the Federal Bureau of Investigation fully institutionalize the shift of the Bureau to a preventive counterterrorism posture.
+
+
+
+
+“(b)
+ 
+Improvement of Intelligence Capabilities
+.—
+The Director of the Federal Bureau of Investigation shall continue efforts to improve the intelligence capabilities of the Federal Bureau of Investigation and to develop and maintain within the Bureau a national intelligence workforce.
+
+
+“(c)
+ 
+National Intelligence Workforce
+.—
+(1)
+ In developing and maintaining a national intelligence workforce under subsection (b), the Director of the Federal Bureau of Investigation shall develop and maintain a specialized and integrated national intelligence workforce consisting of agents, analysts, linguists, and surveillance specialists who are recruited, trained, and rewarded in a manner which ensures the existence within the Federal Bureau of Investigation of an institutional culture with substantial expertise in, and commitment to, the intelligence mission of the Bureau.
+
+
+
+
+“(2)
+ Each agent employed by the Bureau after the date of the enactment of this Act [
+Dec. 17, 2004
+] shall receive basic training in both criminal justice matters and national intelligence matters.
+
+
+
+
+“(3)
+ Each agent employed by the Bureau after the date of the enactment of this Act shall, to the maximum extent practicable, be given the opportunity to undergo, during such agent’s early service with the Bureau, meaningful assignments in criminal justice matters and in national intelligence matters.
+
+
+
+
+“(4)
+ The Director shall—
+“(A)
+ establish career positions in national intelligence matters for agents, analysts, and related personnel of the Bureau; and
+
+
+
+
+“(B)
+ in furtherance of the requirement under subparagraph (A) and to the maximum extent practicable, afford agents, analysts, and related personnel of the Bureau the opportunity to work in the career specialty selected by such agents, analysts, and related personnel over their entire career with the Bureau.
+
+
+
+
+
+
+“(5)
+ The Director shall carry out a program to enhance the capacity of the Bureau to recruit and retain individuals with backgrounds in intelligence, international relations, language, technology, and other skills relevant to the intelligence mission of the Bureau.
+
+
+
+
+“(6)
+ The Director shall, to the maximum extent practicable, afford the analysts of the Bureau training and career opportunities commensurate with the training and career opportunities afforded analysts in other elements of the intelligence community.
+
+
+
+
+“(7)
+ Commencing as soon as practicable after the date of the enactment of this Act, each direct supervisor of a Field Intelligence Group, and each Bureau Operational Manager at the Section Chief and Assistant Special Agent in Charge (ASAC) level and above, shall be a certified intelligence officer.
+
+
+
+
+“(8)
+ The Director shall, to the maximum extent practicable, ensure that the successful discharge of advanced training courses, and of one or more assignments to another element of the intelligence community, is a precondition to advancement to higher level intelligence assignments within the Bureau.
+
+
+
+
+“(d)
+ 
+Field Office Matters
+.—
+(1)
+ In improving the intelligence capabilities of the Federal Bureau of Investigation under subsection (b), the Director of the Federal Bureau of Investigation shall ensure that each Field Intelligence Group reports directly to a field office senior manager responsible for intelligence matters.
+
+
+
+
+“(2)
+ The Director shall provide for such expansion of the secure facilities in the field offices of the Bureau as is necessary to ensure the discharge by the field offices of the intelligence mission of the Bureau.
+
+
+
+
+“(3)
+ The Director shall require that each Field Intelligence Group manager ensures the integration of analysts, agents, linguists, and surveillance personnel in the field.
+
+
+
+
+“(e)
+ 
+Discharge of Improvements
+.—
+(1)
+ The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) through the head of the Directorate of Intelligence of the Federal Bureau of Investigation.
+
+
+
+
+“(2)
+ The Director of the Federal Bureau of Investigation shall carry out subsections (b) through (d) under the joint guidance of the Attorney General and the Director of National Intelligence in a manner consistent with applicable law.
+
+
+
+
+“(f)
+ 
+Budget Matters
+.—
+The Director of the Federal Bureau of Investigation shall establish a budget structure of the Federal Bureau of Investigation to reflect the four principal missions of the Bureau as follows:
+“(1)
+ Intelligence.
+
+
+
+
+“(2)
+ Counterterrorism and counterintelligence.
+
+
+
+
+“(3)
+ Criminal Enterprises/Federal Crimes.
+
+
+
+
+“(4)
+ Criminal justice services.
+
+
+
+
+“(g)
+ 
+Reports
+.—
+(1)
+ Not later than 180 days after the date of the enactment of this Act [
+Dec. 17, 2004
+], the Director of the Federal Bureau of Investigation shall submit to Congress a report on the progress made as of the date of such report in carrying out the requirements of this section.
+
+
+
+
+“(2)
+ The Director shall include in each annual program review of the Federal Bureau of Investigation that is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
+
+
+
+
+“(3)
+ Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report assessing the qualifications, status, and roles of analysts at Bureau headquarters and in the field offices of the Bureau.
+
+
+
+
+“(4)
+ Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
+
+
+
+
+“(a)
+ 
+Directorate of Intelligence of Federal Bureau of Investigation
+.—
+The element of the Federal Bureau of Investigation known as of the date of the enactment of this Act [
+Dec. 17, 2004
+] as the Office of Intelligence is hereby redesignated as the Directorate of Intelligence of the Federal Bureau of Investigation.
+
+
+“(b)
+ 
+Head of Directorate
+.—
+The head of the Directorate of Intelligence shall be the Executive Assistant Director for Intelligence of the Federal Bureau of Investigation.
+
+
+“(c)
+ 
+Responsibilities
+.—
+The Directorate of Intelligence shall be responsible for the following:
+“(1)
+ Supervision of all national intelligence programs, projects, and activities of the Bureau.
+
+
+
+
+“(2)
+ The discharge by the Bureau of the requirements in section 105B of the National Security Act of 1947 ([former] 
+50 U.S.C. 403–5b
+) [now 
+50 U.S.C. 3040
+].
+
+
+
+
+“(3)
+ The oversight of Bureau field intelligence operations.
+
+
+
+
+“(4)
+ Coordinating human source development and management by the Bureau.
+
+
+
+
+“(5)
+ Coordinating collection by the Bureau against nationally-determined intelligence requirements.
+
+
+
+
+“(6)
+ Strategic analysis.
+
+
+
+
+“(7)
+ Intelligence program and budget management.
+
+
+
+
+“(8)
+ The intelligence workforce.
+
+
+
+
+“(9)
+ Any other responsibilities specified by the Director of the Federal Bureau of Investigation or specified by law.
+
+
+
+
+“(d)
+ 
+Staff
+.—
+The Directorate of Intelligence shall consist of such staff as the Director of the Federal Bureau of Investigation considers appropriate for the activities of the Directorate.
+
+
+“(a)
+ 
+Establishment of Federal Bureau of Investigation Intelligence Career Service
+.—
+The Director of the Federal Bureau of Investigation may—
+“(1)
+ in consultation with the Director of the Office of Personnel Management—
+“(A)
+ establish positions for intelligence analysts, and prescribe standards and procedures for establishing and classifying such positions, without regard to chapter 51 of title 5, United States Code; and
+
+
+
+
+“(B)
+ fix the rate of basic pay for such positions, without regard to subchapter III of chapter 53 of title 5, United States Code, if the rate of pay is not greater than the rate of basic pay payable for level IV of the Executive Schedule [
+5 U.S.C. 5315
+];
+
+
+
+
+
+
+“(2)
+ appoint individuals to such positions; and
+
+
+
+
+“(3)
+ establish a performance management system for such individuals with at least one level of performance above a retention standard.
+
+
+
+
+“(b)
+ 
+Reporting Requirement
+.—
+Not less than 60 days before the date of the implementation of authorities authorized under this section, the Director of the Federal Bureau of Investigation shall submit an operating plan describing the Director’s intended use of the authorities under this section to the appropriate committees of Congress.
+
+
+“(c)
+ 
+Annual Report
+.—
+Not later than 
+December 31, 2005
+, and annually thereafter for 4 years, the Director of the Federal Bureau of Investigation shall submit an annual report of the use of the permanent authorities provided under this section during the preceding fiscal year to the appropriate committees of Congress.
+
+
+“(d)
+ 
+Appropriate Committees of Congress Defined
+.—
+In this section, the term ‘appropriate committees of Congress[’] means’ [sic]—
+“(1)
+ the Committees on Appropriations, Homeland Security and Governmental Affairs, and the Judiciary and the Select Committee on Intelligence of the Senate; and
+
+
+
+
+“(2)
+ the Committees on Appropriations, Government Reform [now Committee on Oversight and Government Reform], and the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+
+
+
+“(a)
+ 
+Implementation Plan
+.—
+Not later than 6 months after the date of enactment of this Act [
+Nov. 2, 2002
+], the Director of the Federal Bureau of Investigation shall submit to the appropriate Committees of Congress a plan for implementation of the recommendations of the Commission for Review of FBI Security Programs, dated 
+March 31, 2002
+, including the costs of such implementation.
+
+
+“(b)
+ 
+Annual Reports
+.—
+On the date that is 1 year after the submission of the plan described in subsection (a), and for 2 years thereafter, the Director of the Federal Bureau of Investigation shall submit to the appropriate Committees of Congress a report on the implementation of such plan.
+
+
+“(c)
+ 
+Appropriate Committees of Congress
+.—
+For purposes of this section, the term ‘appropriate Committees of Congress’ means—
+“(1)
+ the Committees on the Judiciary of the Senate and the House of Representatives;
+
+
+
+
+“(2)
+ the Committees on Appropriations of the Senate and the House of Representatives;
+
+
+
+
+“(3)
+ the Select Committee on Intelligence of the Senate; and
+
+
+
+
+“(4)
+ the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+
+
+
+“(a)
+ 
+Authority
+.—
+The Director of the Federal Bureau of Investigation is authorized to expedite the employment of personnel as translators to support counterterrorism investigations and operations without regard to applicable Federal personnel requirements and limitations.
+
+
+“(b)
+ 
+Security Requirements
+.—
+The Director of the Federal Bureau of Investigation shall establish such security requirements as are necessary for the personnel employed as translators under subsection (a).
+
+
+“(c)
+ 
+Report
+.—
+The Attorney General shall report to the Committees on the Judiciary of the House of Representatives and the Senate on—
+“(1)
+ the number of translators employed by the FBI and other components of the Department of Justice;
+
+
+
+
+“(2)
+ any legal or practical impediments to using translators employed by other Federal, State, or local agencies, on a full, part-time, or shared basis; and
+
+
+
+
+“(3)
+ the needs of the FBI for specific translation services in certain languages, and recommendations for meeting those needs.”
+
+
+
+
+“(a)
+ 
+Study
+.—
+The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (
+50 U.S.C. 403j
+) [now 
+50 U.S.C. 3510
+]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (
+50 U.S.C. 402
+ (note)) [now 
+50 U.S.C. 3614
+][)], and the Defense Intelligence Agency (under section 1608 [now 1623] of title 10, United States Code).
+
+
+“(b)
+ 
+Implementation
+.—
+Any program proposed under subsection (a) may be implemented only after the Department of Justice and the Office of Management and Budget review and approve the implementation of such program.
+
+
+“(c)
+ 
+Availability of Funds
+.—
+Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.”
+
+
+“(a)
+ Effective as of the day following the date on which the present incumbent in the office of Director ceases to serve as such, the Director of the Federal Bureau of Investigation shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed for level II of the Federal Executive Salary Schedule [
+section 5313 of Title 5
+, Government Organization and Employees].
+
+
+“(b)
+ Effective with respect to any individual appointment by the President, by and with the advice and consent of the Senate, after 
+June 1, 1973
+, the term of service of the Director of the Federal Bureau of Investigation shall be ten years. A Director may not serve more than one ten-year term. The provisions of subsections (a) through (c) of 
+section 8335 of title 5
+, United States Code, shall apply to any individual appointed under this section.
+
+
+“(c)
+(1)
+ Effective on the date of enactment of this subsection [
+July 26, 2011
+], a new term of service for the office of Director of the Federal Bureau of Investigation shall be created, which shall begin on or after 
+August 3, 2011
+, and continue until 
+September 4, 2013
+. Notwithstanding the second sentence of subsection (b) of this section, the incumbent Director of the Federal Bureau of Investigation on the date of enactment of this subsection shall be eligible to be appointed to the new term of service provided for by this subsection, by and with the advice and consent of the Senate, and only for that new term of service. Nothing in this subsection shall prevent the President, by and with the advice of the Senate, from appointing an individual, other than the incumbent Director of the Federal Bureau of Investigation, to a 10-year term of service subject to the provisions of subsection (b) after the date of enactment of this subsection.
+
+
+
+
+“(2)
+ The individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection may not serve as Director after 
+September 4, 2013
+.
+
+
+
+
+“(3)
+ With regard to the individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection, the second sentence of subsection (b) shall not apply.”
+
+
+
+
+ Investigative and other officials; appointment
+“(b)
+(1)
+ During fiscal year 1996, with respect to any undercover investigative operation of the Federal Bureau of Investigation or the Drug Enforcement Administration which is necessary for the detection and prosecution of crimes against the United States or for the collection of foreign intelligence or counterintelligence—
+“(A)
+ sums authorized to be appropriated for the Federal Bureau of Investigation and for the Drug Enforcement Administration may be used for purchasing property, buildings, and other facilities, and for leasing space, within the United States, the District of Columbia, and the territories and possessions of the United States, without regard to 
+section 1341 of title 31
+ of the United States Code, section 3732(a) of the Revised Statutes ([former] 
+41 U.S.C. 11(a)
+) [now 
+41 U.S.C. 6301(a)
+, (b)(1) to (3)], 
+section 305 of the Act of June 30, 1949
+ (
+63 Stat. 396
+; [former] 
+41 U.S.C. 255
+) [now 
+41 U.S.C. 4501
+ et seq.], the third undesignated paragraph under the heading of ‘Miscellaneous’ of the Act of 
+March 3, 1877
+ (
+19 Stat. 370
+; 
+40 U.S.C. 34
+ [now 
+40 U.S.C. 8141
+]), 
+section 3324 of title 31
+ of the United States Code, section 3741 of the Revised Statutes ([former] 
+41 U.S.C. 22
+) [now 
+41 U.S.C. 6306(a)
+], and subsections (a) and (c) of section 304 of the Federal Property and Administrative Service [Services] Act of 1949 (
+63 Stat. 395
+; [former] 
+41 U.S.C. 254(a)
+ [now 
+41 U.S.C. 3901
+] and (c) [repealed]),
+
+
+
+
+“(B)
+ sums authorized to be appropriated for the Federal Bureau of Investigation and for the Drug Enforcement Administration may be used to establish or to acquire proprietary corporations or business entities as part of an undercover investigative operation, and to operate such corporations or business entities on a commercial basis, without regard to 
+section 9102 of title 31
+ of the United States Code,
+
+
+
+
+“(C)
+ sums authorized to be appropriated for the Federal Bureau of Investigation and for the Drug Enforcement Administration for fiscal year 1996, and the proceeds from such undercover operation, may be deposited in banks or other financial institutions, without regard to 
+section 648 of title 18
+ of the United States Code and 
+section 3302 of title 31
+ of the United States Code, and
+
+
+
+
+“(D)
+ proceeds from such undercover operation may be used to offset necessary and reasonable expenses incurred in such operation, without regard to 
+section 3302 of title 31
+ of the United States Code,
+
+
+
+
+
+only, in operations designed to detect and prosecute crimes against the United States, upon the written certification of the Director of the Federal Bureau of Investigation (or, if designated by the Director, a member of the Undercover Operations Review Committee established by the Attorney General in the Attorney General’s Guidelines on Federal Bureau of Investigation Undercover Operations, as in effect on 
+July 1, 1983
+) or the Administrator of the Drug Enforcement Administration, as the case may be, and the Attorney General (or, with respect to Federal Bureau of Investigation undercover operations, if designated by the Attorney General, a member of such Review Committee), that any action authorized by subparagraph (A), (B), (C), or (D) is necessary for the conduct of such undercover operation. If the undercover operation is designed to collect foreign intelligence or counterintelligence, the certification that any action authorized by subparagraph (A), (B), (C), or (D) is necessary for the conduct of such undercover operation shall be by the Director of the Federal Bureau of Investigation (or a designee of the Director who is in a position not lower than Deputy Assistant Director in the National Security Branch or a similar successor position) and the Attorney General (or a designee of the Attorney General who is in the National Security Division in a position not lower than Deputy Assistant Attorney General or a similar successor position). Such certification shall continue in effect for the duration of such undercover operation, without regard to fiscal years.
+
+
+
+
+“(2)
+ Notwithstanding paragraph (1), it shall not be necessary to obtain such certification for an undercover operation in order that proceeds or other money—
+“(A)
+ received by an undercover agent from or at the direction of a subject of an investigation, or
+
+
+
+
+“(B)
+ provided to an agent by an individual cooperating with the Government in an investigation, who received the proceeds or money from or at the direction of a subject of the investigation,
+
+
+
+
+
+may be used as a subject of the investigation directs without regard to 
+section 3302 of title 31
+ of the United States Code: 
+Provided
+, That the Director of the Federal Bureau of Investigation or the Administrator of the Drug Enforcement Administration, or their designees, in advance or as soon as practicable thereafter, make a written determination that such a use would further the investigation: 
+And provided further
+, That the financial audit requirements of paragraphs (5) and (6) shall apply in each investigation where such a determination has been made.
+
+
+
+
+“(3)
+ As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under subparagraphs (C) and (D) of paragraph (1), or under paragraph (2) are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited in the Treasury of the United States as miscellaneous receipts.
+
+
+
+
+“(4)
+ If a corporation or business entity established or acquired as part of an undercover operation under subparagraph (B) of paragraph (1) with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Federal Bureau of Investigation or the Drug Enforcement Administration, as much in advance as the Director or the Administrator, or the designee of the Director or the Administrator, determines is practicable, shall report the circumstances to the Attorney General and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+
+
+
+
+“(5)
+(A)
+ The Federal Bureau of Investigation or the Drug Enforcement Administration, as the case may be, shall conduct a detailed financial audit of each undercover investigative operation which is closed in fiscal year 1996—
+“(i)
+ submit the results of such audit in writing to the Attorney General, and
+
+
+
+
+“(ii)
+ not later than 180 days after such undercover operation is closed, submit a report to the Congress concerning such audit.
+
+
+
+
+
+
+“(B)
+ The Federal Bureau of Investigation and the Drug Enforcement Administration shall each also submit a report annually to the Congress specifying as to their respective undercover investigative operations—
+“(i)
+ the number, by programs, of undercover investigative operations pending as of the end of the one-year period for which such report is submitted,
+
+
+
+
+“(ii)
+ the number, by programs, of undercover investigative operations commenced in the one-year period preceding the period for which such report is submitted, and
+
+
+
+
+“(iii)
+ the number, by programs, of undercover investigative operations closed in the one-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained. With respect to each such closed undercover operation which involves any of the sensitive circumstances specified in the Attorney General’s Guidelines on Federal Bureau of Investigation Undercover Operations, such report shall contain a detailed description of the operation and related matters, including information pertaining to—
+“(I)
+ the results,
+
+
+
+
+“(II)
+ any civil claims, and
+
+
+
+
+“(III)
+ identification of such sensitive circumstances involved, that arose at any time during the course of such undercover operation.
+
+
+
+
+
+
+
+
+
+
+“(6)
+ For purposes of paragraph (5)—
+“(A)
+ the term ‘closed’ refers to the earliest point in time at which—
+“(i)
+ all criminal proceedings (other than appeals) are concluded, or
+
+
+
+
+“(ii)
+ covert activities are concluded, whichever occurs later,
+
+
+
+
+
+
+“(B)
+ the term ‘employees’ means employees, as defined in 
+section 2105 of title 5
+ of the United States Code, of the Federal Bureau of Investigation, and
+
+
+
+
+“(C)
+ the terms ‘undercover investigative operations’ and ‘undercover operation’ mean any undercover investigative operation of the Federal Bureau of Investigation or the Drug Enforcement Administration (other than a foreign counterintelligence undercover investigative operation)—
+“(i)
+ in which—
+“(I)
+ the gross receipts (excluding interest earned) exceed $50,000, or
+
+
+
+
+“(II)
+ expenditures (other than expenditures for salaries of employees) exceed $150,000, and
+
+
+
+
+
+
+“(ii)
+ which is exempt from section 3302 or 9102 of title 31 of the United States Code,
+
+
+
+
+
+
+
+except that clauses (i) and (ii) shall not apply with respect to the report required under subparagraph (B) of such paragraph.”
+
+
+
+
+ Acquisition, preservation, and exchange of identification records and information; appointment of officials
+(a)
+ The Attorney General shall—
+(1)
+ acquire, collect, classify, and preserve identification, criminal identification, crime, and other records;
+
+
+
+
+(2)
+ acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
+
+
+
+
+(3)
+ acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+
+
+
+
+(4)
+ exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
+
+
+
+
+(b)
+ The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies.
+
+
+(c)
+ The Attorney General may appoint officials to perform the functions authorized by this section.
+
+
+(d)
+ 
+Indian Law Enforcement Agencies
+.—
+The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
+(1)
+ to access and enter information into Federal criminal information databases; and
+
+
+
+
+(2)
+ to obtain information from the databases.
+
+
+
+
+(e)
+ For purposes of this section, the term “other institutions” includes—
+(1)
+ railroad police departments which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers; and
+
+
+
+
+(2)
+ police departments of private colleges or universities which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers.
+
+
+
+
+(f)
+(1)
+ Information from national crime information databases consisting of identification records, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
+
+
+
+
+(2)
+ Federal, tribal, and State criminal justice agencies authorized to enter information into criminal information databases may include—
+(A)
+ arrests, convictions, and arrest warrants for stalking or domestic violence or for violations of protection orders for the protection of parties from stalking or domestic violence; and
+
+
+
+
+(B)
+ protection orders for the protection of persons from stalking or domestic violence, provided such orders are subject to periodic verification.
+
+
+
+
+
+
+(3)
+ As used in this subsection—
+(A)
+ the term “national crime information databases” means the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
+
+
+
+
+(B)
+ the term “protection order” includes—
+(i)
+ any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+
+
+
+
+(ii)
+ any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
+
+
+
+
+
+
+
+
+“(a)
+ 
+Trafficking Offense Classification
+.—
+The Director of the Federal Bureau of Investigation shall—
+“(1)
+ classify the offense of human trafficking as a Part I crime in the Uniform Crime Reports;
+
+
+
+
+“(2)
+ to the extent feasible, establish subcategories for State sex crimes that involve—
+“(A)
+ a person who is younger than 18 years of age;
+
+
+
+
+“(B)
+ the use of force, fraud or coercion; or
+
+
+
+
+“(C)
+ neither of the elements described in subparagraphs (A) and (B); and
+
+
+
+
+
+
+“(3)
+ classify the offense of human trafficking as a Group A offense for purpose of the National Incident-Based Reporting System.
+
+
+
+
+“(b)
+ 
+Additional Information
+.—
+The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reporting System [probably should be “Program”] and the National Incident-Based Reporting System to distinguish between reports of—
+“(1)
+ incidents of assisting or promoting prostitution, which shall include crimes committed by persons who—
+“(A)
+ do not directly engage in commercial sex acts; and
+
+
+
+
+“(B)
+ direct, manage, or profit from such acts, such as State pimping and pandering crimes;
+
+
+
+
+
+
+“(2)
+ incidents of purchasing prostitution, which shall include crimes committed by persons who purchase or attempt to purchase or trade anything of value for commercial sex acts; and
+
+
+
+
+“(3)
+ incidents of prostitution, which shall include crimes committed by persons providing or attempting to provide commercial sex acts.”
+
+
+
+
+“(a)
+ 
+Establishment
+.—
+The Attorney General shall establish a National Gang Intelligence Center and gang information database to be housed at and administered by the Federal Bureau of Investigation to collect, analyze, and disseminate gang activity information from—
+“(1)
+ the Federal Bureau of Investigation;
+
+
+
+
+“(2)
+ the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
+
+
+
+
+“(3)
+ the Drug Enforcement Administration;
+
+
+
+
+“(4)
+ the Bureau of Prisons;
+
+
+
+
+“(5)
+ the United States Marshals Service;
+
+
+
+
+“(6)
+ the Directorate of Border and Transportation Security of the Department of Homeland Security;
+
+
+
+
+“(7)
+ the Department of Housing and Urban Development;
+
+
+
+
+“(8)
+ the Office of Justice Services of the Bureau of Indian Affairs;
+
+
+
+
+“(9)
+ tribal, State, and local law enforcement;
+
+
+
+
+“(10)
+ Federal, tribal, State, and local prosecutors;
+
+
+
+
+“(11)
+ Federal, tribal, State, and local probation and parole offices;
+
+
+
+
+“(12)
+ Federal, tribal, State, and local prisons and jails; and
+
+
+
+
+“(13)
+ any other entity as appropriate.
+
+
+
+
+“(b)
+ 
+Information
+.—
+The Center established under subsection (a) shall make available the information referred to in subsection (a) to—
+“(1)
+ Federal, tribal, State, and local law enforcement agencies;
+
+
+
+
+“(2)
+ Federal, tribal, State, and local corrections agencies and penal institutions;
+
+
+
+
+“(3)
+ Federal, tribal, State, and local prosecutorial agencies; and
+
+
+
+
+“(4)
+ any other entity as appropriate.
+
+
+
+
+“(c)
+ 
+Annual Report
+.—
+The Center established under subsection (a) shall annually submit to Congress a report on gang activity.
+
+
+“(d)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.”
+
+
+“(a)
+ 
+Short Title
+.—
+This section may be cited as the ‘Private Security Officer Employment Authorization Act of 2004’.
+
+
+“(b)
+ 
+Findings
+.—
+Congress finds that—
+“(1)
+ employment of private security officers in the United States is growing rapidly;
+
+
+
+
+“(2)
+ private security officers function as an adjunct to, but not a replacement for, public law enforcement by helping to reduce and prevent crime;
+
+
+
+
+“(3)
+ such private security officers protect individuals, property, and proprietary information, and provide protection to such diverse operations as banks, hospitals, research and development centers, manufacturing facilities, defense and aerospace contractors, high technology businesses, nuclear power plants, chemical companies, oil and gas refineries, airports, communication facilities and operations, office complexes, schools, residential properties, apartment complexes, gated communities, and others;
+
+
+
+
+“(4)
+ sworn law enforcement officers provide significant services to the citizens of the United States in its public areas, and are supplemented by private security officers;
+
+
+
+
+“(5)
+ the threat of additional terrorist attacks requires cooperation between public and private sectors and demands professional, reliable, and responsible security officers for the protection of people, facilities, and institutions;
+
+
+
+
+“(6)
+ the trend in the Nation toward growth in such security services has accelerated rapidly;
+
+
+
+
+“(7)
+ such growth makes available more public sector law enforcement officers to combat serious and violent crimes, including terrorism;
+
+
+
+
+“(8)
+ the American public deserves the employment of qualified, well-trained private security personnel as an adjunct to sworn law enforcement officers; and
+
+
+
+
+“(9)
+ private security officers and applicants for private security officer positions should be thoroughly screened and trained.
+
+
+
+
+“(c)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ 
+Employee
+.—
+The term ‘employee’ includes both a current employee and an applicant for employment as a private security officer.
+
+
+
+
+“(2)
+ 
+Authorized employer
+.—
+The term ‘authorized employer’ means any person that—
+“(A)
+ employs private security officers; and
+
+
+
+
+“(B)
+ is authorized by regulations promulgated by the Attorney General to request a criminal history record information search of an employee through a State identification bureau pursuant to this section.
+
+
+
+
+
+
+“(3)
+ 
+Private security officer
+.—
+The term ‘private security officer’—
+“(A)
+ means an individual other than an employee of a Federal, State, or local government, whose primary duty is to perform security services, full or part time, for consideration, whether armed or unarmed and in uniform or plain clothes (except for services excluded from coverage under this Act [this section] if the Attorney General determines by regulation that such exclusion would serve the public interest); but
+
+
+
+
+“(B)
+ does not include—
+“(i)
+ employees whose duties are primarily internal audit or credit functions;
+
+
+
+
+“(ii)
+ employees of electronic security system companies acting as technicians or monitors; or
+
+
+
+
+“(iii)
+ employees whose duties primarily involve the secure movement of prisoners.
+
+
+
+
+
+
+
+
+“(4)
+ 
+Security services
+.—
+The term ‘security services’ means acts to protect people or property as defined by regulations promulgated by the Attorney General.
+
+
+
+
+“(5)
+ 
+State identification bureau
+.—
+The term ‘State identification bureau’ means the State entity designated by the Attorney General for the submission and receipt of criminal history record information.
+
+
+
+
+“(d)
+ Criminal History Record Information Search.—
+“(1)
+ In general.—
+“(A)
+ 
+Submission of fingerprints
+.—
+An authorized employer may submit to the State identification bureau of a participating State, fingerprints or other means of positive identification, as determined by the Attorney General, of an employee of such employer for purposes of a criminal history record information search pursuant to this Act [this section].
+
+
+
+
+“(B)
+ Employee rights.—
+“(i)
+ 
+Permission
+.—
+An authorized employer shall obtain written consent from an employee to submit to the State identification bureau of the participating State the request to search the criminal history record information of the employee under this Act [this section].
+
+
+
+
+“(ii)
+ 
+Access
+.—
+An authorized employer shall provide to the employee confidential access to any information relating to the employee received by the authorized employer pursuant to this Act [this section].
+
+
+
+
+
+
+“(C)
+ 
+Providing information to the state identification bureau
+.—
+Upon receipt of a request for a criminal history record information search from an authorized employer pursuant to this Act [this section], submitted through the State identification bureau of a participating State, the Attorney General shall—
+“(i)
+ search the appropriate records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation; and
+
+
+
+
+“(ii)
+ promptly provide any resulting identification and criminal history record information to the submitting State identification bureau requesting the information.
+
+
+
+
+
+
+“(D)
+ Use of information.—
+“(i)
+ 
+In general
+.—
+Upon receipt of the criminal history record information from the Attorney General by the State identification bureau, the information shall be used only as provided in clause (ii).
+
+
+
+
+“(ii)
+ 
+Terms
+.—
+In the case of—
+     “(I)
+ a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
+“(aa)
+ convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
+
+
+
+
+“(bb)
+ charged with a criminal felony for which there has been no resolution during the preceding 365 days; or
+
+
+
+
+
+
+     “(II)
+ a participating State that has State standards for qualification to be a private security officer, the State shall use the information received pursuant to this Act [this section] in applying the State standards and shall only notify the employer of the results of the application of the State standards.
+
+
+
+
+
+
+
+
+“(E)
+ 
+Frequency of requests
+.—
+An authorized employer may request a criminal history record information search for an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
+
+
+
+
+
+
+“(2)
+ 
+Regulations
+.—
+Not later than 180 days after the date of enactment of this Act [
+Dec. 17, 2004
+], the Attorney General shall issue such final or interim final regulations as may be necessary to carry out this Act [this section], including—
+“(A)
+ measures relating to the security, confidentiality, accuracy, use, submission, dissemination, destruction of information and audits, and record keeping;
+
+
+
+
+“(B)
+ standards for qualification as an authorized employer; and
+
+
+
+
+“(C)
+ the imposition of reasonable fees necessary for conducting the background checks.
+
+
+
+
+
+
+“(3)
+ 
+Criminal penalties for use of information
+.—
+Whoever knowingly and intentionally uses any information obtained pursuant to this Act [this section] other than for the purpose of determining the suitability of an individual for employment as a private security officer shall be fined under title 18, United States Code, or imprisoned for not more than 2 years, or both.
+
+
+
+
+“(4)
+ User fees.—
+“(A)
+ 
+In general
+.—
+The Director of the Federal Bureau of Investigation may—
+“(i)
+ collect fees to process background checks provided for by this Act [this section]; and
+
+
+
+
+“(ii)
+ establish such fees at a level to include an additional amount to defray expenses for the automation of fingerprint identification and criminal justice information services and associated costs.
+
+
+
+
+
+
+“(B)
+ 
+Limitations
+.—
+Any fee collected under this subsection—
+“(i)
+ shall, consistent with 
+Public Law 101–515
+ [see Tables for classification] and 
+Public Law 104–99
+ [see Tables for classification], be credited to the appropriation to be used for salaries and other expenses incurred through providing the services described in such Public Laws and in subparagraph (A);
+
+
+
+
+“(ii)
+ shall be available for expenditure only to pay the costs of such activities and services; and
+
+
+
+
+“(iii)
+ shall remain available until expended.
+
+
+
+
+
+
+“(C)
+ 
+State costs
+.—
+Nothing in this Act [this section] shall be construed as restricting the right of a State to assess a reasonable fee on an authorized employer for the costs to the State of administering this Act [this section].
+
+
+
+
+
+
+“(5)
+ 
+State opt out
+.—
+A State may decline to participate in the background check system authorized by this Act [this section] by enacting a law or issuing an order by the Governor (if consistent with State law) providing that the State is declining to participate pursuant to this subsection.”
+
+
+
+
+“(a)
+(1)
+ A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
+
+
+
+
+“(2)
+ A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant’s fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records, and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under 
+section 6103(a) of title 5
+, United States Code) after acquiring the fingerprints, signed statement, and information.
+
+
+
+
+“(b)
+ Pursuant to any submission that complies with the requirements of subsection (a), the Attorney General shall search the records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation for any criminal history records corresponding to the fingerprints or other identification information submitted. The Attorney General shall provide any corresponding information resulting from the search to the appropriate State agency or agency designated by the Attorney General to receive such information.
+
+
+“(c)
+ Information regarding an applicant for employment in a nursing facility or home health care agency obtained pursuant to this section may be used only by the facility or agency requesting the information and only for the purpose of determining the suitability of the applicant for employment by the facility or agency in a position involved in direct patient care.
+
+
+“(d)
+ The Attorney General may charge a reasonable fee, not to exceed $50 per request, to any nursing facility or home health care agency requesting a search and exchange of records pursuant to this section.
+
+
+“(e)
+ Not later than 2 years after the date of enactment of this Act [
+Oct. 21, 1998
+], the Attorney General shall submit a report to Congress on the number of requests for searches and exchanges of records made under this section by nursing facilities and home health care agencies and the disposition of such requests.
+
+
+“(f)
+ Whoever knowingly uses any information obtained pursuant to this section for a purpose other than as authorized under subsection (c) shall be fined in accordance with title 18, United States Code, imprisoned for not more than 2 years, or both.
+
+
+“(g)
+ A nursing facility or home health care agency that, in denying employment for an applicant, reasonably relies upon information provided by the Attorney General pursuant to this section shall not be liable in any action brought by the applicant based on the employment determination resulting from the incompleteness or inaccuracy of the information.
+
+
+“(h)
+ The Attorney General may promulgate such regulations as are necessary to carry out this section, including regulations regarding the security, confidentiality, accuracy, use, destruction, and dissemination of information, audits and recordkeeping, the imposition of fees, and any necessary modifications to the definitions contained in subsection (i).
+
+
+“(i)
+ In this section:
+“(1)
+ The term ‘home health care agency’ means an agency that provides home health care or personal care services on a visiting basis in a place of residence.
+
+
+
+
+“(2)
+ The term ‘nursing facility’ means a facility or institution (or a distinct part of an institution) that is primarily engaged in providing to residents of the facility or institution nursing care, including skilled nursing care, and related services for individuals who require medical or nursing care.
+
+
+
+
+“(j)
+ This section shall apply without fiscal year limitation.”
+
+
+(a)
+ this Act may be cited as the ‘Hate Crime Statistics Act’.
+
+
+“(b)
+(1)
+ Under the authority of 
+section 534 of title 28
+, United States Code, the Attorney General shall acquire data, for each calendar year, about crimes that manifest evidence of prejudice based on race, gender and gender identity, religion, disability, sexual orientation, or ethnicity, including where appropriate the crimes of murder, non-negligent manslaughter; forcible rape; aggravated assault, simple assault, intimidation; arson; and destruction, damage or vandalism of property.
+
+
+
+
+“(2)
+ The Attorney General shall establish guidelines for the collection of such data including the necessary evidence and criteria that must be present for a finding of manifest prejudice and procedures for carrying out the purposes of this section.
+
+
+
+
+“(3)
+ Nothing in this section creates a cause of action or a right to bring an action, including an action based on discrimination due to sexual orientation. As used in this section, the term ‘sexual orientation’ means consensual homosexuality or heterosexuality. This subsection does not limit any existing cause of action or right to bring an action, including any action under the Administrative Procedure Act [
+5 U.S.C. 551
+ et seq., 701 et seq.] or the All Writs Act [see 
+28 U.S.C. 1651
+].
+
+
+
+
+“(4)
+ Data acquired under this section shall be used only for research or statistical purposes and may not contain any information that may reveal the identity of an individual victim of a crime.
+
+
+
+
+“(5)
+ The Attorney General shall publish an annual summary of the data acquired under this section, including data about crimes committed by, and crimes directed against, juveniles.
+
+
+
+
+“(c)
+ There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section through fiscal year 2002.
+
+
+ (a)
+ Congress finds that—
+“(1)
+ the American family life is the foundation of American Society,
+
+
+
+
+“(2)
+ Federal policy should encourage the well-being, financial security, and health of the American family,
+
+
+
+
+“(3)
+ schools should not de-emphasize the critical value of American family life.
+
+
+
+
+“(b)
+ Nothing in this Act shall be construed, nor shall any funds appropriated to carry out the purpose of the Act be used, to promote or encourage homosexuality.”
+
+
+“(a)
+ 
+Short Title
+.—
+This section may be cited as the ‘Uniform Federal Crime Reporting Act of 1988’.
+
+
+“(b)
+ 
+Definitions
+.—
+For purposes of this section, the term ‘Uniform Crime Reports’ means the reports authorized under 
+section 534 of title 28
+, United States Code, and administered by the Federal Bureau of Investigation which compiles nationwide criminal statistics for use in law enforcement administration, operation, and management and to assess the nature and type of crime in the United States.
+
+
+“(c)
+ Establishment of System.—
+“(1)
+ 
+In general
+.—
+The Attorney General shall acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports.
+
+
+
+
+“(2)
+ 
+Reporting by federal agencies
+.—
+All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
+
+
+
+
+“(3)
+ 
+Distribution of data
+.—
+The Attorney General shall distribute data received pursuant to paragraph (2), in the form of annual Uniform Crime Reports for the United States, to the President, Members of the Congress, State governments, and officials of localities and penal and other institutions participating in the Uniform Crime Reports program.
+
+
+
+
+“(d)
+ 
+Role of Federal Bureau of Investigation
+.—
+The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
+
+
+“(e)
+ 
+Inclusion of Offenses Involving Illegal Drugs
+.—
+The Director of the Federal Bureau of Investigation is authorized to classify offenses involving illegal drugs and drug trafficking as a part I crime in the Uniform Crime Reports.
+
+
+“(f)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated $350,000 for fiscal year 1989 and such sums as may be necessary to carry out the provisions of this section after fiscal year 1989.
+
+
+“(g)
+ 
+Effective Date
+.—
+The provisions of this section shall be effective on 
+January 1, 1989
+.”
+
+
+“(a)
+ 
+Family Violence Reporting
+.—
+Under the authority of 
+section 534 of title 28
+, United States Code, the Attorney General shall require, and include in uniform crime reports, data that indicate—
+“(1)
+ the age of the victim; and
+
+
+
+
+“(2)
+ the relationship of the victim to the offender, for crimes of murder, aggravated assault, simple assault, rape, sexual offenses, and offenses against children.
+
+
+
+
+“(b)
+ 
+National Crime Survey
+.—
+The Director of the Bureau of Justice Statistics, through the annual National Crime Survey, shall collect and publish data that more accurately measures the extent of domestic violence in America, especially the physical and sexual abuse of children and the elderly.
+
+
+“(c)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated in fiscal years 1989, 1990, 1991, and 1992, such sums as are necessary to carry out the purposes of this section.”
+
+
+“(a)
+ 
+In General
+.—
+An association of State officials regulating parimutuel wagering, designated for the purpose of this section by the Attorney General, may submit fingerprints to the Attorney General on behalf of any applicant for State license to participate in parimutuel wagering. In response to such a submission, the Attorney General may, to the extent provided by law, exchange, for licensing and employment purposes, identification and criminal history records with the State governmental bodies to which such applicant has applied.
+
+
+“(b)
+ 
+Definition
+.—
+As used in this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+
+
+ Investigation of crimes involving Government officers and employees; limitations
+(a)
+ The Attorney General and the Federal Bureau of Investigation may investigate any violation of Federal criminal law involving Government officers and employees—
+(1)
+ notwithstanding any other provision of law; and
+
+
+
+
+(2)
+ without limiting the authority to investigate any matter which is conferred on them or on a department or agency of the Government.
+
+
+
+
+(b)
+ Any information, allegation, matter, or complaint witnessed, discovered, or received in a department or agency of the executive branch of the Government relating to violations of Federal criminal law involving Government officers and employees shall be expeditiously reported to the Attorney General by the head of the department or agency, or the witness, discoverer, or recipient, as appropriate, unless—
+(1)
+ the responsibility to perform an investigation with respect thereto is specifically assigned otherwise by another provision of law; or
+
+
+
+
+(2)
+ as to any department or agency of the Government, the Attorney General directs otherwise with respect to a specified class of information, allegation, or complaint.
+
+
+
+
+(c)
+ This section does not limit—
+(1)
+ the authority of the military departments to investigate persons or offenses over which the armed forces have jurisdiction under the Uniform Code of Military Justice (chapter 47 of title 10); or
+
+
+
+
+(2)
+ the primary authority of the Postmaster General to investigate postal offenses.
+
+
+
+
+ Positions in excepted service
+All positions in the Federal Bureau of Investigation are excepted from the competitive service, and the incumbents of such positions occupy positions in the excepted service.
+ Expenses of unforeseen emergencies of a confidential character
+Appropriations for the Federal Bureau of Investigation are available for expenses of unforeseen emergencies of a confidential character, when so specified in the appropriation concerned, to be spent under the direction of the Attorney General. The Attorney General shall certify the amount spent that he considers advisable not to specify, and his certification is a sufficient voucher for the amount therein expressed to have been spent.
+ Investigation of aircraft piracy and related violations
+The Federal Bureau of Investigation shall investigate any violation of section 46314 or chapter 465 of title 49.
+ Counterintelligence official reception and representation expenses
+The Director of the Federal Bureau of Investigation may use funds available to the Federal Bureau of Investigation for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Federal Bureau of Investigation for consultation on counterintelligence matters.
+ Investigation of felonious killings of State or local law enforcement officers
+The Attorney General and the Federal Bureau of Investigation may investigate felonious killings of officials and employees of a State or political subdivision thereof while engaged in or on account of the performance of official duties relating to the prevention, detection, investigation, or prosecution of an offense against the criminal laws of a State or political subdivision, when such investigation is requested by the head of the agency employing the official or employee killed, and under such guidelines as the Attorney General or his designee may establish.
+ Investigation of violent crimes against travelers
+(a)
+ 
+In General
+.—
+At the request of an appropriate law enforcement official of a State or political subdivision, the Attorney General and Director of the Federal Bureau of Investigation may assist in the investigation of a felony crime of violence in violation of the law of any State in which the victim appears to have been selected because he or she is a traveler.
+
+
+(b)
+ 
+Foreign Travelers
+.—
+In a case in which the traveler who is a victim of a crime described in subsection (a) is from a foreign nation, the Attorney General and Director of the Federal Bureau of Investigation, and, when appropriate, the Secretary of State shall assist the prosecuting and law enforcement officials of a State or political subdivision to the fullest extent possible in securing from abroad such evidence or other information as may be needed for the effective investigation and prosecution of the crime.
+
+
+(c)
+ 
+Definitions
+.—
+In this section—
+(1)
+ “felony crime of violence” means an offense punishable by more than one year in prison that has as an element the use, attempted use, or threatened use of physical force against the person of another.
+
+
+
+
+(2)
+ “State” means a State, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+
+
+
+(3)
+ “traveler” means a victim of a crime of violence who is not a resident of the State in which the crime of violence occurred.
+
+
+
+
+ Investigation of serial killings
+(a)
+ 
+In General
+.—
+The Attorney General and the Director of the Federal Bureau of Investigation may investigate serial killings in violation of the laws of a State or political subdivision, if such investigation is requested by the head of a law enforcement agency with investigative or prosecutorial jurisdiction over the offense.
+
+
+(b)
+ 
+Definitions
+.—
+In this section:
+(1)
+ 
+Killing
+.—
+The term “killing” means conduct that would constitute an offense under 
+section 1111 of title 18
+, United States Code, if Federal jurisdiction existed.
+
+
+
+
+(2)
+ 
+Serial killings
+.—
+The term “serial killings” means a series of three or more killings, not less than one of which was committed within the United States, having common characteristics such as to suggest the reasonable possibility that the crimes were committed by the same actor or actors.
+
+
+
+
+(3)
+ 
+State
+.—
+The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+
+
+
+ FBI police
+(a)
+ 
+Definitions
+.—
+In this section:
+(1)
+ 
+Director
+.—
+The term “Director” means the Director of the Federal Bureau of Investigation.
+
+
+
+
+(2)
+ FBI buildings and grounds.—
+(A)
+ 
+In general
+.—
+The term “FBI buildings and grounds” means—
+(i)
+ the whole or any part of any building or structure which is occupied under a lease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
+
+
+
+
+(ii)
+ the land upon which there is situated any building or structure which is occupied wholly by the Federal Bureau of Investigation; and
+
+
+
+
+(iii)
+ any enclosed passageway connecting 2 or more buildings or structures occupied in whole or in part by the Federal Bureau of Investigation.
+
+
+
+
+
+
+(B)
+ 
+Inclusion
+.—
+The term “FBI buildings and grounds” includes adjacent streets and sidewalks not to exceed 500 feet from such property.
+
+
+
+
+
+
+(3)
+ 
+FBI police
+.—
+The term “FBI police” means the permanent police force established under subsection (b).
+
+
+
+
+(b)
+ Establishment of FBI Police; Duties.—
+(1)
+ 
+In general
+.—
+Subject to the supervision of the Attorney General, the Director may establish a permanent police force, to be known as the FBI police.
+
+
+
+
+(2)
+ 
+Duties
+.—
+The FBI police shall perform such duties as the Director may prescribe in connection with the protection of persons and property within FBI buildings and grounds.
+
+
+
+
+(3)
+ 
+Uniformed representative
+.—
+The Director, or designated representative duly authorized by the Attorney General, may appoint uniformed representatives of the Federal Bureau of Investigation as FBI police for duty in connection with the policing of all FBI buildings and grounds.
+
+
+
+
+(4)
+ Authority.—
+(A)
+ 
+In general
+.—
+In accordance with regulations prescribed by the Director and approved by the Attorney General, the FBI police may—
+(i)
+ police the FBI buildings and grounds for the purpose of protecting persons and property;
+
+
+
+
+(ii)
+ in the performance of duties necessary for carrying out subparagraph (A), make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia;
+
+
+
+
+(iii)
+ carry firearms as may be required for the performance of duties;
+
+
+
+
+(iv)
+ prevent breaches of the peace and suppress affrays and unlawful assemblies; and
+
+
+
+
+(v)
+ hold the same powers as sheriffs and constables when policing FBI buildings and grounds.
+
+
+
+
+
+
+(B)
+ 
+Exception
+.—
+The authority and policing powers of FBI police under this paragraph shall not include the service of civil process.
+
+
+
+
+
+
+(5)
+ Pay and benefits.—
+(A)
+ 
+In general
+.—
+The rates of basic pay, salary schedule, pay provisions, and benefits for members of the FBI police shall be equivalent to the rates of basic pay, salary schedule, pay provisions, and benefits applicable to members of the United States Secret Service Uniformed Division.
+
+
+
+
+(B)
+ 
+Application
+.—
+Pay and benefits for the FBI police under subparagraph (A)—
+(i)
+ shall be established by regulation;
+
+
+
+
+(ii)
+ shall apply with respect to pay periods beginning after 
+January 1, 2003
+; and
+
+
+
+
+(iii)
+ shall not result in any decrease in the rates of pay or benefits of any individual.
+
+
+
+
+
+
+
+
+(c)
+ 
+Authority of Metropolitan Police Force
+.—
+This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.
+
+

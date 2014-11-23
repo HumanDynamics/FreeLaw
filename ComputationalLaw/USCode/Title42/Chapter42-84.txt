@@ -1,0 +1,4069 @@
+
+Chapter 84
+DEPARTMENT OF ENERGY
+ Definitions
+(a)
+ As used in this chapter, unless otherwise provided or indicated by the context, the term the “Department” means the Department of Energy or any component thereof, including the Federal Energy Regulatory Commission.
+
+
+(b)
+ As used in this chapter (1) reference to “function” includes reference to any duty, obligation, power, authority, responsibility, right, privilege, and activity, or the plural thereof, as the case may be; and (2) reference to “perform”, when used in relation to functions, includes the undertaking, fulfillment, or execution of any duty or obligation; and the exercise of power, authority, rights, and privileges.
+
+
+(c)
+ As used in this chapter, “Federal lease” means an agreement which, for any consideration, including but not limited to, bonuses, rents, or royalties conferred and covenants to be observed, authorizes a person to explore for, or develop, or produce (or to do any or all of these) oil and gas, coal, oil shale, tar sands, and geothermal resources on lands or interests in lands under Federal jurisdiction.
+
+
+ Congressional findings
+ Congressional declaration of purpose
+ Relationship with States
+Whenever any proposed action by the Department conflicts with the energy plan of any State, the Department shall give due consideration to the needs of such State, and where practicable, shall attempt to resolve such conflict through consultations with appropriate State officials. Nothing in this chapter shall affect the authority of any State over matters exclusively within its jurisdiction.
+ Establishment
+There is established at the seat of government an executive department to be known as the Department of Energy. There shall be at the head of the Department a Secretary of Energy (hereinafter in this chapter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of the Secretary.
+ Principal officers
+(a)
+ Deputy Secretary
+There shall be in the Department a Deputy Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level II of the Executive Schedule under 
+section 5313 of title 5
+. The Deputy Secretary shall act for and exercise the functions of the Secretary during the absence or disability of the Secretary or in the event the office of Secretary becomes vacant. The Secretary shall designate the order in which the Under Secretary and other officials shall act for and perform the functions of the Secretary during the absence or disability of both the Secretary and Deputy Secretary or in the event of vacancies in both of those offices.
+
+
+
+
+(b)
+ Under Secretary for Science
+(1)
+ There shall be in the Department an Under Secretary for Science, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+
+
+
+(2)
+ The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under 
+section 5314 of title 5
+.
+
+
+
+
+(3)
+ The Under Secretary for Science shall be appointed from among persons who—
+(A)
+ have extensive background in scientific or engineering fields; and
+
+
+
+
+(B)
+ are well qualified to manage the civilian research and development programs of the Department.
+
+
+
+
+
+
+(4)
+ The Under Secretary for Science shall—
+(A)
+ serve as the Science and Technology Advisor to the Secretary;
+
+
+
+
+(B)
+ monitor the research and development programs of the Department in order to advise the Secretary with respect to any undesirable duplication or gaps in the programs;
+
+
+
+
+(C)
+ advise the Secretary with respect to the well-being and management of the multipurpose laboratories under the jurisdiction of the Department;
+
+
+
+
+(D)
+ advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
+
+
+
+
+(E)
+ advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department;
+
+
+
+
+(F)
+ advise the Secretary with respect to long-term planning, coordination, and development of a strategic framework for Department research and development activities; and
+
+
+
+
+(G)
+ carry out such additional duties assigned to the Under Secretary by the Secretary relating to basic and applied research, including supervision or support of research activities carried out by any of the Assistant Secretaries designated by 
+section 7133 of this title
+, as the Secretary considers advantageous.
+
+
+
+
+
+
+(c)
+ Under Secretary for Nuclear Security
+(1)
+ There shall be in the Department an Under Secretary for Nuclear Security, who shall be appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall be compensated at the rate provided for at level III of the Executive Schedule under 
+section 5314 of title 5
+.
+
+
+
+
+(2)
+ The Under Secretary for Nuclear Security shall be appointed from among persons who—
+(A)
+ have extensive background in national security, organizational management, and appropriate technical fields; and
+
+
+
+
+(B)
+ are well qualified to manage the nuclear weapons, nonproliferation, and materials disposition programs of the National Nuclear Security Administration in a manner that advances and protects the national security of the United States.
+
+
+
+
+
+
+(3)
+ The Under Secretary for Nuclear Security shall serve as the Administrator for Nuclear Security under 
+section 2402 of title 50
+. In carrying out the functions of the Administrator, the Under Secretary shall be subject to the authority, direction, and control of the Secretary. Such authority, direction, and control may be delegated only to the Deputy Secretary of Energy, without redelegation.
+
+
+
+
+(d)
+ Under Secretary
+(1)
+ There shall be in the Department an Under Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe, consistent with this section.
+
+
+
+
+(2)
+ The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under 
+section 5314 of title 5
+.
+
+
+
+
+(e)
+ General Counsel
+(1)
+ There shall be in the Department a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe.
+
+
+
+
+(2)
+ The General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under 
+section 5315 of title 5
+.
+
+
+
+
+“(a)
+ 
+Length of Term
+.—
+The term of office as Under Secretary for Nuclear Security of the Department of Energy of the person first appointed to that position shall be three years.
+
+
+“(b)
+ 
+Exclusive Reasons for Removal
+.—
+The exclusive reasons for removal from office as Under Secretary for Nuclear Security of the person described in subsection (a) shall be inefficiency, neglect of duty, or malfeasance in office.
+
+
+“(c)
+ 
+Position Described
+.—
+The position of Under Secretary for Nuclear Security of the Department of Energy referred to in this section is the position established by subsection (c) of section 202 of the Department of Energy Organization Act (
+42 U.S.C. 7132
+), as added by section 3202 of the National Nuclear Security Administration Act (title XXXII of 
+Public Law 106–65
+; 
+113 Stat. 954
+).”
+
+
+ Assistant Secretaries; appointment and confirmation; identification of responsibilities
+(a)
+ There shall be in the Department 8 Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under 
+section 5315 of title 5
+; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
+(1)
+ Energy resource applications, including functions dealing with management of all forms of energy production and utilization, including fuel supply, electric power supply, enriched uranium production, energy technology programs, and the management of energy resource leasing procedures on Federal lands.
+
+
+
+
+(2)
+ Energy research and development functions, including the responsibility for policy and management of research and development for all aspects of—
+(A)
+ solar energy resources;
+
+
+
+
+(B)
+ geothermal energy resources;
+
+
+
+
+(C)
+ recycling energy resources;
+
+
+
+
+(D)
+ the fuel cycle for fossil energy resources; and
+
+
+
+
+(E)
+ the fuel cycle for nuclear energy resources.
+
+
+
+
+
+
+(3)
+ Environmental responsibilities and functions, including advising the Secretary with respect to the conformance of the Department’s activities to environmental protection laws and principles, and conducting a comprehensive program of research and development on the environmental effects of energy technologies and programs.
+
+
+
+
+(4)
+ International programs and international policy functions, including those functions which assist in carrying out the international energy purposes described in 
+section 7112 of this title
+.
+
+
+
+
+(5)
+ Repealed. 
+Pub. L. 106–65, div. C, title XXXII, § 3294(b)
+, 
+Oct. 5, 1999
+, 
+113 Stat. 970
+.
+
+
+
+
+(6)
+ Intergovernmental policies and relations, including responsibilities for assuring that national energy policies are reflective of and responsible to the needs of State and local governments, and for assuring that other components of the Department coordinate their activities with State and local governments, where appropriate, and develop intergovernmental communications with State and local governments.
+
+
+
+
+(7)
+ Competition and consumer affairs, including responsibilities for the promotion of competition in the energy industry and for the protection of the consuming public in the energy policymaking processes, and assisting the Secretary in the formulation and analysis of policies, rules, and regulations relating to competition and consumer affairs.
+
+
+
+
+(8)
+ Nuclear waste management responsibilities, including—
+(A)
+ the establishment of control over existing Government facilities for the treatment and storage of nuclear wastes, including all containers, casks, buildings, vehicles, equipment, and all other materials associated with such facilities;
+
+
+
+
+(B)
+ the establishment of control over all existing nuclear waste in the possession or control of the Government and all commercial nuclear waste presently stored on other than the site of a licensed nuclear power electric generating facility, except that nothing in this paragraph shall alter or effect title to such waste;
+
+
+
+
+(C)
+ the establishment of temporary and permanent facilities for storage, management, and ultimate disposal of nuclear wastes;
+
+
+
+
+(D)
+ the establishment of facilities for the treatment of nuclear wastes;
+
+
+
+
+(E)
+ the establishment of programs for the treatment, management, storage, and disposal of nuclear wastes;
+
+
+
+
+(F)
+ the establishment of fees or user charges for nuclear waste treatment or storage facilities, including fees to be charged Government agencies; and
+
+
+
+
+(G)
+ the promulgation of such rules and regulations to implement the authority described in this paragraph,
+
+
+
+
+
+except that nothing in this section shall be construed as granting to the Department regulatory functions presently within the Nu­clear Regulatory Commission, or any additional functions than those already conferred by law.
+
+
+
+
+(9)
+ Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reduce total energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
+
+
+
+
+(10)
+ Power marketing functions, including responsibility for marketing and transmission of Federal power.
+
+
+
+
+(11)
+ Public and congressional relations functions, including responsibilities for providing a continuing liaison between the Department and the Congress and the Department and the public.
+
+
+
+
+(b)
+ At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
+
+
+“(a)
+ Subject to the provisions of any existing layoff contracts, electrical capacity and energy associated with the United States’ interest in the Navajo generating station which is in excess of the pumping requirements of the Central Arizona project and any such needs for desalting and protective pumping facilities as may be required under section 101(b)(2)(B) of the Colorado River Basin Salinity Control Act of 1974, as amended [
+43 U.S.C. 1571(b)(2)(B)
+] (hereinafter in this Act referred to as ‘Navajo surplus’) shall be marketed and exchanged by the Secretary of Energy pursuant to this section.
+
+
+“(b)
+ Navajo surplus shall be marketed by the Secretary of Energy pursuant to the plan adopted under subsection (c) of this section, directly to, with or through the Arizona Power Authority and/or other entities having the status of preference entities under the reclamation law in accordance with the preference provisions of section 9(c) of the Reclamation Project Act of 1939 [
+43 U.S.C. 485h(c)
+] and as provided in part IV, section A of the Criteria.
+
+
+“(c)
+ In the marketing and exchanging of Navajo surplus, the Secretary of the Interior shall adopt the plan deemed most acceptable, after consultation with the Secretary of Energy, the Governor of Arizona, and the Central Arizona Water Conservation District (or its successor in interest to the repayment obligation for the Central Arizona project), for the purposes of optimizing the availability of Navajo surplus and providing financial assistance in the timely construction and repayment of construction costs of authorized features of the Central Arizona project. The Secretary of the Interior, in concert with the Secretary of Energy, in accordance with section 14 of the Reclamation Project Act of 1939 [
+43 U.S.C. 389
+], shall grant electrical power and energy exchange rights with Arizona entities as necessary to implement the adopted plan: 
+Provided, however
+, That if exchange rights with Arizona entities are not required to implement the adopted plan, exchange rights may be offered to other entities.
+
+
+“(d)
+ For the purposes provided in subsection (c) of this section, the Secretary of Energy, or the marketing entity or entities under the adopted plan, are authorized to establish and collect or cause to be established and collected, rate components, in addition to those currently authorized, and to deposit the revenues received in the Lower Colorado River Basin Development Fund to be available for such purposes and if required under the adopted plan, to credit, utilize, pay over directly or assign revenues from such additional rate components to make repayment and establish reserves for repayment of funds, including interest incurred, to entities which have advanced funds for the purposes of subsection (c) of this section: 
+Provided, however
+, That rates shall not exceed levels that allow for an appropriate saving for the contractor.
+
+
+“(e)
+ To the extent that this section may be in conflict with any other provision of law relating to the marketing and exchange of Navajo surplus, or to the disposition of any revenues therefrom, this section shall control.”
+
+
+ Federal Energy Regulatory Commission; compensation of Chairman and members
+There shall be within the Department, a Federal Energy Regulatory Commission established by subchapter IV of this chapter (hereinafter referred to in this chapter as the “Commission”). The Chairman shall be compensated at the rate provided for level III of the Executive Schedule under 
+ Energy Information Administration
+(a)
+ Establishment; appointment of Administrator; compensation; qualifications; duties
+(1)
+ There shall be within the Department an Energy Information Administration to be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for in level IV of the Executive Schedule under 
+section 5315 of title 5
+. The Administrator shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
+
+
+
+
+(2)
+ The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resources to meet demands in the near and longer term future for the Nation’s economic and social needs.
+
+
+
+
+(b)
+ Delegation of functions
+The Secretary shall delegate to the Administrator (which delegation may be on a nonexclusive basis as the Secretary may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the functions vested in him by law relating to gathering, analysis, and dissemination of energy information (as defined in 
+section 796 of title 15
+) and the Administrator may act in the name of the Secretary for the purpose of obtaining enforcement of such delegated functions.
+
+
+
+
+(c)
+ Functions of Director of Office of Energy Information and Analysis
+In addition to, and not in limitation of the functions delegated to the Administrator pursuant to other subsections of this section, there shall be vested in the Administrator, and he shall perform, the functions assigned to the Director of the Office of Energy Information and Analysis under part B of the Federal Energy Administration Act of 1974 [
+15 U.S.C. 790
+ et seq.], and the provisions of sections 53(d) and 59 thereof [
+15 U.S.C. 790b(d)
+, 790h] shall be applicable to the Administrator in the performance of any function under this chapter.
+
+
+
+
+(d)
+ Collection or analysis of information and preparation of reports without approval
+The Administrator shall not be required to obtain the approval of any other officer or employee of the Department in connection with the collection or analysis of any information; nor shall the Administrator be required, prior to publication, to obtain the approval of any other officer or employee of the United States with respect to the substance of any statistical or forecasting technical reports which he has prepared in accordance with law.
+
+
+
+
+(e)
+ Annual audit
+The Energy Information Administration shall be subject to an annual professional audit review of performance as described in section 55 
+1
+1
+ See References in Text note below.
+ of part B of the Federal Energy Administration Act of 1974.
+
+
+
+
+(f)
+ Furnishing information or analysis to any other administration, commission, or office within Department
+The Administrator shall, upon request, promptly provide any information or analysis in his possession pursuant to this section to any other administration, commission, or office within the Department which such administration, commission, or office determines relates to the functions of such administration, commission, or office.
+
+
+
+
+(g)
+ Availability of information to public
+Information collected by the Energy Information Administration shall be cataloged and, upon request, any such information shall be promptly made available to the public in a form and manner easily adaptable for public use, except that this subsection shall not require disclosure of matters exempted from mandatory disclosure by 
+section 552(b) of title 5
+. The provisions of 
+section 796(d) of title 15
+, and 
+section 5916 of this title
+, shall continue to apply to any information obtained by the Administrator under such provisions.
+
+
+
+
+(h)
+ Identification and designation of “major energy producing companies”; format for financial report; accounting practices; filing of financial report; annual report of Department; definitions; confidentiality
+(1)
+(A)
+ In addition to the acquisition, collection, analysis, and dissemination of energy information pursuant to this section, the Administrator shall identify and designate “major energy-producing companies” which alone or with their affiliates are involved in one or more lines of commerce in the energy industry so that the energy information collected from such major energy-producing companies shall provide a statistically accurate profile of each line of commerce in the energy industry in the United States.
+
+
+
+
+(B)
+ In fulfilling the requirements of this subsection the Administrator shall—
+(i)
+ utilize, to the maximum extent practicable, consistent with the faithful execution of his responsibilities under this chapter, reliable statistical sampling techniques; and
+
+
+
+
+(ii)
+ otherwise give priority to the minimization of the reporting of energy information by small business.
+
+
+
+
+
+
+
+
+(2)
+ The Administrator shall develop and make effective for use during the second full calendar year following 
+August 4, 1977
+, the format for an energy-producing company financial report. Such report shall be designed to allow comparison on a uniform and standardized basis among energy-producing companies and shall permit for the energy-related activities of such companies—
+(A)
+ an evaluation of company revenues, profits, cash flow, and investments in total, for the energy-related lines of commerce in which such company is engaged and for all significant energy-related functions within such company;
+
+
+
+
+(B)
+ an analysis of the competitive structure of sectors and functional groupings within the energy industry;
+
+
+
+
+(C)
+ the segregation of energy information, including financial information, describing company operations by energy source and geographic area;
+
+
+
+
+(D)
+ the determination of costs associated with exploration, development, production, processing, transportation, and marketing and other significant energy-related functions within such company; and
+
+
+
+
+(E)
+ such other analyses or evaluations as the Administrator finds is necessary to achieve the purposes of this chapter.
+
+
+
+
+
+
+(3)
+ The Administrator shall consult with the Chairman of the Securities and Exchange Commission with respect to the development of accounting practices required by the Energy Policy and Conservation Act [
+42 U.S.C. 6201
+ et seq.] to be followed by persons engaged in whole or in part in the production of crude oil and natural gas and shall endeavor to assure that the energy-producing company financial report described in paragraph (2) of this subsection, to the extent practicable and consistent with the purposes and provisions of this chapter, is consistent with such accounting practices where applicable.
+
+
+
+
+(4)
+ The Administrator shall require each major energy-producing company to file with the Administrator an energy-producing company financial report on at least an annual basis and may request energy information described in such report on a quarterly basis if he determines that such quarterly report of information will substantially assist in achieving the purposes of this chapter.
+
+
+
+
+(5)
+ A summary of information gathered pursuant to this section, accompanied by such analysis as the Administrator deems appropriate, shall be included in the annual report of the Department required by subsection (a) 
+2
+2
+ So in original. 
+Section 7267 of this title
+ was enacted without a subsec. (a).
+ of 
+section 7267 of this title
+.
+
+
+
+
+(6)
+ As used in this subsection the term—
+(A)
+ “energy-producing company” means a person engaged in:
+(i)
+ ownership or control of mineral fuel resources or nonmineral energy resources;
+
+
+
+
+(ii)
+ exploration for, or development of, mineral fuel resources;
+
+
+
+
+(iii)
+ extraction of mineral fuel or nonmineral energy resources;
+
+
+
+
+(iv)
+ refining, milling, or otherwise processing mineral fuels or nonmineral energy resources;
+
+
+
+
+(v)
+ storage of mineral fuels or nonmineral energy resources;
+
+
+
+
+(vi)
+ the generation, transmission, or storage of electrical energy;
+
+
+
+
+(vii)
+ transportation of mineral fuels or nonmineral energy resources by any means whatever; or
+
+
+
+
+(viii)
+ wholesale or retail distribution of mineral fuels, nonmineral energy resources or electrical energy;
+
+
+
+
+
+
+(B)
+ “energy industry” means all energy-producing companies; and
+
+
+
+
+(C)
+ “person” has the meaning as set forth in 
+section 796 of title 15
+.
+
+
+
+
+
+
+(7)
+ The provisions of 
+section 1905 of title 18
+ shall apply in accordance with its terms to any information obtained by the Administration pursuant to this subsection.
+
+
+
+
+(i)
+ Manufacturers energy consumption survey
+(1)
+ The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every four years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
+(A)
+ quantity of fuels consumed;
+
+
+
+
+(B)
+ energy expenditures;
+
+
+
+
+(C)
+ fuel switching capabilities; and
+
+
+
+
+(D)
+ use of nonpurchased sources of energy, such as solar, wind, biomass, geothermal, waste by-products, and cogeneration.
+
+
+
+
+
+
+(2)
+ This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 (
+15 U.S.C. 790a
+).
+
+
+
+
+(j)
+ Collection and publication of survey results
+(1)
+ The Administrator shall annually collect and publish the results of a survey of electricity production from domestic renewable energy resources, including production in kilowatt hours, total installed capacity, capacity factor, and any other measure of production efficiency. Such results shall distinguish between various renewable energy resources.
+
+
+
+
+(2)
+ In carrying out this subsection, the Administrator shall—
+(A)
+ utilize, to the maximum extent practicable and consistent with the faithful execution of his responsibilities under this chapter, reliable statistical sampling techniques; and
+
+
+
+
+(B)
+ otherwise take into account the reporting burdens of energy information by small businesses.
+
+
+
+
+
+
+(3)
+ As used in this subsection, the term “renewable energy resources” includes energy derived from solar thermal, geothermal, biomass, wind, and photovoltaic resources.
+
+
+
+
+(k)
+ Survey procedure
+Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (
+15 U.S.C. 790a(a)
+), the Administrator shall—
+(1)
+ conduct surveys of residential and commercial energy use at least once every four years, and make such information available to the public;
+
+
+
+
+(2)
+ when surveying electric utilities, collect information on demand-side management programs conducted by such utilities, including information regarding the types of demand-side management programs being operated, the quantity of measures installed, expenditures on demand-side management programs, estimates of energy savings resulting from such programs, and whether the savings estimates were verified; and
+
+
+
+
+(3)
+ in carrying out this subsection, take into account reporting burdens and the protection of proprietary information as required by law.
+
+
+
+
+(l)
+ Data collection
+In order to improve the ability to evaluate the effectiveness of the Nation’s energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
+(1)
+ expanding the survey instruments to include questions regarding participation in Government and utility conservation programs;
+
+
+
+
+(2)
+ expanding fuel-use surveys in order to provide greater detail on energy use by user subgroups; and
+
+
+
+
+(3)
+ expanding the scope of data collection on energy efficiency and load-management programs, including the effects of building construction practices such as those designed to obtain peak load shifting.
+
+
+
+
+(m)
+ Renewable fuels survey
+(1)
+ In order to improve the ability to evaluate the effectiveness of the Nation’s renewable fuels mandate, the Administrator shall conduct and publish the results of a survey of renewable fuels demand in the motor vehicle fuels market in the United States monthly, and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information both on a national and regional basis, including each of the following:
+(A)
+ The quantity of renewable fuels produced.
+
+
+
+
+(B)
+ The quantity of renewable fuels blended.
+
+
+
+
+(C)
+ The quantity of renewable fuels imported.
+
+
+
+
+(D)
+ The quantity of renewable fuels demanded.
+
+
+
+
+(E)
+ Market price data.
+
+
+
+
+(F)
+ Such other analyses or evaluations as the Administrator finds are necessary to achieve the purposes of this section.
+
+
+
+
+
+
+(2)
+ The Administrator shall also collect or estimate information both on a national and regional basis, pursuant to subparagraphs (A) through (F) of paragraph (1), for the 5 years prior to implementation of this subsection.
+
+
+
+
+(3)
+ This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 (
+15 U.S.C. 790a
+).
+
+
+
+
+ Delegation by Secretary of Energy of energy research, etc., functions to Administrator of Energy Information Administration; prohibition against required delegation; utilization of capabilities by Secretary
+Notwithstanding any other provision of law, the Secretary of Energy shall not be required to delegate to the Administrator of the Energy Information Administration any energy research, development, and demonstration function vested in the Secretary, pursuant to the Atomic Energy Act [
+ Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions
+(a)
+ There shall be within the Department an Economic Regulatory Administration to be headed by an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at a rate provided for level IV of the Executive Schedule under 
+section 5315 of title 5
+. Such Administrator shall be, by demonstrated ability, background, training, or experience, an individual who is specially qualified to assess fairly the needs and concerns of all interests affected by Federal energy policy. The Secretary shall by rule provide for a separation of regulatory and enforcement functions assigned to, or vested in, the Administration.
+
+
+(b)
+ Consistent with the provisions of subchapter IV of this chapter, the Secretary shall utilize the Economic Regulatory Administration to administer such functions as he may consider appropriate.
+
+
+ Functions of Comptroller General
+The functions of the Comptroller General of the United States under 
+ Repealed. 
+ Office of Science; establishment; appointment of Director; compensation; duties
+(a)
+ There shall be within the Department an Office of Science to be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level IV of the Executive Schedule under 
+section 5315 of title 5
+.
+
+
+(b)
+ It shall be the duty and responsibility of the Director—
+(1)
+ to advise the Secretary with respect to the physical research program transferred to the Department from the Energy Research and Development Administration;
+
+
+
+
+(2)
+ to monitor the Department’s energy research and development programs in order to advise the Secretary with respect to any undesirable duplication or gaps in such programs;
+
+
+
+
+(3)
+ to advise the Secretary with respect to the well-being and management of the multipurpose laboratories under the jurisdiction of the Department, excluding laboratories that constitute part of the nuclear weapons complex;
+
+
+
+
+(4)
+ to advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
+
+
+
+
+(5)
+ to advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department; and
+
+
+
+
+(6)
+ to carry out such additional duties assigned to the Office by the Secretary.
+
+
+
+
+ Leasing Liaison Committee; establishment; composition
+There is established a Leasing Liaison Committee which shall be composed of an equal number of members appointed by the Secretary and the Secretary of the Interior.
+ Office of Minority Economic Impact
+(a)
+ Establishment; appointment of Director; compensation
+There shall be established within the Department an Office of Minority Economic Impact. The Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be compensated at the rate provided for level IV of the Executive Schedule under 
+section 5315 of title 5
+.
+
+
+
+
+(b)
+ Advice to Secretary on effect of energy policies, regulations, and other actions of Department respecting minority participation in energy programs
+The Director shall have the duty and responsibility to advise the Secretary on the effect of energy policies, regulations, and other actions of the Department and its components on minorities and minority business enterprises and on ways to insure that minorities are afforded an opportunity to participate fully in the energy programs of the Department.
+
+
+
+
+(c)
+ Research programs respecting effects of national energy programs, policies, and regulations of Department on minorities
+The Director shall conduct an ongoing research program, with the assistance of the Administrator of the Energy Information Administration, and such other Federal agencies as the Director determines appropriate, to determine the effects (including the socio-economic and environmental effects) of national energy programs, policies, and regulations of the Department on minorities. In conducting such program, the Director shall, from time to time, develop and recommend to the Secretary policies to assist, where appropriate, such minorities and minority business enterprises concerning such effects. In addition, the Director shall, to the greatest extent practicable—
+(1)
+ determine the average energy consumption and use patterns of minorities relative to other population categories;
+
+
+
+
+(2)
+ evaluate the percentage of disposable income spent on energy by minorities relative to other population categories; and
+
+
+
+
+(3)
+ determines 
+1
+1
+ So in original. Probably should be “determine”.
+ how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
+
+
+
+
+(d)
+ Management and technical assistance to minority educational institutions and business enterprises to foster participation in research, development, demonstration, and contract activities of Department
+The Director may provide the management any 
+2
+2
+ So in original. Probably should be “and”.
+ technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with 
+section 7256 of this title
+ and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
+(1)
+ a national information clearinghouse which will develop and disseminate information on the aspects of energy programs to minority business enterprises, minority educational institutions and other appropriate minority organizations;
+
+
+
+
+(2)
+ market research, planning economic and business analysis, and feasibility studies to identify and define economic opportunities for minorities in energy research, production, conservation, and development;
+
+
+
+
+(3)
+ technical assistance programs to encourage, promote, and assist minority business enterprises in establishing and expanding energy-related business opportunities which are located in minority communities and that can provide jobs to workers in such communities; and
+
+
+
+
+(4)
+ programs to assist minority business enterprises in the commercial application of energy-related technologies.
+
+
+
+
+(e)
+ Loans to minority business enterprises; restriction on use of funds; interest; deposits into Treasury
+(1)
+ The Secretary, acting through the Office, may provide financial assistance in the form of loans to any minority business enterprise under such rules as he shall prescribe to assist such enterprises in participating fully in research, development, demonstration, and contract activities of the Department to the extent he considers appropriate. He shall limit the use of financial assistance to providing funds necessary for such enterprises to bid for and obtain contracts or other agreements, and shall limit the amount of the financial assistance to any recipient to not more than 75 percent of such costs.
+
+
+
+
+(2)
+ The Secretary shall determine the rate of interest on loans under this section in consultation with the Secretary of the Treasury.
+
+
+
+
+(3)
+ The Secretary shall deposit into the Treasury as miscellaneous receipts amounts received in connection with the repayment and satisfaction of such loans.
+
+
+
+
+(f)
+ Definitions
+As used in this section, the term—
+(1)
+ “minority” means any individual who is a citizen of the United States and who is a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent;
+
+
+
+
+(2)
+ “minority business enterprise” means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
+
+
+
+
+(3)
+ “minority educational institution” means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
+
+
+
+
+(g)
+ Authorization of appropriations
+There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e) of this section.
+
+
+
+
+ National Atomic Museum and National Atomic Testing Museum
+(a)
+ Recognition and status
+The museum operated by the Department of Energy and currently located at Building 20358 on Wyoming Avenue South near the corner of M street within the confines of the Kirtland Air Force Base (East), Albuquerque, New Mexico—
+(1)
+ is recognized as the official atomic museum of the United States;
+
+
+
+
+(2)
+ shall be known as the “National Atomic Museum”; and
+
+
+
+
+(3)
+ shall have the sole right throughout the United States and its possessions to have and use the name “National Atomic Museum”.
+
+
+
+
+(b)
+ Volunteers
+(1)
+ In operating the National Atomic Museum, the Secretary of Energy may—
+(A)
+ recruit, train, and accept the services of individuals without compensation as volunteers for, or in aid of, interpretive functions or other services or activities of and related to the museum; and
+
+
+
+
+(B)
+ provide to volunteers incidental expenses, such as nominal awards, uniforms, and transportation.
+
+
+
+
+
+
+(2)
+ Except as provided in paragraphs (3) and (4), a volunteer who is not otherwise employed by the Federal Government is not subject to laws relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, because of service as a volunteer under this subsection.
+
+
+
+
+(3)
+ For purposes of chapter 171 of title 28 (relating to tort claims), a volunteer under this subsection is considered a Federal employee.
+
+
+
+
+(4)
+ For the purposes of subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries), a volunteer under this subsection is considered an employee of the United States.
+
+
+
+
+(c)
+ Authority
+(1)
+ In operating the National Atomic Museum, the Secretary of Energy may—
+(A)
+ accept and use donations of money or gifts pursuant to section 7262 
+1
+1
+ See References in Text note below.
+ of this title, if such gifts or money are designated in a written document signed by the donor as intended for the museum, and such donations or gifts are determined by the Secretary to be suitable and beneficial for use by the museum;
+
+
+
+
+(B)
+ operate a retail outlet on the premises of the museum for the purpose of selling or distributing mementos, replicas of memorabilia, literature, materials, and other items of an informative, educational, and tasteful nature relevant to the contents of the museum; and
+
+
+
+
+(C)
+ exhibit, perform, display, and publish information and materials concerning museum mementos, items, memorabilia, and replicas thereof in any media or place anywhere in the world, at reasonable fees or charges where feasible and appropriate, to substantially cover costs.
+
+
+
+
+
+
+(2)
+ The net proceeds of activities authorized under subparagraphs (B) and (C) of paragraph (1) may be used by the National Atomic Museum for activities of the museum.
+
+
+
+
+(d)
+ Recognition and status of National Atomic Testing Museum
+The museum operated by the Nevada Test Site Historical Foundation and located in Las Vegas, Nevada—
+(1)
+ is recognized as the official atomic testing museum of the United States; and
+
+
+
+
+(2)
+ shall be known as the “National Atomic Testing Museum”.
+
+
+
+
+ Designation of American Museum of Science and Energy
+(a)
+ In general
+The Museum—
+(1)
+ is designated as the “American Museum of Science and Energy”; and
+
+
+
+
+(2)
+ shall be the official museum of science and energy of the United States.
+
+
+
+
+(b)
+ References
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the Museum is deemed to be a reference to the “American Museum of Science and Energy”.
+
+
+
+
+(c)
+ Property of the United States
+(1)
+ In general
+The name “American Museum of Science and Energy” is declared the property of the United States.
+
+
+
+
+
+
+(2)
+ Use
+The Museum shall have the sole right throughout the United States and its possessions to have and use the name “American Museum of Science and Energy”.
+
+
+
+
+
+
+(3)
+ Effect on other rights
+This subsection shall not be construed to conflict or interfere with established or vested rights.
+
+
+
+
+
+
+ Authority
+ Museum volunteers
+(a)
+ Authority to use volunteers
+The Secretary may recruit, train, and accept the services of individuals or entities as volunteers for services or activities related to the Museum.
+
+
+
+
+(b)
+ Status of volunteers
+(1)
+ In general
+Except as provided in paragraph (2), service by a volunteer under subsection (a) of this section shall not be considered Federal employment.
+
+
+
+
+
+
+(2)
+ Exceptions
+(A)
+ Federal Tort Claims Act
+For purposes of chapter 171 of title 28, a volunteer under subsection (a) of this section shall be treated as an employee of the Government (as defined in section 2671 of that title).
+
+
+
+
+
+
+(B)
+ Compensation for work injuries
+For purposes of subchapter I of chapter 81 of title 5, a volunteer described in subsection (a) of this section shall be treated as an employee (as defined in 
+section 8101 of title 5
+).
+
+
+
+
+
+
+
+
+(c)
+ Compensation
+A volunteer under subsection (a) of this section shall serve without pay, but may receive nominal awards and reimbursement for incidental expenses, including expenses for a uniform or transportation in furtherance of Museum activities.
+
+
+
+
+ Definitions
+ Repealed. 
+ Establishment of policy for National Nuclear Security Administration
+(a)
+ Responsibility for establishing policy
+The Secretary shall be responsible for establishing policy for the National Nuclear Security Administration.
+
+
+
+
+(b)
+ Review of programs and activities
+The Secretary may direct officials of the Department who are not within the National Nuclear Security Administration to review the programs and activities of the Administration and to make recommendations to the Secretary regarding administration of those programs and activities, including consistency with other similar programs and activities of the Department.
+
+
+
+
+(c)
+ Staff
+The Secretary shall have adequate staff to support the Secretary in carrying out the Secretary’s responsibilities under this section.
+
+
+
+
+ Establishment of security, counterintelligence, and intelligence policies
+(a)
+ Duty of Secretary
+The Secretary shall be responsible for developing and promulgating the security, counterintelligence, and intelligence policies of the Department. The Secretary may use the immediate staff of the Secretary to assist in developing and promulgating those policies.
+
+
+
+
+(b)
+ Intelligence Executive Committee
+(1)
+ There is within the Department an Intelligence Executive Committee. The Committee shall consist of the Deputy Secretary of Energy, who shall chair the Committee, and each Under Secretary of Energy.
+
+
+
+
+(2)
+ The Committee shall be staffed by the Director of the Office of Intelligence and the Director of the Office of Counterintelligence.
+
+
+
+
+(3)
+ The Secretary shall use the Committee to assist in developing and promulgating the counterintelligence and intelligence policies, requirements, and priorities of the Department.
+
+
+
+
+(c)
+ Budget justification materials
+In the budget justification materials submitted to Congress in support of each budget submitted by the President to Congress under title 31, the amounts requested for the Department for intelligence functions and the amounts requested for the Department for counterintelligence functions shall each be specified in appropriately classified individual, dedicated program elements. Within the amounts requested for counterintelligence functions, the amounts requested for the National Nuclear Security Administration shall be specified separately from the amounts requested for other elements of the Department.
+
+
+
+
+ Office of Counterintelligence
+(a)
+ Establishment
+There is within the Department an Office of Counterintelligence.
+
+
+
+
+(b)
+ Director
+(1)
+ The head of the Office shall be the Director of the Office of Counterintelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
+
+
+
+
+(2)
+ The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to counterintelligence.
+
+
+
+
+(3)
+ The Director of the Federal Bureau of Investigation may detail, on a reimbursable basis, any employee of the Bureau to the Department for service as Director of the Office. The service of an employee of the Bureau as Director of the Office shall not result in any loss of status, right, or privilege by the employee within the Bureau.
+
+
+
+
+(c)
+ Duties
+(1)
+ The Director of the Office shall be responsible for establishing policy for counterintelligence programs and activities at Department facilities in order to reduce the threat of disclosure or loss of classified and other sensitive information at such facilities.
+
+
+
+
+(2)
+ The Director of the Office shall be responsible for establishing policy for the personnel assurance programs of the Department.
+
+
+
+
+(3)
+ The Director shall inform the Secretary, the Director of Central Intelligence, and the Director of the Federal Bureau of Investigation on a regular basis, and upon specific request by any such official, regarding the status and effectiveness of the counterintelligence programs and activities at Department facilities.
+
+
+
+
+(d)
+ Annual reports
+(1)
+ Not later than March 1 each year, the Director of the Office shall submit a report on the status and effectiveness of the counterintelligence programs and activities at each Department facility during the preceding year. Each such report shall be submitted to the following:
+(A)
+ The Secretary.
+
+
+
+
+(B)
+ The Director of Central Intelligence.
+
+
+
+
+(C)
+ The Director of the Federal Bureau of Investigation.
+
+
+
+
+(D)
+ The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+
+
+
+(E)
+ The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+
+
+
+
+
+
+(2)
+ Each such report shall include for the year covered by the report the following:
+(A)
+ A description of the status and effectiveness of the counterintelligence programs and activities at Department facilities.
+
+
+
+
+(B)
+ A description of any violation of law or other requirement relating to intelligence, counterintelligence, or security at such facilities, including—
+(i)
+ the number of violations that were investigated; and
+
+
+
+
+(ii)
+ the number of violations that remain unresolved.
+
+
+
+
+
+
+(C)
+ A description of the number of foreign visitors to Department facilities, including the locations of the visits of such visitors.
+
+
+
+
+(D)
+ The adequacy of the Department’s procedures and policies for protecting national security information, making such recommendations to Congress as may be appropriate.
+
+
+
+
+(E)
+ A determination of whether each Department of Energy national laboratory is in full compliance with all departmental security requirements and, in the case of any such laboratory that is not, what measures are being taken to bring that laboratory into compliance.
+
+
+
+
+
+
+(3)
+ Not less than 30 days before the date that the report required by paragraph (1) is submitted, the director of each Department of Energy national laboratory shall certify in writing to the Director of the Office whether that laboratory is in full compliance with all departmental security requirements and, if not, what measures are being taken to bring that laboratory into compliance and a schedule for implementing those measures.
+
+
+
+
+(4)
+ Each report under this subsection as submitted to the committees referred to in subparagraphs (D) and (E) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+
+
+
+ Office of Intelligence
+(a)
+ Establishment
+There is within the Department an Office of Intelligence.
+
+
+
+
+(b)
+ Director
+(1)
+ The head of the Office shall be the Director of the Office of Intelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
+
+
+
+
+(2)
+ The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to foreign intelligence.
+
+
+
+
+(c)
+ Duties
+Subject to the authority, direction, and control of the Secretary, the Director of the Office shall perform such duties and exercise such powers as the Secretary may prescribe.
+
+
+
+
+ Office of Arctic Energy
+(a)
+ Establishment
+The Secretary of Energy may establish within the Department of Energy an Office of Arctic Energy.
+
+
+
+
+(b)
+ Purposes
+The purposes of such office shall be as follows:
+(1)
+ To promote research, development, and deployment of electric power technology that is cost-effective and especially well suited to meet the needs of rural and remote regions of the United States, especially where permafrost is present or located nearby.
+
+
+
+
+(2)
+ To promote research, development, and deployment in such regions of—
+(A)
+ enhanced oil recovery technology, including heavy oil recovery, reinjection of carbon, and extended reach drilling technologies;
+
+
+
+
+(B)
+ gas-to-liquids technology and liquified natural gas (including associated transportation systems);
+
+
+
+
+(C)
+ small hydroelectric facilities, river turbines, and tidal power;
+
+
+
+
+(D)
+ natural gas hydrates, coal bed methane, and shallow bed natural gas; and
+
+
+
+
+(E)
+ alternative energy, including wind, geothermal, and fuel cells.
+
+
+
+
+
+
+(c)
+ Location
+The Secretary shall locate such office at a university with expertise and experience in the matters specified in subsection (b) of this section.
+
+
+
+
+ Office of Indian Energy Policy and Programs
+(a)
+ Establishment
+There is established within the Department an Office of Indian Energy Policy and Programs (referred to in this section as the “Office”). The Office shall be headed by a Director, who shall be appointed by the Secretary and compensated at a rate equal to that of level IV of the Executive Schedule under 
+section 5315 of title 5
+.
+
+
+
+
+(b)
+ Duties of Director
+The Director, in accordance with Federal policies promoting Indian self-determination and the purposes of this chapter, shall provide, direct, foster, coordinate, and implement energy planning, education, management, conservation, and delivery programs of the Department that—
+(1)
+ promote Indian tribal energy development, efficiency, and use;
+
+
+
+
+(2)
+ reduce or stabilize energy costs;
+
+
+
+
+(3)
+ enhance and strengthen Indian tribal energy and economic infrastructure relating to natural resource development and electrification; and
+
+
+
+
+(4)
+ bring electrical power and service to Indian land and the homes of tribal members located on Indian lands or acquired, constructed, or improved (in whole or in part) with Federal funds.
+
+
+
+
+ General transfers
+(a)
+ Except as otherwise provided in this chapter, there are transferred to, and vested in, the Secretary all of the functions vested by law in the Administrator of the Federal Energy Administration or the Federal Energy Administration, the Administrator of the Energy Research and Development Administration or the Energy Research and Development Administration; and the functions vested by law in the officers and components of either such Administration.
+
+
+(b)
+ Except as provided in subchapter IV of this chapter, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in 
+section 7172(a)(2) of this title
+ to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
+
+
+ Jurisdiction over matters transferred from Energy Research and Development Administration
+Notwithstanding any other provision of law, jurisdiction over matters transferred to the Department of Energy from the Energy Research and Development Administration which on the effective date of such transfer were required by law, regulation, or administrative order to be made on the record after an opportunity for an agency hearing may be assigned to the Federal Energy Regulatory Commission or retained by the Secretary at his discretion.
+ Transfers from Department of the Interior
+(a)
+ Functions relating to electric power
+(1)
+ There are transferred to, and vested in, the Secretary all functions of the Secretary of the Interior under 
+section 825s of title 16
+, and all other functions of the Secretary of the Interior, and officers and components of the Department of the Interior, with respect to—
+(A)
+ the Southeastern Power Administration;
+
+
+
+
+(B)
+ the Southwestern Power Administration;
+
+
+
+
+(C)
+ the Bonneville Power Administration including but not limited to the authority contained in the Bonneville Project Act of 1937 [
+16 U.S.C. 832
+ et seq.] and the Federal Columbia River Transmission System Act [
+16 U.S.C. 838
+ et seq.];
+
+
+
+
+(D)
+ the power marketing functions of the Bureau of Reclamation, including the construction, operation, and maintenance of transmission lines and attendant facilities; and
+
+
+
+
+(E)
+ the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of 
+June 18, 1954
+, as amended by the Act of 
+December 23, 1963
+.
+
+
+
+
+
+
+(2)
+ The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,
+1
+1
+ So in original. The comma probably should not appear.
+ shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
+
+
+
+
+(3)
+ The functions transferred in paragraphs (1)(E) and (1)(F) 
+2
+2
+ See References in Text note below.
+ of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
+
+
+
+
+(b)
+, (c) Repealed. 
+Pub. L. 97–100, title II, § 201
+, 
+Dec. 23, 1981
+, 
+95 Stat. 1407
+
+
+(d)
+ Functions of Bureau of Mines
+There are transferred to, and vested in, the Secretary those functions of the Secretary of the Interior, the Department of the Interior, and officers and components of that Department under the Act of 
+May 15, 1910
+, and other authorities, exercised by the Bureau of Mines, but limited to—
+(1)
+ fuel supply and demand analysis and data gathering;
+
+
+
+
+(2)
+ research and development relating to increased efficiency of production technology of solid fuel minerals, other than research relating to mine health and safety and research relating to the environmental and leasing consequences of solid fuel mining (which shall remain in the Department of the Interior); and
+
+
+
+
+(3)
+ coal preparation and analysis.
+
+
+
+
+“(a)
+ 
+Sale of Eklutna
+.—
+The Secretary of Energy is authorized and directed to sell Eklutna to the Eklutna Purchasers in accordance with the terms of this Act and the Eklutna Purchase Agreement.
+
+
+“(b)
+ 
+Sale of Snettisham
+.—
+The Secretary of Energy is authorized and directed to sell Snettisham to the Snettisham Purchaser in accordance with the terms of this Act and the Snettisham Purchase Agreement.
+
+
+“(c)
+ 
+Cooperation of Other Agencies
+.—
+The heads of other Federal departments, agencies, and instrumentalities of the United States shall assist the Secretary of Energy in implementing the sales and conveyances authorized and directed by this title.
+
+
+“(d)
+ 
+Proceeds
+.—
+Proceeds from the sales required by this title shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.
+
+
+“(e)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna and Snettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers.
+
+
+“(f)
+ 
+Contributed Funds
+.—
+Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shall administer and expend any remaining balances of such contributed funds for the purposes intended by the contributors.
+
+
+“(a)
+ 
+Federal Power Act
+.—
+(1)
+ After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act (
+16 U.S.C. 791a
+ et seq.), except as provided in subsection (b).
+
+
+
+
+“(2)
+ The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated 
+August 7, 1991
+, which remains in full force and effect.
+
+
+
+
+“(3)
+ Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement.
+
+
+
+
+“(b)
+ 
+Subsequent Transfers
+.—
+Except for subsequent assignment of interest in Eklutna by the Eklutna Purchasers to the Alaska Electric Generation and Transmission Cooperative Inc. pursuant to section 19 of the Eklutna Purchase Agreement, upon any subsequent sale or transfer of any portion of Eklutna or Snettisham from the Eklutna Purchasers or the Snettisham Purchaser to any other person, the exemption set forth in paragraph (1) of subsection (a) of this section shall cease to apply to such portion.
+
+
+“(c)
+ 
+Review
+.—
+(1)
+ The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+
+
+
+
+“(2)
+ An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
+
+
+
+
+“(3)
+ An action seeking review of implementation of the Program shall be brought not later than 90 days after the challenged act implementing the Program, or be barred.
+
+
+
+
+“(d)
+ 
+Eklutna Lands
+.—
+With respect to Eklutna lands described in Exhibit A of the Eklutna Purchase Agreement:
+“(1)
+ The Secretary of the Interior shall issue rights-of-way to the Alaska Power Administration for subsequent reassignment to the Eklutna Purchasers—
+“(A)
+ at no cost to the Eklutna Purchasers;
+
+
+
+
+“(B)
+ to remain effective for a period equal to the life of Eklutna as extended by improvements, repairs, renewals, or replacements; and
+
+
+
+
+“(C)
+ sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands and lands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
+
+
+
+
+
+
+“(2)
+ Fee title to lands at Anchorage Substation shall be transferred to Eklutna Purchasers at no additional cost if the Secretary of the Interior determines that pending claims to, and selections of, those lands are invalid or relinquished.
+
+
+
+
+“(3)
+ With respect to the Eklutna lands identified in paragraph 1 of Exhibit A of the Eklutna Purchase Agreement, the State of Alaska may select, and the Secretary of the Interior shall convey to the State, improved lands under the selection entitlements in 
+section 6 of the Act of July 7, 1958
+ (commonly referred to as the Alaska Statehood Act, 
+Public Law 85–508
+; 
+72 Stat. 339
+) [set out as a note preceding 
+section 21 of Title 48
+, Territories and Insular Possessions], and the North Anchorage Land Agreement dated 
+January 31, 1983
+. This conveyance shall be subject to the rights-of-way provided to the Eklutna Purchasers under paragraph (1).
+
+
+
+
+“(e)
+ 
+Snettisham Lands
+.—
+With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in 
+section 6 of the Act of July 7, 1958
+ (commonly referred to as the Alaska Statehood Act, 
+Public Law 85–508
+; 
+72 Stat. 339
+).
+
+
+“(f)
+ 
+Termination of Alaska Power Administration
+.—
+Not later than one year after both of the sales authorized in section 103 have occurred, as measured by the Transaction Dates stipulated in the Purchase Agreements, the Secretary of Energy shall—
+“(1)
+ complete the business of, and close out, the Alaska Power Administration;
+
+
+
+
+“(2)
+ submit to Congress a report documenting the sales; and
+
+
+
+
+“(3)
+ return unobligated balances of funds appropriated for the Alaska Power Administration to the Treasury of the United States.
+
+
+
+
+“(g)
+ 
+Repeals
+.—
+(1)
+ The Act of 
+July 31, 1950
+ (
+64 Stat. 382
+) [enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under 
+section 312 of Title 48
+] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers [ownership of Eklutna project transferred 
+Oct. 2, 1997
+].
+
+
+
+
+“(2)
+ Section 204 of the Flood Control Act of 1962 (
+76 Stat. 1193
+) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser [purchase of Snettisham project completed 
+Aug. 19, 1998
+].
+
+
+
+
+“(3)
+ The Act of 
+August 9, 1955
+ [enacting sections 1962d–12 to 1962d–14 of this title], concerning water resources investigation in Alaska (
+69 Stat. 618
+), is repealed.
+
+
+
+
+“(h)
+ 
+DOE Organization Act
+.—
+As of the later of the two dates determined in paragraphs (1) and (2) of subsection (g), section 302(a) of the Department of Energy Organization Act (
+42 U.S.C. 7152(a)
+) is amended—
+“(1)
+ in paragraph (1)—
+“(A)
+ by striking subparagraph (C); and
+
+
+
+
+“(B)
+ by redesignating subparagraphs (D), (E), and (F) as subparagraphs (C), (D), and (E) respectively; and
+
+
+
+
+
+
+“(2)
+ in paragraph (2) by striking out ‘and the Alaska Power Administration’ and by inserting ‘and’ after ‘Southwestern Power Administration,’.
+
+
+
+
+“(i)
+ 
+Disposal
+.—
+The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] (
+40 U.S.C. 484
+) [now 
+40 U.S.C. 541–555
+] or the Act of 
+October 3, 1944
+, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
+
+
+ Administration of leasing transfers
+(a)
+ Authority retained by Secretary of the Interior
+The Secretary of the Interior shall retain any authorities not transferred under section 7152(b) 
+1
+1
+ See References in Text note below.
+ of this title and shall be solely responsible for the issuance and supervision of Federal leases and the enforcement of all regulations applicable to the leasing of mineral resources, including but not limited to lease terms and conditions and production rates. No regulation promulgated by the Secretary shall restrict or limit any authority retained by the Secretary of the Interior under section 7152(b) 
+1
+ of this title with respect to the issuance or supervision of Federal leases. Nothing in section 7152(b) 
+1
+ of this title shall be construed to affect Indian lands and resources or to transfer any functions of the Secretary of the Interior concerning such lands and resources.
+
+
+
+
+(b)
+ Consultation with Secretary of the Interior with respect to promulgation of regulations
+In exercising the authority under section 7152(b) 
+1
+ of this title to promulgate regulations, the Secretary shall consult with the Secretary of the Interior during the preparation of such regulations and shall afford the Secretary of the Interior not less than thirty days, prior to the date on which the Department first publishes or otherwise prescribes regulations, to comment on the content and effect of such regulations.
+
+
+
+
+(c)
+ Repealed. 
+Pub. L. 97–100, title II, § 201
+, 
+Dec. 23, 1981
+, 
+95 Stat. 1407
+
+
+(d)
+ Preparation of environmental impact statement
+The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by 
+section 4332(2)(C) of this title
+ for any action with respect to the Federal leases taken under the authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
+
+
+
+
+ Transfers from Department of Housing and Urban Development
+(a)
+ There is transferred to, and vested in, the Secretary the functions vested in the Secretary of Housing and Urban Development pursuant to section 304 of the Energy Conservation Standards for New Buildings Act of 1976 [
+42 U.S.C. 6833
+], to develop and promulgate energy conservation standards for new buildings. The Secretary of Housing and Urban Development shall provide the Secretary with any necessary technical assistance in the development of such standards. All other responsibilities, pursuant to title III of the Energy Conservation and Production Act [
+42 U.S.C. 6831
+ et seq.], shall remain with the Secretary of Housing and Urban Development, except that the Secretary shall be kept fully and currently informed of the implementation of the promulgated standards.
+
+
+(b)
+ There is hereby transferred to, and vested in, the Secretary the functions vested in the Secretary of Housing and Urban Development pursuant to 
+section 1701z–8 of title 12
+.
+
+
+ Repealed. 
+ Transfers from Department of the Navy
+ Repealed. 
+ Transfers from Department of Commerce
+There are transferred to, and vested in, the Secretary all functions of the Secretary of Commerce, the Department of Commerce, and officers and components of that Department, as relate to or are utilized by the Office of Energy Programs, but limited to industrial energy conservation programs.
+ Naval reactor and military application programs
+The Division of Naval Reactors established pursuant to 
+ Transfer to Department of Transportation
+Notwithstanding 
+ Appointment and administration
+(a)
+ Federal Energy Regulatory Commission; establishment
+There is established within the Department an independent regulatory commission to be known as the Federal Energy Regulatory Commission.
+
+
+
+
+(b)
+ Composition; term of office; conflict of interest; expiration of terms
+(1)
+ The Commission shall be composed of five members appointed by the President, by and with the advice and consent of the Senate. One of the members shall be designated by the President as Chairman. Members shall hold office for a term of 5 years and may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. Not more than three members of the Commission shall be members of the same political party. Any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires. Members of the Commission shall not engage in any other business, vocation, or employment while serving on the Commission.
+
+
+
+
+(2)
+ Notwithstanding the third sentence of paragraph (1), the terms of members first taking office after 
+April 11, 1990
+, shall expire as follows:
+(A)
+ In the case of members appointed to succeed members whose terms expire in 1991, one such member’s term shall expire on 
+June 30, 1994
+, and one such member’s term shall expire on 
+June 30, 1995
+, as designated by the President at the time of appointment.
+
+
+
+
+(B)
+ In the case of members appointed to succeed members whose terms expire in 1992, one such member’s term shall expire on 
+June 30, 1996
+, and one such member’s term shall expire on 
+June 30, 1997
+, as designated by the President at the time of appointment.
+
+
+
+
+(C)
+ In the case of the member appointed to succeed the member whose term expires in 1993, such member’s term shall expire on 
+June 30, 1998
+.
+
+
+
+
+
+
+(c)
+ Duties and responsibilities of Chairman
+The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with 
+section 3109 of title 5
+. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
+
+
+
+
+(d)
+ Supervision and direction of members, employees, or other personnel of Commission
+In the performance of their functions, the members, employees, or other personnel of the Commission shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent of any other part of the Department.
+
+
+
+
+(e)
+ Designation of Acting Chairman; quorum; seal
+The Chairman of the Commission may designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. The Commission shall have an official seal which shall be judicially noticed.
+
+
+
+
+(f)
+ Rules
+The Commission is authorized to establish such procedural and administrative rules as are necessary to the exercise of its functions. Until changed by the Commission, any procedural and administrative rules applicable to particular functions over which the Commission has jurisdiction shall continue in effect with respect to such particular functions.
+
+
+
+
+(g)
+ Powers of Commission
+In carrying out any of its functions, the Commission shall have the powers authorized by the law under which such function is exercised to hold hearings, sign and issue subpenas, administer oaths, examine witnesses, and receive evidence at any place in the United States it may designate. The Commission may, by one or more of its members or by such agents as it may designate, conduct any hearing or other inquiry necessary or appropriate to its functions, except that nothing in this subsection shall be deemed to supersede the provisions of 
+section 556 of title 5
+ relating to hearing examiners.
+
+
+
+
+(h)
+ Principal office of Commission
+The principal office of the Commission shall be in or near the District of Columbia, where its general sessions shall be held, but the Commission may sit anywhere in the United States.
+
+
+
+
+(i)
+ Commission deemed agency; attorney for Commission
+For the purpose of 
+section 552b of title 5
+, the Commission shall be deemed to be an agency. Except as provided in 
+section 518 of title 28
+, relating to litigation before the Supreme Court, attorneys designated by the Chairman of the Commission may appear for, and represent the Commission in, any civil action brought in connection with any function carried out by the Commission pursuant to this chapter or as otherwise authorized by law.
+
+
+
+
+(j)
+ Annual authorization and appropriation request
+In each annual authorization and appropriation request under this chapter, the Secretary shall identify the portion thereof intended for the support of the Commission and include a statement by the Commission (1) showing the amount requested by the Commission in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Commission. Whenever the Commission submits to the Secretary, the President, or the Office of Management and Budget, any legislative recommendation or testimony, or comments on legislation, prepared for submission to Congress, the Commission shall concurrently transmit a copy thereof to the appropriate committees of Congress.
+
+
+
+
+“(a)
+ 
+Definition
+.—
+For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
+
+
+“(b)
+ 
+Rate Incentives Study
+.—
+Within 18 months after enactment [
+Nov. 15, 1990
+], the Federal Energy Regulatory Commission, in consultation with the Environmental Protection Agency, shall complete a study which calculates the net environmental benefits of renewable energy, compared to nonrenewable energy, and assigns numerical values to them. The study shall include, but not be limited to, environmental impacts on air, water, land use, water use, human health, and waste disposal.
+
+
+“(c)
+ 
+Model Regulations
+.—
+In conjunction with the study in subsection (b), the Commission shall propose one or more models for incorporating the net environmental benefits into the regulatory treatment of renewable energy in order to provide economic compensation for those benefits.
+
+
+“(d)
+ 
+Report
+.—
+The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment [
+Nov. 15, 1990
+].”
+
+
+ Jurisdiction of Commission
+(a)
+ Transfer of functions from Federal Power Commission
+(1)
+ There are transferred to, and vested in, the Commission the following functions of the Federal Power Commission or of any member of the Commission or any officer or component of the Commission:
+(A)
+ the investigation, issuance, transfer, renewal, revocation, and enforcement of licenses and permits for the construction, operation, and maintenance of dams, water conduits, reservoirs, powerhouses, transmission lines, or other works for the development and improvement of navigation and for the development and utilization of power across, along, from, or in navigable waters under part I of the Federal Power Act [
+16 U.S.C. 791a
+ et seq.];
+
+
+
+
+(B)
+ the establishment, review, and enforcement of rates and charges for the transmission or sale of electric energy, including determinations on construction work in progress, under part II of the Federal Power Act [
+16 U.S.C. 824
+ et seq.], and the interconnection, under section 202(b), of such Act [
+16 U.S.C. 824a(b)
+], of facilities for the generation, transmission, and sale of electric energy (other than emergency interconnection);
+
+
+
+
+(C)
+ the establishment, review, and enforcement of rates and charges for the transportation and sale of natural gas by a producer or gatherer or by a natural gas pipeline or natural gas company under sections 1, 4, 5, and 6 of the Natural Gas Act [
+15 U.S.C. 717
+, 717c to 717e];
+
+
+
+
+(D)
+ the issuance of a certificate of public convenience and necessity, including abandonment of facilities or services, and the establishment of physical connections under section 7 of the Natural Gas Act [
+15 U.S.C. 717f
+];
+
+
+
+
+(E)
+ the establishment, review, and enforcement of curtailments, other than the establishment and review of priorities for such curtailments, under the Natural Gas Act [
+15 U.S.C. 717
+ et seq.]; and
+
+
+
+
+(F)
+ the regulation of mergers and securities acquisition under the Federal Power Act [
+16 U.S.C. 791a
+ et seq.] and Natural Gas Act [
+15 U.S.C. 717
+ et seq.].
+
+
+
+
+
+
+(2)
+ The Commission may exercise any power under the following sections to the extent the Commission determines such power to be necessary to the exercise of any function within the jurisdiction of the Commission:
+(A)
+ sections 4, 301, 302, 306 through 309, and 312 through 316 of the Federal Power Act [
+16 U.S.C. 797
+, 825, 825a, 825e to 825h, 825k to 825
+o
+]; and
+
+
+
+
+(B)
+ sections 8, 9, 13 through 17, 20, and 21 of the Natural Gas Act [
+15 U.S.C. 717g
+, 717h, 717
+l
+ to 717p, 717s, 717t].
+
+
+
+
+
+
+(b)
+ Repealed. 
+Pub. L. 103–272, § 7(b)
+, 
+July 5, 1994
+, 
+108 Stat. 1379
+
+
+(c)
+ Consideration of proposals made by Secretary to amend regulations issued under 
+section 753 of title 15
+; exception
+(1)
+ Pursuant to the procedures specified in 
+section 7174 of this title
+ and except as provided in paragraph (2), the Commission shall have jurisdiction to consider any proposal by the Secretary to amend the regulation required to be issued under section 753(a) 
+1
+1
+ See References in Text note below.
+ of title 15 which is required by section 757 or 760a 
+1
+ of title 15 to be transmitted by the President to, and reviewed by, each House of Congress, under 
+section 6421 of this title
+.
+
+
+
+
+(2)
+ In the event that the President determines that an emergency situation of overriding national importance exists and requires the expeditious promulgation of a rule described in paragraph (1), the President may direct the Secretary to assume sole jurisdiction over the promulgation of such rule, and such rule shall be transmitted by the President to, and reviewed by, each House of Congress under section 757 or 760a 
+1
+ of title 15, and 
+section 6421 of this title
+.
+
+
+
+
+(d)
+ Matters involving agency determinations to be made on record after agency hearing
+The Commission shall have jurisdiction to hear and determine any other matter arising under any other function of the Secretary—
+(1)
+ involving any agency determination required by law to be made on the record after an opportunity for an agency hearing; or
+
+
+
+
+(2)
+ involving any other agency determination which the Secretary determines shall be made on the record after an opportunity for an agency hearing,
+
+
+
+
+
+except that nothing in this subsection shall require that functions under sections 6213 and 6214 
+1
+ of this title shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
+
+
+(e)
+ Matters assigned by Secretary after public notice and matters referred under 
+section 7174 of this title
+In addition to the other provisions of this section, the Commission shall have jurisdiction over any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to 
+section 7174 of this title
+.
+
+
+
+
+(f)
+ Limitation
+No function described in this section which regulates the exports or imports of natural gas or electricity shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
+
+
+
+
+(g)
+ Final agency action
+The decision of the Commission involving any function within its jurisdiction, other than action by it on a matter referred to it pursuant to 
+section 7174 of this title
+, shall be final agency action within the meaning of 
+section 704 of title 5
+ and shall not be subject to further review by the Secretary or any officer or employee of the Department.
+
+
+
+
+(h)
+ Rules, regulations, and statements of policy
+The Commission is authorized to prescribe rules, regulations, and statements of policy of general applicability with respect to any function under the jurisdiction of the Commission pursuant to this section.
+
+
+
+
+“(a)
+ 
+Establishment
+.—
+Not later than 1 year after the date of the enactment of this Act [
+Oct. 24, 1992
+], the Federal Energy Regulatory Commission shall issue a final rule which establishes a simplified and generally applicable ratemaking methodology for oil pipelines in accordance with section 1(5) of part I of the Interstate Commerce Act [former 
+49 U.S.C. 1(5)
+].
+
+
+“(b)
+ 
+Effective Date
+.—
+The final rule to be issued under subsection (a) may not take effect before the 365th day following the date of the issuance of the rule.
+
+
+“(a)
+ 
+Rulemaking
+.—
+Not later than 18 months after the date of the enactment of this Act [
+Oct. 24, 1992
+], the Commission shall issue a final rule to streamline procedures of the Commission relating to oil pipeline rates in order to avoid unnecessary regulatory costs and delays.
+
+
+“(b)
+ 
+Scope of Rulemaking
+.—
+Issues to be considered in the rulemaking proceeding to be conducted under subsection (a) shall include the following:
+“(1)
+ Identification of information to be filed with an oil pipeline tariff and the availability to the public of any analysis of such tariff filing performed by the Commission or its staff.
+
+
+
+
+“(2)
+ Qualification for standing (including definitions of economic interest) of parties who protest oil pipeline tariff filings or file complaints thereto.
+
+
+
+
+“(3)
+ The level of specificity required for a protest or complaint and guidelines for Commission action on the portion of the tariff or rate filing subject to protest or complaint.
+
+
+
+
+“(4)
+ An opportunity for the oil pipeline to file a response for the record to an initial protest or complaint.
+
+
+
+
+“(5)
+ Identification of specific circumstances under which Commission staff may initiate a protest.
+
+
+
+
+“(c)
+ 
+Additional Procedural Changes
+.—
+In conducting the rulemaking proceeding to carry out subsection (a), the Commission shall identify and transmit to Congress any other procedural changes relating to oil pipeline rates which the Commission determines are necessary to avoid unnecessary regulatory costs and delays and for which additional legislative authority may be necessary.
+
+
+“(d)
+ Withdrawal of Tariffs and Complaints.—
+“(1)
+ 
+Withdrawal of tariffs
+.—
+If an oil pipeline tariff which is filed under part I of the Interstate Commerce Act [former 
+49 U.S.C. 1
+ et seq.] and which is subject to investigation is withdrawn—
+“(A)
+ any proceeding with respect to such tariff shall be terminated;
+
+
+
+
+“(B)
+ the previous tariff rate shall be reinstated; and
+
+
+
+
+“(C)
+ any amounts collected under the withdrawn tariff rate which are in excess of the previous tariff rate shall be refunded.
+
+
+
+
+
+
+“(2)
+ 
+Withdrawal of complaints
+.—
+If a complaint which is filed under section 13 of the Interstate Commerce Act [former 
+49 U.S.C. 13
+] with respect to an oil pipeline tariff is withdrawn, any proceeding with respect to such complaint shall be terminated.
+
+
+
+
+“(e)
+ 
+Alternative Dispute Resolution
+.—
+To the maximum extent practicable, the Commission shall establish appropriate alternative dispute resolution procedures, including required negotiations and voluntary arbitration, early in an oil pipeline rate proceeding as a method preferable to adjudication in resolving disputes relating to the rate. Any proposed rates derived from implementation of such procedures shall be considered by the Commission on an expedited basis for approval.
+
+
+“(a)
+ 
+Rates Deemed Just and Reasonable
+.—
+Except as provided in subsection (b)—
+“(1)
+ any rate in effect for the 365-day period ending on the date of the enactment of this Act [
+Oct. 24, 1992
+] shall be deemed to be just and reasonable (within the meaning of section 1(5) of the Interstate Commerce Act [former 
+49 U.S.C. 1(5)
+]); and
+
+
+
+
+“(2)
+ any rate in effect on the 365th day preceding the date of such enactment shall be deemed to be just and reasonable (within the meaning of such section 1(5)) regardless of whether or not, with respect to such rate, a new rate has been filed with the Commission during such 365-day period;
+
+
+
+
+
+if the rate in effect, as described in paragraph (1) or (2), has not been subject to protest, investigation, or complaint during such 365-day period.
+
+
+“(b)
+ 
+Changed Circumstances
+.—
+No person may file a complaint under section 13 of the Interstate Commerce Act [former 
+49 U.S.C. 13
+] against a rate deemed to be just and reasonable under subsection (a) unless—
+“(1)
+ evidence is presented to the Commission which establishes that a substantial change has occurred after the date of the enactment of this Act [
+Oct. 24, 1992
+]—
+“(A)
+ in the economic circumstances of the oil pipeline which were a basis for the rate; or
+
+
+
+
+“(B)
+ in the nature of the services provided which were a basis for the rate; or
+
+
+
+
+
+
+“(2)
+ the person filing the complaint was under a contractual prohibition against the filing of a complaint which was in effect on the date of enactment of this Act and had been in effect prior to 
+January 1, 1991
+, provided that a complaint by a party bound by such prohibition is brought within 30 days after the expiration of such prohibition.
+
+
+
+
+
+If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 of the Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
+
+
+“(c)
+ 
+Limitation Regarding Unduly Discriminatory or Preferential Tariffs
+.—
+Nothing in this section shall prohibit any aggrieved person from filing a complaint under section 13 or section 15(l) of the Interstate Commerce Act [former 
+49 U.S.C. 13
+, 15(1)] challenging any tariff provision as unduly discriminatory or unduly preferential.
+
+
+ Initiation of rulemaking procedures before Commission
+(a)
+ Proposal of rules, regulations, and statements of policy of general applicability by Secretary and Commission
+The Secretary and the Commission are authorized to propose rules, regulations, and statements of policy of general applicability with respect to any function within the jurisdiction of the Commission under 
+section 7172 of this title
+.
+
+
+
+
+(b)
+ Consideration and final action on proposals of Secretary
+The Commission shall have exclusive jurisdiction with respect to any proposal made under subsection (a) of this section, and shall consider and take final action on any proposal made by the Secretary under such subsection in an expeditious manner in accordance with such reasonable time limits as may be set by the Secretary for the completion of action by the Commission on any such proposal.
+
+
+
+
+(c)
+ Utilization of rulemaking procedures for establishment of rates and charges under Federal Power Act and Natural Gas Act
+Any function described in 
+section 7172 of this title
+ which relates to the establishment of rates and charges under the Federal Power Act [
+16 U.S.C. 791a
+ et seq.] or the Natural Gas Act [
+15 U.S.C. 717
+ et seq.], may be conducted by rulemaking procedures. Except as provided in subsection (d) of this section, the procedures in such a rulemaking proceeding shall assure full consideration of the issues and an opportunity for interested persons to present their views.
+
+
+
+
+(d)
+ Submission of written questions by interested persons
+With respect to any rule or regulation promulgated by the Commission to establish rates and charges for the first sale of natural gas by a producer or gatherer to a natural gas pipeline under the Natural Gas Act [
+15 U.S.C. 717
+ et seq.], the Commission may afford any interested person a reasonable opportunity to submit written questions with respect to disputed issues of fact to other interested persons participating in the rulemaking proceedings. The Commission may establish a reasonable time for both the submission of questions and responses thereto.
+
+
+
+
+ Referral of other rulemaking proceedings to Commission
+(a)
+ Notification of Commission of proposed action; public comment
+Except as provided in 
+section 7173 of this title
+, whenever the Secretary proposes to prescribe rules, regulations, and statements of policy of general applicability in the exercise of any function which is transferred to the Secretary under 
+section 7151 of this title
+ or 
+section 60501 of title 49
+, he shall notify the Commission of the proposed action. If the Commission, in its discretion, determines within such period as the Secretary may prescribe, that the proposed action may significantly affect any function within the jurisdiction of the Commission pursuant to section 7172(a)(1) and (c)(1) of this title and 
+section 60502 of title 49
+, the Secretary shall immediately refer the matter to the Commission, which shall provide an opportunity for public comment.
+
+
+
+
+(b)
+ Recommendations of Commission; publication
+Following such opportunity for public comment the Commission, after consultation with the Secretary, shall either—
+(1)
+ concur in adoption of the rule or statement as proposed by the Secretary;
+
+
+
+
+(2)
+ concur in adoption of the rule or statement only with such changes as it may recommend; or
+
+
+
+
+(3)
+ recommend that the rule or statement not be adopted.
+
+
+
+
+
+The Commission shall promptly publish its recommendations, adopted under this subsection, along with an explanation of the reason for its actions and an analysis of the major comments, criticisms, and alternatives offered during the comment period.
+
+
+(c)
+ Options of Secretary; final agency action
+Following publication of the Commission’s recommendations the Secretary shall have the option of—
+(1)
+ issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1) of this section;
+
+
+
+
+(2)
+ issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2) of this section; or
+
+
+
+
+(3)
+ ordering that the rule shall not be issued.
+
+
+
+
+
+The action taken by the Secretary pursuant to this subsection shall constitute a final agency action for purposes of 
+section 704 of title 5
+.
+
+
+ Right of Secretary to intervene in Commission proceedings
+The Secretary may as a matter of right intervene or otherwise participate in any proceeding before the Commission. The Secretary shall comply with rules of procedure of general applicability governing the timing of intervention or participation in such proceeding or activity and, upon intervening or participating therein, shall comply with rules of procedure of general applicability governing the conduct thereof. The intervention or participation of the Secretary in any proceeding or activity shall not affect the obligation of the Commission to assure procedure fairness to all participants.
+ Reorganization
+For the purposes of chapter 9 of title 5 the Commission shall be deemed to be an independent regulatory agency.
+ Access to information
+(a)
+ The Secretary, each officer of the Department, and each Federal agency shall provide to the Commission, upon request, such existing information in the possession of the Department or other Federal agency as the Commission determines is necessary to carry out its responsibilities under this chapter.
+
+
+(b)
+ The Secretary, in formulating the information to be requested in the reports or investigations under section 825c and 
+section 825j of title 16
+ and section 717i and 
+section 717j of title 15
+ shall include in such reports and investigations such specific information as requested by the Federal Energy Regulatory Commission and copies of all reports, information, results of investigations and data under said sections shall be furnished by the Secretary to the Federal Energy Regulatory Commission.
+
+
+ Federal Energy Regulatory Commission fees and annual charges
+(a)
+ In general
+(1)
+ Except as provided in paragraph (2) and beginning in fiscal year 1987 and in each fiscal year thereafter, the Federal Energy Regulatory Commission shall, using the provisions of this section and authority provided by other laws, assess and collect fees and annual charges in any fiscal year in amounts equal to all of the costs incurred by the Commission in that fiscal year.
+
+
+
+
+(2)
+ The provisions of this section shall not affect the authority, requirements, exceptions, or limitations in sections 803(e) and 823a(e) of title 16.
+
+
+
+
+(b)
+ Basis for assessments
+The fees or annual charges assessed shall be computed on the basis of methods that the Commission determines, by rule, to be fair and equitable.
+
+
+
+
+(c)
+ Estimates
+The Commission may assess fees and charges under this section by making estimates based on data available to the Commission at the time of assessment.
+
+
+
+
+(d)
+ Time of payment
+The Commission shall provide that the fees and charges assessed under this section shall be paid by the end of the fiscal year for which they were assessed.
+
+
+
+
+(e)
+ Adjustments
+The Commission shall, after the completion of a fiscal year, make such adjustments in the assessments for such fiscal year as may be necessary to eliminate any overrecovery or underrecovery of its total costs, and any overcharging or undercharging of any person.
+
+
+
+
+(f)
+ Use of funds
+All moneys received under this section shall be credited to the general fund of the Treasury.
+
+
+
+
+(g)
+ Waiver
+The Commission may waive all or part of any fee or annual charge assessed under this section for good cause shown.
+
+
+
+
+ Procedures for issuance of rules, regulations, or orders
+(a)
+ Applicability of subchapter II of chapter 5 of title 5
+(1)
+ Subject to the other requirements of this subchapter, the provisions of subchapter II of chapter 5 of title 5 shall apply in accordance with its terms to any rule or regulation, or any order having the applicability and effect of a rule (as defined in 
+section 551(4) of title 5
+), issued pursuant to authority vested by law in, or transferred or delegated to, the Secretary, or required by this chapter or any other Act to be carried out by any other officer, employee, or component of the Department, other than the Commission, including any such rule, regulation, or order of a State, or local government agency or officer thereof, issued pursuant to authority delegated by the Secretary in accordance with this subchapter. If any provision of any Act, the functions of which are transferred, vested, or delegated pursuant to this chapter, provides administrative procedure requirements in addition to the requirements provided in this subchapter, such additional requirements shall also apply to actions under that provision.
+
+
+
+
+(2)
+ Notwithstanding paragraph (1), this subchapter shall apply to the Commission to the same extent this subchapter applies to the Secretary in the exercise of any of the Commission’s functions under 
+section 7172(c)(1) of this title
+ or which the Secretary has assigned under 
+section 7172(e) of this title
+.
+
+
+
+
+(b)
+ Substantial issue of fact or law or likelihood of substantial impact on Nation’s economy, etc.; oral presentation
+(1)
+ If the Secretary determines, on his own initiative or in response to any showing made pursuant to paragraph (2) (with respect to a proposed rule, regulation, or order described in subsection (a) of this section) that no substantial issue of fact or law exists and that such rule, regulation, or order is unlikely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses, such proposed rule, regulation, or order may be promulgated in accordance with 
+section 553 of title 5
+. If the Secretary determines that a substantial issue of fact or law exists or that such rule, regulation, or order is likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses, an opportunity for oral presentation of views, data, and arguments shall be provided.
+
+
+
+
+(2)
+ Any person, who would be adversely affected by the implementation of any proposed rule, regulation, or order who desires an opportunity for oral presentation of views, data, and arguments, may submit material supporting the existence of such substantial issues or such impact.
+
+
+
+
+(3)
+ A transcript shall be kept of any oral presentation with respect to a rule, regulation, or order described in subsection (a) of this section.
+
+
+
+
+(c)
+ Waiver of requirements
+The requirements of subsection (b) of this section may be waived where strict compliance is found by the Secretary to be likely to cause serious harm or injury to the public health, safety, or welfare, and such finding is set out in detail in such rule, regulation, or order. In the event the requirements of this section are waived, the requirements shall be satisfied within a reasonable period of time subsequent to the promulgation of such rule, regulation, or order.
+
+
+
+
+(d)
+ Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation
+(1)
+ With respect to any rule, regulation, or order described in subsection (a) of this section, the effects of which, except for indirect effects of an inconsequential nature, are confined to—
+(A)
+ a single unit of local government or the residents thereof;
+
+
+
+
+(B)
+ a single geographic area within a State or the residents thereof; or
+
+
+
+
+(C)
+ a single State or the residents thereof;
+
+
+
+
+
+the Secretary shall, in any case where appropriate, afford an opportunity for a hearing or the oral presentation of views, and provide procedures for the holding of such hearing or oral presentation within the boundaries of the unit of local government, geographic area, or State described in paragraphs (A) through (C) of this paragraph as the case may be.
+
+
+
+
+(2)
+ For the purposes of this subsection—
+(A)
+ the term “unit of local government” means a county, municipality, town, township, village, or other unit of general government below the State level; and
+
+
+
+
+(B)
+ the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
+
+
+
+
+
+
+(3)
+ Nothing in this subsection shall be construed as requiring a hearing or an oral presentation of views where none is required by this section or other provision of law.
+
+
+
+
+(e)
+ Prescription of procedures for State and local government agencies
+Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, and shall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
+
+
+
+
+ Judicial review
+(a)
+ Agency action
+Judicial review of agency action taken under any law the functions of which are vested by law in, or transferred or delegated to the Secretary, the Commission or any officer, employee, or component of the Department shall, notwithstanding such vesting, transfer, or delegation, be made in the manner specified in or for such law.
+
+
+
+
+(b)
+ Review by district court of United States; removal
+Notwithstanding the amount in controversy, the district courts of the United States shall have exclusive original jurisdiction of all other cases or controversies arising exclusively under this chapter, or under rules, regulations, or orders issued exclusively thereunder, other than any actions taken to implement or enforce any rule, regulation, or order by any officer of a State or local government agency under this chapter, except that nothing in this section affects the power of any court of competent jurisdiction to consider, hear, and determine in any proceeding before it any issue raised by way of defense (other than a defense based on the unconstitutionality of this chapter or the validity of action taken by any agency under this chapter). If in any such proceeding an issue by way of defense is raised based on the unconstitutionality of this chapter or the validity of agency action under this chapter, the case shall be subject to removal by either party to a district court of the United States in accordance with the applicable provisions of chapter 89 of title 28. Cases or controversies arising under any rule, regulation, or order of any officer of a State or local government agency may be heard in either (A) any appropriate State court, or (B) without regard to the amount in controversy, the district courts of the United States.
+
+
+
+
+(c)
+ Litigation supervision by Attorney General
+Subject to the provisions of 
+section 7171(i) of this title
+ and notwithstanding any other law, the litigation of the Department shall be subject to the supervision of the Attorney General pursuant to chapter 31 of title 28. The Attorney General may authorize any attorney of the Department to conduct any civil litigation of the Department in any Federal court except the Supreme Court.
+
+
+
+
+ Remedial orders
+(a)
+ Violations of rules, regulations, or orders promulgated pursuant to Emergency Petroleum Allocation Act of 1973
+If upon investigation the Secretary or his authorized representative believes that a person has violated any regulation, rule, or order described in 
+section 7191(a) of this title
+ promulgated pursuant to the Emergency Petroleum Allocation Act of 1973 
+1
+1
+ See References in Text note below.
+ [
+15 U.S.C. 751
+ et seq.], he may issue a remedial order to the person. Each remedial order shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of such rule, regulation, or order alleged to have been violated. For purposes of this section “person” includes any individual, association, company, corporation, partnership, or other entity however organized.
+
+
+
+
+(b)
+ Notice of intent to contest; final order not subject to review
+If within thirty days after the receipt of the remedial order issued by the Secretary, the person fails to notify the Secretary that he intends to contest the remedial order, the remedial order shall become effective and shall be deemed a final order of the Secretary and not subject to review by any court or agency.
+
+
+
+
+(c)
+ Notice of contestation to Commission; stay; hearing; cross examination; final order; enforcement and review
+If within thirty days after the receipt of the remedial order issued by the Secretary, the person notifies the Secretary that he intends to contest a remedial order issued under subsection (a) of this section, the Secretary shall immediately advise the Commission of such notification. Upon such notice, the Commission shall stay the effect of the remedial order, unless the Commission finds the public interest requires immediate compliance with such remedial order. The Commission shall, upon request, afford an opportunity for a hearing, including, at a minimum, the submission of briefs, oral or documentary evidence, and oral arguments. To the extent that the Commission in its discretion determines that such is required for a full and true disclosure of the facts, the Commission shall afford the right of cross examination. The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s remedial order, or directing other appropriate relief, and such order shall, for the purpose of judicial review, constitute a final agency action, except that enforcement and other judicial review of such action shall be the responsibility of the Secretary.
+
+
+
+
+(d)
+ Time limits
+The Secretary may set reasonable time limits for the Commission to complete action on a proceeding referred to it pursuant to this section.
+
+
+
+
+(e)
+ Effect on procedural action taken by Secretary prior to issuance of initial remedial order
+Nothing in preceding provisions of this section shall be construed to affect any procedural action taken by the Secretary prior to or incident to initial issuance of a remedial order which is the subject of the hearing provided in preceding provisions of this section, but such procedures shall be reviewable in the hearing.
+
+
+
+
+(f)
+ Savings provision
+The provisions of preceding provisions of this section shall be applicable only with respect to proceedings initiated by a notice of probable violation issued after 
+October 1, 1977
+.
+
+
+
+
+(g)
+ Retroactive application; marketing of petroleum products
+With respect to any person whose sole petroleum industry operation relates to the marketing of petroleum products, the Secretary or any person acting on his behalf may not exercise discretion to maintain a civil action (other than an action for injunctive relief) or issue a remedial order against such person for any violation of any rule or regulation if—
+(1)
+ such civil action or order is based on a retroactive application of such rule or regulation or is based upon a retroactive interpretation of such rule or regulation; and
+
+
+
+
+(2)
+ such person relied in good faith upon rules, regulations, or ruling in effect on the date of the violation interpreting such rules or regulations.
+
+
+
+
+ Requests for adjustments
+(a)
+ The Secretary or any officer designated by him shall provide for the making of such adjustments to any rule, regulation or order described in 
+section 7191(a) of this title
+ issued under the Federal Energy Administration Act [
+15 U.S.C. 761
+ et seq.], the Emergency Petroleum Allocation Act of 1973 
+1
+1
+ See References in Text note below.
+ [
+15 U.S.C. 751
+ et seq.], the Energy Supply and Environmental Coordination Act of 1974 [
+15 U.S.C. 791
+ et seq.], or the Energy Policy and Conservation Act [
+42 U.S.C. 6201
+ et seq.], consistent with the other purposes of the relevant Act, as may be necessary to prevent special hardship, inequity, or unfair distribution of burdens, and shall by rule, establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or recission 
+2
+2
+ So in original. Probably should be “recision”.
+ of, exception to, or exemption from, such rule, regulation or order. The Secretary or any such officer shall additionally insure that each decision on any application or petition requesting an adjustment shall specify the standards of hardship, inequity, or unfair distribution of burden by which any disposition was made, and the specific application of such standards to the facts contained in any such application or petition.
+
+
+(b)
+(1)
+ If any person is aggrieved or adversely affected by a denial of a request for adjustment under subsection (a) of this section such person may request a review of such denial by the Commission and may obtain judicial review in accordance with this subchapter when such a denial becomes final.
+
+
+
+
+(2)
+ The Commission shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial. Action by the Commission under this section shall be considered final agency action within the meaning of 
+section 704 of title 5
+ and shall not be subject to further review by the Secretary or any officer or employee of the Department. Litigation involving judicial review of such action shall be the responsibility of the Secretary.
+
+
+
+
+ Report to Congress; contents
+Within one year after 
+ Transfer and allocations of appropriations and personnel
+(a)
+ Except as otherwise provided in this chapter, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations authorizations, allocations, and other funds employed, held, used, arising from, available to or to be made available in connection with the functions transferred by this chapter, subject to 
+section 1531 of title 31
+, are hereby transferred to the Secretary for appropriate allocation. Unexpended funds transferred pursuant to this subsection shall only be used for the purposes for which the funds were originally authorized and appropriated.
+
+
+(b)
+ Positions expressly specified by statute or reorganization plan to carry out function 
+1
+1
+ So in original. Probably should be “functions”.
+ transferred by this chapter, personnel occupying those positions on 
+October 1, 1977
+, and personnel authorized to receive compensation in such positions at the rate prescribed for offices and positions at level I, II, III, IV, or V of the executive schedule (
+5 U.S.C. 5312–531
+6) on 
+October 1, 1977
+, shall be subject to the provisions of 
+section 7293 of this title
+.
+
+
+ Effect on personnel
+(a)
+ Full-time and part-time personnel holding permanent positions
+Except as otherwise provided in this chapter, the transfer pursuant to this subchapter of full-time personnel (except special Government employees) and part-time personnel holding permanent positions pursuant to this subchapter shall not cause any such employee to be separated or reduced in grade or compensation for one year after 
+August 4, 1977
+, except that full-time temporary personnel employed at the Energy Research Centers of the Energy Research and Development Administration upon the establishment of the Department who are determined by the Department to be performing continuing functions may at the employee’s option be converted to permanent full-time status within one hundred and twenty days following their transfer to the Department. The employment levels of full-time permanent personnel authorized for the Department by other law or administrative action shall be increased by the number of employees who exercise the option to be so converted.
+
+
+
+
+(b)
+ Person who held position compensated in accordance with chapter 53 of title 5
+Any person who, on 
+October 1, 1977
+, held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, and who, without a break in service, is appointed in the Department to a position having duties comparable to those performed immediately preceding his appointment shall continue to be compensated in his new position at not less than the rate provided for his previous position, for the duration of his service in the new position.
+
+
+
+
+(c)
+ Employees holding reemployment rights acquired under 
+section 786 of title 15
+Employees transferred to the Department holding reemployment rights acquired under 
+section 786 of title 15
+ 
+1
+1
+ See References in Text note below.
+ or any other provision of law or regulation may exercise such rights only within one hundred twenty days from 
+October 1, 1977
+, or within two years of acquiring such rights, whichever is later. Reemployment rights may only be exercised at the request of the employee.
+
+
+
+
+ Agency terminations
+Except as otherwise provided in this chapter, whenever all of the functions vested by law in any agency, commission, or other body, or any component thereof, have been terminated or transferred from that agency, commission, or other body, or component by this chapter, the agency, commission, or other body, or component, shall terminate. If an agency, commission, or other body, or any component thereof, terminates pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rates prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (
+ Incidental transfers
+The Director of the Office of Management and Budget, in consultation with the Secretary and the Commission, is authorized and directed to make such determinations as may be necessary with regard to the transfer of functions which relate to or are utilized by an agency, commission or other body, or component thereof affected by this chapter, to make such additional incidental dispositions of personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to or to be made available in connection with the functions transferred by this chapter, as he may deem necessary to accomplish the purposes of this chapter.
+ Savings provisions
+(a)
+ Orders, determinations, rules, etc., in effect prior to effective date of this chapter
+All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—
+(1)
+ which have been issued, made, granted, or allowed to become effective by the President, any Federal department or agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this chapter to the Department or the Commission after 
+August 4, 1977
+, and
+
+
+
+
+(2)
+ which are in effect on 
+October 1, 1977
+,
+
+
+
+
+
+shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, the Federal Energy Regulatory Commission, or other authorized officials, a court of competent jurisdiction, or by operation of law.
+
+
+(b)
+ Proceedings or applications for licenses, permits, etc., pending at effective date of this chapter; regulations
+(1)
+ The provisions of this chapter shall not affect any proceedings or any application for any license, permit, certificate, or financial assistance pending on 
+October 1, 1977
+, before any department, agency, commission, or component thereof, functions of which are transferred by this chapter; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this chapter had not been enacted.
+
+
+
+
+(2)
+ The Secretary and the Commission are authorized to promulgate regulations providing for the orderly transfer of such proceedings to the Department or the Commission.
+
+
+
+
+(c)
+ Suits commenced prior to effective date of this chapter
+Except as provided in subsection (e) of this section—
+(1)
+ the provisions of this chapter shall not affect suits commenced prior to 
+October 1, 1977
+, and
+
+
+
+
+(2)
+ in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this chapter had not been enacted.
+
+
+
+
+(d)
+ Suits, actions, etc., commenced by or against any officer or agency or cause of action by or against any department or agency
+No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this chapter.
+
+
+
+
+(e)
+ Suits with officers, departments, or agencies as parties
+If, before 
+October 1, 1977
+, any department or agency, or officer thereof in his official capacity, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official, then such suit shall be continued with the Secretary or other official, as the case may be, substituted.
+
+
+
+
+ Separability
+If any provision of this chapter or the application thereof to any person or circumstance is held invalid, neither the remainder of this chapter nor the application of such provision to other persons or circumstances shall be affected thereby.
+ Cross references
+With respect to any functions transferred by this chapter and exercised after 
+ Presidential authority
+Except as provided in subchapter IV of this chapter, nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of, or authority available to, the President which he had immediately before 
+ Transition
+With the consent of the appropriate department or agency head concerned, the Secretary is authorized to utilize the services of such officers, employees, and other personnel of the departments and agencies from which functions have been transferred to the Secretary for such period of time as may reasonably be needed to facilitate the orderly transfer of functions under this chapter.
+ Report to Congress; effect on personnel
+ Environmental impact statements
+The transfer of functions under subchapters III and IV of this chapter shall not affect the validity of any draft environmental impact statement published before 
+ National Energy Policy Plan
+(a)
+ Preparation by President and submission to Congress; formulation and review
+The President shall—
+(1)
+ prepare and submit to the Congress a proposed National Energy Policy Plan (hereinafter in this subchapter referred to as a “proposed Plan”) as provided in subsection (b) of this section;
+
+
+
+
+(2)
+ seek the active participation by regional, State, and local agencies and instrumentalities and the private sector through public hearings in cities and rural communities and other appropriate means to insure that the views and proposals of all segments of the economy are taken into account in the formulation and review of such proposed Plan;
+
+
+
+
+(3)
+ include within the proposed Plan a comprehensive summary of data pertaining to all fuel and energy needs of persons residing in—
+(A)
+ areas outside standard metropolitan statistical areas; and
+
+
+
+
+(B)
+ areas within standard metropolitan statistical areas which are unincorporated or are specified by the Bureau of the Census, Department of Commerce, as rural areas.
+
+
+
+
+
+
+(b)
+ Biennial transmittal to Congress; contents
+Not later than 
+April 1, 1979
+, and biennially thereafter, the President shall transmit to the Congress the proposed Plan. Such proposed Plan shall—
+(1)
+ consider and establish energy production, utilization, and conservation objectives, for periods of five and ten years, necessary to satisfy projected energy needs of the United States to meet the requirements of the general welfare of the people of the United States and the commercial and industrial life of the Nation, paying particular attention to the needs for full employment, price stability, energy security, economic growth, environmental protection, nuclear non-proliferation, special regional needs, and the efficient utilization of public and private resources;
+
+
+
+
+(2)
+ identify the strategies that should be followed and the resources that should be committed to achieve such objectives, forecasting the level of production and investment necessary in each of the significant energy supply sectors and the level of conservation and investment necessary in each consuming sector, and outlining the appropriate policies and actions of the Federal Government that will maximize the private production and investment necessary in each of the significant energy supply sectors consistent with applicable Federal, State, and local environmental laws, standards, and requirements; and
+
+
+
+
+(3)
+ recommend legislative and administrative actions necessary and desirable to achieve the objectives of such proposed Plan, including legislative recommendations with respect to taxes or tax incentives, Federal funding, regulatory actions, antitrust policy, foreign policy, and international trade.
+
+
+
+
+(c)
+ Submission of report to Congress; contents
+The President shall submit to the Congress with the proposed Plan a report which shall include—
+(1)
+ whatever data and analysis are necessary to support the objectives, resource needs, and policy recommendations contained in such proposed Plan;
+
+
+
+
+(2)
+ an estimate of the domestic and foreign energy supplies on which the United States will be expected to rely to meet projected energy needs in an economic manner consistent with the need to protect the environment, conserve natural resources, and implement foreign policy objectives;
+
+
+
+
+(3)
+ an evaluation of current and foreseeable trends in the price, quality, management, and utilization of energy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
+
+
+
+
+(4)
+ a summary of research and development efforts funded by the Federal Government to forestall energy shortages, to reduce waste, to foster recycling, to encourage conservation practices, and to otherwise protect environmental quality, including recommendations for developing technologies to accomplish such purposes; and
+
+
+
+
+(5)
+ a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal, State, and local governments and nongov­ernmental entities to achieve the purposes of the Plan.
+
+
+
+
+(d)
+ Consultation with consumers, small businesses, etc.
+The President shall insure that consumers, small businesses, and a wide range of other interests, including those of individual citizens who have no financial interest in the energy industry, are consulted in the development of the Plan.
+
+
+
+
+ Congressional review
+(a)
+ Each proposed Plan shall be referred to the appropriate committees in the Senate and the House of Representatives.
+
+
+(b)
+ Each such committee shall review the proposed Plan and, if it deems appropriate and necessary, report to the Senate or the House of Representatives legislation regarding such Plan which may contain such alternatives to, modifications of, or additions to the proposed Plan submitted by the President as the committee deems appropriate.
+
+
+ Effective date
+The provisions of this chapter shall take effect one hundred and twenty days after the Secretary first takes office, or on such earlier date as the President may prescribe and publish in the Federal Register, except that at any time after 
+ Interim appointments
+In the event that one or more officers required by this chapter to be appointed by and with the advice and consent of the Senate shall not have entered upon office on 
+ Submission of comprehensive review
+Not later than 
+ Contents of review
+ Repealed. 
+ Statement of purpose
+The purpose of this subchapter is to establish incentives for the use of renewable energy resources, to improve and coordinate the dissemination of information to the public with respect to renewable energy resources, to encourage the use of certain cost effective solar energy systems and conservation measures by the Federal Government, to establish a program for the promotion of local energy self-sufficiency, to broaden the existing program for accelerating the procurement and use of photovoltaic systems, and to provide further encouragement for the development of small hydroelectric power projects.
+ “Secretary” and “renewable energy resource” defined
+ Coordinated dissemination of information on renewable energy resources and conservation
+ Energy self-sufficiency initiatives
+(a)
+ Establishment of 3-year pilot program
+There is hereby established under the direction of the Secretary a 3-year pilot energy self-sufficiency program to demonstrate energy self-sufficiency through the use of renewable energy resources in one or more States in the United States.
+
+
+
+
+(b)
+ Establishment of subprograms to pilot programs; scope of subprograms
+As a part of the pilot program, the Secretary shall establish such subprograms as the Secretary determines are necessary to achieve the purpose of this section, including subprograms—
+(1)
+ to promote the development and utilization of synergistic combinations of different renewable energy resources in specific projects aimed at reducing fossil fuel importation;
+
+
+
+
+(2)
+ to initiate and encourage energy self-sufficiency at appropriate levels of government;
+
+
+
+
+(3)
+ to stimulate private industry participation in the realization of the objective stated in subsection (a) of this section; and
+
+
+
+
+(4)
+ to stimulate the utilization of abandoned or underutilized industrial facilities for the generation of energy from any locally available renewable resource, such as municipal solid waste, agricultural waste, or forest products waste.
+
+
+
+
+(c)
+ Implementation of subprograms; preparation of plan of program and additional Federal actions
+In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b) of this section. In addition, the Secretary shall prepare a detailed plan within one hundred eighty days of 
+June 30, 1980
+, setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
+
+
+
+
+(d)
+ Submission of plan and implementation report to Congress
+The Secretary shall submit to the Congress, within one year after 
+June 30, 1980
+, the plan prepared under the second sentence of subsection (c) of this section along with a report suggesting the legislative initiatives needed to fully implement such plan.
+
+
+
+
+ Authorization of appropriations
+(a)
+ There is authorized to be appropriated for each of the fiscal years 1981 and 1982 not to exceed $10,000,000 for loans under section 402 of the Public Utility Regulatory Policies Act of 1978 [
+16 U.S.C. 2702
+], in addition to any amounts authorized for such loans by that Act; and the amounts appropriated pursuant to this subsection shall remain available until expended.
+
+
+(b)
+ There is authorized to be appropriated for each of the fiscal years 1981 and 1982 not to exceed $100,000,000 for loans under section 403 of the Public Utility Regulatory Policies Act of 1978 [
+16 U.S.C. 2703
+]; and the amounts appropriated pursuant to this subsection shall remain available until expended.
+
+
+(c)
+ There is authorized to be appropriated for the fiscal year 1981 not to exceed $10,000,000 to carry out 
+section 7374 of this title
+ (relating to energy self-sufficiency initiatives).
+
+
+ Findings and purposes
+(a)
+ Findings
+The Congress finds the following:
+(1)
+ Scientific, technical, and engineering competence is essential to the Nation’s future well-being.
+
+
+
+
+(2)
+ The scientific, technical, and engineering capability at the Federal laboratories is unmatched throughout the world.
+
+
+
+
+(3)
+ Superb research, development, testing, and evaluation occur in Department of Energy research and development facilities.
+
+
+
+
+(4)
+ Department of Energy research and development facilities will play an increasing role in assuring that the United States remains competitive in world markets.
+
+
+
+
+(5)
+ Improvements in mathematics, science, and engineering education are needed desperately to provide the trained and educated citizenry essential to the future competitiveness of the United States.
+
+
+
+
+(6)
+ The future health and vitality of the economy of the United States is predicated on the availability of an adequate supply of scientists, mathematicians, and engineers to provide for growing needs and to replenish the workforce.
+
+
+
+
+(7)
+ United States college and university enrollment in science, mathematics, and engineering programs is sharply declining at undergraduate, graduate, and post-graduate levels.
+
+
+
+
+(8)
+ The Federal Government is the largest United States employer of research scientists, mathematicians, and engineers, and the Department of Energy has a growing need for scientists, mathematicians, and engineers at a time when these enrollments are declining.
+
+
+
+
+(9)
+ Women and minorities are grossly underrepresented in science and mathematics fields, and this group represents more than 80 percent of the projected increase in the national workforce through the year 2000.
+
+
+
+
+(b)
+ Purposes
+The purposes of this subchapter are—
+(1)
+ to encourage the development and implementation of science, mathematics, and engineering education programs at the Department of Energy and at its research and development facilities as part of a national effort to improve science, mathematics, and engineering education; and
+
+
+
+
+(2)
+ to provide more efficient coordination among science, mathematics, and engineering education programs.
+
+
+
+
+ Findings
+ Purpose; designation
+(a)
+ Purpose
+The purpose of this subchapter is to establish within the Department of Energy a national fellowship program for elementary and secondary school mathematics and science teachers.
+
+
+
+
+(b)
+ Designation
+A recipient of a fellowship under this subchapter shall be known as an “Albert Einstein Fellow”.
+
+
+
+
+ Definitions
+ Fellowship Program
+(a)
+ In general
+(1)
+ Establishment
+The Secretary shall establish the Albert Einstein Distinguished Educator Fellowship Program (hereafter in this subchapter referred to as the “Program”) to provide 12 elementary or secondary school mathematics or science teachers with fellowships in each fiscal year in accordance with this subchapter.
+
+
+
+
+
+
+(2)
+ Order of priority
+The Secretary may reduce the number of fellowships awarded under this subchapter for any fiscal year in which the amount appropriated for the Program is insufficient to support 12 fellowships. If the number of fellowships awarded under this subchapter is reduced for any fiscal year, then the Secretary shall award fellowships based on the following order of priority:
+(A)
+ Three fellowships in the Department of Energy.
+
+
+
+
+(B)
+ Two fellowships in the Senate.
+
+
+
+
+(C)
+ Two fellowships in the House of Representatives.
+
+
+
+
+(D)
+ One fellowship in each of the following entities:
+(i)
+ The Department of Education.
+
+
+
+
+(ii)
+ The National Institutes of Health.
+
+
+
+
+(iii)
+ The National Science Foundation.
+
+
+
+
+(iv)
+ The National Aeronautics and Space Administration.
+
+
+
+
+(v)
+ The Office of Science and Technology Policy.
+
+
+
+
+
+
+
+
+(3)
+ Terms of fellowships
+Each fellowship awarded under this subchapter shall be awarded for a period of ten months that, to the extent practicable, coincide with the academic year.
+
+
+
+
+
+
+(4)
+ Eligibility
+To be eligible for a fellowship under this subchapter, an elementary or secondary school mathematics or science teacher must demonstrate—
+(A)
+ that such teacher would bring unique and valuable contributions to the Program;
+
+
+
+
+(B)
+ that such teacher is recognized for excellence in mathematics or science education; and
+
+
+
+
+(C)
+(i)
+ a sabbatical leave from teaching will be granted in order to participate in the Program; or
+
+
+
+
+(ii)
+ the teacher will return to a teaching position comparable to the position held prior to participating in the Program.
+
+
+
+
+
+
+
+
+(b)
+ Administration
+The Secretary shall—
+(1)
+ provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c) of this section;
+
+
+
+
+(2)
+ provide for the publication of information on the Program in appropriate professional publications, including an invitation for applications from teachers listed in the directories of national and State recognition programs;
+
+
+
+
+(3)
+ select from the pool of applicants 12 elementary and secondary school mathematics teachers and 12 elementary and secondary school science teachers;
+
+
+
+
+(4)
+ develop a program of orientation for fellowship recipients under this subchapter; and
+
+
+
+
+(5)
+ not later than August 31 of each year in which fellowships are awarded, prepare and submit an annual report and evaluation of the Program to the appropriate Committees of the Senate and the House of Representatives.
+
+
+
+
+(c)
+ Selection
+(1)
+ In general
+The Secretary shall arrange for the 24 semifinalists to travel to Washington, D.C., to participate in interviews in accordance with the selection process described in paragraph (2).
+
+
+
+
+
+
+(2)
+ Final selection
+(A)
+ Not later than May 1 of each year preceding each year in which fellowships are to be awarded, the Secretary shall select and announce the names of the fellowship recipients.
+
+
+
+
+(B)
+ The Secretary shall provide for the development and administration of a process to select fellowship recipients from the pool of semifinalists as follows:
+(i)
+ The Secretary shall select three fellowship recipients who shall be assigned to the Department of Energy.
+
+
+
+
+(ii)
+ The Majority Leader of the Senate and the Minority Leader of the Senate, or their designees, shall each select a fellowship recipient who shall be assigned to the Senate.
+
+
+
+
+(iii)
+ The Speaker of the House of Representatives and the Minority Leader of the House of Representatives, or their designees, shall each select a fellowship recipient who shall be assigned to the House of Representatives.
+
+
+
+
+(iv)
+ Each of the following individuals, or their designees, shall select one fellowship recipient who shall be assigned within the department, office, agency, or institute such individual administers:
+(I)
+ The Secretary of Education.
+
+
+
+
+(II)
+ The Director of the National Institutes of Health.
+
+
+
+
+(III)
+ The Director of the National Science Foundation.
+
+
+
+
+(IV)
+ The Administrator of the National Aeronautics and Space Administration.
+
+
+
+
+(V)
+ The Director of the Office of Science and Technology Policy.
+
+
+
+
+
+
+
+
+
+
+ Fellowship awards
+(a)
+ Fellowship recipient compensation
+Each recipient of a fellowship under this subchapter shall be paid during the fellowship period at a rate of pay that shall not exceed the minimum annual rate payable for a position under GS–13 of the General Schedule.
+
+
+
+
+(b)
+ Local educational agency
+The Secretary shall seek to ensure that no local educational agency penalizes a teacher who elects to participate in the Program.
+
+
+
+
+ Waste management education research consortium (WERC)
+(a)
+ 
+1
+1
+ So in original. No subsec. (b) has been enacted.
+ In general
+The Secretary is authorized to establish a partnership of Department of Energy laboratories, academic institutions, and private sector industries to conduct environmentally-related education programs, including programs involving environmentally conscious manufacturing and waste management activities that have undergraduate and graduate educational training as a component.
+
+
+
+
+ Authorization of appropriations
+(a)
+ In general
+There are authorized to be appropriated for the Program $700,000 for fiscal year 1995, and such sums as may be necessary for each of the four succeeding fiscal years.
+
+
+
+
+(b)
+ WERC program
+There are authorized to be appropriated for the WERC program under 
+section 7382e of this title
+ such sums as may be necessary for fiscal year 1995 and each of the four succeeding fiscal years.
+
+
+
+
+ Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities
+(a)
+ Establishment
+There is hereby established a commission to be known as the Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities (in this section referred to as the “Commission”).
+
+
+
+
+(b)
+ Membership and organization
+(1)
+ The Commission shall be composed of nine members appointed from among individuals in the public and private sectors who have significant experience in matters related to the security of nuclear weapons and materials, the classification of information, or counterintelligence matters, as follows:
+(A)
+ Two shall be appointed by the chairman of the Committee on Armed Services of the Senate, in consultation with the ranking member of that Committee.
+
+
+
+
+(B)
+ One shall be appointed by the ranking member of the Committee on Armed Services of the Senate, in consultation with the chairman of that Committee.
+
+
+
+
+(C)
+ Two shall be appointed by the chairman of the Committee on Armed Services of the House of Representatives, in consultation with the ranking member of that Committee.
+
+
+
+
+(D)
+ One shall be appointed by the ranking member of the Committee on Armed Services of the House of Representatives, in consultation with the chairman of that Committee.
+
+
+
+
+(E)
+ One shall be appointed by the Secretary of Defense.
+
+
+
+
+(F)
+ One shall be appointed by the Director of the Federal Bureau of Investigation.
+
+
+
+
+(G)
+ One shall be appointed by the Director of Central Intelligence.
+
+
+
+
+
+
+(2)
+ Members of the Commission shall be appointed for four year terms, except as follows:
+(A)
+ One member initially appointed under paragraph (1)(A) shall serve a term of two years, to be designated at the time of appointment.
+
+
+
+
+(B)
+ One member initially appointed under paragraph (1)(C) shall serve a term of two years, to be designated at the time of appointment.
+
+
+
+
+(C)
+ The member initially appointed under paragraph (1)(E) shall serve a term of two years.
+
+
+
+
+
+
+(3)
+ Any vacancy in the Commission shall be filled in the same manner as the original appointment and shall not affect the powers of the Commission.
+
+
+
+
+(4)
+(A)
+ After five members of the Commission have been appointed under paragraph (1), the chairman of the Committee on Armed Services of the Senate, in consultation with the chairman of the Committee on Armed Services of the House of Representatives, shall designate the chairman of the Commission from among the members appointed under paragraph (1)(A).
+
+
+
+
+(B)
+ The chairman of the Commission may be designated once five members of the Commission have been appointed under paragraph (1).
+
+
+
+
+
+
+(5)
+ The initial members of the Commission shall be appointed not later than 60 days after 
+October 5, 1999
+.
+
+
+
+
+(6)
+ The members of the Commission shall establish procedures for the activities of the Commission, including procedures for calling meetings, requirements for quorums, and the manner of taking votes.
+
+
+
+
+(7)
+ The Commission shall meet not less often than once every three months.
+
+
+
+
+(8)
+ The Commission may commence its activities under this section upon the designation of the chairman of the Commission under paragraph (4).
+
+
+
+
+(c)
+ Duties
+(1)
+ The Commission shall, in accordance with this section, review the safeguards, security, and counterintelligence activities (including activities relating to information management, computer security, and personnel security) at Department of Energy facilities to—
+(A)
+ determine the adequacy of those activities to ensure the security of sensitive information, processes, and activities under the jurisdiction of the Department against threats to the disclosure of such information, processes, and activities; and
+
+
+
+
+(B)
+ make recommendations for actions the Commission determines as being necessary to ensure that such security is achieved and maintained.
+
+
+
+
+
+
+(2)
+ The activities of the Commission under paragraph (1) shall include the following:
+(A)
+ An analysis of the sufficiency of the Design Threat Basis documents as a basis for the allocation of resources for safeguards, security, and counterintelligence activities at the Department facilities in light of applicable guidance with respect to such activities, including applicable laws, Department of Energy orders, Presidential Decision Directives, and Executive orders.
+
+
+
+
+(B)
+ Visits to Department facilities to assess the adequacy of the safeguards, security, and counterintelligence activities at such facilities.
+
+
+
+
+(C)
+ Evaluations of specific concerns set forth in Department reports regarding the status of safeguards, security, or counterintelligence activities at particular Department facilities or at facilities throughout the Department.
+
+
+
+
+(D)
+ Reviews of relevant laws, Department orders, and other requirements relating to safeguards, security, and counterintelligence activities at Department facilities.
+
+
+
+
+(E)
+ Any other activities relating to safeguards, security, and counterintelligence activities at Department facilities that the Secretary of Energy considers appropriate.
+
+
+
+
+
+
+(d)
+ Reports
+(1)
+ Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission during the preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
+
+
+
+
+(2)
+ Each report—
+(A)
+ shall describe the activities of the Commission during the year covered by the report;
+
+
+
+
+(B)
+ shall set forth proposals for any changes in safeguards, security, or counterintelligence activities at Department of Energy facilities that the Commission considers appropriate in light of such activities; and
+
+
+
+
+(C)
+ may include any other recommendations for legislation or administrative action that the Commission considers appropriate.
+
+
+
+
+
+
+(e)
+ Personnel matters
+(1)
+(A)
+ Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under 
+section 5316 of title 5
+ for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission.
+
+
+
+
+(B)
+ All members of the Commission who are officers or employees of the United States shall serve without compensation by reason of their service on the Commission.
+
+
+
+
+
+
+(2)
+ The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
+
+
+
+
+(3)
+(A)
+ The Commission may, without regard to the civil service laws and regulations, appoint and terminate such personnel as may be necessary to enable the Commission to perform its duties.
+
+
+
+
+(B)
+ The Commission may fix the compensation of the personnel of the Commission without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
+
+
+
+
+
+
+(4)
+ Any officer or employee of the United States may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+
+
+
+(5)
+ The members and employees of the Commission shall hold security clearances appropriate for the matters considered by the Commission in the discharge of its duties under this section.
+
+
+
+
+(f)
+ Applicability of FACA
+The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission.
+
+
+
+
+(g)
+ Funding
+(1)
+ From amounts authorized to be appropriated by sections 3101 and 3103, the Secretary of Energy shall make available to the Commission not more than $1,000,000 for the activities of the Commission under this section.
+
+
+
+
+(2)
+ Amounts made available to the Commission under this subsection shall remain available until expended.
+
+
+
+
+ Transferred
+ Annual report by the President on espionage by the People’s Republic of China
+(a)
+ Annual report required
+The President shall transmit to Congress an annual report on the steps being taken by the Department of Energy, the Department of Defense, the Federal Bureau of Investigation, the Central Intelligence Agency, and all other relevant executive departments and agencies to respond to espionage and other intelligence activities by the People’s Republic of China, particularly with respect to—
+(1)
+ the theft of sophisticated United States nuclear weapons design information; and
+
+
+
+
+(2)
+ the targeting by the People’s Republic of China of United States nuclear weapons codes and other national security information of strategic concern.
+
+
+
+
+(b)
+ Initial report
+The first report under this section shall be transmitted not later than 
+March 1, 2000
+.
+
+
+
+
+ Transferred
+ Definitions of national laboratory and nuclear weapons production facility
+ Definition of Restricted Data
+In this subchapter, the term “Restricted Data” has the meaning given that term in 
+ Findings; sense of Congress
+(a)
+ Findings
+The Congress finds the following:
+(1)
+ Since World War II, Federal nuclear activities have been explicitly recognized under Federal law as activities that are ultra-hazardous. Nuclear weapons production and testing have involved unique dangers, including potential catastrophic nuclear accidents that private insurance carriers have not covered and recurring exposures to radioactive substances and beryllium that, even in small amounts, can cause medical harm.
+
+
+
+
+(2)
+ Since the inception of the nuclear weapons program and for several decades afterwards, a large number of nuclear weapons workers at sites of the Department of Energy and at sites of vendors who supplied the Cold War effort were put at risk without their knowledge and consent for reasons that, documents reveal, were driven by fears of adverse publicity, liability, and employee demands for hazardous duty pay.
+
+
+
+
+(3)
+ Many previously secret records have documented unmonitored exposures to radiation and beryllium and continuing problems at these sites across the Nation, at which the Department of Energy and its predecessor agencies have been, since World War II, self-regulating with respect to nuclear safety and occupational safety and health. No other hazardous Federal activity has been permitted to be carried out under such sweeping powers of self-regulation.
+
+
+
+
+(4)
+ The policy of the Department of Energy has been to litigate occupational illness claims, which has deterred workers from filing workers’ compensation claims and has imposed major financial burdens for such employees who have sought compensation. Contractors of the Department have been held harmless and the employees have been denied workers’ compensation coverage for occupational disease.
+
+
+
+
+(5)
+ Over the past 20 years, more than two dozen scientific findings have emerged that indicate that certain of such employees are experiencing increased risks of dying from cancer and non-malignant diseases. Several of these studies have also established a correlation between excess diseases and exposure to radiation and beryllium.
+
+
+
+
+(6)
+ While linking exposure to occupational hazards with the development of occupational disease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
+
+
+
+
+(7)
+ Existing information indicates that State workers’ compensation programs do not provide a uniform means of ensuring adequate compensation for the types of occupational illnesses and diseases that relate to the employees at those sites.
+
+
+
+
+(8)
+ To ensure fairness and equity, the civilian men and women who, over the past 50 years, have performed duties uniquely related to the nuclear weapons production and testing programs of the Department of Energy and its predecessor agencies should have efficient, uniform, and adequate compensation for beryllium-related health conditions and radiation-related health conditions.
+
+
+
+
+(9)
+ On 
+April 12, 2000
+, the Secretary of Energy announced that the Administration intended to seek compensation for individuals with a broad range of work-related illnesses throughout the Department of Energy’s nuclear weapons complex.
+
+
+
+
+(10)
+ However, as of 
+October 2, 2000
+, the Administration has failed to provide Congress with the necessary legislative and budget proposals to enact the promised compensation program.
+
+
+
+
+(b)
+ Sense of Congress
+It is the sense of Congress that—
+(1)
+ a program should be established to provide compensation to covered employees;
+
+
+
+
+(2)
+ a fund for payment of such compensation should be established on the books of the Treasury;
+
+
+
+
+(3)
+ payments from that fund should be made only after—
+(A)
+ the identification of employees of the Department of Energy (including its predecessor agencies), and of contractors of the Department, who may be members of the group of covered employees;
+
+
+
+
+(B)
+ the establishment of a process to receive and administer claims for compensation for disability or death of covered employees;
+
+
+
+
+(C)
+ the submittal by the President of a legislative proposal for compensation of such employees that includes the estimated annual budget resources for that compensation; and
+
+
+
+
+(D)
+ consideration by the Congress of the legislative proposal submitted by the President; and
+
+
+
+
+
+
+(4)
+ payments from that fund should commence not later than fiscal year 2002.
+
+
+
+
+“(a)
+ 
+Update of Report
+.—
+Not later than 
+December 31, 2006
+, the Director of the National Institute for Occupational Safety and Health shall submit to Congress an update to the report required by section 3151(b) of the National Defense Authorization Act for Fiscal Year 2002 (
+Public Law 107–107
+; 
+42 U.S.C. 7384
+ note).
+
+
+“(b)
+ 
+Elements
+.—
+The update shall—
+“(1)
+ for each facility for which such report found that insufficient information was available to determine whether significant residual contamination was present, determine whether significant residual contamination was present;
+
+
+
+
+“(2)
+ for each facility for which such report found that significant residual contamination remained present as of the date of the report, determine the date on which such contamination ceased to be present;
+
+
+
+
+“(3)
+ for each facility for which such report found that significant residual contamination was present but for which the Director has been unable to determine the extent to which such contamination is attributable to atomic weapons-related activities, identify the specific dates of coverage attributable to such activities and, in so identifying, presume that such contamination is attributable to such activities until there is evidence of decontamination of residual contamination identified with atomic weapons-related activities;
+
+
+
+
+“(4)
+ for each facility for which such report found significant residual contamination, determine whether it is at least as likely as not that such contamination could have caused an employee who was employed at such facility only during the residual contamination period to contract a cancer or beryllium illness compensable under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 [
+42 U.S.C. 7384
+l
+ et seq.]; and
+
+
+
+
+“(5)
+ if new information that pertains to the report has been made available to the Director since that report was submitted, identify and describe such information.
+
+
+
+
+“(c)
+ 
+Publication
+.—
+The Director shall ensure that the report referred to in subsection (a) is published in the Federal Register not later than 15 days after being released.”
+
+
+ Transferred

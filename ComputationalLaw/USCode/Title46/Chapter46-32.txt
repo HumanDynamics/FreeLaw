@@ -1,0 +1,327 @@
+
+Chapter 32
+MANAGEMENT OF VESSELS
+ Definitions
+“(a)
+ Report on Implementation and Enforcement of the International Safety Management Code.—
+“(1)
+ The Secretary of Transportation (in this section referred to as the ‘Secretary’) shall conduct a study—
+“(A)
+ reporting on the status of implementation of the International Safety Management Code (hereafter referred to in this section as ‘Code’);
+
+
+
+
+“(B)
+ detailing enforcement actions involving the Code, including the role documents and reports produced pursuant to the Code play in such enforcement actions;
+
+
+
+
+“(C)
+ evaluating the effects the Code has had on marine safety and environmental protection, and identifying actions to further promote marine safety and environmental protection through the Code;
+
+
+
+
+“(D)
+ identifying actions to achieve full compliance with and effective implementation of the Code; and
+
+
+
+
+“(E)
+ evaluating the effectiveness of internal reporting and auditing under the Code, and recommending actions to ensure the accuracy and candidness of such reporting and auditing.
+
+
+
+
+
+These recommended actions may include proposed limits on the use in legal proceedings of documents produced pursuant to the Code.
+
+
+
+
+“(2)
+ The Secretary shall provide opportunity for the public to participate in and comment on the study conducted under paragraph (1).
+
+
+
+
+“(3)
+ Not later than 18 months after the date of the enactment of this Act [
+Nov. 13, 1998
+], the Secretary shall submit to the Congress a report on the results of the study conducted under paragraph (1).
+
+
+
+
+“(b)
+ Policy.—
+“(1)
+ Not later than 9 months after submission of the report in subsection (a)(3), the Secretary shall develop a policy to achieve full compliance with and effective implementation of the Code. The policy may include—
+“(A)
+ enforcement penalty reductions and waivers, limits on the use in legal proceedings of documents produced pursuant to the Code, or other incentives to ensure accurate and candid reporting and auditing;
+
+
+
+
+“(B)
+ any other measures to achieve full compliance with and effective implementation of the Code; and
+
+
+
+
+“(C)
+ if appropriate, recommendations to Congress for any legislation necessary to implement one or more elements of the policy.
+
+
+
+
+
+
+“(2)
+ The Secretary shall provide opportunity for the public to participate in the development of the policy in paragraph (1).
+
+
+
+
+“(3)
+ Upon completion of the policy in paragraph (1), the Secretary shall publish the policy in the Federal Register and provide opportunity for public comment on the policy.”
+
+
+
+
+ Application
+(a)
+ 
+Foreign Voyages and Foreign Vessels
+.—
+This chapter applies to a vessel that—
+(1)
+(A)
+ is transporting more than 12 passengers described in 
+section 2101(21)(A) of this title
+; or
+
+
+
+
+(B)
+ is of at least 500 gross tons as measured under 
+section 14302 of this title
+ and is a tanker, freight vessel, bulk freight vessel, high speed freight vessel, or self-propelled mobile offshore drilling unit; and
+
+
+
+
+
+
+(2)
+(A)
+ is engaged on a foreign voyage; or
+
+
+
+
+(B)
+ is a foreign vessel departing from a place under the jurisdiction of the United States on a voyage, any part of which is on the high seas.
+
+
+
+
+
+
+(b)
+ 
+Other Passenger Vessels
+.—
+This chapter applies to a vessel that is—
+(1)
+ a passenger vessel or small passenger vessel; and
+
+
+
+
+(2)
+ is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+
+
+
+
+(c)
+ 
+Voluntary Application
+.—
+This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
+
+
+(d)
+ 
+Exception
+.—
+Except as provided in subsection (c) of this section, this chapter does not apply to—
+(1)
+ a barge;
+
+
+
+
+(2)
+ a recreational vessel not engaged in commercial service;
+
+
+
+
+(3)
+ a fishing vessel;
+
+
+
+
+(4)
+ a vessel operating on the Great Lakes or its tributary and connecting waters that is not described in subsection (b) of this section; or
+
+
+
+
+(5)
+ a public vessel.
+
+
+
+
+ Safety management system
+(a)
+ 
+In General
+.—
+The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies, including—
+(1)
+ a safety and environmental protection policy;
+
+
+
+
+(2)
+ instructions and procedures to ensure safe operation of those vessels and protection of the environment in compliance with international and United States law;
+
+
+
+
+(3)
+ defined levels of authority and lines of communications between, and among, personnel on shore and on the vessel;
+
+
+
+
+(4)
+ procedures for reporting accidents and nonconformities with this chapter;
+
+
+
+
+(5)
+ procedures for preparing for and responding to emergency situations; and
+
+
+
+
+(6)
+ procedures for internal audits and management reviews of the system.
+
+
+
+
+(b)
+ 
+Compliance With Code
+.—
+Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels to which this chapter applies under 
+section 3202(a) of this title
+.
+
+
+(c)
+ In prescribing regulations for passenger vessels and small passenger vessels, the Secretary shall consider—
+(1)
+ the characteristics, methods of operation, and nature of the service of these vessels; and
+
+
+
+
+(2)
+ with respect to vessels that are ferries, the sizes of the ferry systems within which the vessels operate.
+
+
+
+
+ Implementation of safety management system
+(a)
+ 
+Safety Management Plan
+.—
+Each responsible person shall establish and submit to the Secretary for approval a safety management plan describing how that person and vessels of the person to which this chapter applies will comply with the regulations prescribed under 
+section 3203(a) of this title
+.
+
+
+(b)
+ 
+Approval
+.—
+Upon receipt of a safety management plan submitted under subsection (a), the Secretary shall review the plan and approve it if the Secretary determines that it is consistent with and will assist in implementing the safety management system established under section 3203.
+
+
+(c)
+ 
+Prohibition on Vessel Operation
+.—
+A vessel to which this chapter applies under section 3202(a) may not be operated without having on board a Safety Management Certificate and a copy of a Document of Compliance issued for the vessel under 
+section 3205 of this title
+.
+
+
+ Certification
+(a)
+ 
+Issuance of Certificate and Document
+.—
+After verifying that the responsible person for a vessel to which this chapter applies and the vessel comply with the applicable requirements under this chapter, the Secretary shall issue for the vessel, on request of the responsible person, a Safety Management Certificate and a Document of Compliance.
+
+
+(b)
+ 
+Maintenance of Certificate and Document
+.—
+A Safety Management Certificate and a Document of Compliance issued for a vessel under this section shall be maintained by the responsible person for the vessel as required by the Secretary.
+
+
+(c)
+ 
+Verification of Compliance
+.—
+The Secretary shall—
+(1)
+ periodically review whether a responsible person having a safety management plan approved under section 3204(b) and each vessel to which the plan applies is complying with the plan; and
+
+
+
+
+(2)
+ revoke the Secretary’s approval of the plan and each Safety Management Certificate and Document of Compliance issued to the person for a vessel to which the plan applies, if the Secretary determines that the person or a vessel to which the plan applies has not complied with the plan.
+
+
+
+
+(d)
+ 
+Enforcement
+.—
+At the request of the Secretary, the Secretary of Homeland Security shall withhold or revoke the clearance required by 
+section 60105 of this title
+ of a vessel that is subject to this chapter under 
+section 3202(a) of this title
+ or to the International Safety Management Code, if the vessel does not have on board a Safety Management Certificate and a copy of a Document of Compliance for the vessel. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.
+
+

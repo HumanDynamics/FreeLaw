@@ -1,0 +1,1820 @@
+
+Chapter 71
+SOLAR ENERGY
+ Congressional findings and declaration of policy
+(a)
+ The Congress hereby finds that—
+(1)
+ the current imbalance between supply and demand for fuels and energy is likely to persist for some time;
+
+
+
+
+(2)
+ the early demonstration of the feasibility of using solar energy for the heating and cooling of buildings could help to relieve the demand upon present fuel and energy supplies;
+
+
+
+
+(3)
+ the technologies for solar heating are close to the point of commercial application in the United States;
+
+
+
+
+(4)
+ the technologies for combined solar heating and cooling still require research, development, testing and demonstration, but no insoluble technical problem is now foreseen in achieving commercial use of such technologies;
+
+
+
+
+(5)
+ the early development and export of viable solar heating equipment and combined solar heating and cooling equipment, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to our balance of trade;
+
+
+
+
+(6)
+ the widespread use of solar energy in place of conventional methods for the heating and cooling of buildings would have a significantly beneficial effect upon the environment;
+
+
+
+
+(7)
+ the mass production and use of solar heating and cooling equipment will help to eliminate the dependence of the United States upon foreign energy sources and promote the national defense;
+
+
+
+
+(8)
+ the widespread introduction of low-cost solar energy will be beneficial to consumers in a period of rapidly rising fuel cost;
+
+
+
+
+(9)
+ innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
+
+
+
+
+(10)
+ evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
+
+
+
+
+(11)
+ commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
+
+
+
+
+(b)
+ It is therefore declared to be the policy of the United States and the purpose of this subchapter to provide for the demonstration within a three-year period of the practical use of solar heating technology, and to provide for the development and demonstration within a five-year period of the practical use of combined heating and cooling technology.
+
+
+ Definitions
+ Development and demonstration of solar heating systems for use in residential dwellings
+(a)
+ Functions of Administrator and Secretary
+The Administrator and the Secretary shall promptly initiate and carry out a program, as provided in this section, for the development and demonstration of solar heating systems (including collectors, controls, and thermal storage) for use in residential dwellings.
+
+
+
+
+(b)
+ Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings
+(1)
+ Within 120 days after 
+September 3, 1974
+, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
+(A)
+ interim performance criteria for solar heating components and systems to be used in residential dwellings, and
+
+
+
+
+(B)
+ interim performance criteria (relating to suitability for solar heating) for such dwellings themselves,
+
+
+
+
+
+taking into account in each instance climatic variations existing between different geographic areas.
+
+
+
+
+(2)
+ As soon as possible after the publication of the performance criteria prescribed under paragraph (1), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of solar heating systems meeting the performance criteria prescribed under paragraph (1)(A).
+
+
+
+
+(c)
+ Contracts and grants for development of heating systems for commercial production and residential use; contracts for procurement of heating systems and components
+The Administrator, in accordance with the applicable provisions of subchapter II of chapter 201 of title 51 and under program guidelines established jointly by the Administrator and the Secretary, shall, after consultation with the Secretary—
+(1)
+ enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of solar heating systems meeting the performance criteria prescribed under subsection (b)(1)(A) of this section (including any further planning and design which may be required to conform with the specifications set forth in such criteria); and
+
+
+
+
+(2)
+ enter into contracts with a number of persons or firms for the procurement of solar heating components and systems meeting such performance criteria (including adequate numbers of spare and replacement parts for such systems).
+
+
+
+
+(d)
+ Installation of heating systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system for five years; reports by owner
+The Secretary shall (1) arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) of this section in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of solar heating systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.
+
+
+
+
+(e)
+ Installation of heating systems by Secretary of Defense in dwellings located on Federal or federally administered property
+The Secretary of Defense shall arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) of this section in a substantial number of residential dwellings which are located on Federal or federally administered property where the performance and operation of such systems can be regularly and effectively observed and monitored by designated Federal personnel.
+
+
+
+
+(f)
+ Coordination of activities to assure a realistic and effective demonstration
+The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that solar heating systems are installed in a substantial number of residential dwellings and in a sufficient number of different geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.
+
+
+
+
+ Development and demonstration of combined solar heating and cooling systems for use in residential dwellings
+(a)
+ Functions of Administrator and Secretary
+The Administrator and the Secretary shall promptly initiate and carry out a program, as provided in this section, for the development and demonstration of combined solar heating and cooling systems (including collectors, controls, and thermal storage) for use in residential dwellings.
+
+
+
+
+(b)
+ Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings
+(1)
+ As soon as possible after 
+September 3, 1974
+, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
+(A)
+ interim performance criteria for combined solar heating and cooling components and systems to be used in residential dwellings, and
+
+
+
+
+(B)
+ interim performance criteria (relating to suitability for solar heating and cooling) for such dwellings themselves,
+
+
+
+
+
+taking into account in each instance climatic variations existing between different geographic areas.
+
+
+
+
+(2)
+ As soon as possible after the publication of the performance criteria prescribed under paragraph (1) (and if possible before the completion of the research and development provided for in subsection (c) of this section), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of combined solar heating and cooling systems meeting the performance criteria prescribed under paragraph (1)(A).
+
+
+
+
+(c)
+ Program of research, development and testing to provide additional technological resources for development and commercial application of combined systems
+During the period immediately following the publication of performance criteria under subsection (b)(1) of this section, the Administrator, in coordination with the Secretary of Energy, shall undertake and conduct with respect to solar heating and cooling a program of research, development, and testing designed to provide the additional technological resources necessary for the development and commercial application of combined solar heating and cooling systems as contemplated by the program under this section.
+
+
+
+
+(d)
+ Contracts and grants for development of combined systems for commercial production and residential use; contracts for procurement of combined systems
+The Administrator, in accordance with the applicable provisions of subchapter II of chapter 201 of title 51 and under program guidelines established jointly by the Administrator and the Secretary, and at the earliest possible time during or immediately after the period specified in subsection (c) of this section, shall, after consultation with the Secretary—
+(1)
+ enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of combined solar heating and cooling systems meeting the performance criteria prescribed under subsection (b)(1)(A) of this section (including any further planning and design which may be required to conform with the specifications set forth in such criteria or to reflect the results of the activities conducted under subsection (c) of this section); and
+
+
+
+
+(2)
+ enter into contracts with a number of persons or firms for the procurement of combined solar heating and cooling systems meeting such performance criteria (including adequate numbers of spare and replacement parts for such systems).
+
+
+
+
+(e)
+ Installation of combined systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system; reports by owner
+The Secretary shall (1) arrange for the installation of combined solar heating and cooling systems procured by the Administrator under subsection (d)(2) of this section in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of combined solar heating and cooling systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.
+
+
+
+
+(f)
+ Installation of combined systems by Secretary of Defense in dwellings located on Federal or federally administered property
+The Secretary of Defense shall arrange for the installation of combined solar heating and cooling systems procured by the Administrator under subsection (d)(2) of this section in a substantial number of residential dwellings which are located on Federal or federally administered property where the performance and operation of such systems can be regularly and effectively observed and monitored by designated Federal personnel.
+
+
+
+
+(g)
+ Coordination of activities to assure a realistic and effective demonstration
+The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that combined solar heating and cooling systems are installed in a substantial number of residential dwellings and in a sufficient number of geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.
+
+
+
+
+ Repealed. 
+ Omitted
+ Test procedures and definitive performance criteria for solar heating and combined solar heating and cooling components and systems and suitable dwellings; determination, consultation and publication in Federal Register
+ Arrangements with Federal agencies for development and demonstration of solar heating and combined heating and cooling systems for commercial buildings
+The Administrator, in consultation with the Secretary, the Secretary of Energy, the Administrator of General Services, and the Director of the National Institute of Standards and Technology and concurrently with the conduct of the programs under sections 5503 and 5504 of this title, shall enter into arrangements with appropriate Federal agencies to carry out such projects and activities (including demonstration projects) with respect to apartment buildings, office buildings, factories, crop-drying facilities and other agricultural structures, public buildings (including schools and colleges), and other non-residential, commercial, or industrial buildings, taking into account the special needs of and individual differences in such buildings based upon size, function, and other relevant factors, as may be appropriate for the early development and demonstration of solar heating and combined solar heating and cooling systems suitable and effective for use in such buildings.
+ Program of applied research by Secretary of Energy for improvement and development of heating systems for commercial application; transmission of results to Secretary and Administrator
+(a)
+ The Secretary of Energy shall conduct a program of applied research relevant to (1) the improvement of solar heating components and systems and (2) the development and commercial application of combined solar heating and cooling components and systems as contemplated by the programs under this subchapter.
+
+
+(b)
+ The Secretary of Energy shall apprise the Secretary and the Administrator on a continuing basis of the results of the programs being conducted in accordance with subsection (a) of this section, and the Secretary and the Administrator shall insure that such results, where appropriate, are incorporated into the development and demonstration programs established by this subchapter.
+
+
+ Supervision of systems and programs by Secretary
+(a)
+ Monitoring of performance; collection and evaluation of data; studies and investigation; reports to Congress
+The Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in coordination with such other Government agencies as may be appropriate, shall—
+(1)
+ monitor the performance and operation of solar heating and combined solar heating and cooling systems installed in residential dwellings under this subchapter;
+
+
+
+
+(2)
+ collect and evaluate data and information on the performance and operation of solar heating and combined solar heating and cooling systems installed in residential dwellings under this subchapter; and
+
+
+
+
+(3)
+ from time to time, carrying out such studies and investigations and take such other actions, including the submission of special reports to the Congress when appropriate, as may be necessary to assure that the programs for which the Secretary is responsible under this subchapter effectively carry out the policy of this subchapter.
+
+
+
+
+(b)
+ Cooperation with scientific, technical, and professional societies and industry representatives in development of performance criteria and test procedures
+In the development of the performance criteria and test procedures required under sections 5503, 5504, and 5506 of this title, the Secretary shall work closely with the appropriate scientific, technical, and professional societies and industry representatives to insure the best possible use of available expertise in this area.
+
+
+
+
+(c)
+ Continued liaison with building and related industries and scientific and technical communities
+The Secretary shall also maintain continuing liaison with the building industry and related industries and interests, and with the scientific and technical community during and after the period of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.
+
+
+
+
+ Dissemination of information to promote practical use of solar heating and cooling technologies
+(a)
+ Coordination by Secretary with other Federal agencies in dissemination to Federal, State, and local authorities, etc.
+The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is made available to Federal, State, and local authorities, the building industry and related segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of solar energy for the heating and cooling of buildings throughout the United States. In accordance with regulations prescribed under 
+section 5514 of this title
+ such information shall be disseminated on a coordinated basis by the Secretary, the Administrator, the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate Federal offices and agencies.
+
+
+
+
+(b)
+ Studies, investigations and modifications of building codes, zoning ordinances, etc., to promote use of solar energy in buildings
+In addition, the Secretary shall—
+(1)
+ study and investigate the effect of building codes, zoning ordinances, tax regulations, and other laws, codes, ordinances, and practices upon the practical use of solar energy for the heating and cooling of buildings;
+
+
+
+
+(2)
+ determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use, and the methods by which any such changes may best be brought about; and
+
+
+
+
+(3)
+ study the necessity of a program of incentives to accelerate the commercial application of solar heating and cooling technology.
+
+
+
+
+(c)
+ Establishment and operation of Solar Heating and Cooling Information Data Bank; retrieval and dissemination services; compilation of information for use by governmental agencies, nonprofit organizations and private persons; utilization of existing information
+(1)
+ In carrying out his functions under subsections (a) and (b) of this section the Secretary, utilizing the capabilities of the National Aeronautics and Space Administration, the Department of Commerce, and the Secretary of Energy to the maximum extent possible, shall establish and operate a Solar Heating and Cooling Information Data Bank (hereinafter in this subsection referred to as the “bank”) for the purpose of collecting, reviewing, processing, and disseminating solar heating and cooling information and data in a timely and accurate manner in support of the objectives of this subchapter.
+
+
+
+
+(2)
+ Information and data compiled in the bank shall include—
+(A)
+ technical information (including reports, journal articles, dissertions,
+1
+1
+ So in original. Probably should be “dissertations,”.
+ monographs, and project descriptions) on solar energy research, development, and applications;
+
+
+
+
+(B)
+ technical information on the design, construction, and maintenance of buildings compatible with solar heating and cooling concepts;
+
+
+
+
+(C)
+ physical and chemical properties of the materials required for solar heating and cooling;
+
+
+
+
+(D)
+ climatic conditions in appropriate areas of the United States, including those areas where the demonstrations are to be located; and
+
+
+
+
+(E)
+ engineering performance of devices utilized in solar heating and cooling or to be employed in the demonstrations.
+
+
+
+
+
+
+(3)
+ In accordance with regulations prescribed under 
+section 5514 of this title
+, the Secretary shall provide retrieval and dissemination services to cover the solar heating and cooling information described under paragraph (2) for—
+(A)
+ Federal, State, and local government organizations that are active in the area of energy resources (and their contractors);
+
+
+
+
+(B)
+ universities, colleges, and other nonprofit organizations; and
+
+
+
+
+(C)
+ private persons, upon request, in appropriate cases.
+
+
+
+
+
+
+(4)
+ In carrying out his functions under this subsection, the Secretary shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information described in paragraph (2) which does not already reside in such base.
+
+
+
+
+(d)
+ Annual reports to President and Congress by officers and agencies; contents; special annual report by Secretary
+Each Federal officer and agency having functions under this subchapter shall include in his or its annual report to the President and the Congress a full and complete description of his or its activities (current and projected) under this subchapter, along with his or its recommendations for legislative, administrative, or other action to improve the programs under this subchapter or to achieve the objectives of this subchapter more promptly and effectively. In addition, the Secretary shall submit annually to the President and the Congress a special report summarizing in appropriate detail all of the activities (current and projected) of the various Federal officers and agencies having functions under this subchapter, with the objective of presenting a comprehensive overall view of such programs.
+
+
+
+
+ Federally assisted or federally constructed housing
+(a)
+ Maximum dollar amount of federally assisted mortgage loan or maximum per unit or other cost or floor area limitation of federally constructed housing
+(1)
+ In determining the maximum dollar amount of any federally assisted mortgage loan (as defined in subsection (b) of this section) or the maximum per unit or other cost or floor area limitation of any federally constructed housing (as defined in subsection (c) of this section), where the law establishing the program under which the loan is made or the housing is constructed specifies such maximum per unit or other cost on floor area limitation and the structure involved is furnished with solar heating or combined solar heating and cooling equipment under the demonstration program established by section 5503, 5504, or 5507 of this title, the maximum amount or cost or floor area limitation so specified which is applicable to such structure shall be deemed to be increased by the amount by which (as determined by the Secretary or the Secretary of Defense, as appropriate) the price or cost or floor area limitation of the structure including such solar heating or combined solar heating and cooling equipment exceeds the price or cost or floor area limitation of the structure with such equipment replaced by conventional heating equipment or conventional heating and cooling equipment (as the case may be).
+
+
+
+
+(2)
+ In addition, in the case of a federally assisted mortgage loan, the cost excess specified in subsection (a) of this section shall be fully taken into account in determining the value or cost of the structure involved for purposes of applying any statutory provision specifying the maximum loan-to-value or -cost ratio; except that, if the law specifies different rates of downpayment for successive increments of such value or cost, the lowest such rate shall apply to the additional cost attributable to the solar heating or combined solar heating and cooling equipment, and such equipment shall otherwise be excluded in determining the total value or cost of the structure.
+
+
+
+
+(b)
+ “Mortgage loan” and “federally assisted mortgage loan” defined
+As used in subsection (a) of this section, the term “mortgage loan” means a loan which is made to finance the purchase or construction of a residence or any other building or structure; and the term “federally assisted mortgage loan” means a mortgage loan which—
+(1)
+ is made in whole or in part by any lender the deposits or accounts of which are insured by any agency of the Federal Government, or is made in whole or in part by any lender which is itself regulated by any agency of the Federal Government; or
+
+
+
+
+(2)
+ is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary or any other officer or agency of the Federal Government or under or in connection with a housing, urban development, or related program administered by the Secretary or a housing or related program administered by any other such officer or agency; or
+
+
+
+
+(3)
+ is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
+
+
+
+
+(4)
+ is made in whole or in part by any “creditor,” as defined in section 1602(f) 
+1
+1
+ See References in Text note below.
+ of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
+
+
+
+
+(c)
+ “Federally constructed housing” defined
+As used in subsection (a) of this section, the term “federally constructed housing” means (1) residential or multifamily housing which is constructed by agencies of the Federal Government to provide dwelling accommodations for particular types or classes of persons under programs administered by such Federal agencies (including all housing constructed by the Department of Defense to provide dwelling accommodations for personnel of the armed services or for such personnel and their families), and (2) residential or multifamily housing which is constructed by agencies of State or local government, with financial assistance in any form from the Federal Government, to provide dwelling accommodations for particular types or classes of persons under programs administered by such State or local agencies.
+
+
+
+
+ Solar Assistance Financing Entity
+(a)
+ Establishment
+The Secretary of Housing and Urban Development shall establish within the Department of Housing and Urban Development the Solar Assistance Financing Entity (in this section referred to as the “Entity”).
+
+
+
+
+(b)
+ Purpose
+The purpose of the Entity shall be to assist in financing solar and renewable energy capital investments and projects for eligible buildings under subsection (c) of this section.
+
+
+
+
+(c)
+ Eligible buildings
+The Entity may provide assistance under this section only for the following buildings:
+(1)
+ Single family housing
+Any building consisting of 1 to 4 dwelling units that has a system for heating or cooling, or both.
+
+
+
+
+
+
+(2)
+ Multifamily housing
+Any building consisting of more than 4 dwelling units that has a system for heating or cooling, or both.
+
+
+
+
+
+
+(3)
+ Commercial buildings
+Any building used primarily to carry on a business (including any nonprofit business) that is not used primarily for the manufacture or production of raw materials, products, or agricultural commodities.
+
+
+
+
+
+
+(4)
+ Schools, hospitals, and agricultural buildings
+Any school, any hospital, and any building used exclusively in connection with the harvesting, storage, or drying of agricultural commodities.
+
+
+
+
+
+
+(5)
+ Other buildings
+Any other building of a type that the Entity considers appropriate.
+
+
+
+
+
+
+(d)
+ Financing options
+Assistance provided under this section by the Entity may be provided only for programs for financing solar and renewable energy capital investments and projects, which may include programs for making loans, making grants, reducing the principal obligations of loans, prepayment of interest on loans, purchase and sale of loans and advances of credit, providing loan guarantees, providing loan downpayment assistance, and providing rebates and other incentives for the purchase and installation of solar and renewable energy measures.
+
+
+
+
+(e)
+ Authority to leverage other funds
+The Entity may encourage or require programs receiving assistance under this section to supplement the assistance received under this section with amounts from other public and private sources, and, in making assistance under this section available, may give preference to programs that leverage amounts from such other sources.
+
+
+
+
+(f)
+ Provision of assistance
+The Entity shall provide assistance under this section through State agencies responsible for developing State energy conservation plans pursuant to 
+section 6322 of this title
+, or any other entity or agency authorized to specifically carry out the purposes of this section.
+
+
+
+
+(g)
+ Regulations
+Not later than the expiration of the 12-month period beginning on 
+October 28, 1992
+, the Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall issue any regulations necessary to carry out this section, which shall ensure maximum flexibility in utilizing amounts made available under this section.
+
+
+
+
+(h)
+ Authorization of appropriations
+There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 1993 and $10,420,000 for fiscal year 1994. Such sums are to be available until expended.
+
+
+
+
+ Small business concerns’ opportunities to participate in programs
+In carrying out their functions under this subchapter, all Federal officers and agencies shall take steps to assure that small business concerns will have realistic and adequate opportunities to participate in the programs under this subchapter to the maximum extent possible.
+ Priorities and criteria of demonstration programs
+(a)
+ The residential dwellings and other buildings which will be part of the demonstration programs referred to in sections 5503, 5504, and 5507 of this title shall be located in a sufficient number of different geographic areas in the United States to assure a realistic and effective demonstration of the solar heating systems and combined solar heating and cooling systems involved, and of the dwellings and other buildings themselves, in both rural and urban locations and under climatic conditions which vary as much as possible.
+
+
+(b)
+ Consideration shall be given to projected costs of commercial production and maintenance of the solar heating systems and combined solar heating and cooling systems utilized in the demonstration programs.
+
+
+(c)
+ Encouragement should be given in the conduct of programs under this subchapter to those projects in which funds, appropriated by any State or political subdivision thereof for the purpose of sharing costs with the Federal Government for the purchase and installation of solar heating or combined solar heating and cooling components and systems, are committed before or after 
+September 3, 1974
+.
+
+
+ Regulations
+The Administrator and the Secretary in consultation with the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Administrator of the General Services Administration, the Secretary of Defense, and other appropriate officers and agencies, shall prescribe such regulations as may be necessary or appropriate to carry out this subchapter promptly and efficiently. Each such officer or agency, in consultation with the Administrator and the Secretary, may prescribe such regulations as may be necessary or appropriate to carry out his or its particular functions under this subchapter promptly and efficiently.
+ Use of publicly assisted housing by Secretary in demonstrations
+The Secretary shall make appropriate use of publicly assisted housing and particularly low-rent housing assisted under the United States Housing Act of 1937 [
+ Transfer of functions
+Within sixty days after the effective date of the law creating the Energy Research and Development Administration or any other law creating a permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States (or within sixty days after 
+ Authorization of appropriations
+(a)
+ Appropriations to National Aeronautics and Space Administration
+There is hereby authorized to be appropriated to the National Aeronautics and Space Administration for the fiscal year ending 
+June 30, 1975
+, $5,000,000, to remain available until expended, to carry out the functions vested in the Administrator by this subchapter.
+
+
+
+
+(b)
+ Appropriations to Department of Housing and Urban Development
+There is hereby authorized to be appropriated to the Department of Housing and Urban Development for the fiscal year ending 
+June 30, 1975
+, $5,000,000, to remain available until expended. Any sums so appropriated shall be available (1) to carry out the functions vested in the Secretary of Housing and Urban Development by this subchapter, and (2) for transfer to the Department of Defense, the National Institute of Standards and Technology, and the General Services Administration to enable them to carry out their respective functions under this subchapter.
+
+
+
+
+(c)
+ Appropriations for programs under this subchapter
+There is hereby authorized to be appropriated for the fiscal years ending 
+June 30, 1976
+, 1977, 1978, and 1979, $50,000,000 in the aggregate to carry out the programs established by this subchapter.
+
+
+
+
+ Congressional declaration of findings and policy
+(a)
+ The Congress hereby finds that—
+(1)
+ the needs of a viable society depend on an ample supply of energy;
+
+
+
+
+(2)
+ the current imbalance between domestic supply and demand for fuels and energy is likely to persist for some time;
+
+
+
+
+(3)
+ dependence on nonrenewable energy resources cannot be continued indefinitely, particularly at current rates of consumption;
+
+
+
+
+(4)
+ it is in the Nation’s interest to expedite the long-term development of renewable and nonpolluting energy resources, such as solar energy;
+
+
+
+
+(5)
+ the various solar energy technologies are today at widely differing stages of development, with some already near the stage of commercial application and others still requiring basic research;
+
+
+
+
+(6)
+ the early development and export of viable equipment utilizing solar energy, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to our balance of trade;
+
+
+
+
+(7)
+ the mass production and use of equipment utilizing solar energy will help to eliminate the dependence of the United States upon foreign energy sources and promote the national defense;
+
+
+
+
+(8)
+ to date, the national effort in research, development, and demonstration activities relating to the utilization of solar energy has been extremely limited; therefore
+
+
+
+
+(9)
+ the urgency of the Nation’s critical energy shortages and the need to make clean and renewable energy alternatives commercially viable require that the Nation undertake an intensive research, development, and demonstration program with an estimated Federal investment which may reach or exceed $1,000,000,000.
+
+
+
+
+(b)
+ The Congress declares that it is the policy of the Federal Government to—
+(1)
+ pursue a vigorous and viable program of research and resource assessment of solar energy as a major source of energy for our national needs; and
+
+
+
+
+(2)
+ provide for the development and demonstration of practicable means to employ solar energy on a commercial scale.
+
+
+
+
+ Definitions
+ Solar Energy Coordination and Management Project
+(a)
+ Establishment
+There is hereby established the Solar Energy Coordination and Management Project.
+
+
+
+
+(b)
+ Membership; chairman; compensation
+(1)
+ The Project shall be composed of six members as follows:
+(A)
+ an Assistant Director of the National Science Foundation;
+
+
+
+
+(B)
+ an Assistant Secretary of Housing and Urban Development;
+
+
+
+
+(C)
+ a member of the Federal Power Commission;
+
+
+
+
+(D)
+ an Associate Administrator of the National Aeronautics and Space Administration;
+
+
+
+
+(E)
+ the General Manager of the Atomic Energy Commission; and
+
+
+
+
+(F)
+ a member to be designated by the President.
+
+
+
+
+
+
+(2)
+ The President shall designate one member of the Project to serve as Chairman of the Project.
+
+
+
+
+(3)
+ If the individual designated under paragraph (1)(F) is an officer or employee of the Federal Government, he shall receive no additional pay on account of his service as a member of the Project. If such individual is not an officer or employee of the Federal Government, he shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for level IV of the Executive Schedule (
+5 U.S.C. 5315
+) for each day (including traveltime) during which he is engaged in the actual performance of duties vested in the Project.
+
+
+
+
+(c)
+ Responsibilities
+The Project shall have overall responsibility for the provision of effective management and coordination with respect to a national solar energy research, development, and demonstration program, including—
+(1)
+ the determination and evaluation of the resource base, including its temporal and geographic characteristics;
+
+
+
+
+(2)
+ research and development on solar energy technologies; and
+
+
+
+
+(3)
+ the demonstration of appropriate solar energy technologies.
+
+
+
+
+(d)
+ Cooperation with other Federal agencies; assignment of other Federal agency personnel to Project
+(1)
+ The Project shall carry out its responsibilities under this section in cooperation with the following Federal agencies:
+(A)
+ the National Science Foundation, the responsibilities of which shall include research;
+
+
+
+
+(B)
+ the National Aeronautics and Space Administration, the responsibilities of which shall include the provision of management capability and the development of technologies;
+
+
+
+
+(C)
+ the Atomic Energy Commission, the responsibilities of which shall include the development of technologies;
+
+
+
+
+(D)
+ the Department of Housing and Urban Development, the responsibilities of which shall include fostering the utilization of solar energy for the heating and cooling of buildings, pursuant to subchapter I of this chapter; and
+
+
+
+
+(E)
+ the Federal Power Commission, the responsibilities of which shall include fostering the utilization of solar energy for the generation of electricity and for the production of synthetic fuels.
+
+
+
+
+
+
+(2)
+ Upon request of the Chairman, the head of any such agency is authorized to detail or assign, on a reimbursable basis or otherwise, any of the personnel of such agency to the Project to assist it in carrying out its responsibilities under this subchapter.
+
+
+
+
+(e)
+ Establishment or approval of program or project; operation and administration of program or project
+The Project shall have exclusive authority with respect to the establishment or approval of programs or projects initiated under this subchapter, but the agency involved in any particular program or project shall be responsible for the operation and administration of such program or project.
+
+
+
+
+(f)
+ Authorization of National Aeronautics and Space Administration to undertake and carry out assigned programs
+The National Aeronautics and Space Administration is authorized to undertake and carry out those programs assigned to it by the Project.
+
+
+
+
+ Solar energy resource determination and assessment program; objectives; implementation
+(a)
+ The Chairman shall initiate a solar energy resource determination and assessment program with the objective of making a regional and national appraisal of all solar energy resources, including data on insolation, wind, sea thermal gradients, and potentials for photosynthetic conversion. The program shall emphasize identification of promising areas for commercial exploitation and development. The specific goals shall include—
+(1)
+ the development of better methods for predicting the availability of all solar energy resources, over long time periods and by geographic location;
+
+
+
+
+(2)
+ the development of advanced meteorological, oceanographic, and other instruments, methodology, and procedures necessary to measure the quality and quantity of all solar resources on periodic bases;
+
+
+
+
+(3)
+ the development of activities, arrangements, and procedures for the collection, evaluation, and dissemination of information and data relating to solar energy resource assessment.
+
+
+
+
+(b)
+ The Chairman, acting through the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, and other appropriate agencies, shall—
+(1)
+ develop and carry out a general plan for inventorying all forms of solar energy resources associated with Federal lands and (where consistent with property rights) non-Federal lands;
+
+
+
+
+(2)
+ conduct regional surveys based upon such general plan, using innovative meteorological, oceanographic, and space-related techniques, in sufficient numbers to lead to a national inventory of solar energy resources in the United States;
+
+
+
+
+(3)
+ publish and make available maps, reports, and other documents developed from such surveys to encourage and facilitate the commercial development of solar energy resources; and
+
+
+
+
+(4)
+ make such recommendations for legislation as may appear to be necessary to establish policies for solar resources involving Federal lands and waters, consistent with known inventories of various resource types, with the state of technologies for solar energy development, and with evaluation of the environmental impacts of such development.
+
+
+
+
+ Research and development program
+(a)
+ Purpose
+The Chairman shall initiate a research and development program for the purpose of resolving the major technical problems inhibiting commercial utilization of solar energy in the United States.
+
+
+
+
+(b)
+ Implementation
+In connection with or as a part of such program, the Chairman shall—
+(1)
+ conduct, encourage, and promote scientific research and studies to develop effective and economical processes and equipment for the purpose of utilizing solar energy in an acceptable manner for beneficial uses;
+
+
+
+
+(2)
+ carry out systems, economic, social, and environmental studies to provide a basis for research, development and demonstration planning and phasing; and
+
+
+
+
+(3)
+ perform or cause to be performed technology assessments relevant to the utilization of solar energy.
+
+
+
+
+(c)
+ Scope
+The specific solar energy technologies to be addressed or dealt with in the program shall include—
+(1)
+ direct solar heat as a source for industrial processes, including the utilization of low-level heat for process and other industrial purposes;
+
+
+
+
+(2)
+ thermal energy conversion, and other methods, for the generation of electricity and the production of chemical fuels;
+
+
+
+
+(3)
+ the conversion of cellulose and other organic materials (including wastes) to useful energy or fuels;
+
+
+
+
+(4)
+ photovoltaic and other direct conversion processes;
+
+
+
+
+(5)
+ sea thermal gradient conversion;
+
+
+
+
+(6)
+ windpower conversion;
+
+
+
+
+(7)
+ solar heating and cooling of housing and of commercial and public buildings; and
+
+
+
+
+(8)
+ energy storage.
+
+
+
+
+ Solar energy demonstration facilities program
+(a)
+ Authorization for design and construction of facilities; objectives
+The Chairman is authorized to initiate a program to design and construct, in specific solar energy technologies (including, but not limited to, those listed in 
+section 5555(c) of this title
+,
+1
+1
+ So in original. Probably should be preceded by a closing parenthesis.
+ facilities or powerplants of sufficient size to demonstrate the technical and economic feasibility of utilizing the various forms of solar energy. The specific goals of such programs shall include—
+(1)
+ production of electricity from a number of powerplants, on the order of one to ten megawatts each;
+
+
+
+
+(2)
+ production of synthetic fuels in commercial quantities;
+
+
+
+
+(3)
+ large-scale utilization of solar energy in the form of direct heat;
+
+
+
+
+(4)
+ utilization of thermal and all other byproducts of the solar facilities;
+
+
+
+
+(5)
+ design and development of hybrid systems involving the concomitant utilization of solar and other energy sources; and
+
+
+
+
+(6)
+ the continuous operation of such plants and facilities for a period of time.
+
+
+
+
+(b)
+ Criteria for determination to proceed from development program to demonstration
+For each of the technologies for which a successful and appropriate development program is completed, the Chairman shall make a determination to proceed to demonstration based on criteria including, but not necessarily limited to, the following:
+(1)
+ the technological feasibility of the project;
+
+
+
+
+(2)
+ the costs and benefits of the project, as determined by an economic assessment;
+
+
+
+
+(3)
+ the immediate and the potential uses of the solar energy utilized in the project;
+
+
+
+
+(4)
+ long-term national need for the technology;
+
+
+
+
+(5)
+ environmental impact;
+
+
+
+
+(6)
+ potential for technology transfer to other applications; and
+
+
+
+
+(7)
+ the nature and extent of Federal participation, if any, in the project.
+
+
+
+
+(c)
+ Establishment of one or more projects utilizing each form of solar energy
+In carrying out his responsibilities under this section, the Chairman, acting through the appropriate Federal agencies, may provide for the establishment of one or more demonstration projects utilizing each form of solar energy, which shall include, as appropriate, the specific research, development, pilot plant construction and operation, demonstration plant construction and operation, and other facilities and activities which may be necessary to show commercial viability of the specific solar technology.
+
+
+
+
+(d)
+ Investigation and agreements for cooperative development of demonstration facilities
+The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperative development of facilities to demonstrate solar technologies. The responsible Federal agency may consider—
+(1)
+ cooperative agreements with non-Federal entities for construction of facilities and equipment to demonstrate solar energy technologies; and
+
+
+
+
+(2)
+ cooperative agreements with other Federal agencies for the construction of facilities and equipment and operation of facilities to produce energy for direct Federal utilization.
+
+
+
+
+(e)
+ Construction and operation of demonstration projects without cooperative agreements
+The Chairman, acting through appropriate Federal agencies is authorized to construct and operate demonstration projects without entering into cooperative agreements with respect to such projects, if the Chairman finds that—
+(1)
+ the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the specific demonstration project offers opportunities to make important contributions to the general knowledge of solar resources, the techniques of its development, or public confidence in the technology; and
+
+
+
+
+(2)
+ there is no opportunity for cooperative agreements with any non-Federal entity willing and able to cooperate in the demonstration project under subsection (d)(1) of this section, and there is no opportunity for cooperative agreements with other Federal agencies under subsection (d)(2) of this section.
+
+
+
+
+(f)
+ Additional appropriations for projects exceeding maximum amount
+If the estimate of the Federal investment with respect to construction and operation costs of any demonstration project proposed to be established under this section exceeds $20,000,000, no amount may be appropriated for such project except as specifically authorized by legislation hereafter enacted by the Congress.
+
+
+
+
+(g)
+ Disposition of Federal property interests, electricity, synthetic fuels, and other byproducts upon completion of project
+(1)
+ At the conclusion of any demonstration project established under this section, or as soon thereafter as may be practicable, the responsible Federal agencies shall, by sale, lease, or otherwise, dispose of all Federal property interests which they have acquired pursuant to this section in accordance with existing law and the terms of the cooperative agreements involved.
+
+
+
+
+(2)
+ The agency involved shall, under appropriate agreements or other arrangements, provide for the disposition of electricity, synthetic fuels, and other byproducts of the project administered by such agency.
+
+
+
+
+ Solar photovoltaic energy systems studies and acquisitions by Secretary of Energy; scope, contents, and submission dates for reports; acquisition authority and requirements; authorization of appropriations
+(a)
+ The Secretary of Energy shall—
+(1)
+ initiate and conduct an “application and system design study”, cooperatively with appropriate Federal agencies, to determine the potential for the use of solar photovoltaic systems at specific Federal installations; and this study shall—
+(A)
+ include an analysis of those sites that are currently cost-effective for solar photovoltaic energy systems, using life-cycle costing techniques, as well as those which would be cost-effective at expected future market prices;
+
+
+
+
+(B)
+ identify potential sites and uses of solar photovoltaic energy systems at the following agencies as well as any others which the Secretary of Energy deems necessary:
+(i)
+ the Department of Defense;
+
+
+
+
+(ii)
+ the Department of Transportation (including the United States Coast Guard, the Federal Aviation Administration, and the Federal Highway Administration);
+
+
+
+
+(iii)
+ the Department of Commerce;
+
+
+
+
+(iv)
+ the Department of Agriculture; and
+
+
+
+
+(v)
+ the Department of the Interior;
+
+
+
+
+
+
+(C)
+ provide a preliminary report to Congress within nine months following 
+February 25, 1978
+;
+
+
+
+
+(D)
+ include the presentation of a detailed plan for the implementation of solar photovoltaic energy systems for power generation at specific sites in Federal Government agencies to Congress within twelve months following 
+February 25, 1978
+;
+
+
+
+
+
+
+(2)
+ initiate and conduct a study of the options available to the Federal Government to provide for the adequate growth of the solar photovoltaic industry and to include such possible incentives as government funding, loan guarantees, tax incentives, the operation of pilot plants or production lines and other incentives deemed worthy of consideration by the Secretary of Energy. A preliminary report shall be submitted to Congress within six months following 
+February 25, 1978
+;
+
+
+
+
+(3)
+ initiate and conduct a study involving the prospects for applications of solar photovoltaic energy systems for power generation in foreign countries, particularly lesser developed countries, and the potential for the exportation of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary of Energy deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of 
+February 25, 1978
+; and
+
+
+
+
+(4)
+ be authorized to acquire up to an additional 4.0 megawatts (peak) of solar photovoltaic energy systems. The sum of $13,000,000 is hereby authorized to be appropriated (in addition to any other amounts authorized by this Act to be appropriated) for the fiscal year ending 
+September 30, 1978
+, and for delivery in the following twelve months. Such sums shall remain available until expended. The solar photovoltaic energy systems acquired shall be available for use for power generation by Federal agencies, provided that no procurement takes place until their application on Federal sites is determined to be life cycle cost effective.
+
+
+
+
+(b)
+ For technology development, particularly for engineering design and development of the manufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending 
+September 30, 1978
+.
+
+
+ Solar Energy Information Data Bank
+(a)
+ Establishment; utilization of other Federal agencies; information and data to be compiled; retrieval and dissemination services; utilization of existing scientific and technical information
+(1)
+ In carrying out his functions under this subchapter the Chairman, utilizing the capabilities of the National Science Foundation, the National Aeronautics and Space Administration, the Department of Commerce, the Atomic Energy Commission, and other appropriate Federal agencies to the maximum extent possible, shall establish and operate a Solar Energy Information Data Bank (hereinafter in this subsection referred to as the “bank”) for the purpose of collecting, reviewing, processing, and disseminating information and data in all of the solar energy technologies referred to in 
+section 5556(c) of this title
+ in a timely and accurate manner in support of the objectives of this subchapter.
+
+
+
+
+(2)
+ Information and data compiled in the bank shall include—
+(A)
+ technical information (including reports, journal articles, dissertations, monographs, and project descriptions) on solar energy research, development, and applications;
+
+
+
+
+(B)
+ similar technical information on the design, construction, and maintenance of equipment utilizing solar energy;
+
+
+
+
+(C)
+ general information on solar energy applications to be disseminated for popular consumption;
+
+
+
+
+(D)
+ physical and chemical properties of materials required for solar energy activities and equipment; and
+
+
+
+
+(E)
+ engineering performance data on equipment and devices utilizing solar energy.
+
+
+
+
+
+
+(3)
+ In accordance with regulations prescribed under 
+section 5561 of this title
+, the Chairman shall provide retrieval and dissemination services with respect to the information described under paragraph (2) for—
+(A)
+ Federal, State, and local government organizations that are active in the area of energy resources (and their contractors);
+
+
+
+
+(B)
+ universities and colleges in their related research and consulting activities; and
+
+
+
+
+(C)
+ the private sector upon request in appropriate cases.
+
+
+
+
+
+
+(4)
+ In carrying out his functions under this subsection, the Chairman shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information described in paragraph (2) which does not already reside in such base. He shall coordinate or merge this data bank with other Federal energy information data banks as necessary to assure efficient and effective operation.
+
+
+
+
+(b)
+ Studies and research to promote consumer acceptance and utilization of solar energy technologies
+In carrying out his functions under this subchapter the Chairman shall perform or cause to be performed studies and research on incentives to promote broader utilization and consumer acceptance of solar energy technologies.
+
+
+
+
+(c)
+ Coordination of solar energy technology utilization programs
+The Chairman shall enter into such arrangements and take such other steps as may be necessary or appropriate to provide for the effective coordination of solar energy technology utilization with all other technology utilization programs within the Federal Government.
+
+
+
+
+ Scientific and technical education programs
+The Chairman, acting through the National Science Foundation, is authorized and directed to support programs of education in the sciences and engineering to provide the necessary trained personnel to perform the solar energy research, development, and demonstration activities required under this subchapter. Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
+ Solar Energy Research Institute; establishment; functions; location
+(a)
+ There is established a Solar Energy Research Institute, which shall perform such research, development, and related functions as the Chairman may determine to be necessary or appropriate in connection with the Project’s activities under this subchapter or to be otherwise in furtherance of the purpose and objectives of this subchapter.
+
+
+(b)
+ The Institute may be located (as designated by the Chairman) at a new or existing Federal laboratory (including a non-Federal laboratory performing functions under a contract entered into with the Project or with any of the agencies represented in the Project as well as a laboratory whose personnel are Federal employees).
+
+
+ International cooperation in solar energy research and programs of education
+(a)
+ The Chairman, in furtherance of the objectives of this subchapter, is authorized to cooperate and participate jointly with other nations, especially those with agreements for scientific cooperation with the United States, in the following activities:
+(1)
+ interinstitutional, bilateral, or multilateral research projects in the field of solar energy; and
+
+
+
+
+(2)
+ agreements and programs which will facilitate the exchange of information and data relating to solar energy resource assessment and solar energy technologies.
+
+
+
+
+(b)
+ The National Science Foundation is authorized to encourage, to the maximum extent practicable and consistent with the other objectives of this subchapter, international participation and cooperation in the development and maintenance of programs of education to carry out the policy set forth in 
+section 5558 of this title
+.
+
+
+ Regulations
+The Chairman, in consultation with heads of the Federal agencies having functions under this subchapter and with other appropriate officers and agencies, shall prescribe such regulations as may be necessary or appropriate to carry out this subchapter promptly and efficiently. Each such officer or agency, in consultation with the Chairman, may prescribe such regulations as may be necessary or appropriate to carry out his or its particular functions under this subchapter promptly and efficiently.
+ Summary in annual report
+A summary of all actions taken under the provisions of this subchapter and action planned for the ensuing year shall be included in the annual report required by 
+ Project information to Congressional committees
+Notwithstanding any other provision of law, the Chairman (or the head of any agency which assumes the functions of the Project pursuant to 
+ Comprehensive program definition; preparation; utilization of and consultation with other agencies; transmittal to the President and Congress; time of transmittal
+(a)
+ The Chairman is authorized and directed to prepare a comprehensive program definition of an integrated effort and commitment for effectively developing solar energy resources. The Chairman, in preparing such program definition, shall utilize and consult with the appropriate Federal agencies, State and local government agencies, and private organizations.
+
+
+(b)
+ The Chairman shall transmit such comprehensive program definition to the President and to each House of the Congress. An interim report shall be transmitted not later than 
+March 1, 1975
+. The comprehensive program definition shall be transmitted as soon as possible thereafter, but in any case not later than 
+June 30, 1975
+.
+
+
+ Transfer of functions
+Within sixty days after the effective date of the law creating a permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States (or within sixty days after 
+ Authorization of appropriations
+ Congressional findings and declaration of policy
+(a)
+ The Congress hereby finds that—
+(1)
+ the United States of America is faced with a finite and diminishing resource base of native fossil fuels, and as a consequence must develop as quickly as possible a diversified, pluralistic national energy capability and posture;
+
+
+
+
+(2)
+ the current imbalance between supply and demand for fuels and energy in the United States is likely to grow for many years;
+
+
+
+
+(3)
+ the early demonstration of the feasibility of using solar photovoltaic energy systems for the generation of electricity could help to relieve the demand on existing fuel and energy supplies;
+
+
+
+
+(4)
+ the national security and economic well-being of the United States is endangered by its dependence on imported energy supplies which are subject to resource limitations, artificial pricing mechanisms which do not accurately reflect supply and demand relationships, and supply interruptions;
+
+
+
+
+(5)
+ the early development and widespread utilization of photovoltaic energy systems could significantly expand the domestic energy resource base of the United States, thereby lessening its dependence on foreign supplies;
+
+
+
+
+(6)
+ the establishment of sizable markets for photovoltaic energy systems will justify private investment in plant and equipment necessary to realize the economies of scale, and will result in significant reductions in the unit costs of these systems;
+
+
+
+
+(7)
+ the use of solar photovoltaic energy systems for certain limited applications has already proved feasible;
+
+
+
+
+(8)
+ there appear to be no insoluble technical obstacles to the widespread commercial use of solar photovoltaic energy technologies;
+
+
+
+
+(9)
+ an aggressive research and development program should solve existing technical problems of solar photovoltaic systems; and, supported by an assured and growing market for photovoltaic systems during the next decade, should maximize the future contribution of solar photovoltaic energy to this Nation’s future energy production;
+
+
+
+
+(10)
+ it is the proper and appropriate role of the Federal Government to undertake research, development, and demonstration programs in solar photovoltaic energy technologies and to supplement and assist private industry and other entities and thereby the general public, so as to hasten the general commercial use of such technologies;
+
+
+
+
+(11)
+ the high cost of imported energy sources impairs the economic growth of many nations which lack sizable domestic energy supplies or are unable to develop these resources;
+
+
+
+
+(12)
+ photovoltaic energy systems are economically competitive with conventional energy resources for a wide variety of applications in many foreign nations at the present time, and will find additional applications with continued cost reductions;
+
+
+
+
+(13)
+ the early development and export of solar photovoltaic energy systems, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to the well-being of the people of other nations and to this Nation’s balance of trade;
+
+
+
+
+(14)
+ the widespread use of solar photovoltaic energy systems to supplement and replace conventional methods for the generation of electricity would have a beneficial effect upon the environment;
+
+
+
+
+(15)
+ to increase the potential application of solar photovoltaic energy systems in remote locations, and to minimize the need for backup systems depending on fossil fuel, programs leading to the development of inexpensive and reliable systems for the storage of electricity should be pursued as part of any solar photovoltaic energy research, development, and demonstration program;
+
+
+
+
+(16)
+ evaluation of the performance and reliability of solar photovoltaic energy technologies can be expedited by testing of prototypes under carefully controlled conditions;
+
+
+
+
+(17)
+ commercial application of solar photovoltaic energy technologies can be expedited by early commercial demonstration under practical conditions;
+
+
+
+
+(18)
+ photovoltaic energy systems are currently adaptable on a life cycle, cost-justified basis for certain of the energy needs of the Federal Government, and will find additional applications as continued refinements improve performance and reduce unit costs;
+
+
+
+
+(19)
+ the Federal Government can stimulate innovation and economic efficiency in the production of photovoltaic energy systems through the development and implementation of policies to promote diversity and maximum competition between firms engaged in the research, manufacture, installation, and/or maintenance of these systems;
+
+
+
+
+(20)
+ innovation and creativity in the development of solar photovoltaic energy components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in utilizing such systems; and
+
+
+
+
+(21)
+ it is contemplated that the ten-year program established by this subchapter will require the expenditure of $1,500,000,000 by the Federal Government.
+
+
+
+
+(b)
+ It is therefore declared to be the policy of the United States and the purpose of this subchapter to establish during the next decade an aggressive research, development, and demonstration program involving solar photovoltaic energy systems and in the long term, to have as an objective the production of electricity from photovoltaic systems cost competitive with utility-generated electricity from conventional sources. Further, it is declared to be the policy of the United States and the purpose of this subchapter that the objectives of this research, development, and demonstration program are—
+(1)
+ to double the production of solar photovoltaic energy systems each year during the decade starting with fiscal year 1979, measured by the peak generating capacity of the systems produced, so as to reach a total annual United States production of solar photovoltaic energy systems of approximately two million peak kilowatts, and a total cumulative production of such systems of approximately four million peak kilowatts by fiscal year 1988;
+
+
+
+
+(2)
+ to reduce the average cost of installed solar photovoltaic energy systems to $1 per peak watt by fiscal year 1988; and
+
+
+
+
+(3)
+ to stimulate the purchase by private buyers of at least 90 per centum of all solar photovoltaic energy systems produced in the United States during fiscal year 1988.
+
+
+
+
+ Definitions
+ Establishment and promotion of research, development, and demonstration programs
+(a)
+ conduct, and promote the coordination and acceleration of, research, development, and demonstrations relating to solar photovoltaic energy systems and components thereof, and
+
+
+(b)
+ conduct, and promote the coordination and acceleration of, research, development, and demonstrations for systems and components to be used in applications that are dependent for their energy on solar photovoltaic energy systems.
+
+
+ Federal assistance application procedures; selection of applicants; agreements; financial assistance; observation and monitoring of photovoltaic systems; reports; projects and activities
+(a)
+ In carrying out the provisions of 
+section 5583 of this title
+, the Secretary is authorized—
+(1)
+ to establish procedures whereby any public or private entity wishing to install solar photovoltaic components and systems in any new or existing facility may apply for Federal assistance in purchasing and installing, in such facility, photovoltaic components or systems;
+
+
+
+
+(2)
+ to select, as soon as he deems it feasible, a number of the applicants under paragraph (1) and enter into agreements with them for the design, purchase, fabrication, testing, installation, and demonstration of photovoltaic components and systems. Such selection shall be based on the need to obtain scientific, technological, and economic information from a variety of such systems under a variety of circumstances and conditions; and
+
+
+
+
+(3)
+ to arrange, as part of any agreement entered into under paragraph (2), to provide up to 75 per centum of the purchase and installation costs of photovoltaic components or systems, taking into account relevant considerations involving the relative stage of consumer and industry interest and development at the time of the financial assistance action. Such arrangements shall be contingent upon terms and conditions prescribed by the Secretary, including an express agreement that the entity with whom the agreement is entered into shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary or his agents to observe and monitor) the performance and operation of such system for a period of five years, and that such entity (including any subsequent owner of the property) shall regularly furnish the Secretary with such reports thereon as the agreement may require.
+
+
+
+
+(b)
+ The Secretary shall, as he deems appropriate, undertake any projects or activities (including demonstration projects) to further the attainment of the objectives of this section.
+
+
+ Contracts, grants and arrangements
+(a)
+ Selection of photovoltaic components and systems, design concepts, and designs
+The Secretary is authorized to select on the basis of open competitions—
+(1)
+ a number of readily available photovoltaic components and systems;
+
+
+
+
+(2)
+ a number of design concepts for various types of applications which demonstrate adaptability to the utilization of photovoltaic components and systems; and
+
+
+
+
+(3)
+ a number of designs for applications selected under paragraph (2), so that each design includes specific provisions for the utilization of solar photovoltaic components and systems selected under paragraph (1).
+
+
+
+
+(b)
+ Commercial production and utilization of photovoltaic components and systems; selection of components and systems compatible with chosen design concepts; procurement of components and systems
+The Secretary, in accordance with the applicable provisions of sections 5906, 5907, and 5908 of this title and with such program guidelines as the Secretary may establish, shall—
+(1)
+ enter into such contracts and grants as may be necessary or appropriate for the development for commercial production and utilization of photovoltaic components and systems, including any further planning and design which may be required to conform with the specifications set forth in any applicable criteria;
+
+
+
+
+(2)
+ select, as being compatible with the design concepts chosen under subsection (a)(2) of this section, a reasonable number of photovoltaic components and systems; and
+
+
+
+
+(3)
+ enter into contracts with a number of persons or firms for the procurement of photovoltaic components and systems, including adequate numbers of spare and replacement parts for such systems.
+
+
+
+
+(c)
+ Design integration; demonstration of prototype photovoltaic systems; utilization of systems in existing facilities; terms and conditions upon transfer of facilities and systems
+The Secretary is authorized to award contracts for the design integration between the application concepts and the photovoltaic systems procured by the Secretary under subsection (b)(3) of this section, and for the demonstration of prototype solar photovoltaic systems, and, when appropriate, for the utilization of such systems in existing facilities. Title to and ownership of the facilities so constructed and of photovoltaic systems installed hereunder may be conveyed to purchasers of such facilities under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such systems for a period of five years, and that such purchaser (including any subsequent owner) shall regularly furnish the Secretary with such reports thereon as the agreement may require.
+
+
+
+
+(d)
+ Arrangements with Federal agencies for demonstration of systems in Federal buildings and facilities
+The Secretary, in consultation with the Administrator of General Services or the Secretary of Defense or both (as may be appropriate) shall enter into arrangements with appropriate Federal agencies concurrently with the conduct of the programs under this section and 
+section 5586 of this title
+, to carry out such projects and activities (including demonstration projects), with respect to Federal buildings and facilities, as may be appropriate for the demonstration of photovoltaic systems suitable and effective for use in such applications.
+
+
+
+
+(e)
+ Projects and activities
+The Secretary shall, as he deems appropriate, undertake any projects or activities (including demonstration projects) to further the attainment of the objectives of this section.
+
+
+
+
+ Test procedures and performance criteria
+(a)
+ Testing program
+The Secretary shall conduct a testing program for photovoltaic systems to assist in the development and demonstration of prototype photovoltaic systems, including collectors, controls, power conditioning, and energy storage systems.
+
+
+
+
+(b)
+ Establishment and use of performance criteria
+Data obtained from the testing program under subsection (a) of this section shall be evaluated and used in establishing performance criteria. These performance criteria shall be used in the demonstration program described in sections 5583, 5584, and 5585 of this title.
+
+
+
+
+(c)
+ Determination and publication in Federal Register
+The Secretary shall determine, prescribe, and publish in the Federal Register, at a time which he determines to be feasible and justified—
+(1)
+ performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph; and
+
+
+
+
+(2)
+ revised performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph. Such criteria may be annually revised by the Secretary, as he deems appropriate.
+
+
+
+
+(d)
+ Performance criteria applicable to photovoltaic component or system procured or installed by Federal Government or with Federal assistance
+Any photovoltaic component or system procured or installed by the Federal Government or procured or installed with Federal assistance under section 5584 or 
+section 5585 of this title
+ shall meet appropriate performance criteria prescribed under this section, if such performance criteria have been prescribed.
+
+
+
+
+ Supervision of research, development, and demonstration programs
+(a)
+ Monitoring of photovoltaic systems; collection and evaluation of data; studies, investigations, and reports
+The Secretary, in coordination with such Government agencies as may be appropriate, shall—
+(1)
+ monitor the performance and operation of photovoltaic systems installed under this subchapter;
+
+
+
+
+(2)
+ collect and evaluate data and information on the performance and operation of photovoltaic systems installed under this subchapter; and
+
+
+
+
+(3)
+ from time to time carry out such studies and investigations and take such other actions, including the submission of special reports to the Congress when appropriate, as may be necessary to assure that the programs for which the Secretary is responsible under this subchapter effectively carry out the policy of this subchapter.
+
+
+
+
+(b)
+ Assistance from scientific, technical, and professional societies and industry representatives
+In the development of the performance criteria and test procedures required under 
+section 5586 of this title
+, the Secretary shall work closely with the appropriate scientific, technical, and professional societies and industry representatives in order to assure the best possible use of available expertise in this area.
+
+
+
+
+(c)
+ Liaison with industries, interests, and scientific and technical community
+The Secretary shall also maintain continuing liaison with related industries and interests, and with the scientific and technical community, during and after the period of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.
+
+
+
+
+ Solar Photovoltaic Energy Advisory Com­mittee
+(a)
+ Establishment; duties
+There is hereby established a Solar Photovoltaic Energy Advisory Committee, which shall study and advise the Secretary on—
+(1)
+ the scope and pace of research and development with respect to solar photovoltaic energy systems;
+
+
+
+
+(2)
+ the need for and timing of solar photovoltaic energy systems demonstration projects;
+
+
+
+
+(3)
+ the need for change in any research, development, or demonstration program established under this subchapter; and
+
+
+
+
+(4)
+ the economic, technological, and environmental consequences of the use of solar photovoltaic energy systems.
+
+
+
+
+(b)
+ Membership; chairman
+The Committee shall be composed of thirteen members, including eleven members appointed by the Secretary from industrial organizations, academic institutions, professional societies or institutions, and other sources as he sees fit, and two members of the public appointed by the President. The Chairman of the Committee shall be elected from among the members thereof.
+
+
+
+
+(c)
+ Cooperation from executive departments, agencies, and instrumentalities
+The heads of the departments, agencies, and instrumentalities of the executive branch of the Federal Government shall cooperate with the Committee in carrying out the requirements of this section, and shall furnish to the Committee such information as the Committee deems necessary to carry out this section.
+
+
+
+
+(d)
+ Application of 
+section 7234 of this title
+Section 7234 of this title
+ shall be applicable to the Committee, except as inconsistent with this section.
+
+
+
+
+ Promotion and facilitation of practical use of photovoltaic energy
+(a)
+ Dissemination of information; trade secret exemption
+The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is made available to Federal, State, and local authorities, relevant segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of photovoltaic energy throughout the United States. Any trade secret or other proprietary information shall be exempted from such mandatory disclosure, as otherwise specified in law applicable to research, development and demonstration programs of the Department of Energy, including, but not limited to, 
+section 5916 of this title
+.
+
+
+
+
+(b)
+ Studies and investigations
+The Secretary shall—
+(1)
+ study the effect of the widespread utilization of photovoltaic systems on the existing electric utility system at varying levels of photovoltaic contribution to the system;
+
+
+
+
+(2)
+ study and investigate the effect of utility rate structures, building codes, zoning ordinances, and other laws, codes, ordinances, and practices upon the practical use of photovoltaic systems;
+
+
+
+
+(3)
+ determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use and the methods by which any such changes may best be accomplished; and
+
+
+
+
+(4)
+ determine the necessity of a program of incentives to accelerate the commercial application of photovoltaic technologies.
+
+
+
+
+(c)
+ Policy recommendations to President and Congress
+The Secretary is authorized and directed, within one year of 
+November 4, 1978
+, to make recommendations to the President and to the Congress for Federal policies relating to barriers to the early and widespread utilization of photovoltaic systems in order to realize the goals set forth in 
+section 5581 of this title
+. These recommendations shall include but not be limited to—
+(1)
+ the potential for integration of electricity derived from photovoltaic energy systems into the existing national grid system, including the potential of photovoltaic-generated electricity to meet the peak-load energy needs of electric utilities, load management and reliability implications of the utilization of photovoltaic electricity by utilities, the implications of utility ownership of photovoltaic components leased to others primarily for decentralized applications, the impacts of utility use of electricity derived from photovoltaic energy systems on utility rate structures, and the potential for reducing or obviating the need for energy storage components for photovoltaic energy systems through utility interface;
+
+
+
+
+(2)
+ the extent of competition between firms currently engaged in the fabrication and installation of photovoltaics components and systems as it affects the character and growth potential of the American photovoltaics industry, and the likelihood that small photovoltaic firms will have reasonable opportunities to compete and participate in the various programs authorized by this subchapter;
+
+
+
+
+(3)
+ the need to identify legal alternatives to ensure access to direct sunlight for photovoltaic energy systems, the appropriate methods of encouraging the adoption of such alternatives, and the implications of widespread utilization of photovoltaic energy systems for land use and urban development;
+
+
+
+
+(4)
+ the availability of private capital at reasonable interest rates for individuals, businesses and others desiring to establish commercial enterprises to manufacture, market, install, and/or, maintain photovoltaic components and systems, or purchase and install such systems for private, industrial, agricultural, commercial or other uses;
+
+
+
+
+(5)
+ the need for industry-wide warranty and reliability standards for photovoltaic energy components and systems for private sector applications, and, if appropriate, the mechanisms for establishing such standards; and
+
+
+
+
+(6)
+ the attainability of the goals specified in 
+section 5581(b) of this title
+, and any modification of such goals which the Secretary proposes for consideration by Congress, with supporting analyses.
+
+
+
+
+(d)
+ Consultation with government agencies, industry representatives, and scientific and technical community; coordination and merger of studies and reports
+In carrying out his functions under this section, the Secretary shall consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this area. The Secretary also shall ensure that any study or report prepared pursuant to this section is fully coordinated with and reflective of any analyses or reports prepared pursuant to the requirements in 
+section 5556a of this title
+, and in the President’s Solar Energy Domestic Policy Review. The Secretary, as appropriate, may merge any continuing or on-going studies under 
+section 5556a of this title
+ or the Domestic Policy Review with those required by this section or avoid any unnecessary duplication of effort or funding. The separate report requirements of 
+section 5556a of this title
+ and this section, however, shall remain in force.
+
+
+
+
+ Submittal to Congressional committees of plan for demonstrating applications of photovoltaic systems and facilitating use in other nations; encouragement of international participation and cooperation; coordination and consistency of plan and international activities with similar activities and programs
+(a)
+ Within one year after 
+November 4, 1978
+, the Secretary, in consultation with the Secretary of State, the Administrator of the Agency for International Development, the Director of the Export/Import Bank and other appropriate Federal officials, shall submit to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources a plan for demonstrating applications of solar photovoltaic energy systems and facilitating their widespread use in other nations, especially those with agreements for scientific cooperation with the United States.
+
+
+(b)
+ The Secretary is authorized to encourage, to the maximum extent practicable, international participation and cooperation in the development and maintenance of programs established under this plan. The Secretary, in consultation and cooperation with the Federal officials specified in subsection (a) of this section, shall insure to the maximum extent possible that the plan submitted under subsection (a) of this section and any other international activities under this section are consistent with and reflective of any similar activities or requirements under any other Federal statute, specifically including any of the several programs under other agencies and Departments involving United States international cooperation and assistance in nonnuclear energy technology, and will not duplicate activities under such programs. The plan required in subsection (a) of this section shall specifically identify all such programs and statutes and describe how the activities under this section will be consistent with such programs, will be coordinated with them, and will avoid duplication of activities under such programs.
+
+
+ Participation of small business concerns
+In carrying out his functions under this subchapter, the Secretary shall take steps to assure that small-business concerns will have realistic and adequate opportunities to participate in the programs under this subchapter to the maximum extent practicable, and the Secretary is directed to set aside at least 10 per centum of the funds authorized and appropriated for the participation of small business concerns.
+ Priorities
+ Construction with National Energy Conservation Policy Act
+Nothing in this subchapter shall be construed to negate, duplicate, or otherwise affect the provisions of part C subchapter III of chapter 91 of this title, and such part C shall be exempted fully from the provisions of this subchapter and any regulations, guidelines, or criteria pursuant thereto.
+ Authorization of appropriations
+There is hereby authorized to be appropriated to the Secretary, for the fiscal year ending 

@@ -1,0 +1,3278 @@
+
+Chapter 3
+FEDERAL RESERVE SYSTEM
+ Definitions
+Wherever the word “bank” is used in this chapter, the word shall be held to include State bank, banking association, and trust company, except where national banks or Federal reserve banks are specifically referred to. For purposes of this chapter, a State bank includes any bank which is operating under the Code of Law for the District of Columbia.
+ Additional definitions
+(a)
+ The terms “banks”, “national bank”, “national banking association”, “member bank”, “board”, “district”, and “reserve bank” shall have the meanings assigned to them in 
+section 221 of this title
+.
+
+
+(b)
+ Except where otherwise specifically provided, the term “affiliate” shall include any corporation, business trust, association, or other similar organization—
+(1)
+ Of which a member bank, directly or indirectly, owns or controls either a majority of the voting shares or more than 50 per centum of the number of shares voted for the election of its directors, trustees, or other persons exercising similar functions at the preceding election, or controls in any manner the election of a majority of its directors, trustees, or other persons exercising similar functions; or
+
+
+
+
+(2)
+ Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majority of the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
+
+
+
+
+(3)
+ Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank; or
+
+
+
+
+(4)
+ Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of a member bank at the preceding election, or controls in any manner the election of a majority of the directors of a member bank, or for the benefit of whose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.
+
+
+
+
+ Federal reserve districts; membership of national banks
+The continental United States, excluding Alaska, shall be divided into not less than eight nor more than twelve districts. Such districts may be readjusted and new districts may from time to time be created by the Board of Governors of the Federal Reserve System, not to exceed twelve in all: 
+ Number of Federal reserve cities in district
+A Federal reserve district shall contain only one Federal reserve city.
+ Status of reserve cities under former statutes
+The organization of reserve districts and Federal reserve cities shall not be construed as changing the present status of reserve cities except in so far as this chapter changes the amount of reserves that may be carried with approved reserve agents located therein.
+ Federal reserve banks; title
+A Federal reserve bank shall include in its title the name of the city in which it is situated, as “Federal Reserve Bank of Chicago.”
+ Maintenance of long run growth of monetary and credit aggregates
+The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy’s long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates.
+ Appearances before and reports to the Congress
+(a)
+ Appearances before the Congress
+(1)
+ In general
+The Chairman of the Board shall appear before the Congress at semi-annual hearings, as specified in paragraph (2), regarding—
+(A)
+ the efforts, activities, objectives and plans of the Board and the Federal Open Market Committee with respect to the conduct of monetary policy; and
+
+
+
+
+(B)
+ economic developments and prospects for the future described in the report required in subsection (b) of this section.
+
+
+
+
+
+
+(2)
+ Schedule
+The Chairman of the Board shall appear—
+(A)
+ before the Committee on Banking and Financial Services of the House of Representatives on or about February 20 of even numbered calendar years and on or about July 20 of odd numbered calendar years;
+
+
+
+
+(B)
+ before the Committee on Banking, Housing, and Urban Affairs of the Senate on or about July 20 of even numbered calendar years and on or about February 20 of odd numbered calendar years; and
+
+
+
+
+(C)
+ before either Committee referred to in subparagraph (A) or (B), upon request, following the scheduled appearance of the Chairman before the other Committee under subparagraph (A) or (B).
+
+
+
+
+
+
+(b)
+ Congressional report
+The Board shall, concurrent with each semi-annual hearing required by this section, submit a written report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives, containing a discussion of the conduct of monetary policy and economic developments and prospects for the future, taking into account past and prospective developments in employment, unemployment, production, investment, real income, productivity, exchange rates, international trade and payments, and prices.
+
+
+
+
+(c)
+ Public access to information
+The Board shall place on its home Internet website, a link entitled “Audit”, which shall link to a webpage that shall serve as a repository of information made available to the public for a reasonable period of time, not less than 6 months following the date of release of the relevant information, including—
+(1)
+ the reports prepared by the Comptroller General under 
+section 714 of title 31
+;
+
+
+
+
+(2)
+ the annual financial statements prepared by an independent auditor for the Board in accordance with 
+section 248b of this title
+;
+
+
+
+
+(3)
+ the reports to the Committee on Banking, Housing, and Urban Affairs of the Senate required under 
+section 343(3) of this title
+ (relating to emergency lending authority); and
+
+
+
+
+(4)
+ such other information as the Board reasonably believes is necessary or helpful to the public in understanding the accounting, financial reporting, and internal controls of the Board and the Federal reserve banks.
+
+
+
+
+ “Federal Reserve Act”
+The short title of the 
+ “Banking Act of 1933”
+The short title of the 
+ “Banking Act of 1935”
+The 
+ Creation; membership; compensation and expenses
+The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after 
+ Ineligibility to hold office in member banks; qualifications and terms of office of members; chairman and vice chairman; oath of office
+The members of the Board shall be ineligible during the time they are in office and for two years thereafter to hold any office, position, or employment in any member bank, except that this restriction shall not apply to a member who has served the full term for which he was appointed. Upon the expiration of the term of any appointive member of the Federal Reserve Board in office on 
+ Assessments upon Federal reserve banks to pay expenses
+The Board of Governors of the Federal Reserve System shall have power to levy semiannually upon the Federal reserve banks, in proportion to their capital stock and surplus, an assessment sufficient to pay its estimated expenses and the salaries of its members and employees for the half year succeeding the levying of such assessment, together with any deficit carried forward from the preceding half year, and such assessments may include amounts sufficient to provide for the acquisition by the Board in its own name of such site or building in the District of Columbia as in its judgment alone shall be necessary for the purpose of providing suitable and adequate quarters for the performance of its functions. After 
+ Principal offices of Board; chairman of Board; obligations and expenses; qualifications of members; vacancies
+The principal offices of the Board shall be in the District of Columbia. At meetings of the Board the chairman shall preside, and, in his absence, the vice chairman shall preside. In the absence of the chairman and the vice chairman, the Board shall elect a member to act as chairman pro tempore. The Board shall determine and prescribe the manner in which its obligations shall be incurred and its disbursements and expenses allowed and paid, and may leave on deposit in the Federal Reserve banks the proceeds of assessments levied upon them to defray its estimated expenses and the salaries of its members and employees, whose employment, compensation, leave, and expenses shall be governed solely by the provisions of this chapter and rules and regulations of the Board not inconsistent therewith; and funds derived from such assessments shall not be construed to be Government funds or appropriated moneys. No member of the Board of Governors of the Federal Reserve System shall be an officer or director of any bank, banking institution, trust company, or Federal Reserve bank or hold stock in any bank, banking institution, or trust company; and before entering upon his duties as a member of the Board of Governors of the Federal Reserve System he shall certify under oath that he has complied with this requirement, and such certification shall be filed with the secretary of the Board. Whenever a vacancy shall occur, other than by expiration of term, among the seven members of the Board of Governors of the Federal Reserve System appointed by the President as above provided, a successor shall be appointed by the President, by and with the advice and consent of the Senate, to fill such vacancy, and when appointed he shall hold office for the unexpired term of his predecessor.
+ Vacancies during recess of Senate
+The President shall have power to fill all vacancies that may happen on the Board of Governors of the Federal Reserve System during the recess of the Senate by granting commissions which shall expire with the next session of the Senate.
+ Powers of Secretary of the Treasury as affected by chapter
+Nothing in this chapter contained shall be construed as taking away any powers heretofore vested by law in the Secretary of the Treasury which relate to the supervision, management, and control of the Treasury Department and bureaus under such department, and wherever any power vested by this chapter in the Board of Governors of the Federal Reserve System or the Federal reserve agent appears to conflict with the powers of the Secretary of the Treasury, such powers shall be exercised subject to the supervision and control of the Secretary.
+ Reports to Congress
+The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress. The report required under this paragraph shall include the reports required under 
+ Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress
+The Board of Governors of the Federal Reserve System shall keep a complete record of the action taken by the Board and by the Federal Open Market Committee upon all questions of policy relating to open-market operations and shall record therein the votes taken in connection with the determination of open-market policies and the reasons underlying the action of the Board and the Committee in each instance. The Board shall keep a similar record with respect to all questions of policy determined by the Board, and shall include in its annual report to the Congress a full account of the action so taken during the preceding year with respect to open-market policies and operations and with respect to the policies determined by it and shall include in such report a copy of the records required to be kept under the provisions of this section.
+ Appearances before Congress
+The Vice Chairman for Supervision shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives and at semi-annual hearings regarding the efforts, activities, objectives, and plans of the Board with respect to the conduct of supervision and regulation of depository institution holding companies and other financial firms supervised by the Board.
+ Enumerated powers
+(a)
+ Examination of accounts and affairs of banks; publication of weekly statements; reports of liabilities and assets of depository institutions; covered institutions
+(1)
+ To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
+
+
+
+
+(2)
+ To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State savings associations that are insured depository institutions (as defined in 
+section 1813 of this title
+), State nonmember banks, savings banks, and mutual savings banks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Comptroller of the Currency in the case of any Federal savings association which is an insured depository institution (as defined in 
+section 1813 of this title
+) or which is a member as defined in 
+section 1422 of this title
+, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings association, or credit union. The Board shall endeavor to avoid the imposition of unnecessary burdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirements shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
+
+
+
+
+(b)
+ Permitting or requiring rediscounting of paper at specified rate
+To permit, or, on the affirmative vote of at least five members of the Board of Governors, to require Federal reserve banks to rediscount the discounted paper of other Federal reserve banks at rates of interest to be fixed by the Board.
+
+
+
+
+(c)
+ Suspending reserve requirements
+To suspend for a period not exceeding thirty days, and from time to time to renew such suspension for periods not exceeding fifteen days, any reserve requirements specified in this chapter.
+
+
+
+
+(d)
+ Supervising and regulating issue and retirement of notes
+To supervise and regulate through the Secretary of the Treasury the issue and retirement of Federal Reserve notes, except for the cancellation and destruction, and accounting with respect to such cancellation and destruction, of notes unfit for circulation, and to prescribe rules and regulations under which such notes may be delivered by the Secretary of the Treasury to the Federal Reserve agents applying therefor.
+
+
+
+
+(e)
+ Adding to or reclassifying reserve cities
+To add to the number of cities classified as reserve cities under existing law in which national banking associations are subject to the reserve requirements set forth in section 20 of this Act, or to reclassify existing reserve cities or to terminate their designation as such.
+
+
+
+
+(f)
+ Suspending or removing officers or directors of reserve banks
+To suspend or remove any officer or director of any Federal reserve bank, the cause of such removal to be forthwith communicated in writing by the Board of Governors of the Federal Reserve System to the removed officer or director and to said bank.
+
+
+
+
+(g)
+ Requiring writing off of doubtful or worthless assets of banks
+To require the writing off of doubtful or worthless assets upon the books and balance sheets of Federal reserve banks.
+
+
+
+
+(h)
+ Suspending operations of or liquidating or reorganizing banks
+To suspend, for the violation of any of the provisions of this chapter, the operations of any Federal reserve bank, to take possession thereof, administer the same during the period of suspension, and, when deemed advisable, to liquidate or reorganize such bank.
+
+
+
+
+(i)
+ Requiring bonds of agents; safeguarding property in hands of agents
+To require bonds of Federal reserve agents, to make regulations for the safeguarding of all collateral, bonds, Federal reserve notes, money, or property of any kind deposited in the hands of such agents, and said board shall perform the duties, functions, or services specified in this chapter, and make all rules and regulations necessary to enable said board effectively to perform the same.
+
+
+
+
+(j)
+ Exercising supervision over reserve banks
+To exercise general supervision over said Federal reserve banks.
+
+
+
+
+(k)
+ Delegation of certain functions; power to delegate; review of delegated activities
+To delegate, by published order or rule and subject to subchapter II of chapter 5, and chapter 7, of title 5, any of its functions, other than those relating to rulemaking or pertaining principally to monetary and credit policies, to one or more administrative law judges, members or employees of the Board, or Federal Reserve banks. The assignment of responsibility for the performance of any function that the Board determines to delegate shall be a function of the Chairman. The Board shall, upon the vote of one member, review action taken at a delegated level within such time and in such manner as the Board shall by rule prescribe. The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors.
+
+
+
+
+(l)
+ Employing attorneys, experts, assistants, and clerks; salaries and fees
+To employ such attorneys, experts, assistants, clerks, or other employees as may be deemed necessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board. All such attorneys, experts, assistants, clerks, and other employees shall be appointed without regard to the provisions of the Act of January sixteenth, eighteen hundred and eighty-three (volume twenty-two, United States Statutes at Large, page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: 
+Provided
+, That nothing herein shall prevent the President from placing said employees in the classified service.
+
+
+
+
+(m)
+ [Repealed]
+
+
+(n)
+ Board’s authority to examine depository institutions and affiliates
+To examine, at the Board’s discretion, any depository institution, and any affiliate of such depository institution, in connection with any advance to, any discount of any instrument for, or any request for any such advance or discount by, such depository institution under this chapter.
+
+
+
+
+(o)
+ Authority to appoint conservator or receiver
+The Board may appoint the Federal Deposit Insurance Corporation as conservator or receiver for a State member bank under 
+section 1821(c)(9) of this title
+.
+
+
+
+
+(p)
+ Authority
+The Board may act in its own name and through its own attorneys in enforcing any provision of this title,
+1
+1
+ See References in Text note below.
+ regulations promulgated hereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Board is a party and which involves the Board’s regulation or supervision of any bank, bank holding company (as defined in 
+section 1841 of this title
+), or other entity, or the administration of its operations.
+
+
+
+
+(q)
+ Uniform protection authority for Federal reserve facilities
+(1)
+ Notwithstanding any other provision of law, to authorize personnel to act as law enforcement officers to protect and safeguard the premises, grounds, property, personnel, including members of the Board, of the Board, or any Federal reserve bank, and operations conducted by or on behalf of the Board or a reserve bank.
+
+
+
+
+(2)
+ The Board may, subject to the regulations prescribed under paragraph (5), delegate authority to a Federal reserve bank to authorize personnel to act as law enforcement officers to protect and safeguard the bank’s premises, grounds, property, personnel, and operations conducted by or on behalf of the bank.
+
+
+
+
+(3)
+ Law enforcement officers designated or authorized by the Board or a reserve bank under paragraph (1) or (2) are authorized while on duty to carry firearms and make arrests without warrants for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States committed or being committed within the buildings and grounds of the Board or a reserve bank if they have reasonable grounds to believe that the person to be arrested has committed or is committing such a felony. Such officers shall have access to law enforcement information that may be necessary for the protection of the property or personnel of the Board or a reserve bank.
+
+
+
+
+(4)
+ For purposes of this subsection, the term “law enforcement officers” means personnel who have successfully completed law enforcement training and are authorized to carry firearms and make arrests pursuant to this subsection.
+
+
+
+
+(5)
+ The law enforcement authorities provided for in this subsection may be exercised only pursuant to regulations prescribed by the Board and approved by the Attorney General.
+
+
+
+
+(r)
+ Voting; documentation of determinations
+(1)
+ Any action that this chapter provides may be taken only upon the affirmative vote of 5 members of the Board may be taken upon the unanimous vote of all members then in office if there are fewer than 5 members in office at the time of the action.
+
+
+
+
+(2)
+(A)
+ Any action that the Board is otherwise authorized to take under 
+section 343(3) of this title
+ may be taken upon the unanimous vote of all available members then in office, if—
+(i)
+ at least 2 members are available and all available members participate in the action;
+
+
+
+
+(ii)
+ the available members unanimously determine that—
+(I)
+ unusual and exigent circumstances exist and the borrower is unable to secure adequate credit accommodations from other sources;
+
+
+
+
+(II)
+ action on the matter is necessary to prevent, correct, or mitigate serious harm to the economy or the stability of the financial system of the United States;
+
+
+
+
+(III)
+ despite the use of all means available (including all available telephonic, telegraphic, and other electronic means), the other members of the Board have not been able to be contacted on the matter; and
+
+
+
+
+(IV)
+ action on the matter is required before the number of Board members otherwise required to vote on the matter can be contacted through any available means (including all available telephonic, telegraphic, and other electronic means); and
+
+
+
+
+
+
+(iii)
+ any credit extended by a Federal reserve bank pursuant to such action is payable upon demand of the Board.
+
+
+
+
+
+
+(B)
+ The available members of the Board shall document in writing the determinations required by subparagraph (A)(ii), and such written findings shall be included in the record of the action and in the official minutes of the Board, and copies of such record shall be provided as soon as practicable to the members of the Board who were not available to participate in the action and to the Chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate and to the Chairman of the Committee on Financial Services of the House of Representatives.
+
+
+
+
+
+
+(s)
+ 
+2
+2
+ So in original. Two subsecs. (s) have been enacted.
+ Federal Reserve transparency and release of information
+(1)
+ In general
+In order to ensure the disclosure in a timely manner consistent with the purposes of this chapter of information concerning the borrowers and counterparties participating in emergency credit facilities, discount window lending programs, and open market operations authorized or conducted by the Board or a Federal reserve bank, the Board of Governors shall disclose, as provided in paragraph (2)—
+(A)
+ the names and identifying details of each borrower, participant, or counterparty in any credit facility or covered transaction;
+
+
+
+
+(B)
+ the amount borrowed by or transferred by or to a specific borrower, participant, or counterparty in any credit facility or covered transaction;
+
+
+
+
+(C)
+ the interest rate or discount paid by each borrower, participant, or counterparty in any credit facility or covered transaction; and
+
+
+
+
+(D)
+ information identifying the types and amounts of collateral pledged or assets transferred in connection with participation in any credit facility or covered transaction.
+
+
+
+
+
+
+(2)
+ Mandatory release date
+In the case of—
+(A)
+ a credit facility, the Board shall disclose the information described in paragraph (1) on the date that is 1 year after the effective date of the termination by the Board of the authorization of the credit facility; and
+
+
+
+
+(B)
+ a covered transaction, the Board shall disclose the information described in paragraph (1) on the last day of the eighth calendar quarter following the calendar quarter in which the covered transaction was conducted.
+
+
+
+
+
+
+(3)
+ Earlier release date authorized
+The Chairman of the Board may publicly release the information described in paragraph (1) before the relevant date specified in paragraph (2), if the Chairman determines that such disclosure would be in the public interest and would not harm the effectiveness of the relevant credit facility or the purpose or conduct of covered transactions.
+
+
+
+
+
+
+(4)
+ Definitions
+For purposes of this subsection, the following definitions shall apply:
+(A)
+ Credit facility
+The term “credit facility” has the same meaning as in 
+section 714(f)(1)(A) of title 31
+.
+
+
+
+
+
+
+(B)
+ Covered transaction
+The term “covered transaction” means—
+(i)
+ any open market transaction with a nongovernmental third party conducted under 
+section 353 of this title
+ or section 354, 355, or 356 of this title, after 
+July 21, 2010
+; and
+
+
+
+
+(ii)
+ any advance made under 
+section 347b of this title
+ after 
+July 21, 2010
+.
+
+
+
+
+
+
+
+
+(5)
+ Termination of credit facility by operation of law
+A credit facility shall be deemed to have terminated as of the end of the 24-month period beginning on the date on which the credit facility ceases to make extensions of credit and loans, unless the credit facility is otherwise terminated by the Board before such date.
+
+
+
+
+
+
+(6)
+ Consistent treatment of information
+Except as provided in this subsection or 
+section 343(3)(D) of this title
+, or in 
+section 714(f)(3)(C) of title 31
+, the information described in paragraph (1) and information concerning the transactions described in section 714(f) of such title, shall be confidential, including for purposes of 
+section 552(b)(3) of title 5
+, until the relevant mandatory release date described in paragraph (2), unless the Chairman of the Board determines that earlier disclosure of such information would be in the public interest and would not harm the effectiveness of the relevant credit facility or the purpose of conduct of the relevant transactions.
+
+
+
+
+
+
+(7)
+ Protection of personal privacy
+This subsection and 
+section 343(3)(C) of this title
+, 
+section 714(f)(3)(C) of title 31
+, and subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act shall not be construed as requiring any disclosure of nonpublic personal information (as defined for purposes of 
+section 6802 of title 15
+) concerning any individual who is referenced in collateral pledged or assets transferred in connection with a credit facility or covered transaction, unless the person is a borrower, participant, or counterparty under the credit facility or covered transaction.
+
+
+
+
+
+
+(8)
+ Study of FOIA exemption impact
+(A)
+ Study
+The Inspector General of the Board of Governors of the Federal Reserve System shall—
+(i)
+ conduct a study on the impact that the exemption from 
+section 552(b)(3) of title 5
+ (known as the Freedom of Information Act) established under paragraph (6) has had on the ability of the public to access information about the administration by the Board of Governors of emergency credit facilities, discount window lending programs, and open market operations; and
+
+
+
+
+(ii)
+ make any recommendations on whether the exemption described in clause (i) should remain in effect.
+
+
+
+
+
+
+(B)
+ Report
+Not later than 30 months after 
+July 21, 2010
+, the Inspector General of the Board of Governors of the Federal Reserve System shall submit a report on the findings of the study required under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, and publish the report on the website of the Board.
+
+
+
+
+
+
+
+
+(9)
+ Rule of construction
+Nothing in this section is meant to affect any pending litigation or lawsuit filed under 
+section 552 of title 5
+ (popularly known as the Freedom of Information Act) on or before 
+July 21, 2010
+.
+
+
+
+
+
+
+(s)
+ 
+2
+ Assessments, fees, and other charges for certain companies
+(1)
+ In general
+The Board shall collect a total amount of assessments, fees, or other charges from the companies described in paragraph (2) that is equal to the total expenses the Board estimates are necessary or appropriate to carry out the supervisory and regulatory responsibilities of the Board with respect to such companies.
+
+
+
+
+
+
+(2)
+ Companies
+The companies described in this paragraph are—
+(A)
+ all bank holding companies having total consolidated assets of $50,000,000,000 or more;
+
+
+
+
+(B)
+ all savings and loan holding companies having total consolidated assets of $50,000,000,000 or more; and
+
+
+
+
+(C)
+ all nonbank financial companies supervised by the Board under 
+section 5323 of this title
+.
+
+
+
+
+
+
+ Rules and regulations for transfer of funds and charges therefor among banks; clearing houses
+The Board of Governors of the Federal Reserve System shall make and promulgate from time to time regulations governing the transfer of funds and charges therefor among Federal reserve banks and their branches, and may at its discretion exercise the functions of a clearing house for such Federal reserve banks, or may designate a Federal reserve bank to exercise such functions, and may also require each such bank to exercise the functions of a clearing house for depository institutions.
+ Pricing of services
+(a)
+ Publication of pricing principles and proposed schedule of fees; effective date of schedule of fees
+Not later than the first day of the sixth month after 
+March 31, 1980
+, the Board shall publish for public comment a set of pricing principles in accordance with this section and a proposed schedule of fees based upon those principles for Federal Reserve bank services to depository institutions, and not later than the first day of the eighteenth month after 
+March 31, 1980
+, the Board shall begin to put into effect a schedule of fees for such services which is based on those principles.
+
+
+
+
+(b)
+ Covered services
+The services which shall be covered by the schedule of fees under subsection (a) of this section are—
+(1)
+ currency and coin services;
+
+
+
+
+(2)
+ check clearing and collection services;
+
+
+
+
+(3)
+ wire transfer services;
+
+
+
+
+(4)
+ automated clearinghouse services;
+
+
+
+
+(5)
+ settlement services;
+
+
+
+
+(6)
+ securities safekeeping services;
+
+
+
+
+(7)
+ Federal Reserve float; and
+
+
+
+
+(8)
+ any new services which the Federal Reserve System offers, including but not limited to payment services to effectuate the electronic transfer of funds.
+
+
+
+
+(c)
+ Criteria applicable
+The schedule of fees prescribed pursuant to this section shall be based on the following principles:
+(1)
+ All Federal Reserve bank services covered by the fee schedule shall be priced explicitly.
+
+
+
+
+(2)
+ All Federal Reserve bank services covered by the fee schedule shall be available to nonmember depository institutions and such services shall be priced at the same fee schedule applicable to member banks, except that nonmembers shall be subject to any other terms, including a requirement of balances sufficient for clearing purposes, that the Board may determine are applicable to member banks.
+
+
+
+
+(3)
+ Over the long run, fees shall be established on the basis of all direct and indirect costs actually incurred in providing the Federal Reserve services priced, including interest on items credited prior to actual collection, overhead, and an allocation of imputed costs which takes into account the taxes that would have been paid and the return on capital that would have been provided had the services been furnished by a private business firm, except that the pricing principles shall give due regard to competitive factors and the provision of an adequate level of such services nationwide.
+
+
+
+
+(4)
+ Interest on items credited prior to collection shall be charged at the current rate applicable in the market for Federal funds.
+
+
+
+
+(d)
+ Budgetary consequences of decline in volume of services
+The Board shall require reductions in the operating budgets of the Federal Reserve banks commensurate with any actual or projected decline in the volume of services to be provided by such banks. The full amount of any savings so realized shall be paid into the United States Treasury.
+
+
+
+
+(e)
+ Parity in clearing
+All depository institutions, as defined in 
+section 461(b)(1) of this title
+, may receive for deposit and as deposits any evidences of transaction accounts, as defined by 
+section 461(b)(1) of this title
+ from other depository institutions, as defined in 
+section 461(b)(1) of this title
+ or from any office of any Federal Reserve bank without regard to any Federal or State law restricting the number or the physical location or locations of such depository institutions.
+
+
+
+
+ Annual independent audits of Federal reserve banks and Board
+The Board shall order an annual independent audit of the financial statements of each Federal reserve bank and the Board.
+ Repealed. 
+ Independence of financial regulatory agencies
+No officer or agency of the United States shall have any authority to require the Securities and Exchange Commission, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Director of the Federal Housing Finance Agency, or the National Credit Union Administration to submit legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the agency submitting them and do not necessarily represent the views of the President.
+ Repealed. 
+ Credit availability assessment
+(a)
+ Study
+(1)
+ In general
+Not later than 12 months after 
+September 30, 1996
+, and once every 60 months thereafter, the Board, in consultation with the Director of the Office of Thrift Supervision, the Comptroller of the Currency, the Board of Directors of the Corporation, the Administrator of the National Credit Union Administration, the Administrator of the Small Business Administration, and the Secretary of Commerce, shall conduct a study and submit a report to the Congress detailing the extent of small business lending by all creditors.
+
+
+
+
+
+
+(2)
+ Contents of study
+The study required under paragraph (1) shall identify, to the extent practicable, those factors which provide policymakers with insights into the small business credit market, including—
+(A)
+ the demand for small business credit, including consideration of the impact of economic cycles on the levels of such demand;
+
+
+
+
+(B)
+ the availability of credit to small businesses;
+
+
+
+
+(C)
+ the range of credit options available to small businesses, such as those available from insured depository institutions and other providers of credit;
+
+
+
+
+(D)
+ the types of credit products used to finance small business operations, including the use of traditional loans, leases, lines of credit, home equity loans, credit cards, and other sources of financing;
+
+
+
+
+(E)
+ the credit needs of small businesses, including, if appropriate, the extent to which such needs differ, based upon product type, size of business, cash flow requirements, characteristics of ownership or investors, or other aspects of such business;
+
+
+
+
+(F)
+ the types of risks to creditors in providing credit to small businesses; and
+
+
+
+
+(G)
+ such other factors as the Board deems appropriate.
+
+
+
+
+
+
+(b)
+ Use of existing data
+The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
+
+
+
+
+“(a)
+ 
+Study
+.—
+The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act [
+12 U.S.C. 1813(z)
+]), shall conduct a study of the extent to which credit is being provided to and for small businesses and farms, as a result of this Act [see Tables for classification] and the amendments made by this Act.
+
+
+“(b)
+ 
+Report
+.—
+Before the end of the 5-year period beginning on the date of the enactment of this Act [
+Nov. 12, 1999
+], the Secretary, in consultation with the Federal banking agencies, shall submit a report to the Congress on the study conducted pursuant to subsection (a) and shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action.”
+
+
+ Creation; membership; compensation; meetings; officers; procedure; quorum; vacancies
+There is created a Federal Advisory Council, which shall consist of as many members as there are Federal reserve districts. Each Federal reserve bank by its board of directors shall annually select from its own Federal reserve district one member of said council, who shall receive such compensation and allowances as may be fixed by his board of directors subject to the approval of the Board of Governors of the Federal Reserve System. The meetings of said advisory council shall be held at Washington, District of Columbia, at least four times each year, and oftener if called by the Board of Governors of the Federal Reserve System. The council may in addition to the meetings above provided for hold such other meetings in Washington, District of Columbia, or elsewhere, as it may deem necessary, may select its own officers and adopt its own methods of procedure, and a majority of its members shall constitute a quorum for the transaction of business. Vacancies in the council shall be filled by the respective reserve banks, and members selected to fill vacancies shall serve for the unexpired term.
+ Powers
+The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Board of Governors of the Federal Reserve System on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserve conditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
+ Federal Open Market Committee; creation; membership; regulations governing open-market transactions
+(a)
+ There is hereby created a Federal Open Market Committee (hereinafter referred to as the “Committee”), which shall consist of the members of the Board of Governors of the Federal Reserve System and five representatives of the Federal Reserve banks to be selected as hereinafter provided. Such representatives shall be presidents or first vice presidents of Federal Reserve banks and, beginning with the election for the term commencing 
+March 1, 1943
+, shall be elected annually as follows: One by the board of directors of the Federal Reserve Bank of New York, one by the boards of directors of the Federal Reserve Banks of Boston, Philadelphia, and Richmond, one by the boards of directors of the Federal Reserve Banks of Cleveland and Chicago, one by the boards of directors of the Federal Reserve Banks of Atlanta, Dallas, and St. Louis, and one by the boards of directors of the Federal Reserve Banks of Minneapolis, Kansas City, and San Francisco. In such elections each board of directors shall have one vote; and the details of such elections may be governed by regulations prescribed by the committee, which may be amended from time to time. An alternate to serve in the absence of each such representative shall likewise be a president or first vice president of a Federal Reserve bank and shall be elected annually in the same manner. The meetings of said Committee shall be held at Washington, District of Columbia, at least four times each year upon the call of the chairman of the Board of Governors of the Federal Reserve System or at the request of any three members of the Committee.
+
+
+(b)
+ No Federal Reserve bank shall engage or decline to engage in open-market operations under sections 348a and 353 to 359 of this title except in accordance with the direction of and regulations adopted by the Committee. The Committee shall consider, adopt, and transmit to the several Federal Reserve banks, regulations relating to the open-market transactions of such banks.
+
+
+(c)
+ The time, character, and volume of all purchases and sales of paper described in sections 348a and 353 to 359 of this title as eligible for open-market operations shall be governed with a view to accommodating commerce and business and with regard to their bearing upon the general credit situation of the country.
+
+
+ Transferred
+ Insured banks as depositaries of public money; duties; security; discrimination between banks prohibited; repeal of inconsistent laws
+All insured banks designated for that purpose by the Secretary of the Treasury shall be depositaries of public money of the United States (including, without being limited to, revenues and funds of the United States, and any funds the deposit of which is subject to the control or regulation of the United States or any of its officers, agents, or employees, and Postal Savings funds), and the Secretary is authorized to deposit public money in such depositaries, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government as may be required of them. The Secretary of the Treasury shall require of the insured banks thus designated satisfactory security by the deposit of United States bonds or otherwise, for the safekeeping and prompt payment of public money deposited with them and for the faithful performance of their duties as financial agents of the Government: 
+ State-chartered banks and other institutions as depositaries of public money; fiscal agents; duties
+Banks, savings banks, and savings and loan, building and loan, homestead associations (including cooperative banks), and credit unions created under the laws of any State and the deposits or accounts of which are insured by a State or agency thereof or corporation chartered pursuant to the laws of any State may be depositaries of public money and may be employed as fiscal agents of the United States. The Secretary of the Treasury is authorized to deposit public money in any such institution, and shall prescribe such regulations as may be necessary to enable such institutions to become depositaries of public money and fiscal agents of the United States. Each such institution shall perform all such reasonable duties as depositary of public money and fiscal agent of the United States as may be required of it including services in connection with the collection of taxes and other obligations owed the United States.
+ Capital
+No Federal reserve bank shall commence business with a subscribed capital less than $4,000,000.
+ Subscription to capital stock by national banking association
+Every national banking association within each Federal reserve district shall be required to subscribe to the capital stock of the Federal reserve bank for that district in a sum equal to six per centum of the paid-up capital stock and surplus of such bank, one-sixth of the subscription to be payable on call of the Board of Governors of the Federal Reserve System, one-sixth within three months and one-sixth within six months thereafter, and the remainder of the subscription, or any part thereof, shall be subject to call when deemed necessary by the Board, said payments to be in gold or gold certificates.
+ Public subscription to capital stock
+No individual, copartnership, or corporation other than a member bank of its district shall be permitted to subscribe for or to hold at any time more than $25,000 par value of stock in any Federal reserve bank. Such stock shall be known as public stock and may be transferred on the books of the Federal reserve bank by the chairman of the board of directors of such bank.
+ Omitted
+ Nonvoting stock
+Stock not held by member banks shall not be entitled to voting power.
+ Transfers of stock; rules and regulations
+The Board of Governors of the Federal Reserve System is empowered to adopt and promulgate rules and regulations governing the transfers of said stock.
+ Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares
+The capital stock of each Federal reserve bank shall be divided into shares of $100 each. The outstanding capital stock shall be increased from time to time as member banks increase their capital stock and surplus or as additional banks become members, and may be decreased as member banks reduce their capital stock or surplus or cease to be members. Shares of the capital stock of Federal reserve banks owned by member banks shall not be transferred or hypothecated. When a member bank increases its capital stock or surplus, it shall thereupon subscribe for an additional amount of capital stock of the Federal reserve bank of its district equal to 6 per centum of the said increase, one-half of said subscription to be paid in the manner hereinbefore provided for original subscription, and one-half subject to call of the Board of Governors of the Federal Reserve System. A bank applying for stock in a Federal reserve bank at any time after the organization thereof must subscribe for an amount of the capital stock of the Federal reserve bank equal to 6 per centum of the paid-up capital stock and surplus of said applicant bank, paying therefor its par value plus one-half of 1 per centum a month from the period of the last dividend. When a member bank reduces its capital stock or surplus it shall surrender a proportionate amount of its holdings in the capital stock of said Federal Reserve bank. Any member bank which holds capital stock of a Federal Reserve bank in excess of the amount required on the basis of 6 per centum of its paid-up capital stock and surplus shall surrender such excess stock. When a member bank voluntarily liquidates it shall surrender all of its holdings of the capital stock of said Federal Reserve bank and be released from its stock subscription not previously called. In any such case the shares surrendered shall be canceled and the member bank shall receive in payment therefor, under regulations to be prescribed by the Board of Governors of the Federal Reserve System, a sum equal to its cash-paid subscriptions on the shares surrendered and one-half of 1 per centum a month from the period of the last dividend not to exceed the book value thereof, less any liability of such member bank to the Federal Reserve bank.
+ Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions
+If any member bank shall be declared insolvent and a receiver appointed therefor, the stock held by it in said Federal reserve bank shall be canceled, without impairment of its liability, and all cash-paid subscriptions on said stock, with one-half of 1 per centum per month from the period of last dividend, if earned, not to exceed the book value thereof, shall be first applied to all debts of the insolvent member bank to the Federal reserve bank, and the balance, if any, shall be paid to the receiver of the insolvent bank.
+ Dividends and surplus funds of reserve banks; transfer for fiscal year 2000
+(a)
+ Dividends and surplus funds of reserve banks
+(1)
+ Stockholder dividends
+(A)
+ In general
+After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.
+
+
+
+
+
+
+(B)
+ Dividend cumulative
+The entitlement to dividends under subparagraph (A) shall be cumulative.
+
+
+
+
+
+
+
+
+(2)
+ Deposit of net earnings in surplus fund
+That portion of net earnings of each Federal reserve bank which remains after dividend claims under paragraph (1)(A) have been fully met shall be deposited in the surplus fund of the bank.
+
+
+
+
+
+
+(b)
+ 
+1
+1
+ See Codification note below.
+ Transfer for fiscal year 2000
+(1)
+ In general
+The Federal reserve banks shall transfer from the surplus funds of such banks to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $3,752,000,000 in fiscal year 2000.
+
+
+
+
+
+
+(2)
+ Allocated by Fed
+Of the total amount required to be paid by the Federal reserve banks under paragraph (1) for fiscal year 2000, the Board shall determine the amount each such bank shall pay in such fiscal year.
+
+
+
+
+
+
+(3)
+ Replenishment of surplus fund prohibited
+During fiscal year 2000, no Federal reserve bank may replenish such bank’s surplus fund by the amount of any transfer by such bank under paragraph (1).
+
+
+
+
+
+
+ Use of earnings transferred to the Treasury
+The net earnings derived by the United States from Federal reserve banks shall, in the discretion of the Secretary, be used to supplement the gold reserve held against outstanding United States notes, or shall be applied to the reduction of the outstanding bonded indebtedness of the United States under regulations to be prescribed by the Secretary of the Treasury. Should a Federal reserve bank be dissolved or go into liquidation, any surplus remaining, after the payment of all debts, dividend requirements as hereinbefore provided, and the par value of the stock, shall be paid to and become the property of the United States and shall be similarly applied.
+ Powers and duties of board of directors; suspension of member bank for undue use of bank credit
+Every Federal reserve bank shall be conducted under the supervision and control of a board of directors.
+ Number of members; classes
+Such board of directors shall be selected as hereinafter specified and shall consist of nine members, holding office for three years, and divided into three classes, designated as classes A, B, and C.
+ Qualifications and disabilities
+No Senator or Representative in Congress shall be a member of the Board of Governors of the Federal Reserve System or an officer or a director of a Federal reserve bank.
+ Class A and class B directors; selection
+Directors of class A and class B shall be chosen in the following manner: The Board of Governors of the Federal Reserve System shall classify the member banks of the district into three general groups or divisions designating each group by number. Each group shall consist as nearly as may be of banks of similar capitalization. Each member bank shall be permitted to nominate to the chairman of the board of directors of the Federal reserve bank of the district one candidate for director of class A and one candidate for director of class B. The candidates so nominated shall be listed by the chairman, indicating by whom nominated, and a copy of said list shall, within fifteen days after its completion, be furnished by the chairman to each member bank. Each member bank by a resolution of the board or by an amendment to its bylaws shall authorize its president, cashier, or some other officer to cast the vote of the member bank in the elections of class A and class B directors: 
+ Class C directors; selection; “Federal reserve agent”
+Class C directors shall be appointed by the Board of Governors of the Federal Reserve System. They shall have been for at least two years residents of the district for which they are appointed, one of whom shall be designated by said board as chairman of the board of directors of the Federal reserve bank and as “Federal reserve agent.” He shall be a person of tested banking experience and in addition to his duties as chairman of the board of directors of the Federal reserve bank he shall be required to maintain, under regulations to be established by the Board of Governors of the Federal Reserve System, a local office of said board on the premises of the Federal reserve bank. He shall make regular reports to the Board of Governors of the Federal Reserve System and shall act as its official representative for the performance of the functions conferred upon it by this chapter. He shall receive an annual compensation to be fixed by the Board of Governors of the Federal Reserve System and paid monthly by the Federal reserve bank to which he is designated. One of the directors of class C shall be appointed by the Board of Governors of the Federal Reserve System as deputy chairman to exercise the powers of the chairman of the board when necessary. In case of the absence of the chairman and deputy chairman, the third class C director shall preside at meetings of the board.
+ Assistants to Federal reserve agent
+Subject to the approval of the Board of Governors of the Federal Reserve System, the Federal reserve agent shall appoint one or more assistants. Such assistants, who shall be persons of tested banking experience, shall assist the Federal reserve agent in the performance of his duties and shall also have power to act in his name and stead during his absence or disability. The Board of Governors of the Federal Reserve System shall require such bonds of the assistant Federal reserve agents as it may deem necessary for the protection of the United States. Assistants to the Federal reserve agent shall receive an annual compensation, to be fixed and paid in the same manner as that of the Federal reserve agent.
+ Compensation of directors
+Directors of Federal reserve banks shall receive, in addition to any compensation otherwise provided, a reasonable allowance for necessary expenses in attending meetings of their respective boards, which amount shall be paid by the respective Federal reserve banks. Any compensation that may be provided by boards of directors of Federal reserve banks for directors, officers or employees shall be subject to the approval of the Board of Governors of the Federal Reserve System.
+ Terms of directors; vacancies
+At the first meeting of the full board of directors of each Federal reserve bank, it shall be the duty of the directors of classes A, B, and C, respectively, to designate one of the members of each class whose term of office shall expire in one year from the 1st of January nearest to date of such meeting, one whose term of office shall expire at the end of two years from said date, and one whose term of office shall expire at the end of three years from said date. Thereafter every director of a Federal reserve bank chosen as hereinbefore provided shall hold office for a term of three years. Vacancies that may occur in the several classes of directors of Federal reserve banks may be filled in the manner provided for the original selection of such directors, such appointees to hold office for the unexpired terms of their predecessors.
+ Application for membership
+Any bank incorporated by special law of any State, operating under the Code of Law for the District of Columbia, or organized under the general laws of any State or of the United States, including Morris Plan banks and other incorporated banking institutions engaged in similar business, desiring to become a member of the Federal Reserve System, may make application to the Board of Governors of the Federal Reserve System, under such rules and regulations as it may prescribe, for the right to subscribe to the stock of the Federal Reserve bank organized within the district in which the applying bank is located. Such application shall be for the same amount of stock that the applying bank would be required to subscribe to as a national bank. For the purposes of membership of any such bank the terms “capital” and “capital stock” shall include the amount of outstanding capital notes and debentures legally issued by the applying bank and purchased by the Reconstruction Finance Corporation. The Board of Governors of the Federal Reserve System, subject to the provisions of this chapter and to such conditions as it may prescribe pursuant thereto may permit the applying bank to become a stockholder of such Federal Reserve bank.
+ Determination on application
+In acting upon such applications the Board of Governors of the Federal Reserve System shall consider the financial condition of the applying bank, the general character of its management, and whether or not the corporate powers exercised are consistent with the purposes of this chapter.
+ Stock in Federal reserve banks; method of payment
+Whenever the Board of Governors of the Federal Reserve System shall permit the applying bank to become a stockholder in the Federal reserve bank of the district its stock subscription shall be payable on call of the Board of Governors of the Federal Reserve System, and stock issued to it shall be held subject to the provisions of this chapter.
+ Laws applicable on becoming members
+All banks admitted to membership under authority of this section shall be required to comply with the reserve and capital requirements of this chapter, to conform to those provisions of law imposed on national banks which prohibit such banks from lending on or purchasing their own stock and which relate to the withdrawal or impairment of their capital stock, and to conform to the provisions of sections 56 and 60(b) of this title with respect to the payment of dividends; except that any reference in any such provision to the Comptroller of the Currency shall be deemed for the purposes of this sentence to be a reference to the Board of Governors of the Federal Reserve System. Such banks and the officers, agents, and employees thereof shall also be subject to the provisions of and to the penalties prescribed by sections 334, 656, and 1005 of title 18, and shall be required to make reports of condition and of the payment of dividends to the Federal Reserve bank of which they become a member. Not less than three of such reports shall be made annually on call of the Federal Reserve bank on dates to be fixed by the Board of Governors of the Federal Reserve System. Any bank which (A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to make or publish any report required under this paragraph, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, or (B) inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The bank shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any bank which fails to make or publish such reports within the period of time specified by the Board, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any bank knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Board may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of 
+ Examinations
+As a condition of membership such banks shall likewise be subject to examinations made by direction of the Board of Governors of the Federal Reserve System or of the Federal reserve bank by examiners selected or approved by the Board of Governors of the Federal Reserve System.
+ Acceptance of examinations and reports by State authorities; special examinations
+Whenever the directors of the Federal reserve bank shall approve the examinations made by the State authorities, such examinations and the reports thereof may be accepted in lieu of examinations made by examiners selected or approved by the Board of Governors of the Federal Reserve System: 
+ Surrender of stock and cancellation of memberships
+If at any time it shall appear to the Board of Governors of the Federal Reserve System that a member bank has failed to comply with the provisions of this subchapter, or the regulations of the Board of Governors of the Federal Reserve System made pursuant thereto, or has ceased to exercise banking functions without a receiver or liquidating agent having been appointed therefor, it shall be within the power of the board after hearing to require such bank to surrender its stock in the Federal reserve bank and to forfeit all rights and privileges of membership. The Board of Governors of the Federal Reserve System may restore membership upon due proof of compliance with the conditions imposed by this subchapter.
+ Withdrawals from membership
+Any State bank or trust company desiring to withdraw from membership in a Federal Reserve bank may do so, after six months’ written notice shall have been filed with the Board of Governors of the Federal Reserve System, upon the surrender and cancellation of all of its holdings of capital stock in the Federal reserve bank: 
+ Capital stock required as condition precedent to membership
+No applying bank shall be admitted to membership unless it possesses capital stock and surplus which, in the judgment of the Board of Governors of the Federal Reserve System, are adequate in relation to the character and condition of its assets and to its existing and prospective deposit liabilities and other corporate responsibilities: 
+ Omitted
+ Laws applicable on becoming members; discounts for State banks
+Banks becoming members of the Federal reserve system under authority of this subchapter shall be subject to the provisions of this subchapter and to those of this chapter which relate specifically to member banks, but shall not be subject to examination under the provisions of sections 481 and 482 of this title. Subject to the provisions of this chapter and to the regulations of the board made pursuant thereto, any bank becoming a member of the Federal reserve system shall retain its full charter and statutory rights as a State bank or trust company, and may continue to exercise all corporate powers granted it by the State in which it was created, and shall be entitled to all privileges of member banks, except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with 
+ Certifying checks on State banks admitted as members
+It shall be unlawful for any officer, clerk, or agent of any bank admitted to membership under authority of this subchapter, to certify any check drawn upon such bank unless the person or company drawing the check has on deposit therewith at the time such check is certified an amount of money equal to the amount specified in such check. Any check so certified by duly authorized officers shall be a good and valid obligation against such bank, but the act of any such officer, clerk, or agent in violation of this subchapter, may subject such bank to a forfeiture of its membership in the Federal reserve system upon hearing by the Board of Governors of the Federal Reserve System.
+ Depositaries of public money; financial agents; security required
+All banks or trust companies incorporated by special law or organized under the general laws of any State, which are members of the Federal reserve system, when designated for that purpose by the Secretary of the Treasury, shall be depositaries of public money, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government, as may be required of them. The Secretary of the Treasury shall require of the banks and trust companies thus designated satisfactory security, by the deposit of United States bonds or otherwise, for the safe keeping and prompt payment of the public money deposited with them and for the faithful performance of their duties as financial agents of the Government.
+ Mutual savings banks; application and admission to membership in Federal Reserve System
+Any mutual savings bank having no capital stock (including any other banking institution the capital of which consists of weekly or other time deposits which are segregated from all other deposits and are regarded as capital stock for the purposes of taxation and the declaration of dividends), but having surplus and undivided profits not less than the amount of capital required for the organization of a national bank in the same place, may apply for and be admitted to membership in the Federal Reserve System in the same manner and subject to the same provisions of law as State banks and trust companies, except that any such savings bank shall subscribe for capital stock of the Federal reserve bank in an amount equal to six-tenths of 1 per centum of its total deposit liabilities as shown by the most recent report of examination of such savings bank preceding its admission to membership. Thereafter such subscription shall be adjusted semiannually on the same percentage basis in accordance with rules and regulations prescribed by the Board of Governors of the Federal Reserve System. If any such mutual savings bank applying for membership is not permitted by the laws under which it was organized to purchase stock in a Federal reserve bank, it shall, upon admission to the system, deposit with the Federal reserve bank an amount equal to the amount which it would have been required to pay in on account of a subscription to capital stock. Thereafter such deposit shall be adjusted semiannually in the same manner as subscriptions for stock. Such deposits shall be subject to the same conditions with respect to repayment as amounts paid upon subscriptions to capital stock by other member banks and the Federal reserve bank shall pay interest thereon at the same rate as dividends are actually paid on outstanding shares of stock of such Federal reserve bank. If the laws under which any such savings bank was organized be amended so as to authorize mutual savings banks to subscribe for Federal reserve bank stock, such savings bank shall thereupon subscribe for the appropriate amount of stock in the Federal reserve bank, and the deposit hereinbefore provided for in lieu of payment upon capital stock shall be applied upon such subscription. If the laws under which any such savings bank was organized be not amended at the next session of the legislature following the admission of such savings bank to membership so as to authorize mutual savings banks to purchase Federal reserve bank stock, or if such laws be so amended and such bank fail within six months thereafter to purchase such stock, all of its rights and privileges as a member bank shall be forfeited and its membership in the Federal Reserve System shall be terminated in the manner prescribed in this subchapter with respect to State member banks and trust companies. Each such mutual savings bank shall comply with all the provisions of law applicable to State member banks and trust companies, with the regulations of the Board of Governors of the Federal Reserve System and with the conditions of membership prescribed for such savings bank at the time of admission to membership, except as otherwise hereinbefore provided with respect to capital stock.
+ Reports from affiliates; penalty for failure to furnish
+Each bank admitted to membership under this subchapter shall obtain from each of its affiliates other than member banks and furnish to the Federal reserve bank of its district and to the Board of Governors of the Federal Reserve System not less than three reports during each year. Such reports shall be in such form as the Board of Governors of the Federal Reserve System may prescribe, shall be verified by the oath or affirmation of the president or such other officer as may be designated by the board of directors of such affiliate to verify such reports, and shall disclose the information hereinafter provided for as of dates identical with those fixed by the Board of Governors of the Federal Reserve System for reports of the condition of the affiliated member bank. Each such report of an affiliate shall be transmitted as herein provided at the same time as the corresponding report of the affiliated member bank, except that the Board of Governors of the Federal Reserve System may, in its discretion, extend such time for good cause shown. Each such report shall contain such information as in the judgment of the Board of Governors of the Federal Reserve System shall be necessary to disclose fully the relations between such affiliate and such bank and to enable the board to inform itself as to the effect of such relations upon the affairs of such bank. The reports of such affiliates shall be published by the bank under the same conditions as govern its own condition reports.
+ Dealing in investment securities; limitations and conditions
+State member banks shall be subject to the same limitations and conditions with respect to the purchasing, selling, underwriting, and holding of investment securities and stock as are applicable in the case of national banks under paragraph “Seventh” of 
+ Certificates of stock; representation of stock of other corporations
+After 
+ Repealed. 
+ Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense
+In connection with examinations of State member banks, examiners selected or approved by the Board of Governors of the Federal Reserve System shall make such examinations of the affairs of all affiliates of such banks as shall be necessary to disclose fully the relations between such banks and their affiliates and the effect of such relations upon the affairs of such banks. The expense of examination of affiliates of any State member bank may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against such bank and, when so assessed, shall be paid by such bank. In the event of the refusal to give any information requested in the course of the examination of any such affiliate, or in the event of the refusal to permit such examination, or in the event of the refusal to pay any expenses so assessed, the Board of Governors of the Federal Reserve System may, in its discretion, require any or all State member banks affiliated with such affiliate to surrender their stock in the Federal Reserve bank and to forfeit all rights and privileges of membership in the Federal Reserve System, as provided in this subchapter.
+ Investments to promote public welfare and community development; limitation on investments
+A State member bank may make investments directly or indirectly, each of which is designed primarily to promote the public welfare, including the welfare of low- and moderate-income communities or families (such as by providing housing, services, or jobs), to the extent permissible under State law. A State member bank shall not make any such investment if the investment would expose the State member bank to unlimited liability. The Board shall limit a State member bank’s investment in any 1 project and a State member bank’s aggregate investments under this paragraph. The aggregate amount of investments of any State member bank under this paragraph may not exceed an amount equal to the sum of 5 percent of the State member bank’s capital stock actually paid in and unimpaired and 5 percent of the State member bank’s unimpaired surplus, unless the Board determines, by order, that a higher amount will pose no significant risk to the affected deposit insurance fund; and the State member bank is adequately capitalized. In no case shall the aggregate amount of investments of any State member bank under this paragraph exceed an amount equal to the sum of 15 percent of the State member bank’s capital stock actually paid in and unimpaired and 15 percent of the State member bank’s unimpaired surplus. The foregoing standards and limitations apply to investments under this paragraph made by a State member bank directly and by its subsidiaries.
+ Participation by State member banks in lotteries and related activities
+(a)
+ Prohibited activities
+A State member bank may not—
+(1)
+ deal in lottery tickets;
+
+
+
+
+(2)
+ deal in bets used as a means or substitute for participation in a lottery;
+
+
+
+
+(3)
+ announce, advertise, or publicize the existence of any lottery; 
+1
+1
+ So in original. The word “or” probably should appear.
+
+
+
+
+(4)
+ announce, advertise, or publicize the existence or identity of any participant or winner, as such, in a lottery.
+
+
+
+
+(b)
+ Use of banking premises prohibited
+A State member bank may not permit—
+(1)
+ the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
+
+
+
+
+(2)
+ direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+
+
+
+
+(c)
+ Definitions
+As used in this section—
+(1)
+ The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
+
+
+
+
+(2)
+ The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+(A)
+ a random selection;
+
+
+
+
+(B)
+ a game, race, or contest; or
+
+
+
+
+(C)
+ any record or tabulation of the result of one or more events in which any participant has no interest except for its bearing upon the possibility that he may become a winner.
+
+
+
+
+
+
+(3)
+ The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+
+
+
+
+(d)
+ Lawful banking services connected with operation of lottery
+Nothing contained in this section prohibits a State member bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
+
+
+
+
+(e)
+ Regulations; enforcement
+The Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
+
+
+
+
+ Resolution of clearing banks
+(a)
+ Conservatorship or receivership
+(1)
+ Appointment
+The Board may appoint a conservator or receiver to take possession and control of any uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 
+1
+1
+ See References in Text note below.
+ of this title to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank.
+
+
+
+
+
+
+(2)
+ Powers
+The conservator or receiver for an uninsured State member bank referred to in paragraph (1) shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
+
+
+
+
+
+
+(b)
+ Board authority
+The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a) of this section, and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
+
+
+
+
+(c)
+ Bankruptcy proceedings
+The Board (in the case of an uninsured State member bank which operates, or operates as, such a multilateral clearing organization) may direct a conservator or receiver appointed for the bank to file a petition pursuant to title 11, in which case, title 11 shall apply to the bank in lieu of otherwise applicable Federal or State insolvency law.
+
+
+
+
+ General enumeration of powers
+Upon the filing of the organization certificate with the Comptroller of the Currency a Federal reserve bank shall become a body corporate and as such, and in the name designated in such organization certificate, shall have power—
+ Deposits; exchange and collection; member and nonmember banks or other depository institutions; charges
+Any Federal reserve bank may receive from any of its member banks, or other depository institutions, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks, and drafts, payable upon presentation or other items, and also, for collection, maturing notes and bills; or, solely for purposes of exchange or of collection may receive from other Federal reserve banks deposits of current funds in lawful money, national-bank notes, or checks upon other Federal reserve banks, and checks and drafts, payable upon presentation within its district or other items, and maturing notes and bills payable within its district; or, solely for the purposes of exchange or of collection, may receive from any nonmember bank or trust company or other depository institution deposits of current funds in lawful money, national-bank notes, Federal reserve notes, checks and drafts payable upon presentation or other items, or maturing notes and bills: 
+ Discount of obligations arising out of actual commercial transactions
+ Discount or purchase of bills to finance agricultural shipments
+Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice, and protest by such bank as to its own indorsement exclusively, and subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, any Federal reserve bank may discount or purchase bills of exchange payable at sight or on demand which grow out of the domestic shipment or the exportation of nonperishable, readily marketable agricultural and other staples and are secured by bills of lading or other shipping documents conveying or securing title to such staples: 
+ Rediscount of notes, drafts, and bills for member banks; limitation of amount
+The aggregate of notes, drafts, and bills upon which any person, copartnership, association, or corporation is liable as maker, acceptor, indorser, drawer, or guarantor, rediscounted for any member bank, shall at no time exceed the amount for which such person, copartnership, association, or corporation may lawfully become liable to a national banking association under the terms of 
+ Discount of acceptances
+Any Federal reserve bank may discount acceptances of the kinds hereinafter described, which have a maturity at the time of discount of not more than ninety days’ sight, exclusive of days of grace, and which are indorsed by at least one member bank: 
+ Advances to member banks on their notes
+Any Federal reserve bank may make advances for periods not exceeding fifteen days to its member banks on their promissory notes secured by the deposit or pledge of bonds, notes, certificates of indebtedness, or Treasury bills of the United States, or by the deposit or pledge of debentures or other such obligations of Federal intermediate credit banks which are eligible for purchase by Federal reserve banks under 
+ Advances to member bank groups; inadequate amounts of eligible and acceptable assets; liability of individual banks in group; distribution of loans among banks of group; rate of interest; notes accepted for advances as collateral security for Federal reserve notes; foreign obligations as security for advances
+Upon receiving the consent of not less than five members of the Board of Governors of the Federal Reserve System, any Federal reserve bank may make advances, in such amount as the board of directors of such Federal reserve bank may determine, to groups of five or more member banks within its district, a majority of them independently owned and controlled, upon their time or demand promissory notes, provided the bank or banks which receive the proceeds of such advances as herein provided have no adequate amounts of eligible and acceptable assets available to enable such bank or banks to obtain sufficient credit accommodations from the Federal reserve bank through rediscounts or advances other than as provided in section 347b 
+ Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family residences
+(a)
+ In general
+Any Federal Reserve bank, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, may make advances to any member bank on its time or demand notes having maturities of not more than four months and which are secured to the satisfaction of such Federal Reserve bank.
+
+
+Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, may make advances to any member bank on its time notes having such maturities as the Board may prescribe and which are secured by mortgage loans covering a one-to-four family residence. Such advances shall bear interest at a rate equal to the lowest discount rate in effect at such Federal Reserve bank on the date of such note.
+
+
+
+
+(b)
+ Limitations on advances
+(1)
+ Limitation on extended periods
+Except as provided in paragraph (2), no advances to any undercapitalized depository institution by any Federal Reserve bank under this section may be outstanding for more than 60 days in any 120-day period.
+
+
+
+
+
+
+(2)
+ Viability exception
+(A)
+ In general
+If—
+(i)
+ the head of the appropriate Federal banking agency certifies in advance in writing to the Federal Reserve bank that any depository institution is viable; or
+
+
+
+
+(ii)
+ the Board conducts an examination of any depository institution and the Chairman of the Board certifies in writing to the Federal Reserve bank that the institution is viable,
+
+
+
+
+
+the limitation contained in paragraph (1) shall not apply during the 60-day period beginning on the date such certification is received.
+
+
+
+
+(B)
+ Extensions of period
+The 60-day period may be extended for additional 60-day periods upon receipt by the Federal Reserve bank of additional written certifications under subparagraph (A) with respect to each such additional period.
+
+
+
+
+
+
+(C)
+ Authority to issue a certificate of viability may not be delegated
+The authority of the head of any agency to issue a written certification of viability under this paragraph may not be delegated to any other person.
+
+
+
+
+
+
+(D)
+ Extended advances subject to paragraph (3)
+Notwithstanding paragraph (1), an undercapitalized depository institution which does not have a certificate of viability in effect under this paragraph may have advances outstanding for more than 60 days in any 120-day period if the Board elects to treat—
+(i)
+ such institution as critically undercapitalized under paragraph (3); and
+
+
+
+
+(ii)
+ any such advance as an advance described in subparagraph (A)(i) of paragraph (3).
+
+
+
+
+
+
+
+
+(3)
+ Advances to critically undercapitalized depository institutions
+(A)
+ Liability for increased loss
+Notwithstanding any other provision of this section, if—
+(i)
+ in the case of any critically undercapitalized depository institution—
+(I)
+ any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
+
+
+
+
+(II)
+ any new advance is made to such institution under this section after the end of such period; and
+
+
+
+
+
+
+(ii)
+ after the end of that 5-day period, the Deposit Insurance Fund of the Federal Deposit Insurance Corporation incurs a loss exceeding the loss that the Corporation would have incurred if it had liquidated that institution as of the end of that period,
+
+
+
+
+
+the Board shall, subject to the limitations in subparagraph (B), be liable to the Federal Deposit Insurance Corporation for the excess loss, without regard to the terms of the advance or any collateral pledged to secure the advance.
+
+
+
+
+(B)
+ Limitation on excess loss
+The liability of the Board under subparagraph (A) shall not exceed the lesser of the following:
+(i)
+ The amount of the loss the Board or any Federal Reserve bank would have incurred on the increases in the amount of advances made after the 5-day period referred to in subparagraph (A) if those increased advances had been unsecured.
+
+
+
+
+(ii)
+ The interest received on the increases in the amount of advances made after the 5-day period referred to in subparagraph (A).
+
+
+
+
+
+
+(C)
+ Federal Reserve to pay obligation
+The Board shall pay the Federal Deposit Insurance Corporation the amount of any liability of the Board under subparagraph (A).
+
+
+
+
+
+
+(D)
+ Report
+The Board shall report to the Congress on any excess loss liability it incurs under subparagraph (A), as limited by subparagraph (B)(i), and the reasons therefore, not later than 6 months after incurring the liability.
+
+
+
+
+
+
+
+
+(4)
+ No obligation to make advances
+A Federal Reserve bank shall have no obligation to make, increase, renew, or extend any advance or discount under this chapter to any depository institution.
+
+
+
+
+
+
+(5)
+ Definitions
+(A)
+ Appropriate Federal banking agency
+The term “appropriate Federal banking agency” has the same meaning as in 
+section 1813 of this title
+.
+
+
+
+
+
+
+(B)
+ Critically undercapitalized
+The term “critically undercapitalized” has the same meaning as in section 1831
+o
+ of this title.
+
+
+
+
+
+
+(C)
+ Depository institution
+The term “depository institution” has the same meaning as in 
+section 1813 of this title
+.
+
+
+
+
+
+
+(D)
+ Undercapitalized depository institution
+The term “undercapitalized depository institution” means any depository institution which—
+(i)
+ is undercapitalized, as defined in section 1831
+o
+ of this title; or
+
+
+
+
+(ii)
+ has a composite CAMEL rating of 5 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution.
+
+
+
+
+
+
+(E)
+ Viable
+A depository institution is “viable” if the Board or the appropriate Federal banking agency determines, giving due regard to the economic conditions and circumstances in the market in which the institution operates, that the institution—
+(i)
+ is not critically undercapitalized;
+
+
+
+
+(ii)
+ is not expected to become critically undercapitalized; and
+
+
+
+
+(iii)
+ is not expected to be placed in conservatorship or receivership.
+
+
+
+
+
+
+
+
+ Advances to individuals, partnerships, and corporations; security; interest rate
+Subject to such limitations, restrictions, and regulations as the Board of Governors of the Federal Reserve System may prescribe, any Federal reserve bank may make advances to any individual, partnership, or corporation on the promissory notes of such individual, partnership, or corporation secured by direct obligations of the United States or by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by any agency of the United States. Such advances shall be made for periods not exceeding 90 days and shall bear interest at rates fixed from time to time by the Federal reserve bank, subject to the review and determination of the Board of Governors of the Federal Reserve System.
+ Transactions between Federal Reserve banks and branch or agency of foreign bank; matters considered
+Subject to such restrictions, limitations, and regulations as may be imposed by the Board of Governors of the Federal Reserve System, each Federal Reserve bank may receive deposits from, discount paper endorsed by, and make advances to any branch or agency of a foreign bank in the same manner and to the same extent that it may exercise such powers with respect to a member bank if such branch or agency is maintaining reserves with such Reserve bank pursuant to 
+ Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes
+Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice, and protest by such bank as to its own indorsement exclusively, any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, discount notes, drafts, and bills of exchange issued or drawn for an agricultural purpose, or based upon livestock, and having a maturity, at the time of discount, exclusive of days of grace, not exceeding nine months, and such notes, drafts, and bills of exchange may be offered as collateral security for the issuance of Federal reserve notes under the provisions of section 16 of this Act: 
+ Transactions with foreign banks; supervision of Board of Governors of the Federal Reserve System
+The Board of Governors of the Federal Reserve System shall exercise special supervision over all relationships and transactions of any kind entered into by any Federal reserve bank with any foreign bank or banker, or with any group of foreign banks or bankers, and all such relationships and transactions shall be subject to such regulations, conditions, and limitations as the Board may prescribe. No officer or other representative of any Federal reserve bank shall conduct negotiations of any kind with the officers or representatives of any foreign bank or banker without first obtaining the permission of the Board of Governors of the Federal Reserve System. The Board of Governors of the Federal Reserve System shall have the right, in its discretion, to be represented in any conference or negotiations by such representative or representatives as the Board may designate. A full report of all conferences or negotiations, and all understandings or agreements arrived at or transactions agreed upon, and all other material facts appertaining to such conferences or negotiations, shall be filed with the Board of Governors of the Federal Reserve System in writing by a duly authorized officer of each Federal reserve bank which shall have participated in such conferences or negotiations.
+ Rediscount for intermediate credit banks of obligations given for agricultural purposes; discount of notes made pursuant to section 1031
+Any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, rediscount such notes, drafts, and bills mentioned in 
+ Purchase and sale of debentures and like obligations of intermediate credit banks and agricultural credit corporations
+Any Federal reserve bank may also buy and sell debentures and other such obligations issued by a Federal intermediate credit bank or by a national agricultural credit corporation, but only to the same extent as and subject to the same limitations as those upon which it may buy and sell bonds issued under title I of the Federal Farm Loan Act.
+ Obligations of cooperative marketing association as issued or drawn for agricultural purposes
+Notes, drafts, bills of exchange, or acceptances issued or drawn by cooperative marketing associations composed of producers of agricultural products shall be deemed to have been issued or drawn for an agricultural purpose, within the meaning of sections 348 and 349 to 352 of this title, if the proceeds thereof have been or are to be advanced by such association to any members thereof for an agricultural purpose, or have been or are to be used by such association in making payments to any members thereof on account of agricultural products delivered by such members to the association, or if such proceeds have been or are to be used by such association to meet expenditures incurred or to be incurred by the association in connection with the grading, processing, packing, preparation for market, or marketing of any agricultural product handled by such association for any of its members: 
+ Limitation on amount of obligations of certain maturities which may be discounted and rediscounted
+The Board of Governors of the Federal Reserve System may, by regulation, limit to a percentage of the assets of a Federal reserve bank the amount of notes, drafts, acceptances, or bills having a maturity in excess of three months, but not exceeding six months, exclusive of days of grace, which may be discounted by such bank, and the amount of notes, drafts, bills, or acceptances having a maturity in excess of six months, but not exceeding nine months, which may be rediscounted by such bank.
+ Repealed. 
+ Purchase and sale of cable transfers, acceptances and bills
+Any Federal reserve bank may, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, purchase and sell in the open market, at home or abroad, either from or to domestic or foreign banks, firms, corporations, or individuals, cable transfers and bankers’ acceptances and bills of exchange of the kinds and maturities by this chapter made eligible for rediscount, with or without the indorsement of a member bank.
+ Transactions involving gold coin, bullion, and certificates
+Every Federal reserve bank shall have power to deal in gold coin and bullion at home or abroad, to make loans thereon, exchange Federal reserve notes for gold, gold coin, or gold certificates, and to contract for loans of gold coin or bullion, giving therefor, when necessary, acceptable security, including the hypothecation of United States bonds or other securities which Federal reserve banks are authorized to hold.
+ Purchase and sale of obligations of National, State, and municipal governments; open market operations; purchases and sales from or to United States; maximum aggregate amount of obligations acquired directly from or loaned directly to United States
+ Purchase of commercial paper from member banks and sale of same
+Every Federal reserve bank shall have power to purchase from member banks and to sell, with or without its indorsement, bills of exchange arising out of commercial transactions, as hereinbefore defined.
+ Establishment of rates of discount
+Every Federal reserve bank shall have power to establish from time to time, subject to review and determination of the Board of Governors of the Federal Reserve System, rates of discount to be charged by the Federal reserve bank for each class of paper, which shall be fixed with a view of accommodating commerce and business, but each such bank shall establish such rates every fourteen days, or oftener if deemed necessary by the Board.
+ Establishment of accounts for purposes of open-market operations; correspondents and agencies
+Every Federal reserve bank shall have power to establish accounts with other Federal reserve banks for exchange purposes and, with the consent or upon the order and direction of the Board of Governors of the Federal Reserve System and under regulations to be prescribed by said Board, to open and maintain accounts in foreign countries, appoint correspondents, and establish agencies in such countries wheresoever it may be deemed best for the purpose of purchasing, selling, and collecting bills of exchange, and to buy and sell, with or without its indorsement, through such correspondents or agencies, bills of exchange (or acceptances) arising out of actual commercial transactions which have not more than ninety days to run, exclusive of days of grace, and which bear the signature of two or more responsible parties, and, with the consent of the Board of Governors of the Federal Reserve System, to open and maintain banking accounts for such foreign correspondents or agencies, or for foreign banks or bankers, or for foreign states as defined in 
+ Purchase and sale of acceptances of intermediate credit banks and agricultural credit corporations
+Every Federal reserve bank shall have power to purchase and sell in the open market, either from or to domestic banks, firms, corporations, or individuals, acceptances of Federal intermediate credit banks and of national agricultural credit corporations, whenever the Board of Governors of the Federal Reserve System shall declare that the public interest so requires.
+ Omitted
+ Receiving checks and drafts on deposit at par; charges for collections, exchange, and clearances
+Every Federal reserve bank shall receive on deposit at par from depository institutions or from Federal reserve banks checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn upon any of its depositors, and when remitted by a Federal reserve bank, checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn by any depositor in any other Federal reserve bank or depository institution upon funds to the credit of said depositor in said reserve bank or depository institution. Nothing herein contained shall be construed as prohibiting a depository institution from charging its actual expense incurred in collecting and remitting funds, or for exchange sold to its patrons. The Board of Governors of the Federal Reserve System shall, by rule, fix the charges to be collected by the depository institutions from its patrons whose checks and other items, including negotiable orders of withdrawal and share drafts are cleared through the Federal reserve bank and the charge which may be imposed for the service of clearing or collection rendered by the Federal reserve bank.
+ Bills receivable, bills of exchange, acceptances; regulations by Board of Governors
+The discount and rediscount and the purchase and sale by any Federal reserve bank of any bills receivable and of domestic and foreign bills of exchange, and of acceptances authorized by this chapter, shall be subject to such restrictions, limitations, and regulations as may be imposed by the Board of Governors of the Federal Reserve System.
+ Omitted
+ Real estate loans
+(a)
+ Authorization to make real estate loans; orders, rules, and regulations of Comptroller of the Currency
+Any national banking association may make, arrange, purchase or sell loans or extensions of credit secured by liens on interests in real estate, subject to section 1828(
+o
+) of this title and such restrictions and requirements as the Comptroller of the Currency may prescribe by regulation or order.
+
+
+
+
+(b)
+ Eligibility for discount as commercial paper of notes representing loans financing construction of residential or farm buildings; prerequisites
+Notes representing loans made under this section to finance the construction of residential or farm buildings and having maturities not to exceed nine months shall be eligible for discount as commercial paper within the terms of the first paragraph of 
+section 343 of this title
+ if accompanied by a valid and binding agreement to advance the full amount of the loan upon the completion of the building entered into by an individual, partnership, association, or corporation acceptable to the discounting bank.
+
+
+
+
+ Repealed. 
+ Rate of interest on time deposits; payment of time deposits before maturity; waiver of notice requirements for withdrawal of savings deposits
+The Board may from time to time, after consulting with the Board of Directors of the Federal Deposit Insurance Corporation and the Federal Home Loan Bank Board, prescribe rules governing the advertisement of interest on deposits by member banks on time and savings deposits. The provisions of this section shall not apply to any deposit which is payable only at an office of a member bank located outside of the States of the United States and the District of Columbia. During the period commencing on 
+ Repealed. 
+ Interbank liabilities
+(a)
+ Purpose
+The purpose of this section is to limit the risks that the failure of a large depository institution (whether or not that institution is an insured depository institution) would pose to insured depository institutions.
+
+
+
+
+(b)
+ Aggregate limits on insured depository institutions’ exposure to other depository institutions
+The Board shall, by regulation or order, prescribe standards that have the effect of limiting the risks posed by an insured depository institution’s exposure to any other depository institution.
+
+
+
+
+(c)
+ “Exposure” defined
+(1)
+ In general
+For purposes of subsection (b) of this section, an insured depository institution’s “exposure” to another depository institution means—
+(A)
+ all extensions of credit to the other depository institution, regardless of name or description, including—
+(i)
+ all deposits at the other depository institution;
+
+
+
+
+(ii)
+ all purchases of securities or other assets from the other depository institution subject to an agreement to repurchase; and
+
+
+
+
+(iii)
+ all guarantees, acceptances, or letters of credit (including endorsements or standby letters of credit) on behalf of the other depository institution;
+
+
+
+
+
+
+(B)
+ all purchases of or investments in securities issued by the other depository institution;
+
+
+
+
+(C)
+ all securities issued by the other depository institution accepted as collateral for an extension of credit to any person; and
+
+
+
+
+(D)
+ all similar transactions that the Board by regulation determines to be exposure for purposes of this section.
+
+
+
+
+
+
+(2)
+ Exemptions
+The Board may, at its discretion, by regulation or order, exempt transactions from the definition of “exposure” if it finds the exemptions to be in the public interest and consistent with the purpose of this section.
+
+
+
+
+
+
+(3)
+ Attribution rule
+For purposes of this section, any transaction by an insured depository institution with any person is a transaction with another depository institution to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that other depository institution.
+
+
+
+
+
+
+(d)
+ Insured depository institution
+For purposes of this section, the term “insured depository institution” has the same meaning as in 
+section 1813 of this title
+.
+
+
+
+
+(e)
+ Rulemaking authority; enforcement
+The Board may issue such regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purpose of this section. The appropriate Federal banking agency shall enforce compliance with those regulations under 
+section 1818 of this title
+.
+
+
+
+
+ Banking affiliates
+(a)
+ Restrictions on transactions with affiliates
+(1)
+ A member bank and its subsidiaries may engage in a covered transaction with an affiliate only if—
+(A)
+ in the case of any affiliate, the aggregate amount of covered transactions of the member bank and its subsidiaries will not exceed 10 per centum of the capital stock and surplus of the member bank; and
+
+
+
+
+(B)
+ in the case of all affiliates, the aggregate amount of covered transactions of the member bank and its subsidiaries will not exceed 20 per centum of the capital stock and surplus of the member bank.
+
+
+
+
+
+
+(2)
+ For the purpose of this section, any transaction by a member bank with any person shall be deemed to be a transaction with an affiliate to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that affiliate.
+
+
+
+
+(3)
+ A member bank and its subsidiaries may not purchase a low-quality asset from an affiliate unless the bank or such subsidiary, pursuant to an independent credit evaluation, committed itself to purchase such asset prior to the time such asset was acquired by the affiliate.
+
+
+
+
+(4)
+ Any covered transactions and any transactions exempt under subsection (d) of this section between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
+
+
+
+
+(b)
+ Definitions
+For the purpose of this section—
+(1)
+ the term “affiliate” with respect to a member bank means—
+(A)
+ any company that controls the member bank and any other company that is controlled by the company that controls the member bank;
+
+
+
+
+(B)
+ a bank subsidiary of the member bank;
+
+
+
+
+(C)
+ any company—
+(i)
+ that is controlled directly or indirectly, by a trust or otherwise, by or for the benefit of shareholders who beneficially or otherwise control, directly or indirectly, by trust or otherwise, the member bank or any company that controls the member bank; or
+
+
+
+
+(ii)
+ in which a majority of its directors or trustees constitute a majority of the persons holding any such office with the member bank or any company that controls the member bank;
+
+
+
+
+
+
+(D)
+ any investment fund with respect to which a member bank or affiliate thereof is an investment adviser; and
+
+
+
+
+(E)
+ any company that the Board determines by regulation or order to have a relationship with the member bank or any subsidiary or affiliate of the member bank, such that covered transactions by the member bank or its subsidiary with that company may be affected by the relationship to the detriment of the member bank or its subsidiary; and
+
+
+
+
+
+
+(2)
+ the following shall not be considered to be an affiliate:
+(A)
+ any company, other than a bank, that is a subsidiary of a member bank, unless a determination is made under paragraph (1)(E) not to exclude such subsidiary company from the definition of affiliate;
+
+
+
+
+(B)
+ any company engaged solely in holding the premises of the member bank;
+
+
+
+
+(C)
+ any company engaged solely in conducting a safe deposit business;
+
+
+
+
+(D)
+ any company engaged solely in holding obligations of the United States or its agencies or obligations fully guaranteed by the United States or its agencies as to principal and interest; and
+
+
+
+
+(E)
+ any company where control results from the exercise of rights arising out of a bona fide debt previously contracted, but only for the period of time specifically authorized under applicable State or Federal law or regulation or, in the absence of such law or regulation, for a period of two years from the date of the exercise of such rights or the effective date of this Act, whichever date is later, subject, upon application, to authorization by the Board for good cause shown of extensions of time for not more than one year at a time, but such extensions in the aggregate shall not exceed three years;
+
+
+
+
+
+
+(3)
+(A)
+ a company or shareholder shall be deemed to have control over another company if—
+(i)
+ such company or shareholder, directly or indirectly, or acting through one or more other persons owns, controls, or has power to vote 25 per centum or more of any class of voting securities of the other company;
+
+
+
+
+(ii)
+ such company or shareholder controls in any manner the election of a majority of the directors or trustees of the other company; or
+
+
+
+
+(iii)
+ the Board determines, after notice and opportunity for hearing, that such company or shareholder, directly or indirectly, exercises a controlling influence over the management or policies of the other company; and
+
+
+
+
+
+
+(B)
+ notwithstanding any other provision of this section, no company shall be deemed to own or control another company by virtue of its ownership or control of shares in a fiduciary capacity, except as provided in paragraph (1)(C) of this subsection or if the company owning or controlling such shares is a business trust;
+
+
+
+
+
+
+(4)
+ the term “subsidiary” with respect to a specified company means a company that is controlled by such specified company;
+
+
+
+
+(5)
+ the term “bank” includes a State bank, national bank, banking association, and trust company;
+
+
+
+
+(6)
+ the term “company” means a corporation, partnership, business trust, association, or similar organization and, unless specifically excluded, the term “company” includes a “member bank” and a “bank”;
+
+
+
+
+(7)
+ the term “covered transaction” means with respect to an affiliate of a member bank—
+(A)
+ a loan or extension of credit to the affiliate, including a purchase of assets subject to an agreement to repurchase;
+
+
+
+
+(B)
+ a purchase of or an investment in securities issued by the affiliate;
+
+
+
+
+(C)
+ a purchase of assets from the affiliate, except such purchase of real and personal property as may be specifically exempted by the Board by order or regulation;
+
+
+
+
+(D)
+ the acceptance of securities or other debt obligations issued by the affiliate as collateral security for a loan or extension of credit to any person or company;
+
+
+
+
+(E)
+ the issuance of a guarantee, acceptance, or letter of credit, including an endorsement or standby letter of credit, on behalf of an affiliate;
+
+
+
+
+(F)
+ a transaction with an affiliate that involves the borrowing or lending of securities, to the extent that the transaction causes a member bank or a subsidiary to have credit exposure to the affiliate; or
+
+
+
+
+(G)
+ a derivative transaction, as defined in paragraph (3) of 
+section 84(b) of this title
+, with an affiliate, to the extent that the transaction causes a member bank or a subsidiary to have credit exposure to the affiliate;
+
+
+
+
+
+
+(8)
+ the term “aggregate amount of covered transactions” means the amount of the covered transactions about to be engaged in added to the current amount of all outstanding covered transactions;
+
+
+
+
+(9)
+ the term “securities” means stocks, bonds, debentures, notes, or other similar obligations; and
+
+
+
+
+(10)
+ the term “low-quality asset” means an asset that falls in any one or more of the following categories:
+(A)
+ an asset classified as “substandard”, “doubtful”, or “loss” or treated as “other loans especially mentioned” in the most recent report of examination or inspection of an affiliate prepared by either a Federal or State supervisory agency;
+
+
+
+
+(B)
+ an asset in a nonaccrual status;
+
+
+
+
+(C)
+ an asset on which principal or interest payments are more than thirty days past due; or
+
+
+
+
+(D)
+ an asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the obligor.
+
+
+
+
+
+
+(11)
+ 
+Rebuttable presumption of control of portfolio companies
+.—
+In addition to paragraph (3), a company or shareholder shall be presumed to control any other company if the company or shareholder, directly or indirectly, or acting through 1 or more other persons, owns or controls 15 percent or more of the equity capital of the other company pursuant to subparagraph (H) or (I) of 
+section 1843(k)(4) of this title
+ or rules adopted under section 122 of the Gramm-Leach-Bliley Act, if any, unless the company or shareholder provides information acceptable to the Board to rebut this presumption of control.
+
+
+
+
+(c)
+ Collateral for certain transactions with affiliates
+(1)
+ Each loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, an affiliate by a member bank or its subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times by collateral having a market value equal to—
+(A)
+ 100 per centum of the amount of such loan or extension of credit, guarantee, acceptance, letter of credit, or credit exposure, if the collateral is composed of—
+(i)
+ obligations of the United States or its agencies;
+
+
+
+
+(ii)
+ obligations fully guaranteed by the United States or its agencies as to principal and interest;
+
+
+
+
+(iii)
+ notes, drafts, bills of exchange or bankers’ acceptances that are eligible for rediscount or purchase by a Federal Reserve Bank; or
+
+
+
+
+(iv)
+ a segregated, earmarked deposit account with the member bank;
+
+
+
+
+
+
+(B)
+ 110 per centum of the amount of such loan or extension of credit, guarantee, acceptance, letter of credit, or credit exposure if the collateral is composed of obligations of any State or political subdivision of any State;
+
+
+
+
+(C)
+ 120 per centum of the amount of such loan or extension of credit, guarantee, acceptance, letter of credit, or credit exposure if the collateral is composed of other debt instruments, including receivables; or
+
+
+
+
+(D)
+ 130 per centum of the amount of such loan or extension of credit, guarantee, acceptance, letter of credit, or credit exposure if the collateral is composed of stock, leases, or other real or personal property.
+
+
+
+
+
+
+(2)
+ A low-quality asset shall not be acceptable as collateral for a loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, an affiliate, or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction.
+
+
+
+
+(3)
+ The securities or other debt obligations issued by an affiliate of the member bank shall not be acceptable as collateral for a loan or extension of credit to, guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to, that affiliate or any other affiliate of the member bank.
+
+
+
+
+(4)
+ The collateral requirements of this paragraph shall not be applicable to an acceptance that is already fully secured either by attached documents or by other property having an ascertainable market value that is involved in the transaction.
+
+
+
+
+(d)
+ Exemptions
+The provisions of this section, except subsection (a)(4) of this section, shall not be applicable to—
+(1)
+ any transaction, subject to the prohibition contained in subsection (a)(3) of this section, with a bank—
+(A)
+ which controls 80 per centum or more of the voting shares of the member bank;
+
+
+
+
+(B)
+ in which the member bank controls 80 per centum or more of the voting shares; or
+
+
+
+
+(C)
+ in which 80 per centum or more of the voting shares are controlled by the company that controls 80 per centum or more of the voting shares of the member bank;
+
+
+
+
+
+
+(2)
+ making deposits in an affiliated bank or affiliated foreign bank in the ordinary course of correspondent business, subject to any restrictions that the Board may prescribe by regulation or order;
+
+
+
+
+(3)
+ giving immediate credit to an affiliate for uncollected items received in the ordinary course of business;
+
+
+
+
+(4)
+ making a loan or extension of credit to, issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to, an affiliate that is fully secured by—
+(A)
+ obligations of the United States or its agencies;
+
+
+
+
+(B)
+ obligations fully guaranteed by the United States or its agencies as to principal and interest; or
+
+
+
+
+(C)
+ a segregated, earmarked deposit account with the member bank;
+
+
+
+
+
+
+(5)
+ purchasing securities issued by any company of the kinds described in 
+section 1843(c)(1) of this title
+;
+
+
+
+
+(6)
+ purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
+
+
+
+
+(7)
+ purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
+
+
+
+
+(e)
+ Rules relating to banks with financial subsidiaries
+(1)
+ Financial subsidiary defined
+For purposes of this section and 
+section 371c–1 of this title
+, the term “financial subsidiary” means any company that is a subsidiary of a bank that would be a financial subsidiary of a national bank under 
+section 24a of this title
+.
+
+
+
+
+
+
+(2)
+ Financial subsidiary treated as an affiliate
+For purposes of applying this section and 
+section 371c–1 of this title
+, and notwithstanding subsection (b)(2) of this section or 
+section 371c–1(d)(1) of this title
+, a financial subsidiary of a bank—
+(A)
+ shall be deemed to be an affiliate of the bank; and
+
+
+
+
+(B)
+ shall not be deemed to be a subsidiary of the bank.
+
+
+
+
+
+
+(3)
+ Anti-evasion provision
+For purposes of this section and 
+section 371c–1 of this title
+—
+(A)
+ any purchase of, or investment in, the securities of a financial subsidiary of a bank by an affiliate of the bank shall be considered to be a purchase of or investment in such securities by the bank; and
+
+
+
+
+(B)
+ any extension of credit by an affiliate of a bank to a financial subsidiary of the bank shall be considered to be an extension of credit by the bank to the financial subsidiary if the Board determines that such treatment is necessary or appropriate to prevent evasions of this chapter and the Gramm-Leach-Bliley Act.
+
+
+
+
+
+
+(f)
+ Rulemaking and additional exemptions
+(1)
+ The Board may issue such further regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purposes of this section and to prevent evasions thereof.
+
+
+
+
+(2)
+(A)
+ 
+In general
+.—
+The Board may, at its discretion, by regulation exempt transactions or relationships from the requirements of this section if—
+(i)
+ the Board finds the exemption to be in the public interest and consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding; and
+
+
+
+
+(ii)
+ before the end of the 60-day period beginning on the date on which the Federal Deposit Insurance Corporation receives notice of the finding under clause (i), the Federal Deposit Insurance Corporation does not object, in writing, to the finding, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
+
+
+
+
+
+
+(B)
+ Additional exemptions.—
+(i)
+ 
+National banks
+.—
+The Comptroller of the Currency may, by order, exempt a transaction of a national bank from the requirements of this section if—
+(I)
+ the Board and the Office of the Comptroller of the Currency jointly find the exemption to be in the public interest and consistent with the purposes of this section and notify the Federal Deposit Insurance Corporation of such finding; and
+
+
+
+
+(II)
+ before the end of the 60-day period beginning on the date on which the Federal Deposit Insurance Corporation receives notice of the finding under subclause (I), the Federal Deposit Insurance Corporation does not object, in writing, to the finding, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
+
+
+
+
+
+
+(ii)
+ 
+State banks
+.—
+The Federal Deposit Insurance Corporation may, by order, exempt a transaction of a State nonmember bank, and the Board may, by order, exempt a transaction of a State member bank, from the requirements of this section if—
+(I)
+ the Board and the Federal Deposit Insurance Corporation jointly find that the exemption is in the public interest and consistent with the purposes of this section; and
+
+
+
+
+(II)
+ the Federal Deposit Insurance Corporation finds that the exemption does not present an unacceptable risk to the Deposit Insurance Fund.
+
+
+
+
+
+
+
+
+
+
+(3)
+ Rulemaking required concerning derivative transactions and intraday credit.—
+(A)
+ 
+In general
+.—
+Not later than 18 months after 
+November 12, 1999
+, the Board shall adopt final rules under this section to address as covered transactions credit exposure arising out of derivative transactions between member banks and their affiliates and intraday extensions of credit by member banks to their affiliates.
+
+
+
+
+(B)
+ 
+Effective date
+.—
+The effective date of any final rule adopted by the Board pursuant to subparagraph (A) shall be delayed for such period as the Board deems necessary or appropriate to permit banks to conform their activities to the requirements of the final rule without undue hardship.
+
+
+
+
+
+
+(4)
+ 
+Amounts of covered transactions
+.—
+The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
+
+
+
+
+“(b)
+ 
+Prospective Application of Amendment
+.—
+The amendments made by this section [amending this section] shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act (
+12 U.S.C. 371c
+), that is entered into on or after the date of enactment of this Act [
+July 21, 2010
+].
+
+
+“(c)
+ 
+Effective Date
+.—
+The amendments made by this section shall take effect 1 year after the transfer date.”
+
+
+ Restrictions on transactions with affiliates
+(a)
+ In general
+(1)
+ Terms
+A member bank and its subsidiaries may engage in any of the transactions described in paragraph (2) only—
+(A)
+ on terms and under circumstances, including credit standards, that are substantially the same, or at least as favorable to such bank or its subsidiary, as those prevailing at the time for comparable transactions with or involving other nonaffiliated companies, or
+
+
+
+
+(B)
+ in the absence of comparable transactions, on terms and under circumstances, including credit standards, that in good faith would be offered to, or would apply to, nonaffiliated companies.
+
+
+
+
+
+
+(2)
+ Transactions covered
+Paragraph (1) applies to the following:
+(A)
+ Any covered transaction with an affiliate.
+
+
+
+
+(B)
+ The sale of securities or other assets to an affiliate, including assets subject to an agreement to repurchase.
+
+
+
+
+(C)
+ The payment of money or the furnishing of services to an affiliate under contract, lease, or otherwise.
+
+
+
+
+(D)
+ Any transaction in which an affiliate acts as an agent or broker or receives a fee for its services to the bank or to any other person.
+
+
+
+
+(E)
+ Any transaction or series of transactions with a third party—
+(i)
+ if an affiliate has a financial interest in the third party, or
+
+
+
+
+(ii)
+ if an affiliate is a participant in such transaction or series of transactions.
+
+
+
+
+
+
+
+
+(3)
+ Transactions that benefit affiliate
+For the purpose of this subsection, any transaction by a member bank or its subsidiary with any person shall be deemed to be a transaction with an affiliate of such bank if any of the proceeds of the transaction are used for the benefit of, or transferred to, such affiliate.
+
+
+
+
+
+
+(b)
+ Prohibited transactions
+(1)
+ In general
+A member bank or its subsidiary—
+(A)
+ shall not purchase as fiduciary any securities or other assets from any affiliate unless such purchase is permitted—
+(i)
+ under the instrument creating the fiduciary relationship,
+
+
+
+
+(ii)
+ by court order, or
+
+
+
+
+(iii)
+ by law of the jurisdiction governing the fiduciary relationship; and
+
+
+
+
+
+
+(B)
+ whether acting as principal or fiduciary, shall not knowingly purchase or otherwise acquire, during the existence of any underwriting or selling syndicate, any security if a principal underwriter of that security is an affiliate of such bank.
+
+
+
+
+
+
+(2)
+ Exception
+Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank based on a determination that the purchase is a sound investment for the bank irrespective of the fact that an affiliate of the bank is a principal underwriter of the securities.
+
+
+
+
+
+
+(3)
+ Definitions
+For the purpose of this subsection—
+(A)
+ the term “security” has the meaning given to such term in 
+section 78c(a)(10) of title 15
+; and
+
+
+
+
+(B)
+ the term “principal underwriter” means any underwriter who, in connection with a primary distribution of securities—
+(i)
+ is in privity of contract with the issuer or an affiliated person of the issuer;
+
+
+
+
+(ii)
+ acting alone or in concert with one or more other persons, initiates or directs the formation of an underwriting syndicate; or
+
+
+
+
+(iii)
+ is allowed a rate of gross commission, spread, or other profit greater than the rate allowed another underwriter participating in the distribution.
+
+
+
+
+
+
+
+
+(c)
+ Advertising restriction
+A member bank or any subsidiary or affiliate of a member bank shall not publish any advertisement or enter into any agreement stating or suggesting that the bank shall in any way be responsible for the obligations of its affiliates.
+
+
+
+
+(d)
+ Definitions
+For the purpose of this section—
+(1)
+ the term “affiliate” has the meaning given to such term in 
+section 371c of this title
+ (but does not include any company described in section 
+1
+1
+ So in original. Probably should be “subsection”.
+ (b)(2) of such section or any bank);
+
+
+
+
+(2)
+ the terms “bank”, “subsidiary”, “person”, and “security” (other than security as used in subsection (b) of this section) have the meanings given to such terms in 
+section 371c of this title
+; and
+
+
+
+
+(3)
+ the term “covered transaction” has the meaning given to such term in 
+section 371c of this title
+ (but does not include any transaction which is exempt from such definition under subsection (d) of such section).
+
+
+
+
+(e)
+ Regulations
+(1)
+ In general
+The Board may prescribe regulations to administer and carry out the purposes of this section, including—
+(A)
+ regulations to further define terms used in this section; and
+
+
+
+
+(B)
+ subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding, regulations to—
+(i)
+ exempt transactions or relationships from the requirements of this section; and
+
+
+
+
+(ii)
+ exclude any subsidiary of a bank holding company from the definition of affiliate for purposes of this section.
+
+
+
+
+
+
+
+
+(2)
+ Exception
+The Board may grant an exemption or exclusion under this subsection only if, during the 60-day period beginning on the date of receipt of notice of the finding from the Board under paragraph (1)(B), the Federal Deposit Insurance Corporation does not object, in writing, to such exemption or exclusion, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
+
+
+
+
+
+
+ Investment in bank premises or stock of corporation holding premises
+(a)
+ Conditions of investment
+No national bank or State member bank shall invest in bank premises, or in the stock, bonds, debentures, or other such obligations of any corporation holding the premises of such bank, or make loans to or upon the security of any such corporation—
+(1)
+ unless the bank receives the prior approval of the Comptroller of the Currency (with respect to a national bank) or the Board (with respect to a State member bank);
+
+
+
+
+(2)
+ unless the aggregate of all such investments and loans, together with the amount of any indebtedness incurred by any such corporation that is an affiliate of the bank, is less than or equal to the amount of the capital stock of such bank; or
+
+
+
+
+(3)
+ unless—
+(A)
+ the aggregate of all such investments and loans, together with the amount of any indebtedness incurred by any such corporation that is an affiliate of the bank, is less than or equal to 150 percent of the capital and surplus of the bank; and
+
+
+
+
+(B)
+ the bank—
+(i)
+ has a CAMEL composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system) as of the most recent examination of such bank;
+
+
+
+
+(ii)
+ is well capitalized and will continue to be well capitalized after the investment or loan; and
+
+
+
+
+(iii)
+ provides notification to the Comptroller of the Currency (with respect to a national bank) or to the Board (with respect to a State member bank) not later than 30 days after making the investment or loan.
+
+
+
+
+
+
+
+
+(b)
+ Definitions
+For purposes of this section—
+(1)
+ the term “affiliate” has the same meaning as in 
+section 221a of this title
+; and
+
+
+
+
+(2)
+ the term “well capitalized” has the same meaning as in section 1831
+o
+(b) of this title.
+
+
+
+
+ Bankers’ acceptances
+(a)
+ Institutions; drafts and bills of exchange; types
+Any member bank and any Federal or State branch or agency of a foreign bank subject to reserve requirements under 
+section 3105 of this title
+ (hereinafter in this section referred to as “institutions”), may accept drafts or bills of exchange drawn upon it having not more than six months’ sight to run, exclusive of days of grace—
+(i)
+ which grow out of transactions involving the importation or exportation of goods;
+
+
+
+
+(ii)
+ which grow out of transactions involving the domestic shipment of goods; or
+
+
+
+
+(iii)
+ which are secured at the time of acceptance by a warehouse receipt or other such document conveying or securing title covering readily marketable staples.
+
+
+
+
+(b)
+ Ratio limit of bills to unimpaired capital stock and surplus
+Except as provided in subsection (c) of this section, no institution shall accept such bills, or be obligated for a participation share in such bills, in an amount equal at any time in the aggregate to more than 150 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
+
+
+
+
+(c)
+ Authorization for special ratio limit; foreign banks
+The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
+
+
+
+
+(d)
+ Ratio limit for domestic transactions
+Notwithstanding subsections (b) and (c) of this section, with respect to any institution, the aggregate acceptances, including obligations for a participation share in such acceptances, growing out of domestic transactions shall not exceed 50 per centum of the aggregate of all acceptances, including obligations for a participation share in such acceptances, authorized for such institution under this section.
+
+
+
+
+(e)
+ Ratio limit for single entity; foreign banks; secu­rity
+No institution shall accept bills, or be obligated for a participation share in such bills, whether in a foreign or domestic transaction, for any one person, partnership, corporation, association or other entity in an amount equal at any time in the aggregate to more than 10 per centum of its paid up and unimpaired capital stock and surplus, or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section, unless the institution is secured either by attached documents or by some other actual security growing out of the same transaction as the acceptance.
+
+
+
+
+(f)
+ Exception for participation agreements
+With respect to an institution which issues an acceptance, the limitations contained in this section shall not apply to that portion of an acceptance which is issued by such institution and which is covered by a participation agreement sold to another institution.
+
+
+
+
+(g)
+ Definitions by Board
+In order to carry out the purposes of this section, the Board may define any of the terms used in this section, and, with respect to institutions which do not have capital or capital stock, the Board shall define an equivalent measure to which the limitations contained in this section shall apply.
+
+
+
+
+(h)
+ Dollar equivalent of foreign bank paid-up capital stock and surplus
+Any limitation or restriction in this section based on paid-up and unimpaired capital stock and surplus of an institution shall be deemed to refer, with respect to a United States branch or agency of a foreign bank, to the dollar equivalent of the paid-up capital stock and surplus of the foreign bank, as determined by the Board, and if the foreign bank has more than one United States branch or agency, the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation or restriction.
+
+
+
+
+ Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange
+Any member bank may accept drafts or bills of exchange drawn upon it having not more than three months’ sight to run, exclusive of days of grace, drawn under regulations to be prescribed by the Board of Governors of the Federal Reserve System by banks or bankers in foreign countries or dependencies or insular possessions of the United States for the purpose of furnishing dollar exchange as required by the usages of trade in the respective countries, dependencies, or insular possessions. Such drafts or bills may be acquired by Federal reserve banks in such amounts and subject to such regulations, restrictions, and limitations as may be prescribed by the Board of Governors of the Federal Reserve System: 
+ Acting as agent for nonmember bank in getting discounts from reserve bank
+No member bank shall act as the medium or agent of a nonmember bank in applying for or receiving discounts from a Federal reserve bank under the provisions of this chapter, except by permission of the Board of Governors of the Federal Reserve System.
+ Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties
+No member bank shall act as the medium or agent of any nonbanking corporation, partnership, association, business trust, or individual in making loans on the security of stocks, bonds, and other investment securities to brokers or dealers in stocks, bonds, and other investment securities. Every violation of this provision by any member bank shall be punishable by a fine of not more than $100 per day during the continuance of such violation; and such fine may be collected, by suit or otherwise, by the Federal reserve bank of the district in which such member bank is located.
+ [Reserved]
+ Loans to executive officers of banks
+ Extensions of credit to executive officers, directors, and principal shareholders of member banks
+ Rate of interest paid to directors, etc.
+No member bank shall pay to any director, officer, attorney, or employee a greater rate of interest on the deposits of such director, officer, attorney, or employee than that paid to other depositors on similar deposits with such member bank.
+ Repealed. 
+ Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties
+(a)
+ After the expiration of one year after 
+June 16, 1933
+, it shall be unlawful—
+(1)
+ For any person, firm, corporation, association, business trust, or other similar organization, engaged in the business of issuing, underwriting, selling, or distributing, at wholesale or retail, or through syndicate participation, stocks, bonds, debentures, notes, or other securities, to engage at the same time to any extent whatever in the business of receiving deposits subject to check or to repayment upon presentation of a passbook, certificate of deposit, or other evidence of debt, or upon request of the depositor: 
+Provided
+, That the provisions of this paragraph shall not prohibit national banks or State banks or trust companies (whether or not members of the Federal Reserve System) or other financial institutions or private bankers from dealing in, underwriting, purchasing, and selling investment securities, or issuing securities, to the extent permitted to national banking associations by the provisions of 
+section 24 of this title
+: 
+Provided further
+, That nothing in this paragraph shall be construed as affecting in any way such right as any bank, banking association, savings bank, trust company, or other banking institution, may otherwise possess to sell, without recourse or agreement to repurchase, obligations evidencing loans on real estate; or
+
+
+
+
+(2)
+ For any person, firm, corporation, association, business trust, or other similar organization to engage, to any extent whatever with others than his or its officers, agents or employees, in the business of receiving deposits subject to check or to repayment upon presentation of a pass book, certificate of deposit, or other evidence of debt, or upon request of the depositor, unless such person, firm, corporation, association, business trust, or other similar organization (A) shall be incorporated under, and authorized to engage in such business by, the laws of the United States or of any State, Territory, or District, and subjected, by the laws of the United States, or of the State, Territory, or District wherein located, to examination and regulation, or (B) shall be permitted by the United States, any State, territory, or district to engage in such business and shall be subjected by the laws of the United States, or such State, territory, or district to examination and regulations or, (C) shall submit to periodic examination by the banking authority of the State, Territory, or District where such business is carried on and shall make and publish periodic reports of its condition, exhibiting in detail its resources and liabilities, such examination and reports to be made and published at the same times and in the same manner and under the same conditions as required by the law of such State, Territory, or District in the case of incorporated banking institutions engaged in such business in the same locality.
+
+
+
+
+(b)
+ Whoever shall willfully violate any of the provisions of this section shall upon conviction be fined not more than $5,000 or imprisoned not more than five years, or both, and any officer, director, employee, or agent of any person, firm, corporation, association, business trust, or other similar organization who knowingly participates in any such violation shall be punished by a like fine or imprisonment or both.
+
+
+ Federal reserve banks as Government depositaries and fiscal agents
+The moneys held in the general fund of the Treasury, except the 5 per centum fund for the redemption of outstanding national-bank notes may, upon the direction of the Secretary of the Treasury, be deposited in Federal reserve banks, which banks, when required by the Secretary of the Treasury, shall act as fiscal agents of the United States; and the revenues of the Government or any part thereof may be deposited in such banks, and disbursements may be made by checks drawn against such deposits.
+ Reimbursement of Federal Reserve Banks
+Beginning in fiscal year 1998 and thereafter, there are appropriated such sums as may be necessary to reimburse Federal Reserve Banks in their capacity as depositaries and fiscal agents for the United States for all services required or directed by the Secretary of the Treasury to be performed by such banks on behalf of the Treasury or other Federal agencies.
+ Depositaries of Government funds as confined to banks in Federal reserve system; member banks as depositaries
+No public funds of the postal savings, or any Government funds, shall be deposited in the continental United States in any bank not belonging to the system established by this chapter: 
+ Federal reserve banks as depositaries for Farm Credit System
+The Federal Reserve banks are authorized to act as depositaries for and fiscal agents of any Federal land bank, Federal intermediate credit bank, bank for cooperatives, or other institutions of the Farm Credit System.
+ Federal reserve banks as depositaries for and fiscal agents of Home Owners’ Loan Corporation
+The Federal Reserve banks are authorized, with the approval of the Secretary of the Treasury, to act as depositaries, custodians, and fiscal agents for the Home Owners’ Loan Corporation.
+ Federal reserve banks as depositaries, custodians and fiscal agents for Commodity Credit Corporation
+The Federal Reserve banks are authorized to act as depositaries, custodians, and fiscal agents for the Commodity Credit Corporation.
+ Issuance to reserve banks; nature of obligation; redemption
+Federal reserve notes, to be issued at the discretion of the Board of Governors of the Federal Reserve System for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are authorized. The said notes shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank.
+ Application for notes; collateral required
+Any Federal Reserve bank may make application to the local Federal Reserve agent for such amount of the Federal Reserve notes hereinbefore provided for as it may require. Such application shall be accompanied with a tender to the local Federal Reserve agent of collateral in amount equal to the sum of the Federal Reserve notes thus applied for and issued pursuant to such application. The collateral security thus offered shall be notes, drafts, bills of exchange, or acceptances acquired under section 92, 342 to 348, 349 to 352, 361, 372, or 373 of this title, or bills of exchange endorsed by a member bank of any Federal Reserve district and purchased under the provisions of sections 348a and 353 to 359 of this title, or bankers’ acceptances purchased under the provisions of said sections 348a and 353 to 359 of this title, or gold certificates, or Special Drawing Right certificates, or any obligations which are direct obligations of, or are fully guaranteed as to principal and interest by, the United States or any agency thereof, or assets that Federal Reserve banks may purchase or hold under sections 348a and 353 to 359 of this title or any other asset of a Federal Reserve bank. In no event shall such collateral security be less than the amount of Federal Reserve notes applied for. The Federal Reserve agent shall each day notify the Board of Governors of the Federal Reserve System of all issues and withdrawals of Federal Reserve notes to and by the Federal Reserve bank to which he is accredited. The said Board of Governors of the Federal Reserve System may at any time call upon a Federal Reserve bank for additional security to protect the Federal Reserve notes issued to it. Collateral shall not be required for Federal Reserve notes which are held in the vaults of, or are otherwise held by or on behalf of, Federal Reserve banks.
+ Distinctive letter and serial number of notes; cancellation of notes unfit for circulation; accounting; apportionment of credit among Federal Reserve banks
+Federal Reserve notes shall bear upon their faces a distinctive letter and serial number which shall be assigned by the Board of Governors of the Federal Reserve System to each Federal Reserve bank. Federal Reserve notes unfit for circulation shall be canceled, destroyed, and accounted for under procedures prescribed and at locations designated by the Secretary of the Treasury. Upon destruction of such notes, credit with respect thereto shall be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System.
+ Authority of Board of Governors respecting issuance of notes; interest; lien
+The Board of Governors of the Federal Reserve System shall have the right, acting through the Federal Reserve agent, to grant in whole or in part, or to reject entirely the application of any Federal Reserve bank for Federal Reserve notes; but to the extent that such application may be granted the Board of Governors of the Federal Reserve System shall, through its local Federal Reserve agent, supply Federal Reserve notes to the banks so applying, and such bank shall be charged with the amount of the notes issued to it and shall pay such rate of interest as may be established by the Board of Governors of the Federal Reserve System on only that amount of such notes which equals the total amount of its outstanding Federal Reserve notes less the amount of gold certificates held by the Federal Reserve agent as collateral security. Federal Reserve notes issued to any such bank shall, upon delivery, together with such notes of such Federal Reserve bank as may be issued under subchapter XIII 
+ Reduction of liability for outstanding notes by depositing notes and collateral and payment of notes of series prior to 1928; reissue of deposited notes
+Any Federal Reserve bank may at any time reduce its liability for outstanding Federal Reserve notes by depositing with the Federal Reserve agent its Federal Reserve notes, gold certificates, Special Drawing Right certificates, or lawful money of the United States. Federal Reserve notes so deposited shall not be reissued, except upon compliance with the conditions of an original issue. The liability of a Federal Reserve bank with respect to its outstanding Federal Reserve notes shall be reduced by an amount paid by such bank to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act.
+ Withdrawal of collateral deposited to protect notes and substitution of other collateral; retirement of notes; payment of notes of series prior to 1928; recovery of collateral; reissue of deposited notes
+Any Federal Reserve bank may at its discretion withdraw collateral deposited with the local Federal Reserve agent for the protection of its Federal Reserve notes issued to it, and shall at the same time substitute therefor other collateral of equal amount with the approval of the Federal Reserve agent under regulations to be prescribed by the Board of Governors of the Federal Reserve System. Any Federal Reserve bank may retire any of its Federal Reserve notes by depositing them with the Federal Reserve agent or with the Treasurer of the United States, and such Federal Reserve bank shall thereupon be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of such notes. Any Federal Reserve bank shall further be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of any notes with respect to which such bank has made payment to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act. Federal Reserve notes so deposited shall not be reissued except upon compliance with the conditions of an original issue.
+ Custody and safe-keeping of notes issued to and collateral deposited with Reserve agent
+All Federal Reserve notes and all gold certificates, Special Drawing Right certificates, and lawful money issued to or deposited with any Federal Reserve agent under the provisions of the Federal Reserve Act shall hereafter be held for such agent, under such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe, in the joint custody of himself and the Federal Reserve bank to which he is accredited. Such agent and such Federal Reserve bank shall be jointly liable for the safe-keeping of such Federal Reserve notes, gold certificates, Special Drawing Right certificates, and lawful money. Nothing herein contained, however, shall be construed to prohibit a Federal Reserve agent from depositing gold certificates and Special Drawing Right certificates with the Board of Governors of the Federal Reserve System, to be held by such Board subject to his order, or with the Treasurer of the United States for the purposes authorized by law.
+ Printing of notes; denomination and form
+In order to furnish suitable notes for circulation as Federal reserve notes, the Secretary of the Treasury shall cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $1, $2, $5, $10, $20, $50, $100, $500, $1,000, $5,000, $10,000 as may be required to supply the Federal Reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this chapter and shall bear the distinctive numbers of the several Federal reserve banks through which they are issued.
+ Delivery of notes prior to delivery to banks
+When such notes have been prepared, the notes shall be delivered to the Board of Governors of the Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this chapter.
+ Control and direction of plates and dies; expense of issue and retirement of notes paid by banks
+The plates and dies to be procured by the Secretary of the Treasury for the printing of such circulating notes shall remain under his control and direction, and the expenses necessarily incurred in executing the laws relating to the procuring of such notes, and all other expenses incidental to their issue and retirement, shall be paid by the Federal reserve banks, and the Board of Governors of the Federal Reserve System shall include in its estimate of expenses levied against the Federal reserve banks a sufficient amount to cover the expenses herein provided for.
+ Examination of plates and dies
+The Secretary of the Treasury may examine the plates, dies, bed pieces, and other material used in the printing of Federal Reserve notes and issue regulations relating to such examinations.
+ Omitted
+ Omitted
+ Reserve requirements
+(a)
+ Establishment of applicable definitions, payment of interest, obligations as deposits, and regulations
+The Board is authorized for the purposes of this section 
+1
+1
+ See References in Text note below.
+ to define the terms used in this section,
+1
+ to determine what shall be deemed a payment of interest, to determine what types of obligations, whether issued directly by a member bank or indirectly by an affiliate of a member bank or by other means, and, regardless of the use of the proceeds, shall be deemed a deposit, and to prescribe such regulations as it may deem necessary to effectuate the purposes of this section 
+1
+ and to prevent evasions thereof.
+
+
+
+
+(b)
+ Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers; earnings on balances
+(1)
+ The following definitions and rules apply to this subsection, subsection (c) of this section, and sections 248–1, 248a, 342, 360, and 412 of this title:
+(A)
+ The term “depository institution” means—
+(i)
+ any insured bank as defined in section 3 of the Federal Deposit Insurance Act [
+12 U.S.C. 1813
+] or any bank which is eligible to make application to become an insured bank under section 5 of such Act [
+12 U.S.C. 1815
+];
+
+
+
+
+(ii)
+ any mutual savings bank as defined in section 3 of the Federal Deposit Insurance Act or any bank which is eligible to make application to become an insured bank under section 5 of such Act;
+
+
+
+
+(iii)
+ any savings bank as defined in section 3 of the Federal Deposit Insurance Act or any bank which is eligible to make application to become an insured bank under section 5 of such Act;
+
+
+
+
+(iv)
+ any insured credit union as defined in 
+section 1752 of this title
+ or any credit union which is eligible to make application to become an insured credit union pursuant to 
+section 1781 of this title
+;
+
+
+
+
+(v)
+ any member as defined in 
+section 1422 of this title
+;
+
+
+
+
+(vi)
+ any savings association (as defined in section 3 of the Federal Deposit Insurance Act [
+12 U.S.C. 1813
+]) which is an insured depository institution (as defined in such Act [
+12 U.S.C. 1811
+ et seq.]) or is eligible to apply to become an insured depository institution under the Federal Deposit Insurance Act; and
+
+
+
+
+(vii)
+ for the purpose of sections 248–1, 342 to 347, 347c, 347d, and 372 of this title, any association or entity which is wholly owned by or which consists only of institutions referred to in clauses (i) through (vi).
+
+
+
+
+
+
+(B)
+ The term “bank” means any insured or noninsured bank, as defined in section 3 of the Federal Deposit Insurance Act [
+12 U.S.C. 1813
+], other than a mutual savings bank or a savings bank as defined in such section.
+
+
+
+
+(C)
+ The term “transaction account” means a deposit or account on which the depositor or account holder is permitted to make withdrawals by negotiable or transferable instrument, payment orders of withdrawal, telephone transfers, or other similar items for the purpose of making payments or transfers to third persons or others. Such term includes demand deposits, negotiable order of withdrawal accounts, savings deposits subject to automatic transfers, and share draft accounts.
+
+
+
+
+(D)
+ The term “nonpersonal time deposits” means a transferable time deposit or account or a time deposit or account representing funds deposited to the credit of, or in which any beneficial interest is held by, a depositor who is not a natural person.
+
+
+
+
+(E)
+ The term “reservable liabilities” means transaction accounts, nonpersonal time deposits, and all net balances, loans, assets, and obligations which are, or may be, subject to reserve requirements under paragraph (5).
+
+
+
+
+(F)
+ In order to prevent evasions of the reserve requirements imposed by this subsection, after consultation with the Board of Directors of the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the National Credit Union Administration Board, the Board of Governors of the Federal Reserve System is authorized to determine, by regulation or order, that an account or deposit is a transaction account if such account or deposit may be used to provide funds directly or indirectly for the purpose of making payments or transfers to third persons or others.
+
+
+
+
+
+
+(2)
+(A)
+ Each depository institution shall maintain reserves against its transaction accounts as the Board may prescribe by regulation solely for the purpose of implementing monetary policy—
+(i)
+ in a ratio of not greater than 3 percent (and which may be zero) for that portion of its total transaction accounts of $25,000,000 or less, subject to subparagraph (C); and
+
+
+
+
+(ii)
+ in the ratio of 12 per centum, or in such other ratio as the Board may prescribe not greater than 14 per centum (and which may be zero), for that portion of its total transaction accounts in excess of $25,000,000, subject to subparagraph (C).
+
+
+
+
+
+
+(B)
+ Each depository institution shall maintain reserves against its nonpersonal time deposits in the ratio of 3 per centum, or in such other ratio not greater than 9 per centum and not less than zero per centum as the Board may prescribe by regulation solely for the purpose of implementing monetary policy.
+
+
+
+
+(C)
+ Beginning in 1981, not later than December 31 of each year the Board shall issue a regulation increasing for the next succeeding calendar year the dollar amount which is contained in subparagraph (A) or which was last determined pursuant to this subparagraph for the purpose of such subparagraph, by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage increase in the total transaction accounts of all depository institutions. The increase in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the preceding calendar year from the amount of such accounts on June 30 of the calendar year involved. In the case of any such 12-month period in which there has been a decrease in the total transaction accounts of all depository institutions, the Board shall issue such a regulation decreasing for the next succeeding calendar year such dollar amount by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage decrease in the total transaction accounts of all depository institutions. The decrease in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the calendar year involved from the amount of such accounts on June 30 of the previous calendar year.
+
+
+
+
+(D)
+ Any reserve requirement imposed under this subsection shall be uniformly applied to all transaction accounts at all depository institutions. Reserve requirements imposed under this subsection shall be uniformly applied to nonpersonal time deposits at all depository institutions, except that such requirements may vary by the maturity of such deposits.
+
+
+
+
+
+
+(3)
+ Upon a finding by at least 5 members of the Board that extraordinary circumstances require such action, the Board, after consultation with the appropriate committees of the Congress, may impose, with respect to any liability of depository institutions, reserve requirements outside the limitations as to ratios and as to types of liabilities otherwise prescribed by paragraph (2) for a period not exceeding 180 days, and for further periods not exceeding 180 days each by affirmative action by at least 5 members of the Board in each instance. The Board shall promptly transmit to the Congress a report of any exercise of its authority under this paragraph and the reasons for such exercise of authority.
+
+
+
+
+(4)
+(A)
+ The Board may, upon the affirmative vote of not less than 5 members, impose a supplemental reserve requirement on every depository institution of not more than 4 per centum of its total transaction accounts. Such supplemental reserve requirement may be imposed only if—
+(i)
+ the sole purpose of such requirement is to increase the amount of reserves maintained to a level essential for the conduct of monetary policy;
+
+
+
+
+(ii)
+ such requirement is not imposed for the purpose of reducing the cost burdens resulting from the imposition of the reserve requirements pursuant to paragraph (2);
+
+
+
+
+(iii)
+ such requirement is not imposed for the purpose of increasing the amount of balances needed for clearing purposes; and
+
+
+
+
+(iv)
+ on the date on which the supplemental reserve requirement is imposed, except as provided in paragraph (11), the total amount of reserves required pursuant to paragraph (2) is not less than the amount of reserves that would be required if the initial ratios specified in paragraph (2) were in effect.
+
+
+
+
+
+
+(B)
+ The Board may require the supplemental reserve authorized under subparagraph (A) only after consultation with the Board of Directors of the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the National Credit Union Administration Board. The Board shall promptly transmit to the Congress a report with respect to any exercise of its authority to require supplemental reserves under subparagraph (A) and such report shall state the basis for the determination to exercise such authority.
+
+
+
+
+(C)
+ If a supplemental reserve under subparagraph (A) has been required of depository institutions for a period of one year or more, the Board shall review and determine the need for continued maintenance of supplemental reserves and shall transmit annual reports to the Congress regarding the need, if any, for continuing the supplemental reserve.
+
+
+
+
+(D)
+ Any supplemental reserve imposed under subparagraph (A) shall terminate at the close of the first 90-day period after such requirement is imposed during which the average amount of reserves required under paragraph (2) are less than the amount of reserves which would be required during such period if the initial ratios specified in paragraph (2) were in effect.
+
+
+
+
+
+
+(5)
+ Foreign branches, subsidiaries, and international banking facilities of nonmember depository institutions shall maintain reserves to the same extent required by the Board of foreign branches, subsidiaries, and international banking facilities of member banks. In addition to any reserves otherwise required to be maintained pursuant to this subsection, any depository institution shall maintain reserves in such ratios as the Board may prescribe against—
+(A)
+ net balances owed by domestic offices of such depository institution in the United States to its directly related foreign offices and to foreign offices of nonrelated depository institutions;
+
+
+
+
+(B)
+ loans to United States residents made by overseas offices of such depository institution if such depository institution has one or more offices in the United States; and
+
+
+
+
+(C)
+ assets (including participations) held by foreign offices of a depository institution in the United States which were acquired from its domestic offices.
+
+
+
+
+
+
+(6)
+ The requirements imposed under paragraph (2) shall not apply to deposits payable only outside the States of the United States and the District of Columbia, except that nothing in this subsection limits the authority of the Board to impose conditions and requirements on member banks under section 25 of this Act [
+12 U.S.C. 601
+ et seq.] or the authority of the Board under 
+section 3105 of this title
+.
+
+
+
+
+(7)
+ Any depository institution in which transaction accounts or nonpersonal time deposits are held shall be entitled to the same discount and borrowing privileges as member banks. In the administration of discount and borrowing privileges, the Board and the Federal Reserve banks shall take into consideration the special needs of savings and other depository institutions for access to discount and borrowing facilities consistent with their long-term asset portfolios and the sensitivity of such institutions to trends in the national money markets.
+
+
+
+
+(8)
+(A)
+ Any depository institution required to maintain reserves under this subsection which was engaged in business on 
+July 1, 1979
+, but was not a member of the Federal Reserve System on or after that date, shall maintain reserves against its deposits during the first twelve-month period following the effective date of this paragraph in amounts equal to one-eighth of those otherwise required by this subsection, during the second such twelve-month period in amounts equal to one-fourth of those otherwise required, during the third such twelve-month period in amounts equal to three-eighths of those otherwise required, during the fourth twelve-month period in amounts equal to one-half of those otherwise required, and during the fifth twelve-month period in amounts equal to five-eighths of those otherwise required, during the sixth twelve-month period in amounts equal to three-fourths of those otherwise required, and during the seventh twelve-month period in amounts equal to seven-eighths of those otherwise required. This subparagraph does not apply to any category of deposits or accounts which are first authorized pursuant to Federal law in any State after 
+April 1, 1980
+.
+
+
+
+
+(B)
+ With respect to any bank which was a member of the Federal Reserve System during the entire period beginning on 
+July 1, 1979
+, and ending on the effective date of the Monetary Control Act of 1980, the amount of required reserves imposed pursuant to this subsection on and after the effective date of such Act that exceeds the amount of reserves which would have been required of such bank if the reserve ratios in effect during the reserve computation period immediately preceding such effective date were applied may, at the discretion of the Board and in accordance with such rules and regulations as it may adopt, be reduced by 75 per centum during the first year which begins after such effective date, 50 per centum during the second year, and 25 per centum during the third year.
+
+
+
+
+(C)
+(i)
+ With respect to any bank which is a member of the Federal Reserve System on the effective date of the Monetary Control Act of 1980, the amount of reserves which would have been required of such bank if the reserve ratios in effect during the reserve computation period immediately preceding such effective date were applied that exceeds the amount of required reserves imposed pursuant to this subsection shall, in accordance with such rules and regulations as the Board may adopt, be reduced by 25 per centum during the first year which begins after such effective date, 50 per centum during the second year, and 75 per centum during the third year.
+
+
+
+
+(ii)
+ If a bank becomes a member bank during the four-year period beginning on the effective date of the Monetary Control Act of 1980, and if the amount of reserves which would have been required of such bank, determined as if the reserve ratios in effect during the reserve computation period immediately preceding such effective date were applied, and as if such bank had been a member during such period, exceeds the amount of reserves required pursuant to this subsection, the amount of reserves required to be maintained by such bank beginning on the date on which such bank becomes a member of the Federal Reserve System shall be the amount of reserves which would have been required of such bank if it had been a member on the day before such effective date, except that the amount of such excess shall, in accordance with such rules and regulations as the Board may adopt, be reduced by 25 per centum during the first year which begins after such effective date, 50 per centum during the second year, and 75 per centum during the third year.
+
+
+
+
+
+
+(D)
+(i)
+ Any bank which was a member bank on 
+July 1, 1979
+, and which withdrew from membership in the Federal Reserve System during the period beginning 
+July 1, 1979
+, and ending on 
+March 31, 1980
+, shall maintain reserves during the first twelve-month period beginning on 
+October 15, 1982
+, in amounts equal to one-half of those otherwise required by this subsection, during the second such twelve-month period in amounts equal to two-thirds of those otherwise required, and during the third such twelve-month period in amounts equal to five-sixths of those otherwise required.
+
+
+
+
+(ii)
+ Any bank which withdraws from membership in the Federal Reserve System after 
+March 31, 1980
+, shall maintain reserves in the same amount as member banks are required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
+
+
+
+
+
+
+(E)
+ This subparagraph applies to any depository institution that, on 
+August 1, 1978
+, (i) was engaged in business as a depository institution in a State outside the continental limits of the United States, and (ii) was not a member of the Federal Reserve System at any time on or after such date. Such a depository institution shall not be required to maintain reserves against its deposits held or maintained at its offices located in a State outside the continental limits of the United States until the first day of the sixth calendar year which begins after the effective date of the Monetary Control Act of 1980. Such a depository institution shall maintain reserves against such deposits during the sixth calendar year which begins after such effective date in an amount equal to one-eighth of that otherwise required by paragraph (2), during the seventh such year in an amount equal to one-fourth of that otherwise required, during the eighth such year in an amount equal to three-eighths of that otherwise required, during the ninth such year in an amount equal to one-half of that otherwise required, during the tenth such year in an amount equal to five-eighths of that otherwise required, during the eleventh such year in an amount equal to three-fourths of that otherwise required, and during the twelfth such year in an amount equal to seven-eighths of that otherwise required.
+
+
+
+
+
+
+(9)
+ This subsection shall not apply with respect to any financial institution which—
+(A)
+ is organized solely to do business with other financial institutions;
+
+
+
+
+(B)
+ is owned primarily by the financial institutions with which it does business; and
+
+
+
+
+(C)
+ does not do business with the general public.
+
+
+
+
+
+
+(10)
+ In individual cases, where a Federal supervisory authority waives a liquidity requirement, or waives the penalty for failing to satisfy a liquidity requirement, the Board shall waive the reserve requirement, or waive the penalty for failing to satisfy a reserve requirement, imposed pursuant to this subsection for the depository institution involved when requested by the Federal supervisory authority involved.
+
+
+
+
+(11)
+(A)
+(i)
+ Notwithstanding the reserve requirement ratios established under paragraphs (2) and (5) of this subsection, a reserve ratio of zero per centum shall apply to any combination of reservable liabilities, which do not exceed $2,000,000 (as adjusted under subparagraph (B)), of each depository institution.
+
+
+
+
+(ii)
+ Each depository institution may designate, in accordance with such rules and regulations as the Board shall prescribe, the types and amounts of reservable liabilities to which the reserve ratio of zero per centum shall apply, except that transaction accounts which are designated to be subject to a reserve ratio of zero per centum shall be accounts which would otherwise be subject to a reserve ratio of 3 per centum under paragraph (2).
+
+
+
+
+(iii)
+ The Board shall minimize the reporting necessary to determine whether depository institutions have total reservable liabilities of less than $2,000,000 (as adjusted under subparagraph (B)). Consistent with the Board’s responsibility to monitor and control monetary and credit aggregates, depository institutions which have reserve requirements under this subsection equal to zero per centum shall be subject to less overall reporting requirements than depository institutions which have a reserve requirement under this subsection that exceeds zero per centum.
+
+
+
+
+
+
+(B)
+(i)
+ Beginning in 1982, not later than December 31 of each year, the Board shall issue a regulation increasing for the next succeeding calendar year the dollar amount specified in subparagraph (A), as previously adjusted under this subparagraph, by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage increase in the total reservable liabilities of all depository institutions.
+
+
+
+
+(ii)
+ The increase in total reservable liabilities shall be determined by subtracting the amount of total reservable liabilities on June 30 of the preceding calendar year from the amount of total reservable liabilities on June 30 of the calendar year involved. In the case of any such twelve-month period in which there has been a decrease in the total reservable liabilities of all depository institutions, no adjustment shall be made. A decrease in total reservable liabilities shall be determined by subtracting the amount of total reservable liabilities on June 30 of the calendar year involved from the amount of total reservable liabilities on June 30 of the previous calendar year.
+
+
+
+
+
+
+
+
+(12)
+ Earnings on balances.—
+(A)
+ 
+In general
+.—
+Balances maintained at a Federal Reserve bank by or on behalf of a depository institution may receive earnings to be paid by the Federal Reserve bank at least once each calendar quarter, at a rate or rates not to exceed the general level of short-term interest rates.
+
+
+
+
+(B)
+ 
+Regulations relating to payments and distributions
+.—
+The Board may prescribe regulations concerning—
+(i)
+ the payment of earnings in accordance with this paragraph;
+
+
+
+
+(ii)
+ the distribution of such earnings to the depository institutions which maintain balances at such banks, or on whose behalf such balances are maintained; and
+
+
+
+
+(iii)
+ the responsibilities of depository institutions, Federal Home Loan Banks, and the National Credit Union Administration Central Liquidity Facility with respect to the crediting and distribution of earnings attributable to balances maintained, in accordance with subsection (c)(1)(A), in a Federal Reserve bank by any such entity on behalf of depository institutions.
+
+
+
+
+
+
+(C)
+ 
+Depository institutions defined
+.—
+For purposes of this paragraph, the term “depository institution”, in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A [
+12 U.S.C. 611
+ et seq.] or having an agreement with the Board under section 25 [
+12 U.S.C. 601
+ et seq.], or any branch or agency of a foreign bank (as defined in 
+section 3101 of this title
+).
+
+
+
+
+
+
+(c)
+ Promulgation of rules and regulations respecting maintenance of balances
+(1)
+ Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) of this section shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—
+(A)
+ balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4) of this section, except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b) of this section; and
+
+
+
+
+(B)
+ balances maintained by a depository institution in a depository institution which maintains required reserve balances at a Federal Reserve bank, in a Federal Home Loan Bank, or in the National Credit Union Administration Central Liquidity Facility, if such depository institution, Federal Home Loan Bank, or National Credit Union Administration Central Liquidity Facility maintains such funds in the form of balances in a Federal Reserve bank of which it is a member or at which it maintains an account. Balances received by a depository institution from a second depository institution and used to satisfy the reserve requirement imposed on such second depository institution by this section shall not be subject to the reserve requirements of this section imposed on such first depository institution, and shall not be subject to assessments or reserves imposed on such first depository institution pursuant to section 7 of the Federal Deposit Insurance Act (
+12 U.S.C. 1817
+), section 404 of the National Housing Act (
+12 U.S.C. 1727
+),
+1
+ or section 202 of the Federal Credit Union Act (
+12 U.S.C. 1782
+).
+
+
+
+
+
+
+(2)
+ The balances maintained to meet the reserve requirements of subsection (b) of this section by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
+
+
+
+
+ Omitted
+ Repealed. 
+ Repealed. 
+ Omitted
+ Limitation on amount of balance with any depository institution without access to Federal Reserve advances
+No member bank shall keep on deposit with any depository institution which is not authorized to have access to Federal Reserve advances under section 347b 
+ Checking against and withdrawal of reserve balance
+The required balance carried by a member bank with a Federal reserve bank may, under the regulations and subject to such penalties as may be prescribed by the Board of Governors of the Federal Reserve System, be checked against and withdrawn by such member bank for the purpose of meeting existing liabilities.
+ Basis for ascertaining deposits against which required balance is determined
+In estimating the reserve balances required by this chapter, member banks may deduct from the amount of their gross demand deposits the amounts of balances due from other banks (except Federal Reserve banks and foreign banks) and cash items in process of collection payable immediately upon presentation in the United States, within the meaning of these terms as defined by the Board of Governors of the Federal Reserve System.
+ Reserves of banks in dependencies or insular possessions
+National banks, or banks organized under local laws, located in a dependency or insular possession or any part of the United States outside the continental United States, may remain nonmember banks, and shall in that event maintain reserves and comply with all the conditions now provided by law regulating them; or said banks may with the consent of the Board of Governors of the Federal Reserve System, become member banks of any one of the reserve districts, and shall in that event take stock, maintain reserves, and be subject to all the other provisions of this chapter.
+ Deposits of gold coin, gold certificates, and Special Drawing Right certificates with United States Treasurer
+The Secretary of the Treasury is authorized and directed to receive deposits of gold or of gold certificates or of Special Drawing Right certificates with the Treasurer or any designated depositary of the United States when tendered by any Federal Reserve bank or Federal Reserve agent for credit to its or his account with the Board of Governors of the Federal Reserve System. The Secretary shall prescribe by regulation the form of receipt to be issued by the Treasurer or designated depositary to the Federal Reserve bank or Federal Reserve agent making the deposit, and a duplicate of such receipt shall be delivered to the Board of Governors of the Federal Reserve System by the Treasurer at Washington upon proper advices from any designated depositary that such deposit has been made. Deposits so made shall be held subject to the orders of the Board of Governors of the Federal Reserve System and deposits of gold or gold certificates shall be payable in gold certificates, and deposits of Special Drawing Right certificates shall be payable in Special Drawing Right certificates, on the order of the Board of Governors of the Federal Reserve System to any Federal Reserve bank or Federal Reserve agent at the Treasury or at the subtreasury of the United States nearest the place of business of such Federal Reserve bank or such Federal Reserve agent. The order used by the Board of Governors of the Federal Reserve System in making such payments shall be signed by the chairman or vice chairman, or such other officers or members as the Board may by regulation prescribe. The form of such order shall be approved by the Secretary of the Treasury.
+ Appointment of examiners; examination of member banks, State banks, and trust companies; reports
+The Comptroller of the Currency, with the approval of the Secretary of the Treasury, shall appoint examiners who shall examine every national bank as often as the Comptroller of the Currency shall deem necessary. The examiner making the examination of any national bank shall have power to make a thorough examination of all the affairs of the bank and in doing so he shall have power to administer oaths and to examine any of the officers and agents thereof under oath and shall make a full and detailed report of the condition of said bank to the Comptroller of the Currency: 
+ Employees of Office of Comptroller of the Currency; appointment; compensation and benefits
+Notwithstanding any of the provisions of 
+ Special examination of member banks; information of condition furnished to Board of Governors of the Federal Reserve System
+In addition to the examinations made and conducted by the Comptroller of the Currency, every Federal reserve bank may, with the approval of the Federal reserve agent or the Board of Governors of the Federal Reserve System, provide for special examination of member banks within its district. The expense of such examinations may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against the banks examined, and, when so assessed, shall be paid by the banks examined. Such examinations shall be so conducted as to inform the Federal reserve bank of the condition of its member banks and of the lines of credit which are being extended by them. Every Federal reserve bank shall at all times furnish to the Board of Governors of the Federal Reserve System such information as may be demanded concerning the condition of any member bank within the district of the said Federal reserve bank.
+ Limitation on visitorial powers
+(a)
+ No national bank shall be subject to any visitorial powers except as authorized by Federal law, vested in the courts of justice or such as shall be, or have been exercised or directed by Congress or by either House thereof or by any committee of Congress or of either House duly authorized.
+
+
+(b)
+ Notwithstanding subsection (a) of this section, lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
+
+
+ Examination of Federal reserve banks
+The Board of Governors of the Federal Reserve System shall, at least once each year, order an examination of each Federal reserve bank, and upon joint application of ten member banks the Board of Governors of the Federal Reserve System shall order a special examination and report of the condition of any Federal reserve bank.
+ Waiver of requirements as to reports from or examinations of affiliates
+Whenever member banks are required to obtain reports from affiliates, or whenever affiliates of member banks are required to submit to examination, the Board of Governors of the Federal Reserve System or the Comptroller of the Currency, as the case may be, may waive such requirements with respect to any such report or examination of any affiliate if in the judgment of the said Board or Comptroller, respectively, such report or examination is not necessary to disclose fully the relations between such affiliate and such bank and the effect thereof upon the affairs of such bank.
+ Liability of Federal reserve or member bank for certifying check when amount of deposit was inadequate
+It shall be unlawful for any officer, director, agent, or employee of any Federal reserve bank, or any member bank as defined in this chapter, to certify any check drawn upon such Federal reserve bank or member bank unless the person, firm, or corporation drawing the check has on deposit with such Federal reserve bank or member bank, at the time such check is certified, an amount of money not less than the amount specified in such check. Any check so certified by a duly authorized officer, director, agent, or employee shall be a good and valid obligation against such Federal reserve bank or member bank; but the act of any officer, director, agent, or employee of any such Federal reserve bank or member bank in violation of this section shall, in the discretion of the Board of Governors of the Federal Reserve System, subject such Federal reserve bank to the penalties imposed by subsection (h) of 
+ Forfeiture of franchise of national banks for failure to comply with provisions of this chapter
+Should any national banking association in the United States now organized fail within one year after 
+ Liability of shareholders of Federal reserve banks on contracts, etc.
+The shareholders of every Federal reserve bank shall be held individually responsible, equally and ratably, and not one for another, for all contracts, debts, and engagements of such bank to the extent of the amount of their subscriptions to such stock at the par value thereof in addition to the amount subscribed, whether such subscriptions have been paid up in whole or in part under the provisions of this chapter.
+ Liability of directors and officers of member banks
+If the directors or officers of any member bank shall knowingly violate or permit any of the agents, officers, or directors of any member bank to violate any of the provisions of sections 375, 375a, 375b, and 376 of this title or regulations of the board made under authority thereof, or any of the provisions of sections 217, 218, 219, 220,
+ Civil money penalty
+(a)
+ First tier
+Any member bank which, and any institution-affiliated party (within the meaning of 
+section 1813(u) of this title
+) with respect to such member bank who, violates any provision of section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+
+
+
+
+(b)
+ Second tier
+Notwithstanding subsection (a) of this section, any member bank which, and any institution-affiliated party (within the meaning of 
+section 1813(u) of this title
+) with respect to such member bank who 
+1
+1
+ So in original. Probably should be followed by a dash.
+(1)
+(A)
+ commits any violation described in subsection (a) of this section;
+
+
+
+
+(B)
+ recklessly engages in an unsafe or unsound practice in conducting the affairs of such member bank; or
+
+
+
+
+(C)
+ breaches any fiduciary duty;
+
+
+
+
+
+
+(2)
+ which violation, practice, or breach—
+(A)
+ is part of a pattern of misconduct;
+
+
+
+
+(B)
+ causes or is likely to cause more than a minimal loss to such member bank; or
+
+
+
+
+(C)
+ results in pecuniary gain or other benefit to such party,
+
+
+
+
+
+
+
+shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
+
+
+(c)
+ Third tier
+Notwithstanding subsections (a) and (b) of this section, any member bank which, and any institution-affiliated party (within the meaning of 
+section 1813(u) of this title
+) with respect to such member bank who—
+(1)
+ knowingly—
+(A)
+ commits any violation described in subsection (a) of this section;
+
+
+
+
+(B)
+ engages in any unsafe or unsound practice in conducting the affairs of such credit union; 
+2
+2
+ So in original. Probably should be “such member bank”.
+ or
+
+
+
+
+(C)
+ breaches any fiduciary duty; and
+
+
+
+
+
+
+(2)
+ knowingly or recklessly causes a substantial loss to such credit union 
+2
+ or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
+
+
+
+
+
+shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
+
+
+(d)
+ Maximum amounts of penalties for any violation described in subsection (c)
+The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) of this section for any violation, practice, or breach described in such subsection is—
+(1)
+ in the case of any person other than a member bank, an amount to not exceed $1,000,000; and
+
+
+
+
+(2)
+ in the case of a member bank, an amount not to exceed the lesser of—
+(A)
+ $1,000,000; or
+
+
+
+
+(B)
+ 1 percent of the total assets of such member bank.
+
+
+
+
+
+
+(e)
+ Assessment; etc.
+Any penalty imposed under subsection (a), (b), or (c) of this section shall be assessed and collected 
+3
+3
+ So in original. Probably should be followed by a dash rather than “by”.
+ by
+(1)
+ in the case of a national bank, by the Comptroller of the Currency; and
+
+
+
+
+(2)
+ in the case of a State member bank, by the Board,
+
+
+
+
+
+in the manner provided in subparagraphs (E), (F), (G), and (I) of 
+section 1818(i)(2) of this title
+ for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+
+
+(f)
+ Hearing
+The member bank or other person against whom any penalty is assessed under this section shall be afforded an agency hearing if such member bank or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. 
+Section 1818(h) of this title
+ shall apply to any proceeding under this section.
+
+
+
+
+(g)
+ Disbursement
+All penalties collected under authority of this paragraph shall be deposited into the Treasury.
+
+
+
+
+(h)
+ “Violate” defined
+For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+
+
+
+
+(i)
+ Regulations
+The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
+
+
+
+
+(m)
+ 
+4
+4
+ So in original. No subsecs. (j) to (
+l
+) have been enacted.
+ Notice under this section after separation from service
+The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of 
+section 1813(u) of this title
+) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after 
+August 9, 1989
+).
+
+
+
+
+ Civil money penalty
+ Notice after separation from service
+The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of 
+ Reserve-bank branches; establishment; directors; discontinuance of branches; approval for erection of branch bank building
+The Board of Governors of the Federal Reserve System may permit or require any Federal reserve bank to establish branch banks within the Federal reserve district in which it is located or within the district of any Federal reserve bank which may have been suspended. Such branches, subject to such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe, shall be operated under the supervision of a board of directors to consist of not more than seven nor less than three directors, of whom a majority of one shall be appointed by the Federal reserve bank of the district, and the remaining directors by the Board of Governors of the Federal Reserve System. Directors of branch banks shall hold office during the pleasure of the Board of Governors of the Federal Reserve System.
+ Federal Reserve branch bank buildings
+No Federal Reserve bank may authorize the acquisition or construction of any branch building, or enter into any contract or other obligation for the acquisition or construction of any branch building, without the approval of the Board.

@@ -1,0 +1,212 @@
+
+Chapter 71
+TRANSFEREES AND FIDUCIARIES
+ Transferred assets
+(a)
+ Method of collection
+The amounts of the following liabilities shall, except as hereinafter in this section provided, be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
+(1)
+ Income, estate, and gift taxes
+(A)
+ Transferees
+The liability, at law or in equity, of a transferee of property—
+(i)
+ of a taxpayer in the case of a tax imposed by subtitle A (relating to income taxes),
+
+
+
+
+(ii)
+ of a decedent in the case of a tax imposed by chapter 11 (relating to estate taxes), or
+
+
+
+
+(iii)
+ of a donor in the case of a tax imposed by chapter 12 (relating to gift taxes),
+
+
+
+
+
+in respect of the tax imposed by subtitle A or B.
+
+
+
+
+(B)
+ Fiduciaries
+The liability of a fiduciary under 
+section 3713(b) of title 31
+, United States Code 
+1
+1
+ So in original. Probably should be followed by a comma.
+ in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
+
+
+
+
+
+
+
+
+(2)
+ Other taxes
+The liability, at law or in equity of a transferee of property of any person liable in respect of any tax imposed by this title (other than a tax imposed by subtitle A or B), but only if such liability arises on the liquidation of a partnership or corporation, or on a reorganization within the meaning of section 368(a).
+
+
+
+
+
+
+(b)
+ Liability
+Any liability referred to in subsection (a) may be either as to the amount of tax shown on a return or as to any deficiency or underpayment of any tax.
+
+
+
+
+(c)
+ Period of limitations
+The period of limitations for assessment of any such liability of a transferee or a fiduciary shall be as follows:
+(1)
+ Initial transferee
+In the case of the liability of an initial transferee, within 1 year after the expiration of the period of limitation for assessment against the transferor;
+
+
+
+
+
+
+(2)
+ Transferee of transferee
+In the case of the liability of a transferee of a transferee, within 1 year after the expiration of the period of limitation for assessment against the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
+
+
+
+
+
+
+
+except that if, before the expiration of the period of limitation for the assessment of the liability of the transferee, a court proceeding for the collection of the tax or liability in respect thereof has been begun against the initial transferor or the last preceding transferee, respectively, then the period of limitation for assessment of the liability of the transferee shall expire 1 year after the return of execution in the court proceeding.
+
+
+(3)
+ Fiduciary
+In the case of the liability of a fiduciary, not later than 1 year after the liability arises or not later than the expiration of the period for collection of the tax in respect of which such liability arises, whichever is the later.
+
+
+
+
+
+
+(d)
+ Extension by agreement
+(1)
+ Extension of time for assessment
+If before the expiration of the time prescribed in subsection (c) for the assessment of the liability, the Secretary and the transferee or fiduciary have both consented in writing to its assessment after such time, the liability may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon. For the purpose of determining the period of limitation on credit or refund to the transferee or fiduciary of overpayments of tax made by such transferee or fiduciary or overpayments of tax made by the transferor of which the transferee or fiduciary is legally entitled to credit or refund, such agreement and any extension thereof shall be deemed an agreement and extension thereof referred to in section 6511(c).
+
+
+
+
+
+
+(2)
+ Extension of time for credit or refund
+If the agreement is executed after the expiration of the period of limitation for assessment against the taxpayer with reference to whom the liability of such transferee or fiduciary arises, then in applying the limitations under section 6511(c) on the amount of the credit or refund, the periods specified in section 6511(b)(2) shall be increased by the period from the date of such expiration to the date of the agreement.
+
+
+
+
+
+
+(e)
+ Period for assessment against transferor
+For purposes of this section, if any person is deceased, or is a corporation which has terminated its existence, the period of limitation for assessment against such person shall be the period that would be in effect had death or termination of existence not occurred.
+
+
+
+
+(f)
+ Suspension of running of period of limitations
+The running of the period of limitations upon the assessment of the liability of a transferee or fiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during which the Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+
+
+
+
+(g)
+ Address for notice of liability
+In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, any notice of liability enforceable under this section required to be mailed to such person, shall, if mailed to the person subject to the liability at his last known address, be sufficient for purposes of this title, even if such person is deceased, or is under a legal disability, or, in the case of a corporation, has terminated its existence.
+
+
+
+
+(h)
+ Definition of transferee
+As used in this section, the term “transferee” includes donee, heir, legatee, devisee, and distributee, and with respect to estate taxes, also includes any person who, under section 6324(a)(2), is personally liable for any part of such tax.
+
+
+
+
+(i)
+ Extension of time
+For extensions of time by reason of armed service in a combat zone, see section 7508.
+
+
+
+
+ Provisions of special application to transferees
+(a)
+ Burden of proof
+In proceedings before the Tax Court the burden of proof shall be upon the Secretary to show that a petitioner is liable as a transferee of property of a taxpayer, but not to show that the taxpayer was liable for the tax.
+
+
+
+
+(b)
+ Evidence
+Upon application to the Tax Court, a transferee of property of a taxpayer shall be entitled, under rules prescribed by the Tax Court, to a preliminary examination of books, papers, documents, correspondence, and other evidence of the taxpayer or a preceding transferee of the taxpayer’s property, if the transferee making the application is a petitioner before the Tax Court for the redetermination of his liability in respect of the tax (including interest, additional amounts, and additions to the tax provided by law) imposed upon the taxpayer. Upon such application, the Tax Court may require by subpoena, ordered by the Tax Court or any division thereof and signed by a judge, the production of all such books, papers, documents, correspondence, and other evidence within the United States the production of which, in the opinion of the Tax Court or division thereof, is necessary to enable the transferee to ascertain the liability of the taxpayer or preceding transferee and will not result in undue hardship to the taxpayer or preceding transferee. Such examination shall be had at such time and place as may be designated in the subpoena.
+
+
+
+
+ Notice of fiduciary relationship
+(a)
+ Rights and obligations of fiduciary
+Upon notice to the Secretary that any person is acting for another person in a fiduciary capacity, such fiduciary shall assume the powers, rights, duties, and privileges of such other person in respect of a tax imposed by this title (except as otherwise specifically provided and except that the tax shall be collected from the estate of such other person), until notice is given that the fiduciary capacity has terminated.
+
+
+
+
+(b)
+ Manner of notice
+Notice under this section shall be given in accordance with regulations prescribed by the Secretary.
+
+
+
+
+ Prohibition of injunctions
+For prohibition of suits to restrain enforcement of liability of transferee, or fiduciary, see section 7421(b).
+ Discharge of executor from personal liability for decedent’s income and gift taxes
+(a)
+ Discharge of liability
+In the case of liability of a decedent for taxes imposed by subtitle A or by chapter 12, if the executor makes written application (filed after the return with respect to such taxes is made and filed in such manner and such form as may be prescribed by regulations of the Secretary for release from personal liability for such taxes, the Secretary may notify the executor of the amount of such taxes. The executor, upon payment of the amount of which he is notified, after 9 months after receipt of the application if no notification is made by the Secretary before such date, shall be discharged from personal liability for any deficiency in such tax thereafter found to be due, and shall be entitled to a receipt or writing showing such discharge.
+
+
+
+
+(b)
+ Definition of executor
+For purposes of this section, the term “executor” means the executor or administrator of the decedent appointed, qualified, and acting within the United States.
+
+
+
+
+(c)
+ Cross reference
+For discharge of executor from personal liability for taxes imposed under chapter 11, see section 2204.
+
+
+
+

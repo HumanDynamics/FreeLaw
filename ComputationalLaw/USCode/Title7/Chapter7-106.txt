@@ -1,0 +1,5205 @@
+
+Chapter 106
+COMMODITY PROGRAMS
+ Definitions
+ Establishment of base acres and payment acres for a farm
+(a)
+ Election by owner of base acres calculation method
+(1)
+ Alternative calculation methods
+For the purpose of making direct payments and counter-cyclical payments with respect to a farm, the Secretary shall give an owner of the farm an opportunity to elect 1 of the following as the method by which the base acres of all covered commodities on the farm are to be determined:
+(A)
+ Subject to paragraphs (3) and (4), the 4-year average of the following:
+(i)
+ Acreage planted on the farm to covered commodities for harvest, grazing, haying, silage, or other similar purposes for the 1998 through 2001 crop years.
+
+
+
+
+(ii)
+ Any acreage on the farm that the producers were prevented from planting during the 1998 through 2001 crop years to covered commodities because of drought, flood, or other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary.
+
+
+
+
+
+
+(B)
+ Subject to paragraph (3), the sum of the following:
+(i)
+ The contract acreage (as defined in 
+section 7202 of this title
+) used by the Secretary to calculate the fiscal year 2002 payment authorized under 
+section 7214 of this title
+ for the covered commodities on the farm.
+
+
+
+
+(ii)
+ The 4-year average of eligible oilseed acreage on the farm for the 1998 through 2001 crop years, as determined by the Secretary under paragraph (2).
+
+
+
+
+
+
+
+
+(2)
+ Eligible oilseed acreage
+(A)
+ Calculation
+For purposes of paragraph (1)(B)(ii), the eligible acreage for each oilseed on a farm during each of the 1998 through 2001 crop years shall be determined in the manner provided in paragraph (1)(A), except that the total acreage for all oilseeds on the farm for a crop year may not exceed the difference between—
+(i)
+ the total acreage determined under paragraph (1)(A) for all covered commodities for that crop year; and
+
+
+
+
+(ii)
+ the total contract acreage determined under paragraph (1)(B)(i).
+
+
+
+
+
+
+(B)
+ Effect of negative number
+If the subtraction performed under subparagraph (A) results in a negative number, the eligible oilseed acreage on the farm for that crop year shall be zero for purposes of determining the 4-year average.
+
+
+
+
+
+
+(C)
+ Offset of contract acreage
+The owner of a farm may increase the eligible acreage for an oilseed on the farm by reducing the contract acreage determined under paragraph (1)(B)(i) for 1 or more covered commodities on an acre-for-acre basis, except that the total base acreage for each oilseed on the farm may not exceed the 4-year average of each oilseed determined under paragraph (1)(B)(ii).
+
+
+
+
+
+
+
+
+(3)
+ Inclusion of all 4 years in average
+For the purpose of determining a 4-year acreage average under this subsection for a farm, the Secretary shall not exclude any crop year in which a covered commodity was not planted.
+
+
+
+
+
+
+(4)
+ Treatment of multiple planting or prevented planting
+For the purpose of determining under paragraph (1)(A) the acreage on a farm that producers planted or were prevented from planting during the 1998 through 2001 crop years to covered commodities, if the acreage that was planted or prevented from being planted was devoted to another covered commodity in the same crop year (other than a covered commodity produced under an established practice of double cropping), the owner may elect the commodity to be used for that crop year in determining the 4-year average, but may not include both the initial commodity and the subsequent commodity.
+
+
+
+
+
+
+(b)
+ Single election; time for election
+(1)
+ Notice of election opportunity
+As soon as practicable after 
+May 13, 2002
+, the Secretary shall provide notice to owners of farms regarding their opportunity to make the election described in subsection (a) of this section. The notice shall include the following:
+(A)
+ Notice that the opportunity of an owner to make the election is being provided only once.
+
+
+
+
+(B)
+ Information regarding the manner in which the election must be made and the time periods and manner in which notice of the election must be submitted to the Secretary.
+
+
+
+
+
+
+(2)
+ Election deadline
+Within the time period and in the manner prescribed pursuant to paragraph (1), the owner of a farm shall submit to the Secretary notice of the election made by the owner under subsection (a) of this section.
+
+
+
+
+
+
+(c)
+ Effect of failure to make election
+If the owner of a farm fails to make the election under subsection (a) of this section or fails to timely notify the Secretary of the election made, as required by subsection (b) of this section, the owner shall be deemed to have made the election described in subsection (a)(1)(B) of this section to determine base acres for all covered commodities on the farm.
+
+
+
+
+(d)
+ Application of election to all covered commodities
+The election made under subparagraph (A) or (B) of subsection (a)(1) of this section, or deemed to be made under subsection (c) of this section, with respect to a farm shall apply to all of the covered commodities on the farm.
+
+
+
+
+(e)
+ Treatment of conservation reserve contract acreage
+(1)
+ In general
+The Secretary shall provide for an adjustment, as appropriate, in the base acres for covered commodities for a farm whenever either of the following circumstances occurs:
+(A)
+ A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 (
+16 U.S.C. 3831
+) with respect to the farm expires or is voluntarily terminated.
+
+
+
+
+(B)
+ Cropland is released from coverage under a conservation reserve contract by the Secretary.
+
+
+
+
+
+
+(2)
+ Special payment rules
+For the crop year in which a base acres adjustment under paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+
+
+
+
+
+
+(f)
+ Payment acres
+The payment acres for a covered commodity on a farm shall be equal to 85 percent of the base acres for the covered commodity.
+
+
+
+
+(g)
+ Prevention of excess base acres
+(1)
+ Required reduction
+If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+
+
+
+
+
+
+(2)
+ Other acreage
+For purposes of paragraph (1), the Secretary shall include the following:
+(A)
+ Any base acres for peanuts for the farm under subchapter III of this chapter.
+
+
+
+
+(B)
+ Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3830
+ et seq.).
+
+
+
+
+(C)
+ Any other acreage on the farm enrolled in a conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
+
+
+
+
+
+
+(3)
+ Selection of acres
+The Secretary shall give the owner of the farm the opportunity to select the base acres or the base acres for peanuts for the farm under subchapter III of this chapter against which the reduction required by paragraph (1) will be made.
+
+
+
+
+
+
+(4)
+ Exception for double-cropped acreage
+In applying paragraph (1), the Secretary shall make an exception in the case of double cropping, as determined by the Secretary.
+
+
+
+
+
+
+(5)
+ Coordinated application of requirements
+The Secretary shall take into account 
+section 7952(f) of this title
+ when applying the requirements of this subsection.
+
+
+
+
+
+
+(h)
+ Permanent reduction in base acres
+The owner of a farm may reduce, at any time, the base acres for any covered commodity for the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
+
+
+
+
+ Establishment of payment yield
+(a)
+ Establishment and purpose
+For the purpose of making direct payments and counter-cyclical payments under this subchapter, the Secretary shall provide for the establishment of a payment yield for each farm for each covered commodity in accordance with this section.
+
+
+
+
+(b)
+ Use of farm program payment yield
+Except as otherwise provided in this section, the payment yield for each of the 2002 through 2007 crops of a covered commodity for a farm shall be the farm program payment yield established for the 1995 crop of the covered commodity under 
+section 1465 of this title
+, as adjusted by the Secretary to account for any additional yield payments made with respect to that crop under 
+section 1465(b)(2) of this title
+.
+
+
+
+
+(c)
+ Farms without farm program payment yield
+In the case of a farm for which a farm program payment yield is unavailable for a covered commodity (other than soybeans or other oilseeds), the Secretary shall establish an appropriate payment yield for the covered commodity on the farm taking into consideration the farm program payment yields applicable to the commodity under subsection (b) of this section for similar farms, but before the yields for the similar farms are updated as provided in subsection (e) of this section.
+
+
+
+
+(d)
+ Payment yields for oilseeds
+(1)
+ Determination of average yield
+In the case of soybeans and each other oilseed, the Secretary shall determine the average yield per planted acre for the oilseed on a farm for the 1998 through 2001 crop years, excluding any crop year in which the acreage planted to the oilseed was zero.
+
+
+
+
+
+
+(2)
+ Adjustment for payment yield
+The payment yield for a farm for an oilseed shall be equal to the product of the following:
+(A)
+ The average yield for the oilseed determined under paragraph (1).
+
+
+
+
+(B)
+ The ratio resulting from dividing the national average yield for the oilseed for the 1981 through 1985 crops by the national average yield for the oilseed for the 1998 through 2001 crops.
+
+
+
+
+
+
+(3)
+ Use of partial county average yield
+If the yield per planted acre for a crop of an oilseed for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that oilseed, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
+
+
+
+
+
+
+(e)
+ Opportunity to partially update yields used to determine counter-cyclical payments
+(1)
+ Election to update
+If the owner of a farm elects to use the base acres calculation method described in 
+section 7911(a)(1)(A) of this title
+, the owner shall also have a 1-time opportunity to elect to use 1 of the methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
+
+
+
+
+
+
+(2)
+ Time for election
+The election under paragraph (1) shall be made at the same time and in the same manner as the Secretary prescribes for the election required under 
+section 7911 of this title
+.
+
+
+
+
+
+
+(3)
+ Methods of updating yields
+If the owner of a farm elects to update yields under this subsection, the payment yield for a covered commodity on the farm, for the purpose of calculating counter-cyclical payments only, shall be equal to the yield determined using either of the following:
+(A)
+ The sum of the following:
+(i)
+ The payment yield applicable for direct payments for the covered commodity on the farm.
+
+
+
+
+(ii)
+ 70 percent of the difference between—
+(I)
+ the average yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero; and
+
+
+
+
+(II)
+ the payment yield applicable for direct payments for the covered commodity on the farm.
+
+
+
+
+
+
+
+
+(B)
+ 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero.
+
+
+
+
+
+
+(4)
+ Use of partial county average yield
+If the yield per planted acre for a crop of the covered commodity for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average yield under paragraph (3).
+
+
+
+
+
+
+(5)
+ Application of election and method to all covered commodities
+The owner of a farm may not elect the method described in paragraph (3)(A) for 1 covered commodity on the farm and the method described in paragraph (3)(B) for other covered commodities on the farm.
+
+
+
+
+
+
+ Availability of direct payments
+(a)
+ Payment required
+For each of the 2002 through 2007 crop years of each covered commodity, the Secretary shall make direct payments to producers on farms for which payment yields and base acres are established.
+
+
+
+
+(b)
+ Payment rate
+The payment rates used to make direct payments with respect to covered commodities for a crop year are as follows:
+(1)
+ Wheat, $0.52 per bushel.
+
+
+
+
+(2)
+ Corn, $0.28 per bushel.
+
+
+
+
+(3)
+ Grain sorghum, $0.35 per bushel.
+
+
+
+
+(4)
+ Barley, $0.24 per bushel.
+
+
+
+
+(5)
+ Oats, $0.024 per bushel.
+
+
+
+
+(6)
+ Upland cotton, $0.0667 per pound.
+
+
+
+
+(7)
+ Rice, $2.35 per hundredweight.
+
+
+
+
+(8)
+ Soybeans, $0.44 per bushel.
+
+
+
+
+(9)
+ Other oilseeds, $0.0080 per pound.
+
+
+
+
+(c)
+ Payment amount
+The amount of the direct payment to be paid to the producers on a farm for a covered commodity for a crop year shall be equal to the product of the following:
+(1)
+ The payment rate specified in subsection (b) of this section.
+
+
+
+
+(2)
+ The payment acres of the covered commodity on the farm.
+
+
+
+
+(3)
+ The payment yield for the covered commodity for the farm.
+
+
+
+
+(d)
+ Time for payment
+(1)
+ In general
+The Secretary shall make direct payments—
+(A)
+ in the case of the 2002 crop year, as soon as practicable after 
+May 13, 2002
+; and
+
+
+
+
+(B)
+ in the case of each of the 2003 through 2007 crop years, not before October 1 of the calendar year in which the crop of the covered commodity is harvested.
+
+
+
+
+
+
+(2)
+ Advance payments
+At the option of the producers on a farm, up to 50 percent of the direct payment for a covered commodity for any of the 2003 through 2005 crop years, up to 40 percent of the direct payment for a covered commodity for the 2006 crop year, and up to 22 percent of the direct payment for a covered commodity for the 2007 crop year, shall be paid to the producers in advance. The producers shall select the month within which the advance payment for a crop year will be made. The month selected may be any month during the period beginning on December 1 of the calendar year before the calendar year in which the crop of the covered commodity is harvested through the month within which the direct payment would otherwise be made. The producers may change the selected month for a subsequent advance payment by providing advance notice to the Secretary.
+
+
+
+
+
+
+(3)
+ Repayment of advance payments
+If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
+
+
+
+
+
+
+ Availability of counter-cyclical payments
+(a)
+ Payment required
+For each of the 2002 through 2007 crop years for each covered commodity, the Secretary shall make counter-cyclical payments to producers on farms for which payment yields and base acres are established with respect to the covered commodity if the Secretary determines that the effective price for the covered commodity is less than the target price for the covered commodity.
+
+
+
+
+(b)
+ Effective price
+For purposes of subsection (a) of this section, the effective price for a covered commodity is equal to the sum of the following:
+(1)
+ The higher of the following:
+(A)
+ The national average market price received by producers during the 12-month marketing year for the covered commodity, as determined by the Secretary.
+
+
+
+
+(B)
+ The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II of this chapter.
+
+
+
+
+
+
+(2)
+ The payment rate in effect for the covered commodity under 
+section 7913 of this title
+ for the purpose of making direct payments with respect to the covered commodity.
+
+
+
+
+(c)
+ Target price
+(1)
+ 2002 and 2003 crop years
+For purposes of the 2002 and 2003 crop years, the target prices for covered commodities shall be as follows:
+(A)
+ Wheat, $3.86 per bushel.
+
+
+
+
+(B)
+ Corn, $2.60 per bushel.
+
+
+
+
+(C)
+ Grain sorghum, $2.54 per bushel.
+
+
+
+
+(D)
+ Barley, $2.21 per bushel.
+
+
+
+
+(E)
+ Oats, $1.40 per bushel.
+
+
+
+
+(F)
+ Upland cotton, $0.7240 per pound.
+
+
+
+
+(G)
+ Rice, $10.50 per hundredweight.
+
+
+
+
+(H)
+ Soybeans, $5.80 per bushel.
+
+
+
+
+(I)
+ Other oilseeds, $0.0980 per pound.
+
+
+
+
+
+
+(2)
+ Subsequent crop years
+For purposes of each of the 2004 through 2007 crop years, the target prices for covered commodities shall be as follows:
+(A)
+ Wheat, $3.92 per bushel.
+
+
+
+
+(B)
+ Corn, $2.63 per bushel.
+
+
+
+
+(C)
+ Grain sorghum, $2.57 per bushel.
+
+
+
+
+(D)
+ Barley, $2.24 per bushel.
+
+
+
+
+(E)
+ Oats, $1.44 per bushel.
+
+
+
+
+(F)
+ Upland cotton, $0.7240 per pound.
+
+
+
+
+(G)
+ Rice, $10.50 per hundredweight.
+
+
+
+
+(H)
+ Soybeans, $5.80 per bushel.
+
+
+
+
+(I)
+ Other oilseeds, $0.1010 per pound.
+
+
+
+
+
+
+(d)
+ Payment rate
+The payment rate used to make counter-cyclical payments with respect to a covered commodity for a crop year shall be equal to the difference between—
+(1)
+ the target price for the covered commodity; and
+
+
+
+
+(2)
+ the effective price determined under subsection (b) of this section for the covered commodity.
+
+
+
+
+(e)
+ Payment amount
+If counter-cyclical payments are required to be paid for any of the 2002 through 2007 crop years of a covered commodity, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+(1)
+ The payment rate specified in subsection (d) of this section.
+
+
+
+
+(2)
+ The payment acres of the covered commodity on the farm.
+
+
+
+
+(3)
+ The payment yield or updated payment yield for the farm, depending on the election of the owner of the farm under 
+section 7912 of this title
+.
+
+
+
+
+(f)
+ Time for payments
+(1)
+ General rule
+If the Secretary determines under subsection (a) of this section that counter-cyclical payments are required to be made under this section for the crop of a covered commodity, the Secretary shall make the counter-cyclical payments for the crop as soon as practicable after the end of the 12-month marketing year for the covered commodity.
+
+
+
+
+
+
+(2)
+ Availability of partial payments
+If, before the end of the 12-month marketing year for a covered commodity, the Secretary estimates that counter-cyclical payments will be required for the crop of the covered commodity, the Secretary shall give producers on a farm the option to receive partial payments of the counter-cyclical payment projected to be made for that crop of the covered commodity.
+
+
+
+
+
+
+(3)
+ Time for partial payments
+(A)
+ 2002 through 2006 crop years
+When the Secretary makes partial payments available under paragraph (2) for a covered commodity for any of the 2002 through 2006 crop years—
+(i)
+ the first partial payment for the crop year shall be made not earlier than October 1, and, to the maximum extent practicable, not later than October 31, of the calendar year in which the crop of the covered commodity is harvested;
+
+
+
+
+(ii)
+ the second partial payment shall be made not earlier than February 1 of the next calendar year; and
+
+
+
+
+(iii)
+ the final partial payment shall be made as soon as practicable after the end of the 12-month marketing year for the covered commodity.
+
+
+
+
+
+
+(B)
+ 2007 crop year
+When the Secretary makes partial payments available for a covered commodity for the 2007 crop year—
+(i)
+ the first partial payment shall be made after completion of the first 6 months of the marketing year for the covered commodity; and
+
+
+
+
+(ii)
+ the final partial payment shall be made as soon as practicable after the end of the 12-month marketing year for the covered commodity.
+
+
+
+
+
+
+
+
+(4)
+ Amount of partial payments
+(A)
+ 2002 through 2006 crop years
+(i)
+ First partial payment
+For each of the 2002 through 2006 crop years of a covered commodity, the first partial payment under paragraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
+
+
+
+
+
+
+(ii)
+ Second partial payment
+The second partial payment for a covered commodity for a crop year may not exceed the difference between—
+(I)
+ 70 percent of the projected counter-cyclical payment (including any revision thereof) for the crop of the covered commodity; and
+
+
+
+
+(II)
+ the amount of the payment made under clause (i).
+
+
+
+
+
+
+(iii)
+ Final payment
+The final payment for a covered commodity for a crop year shall be equal to the difference between—
+(I)
+ the actual counter-cyclical payment to be made to the producers for the covered commodity for that crop year; and
+
+
+
+
+(II)
+ the amount of the partial payments made to the producers under clauses (i) and (ii) for that crop year.
+
+
+
+
+
+
+
+
+(B)
+ 2007 crop year
+(i)
+ First partial payment
+For the 2007 crop year, the first partial payment under paragraph (3) to the producers on a farm may not exceed 40 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
+
+
+
+
+
+
+(ii)
+ Final payment
+The final payment for the 2007 crop year shall be equal to the difference between—
+(I)
+ the actual counter-cyclical payment to be made to the producers for the covered commodity for that crop year; and
+
+
+
+
+(II)
+ the amount of the partial payment made to the producers under clause (i).
+
+
+
+
+
+
+
+
+
+
+(5)
+ Repayment
+The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
+
+
+
+
+
+
+ Producer agreement required as condition of provision of direct payments and counter-cyclical payments
+(a)
+ Compliance with certain requirements
+(1)
+ Requirements
+Before the producers on a farm may receive direct payments or counter-cyclical payments with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+(A)
+ to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3811
+ et seq.);
+
+
+
+
+(B)
+ to comply with applicable wetland protection requirements under subtitle C of title XII of the Act (
+16 U.S.C. 3821
+ et seq.);
+
+
+
+
+(C)
+ to comply with the planting flexibility requirements of 
+section 7916 of this title
+;
+
+
+
+
+(D)
+ to use the land on the farm, in a quantity equal to the attributable base acres for the farm and any base acres for peanuts for the farm under subchapter III of this chapter for an agricultural or conserving use, and not for a nonagricultural commercial or industrial use, as determined by the Secretary; and
+
+
+
+
+(E)
+ to effectively control noxious weeds and otherwise maintain the land in accordance with sound agricultural practices, as determined by the Secretary, if the agricultural or conserving use involves the noncultivation of any portion of the land referred to in subparagraph (D).
+
+
+
+
+
+
+(2)
+ Compliance
+The Secretary may issue such rules as the Secretary considers necessary to ensure producer compliance with the requirements of paragraph (1).
+
+
+
+
+
+
+(3)
+ Modification
+At the request of the transferee or owner, the Secretary may modify the requirements of this subsection if the modifications are consistent with the objectives of this subsection, as determined by the Secretary.
+
+
+
+
+
+
+(b)
+ Transfer or change of interest in farm
+(1)
+ Termination
+Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in base acres for which direct payments or counter-cyclical payments are made shall result in the termination of the payments with respect to the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a) of this section. The termination shall take effect on the date determined by the Secretary.
+
+
+
+
+
+
+(2)
+ Exception
+If a producer entitled to a direct payment or counter-cyclical payment dies, becomes incompetent, or is otherwise unable to receive the payment, the Secretary shall make the payment, in accordance with rules issued by the Secretary.
+
+
+
+
+
+
+(c)
+ Acreage reports
+As a condition on the receipt of any benefits under this subchapter or subchapter II of this chapter, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
+
+
+
+
+(d)
+ Tenants and sharecroppers
+In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
+
+
+
+
+(e)
+ Sharing of payments
+The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
+
+
+
+
+ Planting flexibility
+(a)
+ Permitted crops
+Subject to subsection (b) of this section, any commodity or crop may be planted on base acres on a farm.
+
+
+
+
+(b)
+ Limitations regarding certain commodities
+(1)
+ General limitation
+The planting of an agricultural commodity specified in paragraph (3) shall be prohibited on base acres unless the commodity, if planted, is destroyed before harvest.
+
+
+
+
+
+
+(2)
+ Treatment of trees and other perennials
+The planting of an agricultural commodity specified in paragraph (3) that is produced on a tree or other perennial plant shall be prohibited on base acres.
+
+
+
+
+
+
+(3)
+ Covered agricultural commodities
+Paragraphs (1) and (2) apply to the following agricultural commodities:
+(A)
+ Fruits.
+
+
+
+
+(B)
+ Vegetables (other than lentils, mung beans, and dry peas).
+
+
+
+
+(C)
+ Wild rice.
+
+
+
+
+
+
+(c)
+ Exceptions
+Paragraphs (1) and (2) of subsection (b) of this section shall not limit the planting of an agricultural commodity specified in paragraph (3) of that subsection—
+(1)
+ in any region in which there is a history of double-cropping of covered commodities with agricultural commodities specified in subsection (b)(3) of this section, as determined by the Secretary, in which case the double-cropping shall be permitted;
+
+
+
+
+(2)
+ on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) of this section on base acres, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
+
+
+
+
+(3)
+ by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3) of this section, except that—
+(A)
+ the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
+
+
+
+
+(B)
+ direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
+
+
+
+
+
+
+(d)
+ Special rule for 2002 crop year
+For the 2002 crop year only, if the calculation of base acres under 
+section 7911(a) of this title
+ results in total base acres for a farm in excess of the contract acreage (as defined in 
+section 7202 of this title
+) for the farm used to calculate the fiscal year 2002 payment authorized under 
+section 7214 of this title
+, paragraphs (1) and (2) of subsection (b) of this section shall not limit the harvesting of an agricultural commodity specified in paragraph (3) of that subsection on the excess base acres, except that direct payments and counter-cyclical payments for the 2002 crop year shall be reduced by an acre for each acre of the excess base acres planted to such an agricultural commodity.
+
+
+
+
+ Relation to remaining payment authority under production flexibility contracts
+(a)
+ Termination of superseded payment authority
+Notwithstanding 
+section 7213(a)(7) of this title
+ or any other provision of law, the Secretary shall not make payments for fiscal year 2002 after 
+May 13, 2002
+, under a production flexibility contract entered into under 
+section 7211 of this title
+ unless requested by the producer that is a party to the contract.
+
+
+
+
+(b)
+ Contract payments made before enactment
+If a producer receives all or any portion of the payment authorized for fiscal year 2002 under a production flexibility contract, the Secretary shall reduce the amount of the direct payment otherwise due the producer for the 2002 crop year under 
+section 7913 of this title
+ by the amount of the fiscal year 2002 payment received by the producer under the production flexibility contract.
+
+
+
+
+ Period of effectiveness
+This subchapter shall be effective beginning with the 2002 crop year of each covered commodity through the 2007 crop year.
+ Availability of nonrecourse marketing assistance loans for loan commodities
+(a)
+ Nonrecourse loans available
+(1)
+ Availability
+For each of the 2002 through 2007 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
+
+
+
+
+
+
+(2)
+ Terms and conditions
+The marketing assistance loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under 
+section 7932 of this title
+ for the loan commodity.
+
+
+
+
+
+
+(b)
+ Eligible production
+The producers on a farm shall be eligible for a marketing assistance loan under subsection (a) of this section for any quantity of a loan commodity produced on the farm.
+
+
+
+
+(c)
+ Treatment of certain commingled commodities
+In carrying out this subchapter, the Secretary shall make loans to producers on a farm that would be eligible to obtain a marketing assistance loan, but for the fact the loan commodity owned by the producers on the farm commingled with loan commodities of other producers in facilities unlicensed for the storage of agricultural commodities by the Secretary or a State licensing authority, if the producers obtaining the loan agree to immediately redeem the loan collateral in accordance with section 166 of the Federal Agriculture Improvement and Reform Act of 1996 (
+7 U.S.C. 7286
+).
+
+
+
+
+(d)
+ Compliance with conservation and wetlands requirements
+As a condition of the receipt of a marketing assistance loan under subsection (a) of this section, the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3811
+ et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act (
+16 U.S.C. 3821
+ et seq.) during the term of the loan.
+
+
+
+
+(e)
+ Termination of superseded loan authority
+Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 (
+7 U.S.C. 7231
+), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act [
+7 U.S.C. 7231
+ et seq.].
+
+
+
+
+ Loan rates for nonrecourse marketing assistance loans
+(a)
+ 2002 and 2003 crop years
+For purposes of the 2002 and 2003 crop years, the loan rate for a marketing assistance loan under 
+section 7931 of this title
+ for a loan commodity shall be equal to the following:
+(1)
+ In the case of wheat, $2.80 per bushel.
+
+
+
+
+(2)
+ In the case of corn, $1.98 per bushel.
+
+
+
+
+(3)
+ In the case of grain sorghum, $1.98 per bushel.
+
+
+
+
+(4)
+ In the case of barley, $1.88 per bushel.
+
+
+
+
+(5)
+ In the case of oats, $1.35 per bushel.
+
+
+
+
+(6)
+ In the case of upland cotton, $0.52 per pound.
+
+
+
+
+(7)
+ In the case of extra long staple cotton, $0.7977 per pound.
+
+
+
+
+(8)
+ In the case of rice, $6.50 per hundredweight.
+
+
+
+
+(9)
+ In the case of soybeans, $5.00 per bushel.
+
+
+
+
+(10)
+ In the case of other oilseeds, $.0960 per pound for each of the following kinds of oilseeds:
+(A)
+ Sunflower seed.
+
+
+
+
+(B)
+ Rapeseed.
+
+
+
+
+(C)
+ Canola.
+
+
+
+
+(D)
+ Safflower.
+
+
+
+
+(E)
+ Flaxseed.
+
+
+
+
+(F)
+ Mustard seed.
+
+
+
+
+(G)
+ Crambe.
+
+
+
+
+(H)
+ Sesame seed.
+
+
+
+
+(I)
+ Other oilseeds designated by the Secretary.
+
+
+
+
+
+
+(11)
+ In the case of graded wool, $1.00 per pound.
+
+
+
+
+(12)
+ In the case of nongraded wool, $0.40 per pound.
+
+
+
+
+(13)
+ In the case of mohair, $4.20 per pound.
+
+
+
+
+(14)
+ In the case of honey, $0.60 per pound.
+
+
+
+
+(15)
+ In the case of dry peas, $6.33 per hundredweight.
+
+
+
+
+(16)
+ In the case of lentils, $11.94 per hundredweight.
+
+
+
+
+(17)
+ In the case of small chickpeas, $7.56 per hundredweight.
+
+
+
+
+(b)
+ 2004 through 2007 crop years
+For purposes of the 2004 through 2007 crop years, the loan rate for a marketing assistance loan under 
+section 7931 of this title
+ for a loan commodity shall be equal to the following:
+(1)
+ In the case of wheat, $2.75 per bushel.
+
+
+
+
+(2)
+ In the case of corn, $1.95 per bushel.
+
+
+
+
+(3)
+ In the case of grain sorghum, $1.95 per bushel.
+
+
+
+
+(4)
+ In the case of barley, $1.85 per bushel.
+
+
+
+
+(5)
+ In the case of oats, $1.33 per bushel.
+
+
+
+
+(6)
+ In the case of upland cotton, $0.52 per pound.
+
+
+
+
+(7)
+ In the case of extra long staple cotton, $0.7977 per pound.
+
+
+
+
+(8)
+ In the case of rice, $6.50 per hundredweight.
+
+
+
+
+(9)
+ In the case of soybeans, $5.00 per bushel.
+
+
+
+
+(10)
+ In the case of other oilseeds, $.0930 per pound for each of the following kinds of oilseeds:
+(A)
+ Sunflower seed.
+
+
+
+
+(B)
+ Rapeseed.
+
+
+
+
+(C)
+ Canola.
+
+
+
+
+(D)
+ Safflower.
+
+
+
+
+(E)
+ Flaxseed.
+
+
+
+
+(F)
+ Mustard seed.
+
+
+
+
+(G)
+ Crambe.
+
+
+
+
+(H)
+ Sesame seed.
+
+
+
+
+(I)
+ Other oilseeds designated by the Secretary.
+
+
+
+
+
+
+(11)
+ In the case of graded wool, $1.00 per pound.
+
+
+
+
+(12)
+ In the case of nongraded wool, $0.40 per pound.
+
+
+
+
+(13)
+ In the case of mohair, $4.20 per pound.
+
+
+
+
+(14)
+ In the case of honey, $0.60 per pound.
+
+
+
+
+(15)
+ In the case of dry peas, $6.22 per hundredweight.
+
+
+
+
+(16)
+ In the case of lentils, $11.72 per hundredweight.
+
+
+
+
+(17)
+ In the case of small chickpeas, $7.43 per hundredweight.
+
+
+
+
+(c)
+ Single county loan rate for other oilseeds
+The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10) of this section.
+
+
+
+
+(d)
+ Quality grades for dry peas, lentils, and small chickpeas
+The loan rate for dry peas, lentils, and small chickpeas shall be based on—
+(1)
+ in the case of dry peas, United States feed peas;
+
+
+
+
+(2)
+ in the case of lentils, United States number 3 lentils; and
+
+
+
+
+(3)
+ in the case of small chickpeas, United States number 3 small chickpeas that drop below a 20/64 screen.
+
+
+
+
+ Term of loans
+(a)
+ Term of loan
+In the case of each loan commodity, a marketing assistance loan under 
+section 7931 of this title
+ shall have a term of 9 months beginning on the first day of the first month after the month in which the loan is made.
+
+
+
+
+(b)
+ Extensions prohibited
+The Secretary may not extend the term of a marketing assistance loan for any loan commodity.
+
+
+
+
+ Repayment of loans
+(a)
+ General rule
+The Secretary shall permit the producers on a farm to repay a marketing assistance loan under 
+section 7931 of this title
+ for a loan commodity (other than upland cotton, rice, extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)) at a rate that is the lesser of—
+(1)
+ the loan rate established for the commodity under 
+section 7932 of this title
+, plus interest (determined in accordance with 
+section 7283 of this title
+); or
+
+
+
+
+(2)
+ a rate that the Secretary determines will—
+(A)
+ minimize potential loan forfeitures;
+
+
+
+
+(B)
+ minimize the accumulation of stocks of the commodity by the Federal Government;
+
+
+
+
+(C)
+ minimize the cost incurred by the Federal Government in storing the commodity;
+
+
+
+
+(D)
+ allow the commodity produced in the United States to be marketed freely and competitively, both domestically and internationally; and
+
+
+
+
+(E)
+ minimize discrepancies in marketing loan benefits across State boundaries and across county boundaries.
+
+
+
+
+
+
+(b)
+ Repayment rates for upland cotton and rice
+The Secretary shall permit producers to repay a marketing assistance loan under 
+section 7931 of this title
+ for upland cotton and rice at a rate that is the lesser of—
+(1)
+ the loan rate established for the commodity under 
+section 7932 of this title
+, plus interest (determined in accordance with 
+section 7283 of this title
+); or
+
+
+
+
+(2)
+ the prevailing world market price for the commodity (adjusted to United States quality and location), as determined by the Secretary.
+
+
+
+
+(c)
+ Repayment rates for extra long staple cotton
+Repayment of a marketing assistance loan for extra long staple cotton shall be at the loan rate established for the commodity under 
+section 7932 of this title
+, plus interest (determined in accordance with 
+section 7283 of this title
+).
+
+
+
+
+(d)
+ Prevailing world market price
+For purposes of this section and 
+section 7937 of this title
+, the Secretary shall prescribe by regulation—
+(1)
+ a formula to determine the prevailing world market price for upland cotton and rice, adjusted to United States quality and location; and
+
+
+
+
+(2)
+ a mechanism by which the Secretary shall announce periodically the prevailing world market price for upland cotton and rice.
+
+
+
+
+(e)
+ Adjustment of prevailing world market price for upland cotton
+(1)
+ In general
+During the period beginning on 
+May 13, 2002
+, through 
+July 31, 2008
+, the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
+(A)
+ the adjusted prevailing world market price is less than 115 percent of the loan rate for upland cotton established under 
+section 7932 of this title
+, as determined by the Secretary; and
+
+
+
+
+(B)
+ the Friday through Thursday average price quotation for the lowest-priced United States growth as quoted for Middling (M) 1
+3
+⁄
+32
+-inch cotton delivered C.I.F. Northern Europe is greater than the Friday through Thursday average price of the 5 lowest-priced growths of upland cotton, as quoted for Middling (M) 1
+3
+⁄
+32
+-inch cotton, delivered C.I.F. Northern Europe (referred to in this section as the “Northern Europe price”).
+
+
+
+
+
+
+(2)
+ Further adjustment
+Except as provided in paragraph (3), the adjusted prevailing world market price for upland cotton shall be further adjusted on the basis of some or all of the following data, as available:
+(A)
+ The United States share of world exports.
+
+
+
+
+(B)
+ The current level of cotton export sales and cotton export shipments.
+
+
+
+
+(C)
+ Other data determined by the Secretary to be relevant in establishing an accurate prevailing world market price for upland cotton (adjusted to United States quality and location).
+
+
+
+
+
+
+(3)
+ Limitation on further adjustment
+The adjustment under paragraph (2) may not exceed the difference between—
+(A)
+ the Friday through Thursday average price for the lowest-priced United States growth as quoted for Middling 1
+3
+⁄
+32
+-inch cotton delivered C.I.F. Northern Europe; and
+
+
+
+
+(B)
+ the Northern Europe price.
+
+
+
+
+
+
+(f)
+ Repayment rates for confectionery and other kinds of sunflower seeds
+The Secretary shall permit the producers on a farm to repay a marketing assistance loan under 
+section 7931 of this title
+ for confectionery and each other kind of sunflower seed (other than oil sunflower seed) at a rate that is the lesser of—
+(1)
+ the loan rate established for the commodity under 
+section 7932 of this title
+, plus interest (determined in accordance with 
+section 7283 of this title
+); or
+
+
+
+
+(2)
+ the repayment rate established for oil sunflower seed.
+
+
+
+
+(g)
+ Quality grades for dry peas, lentils, and small chickpeas
+The loan repayment rate for dry peas, lentils, and small chickpeas shall be based on the quality grades for the applicable commodity specified in 
+section 7932(d) of this title
+.
+
+
+
+
+(h)
+ Good faith exception to beneficial interest requirement
+For the 2001 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in a loan commodity for which a marketing assistance loan was made under 
+section 7231 of this title
+ before repaying the loan, the Secretary shall permit the producers to repay the loan at the appropriate repayment rate that was in effect for the loan commodity under 
+section 7234 of this title
+ on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
+
+
+
+
+ Loan deficiency payments
+(a)
+ Availability of loan deficiency payments
+(1)
+ In general
+Except as provided in subsection (d) of this section, the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under 
+section 7931 of this title
+ with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
+
+
+
+
+
+
+(2)
+ Unshorn pelts, hay, and silage
+Nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under 
+section 7931 of this title
+. However, effective for the 2002 through 2007 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
+
+
+
+
+
+
+(b)
+ Computation
+A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) of this section shall be computed by multiplying—
+(1)
+ the payment rate determined under subsection (c) of this section for the commodity; by
+
+
+
+
+(2)
+ the quantity of the commodity produced by the eligible producers, excluding any quantity for which the producers obtain a marketing assistance loan under 
+section 7931 of this title
+.
+
+
+
+
+(c)
+ Payment rate
+(1)
+ In general
+In the case of a loan commodity, the payment rate shall be the amount by which—
+(A)
+ the loan rate established under 
+section 7932 of this title
+ for the loan commodity; exceeds
+
+
+
+
+(B)
+ the rate at which a marketing assistance loan for the loan commodity may be repaid under 
+section 7934 of this title
+.
+
+
+
+
+
+
+(2)
+ Unshorn pelts
+In the case of unshorn pelts, the payment rate shall be the amount by which—
+(A)
+ the loan rate established under 
+section 7932 of this title
+ for ungraded wool; exceeds
+
+
+
+
+(B)
+ the rate at which a marketing assistance loan for ungraded wool may be repaid under 
+section 7934 of this title
+.
+
+
+
+
+
+
+(3)
+ Hay and silage
+In the case of hay or silage derived from a loan commodity, the payment rate shall be the amount by which—
+(A)
+ the loan rate established under 
+section 7932 of this title
+ for the loan commodity from which the hay or silage is derived; exceeds
+
+
+
+
+(B)
+ the rate at which a marketing assistance loan for the loan commodity may be repaid under 
+section 7934 of this title
+.
+
+
+
+
+
+
+(d)
+ Exception for extra long staple cotton
+This section shall not apply with respect to extra long staple cotton.
+
+
+
+
+(e)
+ Effective date for payment rate determination
+The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) of this section using the payment rate in effect under subsection (c) of this section as of the date the producers request the payment.
+
+
+
+
+(f)
+ Special loan deficiency payment rules
+(1)
+ First-time loan commodities
+For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas, in the case of producers of such a crop that would be eligible for a loan deficiency payment under this section except for the fact that the producers lost beneficial interest in the crop prior to the date of publication of the regulations implementing this section, the producers shall be eligible for a loan deficiency payment as of the date producers marketed or otherwise lost beneficial interest in the crop, as determined by the Secretary.
+
+
+
+
+
+
+(2)
+ Omitted
+
+
+
+
+ Payments in lieu of loan deficiency payments for grazed acreage
+(a)
+ Eligible producers
+(1)
+ In general
+Effective for the 2002 through 2007 crop years, in the case of a producer that would be eligible for a loan deficiency payment under 
+section 7935 of this title
+ for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+
+
+
+
+
+
+(2)
+ Grazing of triticale acreage
+Effective for the 2002 through 2007 crop years, with respect to a producer on a farm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
+
+
+
+
+
+
+(b)
+ Payment amount
+(1)
+ In general
+The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) of this section shall be equal to the amount determined by multiplying—
+(A)
+ the loan deficiency payment rate determined under 
+section 7935(c) of this title
+ in effect, as of the date of the agreement, for the county in which the farm is located; by
+
+
+
+
+(B)
+ the payment quantity determined by multiplying—
+(i)
+ the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of wheat, barley, or oats; and
+
+
+
+
+(ii)
+ the payment yield in effect for the calculation of direct payments under subchapter I of this chapter with respect to that loan commodity on the farm or, in the case of a farm without a payment yield for that loan commodity, an appropriate yield established by the Secretary in a manner consistent with 
+section 7912(c) of this title
+.
+
+
+
+
+
+
+
+
+(2)
+ Grazing of triticale acreage
+The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) of this section shall be equal to the amount determined by multiplying—
+(A)
+ the loan deficiency payment rate determined under 
+section 7935(c) of this title
+ in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
+
+
+
+
+(B)
+ the payment quantity determined by multiplying—
+(i)
+ the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of triticale; and
+
+
+
+
+(ii)
+ the payment yield in effect for the calculation of direct payments under subchapter I of this chapter with respect to wheat on the farm or, in the case of a farm without a payment yield for wheat, an appropriate yield established by the Secretary in a manner consistent with 
+section 7912(c) of this title
+.
+
+
+
+
+
+
+
+
+(c)
+ Time, manner, and availability of payment
+(1)
+ Time and manner
+A payment under this section shall be made at the same time and in the same manner as loan deficiency payments are made under 
+section 7935 of this title
+.
+
+
+
+
+
+
+(2)
+ Availability
+The Secretary shall establish an availability period for the payments authorized by this section. In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
+
+
+
+
+
+
+(d)
+ Prohibition on crop insurance indemnity or noninsured crop assistance
+A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a) of this section, to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under the Federal Crop Insurance Act (
+7 U.S.C. 1501
+ et seq.) or noninsured crop assistance under 
+section 7333 of this title
+.
+
+
+
+
+ Special marketing loan provisions for upland cotton
+(a)
+ Repealed. 
+Pub. L. 109–171, title I, § 1103(a)(1)
+, 
+Feb. 8, 2006
+, 
+120 Stat. 5
+
+
+(b)
+ Special import quota
+(1)
+ Establishment
+(A)
+ In general
+The President shall carry out an import quota program during the period beginning on 
+May 13, 2002
+, through 
+July 31, 2008
+, as provided in this subsection.
+
+
+
+
+
+
+(B)
+ Program requirements
+Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 1
+3
+⁄
+32
+-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+
+
+
+
+
+
+(C)
+ Tight domestic supply
+During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 1
+3
+⁄
+32
+-inch cotton, delivered C.I.F. Northern Europe.
+
+
+
+
+
+
+(D)
+ Season-ending United States stocks-to-use ratio
+For the purposes of making estimates under subparagraph (C), the Secretary shall, on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
+
+
+
+
+
+
+(E)
+ Delayed application of threshold
+Through 
+July 31, 2006
+, the Secretary shall make the calculation under subparagraph (B) without regard to the 1.25 cent threshold provided under that subparagraph.
+
+
+
+
+
+
+
+
+(2)
+ Quantity
+The quota shall be equal to one week’s consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the most recent three months for which data are available.
+
+
+
+
+
+
+(3)
+ Application
+The quota shall apply to upland cotton purchased not later than 90 days after the date of the Secretary’s announcement under paragraph (1) and entered into the United States not later than 180 days after the date.
+
+
+
+
+
+
+(4)
+ Overlap
+A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c) of this section.
+
+
+
+
+
+
+(5)
+ Preferential tariff treatment
+The quantity under a special import quota shall be considered to be an in-quota quantity for purposes of—
+(A)
+ 
+section 2703(d) of title 19
+;
+
+
+
+
+(B)
+ 
+section 3203 of title 19
+;
+
+
+
+
+(C)
+ 
+section 2463(d) of title 19
+; and
+
+
+
+
+(D)
+ General Note 3(a)(iv) to the Harmonized Tariff Schedule.
+
+
+
+
+
+
+(6)
+ Definition
+In this subsection, the term “special import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+
+
+
+
+
+
+(7)
+ Limitation
+The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 5 week’s consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+
+
+
+
+
+
+(c)
+ Limited global import quota for upland cotton
+(1)
+ In general
+The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+(A)
+ Quantity
+The quantity of the quota shall be equal to 21 days of domestic mill consumption of upland cotton at the seasonally adjusted average rate of the most recent 3 months for which data are available.
+
+
+
+
+
+
+(B)
+ Quantity if prior quota
+If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next established under this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
+
+
+
+
+
+
+(C)
+ Preferential tariff treatment
+The quantity under a limited global import quota shall be considered to be an in-quota quantity for purposes of—
+(i)
+ 
+section 2703(d) of title 19
+;
+
+
+
+
+(ii)
+ 
+section 3203 of title 19
+;
+
+
+
+
+(iii)
+ 
+section 2463(d) of title 19
+; and
+
+
+
+
+(iv)
+ General Note 3(a)(iv) to the Harmonized Tariff Schedule.
+
+
+
+
+
+
+(D)
+ Definitions
+In this subsection:
+(i)
+ Supply
+The term “supply” means, using the latest official data of the Bureau of the Census, the Department of Agriculture, and the Department of the Treasury—
+(I)
+ the carry-over of upland cotton at the beginning of the marketing year (adjusted to 480-pound bales) in which the quota is established;
+
+
+
+
+(II)
+ production of the current crop; and
+
+
+
+
+(III)
+ imports to the latest date available during the marketing year.
+
+
+
+
+
+
+(ii)
+ Demand
+The term “demand” means—
+(I)
+ the average seasonally adjusted annual rate of domestic mill consumption during the most recent 3 months for which data are available; and
+
+
+
+
+(II)
+ the larger of—
+(aa)
+ average exports of upland cotton during the preceding 6 marketing years; or
+
+
+
+
+(bb)
+ cumulative exports of upland cotton plus outstanding export sales for the marketing year in which the quota is established.
+
+
+
+
+
+
+
+
+(iii)
+ Limited global import quota
+The term “limited global import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+
+
+
+
+
+
+
+
+(E)
+ Quota entry period
+When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
+
+
+
+
+
+
+
+
+(2)
+ No overlap
+Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
+
+
+
+
+
+
+ Special competitive provisions for extra long staple cotton
+(a)
+ Competitiveness program
+Notwithstanding any other provision of law, during the period beginning on 
+May 13, 2002
+, through 
+July 31, 2008
+, the Secretary shall carry out a program—
+(1)
+ to maintain and expand the domestic use of extra long staple cotton produced in the United States;
+
+
+
+
+(2)
+ to increase exports of extra long staple cotton produced in the United States; and
+
+
+
+
+(3)
+ to ensure that extra long staple cotton produced in the United States remains competitive in world markets.
+
+
+
+
+(b)
+ Payments under program; trigger
+Under the program, the Secretary shall make payments available under this section whenever—
+(1)
+ for a consecutive 4-week period, the world market price for the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is below the prevailing United States price for a competing growth of extra long staple cotton; and
+
+
+
+
+(2)
+ the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is less than 134 percent of the loan rate for extra long staple cotton.
+
+
+
+
+(c)
+ Eligible recipients
+The Secretary shall make payments available under this section to domestic users of extra long staple cotton produced in the United States and exporters of extra long staple cotton produced in the United States that enter into an agreement with the Commodity Credit Corporation to participate in the program under this section.
+
+
+
+
+(d)
+ Payment amount
+Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) of this section during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
+
+
+
+
+(e)
+ Form of payment
+Payments under this section shall be made through the issuance of cash or marketing certificates, at the option of eligible recipients of the payments.
+
+
+
+
+ Availability of recourse loans for high moisture feed grains and seed cotton
+(a)
+ High moisture feed grains
+(1)
+ Recourse loans available
+For each of the 2002 through 2007 crops of corn and grain sorghum, the Secretary shall make available recourse loans, as determined by the Secretary, to producers on a farm that—
+(A)
+ normally harvest all or a portion of their crop of corn or grain sorghum in a high moisture state;
+
+
+
+
+(B)
+ present—
+(i)
+ certified scale tickets from an inspected, certified commercial scale, including a licensed warehouse, feedlot, feed mill, distillery, or other similar entity approved by the Secretary, pursuant to regulations issued by the Secretary; or
+
+
+
+
+(ii)
+ field or other physical measurements of the standing or stored crop in regions of the United States, as determined by the Secretary, that do not have certified commercial scales from which certified scale tickets may be obtained within reasonable proximity of harvest operation;
+
+
+
+
+
+
+(C)
+ certify that they were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
+
+
+
+
+(D)
+ comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
+
+
+
+
+
+
+(2)
+ Eligibility of acquired feed grains
+A loan under this subsection shall be made on a quantity of corn or grain sorghum of the same crop acquired by the producer equivalent to a quantity determined by multiplying—
+(A)
+ the acreage of the corn or grain sorghum in a high moisture state harvested on the producer’s farm; by
+
+
+
+
+(B)
+ the lower of the farm program payment yield used to make counter-cyclical payments under subchapter I of this chapter or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
+
+
+
+
+
+
+(3)
+ High moisture state defined
+In this subsection, the term “high moisture state” means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under 
+section 7931 of this title
+.
+
+
+
+
+
+
+(b)
+ Recourse loans available for seed cotton
+For each of the 2002 through 2007 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
+
+
+
+
+(c)
+ Repayment rates
+Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with 
+section 7283 of this title
+).
+
+
+
+
+(d)
+ Termination of superseded loan authority
+Notwithstanding 
+section 7237 of this title
+, recourse loans shall not be made for the 2002 crop of corn, grain sorghum, and seed cotton under such section.
+
+
+
+
+ Definitions
+ Establishment of payment yield and base acres for peanuts for a farm
+(a)
+ Average yield and acreage average for historic peanut producers
+(1)
+ Determination of average yield
+(A)
+ In general
+The Secretary shall determine, for each historic peanut producer, the average yield for peanuts on each farm on which the historic peanut producer planted peanuts for harvest for the 1998 through 2001 crop years, excluding any crop year in which the producer did not plant or was prevented from planting peanuts.
+
+
+
+
+
+
+(B)
+ Assigned yields
+For the purposes of determining the 4-year average yield for an historic peanut producer under this paragraph, the historic peanut producer may elect to substitute for a farm, for not more than 3 of the 1998 through 2001 crop years in which the producer planted peanuts on the farm, the average yield for peanuts produced in the county in which the farm is located for the 1990 through 1997 crop years.
+
+
+
+
+
+
+
+
+(2)
+ Determination of acreage average
+(A)
+ In general
+The Secretary shall determine, for each historic peanut producer, the 4-year average of the following:
+(i)
+ Acreage planted to peanuts on each farm on which the historic peanut producer planted peanuts for harvest for the 1998 through 2001 crop years.
+
+
+
+
+(ii)
+ Any acreage on each farm that the historic peanut producer was prevented from planting to peanuts during the 1998 through 2001 crop years because of drought, flood, or other natural disaster, or other condition beyond the control of the historic peanut producer, as determined by the Secretary.
+
+
+
+
+
+
+(B)
+ Inclusion of all 4 years in average
+For the purposes of determining the 4-year acreage average for an historic peanut producer under this paragraph, the Secretary shall not exclude any crop year in which the producer did not plant peanuts.
+
+
+
+
+
+
+(C)
+ Proportional shares
+If more than 1 historic peanut producer shared in the risk of producing the crop on a farm, the historic peanut producers shall receive their proportional share of the number of acres planted (or prevented from being planted) to peanuts for harvest on the farm based on the sharing arrangement that was in effect among the producers for the crop.
+
+
+
+
+
+
+
+
+(3)
+ Time for determinations
+The Secretary shall make the determinations required by this subsection as soon as practicable after 
+May 13, 2002
+.
+
+
+
+
+
+
+(4)
+ Special considerations
+In making the determinations required by this subsection, the Secretary shall take into account changes in the number, identity, or interest of producers sharing in the risk of producing a peanut crop since the 1998 crop year, including providing a method for the assignment of average acres and average yield to a farm—
+(A)
+ when an historic peanut producer is no longer living;
+
+
+
+
+(B)
+ when an entity composed of historic peanut producers has been dissolved; or
+
+
+
+
+(C)
+ in other appropriate situations, as determined by the Secretary.
+
+
+
+
+
+
+(b)
+ Assignment of average yields and average acreage to farms
+(1)
+ Assignment by historic peanut producers
+The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) of this section for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
+
+
+
+
+
+
+(2)
+ Limitation on acreage assignment
+Notwithstanding paragraph (1), the average acreage determined under subsection (a)(2) of this section for a farm may not be assigned to a farm in a contiguous State unless—
+(A)
+ the historic peanut producer making the assignment produced peanuts in that State during at least 1 of the 1998 through 2001 crop years; or
+
+
+
+
+(B)
+ as of 
+March 31, 2003
+, the historic peanut producer is a producer on a farm in that State.
+
+
+
+
+
+
+(3)
+ Notice of assignment opportunity
+The Secretary shall provide notice to historic peanut producers regarding their opportunity to assign average peanut yields and average acreages to farms under paragraph (1). The notice shall include the following:
+(A)
+ Notice that the opportunity to make the assignments is being provided only once.
+
+
+
+
+(B)
+ A description of the limitation in paragraph (2) on their ability to make the assignments.
+
+
+
+
+(C)
+ Information regarding the manner in which the assignments must be made and the time periods and manner in which notice of the assignments must be submitted to the Secretary.
+
+
+
+
+
+
+(4)
+ Assignment deadlines
+Not later than 
+March 31, 2003
+, an historic peanut producer shall submit to the Secretary notice of the assignments made by the producer under this subsection. If an historic peanut producer fails to submit the notice by that date, the notice shall be submitted in such other manner as the Secretary may prescribe.
+
+
+
+
+
+
+(c)
+ Payment yield
+The average of all of the yields assigned by historic peanut producers under subsection (b) of this section to a farm shall be considered to be the payment yield for that farm for the purpose of making direct payments and counter-cyclical payments under this subchapter.
+
+
+
+
+(d)
+ Base acres for peanuts
+Subject to subsection (e) of this section, the total number of acres assigned by historic peanut producers under subsection (b) of this section to a farm shall be considered to be the farm’s base acres for peanuts for the purpose of making direct payments and counter-cyclical payments under this subchapter.
+
+
+
+
+(e)
+ Treatment of conservation reserve contract acreage
+(1)
+ In general
+The Secretary shall provide for an adjustment, as appropriate, in the base acres for peanuts for a farm whenever either of the following circumstances occur:
+(A)
+ A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 (
+16 U.S.C. 3831
+) with respect to the farm expires or is voluntarily terminated.
+
+
+
+
+(B)
+ Cropland is released from coverage under a conservation reserve contract by the Secretary.
+
+
+
+
+
+
+(2)
+ Special payment rules
+For the crop year in which a base acres for peanuts adjustment under paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+
+
+
+
+
+
+(f)
+ Prevention of excess base acres for peanuts
+(1)
+ Required reduction
+If the sum of the base acres for peanuts for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities under subchapter I of this chapter for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+
+
+
+
+
+
+(2)
+ Other acreage
+For purposes of paragraph (1), the Secretary shall include the following:
+(A)
+ Any base acres for the farm under subchapter I of this chapter.
+
+
+
+
+(B)
+ Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3830
+ et seq.).
+
+
+
+
+(C)
+ Any other acreage on the farm enrolled in a conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
+
+
+
+
+
+
+(3)
+ Selection of acres
+The Secretary shall give the owner of the farm the opportunity to select the base acres for peanuts or the subchapter I base acres against which the reduction required by paragraph (1) will be made.
+
+
+
+
+
+
+(4)
+ Exception for double-cropped acreage
+In applying paragraph (1), the Secretary shall make an exception in the case of double cropping, as determined by the Secretary.
+
+
+
+
+
+
+(5)
+ Coordinated application of requirements
+The Secretary shall take into account 
+section 7911(g) of this title
+ when applying the requirements of this subsection.
+
+
+
+
+
+
+(g)
+ Permanent reduction in base acres for peanuts
+The owner of a farm may reduce, at any time, the base acres for peanuts assigned to the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
+
+
+
+
+ Availability of direct payments for peanuts
+(a)
+ Payment required
+(1)
+ 2002 crop year
+For the 2002 crop year, the Secretary shall make direct payments under this section to historic peanut producers.
+
+
+
+
+
+
+(2)
+ Subsequent crop years
+For each of the 2003 through 2007 crop years for peanuts, the Secretary shall make direct payments to the producers on a farm to which a payment yield and base acres for peanuts are assigned under 
+section 7952 of this title
+.
+
+
+
+
+
+
+(b)
+ Payment rate
+The payment rate used to make direct payments with respect to peanuts for a crop year shall be equal to $36 per ton.
+
+
+
+
+(c)
+ Payment amount for 2002 crop year
+The amount of the direct payment to be paid to an historic peanut producer for the 2002 crop of peanuts shall be equal to the product of the following:
+(1)
+ The payment rate specified in subsection (b) of this section.
+
+
+
+
+(2)
+ The payment acres of the historic peanut producer.
+
+
+
+
+(3)
+ The average peanut yield determined under 
+section 7952(a)(1) of this title
+ for the historic peanut producer.
+
+
+
+
+(d)
+ Payment amount for subsequent crop years
+The amount of the direct payment to be paid to the producers on a farm for the 2003 through 2007 crops of peanuts shall be equal to the product of the following:
+(1)
+ The payment rate specified in subsection (b) of this section.
+
+
+
+
+(2)
+ The payment acres on the farm.
+
+
+
+
+(3)
+ The payment yield for the farm.
+
+
+
+
+(e)
+ Time for payment
+(1)
+ In general
+The Secretary shall make direct payments—
+(A)
+ in the case of the 2002 crop year, as soon as practicable after 
+May 13, 2002
+; and
+
+
+
+
+(B)
+ in the case of each of the 2003 through 2007 crop years, not later than September 30 of the calendar year in which the crop is harvested.
+
+
+
+
+
+
+(2)
+ Advance payments
+At the option of the producers on a farm, up to 50 percent of the direct payment for any of the 2003 through 2005 crop years, up to 40 percent of the direct payment for the 2006 crop year, and up to 22 percent of the direct payment for the 2007 crop year, shall be paid to the producers in advance. The producers shall select the month within which the advance payment for a crop year will be made. The month selected may be any month during the period beginning on December 1 of the calendar year before the calendar year in which the crop is harvested through the month within which the direct payment would otherwise be made. The producers may change the selected month for a subsequent advance payment by providing advance notice to the Secretary.
+
+
+
+
+
+
+(3)
+ Repayment of advance payments
+If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
+
+
+
+
+
+
+ Availability of counter-cyclical payments for peanuts
+(a)
+ Payment required
+(1)
+ In general
+During the 2002 through 2007 crop years for peanuts, the Secretary shall make counter-cyclical payments under this section with respect to peanuts if the Secretary determines that the effective price for peanuts is less than the target price for peanuts.
+
+
+
+
+
+
+(2)
+ 2002 crop year
+If counter-cyclical payments are required for the 2002 crop year, the Secretary shall make the payments to historic peanut producers.
+
+
+
+
+
+
+(3)
+ Subsequent crop years
+If counter-cyclical payments are required for any of the 2003 through 2007 crop years for peanuts, the Secretary shall make the payments to the producers on a farm to which a payment yield and base acres for peanuts are assigned under 
+section 7952 of this title
+.
+
+
+
+
+
+
+(b)
+ Effective price
+For purposes of subsection (a) of this section, the effective price for peanuts is equal to the sum of the following:
+(1)
+ The higher of the following:
+(A)
+ The national average market price for peanuts received by producers during the 12-month marketing year for peanuts, as determined by the Secretary.
+
+
+
+
+(B)
+ The national average loan rate for a marketing assistance loan for peanuts in effect for the applicable period under this subchapter.
+
+
+
+
+
+
+(2)
+ The payment rate in effect under 
+section 7953 of this title
+ for the purpose of making direct payments.
+
+
+
+
+(c)
+ Target price
+For purposes of subsection (a) of this section, the target price for peanuts shall be equal to $495 per ton.
+
+
+
+
+(d)
+ Payment rate
+The payment rate used to make counter-cyclical payments for a crop year shall be equal to the difference between—
+(1)
+ the target price; and
+
+
+
+
+(2)
+ the effective price determined under subsection (b) of this section.
+
+
+
+
+(e)
+ Payment amount for 2002 crop year
+If counter-cyclical payments are required to be paid for the 2002 crop of peanuts, the amount of the counter-cyclical payment to be paid to an historic peanut producer for that crop year shall be equal to the product of the following:
+(1)
+ The payment rate specified in subsection (d) of this section.
+
+
+
+
+(2)
+ The payment acres of the historic peanut producer.
+
+
+
+
+(3)
+ The average peanut yield determined under 
+section 7952(a)(1) of this title
+ for the historic peanut producer.
+
+
+
+
+(f)
+ Payment amount for subsequent crop years
+If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops of peanuts, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+(1)
+ The payment rate specified in subsection (d) of this section.
+
+
+
+
+(2)
+ The payment acres on the farm.
+
+
+
+
+(3)
+ The payment yield for the farm.
+
+
+
+
+(g)
+ Time for payments
+(1)
+ General rule
+If the Secretary determines under subsection (a) of this section that counter-cyclical payments are required to be made under this section for a crop year, the Secretary shall make the counter-cyclical payments as soon as practicable after the end of the 12-month marketing year for the crop.
+
+
+
+
+
+
+(2)
+ Availability of partial payments
+If, before the end of the 12-month marketing year, the Secretary estimates that counter-cyclical payments will be required under this section for a crop year, the Secretary shall give producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) the option to receive partial payments of the counter-cyclical payment projected to be made for that crop.
+
+
+
+
+
+
+(3)
+ Time for partial payments
+(A)
+ 2002 through 2006 crop years
+When the Secretary makes partial payments available under paragraph (2) for any of the 2002 through 2006 crop years—
+(i)
+ the first partial payment for the crop year shall be made not earlier than October 1, and, to the maximum extent practicable, not later than October 31, of the calendar year in which the crop is harvested;
+
+
+
+
+(ii)
+ the second partial payment shall be made not earlier than February 1 of the next calendar year; and
+
+
+
+
+(iii)
+ the final partial payment shall be made as soon as practicable after the end of the 12-month marketing year for that crop.
+
+
+
+
+
+
+(B)
+ 2007 crop year
+When the Secretary makes partial payments available for the 2007 crop year—
+(i)
+ the first partial payment shall be made after completion of the first 6 months of the marketing year for that crop; and
+
+
+
+
+(ii)
+ the final partial payment shall be made as soon as practicable after the end of the 12-month marketing year for that crop.
+
+
+
+
+
+
+
+
+(4)
+ Amount of partial payments
+(A)
+ 2002 crop year
+(i)
+ First partial payment
+In the case of the 2002 crop year, the first partial payment under paragraph (3) to an historic peanut producer may not exceed 35 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
+
+
+
+
+
+
+(ii)
+ Second partial payment
+The second partial payment may not exceed the difference between—
+(I)
+ 70 percent of the projected counter-cyclical payment (including any revision thereof) for the 2002 crop year; and
+
+
+
+
+(II)
+ the amount of the payment made under clause (i).
+
+
+
+
+
+
+(iii)
+ Final payment
+The final payment shall be equal to the difference between—
+(I)
+ the actual counter-cyclical payment to be made to the historic peanut producer; and
+
+
+
+
+(II)
+ the amount of the partial payments made to the historic peanut producer under clauses (i) and (ii).
+
+
+
+
+
+
+
+
+(B)
+ 2003 through 2006 crop years
+(i)
+ First partial payment
+For each of the 2003 through 2006 crop years, the first partial payment under paragraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
+
+
+
+
+
+
+(ii)
+ Second partial payment
+The second partial payment for a crop year may not exceed the difference between—
+(I)
+ 70 percent of the projected counter-cyclical payment (including any revision thereof) for the crop year; and
+
+
+
+
+(II)
+ the amount of the payment made under clause (i).
+
+
+
+
+
+
+(iii)
+ Final payment
+The final payment for a crop year shall be equal to the difference between—
+(I)
+ the actual counter-cyclical payment to be made to the producers for that crop year; and
+
+
+
+
+(II)
+ the amount of the partial payments made to the producers under clauses (i) and (ii) for that crop year.
+
+
+
+
+
+
+
+
+(C)
+ 2007 crop year
+(i)
+ First partial payment
+For the 2007 crop year, the first partial payment under paragraph (3) to the producers on a farm may not exceed 40 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
+
+
+
+
+
+
+(ii)
+ Final payment
+The final payment for the 2007 crop year shall be equal to the difference between—
+(I)
+ the actual counter-cyclical payment to be made to the producers for that crop year; and
+
+
+
+
+(II)
+ the amount of the partial payment made to the producers under clause (i).
+
+
+
+
+
+
+
+
+
+
+(5)
+ Repayment
+The producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for that crop year.
+
+
+
+
+
+
+ Producer agreement required as condition on provision of direct payments and counter-cyclical payments
+(a)
+ Compliance with certain requirements
+(1)
+ Requirements
+Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+(A)
+ to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3811
+ et seq.);
+
+
+
+
+(B)
+ to comply with applicable wetland protection requirements under subtitle C of title XII of that Act (
+16 U.S.C. 3821
+ et seq.);
+
+
+
+
+(C)
+ to comply with the planting flexibility requirements of 
+section 7956 of this title
+;
+
+
+
+
+(D)
+ to use the land on the farm, in a quantity equal to the attributable base acres for peanuts and any base acres for the farm under subchapter I of this chapter, for an agricultural or conserving use, and not for a nonagricultural commercial or industrial use, as determined by the Secretary; and
+
+
+
+
+(E)
+ to effectively control noxious weeds and otherwise maintain the land in accordance with sound agricultural practices, as determined by the Secretary, if the agricultural or conserving use involves the noncultivation of any portion of the land referred to in subparagraph (D).
+
+
+
+
+
+
+(2)
+ Compliance
+The Secretary may issue such rules as the Secretary considers necessary to ensure producer compliance with the requirements of paragraph (1).
+
+
+
+
+
+
+(3)
+ Modification
+At the request of the transferee or owner, the Secretary may modify the requirements of this subsection if the modifications are consistent with the objectives of this subsection, as determined by the Secretary.
+
+
+
+
+
+
+(b)
+ Transfer or change of interest in farm
+(1)
+ Termination
+Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made shall result in the termination of the payments with respect to those acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a) of this section. The termination shall take effect on the date determined by the Secretary.
+
+
+
+
+
+
+(2)
+ Exception
+If a producer entitled to a direct payment or counter-cyclical payment dies, becomes incompetent, or is otherwise unable to receive the payment, the Secretary shall make the payment, in accordance with rules issued by the Secretary.
+
+
+
+
+
+
+(c)
+ Acreage reports
+As a condition on the receipt of direct payments, counter-cyclical payments, marketing assistance loans, or loan deficiency payments under this subchapter, the Secretary shall require the producers on a farm to which a payment yield and base acres for peanuts are assigned under 
+section 7952 of this title
+ to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
+
+
+
+
+(d)
+ Tenants and sharecroppers
+In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
+
+
+
+
+(e)
+ Sharing of payments
+The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
+
+
+
+
+ Planting flexibility
+(a)
+ Permitted crops
+Subject to subsection (b) of this section, any commodity or crop may be planted on the base acres for peanuts on a farm.
+
+
+
+
+(b)
+ Limitations regarding certain commodities
+(1)
+ General limitation
+The planting of an agricultural commodity specified in paragraph (2) shall be prohibited on base acres for peanuts unless the commodity, if planted, is destroyed before harvest.
+
+
+
+
+
+
+(2)
+ Treatment of trees and other perennials
+The planting of an agricultural commodity specified in paragraph (3) that is produced on a tree or other perennial plant shall be prohibited on base acres for peanuts.
+
+
+
+
+
+
+(3)
+ Covered agricultural commodities
+Paragraphs (1) and (2) apply to the following agricultural commodities:
+(A)
+ Fruits.
+
+
+
+
+(B)
+ Vegetables (other than lentils, mung beans, and dry peas).
+
+
+
+
+(C)
+ Wild rice.
+
+
+
+
+
+
+(c)
+ Exceptions
+Paragraphs (1) and (2) of subsection (b) of this section shall not limit the planting of an agricultural commodity specified in paragraph (3) of that subsection—
+(1)
+ in any region in which there is a history of double-cropping of peanuts with agricultural commodities specified in subsection (b)(3) of this section, as determined by the Secretary, in which case the double-cropping shall be permitted;
+
+
+
+
+(2)
+ on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) of this section on the base acres for peanuts, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
+
+
+
+
+(3)
+ by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3) of this section, except that—
+(A)
+ the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
+
+
+
+
+(B)
+ direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
+
+
+
+
+
+
+ Marketing assistance loans and loan deficiency payments for peanuts
+(a)
+ Nonrecourse loans available
+(1)
+ Availability
+For each of the 2002 through 2007 crops of peanuts, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm. The loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under subsection (b) of this section.
+
+
+
+
+
+
+(2)
+ Eligible production
+The producers on a farm shall be eligible for a marketing assistance loan under this subsection for any quantity of peanuts produced on the farm.
+
+
+
+
+
+
+(3)
+ Treatment of certain commingled commodities
+In carrying out this subsection, the Secretary shall make loans to producers on a farm that would be eligible to obtain a marketing assistance loan, but for the fact the peanuts owned by the producers on the farm are commingled with other peanuts in facilities unlicensed for the storage of agricultural commodities by the Secretary or a State licensing authority, if the producers obtaining the loan agree to immediately redeem the loan collateral in accordance with 
+section 7286 of this title
+.
+
+
+
+
+
+
+(4)
+ Options for obtaining loan
+A marketing assistance loan under this subsection, and loan deficiency payments under subsection (e) of this section, may be obtained at the option of the producers on a farm through—
+(A)
+ a designated marketing association or marketing cooperative of producers that is approved by the Secretary; or
+
+
+
+
+(B)
+ the Farm Service Agency.
+
+
+
+
+
+
+(5)
+ Storage of loan peanuts
+As a condition on the Secretary’s approval of an individual or entity to provide storage for peanuts for which a marketing assistance loan is made under this section, the individual or entity shall agree—
+(A)
+ to provide such storage on a nondiscriminatory basis; and
+
+
+
+
+(B)
+ to comply with such additional requirements as the Secretary considers appropriate to accomplish the purposes of this section and promote fairness in the administration of the benefits of this section.
+
+
+
+
+
+
+(6)
+ Payment of peanut storage costs
+Effective for the 2002 through 2006 crops of peanuts, to ensure proper storage of peanuts for which a loan is made under this section, the Secretary shall use the funds of the Commodity Credit Corporation to pay storage, handling, and other associated costs. This authority terminates beginning with the 2007 crop of peanuts.
+
+
+
+
+
+
+(7)
+ Marketing
+A marketing association or cooperative may market peanuts for which a loan is made under this section in any manner that conforms to consumer needs, including the separation of peanuts by type and quality.
+
+
+
+
+
+
+(b)
+ Loan rate
+The loan rate for a marketing assistance loan under for peanuts subsection (a) of this section shall be equal to $355 per ton.
+
+
+
+
+(c)
+ Term of loan
+(1)
+ In general
+A marketing assistance loan for peanuts under subsection (a) of this section shall have a term of 9 months beginning on the first day of the first month after the month in which the loan is made.
+
+
+
+
+
+
+(2)
+ Extensions prohibited
+The Secretary may not extend the term of a marketing assistance loan for peanuts under subsection (a) of this section.
+
+
+
+
+
+
+(d)
+ Repayment rate
+(1)
+ In general
+The Secretary shall permit producers on a farm to repay a marketing assistance loan for peanuts under subsection (a) of this section at a rate that is the lesser of—
+(A)
+ the loan rate established for peanuts under subsection (b) of this section, plus interest (determined in accordance with 
+section 7283 of this title
+); or
+
+
+
+
+(B)
+ a rate that the Secretary determines will—
+(i)
+ minimize potential loan forfeitures;
+
+
+
+
+(ii)
+ minimize the accumulation of stocks of peanuts by the Federal Government;
+
+
+
+
+(iii)
+ minimize the cost incurred by the Federal Government in storing peanuts; and
+
+
+
+
+(iv)
+ allow peanuts produced in the United States to be marketed freely and competitively, both domestically and internationally.
+
+
+
+
+
+
+
+
+(2)
+ Good faith exception to beneficial interest requirement
+For the 2002 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in the peanuts for which a marketing assistance loan was made under this section before repaying the loan, the Secretary shall permit the producers to repay the loan at the applicable repayment rate that was in effect for peanuts under this subsection on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
+
+
+
+
+
+
+(e)
+ Loan deficiency payments
+(1)
+ Availability
+The Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan for peanuts under subsection (a) of this section, agree to forgo obtaining the loan for the peanuts in return for loan deficiency payments under this subsection.
+
+
+
+
+
+
+(2)
+ Computation
+A loan deficiency payment under this subsection shall be computed by multiplying—
+(A)
+ the payment rate determined under paragraph (3) for peanuts; by
+
+
+
+
+(B)
+ the quantity of the peanuts produced by the producers, excluding any quantity for which the producers obtain a marketing assistance loan under subsection (a) of this section.
+
+
+
+
+
+
+(3)
+ Payment rate
+For purposes of this subsection, the payment rate shall be the amount by which—
+(A)
+ the loan rate established under subsection (b) of this section; exceeds
+
+
+
+
+(B)
+ the rate at which a loan may be repaid under subsection (d) of this section.
+
+
+
+
+
+
+(4)
+ Effective date for payment rate determination
+(A)
+ In general
+The Secretary shall determine the amount of the loan deficiency payment to be made under this subsection to the producers on a farm with respect to a quantity of peanuts using the payment rate in effect under paragraph (3) as of the date the producers request the payment.
+
+
+
+
+
+
+(B)
+ Special rule for 2002 crop year
+For the 2002 crop year only, the Secretary shall determine the amount of the loan deficiency payment to be made under this subsection to the producers on a farm with respect to a quantity of peanuts using the payment rate in effect under paragraph (3) as of the earlier of the following:
+(i)
+ The date on which the producers marketed or otherwise lost beneficial interest in the crop, as determined by the Secretary.
+
+
+
+
+(ii)
+ The date the producers request the payment.
+
+
+
+
+
+
+
+
+(f)
+ Compliance with conservation and wetlands requirements
+As a condition of the receipt of a marketing assistance loan under subsection (a) of this section, the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3811
+ et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (
+16 U.S.C. 3821
+ et seq.) during the term of the loan.
+
+
+
+
+(g)
+ Reimbursable agreements and payment of administrative expenses
+The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
+
+
+
+
+ Miscellaneous provisions
+(a)
+ Mandatory inspection
+All peanuts marketed in the United States shall be officially inspected and graded by Federal or Federal-State inspectors.
+
+
+
+
+(b)
+ Termination of Peanut Administrative Committee
+The Peanut Administrative Committee established under Marketing Agreement No. 146 issued pursuant to the Agricultural Adjustment Act (
+7 U.S.C. 601
+ et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, is terminated.
+
+
+
+
+(c)
+ Peanut Standards Board
+(1)
+ Establishment and purpose
+The Secretary shall establish a Peanut Standards Board for the purpose of advising the Secretary regarding the establishment of quality and handling standards for domestically produced and imported peanuts.
+
+
+
+
+
+
+(2)
+ Membership and appointment
+(A)
+ Total members
+The Board shall consist of 18 members, with representation equally divided between peanut producers and peanut industry representatives.
+
+
+
+
+
+
+(B)
+ Appointment process for producers
+The Secretary shall appoint—
+(i)
+ 3 producers from the Southeast (Alabama, Georgia, and Florida) peanut producing region;
+
+
+
+
+(ii)
+ 3 producers from the Southwest (Texas, Oklahoma, and New Mexico) peanut producing region; and
+
+
+
+
+(iii)
+ 3 producers from the Virginia/Carolina (Virginia and North Carolina) peanut producing region.
+
+
+
+
+
+
+(C)
+ Appointment process for industry representatives
+The Secretary shall appoint 3 peanut industry representatives from each of the 3 peanut producing regions in the United States.
+
+
+
+
+
+
+
+
+(3)
+ Terms
+(A)
+ In general
+A member of the Board shall serve a 3-year term.
+
+
+
+
+
+
+(B)
+ Initial appointment
+In making the initial appointments to the Board, the Secretary shall stagger the terms of the members so that—
+(i)
+ 1 producer member and peanut industry member from each peanut producing region serves a 1-year term;
+
+
+
+
+(ii)
+ 1 producer member and peanut industry member from each peanut producing region serves a 2-year term; and
+
+
+
+
+(iii)
+ 1 producer member and peanut industry member from each peanut producing region serves a 3-year term.
+
+
+
+
+
+
+
+
+(4)
+ Consultation required
+The Secretary shall consult with the Board in advance whenever the Secretary establishes or changes, or considers the establishment of or a change to, quality and handling standards for peanuts.
+
+
+
+
+
+
+(5)
+ Federal Advisory Committee Act
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+
+
+
+
+
+
+(d)
+ Priority
+The Secretary shall make identifying and combating the presence of all quality concerns related to peanuts a priority in the development of quality and handling standards for peanuts and in the inspection of domestically produced and imported peanuts. The Secretary shall consult with appropriate Federal and State agencies to provide adequate safeguards against all quality concerns related to peanuts.
+
+
+
+
+(e)
+ Consistent standards
+Imported peanuts shall be subject to the same quality and handling standards as apply to domestically produced peanuts.
+
+
+
+
+(f)
+ Authorization of appropriations
+(1)
+ In general
+In addition to other funds that are available to carry out this section, there is authorized to be appropriated such sums as are necessary to carry out this section.
+
+
+
+
+
+
+(2)
+ Treatment of Board expenses
+The expenses of the Peanut Standards Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture, whether enacted before, on, or after 
+May 13, 2002
+, unless the limitation specifically refers to this paragraph and specifically includes the Peanut Standards Board within the general limitation.
+
+
+
+
+
+
+(g)
+ Transition rule
+(1)
+ Temporary designation of Peanut Administrative Committee members
+Notwithstanding the appointment process specified in subsection (c) of this section for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before 
+May 13, 2002
+, to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
+
+
+
+
+
+
+(2)
+ Funds
+The Secretary may transfer any funds available to carry out the activities of the Peanut Administrative Committee to the Peanut Standards Board to carry out the duties of the Board described in this section.
+
+
+
+
+
+
+(3)
+ Transition period
+In paragraph (1), the term “transition period” means the period beginning on 
+May 13, 2002
+, and ending on the earlier of—
+(A)
+ the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c) of this section; or
+
+
+
+
+(B)
+ 180 days after 
+May 13, 2002
+.
+
+
+
+
+
+
+(h)
+ Effective date
+This section shall take effect with the 2002 crop of peanuts.
+
+
+
+
+ Termination of marketing quota programs for peanuts and compensation to peanut quota holders for loss of quota asset value
+(a)
+ Repeal of marketing quota
+(1)
+ Omitted
+
+
+
+
+(2)
+ Treatment of 2001 crop
+Part VI of subtitle B of title III of the Agricultural Adjustment Act of 1938 (
+7 U.S.C. 1357–135
+9a), as in effect on the day before 
+May 13, 2002
+, shall continue to apply with respect to the 2001 crop of peanuts notwithstanding the amendment made by paragraph (1). 
+Section 7958(g)(2) of this title
+ shall also apply to the 2001 crop of peanuts.
+
+
+
+
+
+
+(b)
+ Compensation contract required
+(1)
+ In general
+The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holder under subsection (f) of this section for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a) of this section.
+
+
+
+
+
+
+(2)
+ Payment period
+The Secretary shall make payments under the contracts during fiscal years 2002 through 2006.
+
+
+
+
+
+
+(c)
+ Time for payment
+(1)
+ Payment in installments
+The payments required under the contracts shall be provided in 5 equal installments not later than September 30 of each of fiscal years 2002 through 2006.
+
+
+
+
+
+
+(2)
+ Single payment
+At the request of an eligible peanut quota holder entitled to payments under a contract, the Secretary shall provide the entire payment amount determined under subsection (d) of this section with respect to the eligible peanut quota holder for the 5 fiscal years in a single lump sum during the fiscal year specified by the eligible peanut quota holder.
+
+
+
+
+
+
+(d)
+ Payment amount
+The amount of the payment for a fiscal year to an eligible peanut quota holder under a contract shall be equal to the product obtained by multiplying—
+(1)
+ $0.11 per pound; by
+
+
+
+
+(2)
+ the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f) of this section.
+
+
+
+
+(e)
+ Assignment of payments
+The provisions of 
+section 590h(g) of title 16
+, relating to assignment of payments, shall apply to the payments made under the contracts. A person making an assignment of the payment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this subsection.
+
+
+
+
+(f)
+ Eligible peanut quota holder
+(1)
+ In general
+Except as otherwise provided in this subsection, the Secretary shall consider a person to be an eligible peanut quota holder for the purposes of this section if the person, as of 
+May 13, 2002
+, owned a farm that, also as of that date, was eligible for a permanent peanut quota under section 358–1(b) of the Agricultural Adjustment Act of 1938 (
+7 U.S.C. 1358–1(b)
+), irrespective of temporary leases, transfers of quotas for seed, or quotas for experimental purposes.
+
+
+
+
+
+
+(2)
+ Effect of purchase contract
+If there was a written contract for the purchase of all or a portion of a farm described in paragraph (1) as of 
+May 13, 2002
+, and the parties to the sale are unable to agree to the disposition of eligibility for payments under this section, the Secretary, taking into account any incomplete permanent transfer of quota that has otherwise been agreed to, shall provide for the equitable division of the payments among the parties by adjusting the determination of who is the eligible peanut quota holder with respect to particular pounds of the quota.
+
+
+
+
+
+
+(3)
+ Effect of agreement for permanent quota transfer
+If the Secretary determines that there was in existence, as of 
+May 13, 2002
+, an agreement for the permanent transfer of quota, but that the transfer was not completed by that date, the Secretary shall consider the peanut quota holder to be the party to the agreement who, as of that date, was the owner of the farm to which the quota was to be transferred.
+
+
+
+
+
+
+(4)
+ Protected bases
+A person that owns a farm with a peanut poundage quota which is protected under a conservation reserve program contract entered into under 
+section 3831 of title 16
+ shall be considered to be an eligible quota holder with respect to the protected poundage.
+
+
+
+
+
+
+(5)
+ Secretarial discretion
+Notwithstanding the preceding paragraphs, the Secretary may declare a person to be the eligible peanut quota holder with respect to certain pounds of quota or otherwise for purposes of this section if the Secretary considers the declaration is needed to insure a fair and equitable administration of the payments provided for in this section, so long as the Secretary does not, in exercising this authority, effectively increase the total quota in excess of the quota that was available to all producers for the 2001 crop year for other than seed or experimental use.
+
+
+
+
+
+
+(6)
+ Limitation on quantity of quota held
+A person shall be considered an eligible peanut quota holder for purposes of this section only with respect to that number of permanent pounds that qualifies the person as a peanut quota holder under one of the preceding paragraphs. The determination of the peanut poundage amount for which the person qualifies shall be made based on the 2001 crop quota levels and shall take into account sales of the farm that occurred before 
+May 13, 2002
+, and any permanent transfers of quota that took place before that date, consistent with the preceding paragraphs. The Secretary shall not take into account, or allow eligibility for, quotas for seed, granted as experimental quotas, or obtained by temporary lease or transfer.
+
+
+
+
+
+
+(g)
+ Successions in payment eligibility and attachment of eligibility to persons
+(1)
+ Eligibility attaches to persons
+Once a person is eligible for payments under this section, as determined under subsection (f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the person has a continuing interest in the production of peanuts.
+
+
+
+
+
+
+(2)
+ Succession
+If a person eligible for payments under this section dies, in the case of an individual, or ceases to exist, in the case of other persons, the payment eligibility of the person shall pass to the person’s personal or organizational successor, as determined by the Secretary.
+
+
+
+
+
+
+ Repeal of superseded price support authority and effect of repeal
+(a)
+ Omitted
+
+
+(b)
+ Disposal
+Notwithstanding any other provision of law or previous declaration made by the Secretary, the Secretary shall ensure that the disposal of all peanuts for which a loan for the 2001 crop of peanuts was made under 
+section 7271 of this title
+ before 
+May 13, 2002
+, is carried out in a manner that prevents price disruptions in the domestic and international markets for peanuts.
+
+
+
+
+(c)
+ Treatment of crop insurance policies for 2002 crop year
+(1)
+ Applicability
+This subsection shall apply for the 2002 crop year only notwithstanding any other provision of law or crop insurance policy.
+
+
+
+
+
+
+(2)
+ Price election
+The nonquota price election for segregation I, II, and III peanuts shall be 17.75 cents per pound and shall be used for all aspects of the policy relating to the calculations of premium, liability, and indemnities.
+
+
+
+
+
+
+(3)
+ Quality adjustment
+For the purposes of quality adjustment only, the average support price per pound of peanuts shall be a price equal to 17.75 cents per pound. Quality under the crop insurance policy for peanuts shall be adjusted under procedures issued by the Federal Crop Insurance Corporation.
+
+
+
+
+
+
+ Storage facility loans
+(a)
+ In general
+Notwithstanding any other provision of law and as soon as practicable after 
+May 13, 2002
+, the Commodity Credit Corporation shall amend part 1436 of title 7, Code of Federal Regulations, to establish a sugar storage facility loan program to provide financing for processors of domestically-produced sugarcane and sugar beets to construct or upgrade storage and handling facilities for raw sugars and refined sugars.
+
+
+
+
+(b)
+ Eligible processors
+A storage facility loan described in subsection (a) of this section shall be made available to any processor of domestically produced sugarcane or sugar beets that (as determined by the Secretary)—
+(1)
+ has a satisfactory credit history;
+
+
+
+
+(2)
+ has a need for increased storage capacity, taking into account the effects of marketing allotments; and
+
+
+
+
+(3)
+ demonstrates an ability to repay the loan.
+
+
+
+
+(c)
+ Term of loans
+A storage facility loan described in subsection (a) of this section shall—
+(1)
+ have a minimum term of 7 years;
+
+
+
+
+(2)
+ not include any penalty for prepayment; and
+
+
+
+
+(3)
+ be in such amounts and on such other terms and conditions (including terms and conditions relating to downpayments, collateral, and eligible facilities) as are normal, customary, and appropriate for the size and commercial nature of the borrower.
+
+
+
+
+ Milk price support program
+(a)
+ Support activities
+During the period beginning on 
+June 1, 2002
+, and ending on 
+December 31, 2007
+, the Secretary of Agriculture shall support the price of milk produced in the 48 contiguous States through the purchase of cheese, butter, and nonfat dry milk produced from the milk.
+
+
+
+
+(b)
+ Rate
+During the period specified in subsection (a) of this section, the price of milk shall be supported at a rate equal to $9.90 per hundredweight for milk containing 3.67 percent butterfat.
+
+
+
+
+(c)
+ Purchase prices
+(1)
+ Uniform prices
+The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
+
+
+
+
+
+
+(2)
+ Sufficient prices
+The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b) of this section.
+
+
+
+
+
+
+(d)
+ Special rule for butter and nonfat dry milk purchase prices
+(1)
+ Allocation of purchase prices
+The Secretary may allocate the rate of price support between the purchase prices for nonfat dry milk and butter in a manner that will result in the lowest level of expenditures by the Commodity Credit Corporation or achieve such other objectives as the Secretary considers appropriate. Not later than 10 days after making or changing an allocation, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the allocation. 
+Section 553 of title 5
+ shall not apply with respect to the implementation of this section.
+
+
+
+
+
+
+(2)
+ Timing of purchase price adjustments
+The Secretary may make any such adjustments in the purchase prices for nonfat dry milk and butter the Secretary considers to be necessary not more than twice in each calendar year.
+
+
+
+
+
+
+(e)
+ Commodity Credit Corporation
+The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
+
+
+
+
+ National dairy market loss payments
+(a)
+ Definitions
+In this section:
+(1)
+ Class I milk
+The term “Class I milk” means milk (including milk components) classified as Class I milk under a Federal milk marketing order.
+
+
+
+
+
+
+(2)
+ Eligible production
+The term “eligible production” means milk produced by a producer in a participating State.
+
+
+
+
+
+
+(3)
+ Federal milk marketing order
+The term “Federal milk marketing order” means an order issued under 
+section 608c of this title
+.
+
+
+
+
+
+
+(4)
+ Participating State
+The term “participating State” means each State.
+
+
+
+
+
+
+(5)
+ Producer
+The term “producer” means an individual or entity that directly or indirectly (as determined by the Secretary)—
+(A)
+ shares in the risk of producing milk; and
+
+
+
+
+(B)
+ makes contributions (including land, labor, management, equipment, or capital) to the dairy farming operation of the individual or entity that are at least commensurate with the share of the individual or entity of the proceeds of the operation.
+
+
+
+
+
+
+(b)
+ Payments
+The Secretary shall offer to enter into contracts with producers on a dairy farm located in a participating State under which the producers receive payments on eligible production.
+
+
+
+
+(c)
+ Amount
+Payments to a producer under this section shall be calculated by multiplying (as determined by the Secretary)—
+(1)
+ the payment quantity for the producer during the applicable month established under subsection (d) of this section;
+
+
+
+
+(2)
+ the amount equal to—
+(A)
+ $16.94 per hundredweight; less
+
+
+
+
+(B)
+ the Class I milk price per hundredweight in Boston under the applicable Federal milk marketing order; by
+
+
+
+
+
+
+(3)
+(A)
+ during the period beginning on the first day of the month the producers on a dairy farm enter into a contract under this section and ending on 
+September 30, 2005
+, 45 percent; and
+
+
+
+
+(B)
+ during the period beginning on 
+October 1, 2005
+, and ending on 
+September 30, 2007
+, 34 percent.
+
+
+
+
+
+
+(d)
+ Payment quantity
+(1)
+ In general
+Subject to paragraph (2), the payment quantity for a producer during the applicable month under this section shall be equal to the quantity of eligible production marketed by the producer during the month.
+
+
+
+
+
+
+(2)
+ Limitation
+The payment quantity for all producers on a single dairy operation during the months of the applicable fiscal year for which the producers receive payments under subsection (b) of this section shall not exceed 2,400,000 pounds. For purposes of determining whether producers are producers on separate dairy operations or a single dairy operation, the Secretary shall apply the same standards as were applied in implementing the dairy program under section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (as enacted into law by 
+Public Law 106–387
+; 
+114 Stat. 1549
+A–50).
+
+
+
+
+
+
+(3)
+ Reconstitution
+The Secretary shall promulgate regulations to ensure that a producer does not reconstitute a dairy operation for the sole purpose of receiving additional payments under this section.
+
+
+
+
+
+
+(e)
+ Payments
+A payment under a contract under this section shall be made on a monthly basis not later than 60 days after the last day of the month for which the payment is made.
+
+
+
+
+(f)
+ Signup
+The Secretary shall offer to enter into contracts under this section during the period beginning on the date that is 60 days after 
+May 13, 2002
+, and ending on 
+September 30, 2007
+.
+
+
+
+
+(g)
+ Duration of contract
+(1)
+ In general
+Except as provided in paragraph (2), any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on 
+September 30, 2007
+.
+
+
+
+
+
+
+(2)
+ Violations
+If a producer violates the contract, the Secretary may—
+(A)
+ terminate the contract and allow the producer to retain any payments received under the contract; or
+
+
+
+
+(B)
+ allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
+
+
+
+
+
+
+ Study of national dairy policy
+(a)
+ Study required
+The Secretary of Agriculture shall conduct a comprehensive economic evaluation of the potential direct and indirect effects of the various elements of the national dairy policy, including an examination of the effect of the national dairy policy on—
+(1)
+ farm price stability, farm profitability and viability, and local rural economies in the United States;
+
+
+
+
+(2)
+ child, senior, and low-income nutrition programs, including impacts on schools and institutions participating in the programs, on program recipients, and other factors; and
+
+
+
+
+(3)
+ the wholesale and retail cost of fluid milk, dairy farms, and milk utilization.
+
+
+
+
+(b)
+ Report
+Not later than 1 year after 
+May 13, 2002
+, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the study required by this section.
+
+
+
+
+(c)
+ National dairy policy defined
+In this section, the term “national dairy policy” means the dairy policy of the United States as evidenced by the following policies and programs:
+(1)
+ Federal milk marketing orders issued under 
+section 608c of this title
+.
+
+
+
+
+(2)
+ Interstate dairy compacts (including proposed compacts described in H.R. 1827 and S. 1157, as introduced in the 107th Congress).
+
+
+
+
+(3)
+ Over-order premiums and State pricing programs.
+
+
+
+
+(4)
+ Direct payments to milk producers.
+
+
+
+
+(5)
+ Federal milk price support program established under 
+section 7981 of this title
+.
+1
+1
+ See References in Text note below.
+
+
+
+
+(6)
+ Export programs regarding milk and dairy products, such as the dairy export incentive program established under 
+section 713a–14 of title 15
+.
+1
+
+
+
+
+ Studies of effects of changes in approach to national dairy policy and fluid milk identity standards
+(a)
+ Federal dairy policy changes
+The Secretary of Agriculture shall conduct a study of the effects of—
+(1)
+ terminating all Federal programs relating to price support and supply management for milk; and
+
+
+
+
+(2)
+ granting the consent of Congress to cooperative efforts by States to manage milk prices and supply.
+
+
+
+
+(b)
+ Fluid milk identity standards
+The Secretary shall conduct a study of the effects of including in the standard of identity for fluid milk a required minimum protein content that is commensurate with the average nonfat solids content of bovine milk produced in the United States.
+
+
+
+
+(c)
+ Reports
+Not later than 1 year after 
+May 13, 2002
+, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the studies required by this section.
+
+
+
+
+ Administration generally
+(a)
+ Use of Commodity Credit Corporation
+The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this chapter.
+
+
+
+
+(b)
+ Determinations by Secretary
+A determination made by the Secretary under this chapter shall be final and conclusive.
+
+
+
+
+(c)
+ Regulations
+(1)
+ In general
+Not later than 90 days after 
+May 13, 2002
+, the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this chapter.
+
+
+
+
+
+
+(2)
+ Procedure
+The promulgation of the regulations and administration of this chapter shall be made without regard to—
+(A)
+ chapter 35 of title 44 (commonly know 
+1
+1
+ So in original. Probably should be “known”.
+ as the “Paperwork Reduction Act”);
+
+
+
+
+(B)
+ the Statement of Policy of the Secretary of Agriculture effective 
+July 24, 1971
+ (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+
+
+
+(C)
+ the notice and comment provisions of 
+section 553 of title 5
+.
+
+
+
+
+
+
+(3)
+ Congressional review of agency rulemaking
+In carrying out this subsection, the Secretary shall use the authority provided under 
+section 808 of title 5
+.
+
+
+
+
+
+
+(d)
+ Treatment of advance payment option
+The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public 
+2
+2
+ So in original. Probably should be followed by “Law”.
+ 106–170 (
+113 Stat. 1928
+; 
+7 U.S.C. 7212
+ note), shall also apply to the option to receive—
+(1)
+ the advance payment of direct payments and counter-cyclical payments under subchapter I and subchapter III of this chapter;
+
+
+
+
+(2)
+ the single payment of compensation for eligible peanut quota holders under 
+section 7960 of this title
+; and
+
+
+
+
+(3)
+ the advance payment of direct payments and counter-cyclical payments under title I of the Food, Conservation, and Energy Act of 2008 [
+7 U.S.C. 8701
+ et seq.].
+
+
+
+
+(e)
+ Adjustment authority related to Uruguay Round compliance
+(1)
+ Required determination; adjustment
+If the Secretary determines that expenditures under subchapters I through V of this chapter that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in 
+section 3501 of title 19
+), as in effect on 
+May 13, 2002
+, will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed such allowable levels.
+
+
+
+
+
+
+(2)
+ Congressional notification
+Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
+
+
+
+
+
+
+ Suspension of permanent price support authority
+(a)
+ Agricultural Adjustment Act of 1938
+The following provisions of the Agricultural Adjustment Act of 1938 [
+7 U.S.C. 1281
+ et seq.] shall not be applicable to the 2002 through 2007 crops of covered commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on 
+May 13, 2002
+, through 
+December 31, 2007
+:
+(1)
+ Parts II through V of subtitle B of title III (
+7 U.S.C. 1326–135
+1) [
+7 U.S.C. 1321
+ et seq., 1331 et seq., 1341 et seq., 1351].
+
+
+
+
+(2)
+ In the case of upland cotton, section 377 (
+7 U.S.C. 1377
+).
+
+
+
+
+(3)
+ Subtitle D of title III (
+7 U.S.C. 1379a–137
+9j).
+
+
+
+
+(4)
+ Title IV (
+7 U.S.C. 1401–140
+7).
+
+
+
+
+(b)
+ Agricultural Act of 1949
+The following provisions of the Agricultural Act of 1949 [
+7 U.S.C. 1421
+ et seq.] shall not be applicable to the 2002 through 2007 crops of covered commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on 
+May 13, 2002
+, and through 
+December 31, 2007
+:
+(1)
+ Section 101 (
+7 U.S.C. 1441
+).
+
+
+
+
+(2)
+ Section 103(a) (
+7 U.S.C. 1444(a)
+).
+
+
+
+
+(3)
+ Section 105 (
+7 U.S.C. 1444b
+).
+
+
+
+
+(4)
+ Section 107 (
+7 U.S.C. 1445a
+).
+
+
+
+
+(5)
+ Section 110 (
+7 U.S.C. 1445e
+).
+
+
+
+
+(6)
+ Section 112 (
+7 U.S.C. 1445g
+).
+
+
+
+
+(7)
+ Section 115 (
+7 U.S.C. 1445k
+).
+
+
+
+
+(8)
+ Section 201 (
+7 U.S.C. 1446
+).
+
+
+
+
+(9)
+ Title III (
+7 U.S.C. 1447–144
+9).
+
+
+
+
+(10)
+ Title IV (
+7 U.S.C. 1421–143
+3d), other than sections 404, 412, and 416 (
+7 U.S.C. 1424
+, 1429, and 1431).
+
+
+
+
+(11)
+ Title V (
+7 U.S.C. 1461–146
+9).
+
+
+
+
+(12)
+ Title VI (
+7 U.S.C. 1471–147
+1j).
+
+
+
+
+(c)
+ Suspension of certain quota provisions
+The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved 
+May 26, 1941
+ (
+7 U.S.C. 1330
+ and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2002 through 2007.
+
+
+
+
+ Repealed. 
+ Study
+ Assignment of payments
+The provisions of 
+ Equitable relief from ineligibility for loans, payments, or other benefits
+(a)
+ Definitions
+In this section:
+(1)
+ Agricultural commodity
+The term “agricultural commodity” means any agricultural commodity, food, feed, fiber, or livestock that is subject to a covered program.
+
+
+
+
+
+
+(2)
+ Covered program
+(A)
+ In general
+The term “covered program” means—
+(i)
+ a program administered by the Secretary under which price or income support, or production or market loss assistance, is provided to producers of agricultural commodities; and
+
+
+
+
+(ii)
+ a conservation program administered by the Secretary.
+
+
+
+
+
+
+(B)
+ Exclusions
+The term “covered program” does not include—
+(i)
+ an agricultural credit program carried out under the Consolidated Farm and Rural Development Act (
+7 U.S.C. 1921
+ et seq.); or
+
+
+
+
+(ii)
+ the crop insurance program carried out under the Federal Crop Insurance Act (
+7 U.S.C. 1501
+ et seq.).
+
+
+
+
+
+
+
+
+(3)
+ Participant
+The term “participant” means a participant in a covered program.
+
+
+
+
+
+
+(4)
+ State Conservationist
+The term “State Conservationist” means the State Conservationist with respect to a program administered by the Natural Resources Conservation Service.
+
+
+
+
+
+
+(5)
+ State Director
+The term “State Director” means the State Executive Director of the Farm Service Agency with respect to a program administered by the Farm Service Agency.
+
+
+
+
+
+
+(b)
+ Equitable relief
+The Secretary may provide relief to any participant that is determined to be not in compliance with the requirements of a covered program, and therefore ineligible for a loan, payment, or other benefit under the covered program, if the participant—
+(1)
+ acting in good faith, relied on the action or advice of the Secretary (including any authorized representative of the Secretary) to the detriment of the participant; or
+
+
+
+
+(2)
+ failed to comply fully with the requirements of the covered program, but made a good faith effort to comply with the requirements.
+
+
+
+
+(c)
+ Forms of relief
+The Secretary may authorize a participant in a covered program to—
+(1)
+ retain loans, payments, or other benefits received under the covered program;
+
+
+
+
+(2)
+ continue to receive loans, payments, and other benefits under the covered program;
+
+
+
+
+(3)
+ continue to participate, in whole or in part, under any contract executed under the covered program;
+
+
+
+
+(4)
+ in the case of a conservation program, reenroll all or part of the land covered by the program; and
+
+
+
+
+(5)
+ receive such other equitable relief as the Secretary determines to be appropriate.
+
+
+
+
+(d)
+ Remedial action
+As a condition of receiving relief under this section, the Secretary may require the participant to take actions designed to remedy any failure to comply with the covered program.
+
+
+
+
+(e)
+ Equitable relief by State Directors and State Conservationists
+(1)
+ In general
+A State Director, in the case of programs administered by the State Director, and the State Conservationist, in the case of programs administered by the State Conservationist, may grant relief to a participant in accordance with subsections (b) through (d) of this section if—
+(A)
+ the amount of loans, payments, and benefits for which relief will be provided to the participant under this subsection is less than $20,000;
+
+
+
+
+(B)
+ the total amount of loans, payments, and benefits for which relief has been previously provided to the participant under this subsection is not more than $5,000; and
+
+
+
+
+(C)
+ the total amount of loans, payments, and benefits for which relief is provided to similarly situated participants under this subsection is not more than $1,000,000, as determined by the Secretary.
+
+
+
+
+
+
+(2)
+ Consultation, approval, and reversal
+The decision by a State Director or State Conservationist to grant relief under this subsection—
+(A)
+ shall not require prior approval by the Administrator of the Farm Service Agency, the Chief of the Natural Resources Conservation Service, or any other officer or employee of the Agency or Service;
+
+
+
+
+(B)
+ shall be made only after consultation with, and the approval of, the Office of General Counsel of the Department of Agriculture; and
+
+
+
+
+(C)
+ is subject to reversal only by the Secretary (who may not delegate the reversal authority).
+
+
+
+
+
+
+(3)
+ Nonapplicability
+The authority of a State Director or State Conservationist under this subsection does not apply to the administration of—
+(A)
+ payment limitations under—
+(i)
+ sections 1001 through 1001F of the Food Security Act of 1985 (
+7 U.S.C. 1308
+ et seq.); or
+
+
+
+
+(ii)
+ a conservation program administered by the Secretary.
+
+
+
+
+
+
+(B)
+ highly erodible land and wetland conservation requirements under subtitle B or C of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3811
+ et seq.).
+
+
+
+
+
+
+(4)
+ Other authority
+The authority provided to a State Director and State Conservationist under this subsection is in addition to any other applicable authority and does not limit other authority provided by law or the Secretary.
+
+
+
+
+
+
+(f)
+ Judicial review
+A discretionary decision by the Secretary, the State Director, or the State Conservationist under this section shall be final, and shall not be subject to review under chapter 7 of title 5.
+
+
+
+
+(g)
+ Reports
+Not later than February 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes for the previous calendar year—
+(1)
+ the number of requests for equitable relief under subsections (b) and (e) of this section and the disposition of the requests; and
+
+
+
+
+(2)
+ the number of requests for equitable relief under 
+section 6998(d) of this title
+ and the disposition of the requests.
+
+
+
+
+(h)
+ Relationship to other law
+The authority provided in this section is in addition to any other authority provided in this or any other Act.
+
+
+
+
+ Tracking of benefits
+As soon as practicable after 
+ Estimates of net farm income
+ Availability of incentive payments for certain producers
+(a)
+ Incentive payments required
+Subject to subsection (b) of this section, the Secretary shall make available a total of $20,000,000 of funds of the Commodity Credit Corporation during the 2003 through 2005 crop years to provide incentive payments to producers of hard white wheat.
+
+
+
+
+(b)
+ Conditions on implementation
+The Secretary shall implement subsection (a) of this section—
+(1)
+ only with regard to production that meets minimum quality criteria; and
+
+
+
+
+(2)
+ on not more than 2,000,000 acres or the equivalent volume of production.
+
+
+
+
+(c)
+ Demand for wheat
+To be eligible to obtain an incentive payment under subsection (a) of this section, a producer shall demonstrate to the satisfaction of the Secretary that buyers and end-users are available for the wheat to be covered by the incentive payment.
+
+
+
+
+ Repealed. 
+ Producer retention of erroneously paid loan deficiency payments and marketing loan gains
+Notwithstanding any other provision of law, the Secretary and the Commodity Credit Corporation shall not require producers in Erie County, Pennsylvania, to repay loan deficiency payments and marketing loan gains erroneously paid or determined to have been earned by the Commodity Credit Corporation for certain 1998 and 1999 crops under subtitle C of title I of the Federal Agriculture Improvement and Reform Act of 1996 (
+ Implementation funding and information management
+(a)
+ Additional funds for administrative costs
+(1)
+ In general
+The Secretary of Agriculture, acting through the Farm Service Agency, may use not more than $55,000,000 of funds of the Commodity Credit Corporation to cover administrative costs associated with the implementation of title I and the amendments made by that title.
+
+
+
+
+
+
+(2)
+ Availability
+The funds referred to in paragraph (1) shall remain available to the Secretary until expended.
+
+
+
+
+
+
+(3)
+ Set-aside
+Of the amount specified in paragraph (1), the Secretary shall use not less than $5,000,000, but not more than $8,000,000, to carry out subsection (b) of this section.
+
+
+
+
+
+
+(b)
+ Information management
+(1)
+ Development of system
+The Secretary of Agriculture shall develop a comprehensive information management system, using appropriate technologies, to be used in implementing the programs administered by the Federal Crop Insurance Corporation and the Farm Service Agency.
+
+
+
+
+
+
+(2)
+ Elements
+The information management system developed under this subsection shall be designed to—
+(A)
+ improve access by agricultural producers to programs described in paragraph (1);
+
+
+
+
+(B)
+ improve and protect the integrity of the information collected;
+
+
+
+
+(C)
+ meet the needs of the agencies that require the data in the administration of their programs;
+
+
+
+
+(D)
+ improve the timeliness of the collection of the information;
+
+
+
+
+(E)
+ contribute to the elimination of duplication of information collection;
+
+
+
+
+(F)
+ lower the overall cost to the Department of Agriculture for information collection; and
+
+
+
+
+(G)
+ achieve such other goals as the Secretary considers appropriate.
+
+
+
+
+
+
+(3)
+ Reconciliation of current information management
+The Secretary shall ensure that all current information of the Federal Crop Insurance Corporation and the Farm Service Agency is combined, reconciled, redefined, and reformatted in such a manner so that the agencies can use the common information management system developed under this subsection.
+
+
+
+
+
+
+(4)
+ Assistance for development of system
+The Secretary shall enter into an agreement or contract with a non-Federal entity to assist the Secretary in the development of the information management system. The Secretary shall give preference in entering into an agreement or contract to entities that have—
+(A)
+ prior experience with the information and management systems of the Federal Crop Insurance Corporation; and
+
+
+
+
+(B)
+ collaborated with the Corporation in the development of the identification procedures required by 
+section 1515(f) of this title
+.
+
+
+
+
+
+
+(5)
+ Use
+The information collected using the information management system developed under this subsection may be made available to—
+(A)
+ any Federal agency that requires the information to carry out the functions of the agency; and
+
+
+
+
+(B)
+ any approved insurance provider, as defined in 
+section 1502(b) of this title
+, with respect to producers insured by the approved insurance provider.
+
+
+
+
+
+
+(6)
+ Relation to other activities
+This subsection shall not interfere with, or delay, existing agreements or requests for proposals of the Federal Crop Insurance Corporation or the Farm Service Agency regarding the information management activities known as data mining or data warehousing.
+
+
+
+
+
+
+(c)
+ Authorization of appropriations
+In addition to amounts made available under subsection (a)(3) of this section, there are authorized to be appropriated such sums as are necessary to carry out subsection (b) of this section for each of fiscal years 2003 through 2008.
+
+
+
+

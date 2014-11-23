@@ -1,0 +1,866 @@
+
+Chapter 21
+DEPARTMENT OF DEFENSE INTELLIGENCE MATTERS
+ Funds for foreign cryptologic support
+(a)
+ The Secretary of Defense may use appropriated funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.
+
+
+(b)
+ The Secretary of Defense may use funds other than appropriated funds to pay for the expenses of arrangements with foreign countries for cryptologic support without regard for the provisions of law relating to the expenditure of United States Government funds, except that—
+(1)
+ no such funds may be expended, in whole or in part, by or for the benefit of the Department of Defense for a purpose for which Congress had previously denied funds; and
+
+
+
+
+(2)
+ proceeds from the sale of cryptologic items may be used only to purchase replacement items similar to the items that are sold; and
+
+
+
+
+(3)
+ the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
+
+
+
+
+(c)
+ Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (
+50 U.S.C. 413
+ et seq.).
+1
+1
+ See References in Text note below.
+ Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
+
+
+ Use of funds for certain incidental purposes
+(a)
+ 
+Counterintelligence Official Reception and Representation Expenses
+.—
+The Secretary of Defense may use funds available to the Department of Defense for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Department of Defense for consultation on counterintelligence matters.
+
+
+(b)
+ 
+Promotional Items for Recruitment Purposes
+.—
+The Secretary of Defense may use funds available for an intelligence element of the Department of Defense to purchase promotional items of nominal value for use in the recruitment of individuals for employment by that element.
+
+
+ Authority to use proceeds from counterintelligence operations of the military departments or the Defense Intelligence Agency
+(a)
+ The Secretary of Defense may authorize, without regard to the provisions of 
+section 3302 of title 31
+, use of proceeds from counterintelligence operations conducted by components of the military departments or the Defense Intelligence Agency to offset necessary and reasonable expenses, not otherwise prohibited by law, incurred in such operations, and to make exceptional performance awards to personnel involved in such operations, if use of appropriated funds to meet such expenses or to make such awards would not be practicable.
+
+
+(b)
+ As soon as the net proceeds from such counterintelligence operations are no longer necessary for the conduct of those operations, such proceeds shall be deposited into the Treasury as miscellaneous receipts.
+
+
+(c)
+ The Secretary of Defense shall establish policies and procedures to govern acquisition, use, management, and disposition of proceeds from counterintelligence operations conducted by components of the military departments or the Defense Intelligence Agency, including effective internal systems of accounting and administrative controls.
+
+
+ Disclosure of organizational and personnel information: exemption for specified intelligence agencies
+(a)
+ 
+Exemption From Disclosure
+.—
+Except as required by the President or as provided in subsection (c), no provision of law shall be construed to require the disclosure of—
+(1)
+ the organization or any function of an organization of the Department of Defense named in subsection (b); or
+
+
+
+
+(2)
+ the number of persons employed by or assigned or detailed to any such organization or the name, official title, occupational series, grade, or salary of any such person.
+
+
+
+
+(b)
+ 
+Covered Organizations
+.—
+This section applies to the following organizations of the Department of Defense:
+(1)
+ The Defense Intelligence Agency.
+
+
+
+
+(2)
+ The National Reconnaissance Office.
+
+
+
+
+(3)
+ The National Geospatial-Intelligence Agency.
+
+
+
+
+(c)
+ 
+Provision of Information to Congress
+.—
+Subsection (a) does not apply with respect to the provision of information to Congress.
+
+
+“(a)
+ 
+In General
+.—
+Notwithstanding 
+section 552a(e)(3) of title 5
+, United States Code, intelligence personnel of the Department of Defense who are authorized by the Secretary of Defense to collect intelligence from human sources shall not be required, when making an initial assessment contact outside the United States, to give notice of governmental affiliation to potential sources who are United States persons.
+
+
+“(b)
+ 
+Records
+.—
+Records concerning such contacts shall be maintained by the Department of Defense and made available upon request to the appropriate committees of the Congress in accordance with applicable security procedures. Such records shall include for each such contact an explanation of why notice of government affiliation could not reasonably be provided, the nature of the information obtained from the United States person as a result of the contact, and whether additional contacts resulted with the person concerned.
+
+
+“(c)
+ 
+Definitions
+.—
+For the purposes of this section—
+“(1)
+ the term ‘United States’ includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States; and
+
+
+
+
+“(2)
+ the term ‘United States person’ means any citizen, national, or permanent resident alien of the United States.”
+
+
+
+
+ Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies
+(a)
+ 
+Prohibition
+.—
+Except with the written permission of both the Secretary of Defense and the Director of National Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
+(1)
+ The words “Defense Intelligence Agency”, the initials “DIA”, or the seal of the Defense Intelligence Agency.
+
+
+
+
+(2)
+ The words “National Reconnaissance Office”, the initials “NRO”, or the seal of the National Reconnaissance Office.
+
+
+
+
+(3)
+ The words “National Imagery and Mapping Agency”, the initials “NIMA”, or the seal of the National Imagery and Mapping Agency.
+
+
+
+
+(4)
+ The words “Defense Mapping Agency”, the initials “DMA”, or the seal of the Defense Mapping Agency.
+
+
+
+
+(5)
+ The words “National Geospatial-Intelligence Agency”, the initials “NGA,” or the seal of the National Geospatial-Intelligence Agency.
+
+
+
+
+(b)
+ 
+Authority To Enjoin Violations
+.—
+Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+
+
+ Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
+(a)
+ ISR 
+Integration Council
+.—
+(1)
+ The Under Secretary of Defense for Intelligence shall establish an Intelligence, Surveillance, and Reconnaissance Integration Council—
+(A)
+ to assist the Under Secretary with respect to matters relating to the integration of intelligence, surveillance, and reconnaissance capabilities, and coordination of related developmental activities, of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands; and
+
+
+
+
+(B)
+ otherwise to provide a means to facilitate the integration of such capabilities and the coordination of such developmental activities.
+
+
+
+
+
+
+(2)
+ The Council shall be composed of—
+(A)
+ the senior intelligence officers of the armed forces and the United States Special Operations Command;
+
+
+
+
+(B)
+ the Director of Operations of the Joint Staff; and
+
+
+
+
+(C)
+ the directors of the intelligence agencies of the Department of Defense.
+
+
+
+
+
+
+(3)
+ The Under Secretary of Defense for Intelligence shall invite the participation of the Director of National Intelligence (or that Director’s representative) in the proceedings of the Council.
+
+
+
+
+(4)
+ Each Secretary of a military department may designate an officer or employee of such military department to attend the proceedings of the Council as a representative of such military department.
+
+
+
+
+(b)
+ ISR 
+Integration Roadmap
+.—
+(1)
+ The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
+
+
+
+
+(2)
+ The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.
+
+
+
+
+“(a)
+ 
+Findings
+.—
+Congress makes the following findings:
+“(1)
+ As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned.
+
+
+
+
+“(2)
+ Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
+
+
+
+
+“(3)
+ A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort.
+
+
+
+
+“(4)
+ The current funding structure of a National Intelligence Program (NIP) and a Military Intelligence Program (MIP) may not be the best approach for supporting the development of an intelligence, surveillance, and reconnaissance structure that is integrated to meet the national security requirements of the United States in the 21st century.
+
+
+
+
+“(5)
+ The position of Under Secretary of Defense for Intelligence was established in 2002 by 
+Public Law 107–314
+ [see 
+10 U.S.C. 137
+] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements.
+
+
+
+
+“(b)
+ 
+Goal
+.—
+It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs.”
+
+
+ Conflict Records Research Center
+(a)
+ 
+Center Authorized
+.—
+The Secretary of Defense may establish a center to be known as the “Conflict Records Research Center” (in this section referred to as the “Center”).
+
+
+(b)
+ 
+Purposes
+.—
+The purposes of the Center shall be the following:
+(1)
+ To establish a digital research database, including translations, and to facilitate research and analysis of records captured from countries, organizations, and individuals, now or once hostile to the United States, with rigid adherence to academic freedom and integrity.
+
+
+
+
+(2)
+ Consistent with the protection of national security information, personally identifiable information, and intelligence sources and methods, to make a significant portion of these records available to researchers as quickly and responsibly as possible while taking into account the integrity of the academic process and risks to innocents or third parties.
+
+
+
+
+(3)
+ To conduct and disseminate research and analysis to increase the understanding of factors related to international relations, counterterrorism, and conventional and unconventional warfare and, ultimately, enhance national security.
+
+
+
+
+(4)
+ To collaborate with members of academic and broad national security communities, both domestic and international, on research, conferences, seminars, and other information exchanges to identify topics of importance for the leadership of the United States Government and the scholarly community.
+
+
+
+
+(c)
+ 
+Concurrence of the Director of National Intelligence
+.—
+The Secretary of Defense shall seek the concurrence of the Director of National Intelligence to the extent the efforts and activities of the Center involve the entities referred to in subsection (b)(4).
+
+
+(d)
+ 
+Support From Other United States Government Departments or Agencies
+.—
+The head of any non-Department of Defense department or agency of the United States Government may—
+(1)
+ provide to the Secretary of Defense services, including personnel support, to support the operations of the Center; and
+
+
+
+
+(2)
+ transfer funds to the Secretary of Defense to support the operations of the Center.
+
+
+
+
+(e)
+ 
+Acceptance of Gifts and Donations
+.—
+(1)
+ Subject to paragraph (3), the Secretary of Defense may accept from any source specified in paragraph (2) any gift or donation for purposes of defraying the costs or enhancing the operations of the Center.
+
+
+
+
+(2)
+ The sources specified in this paragraph are the following:
+(A)
+ The government of a State or a political subdivision of a State.
+
+
+
+
+(B)
+ The government of a foreign country.
+
+
+
+
+(C)
+ A foundation or other charitable organization, including a foundation or charitable organization that is organized or operates under the laws of a foreign country.
+
+
+
+
+(D)
+ Any source in the private sector of the United States or a foreign country.
+
+
+
+
+
+
+(3)
+ The Secretary may not accept a gift or donation under this subsection if acceptance of the gift or donation would compromise or appear to compromise—
+(A)
+ the ability of the Department of Defense, any employee of the Department, or any member of the armed forces to carry out the responsibility or duty of the Department in a fair and objective manner; or
+
+
+
+
+(B)
+ the integrity of any program of the Department or of any person involved in such a program.
+
+
+
+
+
+
+(4)
+ The Secretary shall provide written guidance setting forth the criteria to be used in determining the applicability of paragraph (3) to any proposed gift or donation under this subsection.
+
+
+
+
+(f)
+ 
+Crediting of Funds Transferred or Accepted
+.—
+Funds transferred to or accepted by the Secretary of Defense under this section shall be credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
+
+
+(g)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “captured record” means a document, audio file, video file, or other material captured during combat operations from countries, organizations, or individuals, now or once hostile to the United States.
+
+
+
+
+(2)
+ The term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
+
+
+
+
+ Defense industrial security
+(a)
+ 
+Responsibility for Defense Industrial Security
+.—
+The Secretary of Defense shall be responsible for the protection of classified information disclosed to contractors of the Department of Defense.
+
+
+(b)
+ 
+Consistency With Executive Orders and Directives
+.—
+The Secretary shall carry out the responsibility assigned under subsection (a) in a manner consistent with Executive Order 12829 (or any successor order to such executive order) and consistent with policies relating to the National Industrial Security Program (or any successor to such program).
+
+
+(c)
+ 
+Performance of Industrial Security Functions for Other Agencies
+.—
+The Secretary may perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
+
+
+(d)
+ 
+Regulations and Policy Guidance
+.—
+The Secretary shall prescribe, and from time to time revise, such regulations and policy guidance as are necessary to ensure the protection of classified information disclosed to contractors of the Department of Defense.
+
+
+(e)
+ 
+Dedication of Resources
+.—
+The Secretary shall ensure that sufficient resources are provided to staff, train, and support such personnel as are necessary to fully protect classified information disclosed to contractors of the Department of Defense.
+
+
+(f)
+ 
+Biennial Report
+.—
+The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President’s budget is submitted pursuant to 
+section 1105(a) of title 31
+ in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
+(1)
+ The workforce responsible for carrying out the requirements of this section, including the number and experience of such workforce; training in the performance of industrial security functions; performance metrics; and resulting assessment of overall quality.
+
+
+
+
+(2)
+ A description of funds authorized, appropriated, or reprogrammed to carry out the requirements of this section, the budget execution of such funds, and the adequacy of budgets provided for performing such purpose.
+
+
+
+
+(3)
+ Statistics on the number of contractors handling classified information of the Department of Defense, and the percentage of such contractors who are subject to foreign ownership, control, or influence.
+
+
+
+
+(4)
+ Statistics on the number of violations identified, enforcement actions taken, and the percentage of such violations occurring at facilities of contractors subject to foreign ownership, control, or influence.
+
+
+
+
+(5)
+ An assessment of whether major contractors implementing the program have adequate enforcement programs and have trained their employees adequately in the requirements of the program.
+
+
+
+
+(6)
+ Trend data on attempts to compromise classified information disclosed to contractors of the Department of Defense to the extent that such data are available.
+
+
+
+
+“(a)
+ 
+Requirement
+.—
+The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
+
+
+“(b)
+ 
+Covered Entity
+.—
+A covered entity under this section is an entity—
+“(1)
+ to which the Department of Defense has granted a facility clearance; and
+
+
+
+
+“(2)
+ that is not subject to foreign ownership control or influence mitigation measures.
+
+
+
+
+“(c)
+ 
+Guidance
+.—
+The Secretary of Defense shall issue guidance, including appropriate compliance mechanisms, to implement the requirement in subsection (a). To the extent determined appropriate by the Secretary, the guidance shall require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
+
+
+“(d)
+ 
+Report
+.—
+Not later than 270 days after the date of the enactment of this Act [
+Jan. 7, 2011
+], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the plan developed pursuant to subsection (a) and the guidance issued pursuant to subsection (c). The report shall specifically address the rationale for the Secretary’s decision on whether or not to require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.”
+
+
+ Appropriations for Defense intelligence elements: accounts for transfers; transfer authority
+(a)
+ 
+Accounts for Appropriations for Defense Intelligence Elements
+.—
+The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to Section 
+1
+1
+ So in original. Probably should not be capitalized.
+ 102A of the National Security Act of 1947 (
+50 U.S.C. 403–1
+),
+2
+2
+ See References in Text note below.
+ and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
+
+
+(b)
+ 
+Recordation of Transfers
+.—
+Transfers made pursuant to subsection (a) shall be recorded as expenditure transfers.
+
+
+(c)
+ 
+Availability of Funds
+.—
+Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the act making the appropriation.
+
+
+(d)
+ 
+Obligation and Expenditure of Funds
+.—
+Unless otherwise specifically authorized by law, funds transferred pursuant to subsection (a) shall only be obligated and expended in accordance with chapter 15 of title 31 and all other applicable provisions of law.
+
+
+(e)
+ 
+Defense Intelligence Element Defined
+.—
+In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 (
+50 U.S.C. 401a(4)
+).
+2
+
+
+ Authority to engage in commercial activities as security for intelligence collection activities
+(a)
+ 
+Authority
+.—
+The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after 
+December 31, 2015
+.
+
+
+(b)
+ 
+Interagency Coordination and Support
+.—
+Any such activity shall—
+(1)
+ be coordinated with, and (where appropriate) be supported by, the Director of the Central Intelligence Agency; and
+
+
+
+
+(2)
+ to the extent the activity takes place within the United States, be coordinated with, and (where appropriate) be supported by, the Director of the Federal Bureau of Investigation.
+
+
+
+
+(c)
+ 
+Definitions
+.—
+In this subchapter:
+(1)
+ The term “commercial activities” means activities that are conducted in a manner consistent with prevailing commercial practices and includes—
+(A)
+ the acquisition, use, sale, storage and disposal of goods and services;
+
+
+
+
+(B)
+ entering into employment contracts and leases and other agreements for real and personal property;
+
+
+
+
+(C)
+ depositing funds into and withdrawing funds from domestic and foreign commercial business or financial institutions;
+
+
+
+
+(D)
+ acquiring licenses, registrations, permits, and insurance; and
+
+
+
+
+(E)
+ establishing corporations, partnerships, and other legal entities.
+
+
+
+
+
+
+(2)
+ The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
+
+
+
+
+ Use, disposition, and auditing of funds
+(a)
+ 
+Use of Funds
+.—
+Funds generated by a commercial activity authorized pursuant to this subchapter may be used to offset necessary and reasonable expenses arising from that activity. Use of such funds for that purpose shall be kept to the minimum necessary to conduct the activity concerned in a secure manner. Any funds generated by the activity in excess of those required for that purpose shall be deposited, as often as may be practicable, into the Treasury as miscellaneous receipts.
+
+
+(b)
+ 
+Audits
+.—
+(1)
+ The Secretary of Defense shall assign an organization within the Department of Defense to have auditing responsibility with respect to activities authorized under this subchapter.
+
+
+
+
+(2)
+ That organization shall audit the use and disposition of funds generated by any commercial activity authorized under this subchapter not less often than annually. The results of all such audits shall be promptly reported to the congressional defense committees and the congressional intelligence committees (as defined in 
+section 437(c) of this title
+).
+
+
+
+
+ Relationship with other Federal laws
+(a)
+ 
+In General
+.—
+Except as provided by subsection (b), a commercial activity conducted pursuant to this subchapter shall be carried out in accordance with applicable Federal law.
+
+
+(b)
+ 
+Authorization of Waivers When Necessary to Maintain Security
+.—
+(1)
+ If the Secretary of Defense determines, in connection with a commercial activity authorized pursuant to 
+section 431 of this title
+, that compliance with certain Federal laws or regulations pertaining to the management and administration of Federal agencies would create an unacceptable risk of compromise of an authorized intelligence activity, the Secretary may, to the extent necessary to prevent such compromise, waive compliance with such laws or regulations.
+
+
+
+
+(2)
+ Any determination and waiver by the Secretary under paragraph (1) shall be made in writing and shall include a specification of the laws and regulations for which compliance by the commercial activity concerned is not required consistent with this section.
+
+
+
+
+(3)
+ The authority of the Secretary under paragraph (1) may be delegated only to the Deputy Secretary of Defense, an Under Secretary of Defense, an Assistant Secretary of Defense, or a Secretary of a military department.
+
+
+
+
+(c)
+ 
+Federal Laws and Regulations
+.—
+For purposes of this section, Federal laws and regulations pertaining to the management and administration of Federal agencies are only those Federal laws and regulations pertaining to the following:
+(1)
+ The receipt and use of appropriated and nonappropriated funds.
+
+
+
+
+(2)
+ The acquisition or management of property or services.
+
+
+
+
+(3)
+ Information disclosure, retention, and management.
+
+
+
+
+(4)
+ The employment of personnel.
+
+
+
+
+(5)
+ Payments for travel and housing.
+
+
+
+
+(6)
+ The establishment of legal entities or government instrumentalities.
+
+
+
+
+(7)
+ Foreign trade or financial transaction restrictions that would reveal the commercial activity as an activity of the United States Government.
+
+
+
+
+ Reservation of defenses and immunities
+The submission to judicial proceedings in a State or other legal jurisdiction, in connection with a commercial activity undertaken pursuant to this subchapter, shall not constitute a waiver of the defenses and immunities of the United States.
+ Limitations
+(a)
+ 
+Lawful Activities
+.—
+Nothing in this subchapter authorizes the conduct of any intelligence activity that is not otherwise authorized by law or Executive order.
+
+
+(b)
+ 
+Domestic Activities
+.—
+Personnel conducting commercial activity authorized by this subchapter may only engage in those activities in the United States to the extent necessary to support intelligence activities abroad.
+
+
+(c)
+ 
+Providing Goods and Services to the Department of Defense
+.—
+Commercial activity may not be undertaken within the United States for the purpose of providing goods and services to the Department of Defense, other than as may be necessary to provide security for the activities subject to this subchapter.
+
+
+(d)
+ 
+Notice to United States Persons
+.—
+(1)
+ In carrying out a commercial activity authorized under this subchapter, the Secretary of Defense may not permit an entity engaged in such activity to employ a United States person in an operational, managerial, or supervisory position, and may not assign or detail a United States person to perform operational, managerial, or supervisory duties for such an entity, unless that person is informed in advance of the intelligence security purpose of that activity.
+
+
+
+
+(2)
+ In this subsection, the term “United States person” means an individual who is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.
+
+
+
+
+ Regulations
+ Congressional oversight
+(a)
+ 
+Proposed Regulations
+.—
+Copies of regulations proposed to be prescribed under 
+section 436 of this title
+ (including any proposed revision to such regulations) shall be submitted to congressional defense committees and the congressional intelligence committees not less than 30 days before they take effect.
+
+
+(b)
+ 
+Current Information
+.—
+The Secretary of Defense shall ensure that congressional defense committees and the congressional intelligence committees are kept fully and currently informed of actions taken pursuant to this subchapter, including any significant anticipated activity to be authorized pursuant to this subchapter.
+
+
+(c)
+ 
+Congressional Intelligence Committees Defined
+.—
+In this section, the term “congressional intelligence committees” has the meaning given the term in section 3 of the National Security Act of 1947 (
+50 U.S.C. 3003
+).
+
+

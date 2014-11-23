@@ -1,0 +1,5939 @@
+
+Chapter 58
+ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM
+ Definitions
+(a)
+ For purposes of subchapters I through VIII of this chapter:
+(1)
+ The term “agricultural commodity” means—
+(A)
+ any agricultural commodity planted and produced in a State by annual tilling of the soil, including tilling by one-trip planters; or
+
+
+
+
+(B)
+ sugarcane planted and produced in a State.
+
+
+
+
+
+
+(2)
+ 
+Beginning farmer or rancher
+.—
+The term “beginning farmer or rancher” has the meaning given the term in 
+section 1991(a)(8) of title 7
+.
+
+
+
+
+(3)
+ 
+Conservation plan
+.—
+The term “conservation plan” means the document that—
+(A)
+ applies to highly erodible cropland;
+
+
+
+
+(B)
+ describes the conservation system applicable to the highly erodible cropland and describes the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule; and
+
+
+
+
+(C)
+ is approved by the local soil conservation district, in consultation with the local committees established under 
+section 590h(b)(5) of this title
+ and the Secretary, or by the Secretary.
+
+
+
+
+
+
+(4)
+ 
+Conservation system
+.—
+The term “conservation system” means a combination of 1 or more conservation measures or management practices that—
+(A)
+ are based on local resource conditions, available conservation technology, and the standards and guidelines contained in the Natural Resources Conservation Service field office technical guides; and
+
+
+
+
+(B)
+ are designed to achieve, in a cost effective and technically practicable manner, a substantial reduction in soil erosion or a substantial improvement in soil conditions on a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
+
+
+
+
+
+
+(5)
+ The term “conservation district” means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a “conservation district”, “soil conservation district”, “soil and water conservation district”, “resource conservation district”, “natural resource district”, “land conservation committee”, or a similar name.
+
+
+
+
+(6)
+ The term “cost sharing payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland under the provisions of 
+section 3834(b) of this title
+.
+
+
+
+
+(7)
+(A)
+ The term “converted wetland” means wetland that has been drained, dredged, filled, leveled, or otherwise manipulated (including any activity that results in impairing or reducing the flow, circulation, or reach of water) for the purpose or to have the effect of making the production of an agricultural commodity possible if—
+(i)
+ such production would not have been possible but for such action; and
+
+
+
+
+(ii)
+ before such action—
+(I)
+ such land was wetland; and
+
+
+
+
+(II)
+ such land was neither highly erodible land nor highly erodible cropland.
+
+
+
+
+
+
+
+
+(B)
+ Wetland shall not be considered converted wetland if production of an agricultural commodity on such land during a crop year—
+(i)
+ is possible as a result of a natural condition, such as drought; and
+
+
+
+
+(ii)
+ is not assisted by an action of the producer that destroys natural wetland characteristics.
+
+
+
+
+
+
+
+
+(8)
+ 
+Farm
+.—
+The term “farm” means a farm that—
+(A)
+ is under the general control of one operator;
+
+
+
+
+(B)
+ has one or more owners;
+
+
+
+
+(C)
+ consists of one or more tracts of land, whether or not contiguous;
+
+
+
+
+(D)
+ is located within a county or region, as determined by the Secretary; and
+
+
+
+
+(E)
+ may contain lands that are incidental to the production of perennial crops, including conserving uses, forestry, and livestock, as determined by the Secretary.
+
+
+
+
+
+
+(9)
+ 
+Field
+.—
+The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after 
+December 23, 1985
+, and that is not exempt under 
+section 3812 of this title
+, shall be considered as part of the field in which the land was included on 
+December 23, 1985
+, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
+
+
+
+
+(10)
+ The term “highly erodible cropland” means highly erodible land that is in cropland use, as determined by the Secretary.
+
+
+
+
+(11)
+(A)
+ The term “highly erodible land” means land—
+(i)
+ that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on 
+December 23, 1985
+; or
+
+
+
+
+(ii)
+ that has, or that if used to produce an agricultural commodity, would have an excessive average annual rate of erosion in relation to the soil loss tolerance level, as established by the Secretary, and as determined by the Secretary through application of factors from the universal soil loss equation and the wind erosion equation, including factors for climate, soil erodibility, and field slope.
+
+
+
+
+
+
+(B)
+ For purposes of this paragraph, the land capability class or rate of erosion for a field shall be that determined by the Secretary to be the predominant class or rate of erosion under regulations issued by the Secretary.
+
+
+
+
+(C)
+ 
+Equations
+.—
+Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that date except following notice and comment in a manner consistent with 
+section 553 of title 5
+.
+
+
+
+
+
+
+(12)
+ The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
+
+
+
+
+(13)
+ The term “hydrophytic vegetation” means a plant growing in—
+(A)
+ water; or
+
+
+
+
+(B)
+ a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
+
+
+
+
+
+
+(14)
+ 
+Indian tribe
+.—
+The term “Indian tribe” has the meaning given the term in 
+section 450b(e) of title 25
+.
+
+
+
+
+(15)
+ The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
+
+
+
+
+(16)
+ 
+Integrated pest management
+.—
+The term “integrated pest management” means a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.
+
+
+
+
+(17)
+ 
+Livestock
+.—
+The term “livestock” means all animals raised on farms, as determined by the Secretary.
+
+
+
+
+(18)
+ 
+Nonindustrial private forest land
+.—
+The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
+(A)
+ has existing tree cover or is suitable for growing trees; and
+
+
+
+
+(B)
+ is owned by any nonindustrial private individual, group, association, corporation, Indian tribe, or other private legal entity that has definitive decisionmaking authority over the land.
+
+
+
+
+
+
+(19)
+ 
+Person and legal entity
+.—
+For purposes of applying payment limitations under subchapter IV, the terms “person” and “legal entity” have the meanings given those terms in 
+section 1308(a) of title 7
+.
+
+
+
+
+(20)
+ The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
+
+
+
+
+(21)
+ The term “Secretary” means the Secretary of Agriculture.
+
+
+
+
+(22)
+ The term “shelterbelt” means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
+
+
+
+
+(23)
+ 
+Socially disadvantaged farmer or rancher
+.—
+The term “socially disadvantaged farmer or rancher” has the meaning given the term in 
+section 2279(e)(2) of title 7
+.
+
+
+
+
+(24)
+ The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+
+
+
+
+(25)
+ 
+Technical assistance
+.—
+The term “technical assistance” means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses. The term includes the following:
+(A)
+ Technical services provided directly to farmers, ranchers, and other eligible entities, such as conservation planning, technical consultation, and assistance with design and implementation of conservation practices.
+
+
+
+
+(B)
+ Technical infrastructure, including activities, processes, tools, and agency functions needed to support delivery of technical services, such as technical standards, resource inventories, training, data, technology, monitoring, and effects analyses.
+
+
+
+
+
+
+(26)
+ The term “vegetative cover” means—
+(A)
+ perennial grasses, legumes, forbs, or shrubs with an expected life span of 5 or more years; or
+
+
+
+
+(B)
+ trees.
+
+
+
+
+
+
+(27)
+ The term “wetland”, except when such term is part of the term “converted wetland”, means land that—
+(A)
+ has a predominance of hydric soils;
+
+
+
+
+(B)
+ is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions; and
+
+
+
+
+(C)
+ under normal circumstances does support a prevalence of such vegetation.
+
+
+
+
+
+For purposes of this Act, and any other Act, this term shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+
+
+
+
+(b)
+ The Secretary shall develop—
+(1)
+ criteria for the identification of hydric soils and hydrophytic vegetation; and
+
+
+
+
+(2)
+ lists of such soils and such vegetation.
+
+
+
+
+“(a)
+ 
+Issuance
+.—
+Except as otherwise provided in this title [see Tables for classification] or an amendment made by this title, not later than 90 days after the date of enactment of this Act [
+June 18, 2008
+], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
+
+
+“(b)
+ 
+Applicable Authority
+.—
+The promulgation of regulations under subsection (a) and administration of this title—
+“(1)
+ shall be carried out without regard to—
+“(A)
+ chapter 35 of title 44, United States Code (commonly known as the Paperwork Reduction Act); and
+
+
+
+
+“(B)
+ the Statement of Policy of the Secretary of Agriculture effective 
+July 24, 1971
+ (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+
+
+
+
+
+“(2)
+ may—
+“(A)
+ be promulgated with an opportunity for notice and comment; or
+
+
+
+
+“(B)
+ if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment.
+
+
+
+
+
+
+“(c)
+ 
+Congressional Review of Agency Rulemaking
+.—
+In carrying out this section, the Secretary shall use the authority provided under 
+section 808(2) of title 5
+, United States Code.”
+
+
+“(a)
+ 
+In General
+.—
+Except as otherwise provided in this title [see Tables for classification] or an amendment made by this title, not later than 90 days after the date of enactment of this Act [
+May 13, 2002
+], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
+
+
+“(b)
+ 
+Applicable Authority
+.—
+The promulgation of regulations under subsection (a) and administration of this title—
+“(1)
+ shall—
+“(A)
+ be carried out without regard to chapter 35 of title 44, United States Code (commonly known as the Paperwork Reduction Act); and
+
+
+
+
+“(B)
+ the Statement of Policy of the Secretary of Agriculture effective 
+July 24, 1971
+ (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+
+
+
+
+
+“(2)
+ may—
+“(A)
+ be promulgated with an opportunity for notice and comment; or
+
+
+
+
+“(B)
+ if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment.
+
+
+
+
+
+
+“(c)
+ 
+Congressional Review of Agency Rulemaking
+.—
+In carrying out this section, the Secretary shall use the authority provided under 
+section 808(2) of title 5
+, United States Code.”
+
+
+“(a)
+ 
+Applicability
+.—
+This section is applicable to activities under—
+“(1)
+ the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 [enacting sections 3865 to 3865d of this title and amending 
+section 3844 of this title
+];
+
+
+
+
+“(2)
+ the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C [§ 2201 et seq., amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title and enacting provisions set out as a note under 
+section 3839aa of this title
+];
+
+
+
+
+“(3)
+ the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 [enacting sections 3871 to 3871f of this title]; and
+
+
+
+
+“(4)
+ the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A [§ 2001 et seq., amending sections 3831, 3831b, and 3832 to 3835 of this title, repealing 
+section 3835a of this title
+, and enacting provisions set out as a note under 
+section 3831 of this title
+] and into the agricultural conservation easement program under the amendment made by section 2301.
+
+
+
+
+“(b)
+ 
+Interim Administration
+.—
+Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 [
+16 U.S.C. 3865
+ et seq.], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [
+16 U.S.C. 3871
+ et seq.], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary [of Agriculture] shall use the regulations in existence as of the day before the date of enactment of this Act [
+Feb. 7, 2014
+] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle [subtitle H (§ 2701et seq.) of title II of 
+Pub. L. 113–79
+, see Tables for classification], to the extent that the terms and conditions of such regulations are consistent with—
+“(1)
+ the provisions of the agricultural conservation easement program and the regional conservation partnership program; and
+
+
+
+
+“(2)
+ the amendments to the environmental quality incentives program and the conservation reserve program made by this title.
+
+
+
+
+“(c)
+ 
+Funding
+.—
+The Secretary may only use funds authorized in this title [see Tables for classification] or in the amendments made by this title for the specific programs listed in subsection (b), including any restrictions on the use of those funds, for the purposes identified in paragraphs (1) and (2) of subsection (b).
+
+
+“(d)
+ 
+Termination of Authority
+.—
+The authority of the Secretary to carry out subsection (b) shall terminate on the date that is 270 days after the date of enactment of this Act.
+
+
+“(e)
+ 
+Permanent Administration
+.—
+Effective beginning on the termination date described in subsection (d), the Secretary shall provide technical assistance, financial assistance, and easement enrollment in accordance with any final regulations that the Secretary considers necessary to carry out this title and the amendments made by this title.”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of Agriculture shall develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of—
+“(1)
+ eliminating redundancy;
+
+
+
+
+“(2)
+ streamlining program delivery; and
+
+
+
+
+“(3)
+ improving services provided to agricultural producers (including the reevaluation of the provision of technical assistance).
+
+
+
+
+“(b)
+ 
+Report
+.—
+Not later than 
+December 31, 2005
+, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes—
+“(1)
+ the plan developed under subsection (a); and
+
+
+
+
+“(2)
+ the means by which the Secretary intends to achieve the goals described in subsection (a).”
+
+
+
+
+“(a)
+ 
+Assistance
+.—
+The Secretary [of the Army] may provide technical assistance to the Secretary of Agriculture for use in carrying out the Conservation Corridor Demonstration Program established under subtitle G of title II of the Farm Security and Rural Investment Act of 2002 (
+16 U.S.C. 3801
+ note; 
+116 Stat. 275
+).
+
+
+“(b)
+ 
+Coordination and Integration
+.—
+In carrying out water resources projects in the States on the Delmarva Peninsula, the Secretary [of the Army] shall coordinate and integrate those projects, to the maximum extent practicable, with any activities carried out to implement a conservation corridor plan approved by the Secretary of Agriculture under section 2602 of the Farm Security and Rural Investment Act of 2002 (
+16 U.S.C. 3801
+ note; 
+116 Stat. 275
+).”
+
+
+“(a)
+ 
+Establishment
+.—
+The Secretary shall carry out a demonstration program, to be known as the ‘Conservation Corridor Demonstration Program’, under which any of the States of Delaware, Maryland, and Virginia, a local government of any 1 of those States with jurisdiction over land on the Delmarva Peninsula, or a combination of those States, may submit a conservation corridor plan to integrate agriculture and forestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs.
+
+
+“(b)
+ Submission of Conservation Corridor Plan.—
+“(1)
+ 
+Submission and proposal
+.—
+To be eligible to participate in the demonstration program, a State, local government, or combination of States referred to in subsection (a) shall—
+“(A)
+ submit to the Secretary a conservation corridor plan that—
+“(i)
+ proposes specific criteria and commitment of resources in the geographic region designated in the plan; and
+
+
+
+
+“(ii)
+ describes how the linkage of Federal, State, and local resources will improve—
+     “(I)
+ the economic viability of agriculture; and
+
+
+
+
+     “(II)
+ the environmental integrity of the watersheds in the Delmarva Peninsula; and
+
+
+
+
+
+
+
+
+“(B)
+ demonstrate to the Secretary that, in developing the plan, the State, local government, or combination of States has solicited and taken into account the views of local residents.
+
+
+
+
+
+
+“(2)
+ 
+Draft memorandum of agreement
+.—
+If the conservation corridor plan is submitted by more than 1 State, the plan shall provide a draft memorandum of agreement among entities in each submitting State.
+
+
+
+
+“(c)
+ 
+Review of Plan
+.—
+Not later than 90 days after the date of receipt of a conservation corridor plan, the Secretary—
+“(1)
+ shall review the plan; and
+
+
+
+
+“(2)
+ may approve the plan for implementation under this subtitle if the Secretary determines that the plan meets the requirements specified in subsection (d).
+
+
+
+
+“(d)
+ 
+Criteria for Approval
+.—
+The Secretary may approve a conservation corridor plan only if, as determined by the Secretary, the plan provides for each of the following:
+“(1)
+ 
+Voluntary actions
+.—
+Actions taken under the plan—
+“(A)
+ are voluntary;
+
+
+
+
+“(B)
+ require the consent of willing landowners; and
+
+
+
+
+“(C)
+ provide a mechanism by which the landowner may withdraw such consent without adverse consequences other than the loss of any payments to the landowner conditioned on continued enrollment of the land.
+
+
+
+
+
+
+“(2)
+ 
+Land of high conservation value
+.—
+Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the plan are of exceptionally high conservation value, as determined by the Secretary.
+
+
+
+
+“(3)
+ 
+No effect on unenrolled land
+.—
+The enrollment of land in a conservation program incorporated through the plan will neither—
+“(A)
+ adversely affect any adjacent land not so enrolled; nor
+
+
+
+
+“(B)
+ create any buffer zone on such unenrolled land.
+
+
+
+
+
+
+“(4)
+ 
+Greater benefits
+.—
+The conservation programs incorporated through the plan provide benefits greater than the benefits that would likely be achieved through individual application of the conservation programs.
+
+
+
+
+“(5)
+ 
+Sufficient staffing
+.—
+Staffing, considering both Federal and non-Federal resources, is sufficient to ensure success of the plan.
+
+
+
+
+“(a)
+ 
+Memorandum of Agreement
+.—
+On approval of a conservation corridor plan, the Secretary may enter into a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
+“(1)
+ guarantee specific program resources for implementation of the plan;
+
+
+
+
+“(2)
+ establish various compensation rates to the extent that the parties to the agreement consider justified; and
+
+
+
+
+“(3)
+ provide streamlined and integrated paperwork requirements.
+
+
+
+
+“(b)
+ 
+Continued Compliance With Plan Approval Criteria
+.—
+The Secretary shall terminate the memorandum of agreement entered into under subsection (a) with respect to an approved conservation corridor plan and cease the provision of resources for implementation of the plan if the Secretary determines that, in the implementation of the plan—
+“(1)
+ the State, local government, or combination of States that submitted the plan has deviated from—
+“(A)
+ the plan;
+
+
+
+
+“(B)
+ the criteria specified in section 2602(d) on which approval of the plan was conditioned; or
+
+
+
+
+“(C)
+ the cost-sharing requirements of section 2604(a) or any other condition of the plan; or
+
+
+
+
+
+
+“(2)
+ the economic viability of agriculture in the geographic region designated in the plan is being hindered.
+
+
+
+
+“(c)
+ 
+Progress Report
+.—
+At the end of the 3-year period that begins on the date on which funds are first provided with respect to a conservation corridor plan under the demonstration program, the State, local government, or combination of States that submitted the plan shall submit to the Secretary—
+“(1)
+ a report on the effectiveness of the activities carried out under the plan; and
+
+
+
+
+“(2)
+ an evaluation of the economic viability of agriculture in the geographic region designated in the plan.
+
+
+
+
+“(d)
+ 
+Duration
+.—
+The demonstration program shall be carried out for not less than 3 nor more than 5 years beginning on the date on which funds are first provided under the demonstration program.
+
+
+“(a)
+ Cost Sharing.—
+“(1)
+ 
+Required non-federal share
+.—
+Subject to paragraph (2), as a condition on the approval of a conservation corridor plan, the Secretary shall require the State and local participants to contribute financial resources sufficient to cover at least 50 percent of the total cost of the activities carried out under the plan.
+
+
+
+
+“(2)
+ 
+Exception
+.—
+The Secretary may reduce the cost-sharing requirement in the case of a specific project or activity under the demonstration program on good cause and on demonstration that the project or activity is likely to achieve extraordinary natural resource benefits.
+
+
+
+
+“(b)
+ 
+Reservation of Funds
+.—
+The Secretary may consider directing funds on a priority basis to the demonstration program and to projects in areas identified by the plan.
+
+
+“(c)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated such sums as are necessary to carry out this subtitle for each of fiscal years 2002 through 2007.”
+
+
+“(a)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ 
+Eligible area
+.—
+The term ‘eligible area’ means a wetland or buffer strip adjacent to a wetland that, as determined by the Secretary—
+“(A)
+(i)
+ is used, and has a history of being used, for the cultivation of cranberries; or
+
+
+
+
+“(ii)
+ is an integral component of a cranberry-growing operation;
+
+
+
+
+
+
+“(B)
+ is located in an environmentally sensitive area.
+
+
+
+
+
+
+“(2)
+ 
+Secretary
+.—
+The term ‘Secretary’ means the Secretary of Agriculture.
+
+
+
+
+“(b)
+ 
+Program
+.—
+The Secretary shall establish a program to purchase permanent easements in eligible areas from willing sellers.
+
+
+“(c)
+ 
+Purchase Price
+.—
+The Secretary shall ensure, to the maximum extent practicable, that each easement purchased under this section is for an amount that appropriately reflects the range of values for agricultural and nonagricultural land in the region in which the eligible area subject to the easement is located (including whether that land is located in 1 or more environmentally sensitive areas, as determined by the Secretary).
+
+
+“(d)
+ 
+Authorization of Appropriations
+.—
+There is authorized to be appropriated to carry out this section $10,000,000.”
+
+
+ Program ineligibility
+(a)
+ In general
+Except as provided in 
+section 3812 of this title
+, and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominant, or designates land on which highly erodible land is predominant to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
+(1)
+ as to any commodity produced during that crop year by such person—
+(A)
+ contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act [
+7 U.S.C. 7201
+ et seq.], the Commodity Credit Corporation Charter Act (
+15 U.S.C. 714
+ et seq.), or any other Act;
+
+
+
+
+(B)
+ a farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act (
+15 U.S.C. 714b(h)
+);
+
+
+
+
+(C)
+ a disaster payment;
+
+
+
+
+(D)
+ a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (
+7 U.S.C. 1921
+ et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land; or
+
+
+
+
+(E)
+ any portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (
+7 U.S.C. 1501
+ et seq.), on the condition that if a person is determined to have committed a violation under this subsection during a crop year, ineligibility under this subparagraph shall—
+(i)
+ only apply to reinsurance years subsequent to the date of final determination of a violation, including all administrative appeals; and
+
+
+
+
+(ii)
+ not apply to the existing reinsurance year or any reinsurance year prior to the date of final determination;
+
+
+
+
+
+
+
+
+(2)
+ a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (
+15 U.S.C. 714b
+ or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
+
+
+
+
+(3)
+ during the crop year—
+(A)
+ a payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV of this chapter;
+
+
+
+
+(B)
+ a payment under any other provision of subchapter IV of this chapter;
+
+
+
+
+(C)
+ a payment under section 2201 or 2202 of this title; or
+
+
+
+
+(D)
+ a payment, loan, or other assistance under section 1003 or 1006a of this title.
+
+
+
+
+
+
+(b)
+ Highly erodible land
+The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
+
+
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of Agriculture shall conduct a pilot project to review, and modify as appropriate, the use of wind erosion factors under the highly erodible conservation requirements of subtitle B of title XII of the Food Security Act of 1985 (
+16 U.S.C. 3811
+ et seq.).
+
+
+“(b)
+ 
+Selection of Counties and Producers
+.—
+The pilot project shall be conducted for producers in those counties that—
+“(1)
+ have approximately 100 percent of their cropland determined to be highly erodible under title XII of the Act [
+16 U.S.C. 3801
+ et seq.];
+
+
+
+
+“(2)
+ have a reasonable likelihood that the use of wind erosion factors under title XII of the Act have resulted in an inequitable application of the highly erodible land requirements of title XII of the Act; and
+
+
+
+
+“(3)
+ if the use of the land classification system under section 1201(a)(9)(A) of the Act [
+16 U.S.C. 3801(a)(9)(A)
+] (as redesignated by section 301(a)(1)) may result in a more accurate delineation of the cropland.
+
+
+
+
+“(c)
+ 
+Errors in Delineation
+.—
+If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary.”
+
+
+ Exemptions
+(a)
+ Persons eligible for program benefits in connection with production or reduced production of crops on certain lands; eligibility based upon compliance with conservation plan by 
+January 1, 1995
+; minimization of documentation
+(1)
+ During the period beginning on 
+December 23, 1985
+, and ending on the later of 
+January 1, 1990
+, or the date that is 2 years after the date land on which a crop of an agricultural commodity is produced was mapped by the Soil Conservation Service for purposes of classifying such land under the land capability classification system in effect on 
+December 23, 1985
+, except as provided in paragraph (2), no person shall become ineligible under 
+section 3811 of this title
+ for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity on any land that was—
+(A)
+ cultivated to produce any of the 1981 through 1985 crops of an agricultural commodity; or
+
+
+
+
+(B)
+ set aside, diverted or otherwise not cultivated under a program administered by the Secretary for any such crops to reduce production of an agricultural commodity.
+
+
+
+
+
+
+(2)
+ Eligibility based on compliance with conservation plan
+(A)
+ In general
+
+
+
+
+
+If, as of 
+January 1, 1990
+, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until 
+January 1, 1995
+, to comply with the plan without being subject to program ineligibility.
+
+
+(B)
+ Minimization of documentation
+
+
+
+
+
+In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+
+
+(C)
+ Crop insurance
+(i)
+ Operations new to compliance
+
+
+
+
+
+Notwithstanding 
+section 3811(a) of this title
+, in the case of a person that is subject to 
+section 3811 of this title
+ for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in 
+section 3811(a)(1)(E) of this title
+ shall have 5 reinsurance years after the date on which such payments become subject to 
+section 3811 of this title
+ to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
+
+
+(ii)
+ Existing operations with prior violations
+
+
+
+
+
+Notwithstanding 
+section 3811(a) of this title
+, in the case of a person that the Secretary determines would have been in violation of 
+section 3811(a) of this title
+ if the person had continued participation in the programs requiring compliance at any time after 
+February 7, 2014
+, and is currently in violation of 
+section 3811(a) of this title
+, the person shall have 2 reinsurance years after the date on which the payments described in 
+section 3811(a)(1)(E) of this title
+ become subject to 
+section 3811 of this title
+ to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
+
+
+(iii)
+ Applicable reinsurance year
+
+
+
+
+
+Ineligibility for the payment described in 
+section 3811(a)(1)(E) of this title
+ for a violation under this subparagraph during a crop year shall—
+
+
+(I)
+ only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+
+
+
+
+(II)
+ not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
+
+
+
+
+
+
+
+
+(3)
+ Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under 
+section 3811 of this title
+.
+
+
+
+
+(4)
+ On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
+
+
+
+
+(b)
+ Persons eligible for program benefits in connection with production of certain planted crops or production of crops on highly erodible land
+No person shall become ineligible under 
+section 3811 of this title
+ for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity—
+(1)
+ planted before 
+December 23, 1985
+; or
+
+
+
+
+(2)
+ planted during any crop year beginning before 
+December 23, 1985
+.
+
+
+
+
+(c)
+ Ineligibility for loans and payments under section 3811
+No person shall become ineligible under 
+section 3811 of this title
+ for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity or the designation of land to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity (hereafter in this subsection referred to as “set aside”)—
+(1)
+ on highly erodible land in an area—
+(A)
+ within a conservation district, under a conservation system that has been approved by a conservation district after the district has determined that the conservation system is in conformity with technical standards set forth in the Soil Conservation Service technical guide for such district; or
+
+
+
+
+(B)
+ not within a conservation district, under a conservation system determined by the Secretary to be adequate for the protection of highly erodible land that has been set aside or for the production of such agricultural commodity on any highly erodible land subject to this chapter; or
+
+
+
+
+
+
+(2)
+ on highly erodible land that is planted or set aside in reliance on a determination by the Soil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
+
+
+
+
+(3)
+ on highly erodible land planted to alfalfa during each of the 1981 through 1985 crop years as part of a rotation practice approved by the Secretary, if the person has submitted a conservation plan, in which case, such person shall have until 
+June 1, 1988
+, to comply with the plan without being subject to program ineligibility under 
+section 3811 of this title
+.
+
+
+
+
+(d)
+ Program ineligibility inapplicable to pre-
+December 23, 1985
+, section 3811 loans
+Section 3811 of this title
+ shall not apply to a loan described in 
+section 3811 of this title
+ made before 
+December 23, 1985
+.
+
+
+
+
+(e)
+ Limitations on ineligibility for tenants
+If a tenant is determined to be ineligible for payments and other benefits under 
+section 3811 of this title
+, the Secretary may limit such ineligibility only to the farm which is the basis for such ineligibility determination if—
+(1)
+ the tenant has established to the satisfaction of the Secretary that—
+(A)
+ the tenant has made a good faith effort to meet the requirements of this section, including enlisting the assistance of the Secretary to obtain a reasonable conservation plan for such farm; and
+
+
+
+
+(B)
+ the landlord on the farm refuses to comply with such plan on such farm; and
+
+
+
+
+
+
+(2)
+ the Secretary determines that such lack of compliance is not a part of a scheme or device to avoid such compliance.
+
+
+
+
+
+The Secretary shall provide an annual report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the ineligibility determinations limited during the previous 12-month period under this subsection.
+
+
+(f)
+ Graduated penalties
+(1)
+ Ineligibility
+No person shall become ineligible under 
+section 3811 of this title
+ for program loans, payments, and benefits as a result of the failure of the person to actively apply a conservation plan, if the Secretary determines that the person has acted in good faith and without an intent to violate this subchapter.
+
+
+
+
+
+
+(2)
+ Eligible reviewers
+A determination of the Secretary, or a designee of the Secretary, under paragraph (1) shall be reviewed by the applicable—
+(A)
+ State Executive Director, with the technical concurrence of the State Conservationist; or
+
+
+
+
+(B)
+ district director, with the technical concurrence of the area conservationist.
+
+
+
+
+
+
+(3)
+ Period for implementation
+A person who meets the requirements of paragraph (1) shall be allowed a reasonable period of time, as determined by the Secretary, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively applying the conservation plan of the person.
+
+
+
+
+
+
+(4)
+ Penalties
+(A)
+ Application
+This paragraph applies if the Secretary determines that—
+(i)
+ a person has failed to comply with 
+section 3811 of this title
+ with respect to highly erodible cropland, and has acted in good faith and without an intent to violate 
+section 3811 of this title
+; or
+
+
+
+
+(ii)
+ the violation—
+(I)
+ is technical and minor in nature; and
+
+
+
+
+(II)
+ has a minimal effect on the erosion control purposes of the conservation plan applicable to the land on which the violation has occurred.
+
+
+
+
+
+
+
+
+(B)
+ Reduction
+If this paragraph applies under subparagraph (A), the Secretary shall, in lieu of applying the ineligibility provisions of 
+section 3811 of this title
+, reduce program benefits described in 
+section 3811 of this title
+ that the producer would otherwise be eligible to receive in a crop year by an amount commensurate with the seriousness of the violation, as determined by the Secretary.
+
+
+
+
+
+
+
+
+(5)
+ Subsequent crop years
+Any person whose benefits are reduced for any crop year under this subsection shall continue to be eligible for all of the benefits described in 
+section 3811 of this title
+ for any subsequent crop year if, prior to the beginning of the subsequent crop year, the Secretary determines that the person is actively applying a conservation plan according to the schedule specified in the plan.
+
+
+
+
+
+
+(g)
+ Preparation or revision of conservation plan
+The Secretary, in providing assistance to an individual in the preparation or revision of a conservation plan under this section, shall provide such individual with information—
+(1)
+ concerning cost effective and applicable erosion control measures that may be available to such individual to meet the requirements of this section; and
+
+
+
+
+(2)
+ concerning crop flexibility, base adjustment, and conservation assistance options that may be available to such individual to meet the requirements of this section, including the provisions of titles X, XII, and XIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (or the amendments made by such titles).
+
+
+
+
+(h)
+ Noncommercial production of agricultural commodities
+Section 3811 of this title
+ shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
+
+
+
+
+ Development and implementation of conservation plans and conservation systems
+(a)
+ Technical requirements
+In connection with the standards and guidelines contained in Natural Resources Conservation Service field office technical guides applicable to the development and use of conservation measures and management practices as part of a conservation system, the Secretary shall ensure that the standards and guidelines permit a person to use a conservation system that—
+(1)
+ is technically and economically feasible;
+
+
+
+
+(2)
+ is based on local resource conditions and available conservation technology;
+
+
+
+
+(3)
+ is cost-effective; and
+
+
+
+
+(4)
+ does not cause undue economic hardship on the person applying the conservation system under the person’s conservation plan.
+
+
+
+
+(b)
+ Measurement of erosion reduction
+For the purpose of determining whether there is a substantial reduction in soil erosion on a field containing highly erodible cropland, the measurement of erosion reduction achieved by the application of a conservation system under a person’s conservation plan shall be based on the estimated annual level of erosion at the time of the measurement compared to the estimated annual level of erosion that existed before the implementation of the conservation measures and management practices provided for in the conservation system.
+
+
+
+
+(c)
+ Residue measurement
+(1)
+ Responsibilities of the Secretary
+For the purpose of measuring the level of residue on a field, the Secretary shall—
+(A)
+ take into account any residue incorporated into the top 2 inches of soil, as well as the growing crop, in the measurement;
+
+
+
+
+(B)
+ provide technical guidelines for acceptable residue measurement methods;
+
+
+
+
+(C)
+ provide a certification system for third parties to perform residue measurements; and
+
+
+
+
+(D)
+ provide for the acceptance and use of information and data voluntarily provided by the producer regarding the field.
+
+
+
+
+
+
+(2)
+ Acceptance of producer measurements
+Annual residue measurements supplied by a producer (including measurements performed by a certified third party) shall be used by the Secretary if the Secretary determines that the measurements indicate that the residue level for the field meets the level required under the conservation plan.
+
+
+
+
+
+
+(d)
+ Certification of compliance
+(1)
+ In general
+For the purpose of determining the eligibility of a person for program benefits specified in 
+section 3811 of this title
+ at the time application is made for the benefits, the Secretary shall permit the person to certify that the person is complying with the person’s conservation plan.
+
+
+
+
+
+
+(2)
+ Status reviews
+If a person makes a certification under paragraph (1), the Secretary shall not be required to carry out a review of the status of compliance of the person with the conservation plan under which the conservation system is being applied.
+
+
+
+
+
+
+(3)
+ Revisions and modifications
+The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the same level of conservation treatment provided for by the conservation system under the person’s conservation plan is maintained. The Secretary may not revise the person’s conservation plan without the concurrence of the person.
+
+
+
+
+
+
+(4)
+ Crop insurance premium assistance
+For the purpose of determining the eligibility of a person for the payment described in 
+section 3811(a)(1)(E) of this title
+, the Secretary shall apply the procedures described in 
+section 3821(c)(3)(E) of this title
+ and coordinate the certification process so as to avoid duplication or unnecessary paperwork.
+
+
+
+
+
+
+(e)
+ Technical assistance
+The Secretary shall, using available resources and consistent with the Secretary’s other conservation responsibilities and objectives, provide technical assistance to a person throughout the development, revision, and application of the conservation plan and any conservation system of the person. At the request of the person, the Secretary may provide technical assistance regarding conservation measures and management practices for other lands of the person that do not contain highly erodible cropland.
+
+
+
+
+(f)
+ Encouragement of on-farm research
+To encourage on-farm conservation research, the Secretary may allow a person to include in the person’s conservation plan or a conservation system under the plan, on a field trial basis, practices that are not currently approved but that the Secretary considers have a reasonable likelihood of success.
+
+
+
+
+ Soil surveys
+The Secretary shall, as soon as is practicable after 
+ Notice and investigation of possible compliance deficiencies
+(a)
+ In general
+An employee of the Department of Agriculture who observes a possible compliance deficiency or other potential violation of a conservation plan or this subchapter while providing on-site technical assistance shall provide to the responsible persons, not later than 45 days after observing the possible violation, information regarding actions needed to comply with the plan and this subchapter. The employee shall provide the information in lieu of reporting the observation as a compliance violation.
+
+
+
+
+(b)
+ Corrective action
+The responsible persons shall attempt to correct the deficiencies as soon as practicable after receiving the information.
+
+
+
+
+(c)
+ Review
+If the corrective action is not fully implemented not later than 1 year after the responsible persons receive the information, the Secretary may conduct a review of the status of compliance of the persons with the conservation plan and this subchapter.
+
+
+
+
+ Program ineligibility
+(a)
+ Production on converted wetland
+Except as provided in this subchapter and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on converted wetland, as determined by the Secretary, shall be—
+(1)
+ in violation of this section; and
+
+
+
+
+(2)
+ ineligible for loans or payments in an amount determined by the Secretary to be proportionate to the severity of the violation.
+
+
+
+
+(b)
+ Ineligibility for certain loans and payments
+If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
+(1)
+ Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act [
+7 U.S.C. 7201
+ et seq.], the Commodity Credit Corporation Charter Act (
+15 U.S.C. 714
+ et seq.), or any other Act.
+
+
+
+
+(2)
+ A loan made or guaranteed under the Consolidated Farm and Rural Development Act (
+7 U.S.C. 1921
+ et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of the loan will be used for a purpose that will contribute to conversion of a wetland (other than as provided in this subchapter) to produce an agricultural commodity.
+
+
+
+
+(3)
+ During the crop year:
+(A)
+ A payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV of this chapter.
+
+
+
+
+(B)
+ A payment under any other provision of subchapter IV of this chapter.
+
+
+
+
+(C)
+ A payment under section 2201 or 2202 of this title.
+
+
+
+
+(D)
+ A payment, loan, or other assistance under section 1003 or 1006a of this title.
+
+
+
+
+
+
+(c)
+ Ineligibility for crop insurance premium assistance
+(1)
+ Requirements
+(A)
+ In general
+If a person is determined to have committed a violation under subsection (a) or (d) during a crop year, the person shall be ineligible to receive any payment of any portion of premium paid by the Federal Crop Insurance Corporation for a plan or policy of insurance under the Federal Crop Insurance Act (
+7 U.S.C. 1501
+ et seq.) pursuant to this subsection.
+
+
+
+
+
+
+(B)
+ Applicability
+Ineligibility under this subsection shall—
+(i)
+ only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+
+
+
+
+(ii)
+ not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
+
+
+
+
+
+
+
+
+(2)
+ Conversions
+(A)
+ In general
+Notwithstanding paragraph (1), ineligibility for crop insurance premium assistance shall apply in accordance with this paragraph.
+
+
+
+
+
+
+(B)
+ New conversions
+In the case of a wetland that the Secretary determines was converted after 
+February 7, 2014
+—
+(i)
+ the person shall be ineligible to receive crop insurance premium subsidies in subsequent reinsurance years unless the Secretary determines that an exemption pursuant to 
+section 3822 of this title
+ applies; or
+
+
+
+
+(ii)
+ for any violation that the Secretary determines impacts less than 5 acres of an entire farm, the person may pay a contribution in an amount equal to 150 percent of the cost of mitigation, as determined by the Secretary, to the fund described in 
+section 3841(f) of this title
+ for wetland restoration in lieu of ineligibility to receive crop insurance premium assistance.
+
+
+
+
+
+
+(C)
+ Prior conversions
+In the case of a wetland that the Secretary determines was converted prior to 
+February 7, 2014
+, ineligibility under this subsection shall not apply.
+
+
+
+
+
+
+(D)
+ Conversions and new policies or plans of insurance
+In the case of an agricultural commodity for which an individual policy or plan of insurance is available for the first time to the person after 
+February 7, 2014
+—
+(i)
+ ineligibility shall apply only to conversions that take place after the date on which the policy or plan of insurance first becomes available to the person; and
+
+
+
+
+(ii)
+ the person shall take such steps as the Secretary determines appropriate to mitigate any prior conversion in a timely manner but not to exceed 2 reinsurance years.
+
+
+
+
+
+
+
+
+(3)
+ Limitations
+(A)
+ Mitigation required
+Except as otherwise provided in this paragraph, a person subject to a final determination, including all administrative appeals, of a violation described in subsection (d) shall have 1 reinsurance year to initiate a mitigation plan to remedy the violation, as determined by the Secretary, before becoming ineligible under this subsection in the following reinsurance year to receive any payment of any portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (
+7 U.S.C. 1501
+ et seq.).
+
+
+
+
+
+
+(B)
+ Persons covered for the first time
+Notwithstanding the requirements of paragraph (1), in the case of a person that is subject to this subsection for the first time solely due to the amendment made by section 2611(b) of the Agricultural Act of 2014, the person shall have 2 reinsurance years after the reinsurance year in which a final determination is made, including all administrative appeals, of a violation described in this subsection to take such steps as the Secretary determines appropriate to remedy or mitigate the violation in accordance with this subsection.
+
+
+
+
+
+
+(C)
+ Good faith
+If the Secretary determines that a person subject to a final determination, including all administrative appeals, of a violation described in this subsection acted in good faith and without intent to commit a violation described in this subsection as described in 
+section 3822(h) of this title
+, the person shall have 2 reinsurance years to take such steps as the Secretary determines appropriate to remedy or mitigate the violation in accordance with this subsection.
+
+
+
+
+
+
+(D)
+ Tenant relief
+(i)
+ In general
+If a tenant is determined to be ineligible for payments and other benefits under this subsection, the Secretary may limit the ineligibility only to the farm that is the basis for the ineligibility determination if the tenant has established, to the satisfaction of the Secretary that—
+(I)
+ the tenant has made a good faith effort to meet the requirements of this section, including enlisting the assistance of the Secretary to obtain a reasonable plan for restoration or mitigation for the farm;
+
+
+
+
+(II)
+ the landlord on the farm refuses to comply with the plan on the farm; and
+
+
+
+
+(III)
+ the Secretary determines that the lack of compliance is not a part of a scheme or device to avoid the compliance.
+
+
+
+
+
+
+(ii)
+ Report
+The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report concerning the ineligibility determinations limited during the previous 12-month period under this subparagraph.
+
+
+
+
+
+
+
+
+(E)
+ Certificate of compliance
+(i)
+ In general
+Beginning with the first full reinsurance year immediately following 
+February 7, 2014
+, all persons seeking eligibility for the payment of a portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act (
+7 U.S.C. 1501
+ et seq.) shall provide certification of compliance with this section as determined by the Secretary.
+
+
+
+
+
+
+(ii)
+ Timely evaluation
+The Secretary shall evaluate the certification in a timely manner and—
+(I)
+ a person who has properly complied with certification shall be held harmless with regard to eligibility during the period of evaluation; and
+
+
+
+
+(II)
+ if the Secretary fails to evaluate the certification in a timely manner and the person is subsequently found to be in violation of this subsection, ineligibility shall not apply to the person for that violation.
+
+
+
+
+
+
+(iii)
+ Equitable contribution
+(I)
+ In general
+If a person fails to notify the Secretary as required and is subsequently found to be in violation of this subsection, the Secretary shall—
+(aa)
+ determine the amount of an equitable contribution to conservation by the person for the violation; and
+
+
+
+
+(bb)
+ deposit the contribution in the fund described in 
+section 3841(f) of this title
+.
+
+
+
+
+
+
+(II)
+ Limitation
+The contribution shall not exceed the total of the portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance for all years the person is determined to have been in violation subsequent to the date on which certification was first required under this subparagraph.
+
+
+
+
+
+
+
+
+
+
+
+
+(4)
+ Duties of the Secretary
+(A)
+ In general
+In carrying out this subsection, the Secretary shall use existing processes and procedures for certifying compliance.
+
+
+
+
+
+
+(B)
+ Responsibility
+The Secretary, acting through the agencies of the Department of Agriculture, shall be solely responsible for determining whether a producer is eligible to receive crop insurance premium subsidies in accordance with this subsection.
+
+
+
+
+
+
+(C)
+ Limitation
+The Secretary shall ensure that no agent, approved insurance provider, or employee or contractor of an agency or approved insurance provider, bears responsibility or liability for the eligibility of an insured producer under this subsection, other than in cases of misrepresentation, fraud, or scheme and device.
+
+
+
+
+
+
+
+
+(d)
+ Wetland conversion
+Except as provided in 
+section 3822 of this title
+ and notwithstanding any other provision of law, any person who in any crop year beginning after 
+November 28, 1990
+, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
+
+
+
+
+(e)
+ Prior loans
+This section shall not apply to a loan described in subsection (b) of this section made before 
+December 23, 1985
+.
+
+
+
+
+(f)
+ Wetland
+The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
+
+
+
+
+ Delineation of wetlands; exemptions
+(a)
+ Delineation by Secretary
+(1)
+ In general
+Subject to subsection (b) of this section and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
+
+
+
+
+
+
+(2)
+ Wetland delineation maps
+The Secretary shall delineate wetlands on wetland delineation maps. On the request of a person, the Secretary shall make a reasonable effort to make an on-site wetland determination prior to delineation.
+
+
+
+
+
+
+(3)
+ Certification
+On providing notice to affected persons, the Secretary shall—
+(A)
+ certify whether a map is sufficient for the purpose of making a determination of ineligibility for program benefits under 
+section 3821 of this title
+; and
+
+
+
+
+(B)
+ provide an opportunity to appeal the certification prior to the certification becoming final.
+
+
+
+
+
+
+(4)
+ Duration of certification
+A final certification made under paragraph (3) shall remain valid and in effect as long as the area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
+
+
+
+
+
+
+(5)
+ Review of mapping on appeal
+In the case of an appeal of the Secretary’s certification, the Secretary shall review and certify the accuracy of the mapping of all land subject to the appeal to ensure that the subject land has been accurately delineated. Prior to rendering a decision on the appeal, the Secretary shall conduct an on-site inspection of the subject land on a farm.
+
+
+
+
+
+
+(6)
+ Reliance on prior certified delineation
+No person shall be adversely affected because of having taken an action based on a previous certified wetland delineation by the Secretary. The delineation shall not be subject to a subsequent wetland certification or delineation by the Secretary, unless requested by the person under paragraph (4).
+
+
+
+
+
+
+(b)
+ Exemptions
+No person shall become ineligible under 
+section 3821 of this title
+ for program loans or payments under the following circumstances:
+(1)
+ As the result of the production of an agricultural commodity on the following lands:
+(A)
+ A converted wetland if the conversion of the wetland was commenced before 
+December 23, 1985
+.
+
+
+
+
+(B)
+ Land that is a nontidal drainage or irrigation ditch excavated in upland.
+
+
+
+
+(C)
+ A wet area created by a water delivery system, irrigation, irrigation system, or application of water for irrigation.
+
+
+
+
+(D)
+ A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+
+
+
+
+(E)
+ Land that is an artificial lake or pond created by excavating or diking land (that is not a wetland) to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, or rice production, or as a settling pond.
+
+
+
+
+(F)
+ A wetland that is temporarily or incidentally created as a result of adjacent development activity.
+
+
+
+
+(G)
+ A converted wetland if the original conversion of the wetland was commenced before 
+December 23, 1985
+, and the Secretary determines the wetland characteristics returned after that date as a result of—
+(i)
+ the lack of maintenance of drainage, dikes, levees, or similar structures;
+
+
+
+
+(ii)
+ a lack of management of the lands containing the wetland; or
+
+
+
+
+(iii)
+ circumstances beyond the control of the person.
+
+
+
+
+
+
+(H)
+ A converted wetland, if—
+(i)
+ the converted wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to 
+December 23, 1985
+, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+
+
+
+
+(ii)
+ technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
+
+
+
+
+(iii)
+ the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
+
+
+
+
+(iv)
+ the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
+
+
+
+
+
+
+
+
+(2)
+ For the conversion of the following:
+(A)
+ An artificial lake or pond created by excavating or diking land that is not a wetland to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, rice production, or as a settling pond.
+
+
+
+
+(B)
+ A wetland that is temporarily or incidentally created as a result of adjacent development activity.
+
+
+
+
+(C)
+ A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+
+
+
+
+(D)
+ A wetland previously identified as a converted wetland (if the original conversion of the wetland was commenced before 
+December 23, 1985
+), but that the Secretary determines returned to wetland status after that date as a result of—
+(i)
+ the lack of maintenance of drainage, dikes, levees, or similar structures;
+
+
+
+
+(ii)
+ a lack of management of the lands containing the wetland; or
+
+
+
+
+(iii)
+ circumstances beyond the control of the person.
+
+
+
+
+
+
+(E)
+ A wetland, if—
+(i)
+ the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to 
+December 23, 1985
+, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+
+
+
+
+(ii)
+ technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
+
+
+
+
+(iii)
+ the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
+
+
+
+
+(iv)
+ the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
+
+
+
+
+
+
+
+
+(c)
+ On-site inspection requirement
+No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land.
+
+
+
+
+(d)
+ Identification of minimal effect exemptions
+For purposes of applying the minimal effect exemption under subsection (f)(1) of this section, the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of 
+section 3821 of this title
+. The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
+
+
+
+
+(e)
+ Nonwetlands
+The Secretary shall exempt from the ineligibility provisions of 
+section 3821 of this title
+ any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
+(1)
+ Such lands have a predominance of hydric soils.
+
+
+
+
+(2)
+ Such lands are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.
+
+
+
+
+(3)
+ Such lands, under normal circumstances, support a prevalence of such vegetation.
+
+
+
+
+(f)
+ Minimal effect; mitigation
+The Secretary shall exempt a person from the ineligibility provisions of 
+section 3821 of this title
+ for any action associated with the production of an agricultural commodity on a converted wetland, or the conversion of a wetland, if 1 or more of the following conditions apply, as determined by the Secretary:
+(1)
+ The action, individually and in connection with all other similar actions authorized by the Secretary in the area, will have a minimal effect on the functional hydrological and biological value of the wetlands in the area, including the value to waterfowl and wildlife.
+
+
+
+
+(2)
+ The wetland and the wetland values, acreage, and functions are mitigated by the person through the restoration of a converted wetland, the enhancement of an existing wetland, or the creation of a new wetland, and the restoration, enhancement, or creation is—
+(A)
+ in accordance with a wetland conservation plan;
+
+
+
+
+(B)
+ in advance of, or concurrent with, the action;
+
+
+
+
+(C)
+ not at the expense of the Federal Government;
+
+
+
+
+(D)
+ in the case of enhancement or restoration of wetlands, on not greater than a 1-for-1 acreage basis unless more acreage is needed to provide equivalent functions and values that will be lost as a result of the wetland conversion to be mitigated;
+
+
+
+
+(E)
+ in the case of creation of wetlands, on greater than a 1-for-1 acreage basis if more acreage is needed to provide equivalent functions and values that will be lost as a result of the wetland conversion that is mitigated;
+
+
+
+
+(F)
+ on lands in the same general area of the local watershed as the converted wetland; and
+
+
+
+
+(G)
+ with respect to the restored, enhanced, or created wetland, made subject to an easement that—
+(i)
+ is recorded on public land records;
+
+
+
+
+(ii)
+ remains in force for as long as the converted wetland for which the restoration, enhancement, or creation to be mitigated remains in agricultural use or is not returned to its original wetland classification with equivalent functions and values; and
+
+
+
+
+(iii)
+ prohibits making alterations to the restored, enhanced, or created wetland that lower the wetland’s functions and values.
+
+
+
+
+
+
+
+
+(3)
+ The wetland was converted after 
+December 23, 1985
+, but before 
+November 28, 1990
+, and the wetland values, acreage, and functions are mitigated by the producer through the requirements of subparagraphs (A), (B), (C), (D), (F), and (G) of paragraph (2).
+
+
+
+
+(4)
+ The action was authorized by a permit issued under 
+section 1344 of title 33
+ and the wetland values, acreage, and functions of the converted wetland were adequately mitigated for the purposes of this subchapter.
+
+
+
+
+(g)
+ Mitigation appeals
+A person shall be afforded the right to appeal, under section 3843 
+1
+1
+ See References in Text note below.
+ of this title, the imposition of a mitigation agreement requiring greater than one-to-one acreage mitigation to which the person is subject.
+
+
+
+
+(h)
+ Good faith exemption
+(1)
+ Exemption described
+The Secretary may waive a person’s ineligibility under 
+section 3821 of this title
+ for program loans, payments, and benefits as the result of the conversion of a wetland subsequent to 
+November 28, 1990
+, or the production of an agricultural commodity on a converted wetland, if the Secretary determines that the person has acted in good faith and without intent to violate this subchapter.
+
+
+
+
+
+
+(2)
+ Eligible reviewers
+A determination of the Secretary, or a designee of the Secretary, under paragraph (1) shall be reviewed by the applicable—
+(A)
+ State Executive Director, with the technical concurrence of the State Conservationist; or
+
+
+
+
+(B)
+ district director, with the technical concurrence of the area conservationist.
+
+
+
+
+
+
+(3)
+ Period for compliance
+The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively restoring the subject wetland.
+
+
+
+
+
+
+(i)
+ Restoration
+Any person who is determined to be ineligible for program benefits under 
+section 3821 of this title
+ for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
+
+
+
+
+(j)
+ Determinations; restoration and mitigation plans; monitoring activities
+Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National 
+2
+2
+ So in original. Probably should be “Natural”.
+ Resources Conservation Service.
+
+
+
+
+(k)
+ Mitigation banking
+(1)
+ Mitigation banking program
+(A)
+ In general
+Using authorities available to the Secretary, the Secretary shall operate a program or work with third parties to establish mitigation banks to assist persons in complying with the provisions of this section while mitigating any loss of wetland values and functions.
+
+
+
+
+
+
+(B)
+ Funding
+Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph.
+
+
+
+
+
+
+
+
+(2)
+ Applicability
+Subsection (f)(2)(C) shall not apply to this subsection.
+
+
+
+
+
+
+(3)
+ Policy and criteria
+The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
+
+
+
+
+
+
+ Affiliated persons
+If a person is affected by a reduction in benefits under 
+ Fairness of compliance
+If the actions of an unrelated person or public entity, outside the control of, and without the prior approval of, the landowner or tenant result in a change in the characteristics of cropland that would cause the land to be determined to be a wetland, the affected land shall not be considered to be wetland for purposes of this subchapter.
+ Commodity Credit Corporation
+(a)
+ Annual funding
+For each of fiscal years 2014 through 2018, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
+(1)
+ The conservation reserve program under subpart B of part I of subchapter IV, including, to the maximum extent practicable—
+(A)
+ $10,000,000 for the period of fiscal years 2014 through 2018 to provide payments under 
+section 3834(c) of this title
+; and
+
+
+
+
+(B)
+ $33,000,000 for the period of fiscal years 2014 through 2018 to carry out 
+section 3835(f) of this title
+ to facilitate the transfer of land subject to contracts from retired or retiring owners and operators to beginning farmers or ranchers and socially disadvantaged farmers or ranchers.
+
+
+
+
+
+
+(2)
+ The agricultural conservation easement program under subchapter VII using to the maximum extent practicable—
+(A)
+ $400,000,000 for fiscal year 2014;
+
+
+
+
+(B)
+ $425,000,000 for fiscal year 2015;
+
+
+
+
+(C)
+ $450,000,000 for fiscal year 2016;
+
+
+
+
+(D)
+ $500,000,000 for fiscal year 2017; and
+
+
+
+
+(E)
+ $250,000,000 for fiscal year 2018.
+
+
+
+
+
+
+(3)
+ The conservation security program under subpart A of part II of subchapter IV, using such sums as are necessary to administer contracts entered into before 
+September 30, 2008
+.
+
+
+
+
+(4)
+ The conservation stewardship program under subpart B of part II of subchapter IV.
+
+
+
+
+(5)
+ The environmental quality incentives program under part IV of subchapter IV, using, to the maximum extent practicable—
+(A)
+ $1,350,000,000 for fiscal year 2014;
+
+
+
+
+(B)
+ $1,600,000,000 for fiscal year 2015;
+
+
+
+
+(C)
+ $1,650,000,000 for fiscal year 2016;
+
+
+
+
+(D)
+ $1,650,000,000 for fiscal year 2017; and
+
+
+
+
+(E)
+ $1,750,000,000 for fiscal year 2018.
+
+
+
+
+
+
+(b)
+ Availability of funds
+Amounts made available by subsection (a) for fiscal years 2014 through 2018 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
+
+
+
+
+(c)
+ Technical assistance
+(1)
+ Availability
+Commodity Credit Corporation funds made available for a fiscal year for each of the programs specified in subsection (a)—
+(A)
+ shall be available for the provision of technical assistance for the programs for which funds are made available as necessary to implement the programs effectively;
+
+
+
+
+(B)
+ except for technical assistance for the conservation reserve program under subpart B of part I of subchapter IV, shall be apportioned for the provision of technical assistance in the amount determined by the Secretary, at the sole discretion of the Secretary; and
+
+
+
+
+(C)
+ shall not be available for the provision of technical assistance for conservation programs specified in subsection (a) other than the program for which the funds were made available.
+
+
+
+
+
+
+(2)
+ Priority
+(A)
+ In general
+In the delivery of technical assistance under the Soil Conservation and Domestic Allotment Act (
+16 U.S.C. 590a
+ et seq.), the Secretary shall give priority to producers who request technical assistance from the Secretary in order to comply for the first time with the requirements of subchapter II and subchapter III of this chapter as a result of the amendments made by section 2611 of the Agricultural Act of 2014.
+
+
+
+
+
+
+(B)
+ Report
+Not later than 270 days after 
+February 7, 2014
+, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding the extent to which the conservation compliance requirements contained in the amendments made by section 2611 of the Agricultural Act of 2014 apply to and impact specialty crop growers, including national analysis and surveys to determine the extent of specialty crop acreage that includes highly erodible land and wetlands.
+
+
+
+
+
+
+
+
+(3)
+ Report
+Not later than 
+December 31, 2014
+, the Secretary shall submit (and update as necessary in subsequent years) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report—
+(A)
+ detailing the amount of technical assistance funds requested and apportioned in each program specified in subsection (a) during the preceding fiscal year; and
+
+
+
+
+(B)
+ any other data relating to this provision that would be helpful to such Committees.
+
+
+
+
+
+
+(4)
+ Compliance report
+Not later than November 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
+(A)
+ a description of the extent to which the requests for highly erodible land conservation and wetland compliance determinations are being addressed in a timely manner;
+
+
+
+
+(B)
+ the total number of requests completed in the previous fiscal year;
+
+
+
+
+(C)
+ the incomplete determinations on record; and
+
+
+
+
+(D)
+ the number of requests that are still outstanding more than 1 year since the date on which the requests were received from the producer.
+
+
+
+
+
+
+(d)
+ Relationship to other law
+The use of Commodity Credit Corporation funds under subsection (c) of this section to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by 
+section 714i of title 15
+.
+
+
+
+
+(e)
+ Regional equity
+(1)
+ Equitable distribution
+When determining funding allocations each fiscal year, the Secretary shall, after considering available funding and program demand in each State, provide a distribution of funds for conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I), subchapter VII, and subchapter VIII to ensure equitable program participation proportional to historical funding allocations and usage by all States.
+
+
+
+
+
+
+(2)
+ Minimum percentage
+In determining the specific funding allocations under paragraph (1), the Secretary shall—
+(A)
+ ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6 percent of the funds made available for those conservation programs; and
+
+
+
+
+(B)
+ for each State that can so establish, provide an aggregate amount of at least 0.6 percent of the funds made available for those conservation programs.
+
+
+
+
+
+
+(f)
+ Acceptance and use of contributions
+(1)
+ Authority to establish contribution accounts
+Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program.
+
+
+
+
+
+
+(2)
+ Deposit and use of contributions
+Contributions of non-Federal funds received for a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
+
+
+
+
+
+
+(g)
+ Allocations review and update
+(1)
+ Review
+Not later than 
+January 1, 2012
+, the Secretary shall conduct a review of conservation programs and authorities under this chapter that utilize allocation formulas to determine the sufficiency of the formulas in accounting for State-level economic factors, level of agricultural infrastructure, or related factors that affect conservation program costs.
+
+
+
+
+
+
+(2)
+ Update
+The Secretary shall improve conservation program allocation formulas as necessary to ensure that the formulas adequately reflect the costs of carrying out the conservation programs.
+
+
+
+
+
+
+(h)
+ Assistance to certain farmers or ranchers for conservation access
+(1)
+ Assistance
+Of the funds made available for each of fiscal years 2009 through 2018 to carry out the environmental quality incentives program and the acres made available for each of such fiscal years to carry out the conservation stewardship program, the Secretary shall use, to the maximum extent practicable—
+(A)
+ 5 percent to assist beginning farmers or ranchers; and
+
+
+
+
+(B)
+ 5 percent to assist socially disadvantaged farmers or ranchers.
+
+
+
+
+
+
+(2)
+ Repooling of funds
+In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program.
+
+
+
+
+
+
+(3)
+ Repooling of acres
+In any fiscal year, acres not obligated under paragraph (1) by a date determined by the Secretary shall be available for use in that fiscal year under the conservation stewardship program.
+
+
+
+
+
+
+(4)
+ Preference
+In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in 
+section 2279(e) of title 7
+) that qualifies under subparagraph (A) or (B) of paragraph (1).
+
+
+
+
+
+
+(i)
+ Report on program enrollments and assistance
+Beginning in calendar year 2009, and each year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a semiannual report containing statistics by State related to enrollments in conservation programs under this subchapter, as follows:
+(1)
+ Payments made under the agricultural conservation easement program for easements valued at $250,000 or greater.
+
+
+
+
+(2)
+ Payments made under the environmental quality incentives program for land determined to have special environmental significance pursuant to section 3839aa–7(b) 
+1
+1
+ See References in Text note below.
+ of this title.
+
+
+
+
+(3)
+ Payments made under the regional conservation partnership program subject to the waiver of adjusted gross income limitations pursuant to 
+section 3871c(c)(3) of this title
+.
+
+
+
+
+(4)
+ Waivers granted by the Secretary under section 1308–3a(b)(2) 
+1
+ of title 7 in order to protect environmentally sensitive land of special significance.
+
+
+
+
+(5)
+ Payments made under the conservation stewardship program.
+
+
+
+
+(6)
+ Exceptions provided by the Secretary under 
+section 3865b(b)(2)(C) of this title
+.
+
+
+
+
+ Delivery of technical assistance
+(a)
+ Definition of eligible participant
+In this section, the term “eligible participant” means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under 
+section 1524 of title 7
+.
+
+
+
+
+(b)
+ Purpose of technical assistance
+The purpose of technical assistance authorized by this section is to provide eligible participants with consistent, science-based, site-specific practices designed to achieve conservation objectives on land active in agricultural, forestry, or related uses.
+
+
+
+
+(c)
+ Provision of technical assistance
+The Secretary shall provide technical assistance under this chapter to an eligible participant—
+(1)
+ directly;
+
+
+
+
+(2)
+ through an agreement with a third-party provider; or
+
+
+
+
+(3)
+ at the option of the eligible participant, through a payment, as determined by the Secretary, to the eligible participant for an approved third-party provider, if available.
+
+
+
+
+(d)
+ Non-Federal assistance
+The Secretary may request the services of, and enter into cooperative agreements or contracts with, other agencies within the Department or non-Federal entities to assist the Secretary in providing technical assistance necessary to assist in implementing conservation programs under this chapter.
+
+
+
+
+(e)
+ Certification of third-party providers
+(1)
+ Purpose
+The purpose of the third-party provider program is to increase the availability and range of technical expertise available to eligible participants to plan and implement conservation measures.
+
+
+
+
+
+
+(2)
+ Regulations
+Not later than 180 days after the date of the enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall promulgate such regulations as are necessary to carry out this section.
+
+
+
+
+
+
+(3)
+ Expertise
+In promulgating such regulations, the Secretary, to the maximum extent practicable, shall—
+(A)
+ ensure that persons with expertise in the technical aspects of conservation planning, watershed planning, and environmental engineering, including commercial entities, nonprofit entities, State or local governments or agencies, and other Federal agencies, are eligible to become approved providers of the technical assistance;
+
+
+
+
+(B)
+ provide national criteria for the certification of third party 
+1
+1
+ So in original. Probably should be “third-party”.
+ providers; and
+
+
+
+
+(C)
+ approve any unique certification standards established at the State level.
+
+
+
+
+
+
+(f)
+ Administration
+(1)
+ Funding
+Effective for fiscal year 2008 and each subsequent fiscal year, funds of the Commodity Credit Corporation made available to carry out technical assistance for each of the programs specified in 
+section 3841 of this title
+ shall be available for the provision of technical assistance from third-party providers under this section.
+
+
+
+
+
+
+(2)
+ Term of agreement
+An agreement with a third-party provider under this section shall have a term that—
+(A)
+ at a minimum, is equal to the period beginning on the date on which the agreement is entered into and ending on the date that is 1 year after the date on which all activities performed pursuant to the agreement have been completed;
+
+
+
+
+(B)
+ does not exceed 3 years; and
+
+
+
+
+(C)
+ can be renewed, as determined by the Secretary.
+
+
+
+
+
+
+(3)
+ Review of certification requirements
+Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall—
+(A)
+ review certification requirements for third-party providers; and
+
+
+
+
+(B)
+ make any adjustments considered necessary by the Secretary to improve participation.
+
+
+
+
+
+
+(4)
+ Eligible activities
+(A)
+ Inclusion of activities
+The Secretary may include as activities eligible for payments to a third party 
+1
+ provider—
+(i)
+ technical services provided directly to eligible participants, such as conservation planning, education and outreach, and assistance with design and implementation of conservation practices; and
+
+
+
+
+(ii)
+ related technical assistance services that accelerate conservation program delivery.
+
+
+
+
+
+
+(B)
+ Exclusions
+The Secretary shall not designate as an activity eligible for payments to a third party 
+1
+ provider any service that is provided by a business, or equivalent, in connection with conducting business and that is customarily provided at no cost.
+
+
+
+
+
+
+
+
+(5)
+ Payment amounts
+The Secretary shall establish fair and reasonable amounts of payments for technical services provided by third-party providers.
+
+
+
+
+
+
+(g)
+ Availability of technical services
+(1)
+ In general
+In carrying out the programs under this chapter and the agricultural management assistance program under 
+section 1524 of title 7
+, the Secretary shall make technical services available to all eligible participants who are installing an eligible practice.
+
+
+
+
+
+
+(2)
+ Technical service contracts
+In any case in which financial assistance is not provided under a program referred to in paragraph (1), the Secretary may enter into a technical service contract with the eligible participant for the purposes of assisting in the planning, design, or installation of an eligible practice.
+
+
+
+
+
+
+(h)
+ Review of conservation practice standards
+(1)
+ Review required
+The Secretary shall—
+(A)
+ review conservation practice standards, including engineering design specifications, in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008;
+
+
+
+
+(B)
+ ensure, to the maximum extent practicable, the completeness and relevance of the standards to local agricultural, forestry, and natural resource needs, including specialty crops, native and managed pollinators, bioenergy crop production, forestry, and such other needs as are determined by the Secretary; and
+
+
+
+
+(C)
+ ensure that the standards provide for the optimal balance between meeting site-specific conservation needs and minimizing risks of design failure and associated costs of construction and installation.
+
+
+
+
+
+
+(2)
+ Consultation
+In conducting the review under paragraph (1), the Secretary shall consult with eligible participants, crop consultants, cooperative extension and land grant universities, nongovernmental organizations, and other qualified entities.
+
+
+
+
+
+
+(3)
+ Expedited revision of standards
+If the Secretary determines under paragraph (1) that revisions to the conservation practice standards, including engineering design specifications, are necessary, the Secretary shall establish an administrative process for expediting the revisions.
+
+
+
+
+
+
+(i)
+ Addressing concerns of specialty crop, organic, and precision agriculture producers
+(1)
+ In general
+The Secretary shall—
+(A)
+ to the maximum extent practicable, fully incorporate specialty crop production, organic crop production, and precision agriculture into the conservation practice standards; and
+
+
+
+
+(B)
+ provide for the appropriate range of conservation practices and resource mitigation measures available to producers involved with organic or specialty crop production or precision agriculture.
+
+
+
+
+
+
+(2)
+ Availability of adequate technical assistance
+(A)
+ In general
+The Secretary shall ensure that adequate technical assistance is available for the implementation of conservation practices by producers involved with organic, specialty crop production, or precision agriculture through Federal conservation programs.
+
+
+
+
+
+
+(B)
+ Requirements
+In carrying out subparagraph (A), the Secretary shall develop—
+(i)
+ programs that meet specific needs of producers involved with organic, specialty crop production or precision agriculture through cooperative agreements with other agencies and nongovernmental organizations; and
+
+
+
+
+(ii)
+ program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
+
+
+
+
+
+
+
+
+ Repealed. 
+“(a)
+ 
+Repeal
+.—
+Except as provided in subsection (b), section 1243 of the Food Security Act of 1985 (
+16 U.S.C. 3843
+) is repealed.
+
+
+“(b)
+ Transitional Provisions.—
+“(1)
+ 
+Effect on existing contracts and agreements
+.—
+The amendment made by this section [repealing 
+section 3843 of this title
+] shall not affect the validity or terms of any contract or agreement entered into by the Secretary of Agriculture under section 1243 of the Food Security Act of 1985 ([former] 
+16 U.S.C. 3843
+) before the date of enactment of the Agricultural Act of 2014 [
+Feb. 7, 2014
+], or any payments required to be made in connection with the contract or agreement.
+
+
+
+
+“(2)
+ Funding.—
+“(A)
+ 
+Use of prior year funds
+.—
+Notwithstanding the repeal of section 1243 of the Food Security Act of 1985 ([former] 
+16 U.S.C. 3843
+), any funds made available from the Commodity Credit Corporation to carry out the cooperative conservation partnership initiative under that section for fiscal years 2009 through 2013 shall be made available to carry out contracts and agreements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance).
+
+
+
+
+“(B)
+ 
+Other
+.—
+On exhaustion of funds made available under subparagraph (A), the Secretary [of Agriculture] may use funds made available to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [
+16 U.S.C. 3871
+ et seq.], as added by section 2401, to continue to carry out contracts and agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts and agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
+
+
+
+
+
+
+ Administrative requirements for conservation programs
+(a)
+ Incentives for certain farmers and ranchers and Indian tribes
+(1)
+ Incentives authorized
+In carrying out any conservation program administered by the Secretary, the Secretary may provide to a person or entity specified in paragraph (2) incentives to participate in the conservation program—
+(A)
+ to foster new farming and ranching opportunities; and
+
+
+
+
+(B)
+ to enhance long-term environmental goals.
+
+
+
+
+
+
+(2)
+ Covered persons
+Incentives authorized by paragraph (1) may be provided to the following:
+(A)
+ Beginning farmers or ranchers.
+
+
+
+
+(B)
+ Socially disadvantaged farmers or ranchers.
+
+
+
+
+(C)
+ Limited resource farmers or ranchers.
+
+
+
+
+(D)
+ Indian tribes.
+
+
+
+
+(E)
+ Veteran farmers or ranchers (as defined in 
+section 2279(e) of title 7
+).
+
+
+
+
+
+
+(b)
+ Privacy of personal information relating to natural resources conservation programs
+(1)
+ Information received for technical and financial assistance
+(A)
+ In general
+In accordance with 
+section 552(b)(3) of title 5
+, except as provided in subparagraph (C) and paragraph (2), information described in subparagraph (B)—
+(i)
+ shall not be considered to be public information; and
+
+
+
+
+(ii)
+ shall not be released to any person or Federal, State, local agency or Indian tribe (as defined by the Secretary) outside the Department of Agriculture.
+
+
+
+
+
+
+(B)
+ Information
+The information referred to in subparagraph (A) is information—
+(i)
+ provided to the Secretary or a contractor of the Secretary (including information provided under subchapter IV) for the purpose of providing technical or financial assistance to an owner, operator, or producer with respect to any natural resources conservation program administered by the Natural Resources Conservation Service or the Farm Service Agency; and
+
+
+
+
+(ii)
+ that is proprietary (within the meaning of 
+section 552(b)(4) of title 5
+) to the agricultural operation or land that is a part of an agricultural operation of the owner, operator, or producer.
+
+
+
+
+
+
+(C)
+ Exception
+Nothing in this section affects the availability of payment information (including payment amounts and the names and addresses of recipients of payments) under 
+section 552 of title 5
+.
+
+
+
+
+
+
+
+
+(2)
+ Exceptions
+(A)
+ Release and disclosure for enforcement
+The Secretary may release or disclose to the Attorney General information covered by paragraph (1) to the extent necessary to enforce the natural resources conservation programs referred to in paragraph (1)(B)(i).
+
+
+
+
+
+
+(B)
+ Disclosure to cooperating persons and agencies
+(i)
+ In general
+The Secretary may release or disclose information covered by paragraph (1) to a person or Federal, State, local, or tribal agency working in cooperation with the Secretary in providing technical and financial assistance described in paragraph (1)(B)(i) or collecting information from data gathering sites.
+
+
+
+
+
+
+(ii)
+ Use of information
+The person or Federal, State, local, or tribal agency that receives information described in clause (i) may release the information only for the purpose of assisting the Secretary—
+(I)
+ in providing the requested technical or financial assistance; or
+
+
+
+
+(II)
+ in collecting information from data gathering sites.
+
+
+
+
+
+
+
+
+(C)
+ Statistical and aggregate information
+Information covered by paragraph (1) may be disclosed to the public if the information has been transformed into a statistical or aggregate form without naming any—
+(i)
+ individual owner, operator, or producer; or
+
+
+
+
+(ii)
+ specific data gathering site.
+
+
+
+
+
+
+(D)
+ Consent of owner, operator, or producer
+(i)
+ In general
+An owner, operator, or producer may consent to the disclosure of information described in paragraph (1).
+
+
+
+
+
+
+(ii)
+ Condition of other programs
+The participation of the owner, operator, or producer in, and the receipt of any benefit by the owner, operator, or producer under, this chapter or any other program administered by the Secretary may not be conditioned on the owner, operator, or producer providing consent under this paragraph.
+
+
+
+
+
+
+
+
+
+
+(3)
+ Violations; penalties
+Section 2276(c) of title 7
+ shall apply with respect to the release of information collected in any manner or for any purpose prohibited by this subsection.
+
+
+
+
+
+
+(4)
+ Data collection, disclosure, and review
+Nothing in this subsection—
+(A)
+ affects any procedure for data collection or disclosure through the National Resources Inventory; or
+
+
+
+
+(B)
+ limits the authority of Congress or the Government Accountability Office to review information collected or disclosed under this subsection.
+
+
+
+
+
+
+(c)
+ Plans
+The Secretary shall, to the extent practicable, avoid duplication in—
+(1)
+ the conservation plans required for—
+(A)
+ highly erodible land conservation under subchapter II; and
+
+
+
+
+(B)
+ the conservation reserve program established under subpart B of part I of subchapter IV;
+
+
+
+
+
+
+(2)
+ the agricultural conservation easement program established under subchapter VII; and
+
+
+
+
+(3)
+ the environmental quality incentives program established under part IV of subchapter IV.
+
+
+
+
+(d)
+ Tenant protection
+Except for a person who is a tenant on land that is subject to a conservation reserve contract that has been extended by the Secretary, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing, on a fair and equitable basis, in payments under the programs established under subchapters II through IV, VII, and VIII.
+
+
+
+
+(e)
+ Provision of technical assistance by other sources
+In the preparation and application of a conservation compliance plan under subchapter II or similar plan required as a condition for assistance from the Department of Agriculture, the Secretary shall permit persons to secure technical assistance from approved sources, as determined by the Secretary, other than the Natural Resources Conservation Service. If the Secretary rejects a technical determination made by such a source, the basis of the Secretary’s determination must be supported by documented evidence.
+
+
+
+
+(f)
+ Acreage limitations
+(1)
+ Limitations
+(A)
+ Enrollments
+The Secretary shall not enroll more than 25 percent of the cropland in any county in the conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under 
+section 3865c of this title
+.
+
+
+
+
+
+
+(B)
+ Easements
+Not more than 10 percent of the cropland in a county may be subject to a wetland reserve easement under 
+section 3865c of this title
+.
+
+
+
+
+
+
+
+
+(2)
+ Exceptions
+The Secretary may exceed the limitation in paragraph (1)(A), if the Secretary determines that—
+(A)
+ the action would not adversely affect the local economy of a county; and
+
+
+
+
+(B)
+ operators in the county are having difficulties complying with conservation plans implemented under 
+section 3812 of this title
+.
+
+
+
+
+
+
+(3)
+ Waiver to exclude certain acreage
+The Secretary may grant a waiver to exclude acreage enrolled under subsection (d)(2)(A)(ii) or (g)(2) of 
+section 3834 of this title
+ from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
+
+
+
+
+
+
+(4)
+ Exclusions
+(A)
+ Shelterbelts and windbreaks
+The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
+
+
+
+
+
+
+(B)
+ Wet and saturated soils
+For the purposes of enrolling land in a wetland reserve easement under 
+section 3865c of this title
+, the limitations established under paragraph (1) shall not apply to cropland designated by the Secretary with subclass w in the land capability classes IV through VIII because of severe use limitations due to soil saturation or inundation.
+
+
+
+
+
+
+
+
+(5)
+ Calculation
+In calculating the percentages described in paragraph (1), the Secretary shall include any acreage that was included in calculations of percentages made under such paragraph, as in effect on the day before 
+February 7, 2014
+, and that remains enrolled when the calculation is made after that date under paragraph (1).
+
+
+
+
+
+
+(g)
+ Compliance and performance
+For each conservation program under subchapter IV, the Secretary shall develop procedures—
+(1)
+ to monitor compliance with program requirements;
+
+
+
+
+(2)
+ to measure program performance;
+
+
+
+
+(3)
+ to demonstrate whether the long-term conservation benefits of the program are being achieved;
+
+
+
+
+(4)
+ to track participation by crop and livestock types; and
+
+
+
+
+(5)
+ to coordinate activities described in this subsection with the national conservation program authorized under 
+section 2004 of this title
+.
+
+
+
+
+(h)
+ Encouragement of pollinator habitat development and protection
+In carrying out any conservation program administered by the Secretary, the Secretary may, as appropriate, encourage—
+(1)
+ the development of habitat for native and managed pollinators; and
+
+
+
+
+(2)
+ the use of conservation practices that benefit native and managed pollinators, including, to the extent practicable, practices that maximize benefits for honey bees.
+
+
+
+
+(i)
+ Streamlined application process
+(1)
+ In general
+In carrying out each conservation program under this chapter, the Secretary shall ensure that the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
+
+
+
+
+
+
+(2)
+ Review and streamlining
+(A)
+ Review
+The Secretary shall carry out a review of the application forms and processes for each conservation program covered by this subsection.
+
+
+
+
+
+
+(B)
+ Streamlining
+On completion of the review the Secretary shall revise application forms and processes, as necessary, to ensure that—
+(i)
+ all required application information is essential for the efficient, effective, and accountable implementation of conservation programs;
+
+
+
+
+(ii)
+ conservation program applicants are not required to provide information that is readily available to the Secretary through existing information systems of the Department of Agriculture;
+
+
+
+
+(iii)
+ information provided by the applicant is managed and delivered efficiently for use in all stages of the application process, or for multiple applications; and
+
+
+
+
+(iv)
+ information technology is used effectively to minimize data and information input requirements.
+
+
+
+
+
+
+
+
+(3)
+ Implementation and notification
+Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
+
+
+
+
+
+
+(j)
+ Improved administrative efficiency and effectiveness
+In administrating a conservation program under this chapter, the Secretary shall, to the maximum extent practicable—
+(1)
+ seek to reduce administrative burdens and costs to producers by streamlining conservation planning and program resources; and
+
+
+
+
+(2)
+ take advantage of new technologies to enhance efficiency and effectiveness.
+
+
+
+
+(k)
+ Relation to other payments
+Any payment received by an owner or operator under this chapter, including an easement payment or rental payment, shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under any of the following:
+(1)
+ This Act.
+
+
+
+
+(2)
+ The Agricultural Act of 1949 (
+7 U.S.C. 1421
+ et seq.).
+
+
+
+
+(3)
+ The Agricultural Act of 2014.
+
+
+
+
+(4)
+ Any law that succeeds a law specified in paragraph (1), (2), or (3).
+
+
+
+
+(l)
+ Funding for Indian tribes
+In carrying out the conservation stewardship program under subpart B of part II of subchapter IV and the environmental quality incentives program under part IV of subchapter IV, the Secretary may enter into alternative funding arrangements with Indian tribes if the Secretary determines that the goals and objectives of the programs will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any tribal member.
+
+
+
+
+ Environmental services markets
+(a)
+ Technical guidelines required
+The Secretary shall establish technical guidelines that outline science-based methods to measure the environmental services benefits from conservation and land management activities in order to facilitate the participation of farmers, ranchers, and forest landowners in emerging environmental services markets. The Secretary shall give priority to the establishment of guidelines related to farmer, rancher, and forest landowner participation in carbon markets.
+
+
+
+
+(b)
+ Establishment
+The Secretary shall establish guidelines under subsection (a) for use in developing the following:
+(1)
+ A procedure to measure environmental services benefits.
+
+
+
+
+(2)
+ A protocol to report environmental services benefits.
+
+
+
+
+(3)
+ A registry to collect, record and maintain the benefits measured.
+
+
+
+
+(c)
+ Verification requirements
+(1)
+ Verification of reports
+The Secretary shall establish guidelines for a process to verify that a farmer, rancher, or forest landowner who reports an environmental services benefit pursuant to the protocol required by paragraph (2) of subsection (b) for inclusion in the registry required by paragraph (3) of such subsection has implemented the conservation or land management activity covered by the report.
+
+
+
+
+
+
+(2)
+ Role of third parties
+In establishing the verification guidelines required by paragraph (1), the Secretary shall consider the role of third-parties in conducting independent verification of benefits produced for environmental services markets and other functions, as determined by the Secretary.
+
+
+
+
+
+
+(d)
+ Use of existing information
+In carrying out subsection (b), the Secretary shall build on activities or information in existence on the date of the enactment of the Food, Conservation, and Energy Act of 2008 regarding environmental services markets.
+
+
+
+
+(e)
+ Consultation
+In carrying out this section, the Secretary shall consult with the following:
+(1)
+ Federal and State government agencies.
+
+
+
+
+(2)
+ Nongovernmental interests including—
+(A)
+ farm, ranch, and forestry producers;
+
+
+
+
+(B)
+ financial institutions involved in environmental services trading;
+
+
+
+
+(C)
+ institutions of higher education with relevant expertise or experience;
+
+
+
+
+(D)
+ nongovernmental organizations with relevant expertise or experience; and
+
+
+
+
+(E)
+ private sector representatives with relevant expertise or experience.
+
+
+
+
+
+
+(3)
+ Other interested persons, as determined by the Secretary.
+
+
+
+
+ Regulations
+(a)
+ In general
+The Secretary shall promulgate such regulations as are necessary to implement programs under this chapter, including such regulations as the Secretary determines to be necessary to ensure a fair and reasonable application of the limitations established under 
+section 3844(f) of this title
+.
+
+
+
+
+(b)
+ Rulemaking procedure
+The promulgation of regulations and administration of programs under this chapter—
+(1)
+ shall be carried out without regard to chapter 35 of title 44 (commonly known as the Paperwork Reduction Act); and
+
+
+
+
+(2)
+ shall be made as an interim rule effective on publication with an opportunity for notice and comment.
+
+
+
+
+(c)
+ Congressional review of agency rulemaking
+In promulgating regulations under this section, the Secretary shall use the authority provided under 
+section 808 of title 5
+.
+
+
+
+
+ Agriculture conservation experienced services program
+(a)
+ Establishment and purpose
+The Secretary shall establish a conservation experienced services program (in this section referred to as the “ACES Program”) for the purpose of utilizing the talents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide technical services in support of the conservation-related programs and authorities carried out by the Secretary. Such technical services may include conservation planning assistance, technical consultation, and assistance with design and implementation of conservation practices.
+
+
+
+
+(b)
+ Program agreements
+(1)
+ Relation to older American community service employment program
+Notwithstanding any other provision of law relating to Federal grants, cooperative agreements, or contracts, to carry out the ACES program during a fiscal year, the Secretary may enter into agreements with nonprofit private agencies and organizations eligible to receive grants for that fiscal year under the Community Service Senior Opportunities Act (
+42 U.S.C. 3056
+ et seq.) to secure participants for the ACES program who will provide technical services under the ACES program.
+
+
+
+
+
+
+(2)
+ Required determination
+Before entering into an agreement under paragraph (1), the Secretary shall ensure that the agreement would not—
+(A)
+ result in the displacement of individuals employed by the Department, including partial displacement through reduction of non-overtime hours, wages, or employment benefits;
+
+
+
+
+(B)
+ result in the use of an individual under the ACES program for a job or function in a case in which a Federal employee is in a layoff status from the same or a substantially-equivalent job or function with the Department; or
+
+
+
+
+(C)
+ affect existing contracts for services.
+
+
+
+
+
+
+(c)
+ Funding source
+(1)
+ In general
+Except as provided in paragraph (2), the Secretary may carry out the ACES program using funds made available to carry out each program under this chapter.
+
+
+
+
+
+
+(2)
+ Exclusion
+Funds made available to carry out the conservation reserve program may not be used to carry out the ACES program.
+
+
+
+
+
+
+(d)
+ Liability
+An individual providing technical services under the ACES program is deemed to be an employee of the United States Government for purposes of chapter 171 of title 28 if the individual—
+(1)
+ is providing technical services pursuant to an agreement entered into under subsection (b); and
+
+
+
+
+(2)
+ is acting within the scope of the agreement.
+
+
+
+
+ Forest Service participation in ACES Program
+The Secretary, acting through the Chief of the Forest Service, may use funds derived from conservation-related programs executed on National Forest System land to utilize the Agriculture Conservation Experienced Services Program established pursuant to 
+ Establishment of State technical committees
+(a)
+ Establishment
+The Secretary shall establish a technical committee in each State to assist the Secretary in the considerations relating to implementation and technical aspects of the conservation programs under this chapter.
+
+
+
+
+(b)
+ Standards
+The Secretary shall review and update as necessary—
+(1)
+ standard operating procedures to standardize the operations of State technical committees; and
+
+
+
+
+(2)
+ standards to be used by State technical committees in the development of technical guidelines under section 3862(b) 
+1
+1
+ See References in Text note below.
+ of this title for the implementation of the conservation provisions of this chapter.
+
+
+
+
+(c)
+ Composition
+Each State technical committee shall be composed of agricultural producers and other professionals that represent a variety of disciplines in the soil, water, wetland, and wildlife sciences. The technical committee for a State shall include representatives from among the following:
+(1)
+ The Natural Resources Conservation Service.
+
+
+
+
+(2)
+ The Farm Service Agency.
+
+
+
+
+(3)
+ The Forest Service.
+
+
+
+
+(4)
+ The National Institute of Food and Agriculture.
+
+
+
+
+(5)
+ The State fish and wildlife agency.
+
+
+
+
+(6)
+ The State forester or equivalent State official.
+
+
+
+
+(7)
+ The State water resources agency.
+
+
+
+
+(8)
+ The State department of agriculture.
+
+
+
+
+(9)
+ The State association of soil and water conservation districts.
+
+
+
+
+(10)
+ Agricultural producers representing the variety of crops and livestock or poultry raised within the State.
+
+
+
+
+(11)
+ Owners of nonindustrial private forest land.
+
+
+
+
+(12)
+ Nonprofit organizations within the meaning of 
+section 501(c)(3) of title 26
+ with demonstrable conservation expertise and experience working with agriculture producers in the State.
+
+
+
+
+(13)
+ Agribusiness.
+
+
+
+
+ Responsibilities
+(a)
+ In general
+Each State technical committee established under 
+section 3861 of this title
+ shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing the conservation provisions of this chapter.
+
+
+
+
+(b)
+ Public notice and attendance
+Each State technical committee shall provide public notice of, and permit public attendance at, meetings considering issues of concern related to carrying out this chapter.
+
+
+
+
+(c)
+ Role
+(1)
+ In general
+The role of State technical committees is advisory in nature, and such committees shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
+
+
+
+
+
+
+(2)
+ Advisory role in establishing program priorities and criteria
+Each State technical committee shall advise the Secretary in establishing priorities and criteria for the programs in this chapter, including the review of whether local working groups are addressing those priorities.
+
+
+
+
+
+
+(d)
+ FACA requirements
+(1)
+ Exemption
+Each State technical committee shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
+
+
+
+
+
+
+(2)
+ Local working groups
+For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
+
+
+
+
+
+
+ Establishment and purposes
+(a)
+ Establishment
+The Secretary shall establish an agricultural conservation easement program for the conservation of eligible land and natural resources through easements or other interests in land.
+
+
+
+
+(b)
+ Purposes
+The purposes of the program are to—
+(1)
+ combine the purposes and coordinate the functions of the wetlands reserve program established under 
+section 3837 of this title
+, the grassland reserve program established under 
+section 3838n of this title
+, and the farmland protection program established under 
+section 3838i of this title
+, as such sections were in effect on the day before 
+February 7, 2014
+;
+
+
+
+
+(2)
+ restore, protect, and enhance wetlands on eligible land;
+
+
+
+
+(3)
+ protect the agricultural use and future viability, and related conservation values, of eligible land by limiting nonagricultural uses of that land; and
+
+
+
+
+(4)
+ protect grazing uses and related conservation values by restoring and conserving eligible land.
+
+
+
+
+ Definitions
+ Agricultural land easements
+(a)
+ Availability of assistance
+The Secretary shall facilitate and provide funding for—
+(1)
+ the purchase by eligible entities of agricultural land easements in eligible land; and
+
+
+
+
+(2)
+ technical assistance to provide for the conservation of natural resources pursuant to an agricultural land easement plan.
+
+
+
+
+(b)
+ Cost-share assistance
+(1)
+ In general
+The Secretary shall protect the agricultural use, including grazing, and related conservation values of eligible land through cost-share assistance to eligible entities for purchasing agricultural land easements.
+
+
+
+
+
+
+(2)
+ Scope of assistance available
+(A)
+ Federal share
+An agreement described in paragraph (4) shall provide for a Federal share determined by the Secretary of an amount not to exceed 50 percent of the fair market value of the agricultural land easement, as determined by the Secretary using—
+(i)
+ the Uniform Standards of Professional Appraisal Practice;
+
+
+
+
+(ii)
+ an areawide market analysis or survey; or
+
+
+
+
+(iii)
+ another industry-approved method.
+
+
+
+
+
+
+(B)
+ Non-federal share
+(i)
+ In general
+Under the agreement, the eligible entity shall provide a share that is at least equivalent to that provided by the Secretary.
+
+
+
+
+
+
+(ii)
+ Source of contribution
+An eligible entity may include as part of its share under clause (i) a charitable donation or qualified conservation contribution (as defined by 
+section 170(h) of title 26
+) from the private landowner if the eligible entity contributes its own cash resources in an amount that is at least 50 percent of the amount contributed by the Secretary.
+
+
+
+
+
+
+
+
+(C)
+ Exception
+(i)
+ Grasslands
+In the case of grassland of special environmental significance, as determined by the Secretary, the Secretary may provide an amount not to exceed 75 percent of the fair market value of the agricultural land easement.
+
+
+
+
+
+
+(ii)
+ Cash contribution
+For purposes of subparagraph (B)(ii), the Secretary may waive any portion of the eligible entity cash contribution requirement for projects of special significance, subject to an increase in the private landowner donation that is equal to the amount of the waiver, if the donation is voluntary and the property is in active agricultural production.
+
+
+
+
+
+
+
+
+
+
+(3)
+ Evaluation and ranking of applications
+(A)
+ Criteria
+The Secretary shall establish evaluation and ranking criteria to maximize the benefit of Federal investment under the program.
+
+
+
+
+
+
+(B)
+ Considerations
+In establishing the criteria, the Secretary shall emphasize support for—
+(i)
+ protecting agricultural uses and related conservation values of the land; and
+
+
+
+
+(ii)
+ maximizing the protection of areas devoted to agricultural use.
+
+
+
+
+
+
+(C)
+ Bidding down
+If the Secretary determines that 2 or more applications for cost-share assistance are comparable in achieving the purpose of the program, the Secretary shall not assign a higher priority to any of those applications solely on the basis of lesser cost to the program.
+
+
+
+
+
+
+
+
+(4)
+ Agreements with eligible entities
+(A)
+ In general
+The Secretary shall enter into agreements with eligible entities to stipulate the terms and conditions under which the eligible entity is permitted to use cost-share assistance provided under this section.
+
+
+
+
+
+
+(B)
+ Length of agreements
+An agreement shall be for a term that is—
+(i)
+ in the case of an eligible entity certified under the process described in paragraph (5), a minimum of five years; and
+
+
+
+
+(ii)
+ for all other eligible entities, at least three, but not more than five years.
+
+
+
+
+
+
+(C)
+ Minimum terms and conditions
+An eligible entity shall be authorized to use its own terms and conditions for agricultural land easements so long as the Secretary determines such terms and conditions—
+(i)
+ are consistent with the purposes of the program;
+
+
+
+
+(ii)
+ permit effective enforcement of the conservation purposes of such easements;
+
+
+
+
+(iii)
+ include a right of enforcement for the Secretary, that may be used only if the terms of the easement are not enforced by the holder of the easement;
+
+
+
+
+(iv)
+ subject the land in which an interest is purchased to an agricultural land easement plan that—
+(I)
+ describes the activities which promote the long-term viability of the land to meet the purposes for which the easement was acquired;
+
+
+
+
+(II)
+ requires the management of grasslands according to a grasslands management plan; and
+
+
+
+
+(III)
+ includes a conservation plan, where appropriate, and requires, at the option of the Secretary, the conversion of highly erodible cropland to less intensive uses; and
+
+
+
+
+
+
+(v)
+ include a limit on the impervious surfaces to be allowed that is consistent with the agricultural activities to be conducted.
+
+
+
+
+
+
+(D)
+ Substitution of qualified projects
+An agreement shall allow, upon mutual agreement of the parties, substitution of qualified projects that are identified at the time of the proposed substitution.
+
+
+
+
+
+
+(E)
+ Effect of violation
+If a violation occurs of a term or condition of an agreement under this subsection—
+(i)
+ the Secretary may terminate the agreement; and
+
+
+
+
+(ii)
+ the Secretary may require the eligible entity to refund all or part of any payments received by the entity under the program, with interest on the payments as determined appropriate by the Secretary.
+
+
+
+
+
+
+
+
+(5)
+ Certification of eligible entities
+(A)
+ Certification process
+The Secretary shall establish a process under which the Secretary may—
+(i)
+ directly certify eligible entities that meet established criteria;
+
+
+
+
+(ii)
+ enter into long-term agreements with certified eligible entities; and
+
+
+
+
+(iii)
+ accept proposals for cost-share assistance for the purchase of agricultural land easements throughout the duration of such agreements.
+
+
+
+
+
+
+(B)
+ Certification criteria
+In order to be certified, an eligible entity shall demonstrate to the Secretary that the entity will maintain, at a minimum, for the duration of the agreement—
+(i)
+ a plan for administering easements that is consistent with the purpose of the program;
+
+
+
+
+(ii)
+ the capacity and resources to monitor and enforce agricultural land easements; and
+
+
+
+
+(iii)
+ policies and procedures to ensure—
+(I)
+ the long-term integrity of agricultural land easements on eligible land;
+
+
+
+
+(II)
+ timely completion of acquisitions of such easements; and
+
+
+
+
+(III)
+ timely and complete evaluation and reporting to the Secretary on the use of funds provided under the program.
+
+
+
+
+
+
+
+
+(C)
+ Review and revision
+(i)
+ Review
+The Secretary shall conduct a review of eligible entities certified under subparagraph (A) every three years to ensure that such entities are meeting the criteria established under subparagraph (B).
+
+
+
+
+
+
+(ii)
+ Revocation
+If the Secretary finds that a certified eligible entity no longer meets the criteria established under subparagraph (B), the Secretary may—
+(I)
+ allow the certified eligible entity a specified period of time, at a minimum 180 days, in which to take such actions as may be necessary to meet the criteria; and
+
+
+
+
+(II)
+ revoke the certification of the eligible entity, if, after the specified period of time, the certified eligible entity does not meet such criteria.
+
+
+
+
+
+
+
+
+
+
+(c)
+ Method of enrollment
+The Secretary shall enroll eligible land under this section through the use of—
+(1)
+ permanent easements; or
+
+
+
+
+(2)
+ easements for the maximum duration allowed under applicable State laws.
+
+
+
+
+(d)
+ Technical assistance
+The Secretary may provide technical assistance, if requested, to assist in—
+(1)
+ compliance with the terms and conditions of easements; and
+
+
+
+
+(2)
+ implementation of an agricultural land easement plan.
+
+
+
+
+ Wetland reserve easements
+(a)
+ Availability of assistance
+The Secretary shall provide assistance to owners of eligible land to restore, protect, and enhance wetlands through—
+(1)
+ wetland reserve easements and related wetland reserve easement plans; and
+
+
+
+
+(2)
+ technical assistance.
+
+
+
+
+(b)
+ Easements
+(1)
+ Method of enrollment
+The Secretary shall enroll eligible land under this section through the use of—
+(A)
+ 30-year easements;
+
+
+
+
+(B)
+ permanent easements;
+
+
+
+
+(C)
+ easements for the maximum duration allowed under applicable State laws; or
+
+
+
+
+(D)
+ as an option for Indian tribes only, 30-year contracts.
+
+
+
+
+
+
+(2)
+ Limitations
+(A)
+ Ineligible land
+The Secretary may not acquire easements on—
+(i)
+ land established to trees under the conservation reserve program, except in cases where the Secretary determines it would further the purposes of this section; and
+
+
+
+
+(ii)
+ farmed wetlands or converted wetlands where the conversion was not commenced prior to 
+December 23, 1985
+.
+
+
+
+
+
+
+(B)
+ Changes in ownership
+No wetland reserve easement shall be created on land that has changed ownership during the preceding 24-month period unless—
+(i)
+ the new ownership was acquired by will or succession as a result of the death of the previous owner;
+
+
+
+
+(ii)
+(I)
+ the ownership change occurred because of foreclosure on the land; and
+
+
+
+
+(II)
+ immediately before the foreclosure, the owner of the land exercises a right of redemption from the mortgage holder in accordance with State law; or
+
+
+
+
+
+
+(iii)
+ the Secretary determines that the land was acquired under circumstances that give adequate assurances that such land was not acquired for the purposes of placing it in the program.
+
+
+
+
+
+
+
+
+(3)
+ Evaluation and ranking of offers
+(A)
+ Criteria
+The Secretary shall establish evaluation and ranking criteria for offers from landowners under this section to maximize the benefit of Federal investment under the program.
+
+
+
+
+
+
+(B)
+ Considerations
+When evaluating offers from landowners, the Secretary may consider—
+(i)
+ the conservation benefits of obtaining a wetland reserve easement, including the potential environmental benefits if the land was removed from agricultural production;
+
+
+
+
+(ii)
+ the cost effectiveness of each wetland reserve easement, so as to maximize the environmental benefits per dollar expended;
+
+
+
+
+(iii)
+ whether the landowner or another person is offering to contribute financially to the cost of the wetland reserve easement to leverage Federal funds; and
+
+
+
+
+(iv)
+ such other factors as the Secretary determines are necessary to carry out the purposes of the program.
+
+
+
+
+
+
+(C)
+ Priority
+The Secretary shall give priority to acquiring wetland reserve easements based on the value of the wetland reserve easement for protecting and enhancing habitat for migratory birds and other wildlife.
+
+
+
+
+
+
+
+
+(4)
+ Agreement
+To be eligible to place eligible land into the program through a wetland reserve easement, the owner of such land shall enter into an agreement with the Secretary to—
+(A)
+ grant an easement on such land to the Secretary;
+
+
+
+
+(B)
+ authorize the implementation of a wetland reserve easement plan developed for the eligible land under subsection (f);
+
+
+
+
+(C)
+ create and record an appropriate deed restriction in accordance with applicable State law to reflect the easement agreed to;
+
+
+
+
+(D)
+ provide a written statement of consent to such easement signed by those holding a security interest in the land;
+
+
+
+
+(E)
+ comply with the terms and conditions of the easement and any related agreements; and
+
+
+
+
+(F)
+ permanently retire any existing base history for the land on which the easement has been obtained.
+
+
+
+
+
+
+(5)
+ Terms and conditions of easement
+(A)
+ In general
+A wetland reserve easement shall include terms and conditions that—
+(i)
+ permit—
+(I)
+ repairs, improvements, and inspections on the land that are necessary to maintain existing public drainage systems; and
+
+
+
+
+(II)
+ owners to control public access on the easement areas while identifying access routes to be used for restoration activities and management and easement monitoring;
+
+
+
+
+
+
+(ii)
+ prohibit—
+(I)
+ the alteration of wildlife habitat and other natural features of such land, unless specifically authorized by the Secretary;
+
+
+
+
+(II)
+ the spraying of such land with chemicals or the mowing of such land, except where such spraying or mowing is authorized by the Secretary or is necessary—
+(aa)
+ to comply with Federal or State noxious weed control laws;
+
+
+
+
+(bb)
+ to comply with a Federal or State emergency pest treatment program; or
+
+
+
+
+(cc)
+ to meet habitat needs of specific wildlife species;
+
+
+
+
+
+
+(III)
+ any activities to be carried out on the owner’s or successor’s land that is immediately adjacent to, and functionally related to, the land that is subject to the easement if such activities will alter, degrade, or otherwise diminish the functional value of the eligible land; and
+
+
+
+
+(IV)
+ the adoption of any other practice that would tend to defeat the purposes of the program, as determined by the Secretary;
+
+
+
+
+
+
+(iii)
+ provide for the efficient and effective establishment of wetland functions and values; and
+
+
+
+
+(iv)
+ include such additional provisions as the Secretary determines are desirable to carry out the program or facilitate the practical administration thereof.
+
+
+
+
+
+
+(B)
+ Violation
+On the violation of a term or condition of a wetland reserve easement, the wetland reserve easement shall remain in force and the Secretary may require the owner to refund all or part of any payments received by the owner under the program, with interest on the payments as determined appropriate by the Secretary.
+
+
+
+
+
+
+(C)
+ Compatible uses
+Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement of the wetland resources for which the easement was established.
+
+
+
+
+
+
+(D)
+ Reservation of grazing rights
+The Secretary may include in the terms and conditions of a wetland reserve easement a provision under which the owner reserves grazing rights if—
+(i)
+ the Secretary determines that the reservation and use of the grazing rights—
+(I)
+ is compatible with the land subject to the easement;
+
+
+
+
+(II)
+ is consistent with the historical natural uses of the land and the long-term protection and enhancement goals for which the easement was established; and
+
+
+
+
+(III)
+ complies with the wetland reserve easement plan developed for the land under subsection (f); and
+
+
+
+
+
+
+(ii)
+ the agreement provides for a commensurate reduction in the easement payment to account for the grazing value, as determined by the Secretary.
+
+
+
+
+
+
+
+
+(6)
+ Compensation
+(A)
+ Determination
+(i)
+ Permanent easements
+The Secretary shall pay as compensation for a permanent wetland reserve easement acquired under the program an amount necessary to encourage enrollment in the program, based on the lowest of—
+(I)
+ the fair market value of the land, as determined by the Secretary, using the Uniform Standards of Professional Appraisal Practice or an areawide market analysis or survey;
+
+
+
+
+(II)
+ the amount corresponding to a geographical cap, as determined by the Secretary in regulations; or
+
+
+
+
+(III)
+ the offer made by the landowner.
+
+
+
+
+
+
+(ii)
+ Other
+Compensation for a 30-year contract or 30-year wetland reserve easement shall be not less than 50 percent, but not more than 75 percent, of the compensation that would be paid for a permanent wetland reserve easement.
+
+
+
+
+
+
+
+
+(B)
+ Form of payment
+Compensation for a wetland reserve easement shall be provided by the Secretary in the form of a cash payment, in an amount determined under subparagraph (A).
+
+
+
+
+
+
+(C)
+ Payment schedule
+(i)
+ Easements valued at $500,000 or less
+For wetland reserve easements valued at $500,000 or less, the Secretary may provide payments in not more than 10 annual payments.
+
+
+
+
+
+
+(ii)
+ Easements valued at more than $500,000
+For wetland reserve easements valued at more than $500,000, the Secretary may provide payments in at least 5, but not more than 10 annual payments, except that, if the Secretary determines it would further the purposes of the program, the Secretary may make a lump-sum payment for such an easement.
+
+
+
+
+
+
+
+
+
+
+(c)
+ Easement restoration
+(1)
+ In general
+The Secretary shall provide financial assistance to owners of eligible land to carry out the establishment of conservation measures and practices and protect wetland functions and values, including necessary maintenance activities, as set forth in a wetland reserve easement plan developed for the eligible land under subsection (f).
+
+
+
+
+
+
+(2)
+ Payments
+The Secretary shall—
+(A)
+ in the case of a permanent wetland reserve easement, pay an amount that is not less than 75 percent, but not more than 100 percent, of the eligible costs, as determined by the Secretary; and
+
+
+
+
+(B)
+ in the case of a 30-year contract or 30-year wetland reserve easement, pay an amount that is not less than 50 percent, but not more than 75 percent, of the eligible costs, as determined by the Secretary.
+
+
+
+
+
+
+(d)
+ Technical assistance
+(1)
+ In general
+The Secretary shall assist owners in complying with the terms and conditions of a wetland reserve easement.
+
+
+
+
+
+
+(2)
+ Contracts or agreements
+The Secretary may enter into 1 or more contracts with private entities or agreements with a State, nongovernmental organization, or Indian tribe to carry out necessary restoration, enhancement, or maintenance of a wetland reserve easement if the Secretary determines that the contract or agreement will advance the purposes of the program.
+
+
+
+
+
+
+(e)
+ Wetland reserve enhancement option
+The Secretary may enter into 1 or more agreements with a State (including a political subdivision or agency of a State), nongovernmental organization, or Indian tribe to carry out a special wetland reserve enhancement option that the Secretary determines would advance the purposes of program.
+
+
+
+
+(f)
+ Administration
+(1)
+ Wetland reserve easement plan
+The Secretary shall develop a wetland reserve easement plan for any eligible land subject to a wetland reserve easement, which shall include practices and activities necessary to restore, protect, enhance, and maintain the enrolled land.
+
+
+
+
+
+
+(2)
+ Delegation of easement administration
+(A)
+ In general
+The Secretary may delegate any of the management, monitoring, and enforcement responsibilities of the Secretary under this section to other Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities, or to conservation organizations if the Secretary determines the organization has similar expertise and resources.
+
+
+
+
+
+
+(B)
+ Limitation
+The Secretary shall not delegate any of the monitoring or enforcement responsibilities under this section to conservation organizations.
+
+
+
+
+
+
+
+
+(3)
+ Payments
+(A)
+ Timing of payments
+The Secretary shall provide payment for obligations incurred by the Secretary under this section—
+(i)
+ with respect to any easement restoration obligation under subsection (c), as soon as possible after the obligation is incurred; and
+
+
+
+
+(ii)
+ with respect to any annual easement payment obligation incurred by the Secretary, as soon as possible after October 1 of each calendar year.
+
+
+
+
+
+
+(B)
+ Payments to others
+If an owner who is entitled to a payment under this section dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person or entity who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
+
+
+
+
+
+
+
+
+(g)
+ Application
+The relevant provisions of this section shall also apply to a 30-year contract.
+
+
+
+
+ Administration
+(a)
+ Ineligible land
+The Secretary may not use program funds for the purposes of acquiring an easement on—
+(1)
+ lands owned by an agency of the United States, other than land held in trust for Indian tribes;
+
+
+
+
+(2)
+ lands owned in fee title by a State, including an agency or a subdivision of a State, or a unit of local government;
+
+
+
+
+(3)
+ land subject to an easement or deed restriction which, as determined by the Secretary, provides similar protection as would be provided by enrollment in the program; or
+
+
+
+
+(4)
+ lands where the purposes of the program would be undermined due to on-site or off-site conditions, such as risk of hazardous substances, proposed or existing rights of way, infrastructure development, or adjacent land uses.
+
+
+
+
+(b)
+ Priority
+In evaluating applications under the program, the Secretary may give priority to land that is currently enrolled in the conservation reserve program in a contract that is set to expire within 1 year and—
+(1)
+ in the case of an agricultural land easement, is grassland that would benefit from protection under a long-term easement; and
+
+
+
+
+(2)
+ in the case of a wetland reserve easement, is a wetland or related area with the highest wetland functions and value and is likely to return to production after the land leaves the conservation reserve program.
+
+
+
+
+(c)
+ Subordination, exchange, modification, and termination
+(1)
+ In general
+The Secretary may subordinate, exchange, modify, or terminate any interest in land, or portion of such interest, administered by the Secretary, either directly or on behalf of the Commodity Credit Corporation under the program if the Secretary determines that—
+(A)
+ it is in the Federal Government’s interest to subordinate, exchange, modify, or terminate the interest in land;
+
+
+
+
+(B)
+ the subordination, exchange, modification, or termination action—
+(i)
+ will address a compelling public need for which there is no practicable alternative; or
+
+
+
+
+(ii)
+ such action will further the practical administration of the program; and
+
+
+
+
+
+
+(C)
+ the subordination, exchange, modification, or termination action will result in comparable conservation value and equivalent or greater economic value to the United States.
+
+
+
+
+
+
+(2)
+ Consultation
+The Secretary shall work with the owner, and eligible entity if applicable, to address any subordination, exchange, modification, or termination of the interest, or portion of such interest, in land.
+
+
+
+
+
+
+(3)
+ Notice
+At least 90 days before taking any termination action described in paragraph (1), the Secretary shall provide written notice of such action to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+
+
+
+
+
+(d)
+ Land enrolled in other programs
+(1)
+ Conservation reserve program
+The Secretary may terminate or modify a contract entered into under 
+section 3831(a) of this title
+ if eligible land that is subject to such contract is transferred into the program.
+
+
+
+
+
+
+(2)
+ Other
+In accordance with the provisions of subtitle H of title II of the Agricultural Act of 2014, land enrolled in the wetlands reserve program, grassland reserve program, or farmland protection program on the day before 
+February 7, 2014
+, shall be considered enrolled in the program.
+
+
+
+
+
+
+(e)
+ Compliance with certain requirements
+The Secretary may not provide assistance under this subchapter to an eligible entity or owner of eligible land unless the eligible entity or owner agrees, during the crop year for which the assistance is provided—
+(1)
+ to comply with applicable conservation requirements under subchapter II; and
+
+
+
+
+(2)
+ to comply with applicable wetland protection requirements under subchapter III.
+
+
+
+
+ Establishment and purposes
+(a)
+ Establishment
+The Secretary shall establish a regional conservation partnership program to implement eligible activities on eligible land through—
+(1)
+ partnership agreements with eligible partners; and
+
+
+
+
+(2)
+ contracts with producers.
+
+
+
+
+(b)
+ Purposes
+The purposes of the program are as follows:
+(1)
+ To use covered programs to accomplish purposes and functions similar to those of the following programs, as in effect on the day before 
+February 7, 2014
+:
+(A)
+ The agricultural water enhancement program established under 
+section 3839aa–9 of this title
+.
+
+
+
+
+(B)
+ The Chesapeake Bay watershed program established under 
+section 3839bb–4 of this title
+.
+
+
+
+
+(C)
+ The cooperative conservation partnership initiative established under 
+section 3843 of this title
+.
+
+
+
+
+(D)
+ The Great Lakes basin program for soil erosion and sediment control established under 
+section 3839bb–3 of this title
+.
+
+
+
+
+
+
+(2)
+ To further the conservation, restoration, and sustainable use of soil, water, wildlife, and related natural resources on eligible land on a regional or watershed scale.
+
+
+
+
+(3)
+ To encourage eligible partners to cooperate with producers in—
+(A)
+ meeting or avoiding the need for national, State, and local natural resource regulatory requirements related to production on eligible land; and
+
+
+
+
+(B)
+ implementing projects that will result in the installation and maintenance of eligible activities that affect multiple agricultural or nonindustrial private forest operations on a local, regional, State, or multistate basis.
+
+
+
+
+
+
+ Definitions
+ Regional conservation partnerships
+(a)
+ Partnership agreements authorized
+The Secretary may enter into a partnership agreement with an eligible partner to implement a project that will assist producers with installing and maintaining an eligible activity on eligible land.
+
+
+
+
+(b)
+ Length
+A partnership agreement shall be for a period not to exceed 5 years, except that the Secretary may extend the agreement one time for up to 12 months when an extension is necessary to meet the objectives of the program.
+
+
+
+
+(c)
+ Duties of partners
+(1)
+ In general
+Under a partnership agreement, the eligible partner shall—
+(A)
+ define the scope of a project, including—
+(i)
+ the eligible activities to be implemented;
+
+
+
+
+(ii)
+ the potential agricultural or nonindustrial private forest land operations affected;
+
+
+
+
+(iii)
+ the local, State, multistate, or other geographic area covered; and
+
+
+
+
+(iv)
+ the planning, outreach, implementation, and assessment to be conducted;
+
+
+
+
+
+
+(B)
+ conduct outreach and education to producers for potential participation in the project;
+
+
+
+
+(C)
+ at the request of a producer, act on behalf of a producer participating in the project in applying for assistance under 
+section 3871c of this title
+;
+
+
+
+
+(D)
+ leverage financial or technical assistance provided by the Secretary with additional funds to help achieve the project objectives;
+
+
+
+
+(E)
+ conduct an assessment of the project’s effects; and
+
+
+
+
+(F)
+ at the conclusion of the project, report to the Secretary on its results and funds leveraged.
+
+
+
+
+
+
+(2)
+ Contribution
+An eligible partner shall provide a significant portion of the overall costs of the scope of the project that is the subject of the agreement entered into under subsection (a), as determined by the Secretary.
+
+
+
+
+
+
+(d)
+ Applications
+(1)
+ Competitive process
+The Secretary shall conduct a competitive process to select applications for partnership agreements and may assess and rank applications with similar conservation purposes as a group.
+
+
+
+
+
+
+(2)
+ Criteria used
+In carrying out the process described in paragraph (1), the Secretary shall make public the criteria used in evaluating applications.
+
+
+
+
+
+
+(3)
+ Content
+An application to the Secretary shall include a description of—
+(A)
+ the scope of the project, as described in subsection (c)(1)(A);
+
+
+
+
+(B)
+ the plan for monitoring, evaluating, and reporting on progress made toward achieving the project’s objectives;
+
+
+
+
+(C)
+ the program resources requested for the project, including the covered programs to be used and estimated funding needed from the Secretary;
+
+
+
+
+(D)
+ each eligible partner collaborating to achieve project objectives, including their roles, responsibilities, capabilities, and financial contribution; and
+
+
+
+
+(E)
+ any other elements the Secretary considers necessary to adequately evaluate and competitively select applications for funding under the program.
+
+
+
+
+
+
+(4)
+ Priority to certain applications
+The Secretary may give a higher priority to applications that—
+(A)
+ assist producers in meeting or avoiding the need for a natural resource regulatory requirement;
+
+
+
+
+(B)
+ have a high percentage of producers in the area to be covered by the agreement;
+
+
+
+
+(C)
+ significantly leverage non-Federal financial and technical resources and coordinate with other local, State, or national efforts;
+
+
+
+
+(D)
+ deliver high percentages of applied conservation to address conservation priorities or regional, State, or national conservation initiatives;
+
+
+
+
+(E)
+ provide innovation in conservation methods and delivery, including outcome-based performance measures and methods; or
+
+
+
+
+(F)
+ meet other factors that are important for achieving the purposes of the program, as determined by the Secretary.
+
+
+
+
+
+
+ Assistance to producers
+(a)
+ In general
+The Secretary shall enter into contracts with producers to provide financial and technical assistance to—
+(1)
+ producers participating in a project with an eligible partner; or
+
+
+
+
+(2)
+ producers that fit within the scope of a project described in 
+section 3871b of this title
+ or a critical conservation area designated under 
+section 3871f of this title
+, but who are seeking to implement an eligible activity on eligible land independent of an eligible partner.
+
+
+
+
+(b)
+ Terms and conditions
+(1)
+ Consistency with program rules
+(A)
+ In general
+Except as provided in subparagraph (B) and paragraph (2), the Secretary shall ensure that the terms and conditions of a contract under this section are consistent with the applicable rules of the covered programs to be used as part of the partnership agreement, as described in the application under 
+section 3871b(d)(3)(C) of this title
+.
+
+
+
+
+
+
+(B)
+ Adjustments
+(i)
+ In general
+The Secretary may adjust the rules of a covered program, including—
+(I)
+ operational guidance and requirements for a covered program at the discretion of the Secretary so as to provide a simplified application and evaluation process; and
+
+
+
+
+(II)
+ nonstatutory, regulatory rules or provisions to better reflect unique local circumstances and purposes if the Secretary determines such adjustments are necessary to achieve the purposes of the covered program.
+
+
+
+
+
+
+(ii)
+ Limitation
+The Secretary shall not adjust the application of statutory requirements for a covered program, including requirements governing appeals, payment limits, and conservation compliance.
+
+
+
+
+
+
+(iii)
+ Irrigation
+In States where irrigation has not been used significantly for agricultural purposes, as determined by the Secretary, the Secretary shall not limit eligibility under 
+section 3871b of this title
+ or this section on the basis of prior irrigation history.
+
+
+
+
+
+
+
+
+
+
+(2)
+ Alternative funding arrangements
+(A)
+ In general
+For the purposes of providing assistance for land described in subsection (a) and 
+section 3871f of this title
+, the Secretary may enter into alternative funding arrangements with a multistate water resource agency or authority if—
+(i)
+ the Secretary determines that the goals and objectives of the program will be met by the alternative funding arrangements;
+
+
+
+
+(ii)
+ the agency or authority certifies that the limitations established under this section on agreements with individual producers will not be exceeded; and
+
+
+
+
+(iii)
+ all participating producers meet applicable payment eligibility provisions.
+
+
+
+
+
+
+(B)
+ Conditions
+As a condition of receiving funding under subparagraph (A), the multistate water resource agency or authority shall agree—
+(i)
+ to submit an annual independent audit to the Secretary that describes the use of funds under this paragraph;
+
+
+
+
+(ii)
+ to provide any data necessary for the Secretary to issue a report on the use of funds under this paragraph; and
+
+
+
+
+(iii)
+ not to use any of the funds provided pursuant to subparagraph (A) for administration or to provide for administrative costs through contracts with another entity.
+
+
+
+
+
+
+(C)
+ Limitation
+The Secretary may enter into not more than 20 alternative funding arrangements under this paragraph.
+
+
+
+
+
+
+
+
+(c)
+ Payments
+(1)
+ In general
+In accordance with statutory requirements of the covered programs involved, the Secretary may make payments to a producer in an amount determined by the Secretary to be necessary to achieve the purposes of the program.
+
+
+
+
+
+
+(2)
+ Payments to certain producers
+The Secretary may provide payments for a period of 5 years—
+(A)
+ to producers participating in a project that addresses water quantity concerns and in an amount sufficient to encourage conversion from irrigated to dryland farming; and
+
+
+
+
+(B)
+ to producers participating in a project that addresses water quality concerns and in an amount sufficient to encourage adoption of conservation practices and systems that improve nutrient management.
+
+
+
+
+
+
+(3)
+ Waiver authority
+To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in 
+section 1308–3a of title 7
+ for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.
+
+
+
+
+
+
+ Funding
+(a)
+ Availability of funds
+The Secretary shall use $100,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2014 through 2018 to carry out the program.
+
+
+
+
+(b)
+ Duration of availability
+Funds made available under subsection (a) shall remain available until expended.
+
+
+
+
+(c)
+ Additional funding and acres
+(1)
+ In general
+In addition to the funds made available under subsection (a), the Secretary shall reserve 7 percent of the funds and acres made available for a covered program for each of fiscal years 2014 through 2018 in order to ensure additional resources are available to carry out this program.
+
+
+
+
+
+
+(2)
+ Unused funds and acres
+Any funds or acres reserved under paragraph (1) for a fiscal year from a covered program that are not committed under this program by April 1 of that fiscal year shall be returned for use under the covered program.
+
+
+
+
+
+
+(d)
+ Allocation of funding
+Of the funds and acres made available for the program under subsection (a) and reserved for the program under subsection (c), the Secretary shall allocate—
+(1)
+ 25 percent of the funds and acres to projects based on a State competitive process administered by the State Conservationist, with the advice of the State technical committee established under subchapter VI;
+
+
+
+
+(2)
+ 40 percent of the funds and acres to projects based on a national competitive process to be established by the Secretary; and
+
+
+
+
+(3)
+ 35 percent of the funds and acres to projects for critical conservation areas designated under 
+section 3871f of this title
+.
+
+
+
+
+(e)
+ Limitation on administrative expenses
+None of the funds made available or reserved for the program may be used to pay for the administrative expenses of eligible partners.
+
+
+
+
+ Administration
+(a)
+ Disclosure
+In addition to the criteria used in evaluating applications as described in 
+section 3871b(d)(2) of this title
+, the Secretary shall make publicly available information on projects selected through the competitive process described in 
+section 3871b(d)(1) of this title
+.
+
+
+
+
+(b)
+ Reporting
+Not later than 
+December 31, 2014
+, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the status of projects funded under the program, including—
+(1)
+ the number and types of eligible partners and producers participating in the partnership agreements selected;
+
+
+
+
+(2)
+ the number of producers receiving assistance;
+
+
+
+
+(3)
+ total funding committed to projects, including from Federal and non-Federal resources; and
+
+
+
+
+(4)
+ a description of how the funds under 
+section 3871c(b)(2) of this title
+ are being administered, including—
+(A)
+ any oversight mechanisms that the Secretary has implemented;
+
+
+
+
+(B)
+ the process through which the Secretary is resolving appeals by program participants; and
+
+
+
+
+(C)
+ the means by which the Secretary is tracking adherence to any applicable provisions for payment eligibility.
+
+
+
+
+
+
+ Critical conservation areas
+(a)
+ In general
+In administering funds under 
+section 3871d(d)(3) of this title
+, the Secretary shall select applications for partnership agreements and producer contracts within critical conservation areas designated under this section.
+
+
+
+
+(b)
+ Critical conservation area designations
+(1)
+ Priority
+In designating critical conservation areas under this section, the Secretary shall give priority to geographical areas based on the degree to which the geographical area—
+(A)
+ includes multiple States with significant agricultural production;
+
+
+
+
+(B)
+ is covered by an existing regional, State, binational, or multistate agreement or plan that has established objectives, goals, and work plans and is adopted by a Federal, State, or regional authority;
+
+
+
+
+(C)
+ would benefit from water quality improvement, including through reducing erosion, promoting sediment control, and addressing nutrient management activities affecting large bodies of water of regional, national, or international significance;
+
+
+
+
+(D)
+ would benefit from water quantity improvement, including improvement relating to—
+(i)
+ groundwater, surface water, aquifer, or other water sources; or
+
+
+
+
+(ii)
+ a need to promote water retention and flood prevention; or
+
+
+
+
+
+
+(E)
+ contains producers that need assistance in meeting or avoiding the need for a natural resource regulatory requirement that could have a negative impact on the economic scope of the agricultural operations within the area.
+
+
+
+
+
+
+(2)
+ Expiration
+Critical conservation area designations under this section shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw designation from an area if the Secretary finds the area no longer meets the conditions described in paragraph (1).
+
+
+
+
+
+
+(3)
+ Limitation
+The Secretary may not designate more than 8 geographical areas as critical conservation areas under this section.
+
+
+
+
+
+
+(c)
+ Administration
+(1)
+ In general
+Except as provided in paragraph (2), the Secretary shall administer any partnership agreement or producer contract under this section in a manner that is consistent with the terms of the program.
+
+
+
+
+
+
+(2)
+ Relationship to existing activity
+The Secretary shall, to the maximum extent practicable, ensure that eligible activities carried out in critical conservation areas designated under this section complement and are consistent with other Federal and State programs and water quality and quantity strategies.
+
+
+
+
+
+
+(3)
+ Additional authority
+For a critical conservation area described in subsection (b)(1)(D), the Secretary may use authorities under the Watershed Protection and Flood Prevention Act (
+16 U.S.C. 1001
+ et seq.), other than section 14 of such Act (
+16 U.S.C. 1012
+), to carry out projects for the purposes of this section.
+
+
+
+
+
+

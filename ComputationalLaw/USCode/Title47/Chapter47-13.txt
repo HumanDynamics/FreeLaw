@@ -1,0 +1,2979 @@
+
+Chapter 13
+PUBLIC SAFETY COMMUNICATIONS AND ELECTROMAGNETIC SPECTRUM AUCTIONS
+ Definitions
+ Rule of construction
+Each range of frequencies described in this chapter shall be construed to be inclusive of the upper and lower frequencies in the range.
+ Enforcement
+(a)
+ In general
+The Commission shall implement and enforce this chapter as if this chapter is a part of the Communications Act of 1934 (
+47 U.S.C. 151
+ et seq.). A violation of this chapter, or a regulation promulgated under this chapter, shall be considered to be a violation of the Communications Act of 1934, or a regulation promulgated under such Act, respectively.
+
+
+
+
+(b)
+ Exceptions
+(1)
+ Other agencies
+Subsection (a) does not apply in the case of a provision of this chapter that is expressly required to be carried out by an agency (as defined in 
+section 551 of title 5
+) other than the Commission.
+
+
+
+
+
+
+(2)
+ NTIA regulations
+The Assistant Secretary may promulgate such regulations as are necessary to implement and enforce any provision of this chapter that is expressly required to be carried out by the Assistant Secretary.
+
+
+
+
+
+
+ National security restrictions on use of funds and auction participation
+(a)
+ Use of funds
+No funds made available by subchapter II or III may be used to make payments under a contract to a person described in subsection (c).
+
+
+
+
+(b)
+ Auction participation
+A person described in subsection (c) may not participate in a system of competitive bidding under 
+section 309(j) of this title
+—
+(1)
+ that is required to be conducted by this chapter; or
+
+
+
+
+(2)
+ in which any spectrum usage rights for which licenses are being assigned were made available under clause (i) of subparagraph (G) of paragraph (8) of such section, as added by section 6402.
+
+
+
+
+(c)
+ Person described
+A person described in this subsection is a person who has been, for reasons of national security, barred by any agency of the Federal Government from bidding on a contract, participating in an auction, or receiving a grant.
+
+
+
+
+ Reallocation of D block to public safety
+(a)
+ In general
+The Commission shall reallocate the 700 MHz D block spectrum for use by public safety entities in accordance with the provisions of this chapter.
+
+
+
+
+(b)
+ Omitted
+
+
+ Flexible use of narrowband spectrum
+The Commission may allow the narrowband spectrum to be used in a flexible manner, including usage for public safety broadband communications, subject to such technical and interference protection measures as the Commission may require.
+ 470–512 MHz public safety spectrum
+(a)
+ In general
+Not later than 9 years after 
+February 22, 2012
+, the Commission shall—
+(1)
+ reallocate the spectrum in the 470–512 MHz band (referred to in this section as the “T-Band spectrum”) currently used by public safety eligibles as identified in section 90.303 of title 47, Code of Federal Regulations; and
+
+
+
+
+(2)
+ begin a system of competitive bidding under 
+section 309(j) of this title
+ to grant new initial licenses for the use of the spectrum described in paragraph (1).
+
+
+
+
+(b)
+ Auction proceeds
+Proceeds (including deposits and upfront payments from successful bidders) from the competitive bidding system described in subsection (a)(2) shall be available to the Assistant Secretary to make grants in such sums as necessary to cover relocation costs for the relocation of public safety entities from the T-Band spectrum.
+
+
+
+
+(c)
+ Relocation
+Relocation shall be completed not later than 2 years after the date on which the system of competitive bidding described in subsection (a)(2) is completed.
+
+
+
+
+ Single public safety wireless network licensee
+(a)
+ Reallocation and grant of license
+Notwithstanding any other provision of law, and subject to the provisions of this chapter, the Commission shall reallocate and grant a license to the First Responder Network Authority for the use of the 700 MHz D block spectrum and existing public safety broadband spectrum.
+
+
+
+
+(b)
+ Term of license
+(1)
+ Initial license
+The license granted under subsection (a) shall be for an initial term of 10 years from the date of the initial issuance of the license.
+
+
+
+
+
+
+(2)
+ Renewal of license
+Prior to expiration of the term of the initial license granted under subsection (a) or the expiration of any subsequent renewal of such license, the First Responder Network Authority shall submit to the Commission an application for the renewal of such license. Such renewal application shall demonstrate that, during the preceding license term, the First Responder Network Authority has met the duties and obligations set forth under this chapter. A renewal license granted under this paragraph shall be for a term of not to exceed 10 years.
+
+
+
+
+
+
+(c)
+ Facilitation of transition
+The Commission shall take all actions necessary to facilitate the transition of the existing public safety broadband spectrum to the First Responder Network Authority.
+
+
+
+
+ Public safety broadband network
+(a)
+ Establishment
+The First Responder Network Authority shall ensure the establishment of a nationwide, interoperable public safety broadband network.
+
+
+
+
+(b)
+ Network components
+The nationwide public safety broadband network shall be based on a single, national network architecture that evolves with technological advancements and initially consists of—
+(1)
+ a core network that—
+(A)
+ consists of national and regional data centers, and other elements and functions that may be distributed geographically, all of which shall be based on commercial standards; and
+
+
+
+
+(B)
+ provides the connectivity between—
+(i)
+ the radio access network; and
+
+
+
+
+(ii)
+ the public Internet or the public switched network, or both; and
+
+
+
+
+
+
+
+
+(2)
+ a radio access network that—
+(A)
+ consists of all cell site equipment, antennas, and backhaul equipment, based on commercial standards, that are required to enable wireless communications with devices using the public safety broadband spectrum; and
+
+
+
+
+(B)
+ shall be developed, constructed, managed, maintained, and operated taking into account the plans developed in the State, local, and tribal planning and implementation grant program under 
+section 1442(a) of this title
+.
+
+
+
+
+
+
+ Public safety Interoperability Board
+(a)
+ Establishment
+There is established within the Commission an advisory board to be known as the “Technical Advisory Board for First Responder Interoperability”.
+
+
+
+
+(b)
+ Membership
+(1)
+ In general
+(A)
+ Voting members
+Not later than 30 days after 
+February 22, 2012
+, the Chairman of the Commission shall appoint 14 voting members to the Interoperability Board, of which—
+(i)
+ 4 members shall be representatives of wireless providers, of which—
+(I)
+ 2 members shall be representatives of national wireless providers;
+
+
+
+
+(II)
+ 1 member shall be a representative of regional wireless providers; and
+
+
+
+
+(III)
+ 1 member shall be a representative of rural wireless providers;
+
+
+
+
+
+
+(ii)
+ 3 members shall be representatives of equipment manufacturers;
+
+
+
+
+(iii)
+ 4 members shall be representatives of public safety entities, of which—
+(I)
+ not less than 1 member shall be a representative of management level employees of public safety entities; and
+
+
+
+
+(II)
+ not less than 1 member shall be a representative of employees of public safety entities;
+
+
+
+
+
+
+(iv)
+ 3 members shall be representatives of State and local governments, chosen to reflect geographic and population density differences across the United States; and
+
+
+
+
+(v)
+ all members shall have specific expertise necessary to developing technical requirements under this section, such as technical expertise, public safety communications expertise, and commercial network experience.
+
+
+
+
+
+
+(B)
+ Non-voting member
+The Assistant Secretary shall appoint 1 non-voting member to the Interoperability Board.
+
+
+
+
+
+
+
+
+(2)
+ Period of appointment
+(A)
+ In general
+Except as provided in subparagraph (B), members of the Interoperability Board shall be appointed for the life of the Interoperability Board.
+
+
+
+
+
+
+(B)
+ Removal for cause
+A member of the Interoperability Board may be removed for cause upon the determination of the Chairman of the Commission.
+
+
+
+
+
+
+
+
+(3)
+ Vacancies
+Any vacancy in the Interoperability Board shall not affect the powers of the Interoperability Board, and shall be filled in the same manner as the original appointment.
+
+
+
+
+
+
+(4)
+ Chairperson and Vice Chairperson
+The Interoperability Board shall select a Chairperson and Vice Chairperson from among the members of the Interoperability Board.
+
+
+
+
+
+
+(5)
+ Quorum
+A majority of the members of the Interoperability Board shall constitute a quorum.
+
+
+
+
+
+
+(c)
+ Duties of the Interoperability Board
+(1)
+ Development of technical requirements
+Not later than 90 days after 
+February 22, 2012
+, the Interoperability Board, in consultation with the NTIA, NIST, and the Office of Emergency Communications of the Department of Homeland Security, shall—
+(A)
+ develop recommended minimum technical requirements to ensure a nationwide level of interoperability for the nationwide public safety broadband network; and
+
+
+
+
+(B)
+ submit to the Commission for review in accordance with paragraph (3) recommended minimum technical requirements described in subparagraph (A).
+
+
+
+
+
+
+(2)
+ Consideration
+In developing recommended minimum technical requirements under paragraph (1), the Interoperability Board shall base the recommended minimum technical requirements on the commercial standards for Long Term Evolution (LTE) service.
+
+
+
+
+
+
+(3)
+ Approval of recommendations
+(A)
+ In general
+Not later than 30 days after the date on which the Interoperability Board submits recommended minimum technical requirements under paragraph (1)(B), the Commission shall approve the recommendations, with any revisions it deems necessary, and transmit such recommendations to the First Responder Network Authority.
+
+
+
+
+
+
+(B)
+ Review
+Any actions taken under subparagraph (A) shall not be reviewable as a final agency action.
+
+
+
+
+
+
+
+
+(d)
+ Travel expenses
+The members of the Interoperability Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
+
+
+
+
+(e)
+ Exemption from FACA
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Interoperability Board.
+
+
+
+
+(f)
+ Termination of authority
+The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
+
+
+
+
+ Establishment of the First Responder Network Authority
+(a)
+ Establishment
+There is established as an independent authority within the NTIA the “First Responder Network Authority” or “FirstNet”.
+
+
+
+
+(b)
+ Board
+(1)
+ In general
+The First Responder Network Authority shall be headed by a Board, which shall consist of—
+(A)
+ the Secretary of Homeland Security;
+
+
+
+
+(B)
+ the Attorney General of the United States;
+
+
+
+
+(C)
+ the Director of the Office of Management and Budget; and
+
+
+
+
+(D)
+ 12 individuals appointed by the Secretary of Commerce in accordance with paragraph (2).
+
+
+
+
+
+
+(2)
+ Appointments
+(A)
+ In general
+In making appointments under paragraph (1)(D), the Secretary of Commerce shall—
+(i)
+ appoint not fewer than 3 individuals to represent the collective interests of the States, localities, tribes, and territories;
+
+
+
+
+(ii)
+ seek to ensure geographic and regional representation of the United States in such appointments;
+
+
+
+
+(iii)
+ seek to ensure rural and urban representation in such appointments; and
+
+
+
+
+(iv)
+ appoint not fewer than 3 individuals who have served as public safety professionals.
+
+
+
+
+
+
+(B)
+ Required qualifications
+(i)
+ In general
+Each member appointed under paragraph (1)(D) should meet not less than 1 of the following criteria:
+(I)
+ Public safety experience
+Knowledge and experience in the use of Federal, State, local, or tribal public safety or emergency response.
+
+
+
+
+
+
+(II)
+ Technical expertise
+Technical expertise and fluency regarding broadband communications, including public safety communications.
+
+
+
+
+
+
+(III)
+ Network expertise
+Expertise in building, deploying, and operating commercial telecommunications networks.
+
+
+
+
+
+
+(IV)
+ Financial expertise
+Expertise in financing and funding telecommunications networks.
+
+
+
+
+
+
+
+
+(ii)
+ Expertise to be represented
+In making appointments under paragraph (1)(D), the Secretary of Commerce shall appoint—
+(I)
+ not fewer than 1 individual who satisfies the requirement under subclause (II) of clause (i);
+
+
+
+
+(II)
+ not fewer than 1 individual who satisfies the requirement under subclause (III) of clause (i); and
+
+
+
+
+(III)
+ not fewer than 1 individual who satisfies the requirement under subclause (IV) of clause (i).
+
+
+
+
+
+
+
+
+(C)
+ Citizenship
+No individual other than a citizen of the United States may serve as a member of the Board.
+
+
+
+
+
+
+
+
+(c)
+ Terms of appointment
+(1)
+ Initial appointment deadline
+Members of the Board shall be appointed not later than 180 days after 
+February 22, 2012
+.
+
+
+
+
+
+
+(2)
+ Terms
+(A)
+ Length
+(i)
+ In general
+Each member of the Board described in subparagraphs (A) through (C) of subsection (b)(1) shall serve as a member of the Board for the life of the First Responder Network Authority.
+
+
+
+
+
+
+(ii)
+ Appointed individuals
+The term of office of each individual appointed to be a member of the Board under subsection (b)(1)(D) shall be 3 years. No member described in this clause may serve more than 2 consecutive full 3-year terms.
+
+
+
+
+
+
+
+
+(B)
+ Expiration of term
+Any member whose term has expired may serve until such member’s successor has taken office, or until the end of the calendar year in which such member’s term has expired, whichever is earlier.
+
+
+
+
+
+
+(C)
+ Appointment to fill vacancy
+Any member appointed to fill a vacancy occurring prior to the expiration of the term for which that member’s predecessor was appointed shall be appointed for the remainder of the predecessor’s term.
+
+
+
+
+
+
+(D)
+ Staggered terms
+With respect to the initial members of the Board appointed under subsection (b)(1)(D)—
+(i)
+ 4 members shall serve for a term of 3 years;
+
+
+
+
+(ii)
+ 4 members shall serve for a term of 2 years; and
+
+
+
+
+(iii)
+ 4 members shall serve for a term of 1 year.
+
+
+
+
+
+
+
+
+(3)
+ Vacancies
+A vacancy in the membership of the Board shall not affect the Board’s powers, and shall be filled in the same manner as the original member was appointed.
+
+
+
+
+
+
+(d)
+ Chair
+(1)
+ Selection
+The Secretary of Commerce shall select, from among the members of the Board appointed under subsection (b)(1)(D), an individual to serve for a 2-year term as Chair of the Board.
+
+
+
+
+
+
+(2)
+ Consecutive terms
+An individual may not serve for more than 2 consecutive terms as Chair of the Board.
+
+
+
+
+
+
+(e)
+ Meetings
+(1)
+ Frequency
+The Board shall meet—
+(A)
+ at the call of the Chair; and
+
+
+
+
+(B)
+ not less frequently than once each quarter.
+
+
+
+
+
+
+(2)
+ Transparency
+Meetings of the Board, including any committee of the Board, shall be open to the public. The Board may, by majority vote, close any such meeting only for the time necessary to preserve the confidentiality of commercial or financial information that is privileged or confidential, to discuss personnel matters, or to discuss legal matters affecting the First Responder Network Authority, including pending or potential litigation.
+
+
+
+
+
+
+(f)
+ Quorum
+Eight members of the Board shall constitute a quorum, including at least 6 of the members appointed under subsection (b)(1)(D).
+
+
+
+
+(g)
+ Compensation
+(1)
+ In general
+The members of the Board appointed under subsection (b)(1)(D) shall be compensated at the daily rate of basic pay for level IV of the Executive Schedule for each day during which such members are engaged in performing a function of the Board.
+
+
+
+
+
+
+(2)
+ Prohibition on compensation
+A member of the Board appointed under subparagraphs (A) through (C) of subsection (b)(1) shall serve without additional pay, and shall not otherwise benefit, directly or indirectly, as a result of their service to the First Responder Network Authority, but shall be allowed a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the First Responder Network Authority.
+
+
+
+
+
+
+ Advisory committees of the First Responder Network Authority
+(a)
+ Advisory committees
+The First Responder Network Authority—
+(1)
+ shall establish a standing public safety advisory committee to assist the First Responder Network Authority in carrying out its duties and responsibilities under this subchapter; and
+
+
+
+
+(2)
+ may establish additional standing or ad hoc committees, panels, or councils as the First Responder Network Authority determines are necessary.
+
+
+
+
+(b)
+ Selection of agents, consultants, and experts
+(1)
+ In general
+The First Responder Network Authority shall select parties to serve as its agents, consultants, or experts in a fair, transparent, and objective manner, and such agents may include a program manager to carry out certain of the duties and responsibilities of deploying and operating the nationwide public safety broadband network described in subsections (b) and (c) of 
+section 1426 of this title
+.
+
+
+
+
+
+
+(2)
+ Binding and final
+If the selection of an agent, consultant, or expert satisfies the requirements under paragraph (1), the selection of that agent, consultant, or expert shall be final and binding.
+
+
+
+
+
+
+ Powers, duties, and responsibilities of the First Responder Network Authority
+(a)
+ General powers
+The First Responder Network Authority shall have the authority to do the following:
+(1)
+ To exercise, through the actions of its Board, all powers specifically granted by the provisions of this subchapter, and such incidental powers as shall be necessary.
+
+
+
+
+(2)
+ To hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the First Responder Network Authority considers necessary to carry out its responsibilities and duties.
+
+
+
+
+(3)
+ To obtain grants and funds from and make contracts with individuals, private companies, organizations, institutions, and Federal, State, regional, and local agencies.
+
+
+
+
+(4)
+ To accept, hold, administer, and utilize gifts, donations, and bequests of property, both real and personal, for the purposes of aiding or facilitating the work of the First Responder Network Authority.
+
+
+
+
+(5)
+ To spend funds under paragraph (3) in a manner authorized by the Board, but only for purposes that will advance or enhance public safety communications consistent with this chapter.
+
+
+
+
+(6)
+ To take such other actions as the First Responder Network Authority (through the Board) may from time to time determine necessary, appropriate, or advisable to accomplish the purposes of this chapter.
+
+
+
+
+(b)
+ Duty and responsibility to deploy and operate a nationwide public safety broadband network
+(1)
+ In general
+The First Responder Network Authority shall hold the single public safety wireless license granted under 
+section 1421 of this title
+ and take all actions necessary to ensure the building, deployment, and operation of the nationwide public safety broadband network, in consultation with Federal, State, tribal, and local public safety entities, the Director of NIST, the Commission, and the public safety advisory committee established in 
+section 1425(a) of this title
+, including by, at a minimum—
+(A)
+ ensuring nationwide standards for use and access of the network;
+
+
+
+
+(B)
+ issuing open, transparent, and competitive requests for proposals to private sector entities for the purposes of building, operating, and maintaining the network that use, without materially changing, the minimum technical requirements developed under 
+section 1423 of this title
+;
+
+
+
+
+(C)
+ encouraging that such requests leverage, to the maximum extent economically desirable, existing commercial wireless infrastructure to speed deployment of the network; and
+
+
+
+
+(D)
+ managing and overseeing the implementation and execution of contracts or agreements with non-Federal entities to build, operate, and maintain the network.
+
+
+
+
+
+
+(2)
+ Requirements
+In carrying out the duties and responsibilities of this subsection, including issuing requests for proposals, the First Responder Network Authority shall—
+(A)
+ ensure the safety, security, and resiliency of the network, including requirements for protecting and monitoring the network to protect against cyberattack;
+
+
+
+
+(B)
+ promote competition in the equipment market, including devices for public safety communications, by requiring that equipment for use on the network be—
+(i)
+ built to open, non-proprietary, commercially available standards;
+
+
+
+
+(ii)
+ capable of being used by any public safety entity and by multiple vendors across all public safety broadband networks operating in the 700 MHz band; and
+
+
+
+
+(iii)
+ backward-compatible with existing commercial networks to the extent that such capabilities are necessary and technically and economically reasonable;
+
+
+
+
+
+
+(C)
+ promote integration of the network with public safety answering points or their equivalent; and
+
+
+
+
+(D)
+ address special considerations for areas or regions with unique homeland security or national security needs.
+
+
+
+
+
+
+(3)
+ Rural coverage
+In carrying out the duties and responsibilities of this subsection, including issuing requests for proposals, the nationwide, interoperable public safety broadband network, consistent with the license granted under 
+section 1421 of this title
+, shall require deployment phases with substantial rural coverage milestones as part of each phase of the construction and deployment of the network. To the maximum extent economically desirable, such proposals shall include partnerships with existing commercial mobile providers to utilize cost-effective opportunities to speed deployment in rural areas.
+
+
+
+
+
+
+(4)
+ Execution of authority
+In carrying out the duties and responsibilities of this subsection, the First Responder Network Authority may—
+(A)
+ obtain grants from and make contracts with individuals, private companies, and Federal, State, regional, and local agencies;
+
+
+
+
+(B)
+ hire or accept voluntary services of consultants, experts, advisory boards, and panels to aid the First Responder Network Authority in carrying out such duties and responsibilities;
+
+
+
+
+(C)
+ receive payment for use of—
+(i)
+ network capacity licensed to the First Responder Network Authority; and
+
+
+
+
+(ii)
+ network infrastructure constructed, owned, or operated by the First Responder Network Authority; and
+
+
+
+
+
+
+(D)
+ take such other actions as may be necessary to accomplish the purposes set forth in this subsection.
+
+
+
+
+
+
+(c)
+ Other specific duties and responsibilities
+(1)
+ Establishment of network policies
+In carrying out the requirements under subsection (b), the First Responder Network Authority shall develop—
+(A)
+ requests for proposals with appropriate—
+(i)
+ timetables for construction, including by taking into consideration the time needed to build out to rural areas and the advantages offered through partnerships with existing commercial providers under paragraph (3);
+
+
+
+
+(ii)
+ coverage areas, including coverage in rural and nonurban areas;
+
+
+
+
+(iii)
+ service levels;
+
+
+
+
+(iv)
+ performance criteria; and
+
+
+
+
+(v)
+ other similar matters for the construction and deployment of such network;
+
+
+
+
+
+
+(B)
+ the technical and operational requirements of the network;
+
+
+
+
+(C)
+ practices, procedures, and standards for the management and operation of such network;
+
+
+
+
+(D)
+ terms of service for the use of such network, including billing practices; and
+
+
+
+
+(E)
+ ongoing compliance review and monitoring of the—
+(i)
+ management and operation of such network;
+
+
+
+
+(ii)
+ practices and procedures of the entities operating on and the personnel using such network; and
+
+
+
+
+(iii)
+ necessary training needs of network operators and users.
+
+
+
+
+
+
+
+
+(2)
+ State and local planning
+(A)
+ Required consultation
+In developing requests for proposals and otherwise carrying out its responsibilities under this chapter, the First Responder Network Authority shall consult with regional, State, tribal, and local jurisdictions regarding the distribution and expenditure of any amounts required to carry out the policies established under paragraph (1), including with regard to the—
+(i)
+ construction of a core network and any radio access network build out;
+
+
+
+
+(ii)
+ placement of towers;
+
+
+
+
+(iii)
+ coverage areas of the network, whether at the regional, State, tribal, or local level;
+
+
+
+
+(iv)
+ adequacy of hardening, security, reliability, and resiliency requirements;
+
+
+
+
+(v)
+ assignment of priority to local users;
+
+
+
+
+(vi)
+ assignment of priority and selection of entities seeking access to or use of the nationwide public safety interoperable broadband network established under subsection (b); and
+
+
+
+
+(vii)
+ training needs of local users.
+
+
+
+
+
+
+(B)
+ Method of consultation
+The consultation required under subparagraph (A) shall occur between the First Responder Network Authority and the single officer or governmental body designated under 
+section 1442(d) of this title
+.
+
+
+
+
+
+
+
+
+(3)
+ Leveraging existing infrastructure
+In carrying out the requirement under subsection (b), the First Responder Network Authority shall enter into agreements to utilize, to the maximum extent economically desirable, existing—
+(A)
+ commercial or other communications infrastructure; and
+
+
+
+
+(B)
+ Federal, State, tribal, or local infrastructure.
+
+
+
+
+
+
+(4)
+ Maintenance and upgrades
+The First Responder Network Authority shall ensure the maintenance, operation, and improvement of the nationwide public safety broadband network, including by ensuring that the First Responder Network Authority updates and revises any policies established under paragraph (1) to take into account new and evolving technologies.
+
+
+
+
+
+
+(5)
+ Roaming agreements
+The First Responder Network Authority shall negotiate and enter into, as it determines appropriate, roaming agreements with commercial network providers to allow the nationwide public safety broadband network to roam onto commercial networks and gain prioritization of public safety communications over such networks in times of an emergency.
+
+
+
+
+
+
+(6)
+ Network infrastructure and device criteria
+The Director of NIST, in consultation with the First Responder Network Authority and the Commission, shall ensure the development of a list of certified devices and components meeting appropriate protocols and standards for public safety entities and commercial vendors to adhere to, if such entities or vendors seek to have access to, use of, or compatibility with the nationwide public safety broadband network.
+
+
+
+
+
+
+(7)
+ Representation before standard setting entities
+The First Responder Network Authority, in consultation with the Director of NIST, the Commission, and the public safety advisory committee established under 
+section 1425(a) of this title
+, shall represent the interests of public safety users of the nationwide public safety broadband network before any proceeding, negotiation, or other matter in which a standards organization, standards body, standards development organization, or any other recognized standards-setting entity addresses the development of standards relating to interoperability.
+
+
+
+
+
+
+(8)
+ Prohibition on negotiation with foreign governments
+The First Responder Network Authority shall not have the authority to negotiate or enter into any agreements with a foreign government on behalf of the United States.
+
+
+
+
+
+
+(d)
+ Exemption from certain laws
+Any action taken or decisions made by the First Responder Network Authority shall be exempt from the requirements of—
+(1)
+ 
+section 3506 of title 44
+ (commonly referred to as the Paperwork Reduction Act);
+
+
+
+
+(2)
+ chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act); and
+
+
+
+
+(3)
+ chapter 6 of title 5 (commonly referred to as the Regulatory Flexibility Act).
+
+
+
+
+(e)
+ Network Construction Fund
+(1)
+ Establishment
+There is established in the Treasury of the United States a fund to be known as the “Network Construction Fund”.
+
+
+
+
+
+
+(2)
+ Use of Fund
+Amounts deposited into the Network Construction Fund shall be used by the—
+(A)
+ First Responder Network Authority to carry out this section, except for administrative expenses; and
+
+
+
+
+(B)
+ NTIA to make grants to States under 
+section 1442(e)(3)(C)(iii)(I) of this title
+.
+
+
+
+
+
+
+(f)
+ Termination of Authority
+The authority of the First Responder Network Authority shall terminate on the date that is 15 years after 
+February 22, 2012
+.
+
+
+
+
+(g)
+ GAO report
+Not later than 10 years after 
+February 22, 2012
+, the Comptroller General of the United States shall submit to Congress a report on what action Congress should take regarding the 15-year sunset of authority under subsection (f).
+
+
+
+
+ Initial funding for the First Responder Network Authority
+(a)
+ Borrowing authority
+Prior to the deposit of proceeds into the Public Safety Trust Fund from the incentive auctions to be carried out under 
+section 309(j)(8)(G) of this title
+ or the auction of spectrum pursuant to 
+section 1451 of this title
+, the NTIA may borrow from the Treasury such sums as may be necessary, but not to exceed $2,000,000,000, to implement this subchapter. The NTIA shall reimburse the Treasury, without interest, from funds deposited into the Public Safety Trust Fund.
+
+
+
+
+(b)
+ Prohibition
+(1)
+ In general
+Administrative expenses of the First Responder Network Authority may not exceed $100,000,000 during the 10-year period beginning on 
+February 22, 2012
+.
+
+
+
+
+
+
+(2)
+ Definition
+For purposes of this subsection, the term “administrative expenses” does not include the costs incurred by the First Responder Network Authority for oversight and audits to protect against waste, fraud, and abuse.
+
+
+
+
+
+
+ Permanent self-funding; duty to assess and collect fees for network use
+(a)
+ In general
+Notwithstanding 
+section 337 of this title
+, the First Responder Network Authority is authorized to assess and collect the following fees:
+(1)
+ Network user fee
+A user or subscription fee from each entity, including any public safety entity or secondary user, that seeks access to or use of the nationwide public safety broadband network.
+
+
+
+
+
+
+(2)
+ Lease fees related to network capacity
+(A)
+ In general
+A fee from any entity that seeks to enter into a covered leasing agreement.
+
+
+
+
+
+
+(B)
+ Covered leasing agreement
+For purposes of subparagraph (A), a “covered leasing agreement” means a written agreement resulting from a public-private arrangement to construct, manage, and operate the nationwide public safety broadband network between the First Responder Network Authority and secondary user to permit—
+(i)
+ access to network capacity on a secondary basis for non-public safety services; and
+
+
+
+
+(ii)
+ the spectrum allocated to such entity to be used for commercial transmissions along the dark fiber of the long-haul network of such entity.
+
+
+
+
+
+
+
+
+(3)
+ Lease fees related to network equipment and infrastructure
+A fee from any entity that seeks access to or use of any equipment or infrastructure, including antennas or towers, constructed or otherwise owned by the First Responder Network Authority resulting from a public-private arrangement to construct, manage, and operate the nationwide public safety broadband network.
+
+
+
+
+
+
+(b)
+ Establishment of fee amounts; permanent self-funding
+The total amount of the fees assessed for each fiscal year pursuant to this section shall be sufficient, and shall not exceed the amount necessary, to recoup the total expenses of the First Responder Network Authority in carrying out its duties and responsibilities described under this subchapter for the fiscal year involved.
+
+
+
+
+(c)
+ Annual approval
+The NTIA shall review the fees assessed under this section on an annual basis, and such fees may only be assessed if approved by the NTIA.
+
+
+
+
+(d)
+ Required reinvestment of funds
+The First Responder Network Authority shall reinvest amounts received from the assessment of fees under this section in the nationwide public safety interoperable broadband network by using such funds only for constructing, maintaining, operating, or improving the network.
+
+
+
+
+ Audit and report
+(a)
+ Audit
+(1)
+ In general
+The Secretary of Commerce shall enter into a contract with an independent auditor to conduct an audit, on an annual basis, of the First Responder Network Authority in accordance with general accounting principles and procedures applicable to commercial corporate transactions. Each audit conducted under this paragraph shall be made available to the appropriate committees of Congress.
+
+
+
+
+
+
+(2)
+ Location
+Any audit conducted under paragraph (1) shall be conducted at the place or places where accounts of the First Responder Network Authority are normally kept.
+
+
+
+
+
+
+(3)
+ Access to First Responder Network Authority books and documents
+(A)
+ In general
+For purposes of an audit conducted under paragraph (1), the representatives of the independent auditor shall—
+(i)
+ have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the First Responder Network Authority that pertain to the financial transactions of the First Responder Network Authority and are necessary to facilitate the audit; and
+
+
+
+
+(ii)
+ be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
+
+
+
+
+
+
+(B)
+ Requirement
+All books, accounts, records, reports, files, papers, and property of the First Responder Network Authority shall remain in the possession and custody of the First Responder Network Authority.
+
+
+
+
+
+
+
+
+(b)
+ Report
+(1)
+ In general
+The independent auditor selected to conduct an audit under this section shall submit a report of each audit conducted under subsection (a) to—
+(A)
+ the appropriate committees of Congress;
+
+
+
+
+(B)
+ the President; and
+
+
+
+
+(C)
+ the First Responder Network Authority.
+
+
+
+
+
+
+(2)
+ Contents
+Each report submitted under paragraph (1) shall contain—
+(A)
+ such comments and information as the independent auditor determines necessary to inform Congress of the financial operations and condition of the First Responder Network Authority;
+
+
+
+
+(B)
+ any recommendations of the independent auditor relating to the financial operations and condition of the First Responder Network Authority; and
+
+
+
+
+(C)
+ a description of any program, expenditure, or other financial transaction or undertaking of the First Responder Network Authority that was observed during the course of the audit, which, in the opinion of the independent auditor, has been carried on or made without the authority of law.
+
+
+
+
+
+
+ Annual report to Congress
+(a)
+ In general
+Not later than 1 year after 
+February 22, 2012
+, and each year thereafter, the First Responder Network Authority shall submit an annual report covering the preceding fiscal year to the appropriate committees of Congress.
+
+
+
+
+(b)
+ Required content
+The report required under subsection (a) shall include—
+(1)
+ a comprehensive and detailed report of the operations, activities, financial condition, and accomplishments of the First Responder Network Authority under this section; and
+
+
+
+
+(2)
+ such recommendations or proposals for legislative or administrative action as the First Responder Network Authority deems appropriate.
+
+
+
+
+(c)
+ Availability to testify
+The members of the Board and employees of the First Responder Network Authority shall be available to testify before the appropriate committees of the Congress with respect to—
+(1)
+ the report required under subsection (a);
+
+
+
+
+(2)
+ the report of any audit conducted under section 1429 
+1
+1
+ See References in Text note below.
+ of this title; or
+
+
+
+
+(3)
+ any other matter which such committees may determine appropriate.
+
+
+
+
+ Public safety roaming and priority access
+ Prohibition on direct offering of commercial telecommunications service directly to consumers
+(a)
+ In general
+The First Responder Network Authority shall not offer, provide, or market commercial telecommunications or information services directly to consumers.
+
+
+
+
+(b)
+ Rule of construction
+Nothing in this section shall be construed to prohibit the First Responder Network Authority and a secondary user from entering into a covered leasing agreement pursuant to 
+section 1428(a)(2)(B) of this title
+. Nothing in this section shall be construed to limit the First Responder Network Authority from collecting lease fees related to network equipment and infrastructure pursuant to 
+section 1428(a)(3) of this title
+.
+
+
+
+
+ Provision of technical assistance
+The Commission may provide technical assistance to the First Responder Network Authority and may take any action necessary to assist the First Responder Network Authority in effectuating its duties and responsibilities under this subchapter.
+ State and Local Implementation Fund
+(a)
+ Establishment
+There is established in the Treasury of the United States a fund to be known as the State and Local Implementation Fund.
+
+
+
+
+(b)
+ Amounts available for State and Local Implementation Grant Program
+Any amounts borrowed under subsection (c)(1) and any amounts in the State and Local Implementation Fund that are not necessary to reimburse the general fund of the Treasury for such borrowed amounts shall be available to the Assistant Secretary to implement 
+section 1442 of this title
+.
+
+
+
+
+(c)
+ Borrowing authority
+(1)
+ In general
+Prior to the end of fiscal year 2022, the Assistant Secretary may borrow from the general fund of the Treasury such sums as may be necessary, but not to exceed $135,000,000, to implement 
+section 1442 of this title
+.
+
+
+
+
+
+
+(2)
+ Reimbursement
+The Assistant Secretary shall reimburse the general fund of the Treasury, without interest, for any amounts borrowed under paragraph (1) as funds are deposited into the State and Local Implementation Fund.
+
+
+
+
+
+
+(d)
+ Transfer of unused funds
+If there is a balance remaining in the State and Local Implementation Fund on 
+September 30, 2022
+, the Secretary of the Treasury shall transfer such balance to the general fund of the Treasury, where such balance shall be dedicated for the sole purpose of deficit reduction.
+
+
+
+
+ State and local implementation
+(a)
+ Establishment of State and Local Implementation Grant Program
+The Assistant Secretary, in consultation with the First Responder Network Authority, shall take such action as is necessary to establish a grant program to make grants to States to assist State, regional, tribal, and local jurisdictions to identify, plan, and implement the most efficient and effective way for such jurisdictions to utilize and integrate the infrastructure, equipment, and other architecture associated with the nationwide public safety broadband network to satisfy the wireless communications and data services needs of that jurisdiction, including with regards to coverage, siting, and other needs.
+
+
+
+
+(b)
+ Matching requirements; Federal share
+(1)
+ In general
+The Federal share of the cost of any activity carried out using a grant under this section may not exceed 80 percent of the eligible costs of carrying out that activity, as determined by the Assistant Secretary, in consultation with the First Responder Network Authority.
+
+
+
+
+
+
+(2)
+ Waiver
+The Assistant Secretary may waive, in whole or in part, the requirements of paragraph (1) for good cause shown if the Assistant Secretary determines that such a waiver is in the public interest.
+
+
+
+
+
+
+(c)
+ Programmatic requirements
+Not later than 6 months after 
+February 22, 2012
+, the Assistant Secretary, in consultation with the First Responder Network Authority, shall establish requirements relating to the grant program to be carried out under this section, including the following:
+(1)
+ Defining eligible costs for purposes of subsection (b)(1).
+
+
+
+
+(2)
+ Determining the scope of eligible activities for grant funding under this section.
+
+
+
+
+(3)
+ Prioritizing grants for activities that ensure coverage in rural as well as urban areas.
+
+
+
+
+(d)
+ Certification and designation of officer or governmental body
+In carrying out the grant program established under this section, the Assistant Secretary shall require each State to certify in its application for grant funds that the State has designated a single officer or governmental body to serve as the coordinator of implementation of the grant funds.
+
+
+
+
+(e)
+ State network
+(1)
+ Notice
+Upon the completion of the request for proposal process conducted by the First Responder Network Authority for the construction, operation, maintenance, and improvement of the nationwide public safety broadband network, the First Responder Network Authority shall provide to the Governor of each State, or his designee—
+(A)
+ notice of the completion of the request for proposal process;
+
+
+
+
+(B)
+ details of the proposed plan for buildout of the nationwide, interoperable broadband network in such State; and
+
+
+
+
+(C)
+ the funding level for the State as determined by the NTIA.
+
+
+
+
+
+
+(2)
+ State decision
+Not later than 90 days after the date on which the Governor of a State receives notice under paragraph (1), the Governor shall choose whether to—
+(A)
+ participate in the deployment of the nationwide, interoperable broadband network as proposed by the First Responder Network Authority; or
+
+
+
+
+(B)
+ conduct its own deployment of a radio access network in such State.
+
+
+
+
+
+
+(3)
+ Process
+(A)
+ In general
+Upon making a decision to opt-out under paragraph (2)(B), the Governor shall notify the First Responder Network Authority, the NTIA, and the Commission of such decision.
+
+
+
+
+
+
+(B)
+ State request for proposals
+Not later than 180 days after the date on which a Governor provides notice under subparagraph (A), the Governor shall develop and complete requests for proposals for the construction, maintenance, and operation of the radio access network within the State.
+
+
+
+
+
+
+(C)
+ Submission and approval of alternative plan
+(i)
+ In general
+The State shall submit an alternative plan for the construction, maintenance, operation, and improvements of the radio access network within the State to the Commission, and such plan shall demonstrate—
+(I)
+ that the State will be in compliance with the minimum technical interoperability requirements developed under 
+section 1423 of this title
+; and
+
+
+
+
+(II)
+ interoperability with the nationwide public safety broadband network.
+
+
+
+
+
+
+(ii)
+ Commission approval or disapproval
+Upon submission of a State plan under clause (i), the Commission shall either approve or disapprove the plan.
+
+
+
+
+
+
+(iii)
+ Approval
+If the Commission approves a plan under this subparagraph, the State—
+(I)
+ may apply to the NTIA for a grant to construct the radio access network within the State that includes the showing described in subparagraph (D); and
+
+
+
+
+(II)
+ shall apply to the NTIA to lease spectrum capacity from the First Responder Network Authority.
+
+
+
+
+
+
+(iv)
+ Disapproval
+If the Commission disapproves a plan under this subparagraph, the construction, maintenance, operation, and improvements of the network within the State shall proceed in accordance with the plan proposed by the First Responder Network Authority.
+
+
+
+
+
+
+
+
+(D)
+ Funding requirements
+In order to obtain grant funds and spectrum capacity leasing rights under subparagraph (C)(iii), a State shall demonstrate—
+(i)
+ that the State has—
+(I)
+ the technical capabilities to operate, and the funding to support, the State radio access network;
+
+
+
+
+(II)
+ has the ability to maintain ongoing interoperability with the nationwide public safety broadband network; and
+
+
+
+
+(III)
+ the ability to complete the project within specified comparable timelines specific to the State;
+
+
+
+
+
+
+(ii)
+ the cost-effectiveness of the State plan submitted under subparagraph (C)(i); and
+
+
+
+
+(iii)
+ comparable security, coverage, and quality of service to that of the nationwide public safety broadband network.
+
+
+
+
+
+
+
+
+(f)
+ User fees
+If a State chooses to build its own radio access network, the State shall pay any user fees associated with State use of elements of the core network.
+
+
+
+
+(g)
+ Prohibition
+(1)
+ In general
+A State that chooses to build its own radio access network shall not provide commercial service to consumers or offer wholesale leasing capacity of the network within the State except directly through public-private partnerships for construction, maintenance, operation, and improvement of the network within the State.
+
+
+
+
+
+
+(2)
+ Rule of construction
+Nothing in this subsection shall be construed to prohibit the State and a secondary user from entering into a covered leasing agreement. Any revenue gained by the State from such a leasing agreement shall be used only for constructing, maintaining, operating, or improving the radio access network of the State.
+
+
+
+
+
+
+(h)
+ Judicial review
+(1)
+ In general
+The United States District Court for the District of Columbia shall have exclusive jurisdiction to review a decision of the Commission made under subsection (e)(3)(C)(iv).
+
+
+
+
+
+
+(2)
+ Standard of review
+The court shall affirm the decision of the Commission unless—
+(A)
+ the decision was procured by corruption, fraud, or undue means;
+
+
+
+
+(B)
+ there was actual partiality or corruption in the Commission; or
+
+
+
+
+(C)
+ the Commission was guilty of misconduct in refusing to hear evidence pertinent and material to the decision or of any other misbehavior by which the rights of any party have been prejudiced.
+
+
+
+
+
+
+ Public safety wireless communications research and development
+(a)
+ NIST directed research and development program
+From amounts made available from the Public Safety Trust Fund, the Director of NIST, in consultation with the Commission, the Secretary of Homeland Security, and the National Institute of Justice of the Department of Justice, as appropriate, shall conduct research and assist with the development of standards, technologies, and applications to advance wireless public safety communications.
+
+
+
+
+(b)
+ Required activities
+In carrying out the requirement under subsection (a), the Director of NIST, in consultation with the First Responder Network Authority and the public safety advisory committee established under 
+section 1425(a) of this title
+, shall—
+(1)
+ document public safety wireless communications technical requirements;
+
+
+
+
+(2)
+ accelerate the development of the capability for communications between currently deployed public safety narrowband systems and the nationwide public safety broadband network;
+
+
+
+
+(3)
+ establish a research plan, and direct research, that addresses the wireless communications needs of public safety entities beyond what can be provided by the current generation of broadband technology;
+
+
+
+
+(4)
+ accelerate the development of mission critical voice, including device-to-device “talkaround” capability over broadband networks, public safety prioritization, authentication capabilities, and standard application programing interfaces for the nationwide public safety broadband network, if necessary and practical;
+
+
+
+
+(5)
+ accelerate the development of communications technology and equipment that can facilitate the eventual migration of public safety narrowband communications to the nationwide public safety broadband network; and
+
+
+
+
+(6)
+ convene working groups of relevant government and commercial parties to achieve the requirements in paragraphs (1) through (5).
+
+
+
+
+ Deadlines for auction of certain spectrum
+(a)
+ Clearing certain Federal spectrum
+(1)
+ In general
+The President shall—
+(A)
+ not later than 3 years after 
+February 22, 2012
+, begin the process of withdrawing or modifying the assignment to a Federal Government station of the electromagnetic spectrum described in paragraph (2); and
+
+
+
+
+(B)
+ not later than 30 days after completing the withdrawal or modification, notify the Commission that the withdrawal or modification is complete.
+
+
+
+
+
+
+(2)
+ Spectrum described
+The electromagnetic spectrum described in this paragraph is the 15 megahertz of spectrum between 1675 megahertz and 1710 megahertz identified under paragraph (3).
+
+
+
+
+
+
+(3)
+ Identification by Secretary of Commerce
+Not later than 1 year after 
+February 22, 2012
+, the Secretary of Commerce shall submit to the President a report identifying 15 megahertz of spectrum between 1675 megahertz and 1710 megahertz for reallocation from Federal use to non-Federal use.
+
+
+
+
+
+
+(b)
+ Reallocation and auction
+(1)
+ In general
+Notwithstanding paragraph (15)(A) of 
+section 309(j) of this title
+, not later than 3 years after 
+February 22, 2012
+, the Commission shall, except as provided in paragraph (4)—
+(A)
+ allocate the spectrum described in paragraph (2) for commercial use; and
+
+
+
+
+(B)
+ through a system of competitive bidding under such section, grant new initial licenses for the use of such spectrum, subject to flexible-use service rules.
+
+
+
+
+
+
+(2)
+ Spectrum described
+The spectrum described in this paragraph is the following:
+(A)
+ The frequencies between 1915 megahertz and 1920 megahertz.
+
+
+
+
+(B)
+ The frequencies between 1995 megahertz and 2000 megahertz.
+
+
+
+
+(C)
+ The frequencies described in subsection (a)(2).
+
+
+
+
+(D)
+ The frequencies between 2155 megahertz and 2180 megahertz.
+
+
+
+
+(E)
+ Fifteen megahertz of contiguous spectrum to be identified by the Commission.
+
+
+
+
+
+
+(3)
+ Proceeds to cover 110 percent of Federal relocation or sharing costs
+Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of 
+section 309(j)(16)(B) of this title
+.
+
+
+
+
+
+
+(4)
+ Determination by Commission
+If the Commission determines that the band of frequencies described in paragraph (2)(A) or the band of frequencies described in paragraph (2)(B) cannot be used without causing harmful interference to commercial mobile service licensees in the frequencies between 1930 megahertz and 1995 megahertz, the Commission may not—
+(A)
+ allocate such band for commercial use under paragraph (1)(A); or
+
+
+
+
+(B)
+ grant licenses under paragraph (1)(B) for the use of such band.
+
+
+
+
+
+
+(c)
+ Omitted
+
+
+ Special requirements for incentive auction of broadcast TV spectrum
+(a)
+ Reverse auction to identify incentive amount
+(1)
+ In general
+The Commission shall conduct a reverse auction to determine the amount of compensation that each broadcast television licensee would accept in return for voluntarily relinquishing some or all of its broadcast television spectrum usage rights in order to make spectrum available for assignment through a system of competitive bidding under subparagraph (G) of 
+section 309(j)(8) of this title
+.
+
+
+
+
+
+
+(2)
+ Eligible relinquishments
+A relinquishment of usage rights for purposes of paragraph (1) shall include the following:
+(A)
+ Relinquishing all usage rights with respect to a particular television channel without receiving in return any usage rights with respect to another television channel.
+
+
+
+
+(B)
+ Relinquishing all usage rights with respect to an ultra high frequency television channel in return for receiving usage rights with respect to a very high frequency television channel.
+
+
+
+
+(C)
+ Relinquishing usage rights in order to share a television channel with another licensee.
+
+
+
+
+
+
+(3)
+ Confidentiality
+The Commission shall take all reasonable steps necessary to protect the confidentiality of Commission-held data of a licensee participating in the reverse auction under paragraph (1), including withholding the identity of such licensee until the reassignments and reallocations (if any) under subsection (b)(1)(B) become effective, as described in subsection (f)(2).
+
+
+
+
+
+
+(4)
+ Protection of carriage rights of licensees sharing a channel
+A broadcast television station that voluntarily relinquishes spectrum usage rights under this subsection in order to share a television channel and that possessed carriage rights under section 338, 534, or 535 of this title on 
+November 30, 2010
+, shall have, at its shared location, the carriage rights under such section that would apply to such station at such location if it were not sharing a channel.
+
+
+
+
+
+
+(b)
+ Reorganization of broadcast TV spectrum
+(1)
+ In general
+For purposes of making available spectrum to carry out the forward auction under subsection (c)(1), the Commission—
+(A)
+ shall evaluate the broadcast television spectrum (including spectrum made available through the reverse auction under subsection (a)(1)); and
+
+
+
+
+(B)
+ may, subject to international coordination along the border with Mexico and Canada—
+(i)
+ make such reassignments of television channels as the Commission considers appropriate; and
+
+
+
+
+(ii)
+ reallocate such portions of such spectrum as the Commission determines are available for reallocation.
+
+
+
+
+
+
+
+
+(2)
+ Factors for consideration
+In making any reassignments or reallocations under paragraph (1)(B), the Commission shall make all reasonable efforts to preserve, as of 
+February 22, 2012
+, the coverage area and population served of each broadcast television licensee, as determined using the methodology described in OET Bulletin 69 of the Office of Engineering and Technology of the Commission.
+
+
+
+
+
+
+(3)
+ No involuntary relocation from UHF to VHF
+In making any reassignments under paragraph (1)(B)(i), the Commission may not involuntarily reassign a broadcast television licensee—
+(A)
+ from an ultra high frequency television channel to a very high frequency television channel; or
+
+
+
+
+(B)
+ from a television channel between the frequencies from 174 megahertz to 216 megahertz to a television channel between the frequencies from 54 megahertz to 88 megahertz.
+
+
+
+
+
+
+(4)
+ Payment of relocation costs
+(A)
+ In general
+Except as provided in subparagraph (B), from amounts made available under subsection (d)(2), the Commission shall reimburse costs reasonably incurred by—
+(i)
+ a broadcast television licensee that was reassigned under paragraph (1)(B)(i) from one ultra high frequency television channel to a different ultra high frequency television channel, from one very high frequency television channel to a different very high frequency television channel, or, in accordance with subsection (g)(1)(B), from a very high frequency television channel to an ultra high frequency television channel, in order for the licensee to relocate its television service from one channel to the other;
+
+
+
+
+(ii)
+ a multichannel video programming distributor in order to continue to carry the signal of a broadcast television licensee that—
+(I)
+ is described in clause (i);
+
+
+
+
+(II)
+ voluntarily relinquishes spectrum usage rights under subsection (a) with respect to an ultra high frequency television channel in return for receiving usage rights with respect to a very high frequency television channel; or
+
+
+
+
+(III)
+ voluntarily relinquishes spectrum usage rights under subsection (a) to share a television channel with another licensee; or
+
+
+
+
+
+
+(iii)
+ a channel 37 incumbent user, in order to relocate to other suitable spectrum, provided that all such users can be relocated and that the total relocation costs of such users do not exceed $300,000,000. For the purpose of this section, the spectrum made available through relocation of channel 37 incumbent users shall be deemed as spectrum reclaimed through a reverse auction under subsection (a).
+
+
+
+
+
+
+(B)
+ Regulatory relief
+In lieu of reimbursement for relocation costs under subparagraph (A), a broadcast television licensee may accept, and the Commission may grant as it considers appropriate, a waiver of the service rules of the Commission to permit the licensee, subject to interference protections, to make flexible use of the spectrum assigned to the licensee to provide services other than broadcast television services. Such waiver shall only remain in effect while the licensee provides at least 1 broadcast television program stream on such spectrum at no charge to the public.
+
+
+
+
+
+
+(C)
+ Limitation
+The Commission may not make reimbursements under subparagraph (A) for lost revenues.
+
+
+
+
+
+
+(D)
+ Deadline
+The Commission shall make all reimbursements required by subparagraph (A) not later than the date that is 3 years after the completion of the forward auction under subsection (c)(1).
+
+
+
+
+
+
+
+
+(5)
+ Low-power television usage rights
+Nothing in this subsection shall be construed to alter the spectrum usage rights of low-power television stations.
+
+
+
+
+
+
+(c)
+ Forward auction
+(1)
+ Auction required
+The Commission shall conduct a forward auction in which—
+(A)
+ the Commission assigns licenses for the use of the spectrum that the Commission reallocates under subsection (b)(1)(B)(ii); and
+
+
+
+
+(B)
+ the amount of the proceeds that the Commission shares under clause (i) of 
+section 309(j)(8)(G) of this title
+ with each licensee whose bid the Commission accepts in the reverse auction under subsection (a)(1) is not less than the amount of such bid.
+
+
+
+
+
+
+(2)
+ Minimum proceeds
+(A)
+ In general
+If the amount of the proceeds from the forward auction under paragraph (1) is not greater than the sum described in subparagraph (B), no licenses shall be assigned through such forward auction, no reassignments or reallocations under subsection (b)(1)(B) shall become effective, and the Commission may not revoke any spectrum usage rights by reason of a bid that the Commission accepts in the reverse auction under subsection (a)(1).
+
+
+
+
+
+
+(B)
+ Sum described
+The sum described in this subparagraph is the sum of—
+(i)
+ the total amount of compensation that the Commission must pay successful bidders in the reverse auction under subsection (a)(1);
+
+
+
+
+(ii)
+ the costs of conducting such forward auction that the salaries and expenses account of the Commission is required to retain under 
+section 309(j)(8)(B) of this title
+; and
+
+
+
+
+(iii)
+ the estimated costs for which the Commission is required to make reimbursements under subsection (b)(4)(A).
+
+
+
+
+
+
+(C)
+ Administrative costs
+The amount of the proceeds from the forward auction under paragraph (1) that the salaries and expenses account of the Commission is required to retain under 
+section 309(j)(8)(B) of this title
+ shall be sufficient to cover the costs incurred by the Commission in conducting the reverse auction under subsection (a)(1), conducting the evaluation of the broadcast television spectrum under subparagraph (A) of subsection (b)(1), and making any reassignments or reallocations under subparagraph (B) of such subsection, in addition to the costs incurred by the Commission in conducting such forward auction.
+
+
+
+
+
+
+
+
+(3)
+ Factor for consideration
+In conducting the forward auction under paragraph (1), the Commission shall consider assigning licenses that cover geographic areas of a variety of different sizes.
+
+
+
+
+
+
+(d)
+ TV Broadcaster Relocation Fund
+(1)
+ Establishment
+There is established in the Treasury of the United States a fund to be known as the TV Broadcaster Relocation Fund.
+
+
+
+
+
+
+(2)
+ Payment of relocation costs
+Any amounts borrowed under paragraph (3)(A) and any amounts in the TV Broadcaster Relocation Fund that are not necessary for reimbursement of the general fund of the Treasury for such borrowed amounts shall be available to the Commission to make the payments required by subsection (b)(4)(A).
+
+
+
+
+
+
+(3)
+ Borrowing authority
+(A)
+ In general
+Beginning on the date when any reassignments or reallocations under subsection (b)(1)(B) become effective, as provided in subsection (f)(2), and ending when $1,000,000,000 has been deposited in the TV Broadcaster Relocation Fund, the Commission may borrow from the Treasury of the United States an amount not to exceed $1,000,000,000 to use toward the payments required by subsection (b)(4)(A).
+
+
+
+
+
+
+(B)
+ Reimbursement
+The Commission shall reimburse the general fund of the Treasury, without interest, for any amounts borrowed under subparagraph (A) as funds are deposited into the TV Broadcaster Relocation Fund.
+
+
+
+
+
+
+
+
+(4)
+ Transfer of unused funds
+If any amounts remain in the TV Broadcaster Relocation Fund after the date that is 3 years after the completion of the forward auction under subsection (c)(1), the Secretary of the Treasury shall—
+(A)
+ prior to the end of fiscal year 2022, transfer such amounts to the Public Safety Trust Fund established by 
+section 1457(a)(1) of this title
+; and
+
+
+
+
+(B)
+ after the end of fiscal year 2022, transfer such amounts to the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
+
+
+
+
+
+
+(e)
+ Numerical limitation on auctions and reorganization
+The Commission may not complete more than one reverse auction under subsection (a)(1) or more than one reorganization of the broadcast television spectrum under subsection (b).
+
+
+
+
+(f)
+ Timing
+(1)
+ Contemporaneous auctions and reorganization permitted
+The Commission may conduct the reverse auction under subsection (a)(1), any reassignments or reallocations under subsection (b)(1)(B), and the forward auction under subsection (c)(1) on a contemporaneous basis.
+
+
+
+
+
+
+(2)
+ Effectiveness of reassignments and reallocations
+Notwithstanding paragraph (1), no reassignments or reallocations under subsection (b)(1)(B) shall become effective until the completion of the reverse auction under subsection (a)(1) and the forward auction under subsection (c)(1), and, to the extent practicable, all such reassignments and reallocations shall become effective simultaneously.
+
+
+
+
+
+
+(3)
+ Deadline
+The Commission may not conduct the reverse auction under subsection (a)(1) or the forward auction under subsection (c)(1) after the end of fiscal year 2022.
+
+
+
+
+
+
+(4)
+ Limit on discretion regarding auction timing
+Section 309(j)(15)(A) of this title
+ shall not apply in the case of an auction conducted under this section.
+
+
+
+
+
+
+(g)
+ Limitation on reorganization authority
+(1)
+ In general
+During the period described in paragraph (2), the Commission may not—
+(A)
+ involuntarily modify the spectrum usage rights of a broadcast television licensee or reassign such a licensee to another television channel except—
+(i)
+ in accordance with this section; or
+
+
+
+
+(ii)
+ in the case of a violation by such licensee of the terms of its license or a specific provision of a statute administered by the Commission, or a regulation of the Commission promulgated under any such provision; or
+
+
+
+
+
+
+(B)
+ reassign a broadcast television licensee from a very high frequency television channel to an ultra high frequency television channel, unless—
+(i)
+ such a reassignment will not decrease the total amount of ultra high frequency spectrum made available for reallocation under this section; or
+
+
+
+
+(ii)
+ a request from such licensee for the reassignment was pending at the Commission on 
+May 31, 2011
+.
+
+
+
+
+
+
+
+
+(2)
+ Period described
+The period described in this paragraph is the period beginning on 
+February 22, 2012
+, and ending on the earliest of—
+(A)
+ the first date when the reverse auction under subsection (a)(1), the reassignments and reallocations (if any) under subsection (b)(1)(B), and the forward auction under subsection (c)(1) have been completed;
+
+
+
+
+(B)
+ the date of a determination by the Commission that the amount of the proceeds from the forward auction under subsection (c)(1) is not greater than the sum described in subsection (c)(2)(B); or
+
+
+
+
+(C)
+ 
+September 30, 2022
+.
+
+
+
+
+
+
+(h)
+ Protest right inapplicable
+The right of a licensee to protest a proposed order of modification of its license under 
+section 316 of this title
+ shall not apply in the case of a modification made under this section.
+
+
+
+
+(i)
+ Commission authority
+Nothing in subsection (b) shall be construed to—
+(1)
+ expand or contract the authority of the Commission, except as otherwise expressly provided; or
+
+
+
+
+(2)
+ prevent the implementation of the Commission’s “White Spaces” Second Report and Order and Memorandum Opinion and Order (FCC 08–260, adopted 
+November 4, 2008
+) in the spectrum that remains allocated for broadcast television use after the reorganization required by such subsection.
+
+
+
+
+ Unlicensed use in the 5 GHZ band
+(a)
+ Modification of Commission regulations to allow certain unlicensed use
+(1)
+ In general
+Subject to paragraph (2), not later than 1 year after 
+February 22, 2012
+, the Commission shall begin a proceeding to modify part 15 of title 47, Code of Federal Regulations, to allow unlicensed U–NII devices to operate in the 5350–5470 MHz band.
+
+
+
+
+
+
+(2)
+ Required determinations
+The Commission may make the modification described in paragraph (1) only if the Commission, in consultation with the Assistant Secretary, determines that—
+(A)
+ licensed users will be protected by technical solutions, including use of existing, modified, or new spectrum-sharing technologies and solutions, such as dynamic frequency selection; and
+
+
+
+
+(B)
+ the primary mission of Federal spectrum users in the 5350–5470 MHz band will not be compromised by the introduction of unlicensed devices.
+
+
+
+
+
+
+(b)
+ Study by NTIA
+(1)
+ In general
+The Assistant Secretary, in consultation with the Department of Defense and other impacted agencies, shall conduct a study evaluating known and proposed spectrum-sharing technologies and the risk to Federal users if unlicensed U–NII devices were allowed to operate in the 5350–5470 MHz band and in the 5850–5925 MHz band.
+
+
+
+
+
+
+(2)
+ Submission
+The Assistant Secretary shall submit to the Commission and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+(A)
+ not later than 8 months after 
+February 22, 2012
+, a report on the portion of the study required by paragraph (1) with respect to the 5350–5470 MHz band; and
+
+
+
+
+(B)
+ not later than 18 months after 
+February 22, 2012
+, a report on the portion of the study required by paragraph (1) with respect to the 5850–5925 MHz band.
+
+
+
+
+
+
+(c)
+ Definitions
+In this section:
+(1)
+ 5350–5470 MHz band
+The term “5350–5470 MHz band” means the portion of the electromagnetic spectrum between the frequencies from 5350 megahertz to 5470 megahertz.
+
+
+
+
+
+
+(2)
+ 5850–5925 MHz band
+The term “5850–5925 MHz band” means the portion of the electromagnetic spectrum between the frequencies from 5850 megahertz to 5925 megahertz.
+
+
+
+
+
+
+ Guard bands and unlicensed use
+(a)
+ In general
+Nothing in subparagraph (G) of 
+section 309(j)(8) of this title
+ or in 
+section 1452 of this title
+ shall be construed to prevent the Commission from using relinquished or other spectrum to implement band plans with guard bands.
+
+
+
+
+(b)
+ Size of guard bands
+Such guard bands shall be no larger than is technically reasonable to prevent harmful interference between licensed services outside the guard bands.
+
+
+
+
+(c)
+ Unlicensed use in guard bands
+The Commission may permit the use of such guard bands for unlicensed use.
+
+
+
+
+(d)
+ Database
+Unlicensed use shall rely on a database or subsequent methodology as determined by the Commission.
+
+
+
+
+(e)
+ Protections against harmful interference
+The Commission may not permit any use of a guard band that the Commission determines would cause harmful interference to licensed services.
+
+
+
+
+ Wireless facilities deployment
+(a)
+ Facility modifications
+(1)
+ In general
+Notwithstanding section 704 of the Telecommunications Act of 1996 (
+Public Law 104–104
+) or any other provision of law, a State or local government may not deny, and shall approve, any eligible facilities request for a modification of an existing wireless tower or base station that does not substantially change the physical dimensions of such tower or base station.
+
+
+
+
+
+
+(2)
+ Eligible facilities request
+For purposes of this subsection, the term “eligible facilities request” means any request for modification of an existing wireless tower or base station that involves—
+(A)
+ collocation of new transmission equipment;
+
+
+
+
+(B)
+ removal of transmission equipment; or
+
+
+
+
+(C)
+ replacement of transmission equipment.
+
+
+
+
+
+
+(3)
+ Applicability of environmental laws
+Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act or the National Environmental Policy Act of 1969.
+
+
+
+
+
+
+(b)
+ Federal easements and rights-of-way
+(1)
+ Grant
+If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement or right-of-way to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, and maintain wireless service antenna structures and equipment and backhaul transmission equipment, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, an easement or right-of-way to perform such installation, construction, and maintenance.
+
+
+
+
+
+
+(2)
+ Application
+The Administrator of General Services shall develop a common form for applications for easements and rights-of-way under paragraph (1) for all executive agencies that shall be used by applicants with respect to the buildings or other property of each such agency.
+
+
+
+
+
+
+(3)
+ Fee
+(A)
+ In general
+Notwithstanding any other provision of law, the Administrator of General Services shall establish a fee for the grant of an easement or right-of-way pursuant to paragraph (1) that is based on direct cost recovery.
+
+
+
+
+
+
+(B)
+ Exceptions
+The Administrator of General Services may establish exceptions to the fee amount required under subparagraph (A)—
+(i)
+ in consideration of the public benefit provided by a grant of an easement or right-of-way; and
+
+
+
+
+(ii)
+ in the interest of expanding wireless and broadband coverage.
+
+
+
+
+
+
+
+
+(4)
+ Use of fees collected
+Any fee amounts collected by an executive agency pursuant to paragraph (3) may be made available, as provided in appropriations Acts, to such agency to cover the costs of granting the easement or right-of-way.
+
+
+
+
+
+
+(c)
+ Master contracts for wireless facility sitings
+(1)
+ In general
+Notwithstanding section 704 of the Telecommunications Act of 1996 or any other provision of law, and not later than 60 days after 
+February 22, 2012
+, the Administrator of General Services shall—
+(A)
+ develop 1 or more master contracts that shall govern the placement of wireless service antenna structures on buildings and other property owned by the Federal Government; and
+
+
+
+
+(B)
+ in developing the master contract or contracts, standardize the treatment of the placement of wireless service antenna structures on building rooftops or facades, the placement of wireless service antenna equipment on rooftops or inside buildings, the technology used in connection with wireless service antenna structures or equipment placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
+
+
+
+
+
+
+(2)
+ Applicability
+The master contract or contracts developed by the Administrator of General Services under paragraph (1) shall apply to all publicly accessible buildings and other property owned by the Federal Government, unless the Administrator of General Services decides that issues with respect to the siting of a wireless service antenna structure on a specific building or other property warrant nonstandard treatment of such building or other property.
+
+
+
+
+
+
+(3)
+ Application
+The Administrator of General Services shall develop a common form or set of forms for wireless service antenna structure siting applications under this subsection for all executive agencies that shall be used by applicants with respect to the buildings and other property of each such agency.
+
+
+
+
+
+
+(d)
+ Executive agency defined
+In this section, the term “executive agency” has the meaning given such term in 
+section 102 of title 40
+.
+
+
+
+
+ System certification
+Not later than 6 months after 
+ Public Safety Trust Fund
+(a)
+ Establishment of Public Safety Trust Fund
+(1)
+ In general
+There is established in the Treasury of the United States a trust fund to be known as the Public Safety Trust Fund.
+
+
+
+
+
+
+(2)
+ Availability
+Amounts deposited in the Public Safety Trust Fund shall remain available through fiscal year 2022. Any amounts remaining in the Fund after the end of such fiscal year shall be deposited in the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
+
+
+
+
+
+
+(b)
+ Use of Fund
+As amounts are deposited in the Public Safety Trust Fund, such amounts shall be used to make the following deposits or payments in the following order of priority:
+(1)
+ Repayment of amount borrowed for First Responder Network Authority
+An amount not to exceed $2,000,000,000 shall be available to the NTIA to reimburse the general fund of the Treasury for any amounts borrowed under 
+section 1427 of this title
+.
+
+
+
+
+
+
+(2)
+ State and Local Implementation Fund
+$135,000,000 shall be deposited in the State and Local Implementation Fund established by 
+section 1441 of this title
+.
+
+
+
+
+
+
+(3)
+ Buildout by First Responder Network Authority
+$7,000,000,000, reduced by the amount borrowed under 
+section 1427 of this title
+, shall be deposited in the Network Construction Fund established by 
+section 1426 of this title
+.
+
+
+
+
+
+
+(4)
+ Public safety research
+$100,000,000 shall be available to the Director of NIST to carry out 
+section 1443 of this title
+.
+
+
+
+
+
+
+(5)
+ Deficit reduction
+$20,400,000,000 shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
+
+
+
+
+
+
+(6)
+ 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants
+$115,000,000 shall be available to the Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration to carry out the grant program under 
+section 942 of this title
+.
+
+
+
+
+
+
+(7)
+ Additional public safety research
+$200,000,000 shall be available to the Director of NIST to carry out 
+section 1443 of this title
+.
+
+
+
+
+
+
+(8)
+ Additional deficit reduction
+Any remaining amounts deposited in the Public Safety Trust Fund shall be deposited in the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
+
+
+
+
+
+
+(c)
+ Investment
+Amounts in the Public Safety Trust Fund shall be invested in accordance with 
+section 9702 of title 31
+, and any interest on, and proceeds from, any such investment shall be credited to, and become a part of, the Fund.
+
+
+
+
+ Definitions
+ Parity of protection for provision or use of Next Generation 9–1–1 services
+(a)
+ Immunity
+A provider or user of Next Generation 9–1–1 services, a public safety answering point, and the officers, directors, employees, vendors, agents, and authorizing government entity (if any) of such provider, user, or public safety answering point, shall have immunity and protection from liability under Federal and State law to the extent provided in subsection (b) with respect to—
+(1)
+ the release of subscriber information related to emergency calls or emergency services;
+
+
+
+
+(2)
+ the use or provision of 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services; and
+
+
+
+
+(3)
+ other matters related to 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+
+
+
+
+(b)
+ Scope of immunity and protection from liability
+The scope and extent of the immunity and protection from liability afforded under subsection (a) shall be the same as that provided under 
+section 615a of this title
+ to wireless carriers, public safety answering points, and users of wireless 9–1–1 service (as defined in paragraphs (4), (3), and (6), respectively, of 
+section 615b of this title
+ 
+1
+1
+ See References in Text note below.
+) with respect to such release, use, and other matters.
+
+
+
+
+ Commission proceeding on autodialing
+(a)
+ In general
+Not later than 90 days after 
+February 22, 2012
+, the Commission shall initiate a proceeding to create a specialized Do-Not-Call registry for public safety answering points.
+
+
+
+
+(b)
+ Features of the registry
+The Commission shall issue regulations, after providing the public with notice and an opportunity to comment, that—
+(1)
+ permit verified public safety answering point administrators or managers to register the telephone numbers of all 9–1–1 trunks and other lines used for the provision of emergency services to the public or for communications between public safety agencies;
+
+
+
+
+(2)
+ provide a process for verifying, no less frequently than once every 7 years, that registered numbers should continue to appear upon the registry;
+
+
+
+
+(3)
+ provide a process for granting and tracking access to the registry by the operators of automatic dialing equipment;
+
+
+
+
+(4)
+ protect the list of registered numbers from disclosure or dissemination by parties granted access to the registry; and
+
+
+
+
+(5)
+ prohibit the use of automatic dialing or “robocall” equipment to establish contact with registered numbers.
+
+
+
+
+(c)
+ Enforcement
+The Commission shall—
+(1)
+ establish monetary penalties for violations of the protective regulations established pursuant to subsection (b)(4) of not less than $100,000 per incident nor more than $1,000,000 per incident;
+
+
+
+
+(2)
+ establish monetary penalties for violations of the prohibition on automatically dialing registered numbers established pursuant to subsection (b)(5) of not less than $10,000 per call nor more than $100,000 per call; and
+
+
+
+
+(3)
+ provide for the imposition of fines under paragraphs (1) or (2) that vary depending upon whether the conduct leading to the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offence.
+
+
+
+

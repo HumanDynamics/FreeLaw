@@ -1,0 +1,440 @@
+
+Chapter 140
+PROCUREMENT OF COMMERCIAL ITEMS
+ Relationship of commercial item provisions to other provisions of law
+(a)
+ 
+Applicability of Title
+.—
+Unless otherwise specifically provided, nothing in this chapter shall be construed as providing that any other provision of this title relating to procurement is inapplicable to the procurement of commercial items.
+
+
+(b)
+ 
+List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items
+.—
+No contract for the procurement of a commercial item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation (pursuant to 
+section 1906 of title 41
+).
+
+
+(c)
+ 
+Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items
+.—
+For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see 
+section 2306a(b) of this title
+.
+
+
+ Definitions
+ Preference for acquisition of commercial items
+(a)
+ 
+Preference
+.—
+The head of an agency shall ensure that, to the maximum extent practicable—
+(1)
+ requirements of the agency with respect to a procurement of supplies or services are stated in terms of—
+(A)
+ functions to be performed;
+
+
+
+
+(B)
+ performance required; or
+
+
+
+
+(C)
+ essential physical characteristics;
+
+
+
+
+
+
+(2)
+ such requirements are defined so that commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items, may be procured to fulfill such requirements; and
+
+
+
+
+(3)
+ offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill such requirements.
+
+
+
+
+(b)
+ 
+Implementation
+.—
+The head of an agency shall ensure that procurement officials in that agency, to the maximum extent practicable—
+(1)
+ acquire commercial items or nondevelopmental items other than commercial items to meet the needs of the agency;
+
+
+
+
+(2)
+ require prime contractors and subcontractors at all levels under the agency contracts to incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the agency;
+
+
+
+
+(3)
+ modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items;
+
+
+
+
+(4)
+ state specifications in terms that enable and encourage bidders and offerors to supply commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items in response to the agency solicitations;
+
+
+
+
+(5)
+ revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial items; and
+
+
+
+
+(6)
+ require training of appropriate personnel in the acquisition of commercial items.
+
+
+
+
+(c)
+ 
+Preliminary Market Research
+.—
+(1)
+ The head of an agency shall conduct market research appropriate to the circumstances—
+(A)
+ before developing new specifications for a procurement by that agency;
+
+
+
+
+(B)
+ before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold; and
+
+
+
+
+(C)
+ before awarding a task order or delivery order in excess of the simplified acquisition threshold.
+
+
+
+
+
+
+(2)
+ The head of an agency shall use the results of market research to determine whether there are commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items available that—
+(A)
+ meet the agency’s requirements;
+
+
+
+
+(B)
+ could be modified to meet the agency’s requirements; or
+
+
+
+
+(C)
+ could meet the agency’s requirements if those requirements were modified to a reasonable extent.
+
+
+
+
+
+
+(3)
+ In conducting market research, the head of an agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
+
+
+
+
+(4)
+ The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of items other than commercial items engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
+
+
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of Defense shall ensure that contracting officials identify and evaluate, at all stages of the acquisition process (including concept refinement, concept decision, and technology development), opportunities for the use of commercial computer software and other non-developmental software.
+
+
+“(b)
+ 
+Report
+.—
+Not later than 270 days after the date of enactment of this Act [
+Oct. 14, 2008
+], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on actions taken to implement subsection (a), including a description of any relevant regulations and policy guidance.”
+
+
+ Procurement of copier paper containing specified percentages of post-consumer recycled content
+(a)
+ 
+Procurement Requirement
+.—
+(1)
+ Except as provided in subsections (b) and (c), a department or agency of the Department of Defense may not procure copying machine paper after the applicable date specified in paragraph (2) unless the percentage of post-consumer recycled content of the paper meets the percentage then in effect under such paragraph.
+
+
+
+
+(2)
+ The percentage of post-consumer recycled content of paper required under paragraph (1) is as follows:
+(A)
+ 20 percent as of 
+January 1, 1998
+.
+
+
+
+
+(B)
+ 30 percent as of 
+January 1, 1999
+.
+
+
+
+
+(C)
+ 50 percent as of 
+January 1, 2004
+.
+
+
+
+
+
+
+(b)
+ 
+Exceptions
+.—
+A department or agency of the Department of Defense is not required to procure copying machine paper containing a percentage of post-consumer recycled content that meets the applicable requirement in subsection (a) if the Secretary concerned determines that one or more of the following circumstances apply with respect to that procurement:
+(1)
+ The cost of procuring copying machine paper satisfying the applicable requirement significantly exceeds the cost of procuring copying machine paper containing a percentage of post-consumer recycled content that does not meet such requirement. The Secretary concerned shall establish the cost differential to be applied under this paragraph.
+
+
+
+
+(2)
+ Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement is not reasonably available within a reasonable period of time.
+
+
+
+
+(3)
+ Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement does not meet performance standards of the department or agency for copying machine paper.
+
+
+
+
+(c)
+ 
+Effect of Inability To Meet Goal in
+ 2004.—
+(1)
+ In the case of the requirement that will take effect on 
+January 1, 2004
+, pursuant to subsection (a)(2)(C), the requirement shall not take effect with respect to a military department or Defense Agency if the Secretary of Defense determines that the department or agency will be unable to meet such requirement by that date.
+
+
+
+
+(2)
+ The Secretary shall submit to Congress written notice of any determination made under paragraph (1) and the reasons for the determination. The Secretary shall submit such notice, if at all, not later than 
+January 1, 2003
+.
+
+
+
+
+(d)
+ 
+Secretary Concerned Defined
+.—
+In this section, the term “Secretary concerned” means the Secretary of each military department and the Secretary of Defense with respect to the Defense Agencies.
+
+
+ Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items
+(a)
+ 
+Requirement for Determination and Notification
+.—
+A major weapon system of the Department of Defense may be treated as a commercial item, or purchased under procedures established for the procurement of commercial items, only if—
+(1)
+ the Secretary of Defense determines that—
+(A)
+ the major weapon system is a commercial item, as defined in section 4(12) 
+1
+1
+ See References in Text note below.
+ of the Office of Federal Procurement Policy Act (
+41 U.S.C. 403(12)
+); and
+
+
+
+
+(B)
+ such treatment is necessary to meet national security objectives;
+
+
+
+
+
+
+(2)
+ the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such system; and
+
+
+
+
+(3)
+ the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
+
+
+
+
+(b)
+ 
+Treatment of Subsystems as Commercial Items
+.—
+A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) 
+1
+ of the Office of Federal Procurement Policy Act (
+41 U.S.C. 431(c)
+)) shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items only if—
+(1)
+ the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (a); or
+
+
+
+
+(2)
+ the contracting officer determines in writing that—
+(A)
+ the subsystem is a commercial item, as defined in section 4(12) 
+1
+ of the Office of Federal Procurement Policy Act (
+41 U.S.C. 403(12)
+); and
+
+
+
+
+(B)
+ the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such subsystem.
+
+
+
+
+
+
+(c)
+ 
+Treatment of Components and Spare Parts as Commercial Items
+.—
+(1)
+ A component or spare part for a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) 
+1
+ of the Office of Federal Procurement Policy Act (
+41 U.S.C. 431(c)
+)) may be treated as a commercial item for the purposes of 
+section 2306a of this title
+ only if—
+(A)
+ the component or spare part is intended for—
+(i)
+ a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (a); or
+
+
+
+
+(ii)
+ a subsystem of a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (b); or
+
+
+
+
+
+
+(B)
+ the contracting officer determines in writing that—
+(i)
+ the component or spare part is a commercial item, as defined in section 4(12) 
+1
+ of the Office of Federal Procurement Policy Act (
+41 U.S.C. 403(12)
+); and
+
+
+
+
+(ii)
+ the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such component or spare part.
+
+
+
+
+
+
+
+
+(2)
+ This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).
+
+
+
+
+(d)
+ 
+Information Submitted
+.—
+To the extent necessary to make a determination under subsection (a)(2), (b)(2), or (c)(1)(B), the contracting officer may request the offeror to submit—
+(1)
+ prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+
+
+
+
+(2)
+ if the contracting officer determines that the information described in paragraph (1) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+
+
+
+
+(e)
+ 
+Delegation
+.—
+The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
+
+
+(f)
+ 
+Major Weapon System Defined
+.—
+In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in 
+section 2430 of this title
+).
+
+

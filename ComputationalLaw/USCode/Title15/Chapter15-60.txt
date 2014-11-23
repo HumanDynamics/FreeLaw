@@ -1,0 +1,889 @@
+
+Chapter 60
+NATURAL GAS POLICY
+ Definitions
+ Repealed. 
+ Repealed. 
+“(a)
+ 
+Repeal
+.—
+Subject to subsections (b) and (c) of this section, title II of the Natural Gas Policy Act of 1978 (
+15 U.S.C. 3341–334
+8) is repealed, and the items relating to title II are stricken from the table of contents of that Act.
+
+
+“(b)
+ 
+Limited Continuing Effect of Rules
+.—
+A rule promulgated by the Federal Energy Regulatory Commission, under title II of the Natural Gas Policy Act of 1978 shall continue in effect only with respect to the flowthrough of costs incurred before the enactment of this section [
+May 21, 1987
+], including any surcharges based on such costs.
+
+
+“(c)
+ 
+Implementation
+.—
+The Federal Energy Regulatory Commission may take appropriate action to implement this section.”
+
+
+ Natural gas for essential agricultural uses
+(a)
+ General rule
+Not later than 120 days after 
+November 9, 1978
+, the Secretary of Energy shall prescribe and make effective a rule, which may be amended from time to time, which provides that, notwithstanding any other provision of law (other than subsection (b) of this section) and to the maximum extent practicable, no curtailment plan of an interstate pipeline may provide for curtailment of deliveries of natural gas for any essential agricultural use, unless such curtailment—
+(1)
+ does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c) of this section; or
+
+
+
+
+(2)
+ is necessary in order to meet the requirements of high-priority users.
+
+
+
+
+(b)
+ Curtailment priority not applicable if alternative fuel available
+If the Commission, in consultation with the Secretary of Agriculture, determines, by rule or order, that use of a fuel (other than natural gas) is economically practicable and that the fuel is reasonably available as an alternative for any agricultural use of natural gas, the provisions of subsection (a) of this section shall not apply with respect to any curtailment of deliveries for such use.
+
+
+
+
+(c)
+ Determination of essential agricultural use requirements
+The Secretary of Agriculture shall certify to the Secretary of Energy and the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential agricultural uses in order to meet the requirements of full food and fiber production.
+
+
+
+
+(d)
+ Authority of Secretary of Agriculture to intervene
+The Secretary of Agriculture may intervene as a matter of right in any proceeding before the Commission which is conducted in connection with implementing the requirements of the rule prescribed under subsection (a) of this section.
+
+
+
+
+(e)
+ Limitation
+The Secretary of Agriculture may not exercise any authority under this section for the purpose of restricting the production of any crop.
+
+
+
+
+(f)
+ Definitions
+For purposes of this section—
+(1)
+ Essential agricultural use
+The term “essential agricultural use”, when used with respect to natural gas, means any use of natural gas—
+(A)
+ for agricultural production, natural fiber production, natural fiber processing, food processing, food quality maintenance, irrigation pumping, crop drying, or
+
+
+
+
+(B)
+ as a process fuel or feedstock in the production of fertilizer, agricultural chemicals, animal feed, or food,
+
+
+
+
+
+which the Secretary of Agriculture determines is necessary for full food and fiber production.
+
+
+
+
+(2)
+ High-priority user
+The term “high-priority user” means any person who—
+(A)
+ uses natural gas in a residence;
+
+
+
+
+(B)
+ uses natural gas in a commercial establishment in amounts of less than 50 Mcf on a peak day;
+
+
+
+
+(C)
+ uses natural gas in any school, hospital, or similar institution; or
+
+
+
+
+(D)
+ uses natural gas in any other use the curtailment of which the Secretary of Energy determines would endanger life, health, or maintenance of physical property.
+
+
+
+
+
+
+ “Essential agricultural use” defined
+ Natural gas for essential industrial process and feedstock uses
+(a)
+ General rule
+The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (other than subsection (b) of this section) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
+(1)
+ does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c) of this section;
+
+
+
+
+(2)
+ is necessary in order to meet the requirements of high-priority users; or
+
+
+
+
+(3)
+ is necessary in order to meet the requirements for essential agricultural uses of natural gas for which curtailment priority is established under 
+section 3391 of this title
+.
+
+
+
+
+(b)
+ Curtailment priority applicable only if alternative fuel not available
+The provisions of subsection (a) of this section shall apply with respect to any curtailment of deliveries for any essential industrial process or feedstock use only if the Commission determines that use of a fuel (other than natural gas) is not economically practicable and that no fuel is reasonably available as an alternative for such use.
+
+
+
+
+(c)
+ Determination of essential industrial use requirements
+The Secretary of Energy shall determine and certify to the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential industrial process and feedstock uses (other than those referred to in 
+section 3391(f)(1)(B) of this title
+).
+
+
+
+
+(d)
+ Definitions
+For purposes of this section—
+(1)
+ Essential industrial process or feedstock use
+The term “essential industrial process or feedstock use” means any use of natural gas in an industrial process or as a feedstock which the Secretary determines is essential.
+
+
+
+
+
+
+(2)
+ High-priority user
+The term “high-priority user” has the same meaning as given such term in 
+section 3391(f)(2) of this title
+.
+
+
+
+
+
+
+ Establishment and implementation of priorities
+(a)
+ Establishment of priorities
+The Secretary of Energy shall prescribe the rules under sections 3391 and 3392 of this title pursuant to his authority under the Department of Energy Organization Act [42 U.S.C 7101 et seq.] to establish and review priorities for curtailments under the Natural Gas Act [
+15 U.S.C. 717
+ et seq.].
+
+
+
+
+(b)
+ Implementation of priorities
+The Commission shall implement the rules prescribed under sections 3391 and 3392 of this title pursuant to its authority under the Department of Energy Organization Act [
+42 U.S.C. 7101
+ et seq.] to establish, review, and enforce curtailments under the Natural Gas Act [
+15 U.S.C. 717
+ et seq.].
+
+
+
+
+ Limitation on revoking or amending certain pre-1969 certificates of public convenience and necessity
+(a)
+ General rule
+The Commission may not, during the 10-year period beginning on 
+November 9, 1978
+, revoke or amend any certificate of public convenience and necessity issued before 
+January 1, 1969
+, under section 7 of the Natural Gas Act [
+15 U.S.C. 717f
+] for the transportation of natural gas owned by any electric utility except upon the application of the person to whom such certificate was issued.
+
+
+
+
+(b)
+ Commission curtailment authority
+The limitation under subsection (a) of this section shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act [
+15 U.S.C. 717
+ et seq.].
+
+
+
+
+ General rulemaking authority
+(a)
+ In general
+Except where expressly provided otherwise, the Commission shall administer this chapter. The Commission, or any other Federal officer or agency in which any function under this chapter is vested or delegated, is authorized to perform any and all acts (including any appropriate enforcement activity), and to prescribe, issue, amend, and rescind such rules and orders as it may find necessary or appropriate to carry out its functions under this chapter.
+
+
+
+
+(b)
+ Authority to define terms
+Except where otherwise expressly provided, the Commission is authorized to define, by rule, accounting, technical, and trade terms used in this chapter. Any such definition shall be consistent with the definitions set forth in this chapter.
+
+
+
+
+ Administrative procedure
+(a)
+ Administrative Procedure Act
+Subject to subsection (b) of this section, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule or order issued under this chapter having the applicability and effect of a rule as defined in 
+section 551(4) of title 5
+; except that sections 554, 556, and 557 of such title 5 shall not apply to any order under such section 3361, 3362, or 3363 of this title.
+
+
+
+
+(b)
+ Opportunity for oral presentations
+To the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded with respect to any proposed rule or order described in subsection (a) of this section (other than an order under section 3361, 3362, or 3363 of this title). To the maximum extent practicable, such opportunity shall be afforded before the effective date of such rule or order. Such opportunity shall be afforded no later than 30 days after such date in the case of a waiver of the entire comment period under 
+section 553(d)(3) of title 5
+, and no later than 45 days after such date in all other cases. A transcript shall be made of any such oral presentation.
+
+
+
+
+(c)
+ Adjustments
+The Commission or any other Federal officer or agency authorized to issue rules or orders described in subsection (a) of this section (other than an order under section 3361, 3362, or 3363 of this title) shall, by rule, provide for the making of such adjustments, consistent with the other purposes of this chapter, as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens. Such rule shall establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, exception to, or exemption from, such applicable rules or orders. If any person is aggrieved or adversely affected by the denial of a request for adjustment under the preceding sentence, such person may request a review of such denial by the officer or agency and may obtain judicial review in accordance with 
+section 3416 of this title
+ when such denial becomes final. The officer or agency shall, by rule, establish procedures, including an opportunity for oral presentation of data, views, and arguments, for considering requests for adjustment under this subsection.
+
+
+
+
+ Repealed. 
+ Enforcement
+(a)
+ General rule
+It shall be unlawful for any person to violate any provision of this chapter or any rule or order under this chapter.
+
+
+
+
+(b)
+ Civil enforcement
+(1)
+ In general
+Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+
+
+
+
+
+
+(2)
+ Enforcement of emergency orders
+Whenever it appears to the President that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of any order under 
+section 3362 of this title
+ or any order or supplemental order issued under 
+section 3363 of this title
+, the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
+
+
+
+
+
+
+(3)
+ Repealed. 
+Pub. L. 101–60, § 3(a)(4)(B)
+, 
+July 26, 1989
+, 
+103 Stat. 158
+
+
+
+
+(4)
+ Relief available
+In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
+
+
+
+
+
+
+(5)
+ Criminal referral
+The Commission may transmit such evidence as may be available concerning any acts or practices constituting any possible violations of the Federal antitrust laws to the Attorney General who may institute appropriate criminal proceedings.
+
+
+
+
+
+
+(6)
+ Civil penalties
+(A)
+ In general
+Any person who knowingly violates any provision of this chapter, or any provision of any rule or order under this chapter, shall be subject to—
+(i)
+ except as provided in clause (ii) a civil penalty, which the Commission may assess, of not more than $1,000,000 for any one violation; and
+
+
+
+
+(ii)
+ a civil penalty, which the President may assess, of not more than $1,000,000, in the case of any violation of an order under 
+section 3362 of this title
+ or an order or supplemental order under 
+section 3363 of this title
+.
+
+
+
+
+
+
+(B)
+ “Knowing” defined
+For purposes of subparagraph (A) the term “knowing” means the having of—
+(i)
+ actual knowledge; or
+
+
+
+
+(ii)
+ the constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
+
+
+
+
+
+
+(C)
+ Each day separate violation
+For purposes of this paragraph, in the case of a continuing violation, each day of violation shall constitute a separate violation.
+
+
+
+
+
+
+(D)
+ Statute of limitations
+No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
+
+
+
+
+
+
+(E)
+ Assessed by Commission
+Before assessing any civil penalty under this paragraph, the Commission shall provide to such person notice of the proposed penalty. Following receipt of notice of the proposed penalty by such person, the Commission shall, by order, asssess 
+1
+1
+ So in original. Probably should be “assess”.
+ such penalty.
+
+
+
+
+
+
+(F)
+ Judicial review
+If the civil penalty has not been paid within 60 calendar days after the assessment order has been made under subparagraph (E), the Commission shall institute an action in the appropriate district court of the United States for an order affirming the assessment of the civil penalty. The court shall have authority to review de novo the law and the facts involved, and shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part, such assessment.
+
+
+
+
+
+
+
+
+(c)
+ Criminal penalties
+(1)
+ Violations of chapter
+Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any provision of this chapter shall be subject to—
+(A)
+ a fine of not more than $1,000,000; or
+
+
+
+
+(B)
+ imprisonment for not more than 5 years; or
+
+
+
+
+(C)
+ both such fine and such imprisonment.
+
+
+
+
+
+
+(2)
+ Violation of rules or orders generally
+Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
+
+
+
+
+
+
+(3)
+ Violations of emergency orders
+Any person who knowingly and willfully violates an order under 
+section 3362 of this title
+ or an order or supplemental order under 
+section 3363 of this title
+ shall be fined not more than $50,000 for each violation.
+
+
+
+
+
+
+(4)
+ Each day separate violation
+For purposes of this subsection, each day of violation shall constitute a separate violation.
+
+
+
+
+
+
+(5)
+ “Knowingly” defined
+For purposes of this subsection, the term “knowingly”, when used with respect to any act or omission by any person, means such person—
+(A)
+ had actual knowledge; or
+
+
+
+
+(B)
+ had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
+
+
+
+
+
+
+ Intervention
+(a)
+ Authority to intervene
+(1)
+ Intervention as matter of right
+The Secretary of Energy may intervene as a matter of right in any proceeding relating to the prorationing of, or other limitations upon, natural gas production which is conducted by any State agency having regulatory jurisdiction over the production of natural gas.
+
+
+
+
+
+
+(2)
+ Enforcement of right to intervene
+The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene under paragraph (1).
+
+
+
+
+
+
+(3)
+ Access to information
+As an intervenor in a proceeding described in subsection (a) of this section, the Secretary shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State agency.
+
+
+
+
+
+
+(b)
+ Access to State courts
+(1)
+ Review in State courts
+The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) of this section in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
+
+
+
+
+
+
+(2)
+ Participation as amicus curiae
+In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an 
+1
+1
+ So in original. Probably should be “as”.
+ amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
+
+
+
+
+
+
+ Judicial review
+(a)
+ Orders
+(1)
+ In general
+The provisions of this subsection shall apply to judicial review of any order, within the meaning of 
+section 551(6) of title 5
+ (other than an order assessing a civil penalty under 
+section 3414(b)(4) of this title
+ or any order under 
+section 3362 of this title
+ or any order under 
+section 3363 of this title
+), issued under this chapter and to any final agency action under this chapter required to be made on the record after an opportunity for an agency hearing.
+
+
+
+
+
+
+(2)
+ Rehearing
+Any person aggrieved by any order issued by the Commission in a proceeding under this chapter to which such person is a party may apply for a rehearing within 30 days after the issuance of such order. Any application for rehearing shall set forth the specific ground upon which such application is based. Upon the filing of such application, the Commission may grant or deny the requested rehearing or modify the original order without further hearing. Unless the Commission acts upon such application for rehearing within 30 days after it is filed, such application shall be deemed to have been denied. No person may bring an action under this section to obtain judicial review of any order of the Commission unless—
+(A)
+ such person shall have made application to the Commission for rehearing under this subsection; and
+
+
+
+
+(B)
+ the Commission shall have finally acted with respect to such application.
+
+
+
+
+
+For purposes of this section, if the Commission fails to act within 30 days after the filing of such application, such failure to act shall be deemed final agency action with respect to such application.
+
+
+
+
+(3)
+ Authority to modify orders
+At any time before the filing of the record of a proceeding in a United States Court of Appeals, pursuant to paragraph (4), the Commission may, after providing notice it determines reasonable and proper, modify or set aside, in whole or in part, any order issued under the provisions of this chapter.
+
+
+
+
+
+
+(4)
+ Judicial review
+Any person who is a party to a proceeding under this chapter aggrieved by any final order issued by the Commission in such proceeding may obtain review of such order in the United States Court of Appeals for any circuit in which the party to which such order relates is located or has its principal place of business, or in the United States Court of Appeals for the District of Columbia circuit. Review shall be obtained by filing a written petition, requesting that such order be modified or set aside in whole or in part, in such Court of Appeals within 60 days after the final action of the Commission on the application for rehearing required under paragraph (2). A copy of such petition shall forthwith be transmitted by the clerk of such court to any member of the Commission and thereupon the Commission shall file with the court the record upon which the order complained of was entered, as provided in 
+section 2112 of title 28
+. Upon the filing of such petition such court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm, modify, or set aside such order in whole or in part. No objection to such order of the Commission shall be considered by the court if such objection was not urged before the Commission in the application for rehearing unless there was reasonable ground for the failure to do so. The finding of the Commission as to the facts, if supported by substantial evidence, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceedings before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as the court deems proper. The Commission may modify its findings as to the facts by reason of the additional evidence so taken, and shall file with the court such modified or new findings, which if supported by substantial evidence, shall be conclusive. The Commission shall also file with the court its recommendation, if any, for the modification or setting aside of the original order. The judgment and decree of the court, affirming, modifying, or setting aside, in whole or in part, any such order of the Commission, shall be final subject to review by the Supreme Court of the United States upon certiorari or certification as provided in 
+section 1254 of title 28
+.
+
+
+
+
+
+
+(5)
+ Orders remain effective
+The filing of an application for rehearing under paragraph (2) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under paragraph (4) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
+
+
+
+
+
+
+(b)
+ Review of rules and orders
+Except as provided in subsections (a) and (c) of this section, judicial review of any rule or order, within the meaning of 
+section 551(4) of title 5
+, issued under this chapter may be obtained in the United States Court of Appeals for any appropriate circuit pursuant to the provisions of chapter 7 of title 5, except that the second sentence of section 705 thereof shall not apply.
+
+
+
+
+(c)
+ Judicial review of emergency orders
+Except with respect to enforcement of orders or subpenas under 
+section 3364(a) of this title
+, the United States Court of Appeals for the Federal Circuit shall have exclusive original jurisdiction to review all civil cases and controversies under section 3361, 3362 or 3363 of this title, including any order issued, or other action taken, under such section. The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of all appeals from the district courts of the United States in cases and controversies arising under 
+section 3364(a)(2) of this title
+; such appeals shall be taken by the filing of a notice of appeal with the United States Court of Appeals for the Federal Circuit within thirty days after the entry of judgment by the district court. Prior to a final judgment, no court shall have jurisdiction to grant any injunctive relief to stay or defer the implementation of any order issued, or action taken, under section 3361, 3362, or 3363 of this title.
+
+
+
+
+ Repealed. 
+ Applicability of other Federal statutory provisions relating to information-gathering
+In order to obtain information for the purpose of carrying out its functions under this chapter, the Commission shall have the same authority as is vested in the Secretary under 7151(a) of title 42 with respect to the exercise of authority under 
+ Coordination with the Natural Gas Act
+(a)
+ Jurisdiction of the Commission under the Natural Gas Act
+(1)
+ Sales
+(A)
+ Application to first sales
+For purposes of section 1(b) of the Natural Gas Act [
+15 U.S.C. 717(b)
+], the provisions of the Natural Gas Act [
+15 U.S.C. 717
+ et seq.], and the jurisdiction of the Commission under such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.
+
+
+
+
+
+
+(B)
+ Authorized sales or assignments
+For purposes of section 1(b) of the Natural Gas Act [
+15 U.S.C. 717(b)
+], the provisions of the Natural Gas Act [
+15 U.S.C. 717
+ et seq.] and the jurisdiction of the Commission under such Act shall not apply by reason of any sale of natural gas—
+(i)
+ authorized under section 3362(a) or 3371(b) of this title; or
+
+
+
+
+(ii)
+ pursuant to any assigned 
+1
+1
+ So in original. Probably should be “assignment”.
+ authorized under 
+section 3372(a) of this title
+.
+
+
+
+
+
+
+(C)
+ Natural-gas company
+For purposes of the Natural Gas Act [
+15 U.S.C. 717
+ et seq.], the term “natural-gas company” (as defined in section 2(6) of such Act [
+15 U.S.C. 717a(6)
+ et seq.]) shall not include any person by reason of, or with respect to, any sale of natural gas if the provisions of the Natural Gas Act and the jurisdiction of the Commission do not apply to such sale solely by reason of subparagraph (A) or (B) of this paragraph.
+
+
+
+
+
+
+
+
+(2)
+ Transportation
+(A)
+ Jurisdiction of the Commission
+For purposes of section 1(b) of the Natural Gas Act [
+15 U.S.C. 717(b)
+] the provisions of such Act [
+15 U.S.C. 717
+ et seq.] and the jurisdiction of the Commission under such Act shall not apply to any transportation in interstate commerce of natural gas if such transportation is—
+(i)
+ pursuant to any order under section 3362(c) or section 3363(b), (c), (d), or (h) of this title; or
+
+
+
+
+(ii)
+ authorized by the Commission under 
+section 3371(a) of this title
+.
+
+
+
+
+
+
+(B)
+ Natural-gas company
+For purposes of the Natural Gas Act [
+15 U.S.C. 717
+ et seq.], the term “natural-gas company” (as defined in section 2(6) of such Act [
+15 U.S.C. 717a(6)
+]) shall not include any person by reason of, or with respect to, any transportation of natural gas if the provisions of the Natural Gas Act and the jurisdiction of the Commission under the Natural Gas Act do not apply to such transportation by reason of subparagraph (A) of this paragraph.
+
+
+
+
+
+
+
+
+(b)
+ Charges deemed just and reasonable
+(1)
+ Sales
+(A)
+ First sales
+Except as otherwise provided in this subsection, for purposes of sections 4 and 5 of the Natural Gas Act, any amount paid in any first sale of natural gas shall be deemed to be just and reasonable.
+
+
+
+
+
+
+(B)
+ Emergency sales
+For purposes of sections 4 and 5 of the Natural Gas Act [
+15 U.S.C. 717c
+, 717d], any amount paid in any sale authorized under 
+section 3362(a) of this title
+ shall be deemed to be just and reasonable if such amount does not exceed the fair and equitable price established under such section and applicable to such sale.
+
+
+
+
+
+
+(C)
+ Sales by intrastate pipelines
+For purposes of sections 4 and 5 of the Natural Gas Act [
+15 U.S.C. 717c
+, 717d] any amount paid in any sale authorized by the Commission under 
+section 3371(b) of this title
+ shall be deemed to be just and reasonable if such amount does not exceed the fair and equitable price established by the Commission and applicable to such sale.
+
+
+
+
+
+
+(D)
+ Assignments
+For purposes of sections 4 and 5 of the Natural Gas Act [
+15 U.S.C. 717c
+, 717d], any amount paid pursuant to the terms of any contract with respect to that portion of which the Commission has authorized an assignment authorized under 
+section 3372(a) of this title
+ shall be deemed to be just and reasonable.
+
+
+
+
+
+
+(E)
+ Affiliated entities limitation
+For purposes of paragraph (1), in the case of any first sale between any interstate pipeline and any affiliate of such pipeline, any amount paid in any first sale shall be deemed to be just and reasonable if, in addition to satisfying the requirements of such paragraph, such amount does not exceed the amount paid in comparable first sales between persons not affiliated with such interstate pipeline.
+
+
+
+
+
+
+
+
+(2)
+ Other charges
+(A)
+ Allocation
+For purposes of sections 4 and 5 of the Natural Gas Act [
+15 U.S.C. 717c
+, 717d], any amount paid by any interstate pipeline for transportation, storage, delivery or other services provided pursuant to any order under section 3363(b), (c), or (d) of this title shall be deemed to be just and reasonable if such amount is prescribed by the President under 
+section 3363(h)(1) of this title
+.
+
+
+
+
+
+
+(B)
+ Transportation
+For purposes of sections 4 and 5 of the Natural Gas Act [
+15 U.S.C. 717c
+, 717d], any amount paid by any interstate pipeline for any transportation authorized by the Commission under 
+section 3371(a) of this title
+ shall be deemed to be just and reasonable if such amount does not exceed that approved by the Commission under such section.
+
+
+
+
+
+
+
+
+(c)
+ Guaranteed passthrough
+(1)
+ Certificate may not be denied based upon price
+The Commission may not deny, or condition the grant of, any certificate under section 7 of the Natural Gas Act [
+15 U.S.C. 717f
+] based upon the amount paid in any sale of natural gas, if such amount is deemed to be just and reasonable under subsection (b) of this section.
+
+
+
+
+
+
+(2)
+ Recovery of just and reasonable prices paid
+For purposes of sections 4 and 5 of the Natural Gas Act [
+15 U.S.C. 717c
+, 717d], the Commission may not deny any interstate pipeline recovery of any amount paid with respect to any purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, except to the extent the Commission determines that the amount paid was excessive due to fraud, abuse, or similar grounds.
+
+
+
+
+
+
+ Effect on State laws
+(a)
+ Authority to prescribe maximum lawful prices
+Nothing in this chapter shall affect the authority of any State to establish or enforce any maximum lawful price for the first sale of natural gas produced in such State.
+
+
+
+
+(b)
+ Common carriers
+No person shall be subject to regulation as a common carrier under any provision of Federal or State law by reason of any transportation—
+(1)
+ pursuant to any order under section 3362(c) or section 3363(b), (c), (d), or (i) of this title; or
+
+
+
+
+(2)
+ authorized by the Commission under 
+section 3371(a) of this title
+.
+
+
+
+

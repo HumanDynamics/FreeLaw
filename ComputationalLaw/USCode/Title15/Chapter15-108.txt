@@ -1,0 +1,172 @@
+
+Chapter 108
+STATE-BASED INSURANCE REFORM
+ Reporting, payment, and allocation of premium taxes
+(a)
+ Home State’s exclusive authority
+No State other than the home State of an insured may require any premium tax payment for nonadmitted insurance.
+
+
+
+
+(b)
+ Allocation of nonadmitted premium taxes
+(1)
+ In general
+The States may enter into a compact or otherwise establish procedures to allocate among the States the premium taxes paid to an insured’s home State described in subsection (a).
+
+
+
+
+
+
+(2)
+ Effective date
+Except as expressly otherwise provided in such compact or other procedures, any such compact or other procedures—
+(A)
+ if adopted on or before the expiration of the 330-day period that begins on 
+July 21, 2010
+, shall apply to any premium taxes that, on or after 
+July 21, 2010
+, are required to be paid to any State that is subject to such compact or procedures; and
+
+
+
+
+(B)
+ if adopted after the expiration of such 330-day period, shall apply to any premium taxes that, on or after January 1 of the first calendar year that begins after the expiration of such 330-day period, are required to be paid to any State that is subject to such compact or procedures.
+
+
+
+
+
+
+(3)
+ Report
+Upon the expiration of the 330-day period referred to in paragraph (2), the NAIC may submit a report to the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate identifying and describing any compact or other procedures for allocation among the States of premium taxes that have been adopted during such period by any States.
+
+
+
+
+
+
+(4)
+ Nationwide system
+The Congress intends that each State adopt nationwide uniform requirements, forms, and procedures, such as an interstate compact, that provide for the reporting, payment, collection, and allocation of premium taxes for nonadmitted insurance consistent with this section.
+
+
+
+
+
+
+(c)
+ Allocation based on tax allocation report
+To facilitate the payment of premium taxes among the States, an insured’s home State may require surplus lines brokers and insureds who have independently procured insurance to annually file tax allocation reports with the insured’s home State detailing the portion of the nonadmitted insurance policy premium or premiums attributable to properties, risks, or exposures located in each State. The filing of a nonadmitted insurance tax allocation report and the payment of tax may be made by a person authorized by the insured to act as its agent.
+
+
+
+
+ Regulation of nonadmitted insurance by insured’s home State
+(a)
+ Home State authority
+Except as otherwise provided in this section, the placement of nonadmitted insurance shall be subject to the statutory and regulatory requirements solely of the insured’s home State.
+
+
+
+
+(b)
+ Broker licensing
+No State other than an insured’s home State may require a surplus lines broker to be licensed in order to sell, solicit, or negotiate nonadmitted insurance with respect to such insured.
+
+
+
+
+(c)
+ Enforcement provision
+With respect to 
+section 8201 of this title
+ and subsections (a) and (b) of this section, any law, regulation, provision, or action of any State that applies or purports to apply to nonadmitted insurance sold to, solicited by, or negotiated with an insured whose home State is another State shall be preempted with respect to such application.
+
+
+
+
+(d)
+ Workers’ compensation exception
+This section may not be construed to preempt any State law, rule, or regulation that restricts the placement of workers’ compensation insurance or excess insurance for self-funded workers’ compensation plans with a nonadmitted insurer.
+
+
+
+
+ Participation in national producer database
+After the expiration of the 2-year period beginning on 
+ Uniform standards for surplus lines eligibility
+ Streamlined application for commercial purchasers
+ Definitions
+ Regulation of credit for reinsurance and reinsurance agreements
+(a)
+ Credit for reinsurance
+If the State of domicile of a ceding insurer is an NAIC-accredited State, or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, and recognizes credit for reinsurance for the insurer’s ceded risk, then no other State may deny such credit for reinsurance.
+
+
+
+
+(b)
+ Additional preemption of extraterritorial application of State law
+In addition to the application of subsection (a), all laws, regulations, provisions, or other actions of a State that is not the domiciliary State of the ceding insurer, except those with respect to taxes and assessments on insurance companies or insurance income, are preempted to the extent that they—
+(1)
+ restrict or eliminate the rights of the ceding insurer or the assuming insurer to resolve disputes pursuant to contractual arbitration to the extent such contractual provision is not inconsistent with the provisions of title 9;
+
+
+
+
+(2)
+ require that a certain State’s law shall govern the reinsurance contract, disputes arising from the reinsurance contract, or requirements of the reinsurance contract;
+
+
+
+
+(3)
+ attempt to enforce a reinsurance contract on terms different than those set forth in the reinsurance contract, to the extent that the terms are not inconsistent with this subchapter; or
+
+
+
+
+(4)
+ otherwise apply the laws of the State to reinsurance agreements of ceding insurers not domiciled in that State.
+
+
+
+
+ Regulation of reinsurer solvency
+(a)
+ Domiciliary State regulation
+If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, such State shall be solely responsible for regulating the financial solvency of the reinsurer.
+
+
+
+
+(b)
+ Nondomiciliary States
+(1)
+ Limitation on financial information requirements
+If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, no other State may require the reinsurer to provide any additional financial information other than the information the reinsurer is required to file with its domiciliary State.
+
+
+
+
+
+
+(2)
+ Receipt of information
+No provision of this section shall be construed as preventing or prohibiting a State that is not the State of domicile of a reinsurer from receiving a copy of any financial statement filed with its domiciliary State.
+
+
+
+
+
+
+ Definitions
+ Rule of construction
+Nothing in this chapter or the amendments made by this subtitle 
+ Severability
+If any section or subsection of this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, and the application of the provision to any other person or circumstance, shall not be affected.

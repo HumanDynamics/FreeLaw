@@ -1,0 +1,1523 @@
+
+Chapter 37
+CARRIAGE OF LIQUID BULK DANGEROUS CARGOES
+ Definitions
+ Application
+(a)
+ Subject to subsections (b)–(e) of this section, this chapter applies to a tank vessel.
+
+
+(b)
+ This chapter does not apply to a documented vessel that would be subject to this chapter only because of the transfer of fuel from the fuel supply tanks of the vessel to offshore drilling or production facilities in the oil industry if the vessel is—
+(1)
+ not a tanker; and
+
+
+
+
+(2)
+ in the service of oil exploitation.
+
+
+
+
+(c)
+ This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+ when engaged only in the fishing industry.
+
+
+(d)
+ This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+. However, the vessel is subject to regulation by the Secretary when carrying flammable or combustible liquid cargo in bulk.
+
+
+(e)
+ This chapter does not apply to a foreign vessel on innocent passage on the navigable waters of the United States.
+
+
+(f)
+ This chapter does not apply to an oil spill response vessel if—
+(1)
+ the vessel is used only in response-related activities; or
+
+
+
+
+(2)
+ the vessel is—
+(A)
+ not more than 500 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+;
+
+
+
+
+(B)
+ designated in its certificate of inspection as an oil spill response vessel; and
+
+
+
+
+(C)
+ engaged in response-related activities.
+
+
+
+
+
+
+ Regulations
+(a)
+ The Secretary shall prescribe regulations for the design, construction, alteration, repair, maintenance, operation, equipping, personnel qualification, and manning of vessels to which this chapter applies, that may be necessary for increased protection against hazards to life and property, for navigation and vessel safety, and for enhanced protection of the marine environment. The Secretary may prescribe different regulations applicable to vessels engaged in the domestic trade, and also may prescribe regulations that exceed standards set internationally. Regulations prescribed by the Secretary under this subsection are in addition to regulations prescribed under other laws that may apply to any of those vessels. Regulations prescribed under this subsection shall include requirements about—
+(1)
+ superstructures, hulls, cargo holds or tanks, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, and boilers;
+
+
+
+
+(2)
+ the handling or stowage of cargo, the manner of handling or stowage of cargo, and the machinery and appliances used in the handling or stowage;
+
+
+
+
+(3)
+ equipment and appliances for lifesaving, fire protection, and prevention and mitigation of damage to the marine environment;
+
+
+
+
+(4)
+ the manning of vessels and the duties, qualifications, and training of the officers and crew;
+
+
+
+
+(5)
+ improvements in vessel maneuvering and stopping ability and other features that reduce the possibility of marine casualties;
+
+
+
+
+(6)
+ the reduction of cargo loss if a marine casualty occurs; and
+
+
+
+
+(7)
+ the reduction or elimination of discharges during ballasting, deballasting, tank cleaning, cargo handling, or other such activity.
+
+
+
+
+(b)
+ In prescribing regulations under subsection (a) of this section, the Secretary shall consider the types and grades of cargo permitted to be on board a tank vessel.
+
+
+(c)
+ In prescribing regulations under subsection (a) of this section, the Secretary shall establish procedures for consulting with, and receiving and considering the views of—
+(1)
+ interested departments, agencies, and instrumentalities of the United States Government;
+
+
+
+
+(2)
+ officials of State and local governments;
+
+
+
+
+(3)
+ representatives of port and harbor authorities and associations;
+
+
+
+
+(4)
+ representatives of environmental groups; and
+
+
+
+
+(5)
+ other interested parties knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment.
+
+
+
+
+“(a)
+ 
+Regulations
+.—
+Within 1 year after the date of enactment of this Act [
+Oct. 15, 2010
+], the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to reduce the risks of oil spills in operations involving the transfer of oil from or to a tank vessel. The regulations—
+“(1)
+ shall focus on operations that have the highest risks of discharge, including operations at night and in inclement weather;
+
+
+
+
+“(2)
+ shall consider—
+“(A)
+ requirements for the use of equipment, such as putting booms in place for transfers, safety, and environmental impacts;
+
+
+
+
+“(B)
+ operational procedures such as manning standards, communications protocols, and restrictions on operations in high-risk areas; or
+
+
+
+
+“(C)
+ both such requirements and operational procedures; and
+
+
+
+
+
+
+“(3)
+ shall take into account the safety of personnel and effectiveness of available procedures and equipment for preventing or mitigating transfer spills.
+
+
+
+
+“(b)
+ 
+Application With State Laws
+.—
+The regulations promulgated under subsection (a) do not preclude the enforcement of any State law or regulation the requirements of which are at least as stringent as requirements under the regulations (as determined by the Secretary) that—
+“(1)
+ applies in State waters; and
+
+
+
+
+“(2)
+ does not conflict with, or interfere with the enforcement of, requirements and operational procedures under the regulations.”
+
+
+
+
+“(a)
+ 
+Report
+.—
+Within 1 year after the date of enactment of this Act [
+Oct. 15, 2010
+], the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure that, using available data—
+“(1)
+ identifies the types of human errors that, combined, could cause oil spills, with particular attention to human error caused by fatigue, in the past 10 years;
+
+
+
+
+“(2)
+ in consultation with representatives of industry and labor and experts in the fields of marine casualties and human factors, identifies the most frequent types of near-miss oil spill incidents involving vessels such as collisions, allisions, groundings, and loss of propulsion in the past 10 years;
+
+
+
+
+“(3)
+ describes the extent to which there are gaps in the data required under paragraphs (1) and (2), including gaps in the ability to define and identify fatigue, and explains the reason for those gaps; and
+
+
+
+
+“(4)
+ includes recommendations by the Secretary and representatives of industry and labor and experts in the fields of marine casualties and human factors to address the identified types of errors and any such gaps in the data.
+
+
+
+
+“(b)
+ 
+Measures
+.—
+Based on the findings contained in the report required by subsection (a), the Secretary shall take appropriate action to reduce the risk of oil spills caused by human error.
+
+
+“(c)
+ 
+Confidentiality of Voluntarily Submitted Information
+.—
+The identity of a person making a voluntary disclosure under this section, and any information obtained from any such voluntary disclosure, shall be treated as confidential.
+
+
+“(d)
+ Discovery of Voluntarily Submitted Information.—
+“(1)
+ 
+In general
+.—
+Except as provided in this subsection, a party in a judicial proceeding may not use discovery to obtain information or data collected or received by the Secretary for use in the report required in subsection (a).
+
+
+
+
+“(2)
+ Exception.—
+“(A)
+ Notwithstanding paragraph (1), a court may allow discovery by a party in a judicial proceeding of data described in paragraph (1) if, after an in camera review of the information or data, the court decides that there is a compelling reason to allow the discovery.
+
+
+
+
+“(B)
+ When a court allows discovery in a judicial proceeding as permitted under this paragraph, the court shall issue a protective order—
+“(i)
+ to limit the use of the data to the judicial proceeding; and
+
+
+
+
+“(ii)
+ to prohibit dissemination of the data to any person who does not need access to the data for the proceeding.
+
+
+
+
+
+
+“(C)
+ A court may allow data it has decided is discoverable under this paragraph to be admitted into evidence in a judicial proceeding only if the court places the data under seal to prevent the use of the data for a purpose other than for the proceeding.
+
+
+
+
+
+
+“(3)
+ 
+Application
+.—
+Paragraph (1) shall not apply to—
+“(A)
+ any disclosure made with actual knowledge that the disclosure was false, inaccurate, or misleading; or
+
+
+
+
+“(B)
+ any disclosure made with reckless disregard as to the truth or falsity of that disclosure.
+
+
+
+
+
+
+“(e)
+ 
+Restriction on Use of Data
+.—
+Data that is voluntarily submitted for the purpose of the study required under subsection (a) shall not be used in an administrative action under chapter 77 of title 46, United States Code.”
+
+
+“(a)
+ 
+Study of Group-
+5 Fuel Oil Spills.—
+“(1)
+ 
+Definition
+.—
+In this subsection, the term ‘group-5 fuel oil’ means a petroleum-based oil that has a specific gravity of greater than 1.0.
+
+
+
+
+“(2)
+ 
+Coordination of study
+.—
+The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the relative environmental and public health risks posed by discharges of group-5 fuel oil.
+
+
+
+
+“(3)
+ 
+Matters to be included
+.—
+The study under this subsection shall include a review and analysis of—
+“(A)
+ the specific risks posed to the public health or welfare of the United States, including fish, shellfish and wildlife, public and private property, shorelines, beaches, habitat, and other natural resources under the jurisdiction or control of the United States, as a result of an actual or threatened discharge of group-5 fuel oil from a vessel or facility;
+
+
+
+
+“(B)
+ cleanup technologies currently available to address actual or threatened discharge of group-5 fuel oil; and
+
+
+
+
+“(C)
+ any technological and financial barriers that prevent the prompt remediation of discharges of group-5 fuel oil.
+
+
+
+
+
+
+“(4)
+ 
+Report
+.—
+Not later than 18 months after the date of enactment of this Act [
+Oct. 19, 1996
+], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
+
+
+
+
+“(5)
+ 
+Rulemaking
+.—
+If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+
+
+
+
+“(b)
+ Study of Automatic Fueling Shutoff Equipment.—
+“(1)
+ 
+Coordination of study
+.—
+The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the unintentional or accidental discharge of fuel oil during lightering or fuel loading or off-loading activity.
+
+
+
+
+“(2)
+ 
+Matters to be included
+.—
+The study under this subsection shall include a review and analysis of current monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
+
+
+
+
+“(3)
+ 
+Report
+.—
+Not later than 18 months after the date of enactment of this Act [
+Oct. 19, 1996
+], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
+
+
+
+
+“(4)
+ 
+Rulemaking
+.—
+If the Secretary of Transportation determines, based on the results of the study conducted under this subsection, that the use of automatic oil shutoff equipment is necessary to prevent the actual or threatened discharge of oil during lightering or fuel loading or off[-]loading activity, the Secretary may initiate a rulemaking to take such action as is necessary to abate a threat to public health or the environment.
+
+
+
+
+“(c)
+ 
+Lightering Study
+.—
+The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act [
+Oct. 19, 1996
+], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
+
+
+“(a)
+ 
+Funding
+.—
+The Secretary of Transportation shall take steps to allocate funds appropriated for research, development, testing, and evaluation, including the combination of funds from any source available and authorized for this purpose, to ensure that any Government-sponsored project intended to evaluate double hull alternatives that provide equal or greater protection to the marine environment, or interim solutions to remediate potential environmental damage resulting from oil spills from existing tank vessels, commenced prior to the date of enactment of this section [
+Oct. 19, 1996
+], is fully funded for completion by the end of fiscal year 1997. Any vessel construction or repair necessary to carry out the purpose of this section must be performed in a shipyard located in the United States.
+
+
+“(b)
+ 
+Use of Public Vessels
+.—
+The Secretary may provide vessels owned by, or demise chartered to, and operated by the Government and not engaged in commercial service, without reimbursement, for use in and the support of projects sponsored by the Government for research, development, testing, evaluation, and demonstration of new or improved technologies that are effective in preventing or mitigating oil discharges and protecting the environment.”
+
+
+“(a)
+ Not later than 6 months after the date of enactment of this Act [
+Dec. 20, 1993
+], the Secretary of Transportation shall establish a program to evaluate the technological feasibility and environmental benefits of having tank vessels carry oil spill prevention and response technology. To implement the program the Secretary shall—
+“(1)
+ publish in the Federal Register an invitation for submission of proposals including plans and procedures for testing; and
+
+
+
+
+“(2)
+ review and evaluate technology using, to the maximum extent possible, existing evaluation and performance standards.
+
+
+
+
+“(b)
+ The Secretary shall, to the maximum extent possible, incorporate in the program established in subsection (a), the results of existing studies and evaluations of oil spill prevention and response technology carried on tank vessels.
+
+
+“(c)
+ Not later than 2 years after the date of the enactment of this Act [
+Dec. 20, 1993
+], the Secretary shall evaluate the results of the program established in subsection (a) and submit a report to Congress with recommendations on the feasibility and environmental benefits of, and appropriate equipment and utilization standards for, requiring tank vessels to carry oil spill prevention and response equipment.
+
+
+“(d)
+ Not later than 6 months after the date of the enactment of this Act [
+Dec. 20, 1993
+], the Secretary shall evaluate and report to the Congress on the feasibility of using segregated ballast tanks for emergency transfer of cargo and storage of recovered oil.”
+
+
+“(a)
+ 
+Standards
+.—
+The Secretary may establish, by regulation, minimum standards for devices for warning persons of overfills and tank levels of oil in cargo tanks and devices for monitoring the pressure of oil cargo tanks.
+
+
+“(b)
+ 
+Use
+.—
+No sooner than 1 year after the Secretary prescribes regulations under subsection (a), the Secretary may issue regulations establishing, consistent with generally recognized principles of international law, requirements concerning the use of—
+“(1)
+ overfill devices, and
+
+
+
+
+“(2)
+ tank level or pressure monitoring devices,
+
+
+
+
+
+which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone.”
+
+
+“(c)
+ 
+Escorts for Certain Tankers
+.—
+“(1)
+ 
+In general
+.—
+The Secretary shall initiate issuance of regulations under 
+section 3703(a)(3) of title 46
+, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under 
+section 2101 of title 46
+, United States Code) or other vessels considered appropriate by the Secretary.
+
+
+
+
+“(2)
+ Prince william sound, alaska.—
+“(A)
+ 
+In general
+.—
+The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with 
+section 3703(a)(3) of title 46
+, United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on 
+March 1, 2009
+) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
+
+
+
+
+“(B)
+ 
+Implementation of requirements
+.—
+The Secretary of the department in which the Coast Guard is operating shall prescribe interim final regulations to carry out subparagraph (A) as soon as practicable without notice and hearing pursuant to 
+section 553 of title 5
+ of the United States Code.”
+
+
+
+
+
+
+ Tank vessel construction standards
+(a)
+ Except as otherwise provided in this section, a vessel to which this chapter applies shall be equipped with a double hull—
+(1)
+ if it is constructed or adapted to carry, or carries, oil in bulk as cargo or cargo residue; and
+
+
+
+
+(2)
+ when operating on the waters subject to the jurisdiction of the United States, including the Exclusive Economic Zone.
+
+
+
+
+(b)
+ This section does not apply to—
+(1)
+ a vessel used only to respond to a discharge of oil or a hazardous substance;
+
+
+
+
+(2)
+ a vessel of less than 5,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+ equipped with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil;
+
+
+
+
+(3)
+ before 
+January 1, 2015
+—
+(A)
+ a vessel unloading oil in bulk at a deepwater port licensed under the Deepwater Port Act of 1974 (
+33 U.S.C. 1501
+ et seq.); or
+
+
+
+
+(B)
+ a delivering vessel that is offloading in lightering activities—
+(i)
+ within a lightering zone established under 
+section 3715(b)(5) of this title
+; and
+
+
+
+
+(ii)
+ more than 60 miles from the baseline from which the territorial sea of the United States is measured;
+
+
+
+
+
+
+
+
+(4)
+ a vessel documented under chapter 121 of this title that was equipped with a double hull before 
+August 12, 1992
+;
+
+
+
+
+(5)
+ a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
+
+
+
+
+(6)
+ a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
+
+
+
+
+(c)
+(1)
+ In this subsection, the age of a vessel is determined from the later of the date on which the vessel—
+(A)
+ is delivered after original construction;
+
+
+
+
+(B)
+ is delivered after completion of a major conversion; or
+
+
+
+
+(C)
+ had its appraised salvage value determined by the Coast Guard and is qualified for documentation as a wrecked vessel under 
+section 12112 of this title
+.
+
+
+
+
+
+
+(2)
+ A vessel of less than 5,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+ for which a building contract or contract for major conversion was placed before 
+June 30, 1990
+, and that is delivered under that contract before 
+January 1, 1994
+, and a vessel of less than 5,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+ that had its appraised salvage value determined by the Coast Guard before 
+June 30, 1990
+, and that qualifies for documentation as a wrecked vessel under 
+section 12112 of this title
+ before 
+January 1, 1994
+, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after 
+January 1, 2015
+, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
+
+
+
+
+(3)
+ A vessel for which a building contract or contract for major conversion was placed before 
+June 30, 1990
+, and that is delivered under that contract before 
+January 1, 1994
+, and a vessel that had its appraised salvage value determined by the Coast Guard before 
+June 30, 1990
+, and that qualifies for documentation as a wrecked vessel under 
+section 12112 of this title
+ before 
+January 1, 1994
+, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
+(A)
+ in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+—
+(i)
+ after 
+January 1, 1995
+, if the vessel is 40 years old or older and has a single hull, or is 45 years old or older and has a double bottom or double sides;
+
+
+
+
+(ii)
+ after 
+January 1, 1996
+, if the vessel is 39 years old or older and has a single hull, or is 44 years old or older and has a double bottom or double sides;
+
+
+
+
+(iii)
+ after 
+January 1, 1997
+, if the vessel is 38 years old or older and has a single hull, or is 43 years old or older and has a double bottom or double sides;
+
+
+
+
+(iv)
+ after 
+January 1, 1998
+, if the vessel is 37 years old or older and has a single hull, or is 42 years old or older and has a double bottom or double sides;
+
+
+
+
+(v)
+ after 
+January 1, 1999
+, if the vessel is 36 years old or older and has a single hull, or is 41 years old or older and has a double bottom or double sides;
+
+
+
+
+(vi)
+ after 
+January 1, 2000
+, if the vessel is 35 years old or older and has a single hull, or is 40 years old or older and has a double bottom or double sides; and
+
+
+
+
+(vii)
+ after 
+January 1, 2005
+, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
+
+
+
+
+
+
+(B)
+ in the case of a vessel of at least 15,000 gross tons but less than 30,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+—
+(i)
+ after 
+January 1, 1995
+, if the vessel is 40 years old or older and has a single hull, or is 45 years old or older and has a double bottom or double sides;
+
+
+
+
+(ii)
+ after 
+January 1, 1996
+, if the vessel is 38 years old or older and has a single hull, or is 43 years old or older and has a double bottom or double sides;
+
+
+
+
+(iii)
+ after 
+January 1, 1997
+, if the vessel is 36 years old or older and has a single hull, or is 41 years old or older and has a double bottom or double sides;
+
+
+
+
+(iv)
+ after 
+January 1, 1998
+, if the vessel is 34 years old or older and has a single hull, or is 39 years old or older and has a double bottom or double sides;
+
+
+
+
+(v)
+ after 
+January 1, 1999
+, if the vessel is 32 years old or older and has a single hull, or 37 years old or older and has a double bottom or double sides;
+
+
+
+
+(vi)
+ after 
+January 1, 2000
+, if the vessel is 30 years old or older and has a single hull, or is 35 years old or older and has a double bottom or double sides;
+
+
+
+
+(vii)
+ after 
+January 1, 2001
+, if the vessel is 29 years old or older and has a single hull, or is 34 years old or older and has a double bottom or double sides;
+
+
+
+
+(viii)
+ after 
+January 1, 2002
+, if the vessel is 28 years old or older and has a single hull, or is 33 years old or older and has a double bottom or double sides;
+
+
+
+
+(ix)
+ after 
+January 1, 2003
+, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
+
+
+
+
+(x)
+ after 
+January 1, 2004
+, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides; and
+
+
+
+
+(xi)
+ after 
+January 1, 2005
+, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides; and
+
+
+
+
+
+
+(C)
+ in the case of a vessel of at least 30,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+—
+(i)
+ after 
+January 1, 1995
+, if the vessel is 28 years old or older and has a single hull, or 33 years old or older and has a double bottom or double sides;
+
+
+
+
+(ii)
+ after 
+January 1, 1996
+, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
+
+
+
+
+(iii)
+ after 
+January 1, 1997
+, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides;
+
+
+
+
+(iv)
+ after 
+January 1, 1998
+, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
+
+
+
+
+(v)
+ after 
+January 1, 1999
+, if the vessel is 24 years old or older and has a single hull, or 29 years old or older and has a double bottom or double sides; and
+
+
+
+
+(vi)
+ after 
+January 1, 2000
+, if the vessel is 23 years old or older and has a single hull, or is 28 years old or older and has a double bottom or double sides.
+
+
+
+
+
+
+
+
+(4)
+ Except as provided in subsection (b) of this section—
+(A)
+ a vessel that has a single hull may not operate after 
+January 1, 2010
+; and
+
+
+
+
+(B)
+ a vessel that has a double bottom or double sides may not operate after 
+January 1, 2015
+.
+
+
+
+
+
+
+(d)
+ The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
+
+
+(e)
+(1)
+ For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on 
+July 1, 1997
+, as the tonnage measured under 
+section 14502 of this title
+, or as an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+.
+
+
+
+
+(2)
+(A)
+ The Secretary may waive the application of paragraph (1) to a tank vessel if—
+(i)
+ the owner of the tank vessel applies to the Secretary for the waiver before 
+January 1, 1998
+;
+
+
+
+
+(ii)
+ the Secretary determines that—
+(I)
+ the owner of the tank vessel has entered into a binding agreement to alter the tank vessel in a shipyard in the United States to reduce the gross tonnage of the tank vessel by converting a portion of the cargo tanks of the tank vessel into protectively located segregated ballast tanks; and
+
+
+
+
+(II)
+ that conversion will result in a significant reduction in the risk of a discharge of oil;
+
+
+
+
+
+
+(iii)
+ at least 60 days before the date of the issuance of the waiver, the Secretary—
+(I)
+ publishes notice that the Secretary has received the application and made the determinations required by clause (ii), including a description of the agreement entered into pursuant to clause (ii)(I); and
+
+
+
+
+(II)
+ provides an opportunity for submission of comments regarding the application; and
+
+
+
+
+
+
+(iv)
+ the alterations referred to in clause (ii)(I) are completed before the later of—
+(I)
+ the date by which the first special survey of the tank vessel is required to be completed after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998; or
+
+
+
+
+(II)
+ 
+July 1, 1999
+.
+
+
+
+
+
+
+
+
+(B)
+ A waiver under subparagraph (A) shall not be effective after the expiration of the 3-year period beginning on the first date on which the tank vessel would have been prohibited by subsection (c) from operating if the alterations referred to in subparagraph (A)(ii)(I) were not made.
+
+
+
+
+
+
+(3)
+ This subsection does not apply to a tank vessel that, before 
+July 1, 1997
+, had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
+
+
+
+
+ Coastwise trade vessels
+A segregated ballast tank, a crude oil washing system, or an inert gas system, required by this chapter or a regulation prescribed under this chapter, on a vessel entitled to engage in the coastwise trade under chapter 551 of this title shall be installed in the United States (except the trust territories). A vessel failing to comply with this section may not engage in the coastwise trade.
+ Crude oil tanker minimum standards
+(a)
+ A new crude oil tanker of at least 20,000 deadweight tons shall be equipped with—
+(1)
+ protectively located segregated ballast tanks;
+
+
+
+
+(2)
+ a crude oil washing system; and
+
+
+
+
+(3)
+ a cargo tank protection system consisting of a fixed deck froth system and a fixed inert gas system.
+
+
+
+
+(b)
+(1)
+ An existing crude oil tanker of at least 40,000 deadweight tons shall be equipped with—
+(A)
+ segregated ballast tanks; or
+
+
+
+
+(B)
+ a crude oil washing system.
+
+
+
+
+
+
+(2)
+ Compliance with paragraph (1) of this subsection may be delayed until 
+June 1, 1985
+, for any tanker of less than 70,000 deadweight tons that has dedicated clean ballast tanks.
+
+
+
+
+(c)
+ An existing crude oil tanker of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or a crude oil washing system before 
+January 2, 1986
+, or the date on which the tanker reaches 15 years of age, whichever is later.
+
+
+(d)
+ An existing crude oil tanker of at least 20,000 deadweight tons shall be equipped with an inert gas system. However, for a crude oil tanker of less than 40,000 deadweight tons not fitted with high capacity tank washing machines, the Secretary may grant an exemption if the vessel’s owner can show clearly that compliance would be unreasonable and impracticable due to the vessel’s design characteristics.
+
+
+(e)
+ A crude oil tanker engaged in transferring oil from an offshore oil exploitation or production facility on the Outer Continental Shelf of the United States shall be equipped with segregated ballast tanks, or may operate with dedicated clean ballast tanks or special ballast arrangements. However, the tanker shall comply with other applicable minimum standards of this section.
+
+
+ Product carrier minimum standards
+(a)
+ A new product carrier of at least 30,000 deadweight tons shall be equipped with protectively located segregated ballast tanks.
+
+
+(b)
+ A new product carrier of at least 20,000 deadweight tons shall be equipped with a cargo tank protection system consisting of a fixed deck froth system and a fixed inert gas system or, if the product carrier carries dedicated products incompatible with the cargo tank protection system, an alternate protection system authorized by the Secretary.
+
+
+(c)
+ An existing product carrier of at least 40,000 deadweight tons shall be equipped with segregated ballast tanks or may operate with dedicated clean ballast tanks.
+
+
+(d)
+ An existing product carrier of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or may operate with dedicated clean ballast tanks before 
+January 2, 1986
+, or the date on which it reaches 15 years of age, whichever is later.
+
+
+(e)
+ An existing product carrier of at least 40,000 deadweight tons, or an existing product carrier of at least 20,000 deadweight tons but less than 40,000 deadweight tons that is fitted with high-capacity tank washing machines, shall be equipped with an inert gas system.
+
+
+ Tanker minimum standards
+(a)
+ A new tanker of at least 10,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+ shall be equipped with—
+(1)
+ 2 remote steering gear control systems operable separately from the navigating bridge;
+
+
+
+
+(2)
+ the main steering gear control in the steering gear compartment;
+
+
+
+
+(3)
+ means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment;
+
+
+
+
+(4)
+ at least 2 identical and adequate power units for the main steering gear;
+
+
+
+
+(5)
+ an alternative and adequate power supply, either from an emergency source of electrical power or from another independent source of power located in the steering gear compartment; and
+
+
+
+
+(6)
+ means of automatic starting and stopping of power units with attendant alarms at all steering stations.
+
+
+
+
+(b)
+ An existing tanker of at least 10,000 gross tons as measured under 
+section 14502 of this title
+, or an alternate tonnage measured under 
+section 14302 of this title
+ as prescribed by the Secretary under 
+section 14104 of this title
+ shall be equipped with—
+(1)
+ 2 remote steering gear control systems operable separately from the navigating bridge;
+
+
+
+
+(2)
+ the main steering gear control in the steering gear compartment; and
+
+
+
+
+(3)
+ means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment.
+
+
+
+
+ Self-propelled tank vessel minimum standards
+ Exemptions
+The Secretary may exempt a vessel from the minimum requirements established by sections 3704–3706 of this title for segregated ballast, crude oil washing, and dedicated clean ballast if the Secretary decides that shore-based reception facilities are a preferred method of handling ballast and that adequate facilities are readily available.
+ Evidence of compliance by vessels of the United States
+(a)
+ A vessel of the United States to which this chapter applies that has on board oil or hazardous material in bulk as cargo or cargo residue must have a certificate of inspection issued under this part, endorsed to indicate that the vessel complies with regulations prescribed under this chapter.
+
+
+(b)
+ Each certificate endorsed under this section is valid for not more than 5 years and may be renewed as specified by the Secretary. In appropriate circumstances, the Secretary may issue a temporary certificate valid for not more than 30 days. A certificate shall be suspended or revoked if the Secretary finds that the vessel does not comply with the conditions under which the certificate was issued.
+
+
+ Evidence of compliance by foreign vessels
+(a)
+ A foreign vessel to which this chapter applies may operate on the navigable waters of the United States, or transfer oil or hazardous material in a port or place under the jurisdiction of the United States, only if the vessel has been issued a certificate of compliance by the Secretary. The Secretary may issue the certificate only after the vessel has been examined and found to be in compliance with this chapter and regulations prescribed under this chapter. The Secretary may accept any part of a certificate, endorsement, or document, issued by the government of a foreign country under a treaty, convention, or other international agreement to which the United States is a party, as a basis for issuing a certificate of compliance.
+
+
+(b)
+ A certificate issued under this section is valid for not more than 24 months and may be renewed as specified by the Secretary. In appropriate circumstances, the Secretary may issue a temporary certificate valid for not more than 30 days.
+
+
+(c)
+ A certificate shall be suspended or revoked if the Secretary finds that the vessel does not comply with the conditions under which the certificate was issued.
+
+
+ Notification of noncompliance
+The Secretary shall notify the owner, charterer, managing operator, agent, master, or individual in charge of a vessel found not to be in compliance with a regulation prescribed under this part and state how compliance may be achieved.
+ Prohibited acts
+(a)
+ A person may not—
+(1)
+ violate this chapter or a regulation prescribed under this chapter;
+
+
+
+
+(2)
+ refuse to permit any official, authorized by the Secretary to enforce this chapter, to board a vessel or to enter a shore area, place, or premises, under a person’s control to make an inspection under this chapter; or
+
+
+
+
+(3)
+ refuse to obey a lawful directive issued under this chapter.
+
+
+
+
+(b)
+ A vessel to which this chapter applies may not—
+(1)
+ operate on the navigable waters of the United States or use a port or place subject to the jurisdiction of the United States when not in compliance with this chapter or a regulation prescribed under this chapter;
+
+
+
+
+(2)
+ fail to comply with a lawful directive issued under this chapter; or
+
+
+
+
+(3)
+ carry a type or grade of oil or hazardous material in bulk as cargo or cargo residue unless its certificate is endorsed to allow that carriage.
+
+
+
+
+ Inspection and examination
+(a)
+(1)
+ The Secretary shall have each vessel to which this chapter applies inspected or examined at least once each year.
+
+
+
+
+(2)
+ Each of those vessels that is more than 10 years of age shall undergo a special and detailed inspection of structural strength and hull integrity as specified by the Secretary.
+
+
+
+
+(3)
+ The Secretary may make contracts for conducting inspections or examinations in the United States and in foreign countries. An inspector conducting an inspection or examination under contract may not issue a certificate of inspection or a certificate of compliance, but the inspector may issue a temporary certificate.
+
+
+
+
+(4)
+ The Secretary shall prescribe by regulation reasonable fees for an inspection or examination conducted under this section outside the United States, or which, when involving a foreign vessel, is conducted under a contract authorized by paragraph (3) of this subsection. The owner, charterer, or managing operator of a vessel inspected or examined by the Secretary is liable for the fees. Amounts received as fees shall be deposited in the Treasury.
+
+
+
+
+(5)
+ The Secretary may allow provisional entry of a vessel to conduct an inspection or examination under this chapter.
+
+
+
+
+(b)
+ Each vessel to which this chapter applies shall have on board those documents the Secretary considers necessary for inspection and enforcement, including documents listing—
+(1)
+ the type, grade, and approximate quantities of cargo on board;
+
+
+
+
+(2)
+ the shipper and consignee of the cargo;
+
+
+
+
+(3)
+ the places of origin and destination of the vessel; and
+
+
+
+
+(4)
+ the name of an agent in the United States authorized to accept service of legal process.
+
+
+
+
+(c)
+ Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
+
+
+ Lightering
+(a)
+ A vessel may transfer oil or hazardous material in a port or place subject to the jurisdiction of the United States, when the cargo has been transferred from another vessel on the navigable waters of the United States or in the marine environment, only if—
+(1)
+ the transfer was conducted consistent with regulations prescribed by the Secretary;
+
+
+
+
+(2)
+ both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States; and 
+1
+1
+ So in original. The word “and” probably should not appear.
+
+
+
+
+(3)
+ the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
+
+
+
+
+(4)
+ the delivering and the receiving vessel had on board at the time of transfer, evidence that each vessel is operating in compliance with section 311(j) of the Federal Water Pollution Control Act (
+33 U.S.C. 1321(j)
+); and
+
+
+
+
+(5)
+ the delivering and the receiving vessel are operating in compliance with 
+section 3703a of this title
+.
+
+
+
+
+(b)
+ The Secretary shall prescribe regulations to carry out subsection (a) of this section. The regulations shall include provisions on—
+(1)
+ minimum safe operating conditions, including sea state, wave height, weather, proximity to channels or shipping lanes, and other similar factors;
+
+
+
+
+(2)
+ the prevention of spills;
+
+
+
+
+(3)
+ equipment for responding to a spill;
+
+
+
+
+(4)
+ the prevention of any unreasonable interference with navigation or other reasonable uses of the high seas, as those uses are defined by treaty, convention, or customary international law;
+
+
+
+
+(5)
+ the establishment of lightering zones; and
+
+
+
+
+(6)
+ requirements for communication and prearrival messages.
+
+
+
+
+ Tank washings
+(a)
+ A vessel may not transfer cargo in a port or place subject to the jurisdiction of the United States if, before arriving, the vessel has discharged tank washings containing oil or hazardous material in preparation for loading at that port or place in violation of the laws of the United States or in a manner or quantities inconsistent with a treaty to which the United States is a party.
+
+
+(b)
+ The Secretary shall establish effective control and supervisory measures to carry out this section.
+
+
+ Marine safety information system
+(a)
+ The Secretary shall establish a marine safety information system that shall contain information about each vessel to which this chapter applies that operates on the navigable waters of the United States, or that transfers oil or hazardous material in a port or place under the jurisdiction of the United States. In acquiring this information, the Secretary shall make full use of publicly available information. The Secretary may by regulation require the vessel to provide information that the Secretary considers necessary to carry out this subsection, including—
+(1)
+ the name of each person with an ownership interest in the vessel;
+
+
+
+
+(2)
+ details of compliance with the financial responsibility requirements of applicable laws or regulations;
+
+
+
+
+(3)
+ registration information, including all changes in the name of the vessel;
+
+
+
+
+(4)
+ the history of marine casualties and serious repair problems of the vessel; and
+
+
+
+
+(5)
+ a record of all inspections and examinations of a vessel conducted under 
+section 3714 of this title
+.
+
+
+
+
+(b)
+ On written request from the Secretary, the head of each department, agency, or instrumentality of the United States Government shall provide available information that the Secretary considers necessary to confirm the information received under subsection (a) of this section.
+
+
+ Penalties
+(a)
+(1)
+ A person violating this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation.
+
+
+
+
+(2)
+ Each vessel to which this chapter applies that is operated in violation of this chapter or a regulation prescribed under this chapter is liable in rem for a civil penalty under this subsection.
+
+
+
+
+(b)
+ A person willfully and knowingly violating this chapter or a regulation prescribed under this chapter commits a class D felony.
+
+
+(c)
+ Instead of the penalties provided by subsection (b) of this section, a person willfully and knowingly violating this chapter or a regulation prescribed under this chapter, and using a dangerous weapon, or engaging in conduct that causes bodily injury or fear of imminent bodily injury to an official authorized to enforce this chapter or a regulation prescribed under this chapter, commits a class C felony.
+
+
+(d)
+ The district courts of the United States have jurisdiction to restrain a violation of this chapter or a regulation prescribed under this chapter.
+
+
+(e)
+(1)
+ If any owner, operator, or individual in charge of a vessel is liable for any penalty or fine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to any penalty or fine under this section, the Secretary of Homeland Security, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by 
+section 60105 of this title
+.
+
+
+
+
+(2)
+ Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
+
+
+
+
+ Reduction of oil spills from single hull non-self-propelled tank vessels

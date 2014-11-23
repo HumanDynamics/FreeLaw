@@ -1,0 +1,968 @@
+
+Chapter 11
+LABOR-MANAGEMENT REPORTING AND DISCLOSURE PROCEDURE
+ Congressional declaration of findings, purposes, and policy
+(a)
+ Standards for labor-management relations
+The Congress finds that, in the public interest, it continues to be the responsibility of the Federal Government to protect employees’ rights to organize, choose their own representatives, bargain collectively, and otherwise engage in concerted activities for their mutual aid or protection; that the relations between employers and labor organizations and the millions of workers they represent have a substantial impact on the commerce of the Nation; and that in order to accomplish the objective of a free flow of commerce it is essential that labor organizations, employers, and their officials adhere to the highest standards of responsibility and ethical conduct in administering the affairs of their organizations, particularly as they affect labor-management relations.
+
+
+
+
+(b)
+ Protection of rights of employees and the public
+The Congress further finds, from recent investigations in the labor and management fields, that there have been a number of instances of breach of trust, corruption, disregard of the rights of individual employees, and other failures to observe high standards of responsibility and ethical conduct which require further and supplementary legislation that will afford necessary protection of the rights and interests of employees and the public generally as they relate to the activities of labor organizations, employers, labor relations consultants, and their officers and representatives.
+
+
+
+
+(c)
+ Necessity to eliminate or prevent improper practices
+The Congress, therefore, further finds and declares that the enactment of this chapter is necessary to eliminate or prevent improper practices on the part of labor organizations, employers, labor relations consultants, and their officers and representatives which distort and defeat the policies of the Labor Management Relations Act, 1947, as amended [
+29 U.S.C. 141
+ et seq.], and the Railway Labor Act, as amended [
+45 U.S.C. 151
+ et seq.], and have the tendency or necessary effect of burdening or obstructing commerce by (1) impairing the efficiency, safety, or operation of the instrumentalities of commerce; (2) occurring in the current of commerce; (3) materially affecting, restraining, or controlling the flow of raw materials or manufactured or processed goods into or from the channels of commerce, or the prices of such materials or goods in commerce; or (4) causing diminution of employment and wages in such volume as substantially to impair or disrupt the market for goods flowing into or from the channels of commerce.
+
+
+
+
+ Definitions
+(a)
+ “Commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States or between any State and any place outside thereof.
+
+
+(b)
+ “State” includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act [
+43 U.S.C. 1331
+ et seq.].
+
+
+(c)
+ “Industry affecting commerce” means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry “affecting commerce” within the meaning of the Labor Management Relations Act, 1947, as amended [
+29 U.S.C. 141
+ et seq.], or the Railway Labor Act, as amended [
+45 U.S.C. 151
+ et seq.].
+
+
+(d)
+ “Person” includes one or more individuals, labor organizations, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11, or receivers.
+
+
+(e)
+ “Employer” means any employer or any group or association of employers engaged in an industry affecting commerce (1) which is, with respect to employees engaged in an industry affecting commerce, an employer within the meaning of any law of the United States relating to the employment of any employees or (2) which may deal with any labor organization concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work, and includes any person acting directly or indirectly as an employer or as an agent of an employer in relation to an employee but does not include the United States or any corporation wholly owned by the Government of the United States or any State or political subdivision thereof.
+
+
+(f)
+ “Employee” means any individual employed by an employer, and includes any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice or because of exclusion or expulsion from a labor organization in any manner or for any reason inconsistent with the requirements of this chapter.
+
+
+(g)
+ “Labor dispute” includes any controversy concerning terms, tenure, or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
+
+
+(h)
+ “Trusteeship” means any receivership, trusteeship, or other method of supervision or control whereby a labor organization suspends the autonomy otherwise available to a subordinate body under its constitution or bylaws.
+
+
+(i)
+ “Labor organization” means a labor organization engaged in an industry affecting commerce and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization, other than a State or local central body.
+
+
+(j)
+ A labor organization shall be deemed to be engaged in an industry affecting commerce if it—
+(1)
+ is the certified representative of employees under the provisions of the National Labor Relations Act, as amended [
+29 U.S.C. 151
+ et seq.], or the Railway Labor Act, as amended [
+45 U.S.C. 151
+ et seq.]; or
+
+
+
+
+(2)
+ although not certified, is a national or international labor organization or a local labor organization recognized or acting as the representative of employees of an employer or employers engaged in an industry affecting commerce; or
+
+
+
+
+(3)
+ has chartered a local labor organization or subsidiary body which is representing or actively seeking to represent employees of employers within the meaning of paragraph (1) or (2); or
+
+
+
+
+(4)
+ has been chartered by a labor organization representing or actively seeking to represent employees within the meaning of paragraph (1) or (2) as the local or subordinate body through which such employees may enjoy membership or become affiliated with such labor organization; or
+
+
+
+
+(5)
+ is a conference, general committee, joint or system board, or joint council, subordinate to a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection, other than a State or local central body.
+
+
+
+
+(k)
+ “Secret ballot” means the expression by ballot, voting machine, or otherwise, but in no event by proxy, of a choice with respect to any election or vote taken upon any matter, which is cast in such a manner that the person expressing such choice cannot be identified with the choice expressed.
+
+
+(l)
+ “Trust in which a labor organization is interested” means a trust or other fund or organization (1) which was created or established by a labor organization, or one or more of the trustees or one or more members of the governing body of which is selected or appointed by a labor organization, and (2) a primary purpose of which is to provide benefits for the members of such labor organization or their beneficiaries.
+
+
+(m)
+ “Labor relations consultant” means any person who, for compensation, advises or represents an employer, employer organization, or labor organization concerning employee organizing, concerted activities, or collective bargaining activities.
+
+
+(n)
+ “Officer” means any constitutional officer, any person authorized to perform the functions of president, vice president, secretary, treasurer, or other executive functions of a labor organization, and any member of its executive board or similar governing body.
+
+
+(o)
+ “Member” or “member in good standing”, when used in reference to a labor organization, includes any person who has fulfilled the requirements for membership in such organization, and who neither has voluntarily withdrawn from membership nor has been expelled or suspended from membership after appropriate proceedings consistent with lawful provisions of the constitution and bylaws of such organization.
+
+
+(p)
+ “Secretary” means the Secretary of Labor.
+
+
+(q)
+ “Officer, agent, shop steward, or other representative”, when used with respect to a labor organization, includes elected officials and key administrative personnel, whether elected or appointed (such as business agents, heads of departments or major units, and organizers who exercise substantial independent authority), but does not include salaried nonsupervisory professional staff, stenographic, and service personnel.
+
+
+(r)
+ “District court of the United States” means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
+
+
+ Bill of rights; constitution and bylaws of labor organizations
+(a)
+(1)
+ Equal rights
+Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
+
+
+
+
+
+
+(2)
+ Freedom of speech and assembly
+Every member of any labor organization shall have the right to meet and assemble freely with other members; and to express any views, arguments, or opinions; and to express at meetings of the labor organization his views, upon candidates in an election of the labor organization or upon any business properly before the meeting, subject to the organization’s established and reasonable rules pertaining to the conduct of meetings: 
+Provided
+, That nothing herein shall be construed to impair the right of a labor organization to adopt and enforce reasonable rules as to the responsibility of every member toward the organization as an institution and to his refraining from conduct that would interfere with its performance of its legal or contractual obligations.
+
+
+
+
+
+
+(3)
+ Dues, initiation fees, and assessments
+Except in the case of a federation of national or international labor organizations, the rates of dues and initiation fees payable by members of any labor organization in effect on 
+September 14, 1959
+ shall not be increased, and no general or special assessment shall be levied upon such members, except—
+(A)
+ in the case of a local labor organization, (i) by majority vote by secret ballot of the members in good standing voting at a general or special membership meeting, after reasonable notice of the intention to vote upon such question, or (ii) by majority vote of the members in good standing voting in a membership referendum conducted by secret ballot; or
+
+
+
+
+(B)
+ in the case of a labor organization, other than a local labor organization or a federation of national or international labor organizations, (i) by majority vote of the delegates voting at a regular convention, or at a special convention of such labor organization held upon not less than thirty days’ written notice to the principal office of each local or constituent labor organization entitled to such notice, or (ii) by majority vote of the members in good standing of such labor organization voting in a membership referendum conducted by secret ballot, or (iii) by majority vote of the members of the executive board or similar governing body of such labor organization, pursuant to express authority contained in the constitution and bylaws of such labor organization: 
+Provided
+, That such action on the part of the executive board or similar governing body shall be effective only until the next regular convention of such labor organization.
+
+
+
+
+
+
+(4)
+ Protection of the right to sue
+No labor organization shall limit the right of any member thereof to institute an action in any court, or in a proceeding before any administrative agency, irrespective of whether or not the labor organization or its officers are named as defendants or respondents in such action or proceeding, or the right of any member of a labor organization to appear as a witness in any judicial, administrative, or legislative proceeding, or to petition any legislature or to communicate with any legislator: 
+Provided
+, That any such member may be required to exhaust reasonable hearing procedures (but not to exceed a four-month lapse of time) within such organization, before instituting legal or administrative proceedings against such organizations or any officer thereof: 
+And provided further
+, That no interested employer or employer association shall directly or indirectly finance, encourage, or participate in, except as a party, any such action, proceeding, appearance, or petition.
+
+
+
+
+
+
+(5)
+ Safeguards against improper disciplinary action
+No member of any labor organization may be fined, suspended, expelled, or otherwise disciplined except for nonpayment of dues by such organization or by any officer thereof unless such member has been (A) served with written specific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.
+
+
+
+
+
+
+(b)
+ Invalidity of constitution and bylaws
+ Any provision of the constitution and bylaws of any labor organization which is inconsistent with the provisions of this section shall be of no force or effect.
+
+
+
+
+ Civil action for infringement of rights; jurisdiction
+Any person whose rights secured by the provisions of this subchapter have been infringed by any violation of this subchapter may bring a civil action in a district court of the United States for such relief (including injunctions) as may be appropriate. Any such action against a labor organization shall be brought in the district court of the United States for the district where the alleged violation occurred, or where the principal office of such labor organization is located.
+ Retention of existing rights of members
+Nothing contained in this subchapter shall limit the rights and remedies of any member of a labor organization under any State or Federal law or before any court or other tribunal, or under the constitution and bylaws of any labor organization.
+ Right to copies of collective bargaining agreements
+It shall be the duty of the secretary or corresponding principal officer of each labor organization, in the case of a local labor organization, to forward a copy of each collective bargaining agreement made by such labor organization with any employer to any employee who requests such a copy and whose rights as such employee are directly affected by such agreement, and in the case of a labor organization other than a local labor organization, to forward a copy of any such agreement to each constituent unit which has members directly affected by such agreement; and such officer shall maintain at the principal office of the labor organization of which he is an officer copies of any such agreement made or received by such labor organization, which copies shall be available for inspection by any member or by any employee whose rights are affected by such agreement. The provisions of 
+ Information to members of provisions of chapter
+Every labor organization shall inform its members concerning the provisions of this chapter.
+ Report of labor organizations
+(a)
+ Adoption and filing of constitution and bylaws; contents of report
+Every labor organization shall adopt a constitution and bylaws and shall file a copy thereof with the Secretary, together with a report, signed by its president and secretary or corresponding principal officers, containing the following information—
+(1)
+ the name of the labor organization, its mailing address, and any other address at which it maintains its principal office or at which it keeps the records referred to in this subchapter;
+
+
+
+
+(2)
+ the name and title of each of its officers;
+
+
+
+
+(3)
+ the initiation fee or fees required from a new or transferred member and fees for work permits required by the reporting labor organization;
+
+
+
+
+(4)
+ the regular dues or fees or other periodic payments required to remain a member of the reporting labor organization; and
+
+
+
+
+(5)
+ detailed statements, or references to specific provisions of documents filed under this subsection which contain such statements, showing the provision made and procedures followed with respect to each of the following: (A) qualifications for or restrictions on membership, (B) levying of assessments, (C) participation in insurance or other benefit plans, (D) authorization for disbursement of funds of the labor organization, (E) audit of financial transactions of the labor organization, (F) the calling of regular and special meetings, (G) the selection of officers and stewards and of any representatives to other bodies composed of labor organizations’ representatives, with a specific statement of the manner in which each officer was elected, appointed, or otherwise selected, (H) discipline or removal of officers or agents for breaches of their trust, (I) imposition of fines, suspensions, and expulsions of members, including the grounds for such action and any provision made for notice, hearing, judgment on the evidence, and appeal procedures, (J) authorization for bargaining demands, (K) ratification of contract terms, (L) authorization for strikes, and (M) issuance of work permits. Any change in the information required by this subsection shall be reported to the Secretary at the time the reporting labor organization files with the Secretary the annual financial report required by subsection (b) of this section.
+
+
+
+
+(b)
+ Annual financial report; filing; contents
+Every labor organization shall file annually with the Secretary a financial report signed by its president and treasurer or corresponding principal officers containing the following information in such detail as may be necessary accurately to disclose its financial condition and operations for its preceding fiscal year—
+(1)
+ assets and liabilities at the beginning and end of the fiscal year;
+
+
+
+
+(2)
+ receipts of any kind and the sources thereof;
+
+
+
+
+(3)
+ salary, allowances, and other direct or indirect disbursements (including reimbursed expenses) to each officer and also to each employee who, during such fiscal year, received more than $10,000 in the aggregate from such labor organization and any other labor organization affiliated with it or with which it is affiliated, or which is affiliated with the same national or international labor organization;
+
+
+
+
+(4)
+ direct and indirect loans made to any officer, employee, or member, which aggregated more than $250 during the fiscal year, together with a statement of the purpose, security, if any, and arrangements for repayment;
+
+
+
+
+(5)
+ direct and indirect loans to any business enterprise, together with a statement of the purpose, security, if any, and arrangements for repayment; and
+
+
+
+
+(6)
+ other disbursements made by it including the purposes thereof;
+
+
+
+
+
+all in such categories as the Secretary may prescribe.
+
+
+(c)
+ Availability of information to members; examination of books, records, and accounts
+Every labor organization required to submit a report under this subchapter shall make available the information required to be contained in such report to all of its members, and every such labor organization and its officers shall be under a duty enforceable at the suit of any member of such organization in any State court of competent jurisdiction or in the district court of the United States for the district in which such labor organization maintains its principal office, to permit such member for just cause to examine any books, records, and accounts necessary to verify such report. The court in such action may, in its discretion, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney’s fee to be paid by the defendant, and costs of the action.
+
+
+
+
+ Report of officers and employees of labor organizations
+(a)
+ Filing; contents of report
+Every officer of a labor organization and every employee of a labor organization (other than an employee performing exclusively clerical or custodial services) shall file with the Secretary a signed report listing and describing for his preceding fiscal year—
+(1)
+ any stock, bond, security, or other interest, legal or equitable, which he or his spouse or minor child directly or indirectly held in, and any income or any other benefit with monetary value (including reimbursed expenses) which he or his spouse or minor child derived directly or indirectly from, an employer whose employees such labor organization represents or is actively seeking to represent, except payments and other benefits received as a bona fide employee of such employer;
+
+
+
+
+(2)
+ any transaction in which he or his spouse or minor child engaged, directly or indirectly, involving any stock, bond, security, or loan to or from, or other legal or equitable interest in the business of an employer whose employees such labor organization represents or is actively seeking to represent;
+
+
+
+
+(3)
+ any stock, bond, security, or other interest, legal or equitable, which he or his spouse or minor child directly or indirectly held in, and any income or any other benefit with monetary value (including reimbursed expenses) which he or his spouse or minor child directly or indirectly derived from, any business a substantial part of which consists of buying from, selling or leasing to, or otherwise dealing with, the business of an employer whose employees such labor organization represents or is actively seeking to represent;
+
+
+
+
+(4)
+ any stock, bond, security, or other interest, legal or equitable, which he or his spouse or minor child directly or indirectly held in, and any income or any other benefit with monetary value (including reimbursed expenses) which he or his spouse or minor child directly or indirectly derived from, a business any part of which consists of buying from, or selling or leasing directly or indirectly to, or otherwise dealing with such labor organization;
+
+
+
+
+(5)
+ any direct or indirect business transaction or arrangement between him or his spouse or minor child and any employer whose employees his organization represents or is actively seeking to represent, except work performed and payments and benefits received as a bona fide employee of such employer and except purchases and sales of goods or services in the regular course of business at prices generally available to any employee of such employer; and
+
+
+
+
+(6)
+ any payment of money or other thing of value (including reimbursed expenses) which he or his spouse or minor child received directly or indirectly from any employer or any person who acts as a labor relations consultant to an employer, except payments of the kinds referred to in 
+section 186(c) of this title
+.
+
+
+
+
+(b)
+ Report of certain bona fide investments
+The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) of this section shall not be construed to require any such officer or employee to report his bona fide investments in securities traded on a securities exchange registered as a national securities exchange under the Securities Exchange Act of 1934 [
+15 U.S.C. 78a
+ et seq.], in shares in an investment company registered under the Investment Company Act of 1940 [
+15 U.S.C. 80a–1
+ et seq.], or in securities of a public utility holding company registered under the Public Utility Holding Company Act of 1935, or to report any income derived therefrom.
+
+
+
+
+(c)
+ Exemption from filing requirement
+Nothing contained in this section shall be construed to require any officer or employee of a labor organization to file a report under subsection (a) of this section unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
+
+
+
+
+ Report of employers
+(a)
+ Filing and contents of report of payments, loans, promises, agreements, or arrangements
+Every employer who in any fiscal year made—
+(1)
+ any payment or loan, direct or indirect, of money or other thing of value (including reimbursed expenses), or any promise or agreement therefor, to any labor organization or officer, agent, shop steward, or other representative of a labor organization, or employee of any labor organization, except (A) payments or loans made by any national or State bank, credit union, insurance company, savings and loan association or other credit institution and (B) payments of the kind referred to in 
+section 186(c) of this title
+;
+
+
+
+
+(2)
+ any payment (including reimbursed expenses) to any of his employees, or any group or committee of such employees, for the purpose of causing such employee or group or committee of employees to persuade other employees to exercise or not to exercise, or as the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing unless such payments were contemporaneously or previously disclosed to such other employees;
+
+
+
+
+(3)
+ any expenditure, during the fiscal year, where an object thereof, directly or indirectly, is to interfere with, restrain, or coerce employees in the exercise of the right to organize and bargain collectively through representatives of their own choosing, or is to obtain information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding;
+
+
+
+
+(4)
+ any agreement or arrangement with a labor relations consultant or other independent contractor or organization pursuant to which such person undertakes activities where an object thereof, directly or indirectly, is to persuade employees to exercise or not to exercise, or persuade employees as to the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing, or undertakes to supply such employer with information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except information for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding; or
+
+
+
+
+(5)
+ any payment (including reimbursed expenses) pursuant to an agreement or arrangement described in subdivision (4);
+
+
+
+
+
+shall file with the Secretary a report, in a form prescribed by him, signed by its president and treasurer or corresponding principal officers showing in detail the date and amount of each such payment, loan, promise, agreement, or arrangement and the name, address, and position, if any, in any firm or labor organization of the person to whom it was made and a full explanation of the circumstances of all such payments, including the terms of any agreement or understanding pursuant to which they were made.
+
+
+(b)
+ Persuasive activities relating to the right to organize and bargain collectively; supplying information of activities in connection with labor disputes; filing and contents of report of agreement or arrangement
+Every person who pursuant to any agreement or arrangement with an employer undertakes activities where an object thereof is, directly or indirectly—
+(1)
+ to persuade employees to exercise or not to exercise, or persuade employees as to the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing; or
+
+
+
+
+(2)
+ to supply an employer with information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except information for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding;
+
+
+
+
+
+shall file within thirty days after entering into such agreement or arrangement a report with the Secretary, signed by its president and treasurer or corresponding principal officers, containing the name under which such person is engaged in doing business and the address of its principal office, and a detailed statement of the terms and conditions of such agreement or arrangement. Every such person shall file annually, with respect to each fiscal year during which payments were made as a result of such an agreement or arrangement, a report with the Secretary, signed by its president and treasurer or corresponding principal officers, containing a statement (A) of its receipts of any kind from employers on account of labor relations advice or services, designating the sources thereof, and (B) of its disbursements of any kind, in connection with such services and the purposes thereof. In each such case such information shall be set forth in such categories as the Secretary may prescribe.
+
+
+(c)
+ Advisory or representative services exempt from filing requirements
+Nothing in this section shall be construed to require any employer or other person to file a report covering the services of such person by reason of his giving or agreeing to give advice to such employer or representing or agreeing to represent such employer before any court, administrative agency, or tribunal of arbitration or engaging or agreeing to engage in collective bargaining on behalf of such employer with respect to wages, hours, or other terms or conditions of employment or the negotiation of an agreement or any question arising thereunder.
+
+
+
+
+(d)
+ Exemption from filing requirements generally
+Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unless he was a party to an agreement or arrangement of the kind described therein.
+
+
+
+
+(e)
+ Services by and payments to regular officers, supervisors, and employees of employer
+Nothing contained in this section shall be construed to require any regular officer, supervisor, or employee of an employer to file a report in connection with services rendered to such employer nor shall any employer be required to file a report covering expenditures made to any regular officer, supervisor, or employee of an employer as compensation for service as a regular officer, supervisor, or employee of such employer.
+
+
+
+
+(f)
+ Rights protected by 
+section 158(c) of this title
+Nothing contained in this section shall be construed as an amendment to, or modification of the rights protected by, 
+section 158(c) of this title
+.
+
+
+
+
+(g)
+ “Interfere with, restrain, or coerce” defined
+The term “interfere with, restrain, or coerce” as used in this section means interference, restraint, and coercion which, if done with respect to the exercise of rights guaranteed in 
+section 157 of this title
+, would, under 
+section 158(a) of this title
+, constitute an unfair labor practice.
+
+
+
+
+ Exemption of attorney-client communications
+Nothing contained in this chapter shall be construed to require an attorney who is a member in good standing of the bar of any State, to include in any report required to be filed pursuant to the provisions of this chapter any information which was lawfully communicated to such attorney by any of his clients in the course of a legitimate attorney-client relationship.
+ Reports and documents as public information
+(a)
+ Publication; statistical and research purposes
+The contents of the reports and documents filed with the Secretary pursuant to sections 431, 432, 433, and 441 of this title shall be public information, and the Secretary may publish any information and data which he obtains pursuant to the provisions of this subchapter. The Secretary may use the information and data for statistical and research purposes, and compile and publish such studies, analyses, reports, and surveys based thereon as he may deem appropriate.
+
+
+
+
+(b)
+ Inspection and examination of information and data
+The Secretary shall by regulation make reasonable provision for the inspection and examination, on the request of any person, of the information and data contained in any report or other document filed with him pursuant to section 431, 432, 433, or 441 of this title.
+
+
+
+
+(c)
+ Copies of reports or documents; availability to State agencies
+The Secretary shall by regulation provide for the furnishing by the Department of Labor of copies of reports or other documents filed with the Secretary pursuant to this subchapter, upon payment of a charge based upon the cost of the service. The Secretary shall make available without payment of a charge, or require any person to furnish, to such State agency as is designated by law or by the Governor of the State in which such person has his principal place of business or headquarters, upon request of the Governor of such State, copies of any reports and documents filed by such person with the Secretary pursuant to section 431, 432, 433, or 441 of this title, or of information and data contained therein. No person shall be required by reason of any law of any State to furnish to any officer or agency of such State any information included in a report filed by such person with the Secretary pursuant to the provisions of this subchapter, if a copy of such report, or of the portion thereof containing such information, is furnished to such officer or agency. All moneys received in payment of such charges fixed by the Secretary pursuant to this subsection shall be deposited in the general fund of the Treasury.
+
+
+
+
+ Retention of records
+Every person required to file any report under this subchapter shall maintain records on the matters required to be reported which will provide in sufficient detail the necessary basic information and data from which the documents filed with the Secretary may be verified, explained, or clarified, and checked for accuracy and completeness, and shall include vouchers, worksheets, receipts, and applicable resolutions, and shall keep such records available for examination for a period of not less than five years after the filing of the documents based on the information which they contain.
+ Time for making reports
+(a)
+ Each labor organization shall file the initial report required under 
+section 431(a) of this title
+ within ninety days after the date on which it first becomes subject to this chapter.
+
+
+(b)
+ Each person required to file a report under section 431(b), 432, 433(a), the second sentence of 433(b), or 
+section 441 of this title
+ shall file such report within ninety days after the end of each of its fiscal years; except that where such person is subject to section 431(b), 432, 433(a), the second sentence of 433(b), or 
+section 441 of this title
+, as the case may be, for only a portion of such a fiscal year (because 
+September 14, 1959
+, occurs during such person’s fiscal year) such person becomes subject to this chapter during its fiscal year or such person may consider that portion as the entire fiscal year in making such report.
+
+
+ Rules and regulations; simplified reports
+The Secretary shall have authority to issue, amend, and rescind rules and regulations prescribing the form and publication of reports required to be filed under this subchapter and such other reasonable rules and regulations (including rules prescribing reports concerning trusts in which a labor organization is interested) as he may find necessary to prevent the circumvention or evasion of such reporting requirements. In exercising his power under this section the Secretary shall prescribe by general rule simplified reports for labor organizations or employers for whom he finds that by virtue of their size a detailed report would be unduly burdensome, but the Secretary may revoke such provision for simplified forms of any labor organization or employer if he determines, after such investigation as he deems proper and due notice and opportunity for a hearing, that the purposes of this section would be served thereby.
+ Violations and penalties
+(a)
+ Willful violations of provisions of subchapter
+Any person who willfully violates this subchapter shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+
+
+(b)
+ False statements or representations of fact with knowledge of falsehood
+Any person who makes a false statement or representation of a material fact, knowing it to be false, or who knowingly fails to disclose a material fact, in any document, report, or other information required under the provisions of this subchapter shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+
+
+(c)
+ False entry in or willful concealment, etc., of books and records
+Any person who willfully makes a false entry in or willfully conceals, withholds, or destroys any books, records, reports, or statements required to be kept by any provision of this subchapter shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+
+
+(d)
+ Personal responsibility of individuals required to sign reports
+Each individual required to sign reports under sections 431 and 433 of this title shall be personally responsible for the filing of such reports and for any statement contained therein which he knows to be false.
+
+
+
+
+ Civil action for enforcement by Secretary; jurisdiction
+Whenever it shall appear that any person has violated or is about to violate any of the provisions of this subchapter, the Secretary may bring a civil action for such relief (including injunctions) as may be appropriate. Any such action may be brought in the district court of the United States where the violation occurred or, at the option of the parties, in the United States District Court for the District of Columbia.
+ Surety company reports; contents; waiver or modification of requirements respecting contents of reports
+Each surety company which issues any bond required by this chapter or the Employee Retirement Income Security Act of 1974 [
+ Reports
+(a)
+ Filing and contents; annual financial report
+Every labor organization which has or assumes trusteeship over any subordinate labor organization shall file with the Secretary within thirty days after 
+September 14, 1959
+ or the imposition of any such trusteeship, and semiannually thereafter, a report, signed by its president and treasurer or corresponding principal officers, as well as by the trustees of such subordinate labor organization, containing the following information: (1) the name and address of the subordinate organization; (2) the date of establishing the trusteeship; (3) a detailed statement of the reason or reasons for establishing or continuing the trusteeship; and (4) the nature and extent of participation by the membership of the subordinate organization in the selection of delegates to represent such organization in regular or special conventions or other policy-determining bodies and in the election of officers of the labor organization which has assumed trusteeship over such subordinate organization. The initial report shall also include a full and complete account of the financial condition of such subordinate organization as of the time trusteeship was assumed over it. During the continuance of a trusteeship the labor organization which has assumed trusteeship over a subordinate labor organization shall file on behalf of the subordinate labor organization the annual financial report required by 
+section 431(b) of this title
+ signed by the president and treasurer or corresponding principal officers of the labor organization which has assumed such trusteeship and the trustees of the subordinate labor organization.
+
+
+
+
+(b)
+ Applicability of other laws
+The provisions of sections 431(c), 435, 436, 438, and 440 of this title shall be applicable to reports filed under this subchapter.
+
+
+
+
+(c)
+ Penalty for violations
+Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+
+
+(d)
+ False statements and entries; failure to disclose material facts; withholding, concealing or destroying documents, books, records, reports, or statements; penalty
+Any person who makes a false statement or representation of a material fact, knowing it to be false, or who knowingly fails to disclose a material fact, in any report required under the provisions of this section or willfully makes any false entry in or willfully withholds, conceals, or destroys any documents, books, records, reports, or statements upon which such report is based, shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+
+
+(e)
+ Personal liability
+Each individual required to sign a report under this section shall be personally responsible for the filing of such report and for any statement contained therein which he knows to be false.
+
+
+
+
+ Purposes for establishment of trusteeship
+Trusteeships shall be established and administered by a labor organization over a subordinate body only in accordance with the constitution and bylaws of the organization which has assumed trusteeship over the subordinate body and for the purpose of correcting corruption or financial malpractice, assuring the performance of collective bargaining agreements or other duties of a bargaining representative, restoring democratic procedures, or otherwise carrying out the legitimate objects of such labor organization.
+ Unlawful acts relating to labor organization under trusteeship
+(a)
+ During any period when a subordinate body of a labor organization is in trusteeship, it shall be unlawful (1) to count the vote of delegates from such body in any convention or election of officers of the labor organization unless the delegates have been chosen by secret ballot in an election in which all the members in good standing of such subordinate body were eligible to participate, or (2) to transfer to such organization any current receipts or other funds of the subordinate body except the normal per capita tax and assessments payable by subordinate bodies not in trusteeship: 
+Provided
+, That nothing herein contained shall prevent the distribution of the assets of a labor organization in accordance with its constitution and bylaws upon the bona fide dissolution thereof.
+
+
+(b)
+ Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+ Civil action for enforcement
+(a)
+ Complaint; investigation; commencement of action by Secretary, member or subordinate body of labor organization; jurisdiction
+Upon the written complaint of any member or subordinate body of a labor organization alleging that such organization has violated the provisions of this subchapter (except 
+section 461 of this title
+) the Secretary shall investigate the complaint and if the Secretary finds probable cause to believe that such violation has occurred and has not been remedied he shall, without disclosing the identity of the complainant, bring a civil action in any district court of the United States having jurisdiction of the labor organization for such relief (including injunctions) as may be appropriate. Any member or subordinate body of a labor organization affected by any violation of this subchapter (except 
+section 461 of this title
+) may bring a civil action in any district court of the United States having jurisdiction of the labor organization for such relief (including injunctions) as may be appropriate.
+
+
+
+
+(b)
+ Venue
+For the purpose of actions under this section, district courts of the United States shall be deemed to have jurisdiction of a labor organization (1) in the district in which the principal office of such labor organization is located, or (2) in any district in which its duly authorized officers or agents are engaged in conducting the affairs of the trusteeship.
+
+
+
+
+(c)
+ Presumptions of validity or invalidity of trusteeship
+In any proceeding pursuant to this section a trusteeship established by a labor organization in conformity with the procedural requirements of its constitution and bylaws and authorized or ratified after a fair hearing either before the executive board or before such other body as may be provided in accordance with its constitution or bylaws shall be presumed valid for a period of eighteen months from the date of its establishment and shall not be subject to attack during such period except upon clear and convincing proof that the trusteeship was not established or maintained in good faith for a purpose allowable under 
+section 462 of this title
+. After the expiration of eighteen months the trusteeship shall be presumed invalid in any such proceeding and its discontinuance shall be decreed unless the labor organization shall show by clear and convincing proof that the continuation of the trusteeship is necessary for a purpose allowable under 
+section 462 of this title
+. In the latter event the court may dismiss the complaint or retain jurisdiction of the cause on such conditions and for such period as it deems appropriate.
+
+
+
+
+ Report to Congress
+The Secretary shall submit to the Congress at the expiration of three years from 
+ Additional rights and remedies; exclusive jurisdiction of district court; res judicata
+The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies at law or in equity: 
+ Terms of office and election procedures
+(a)
+ Officers of national or international labor organizations; manner of election
+Every national or international labor organization, except a federation of national or international labor organizations, shall elect its officers not less often than once every five years either by secret ballot among the members in good standing or at a convention of delegates chosen by secret ballot.
+
+
+
+
+(b)
+ Officers of local labor organizations; manner of election
+Every local labor organization shall elect its officers not less often than once every three years by secret ballot among the members in good standing.
+
+
+
+
+(c)
+ Requests for distribution of campaign literature; civil action for enforcement; jurisdiction; inspection of membership lists; adequate safeguards to insure fair election
+Every national or international labor organization, except a federation of national or international labor organizations, and every local labor organization, and its officers, shall be under a duty, enforceable at the suit of any bona fide candidate for office in such labor organization in the district court of the United States in which such labor organization maintains its principal office, to comply with all reasonable requests of any candidate to distribute by mail or otherwise at the candidate’s expense campaign literature in aid of such person’s candidacy to all members in good standing of such labor organization and to refrain from discrimination in favor of or against any candidate with respect to the use of lists of members, and whenever such labor organizations or its officers authorize the distribution by mail or otherwise to members of campaign literature on behalf of any candidate or of the labor organization itself with reference to such election, similar distribution at the request of any other bona fide candidate shall be made by such labor organization and its officers, with equal treatment as to the expense of such distribution. Every bona fide candidate shall have the right, once within 30 days prior to an election of a labor organization in which he is a candidate, to inspect a list containing the names and last known addresses of all members of the labor organization who are subject to a collective bargaining agreement requiring membership therein as a condition of employment, which list shall be maintained and kept at the principal office of such labor organization by a designated official thereof. Adequate safeguards to insure a fair election shall be provided, including the right of any candidate to have an observer at the polls and at the counting of the ballots.
+
+
+
+
+(d)
+ Officers of intermediate bodies; manner of election
+Officers of intermediate bodies, such as general committees, system boards, joint boards, or joint councils, shall be elected not less often than once every four years by secret ballot among the members in good standing or by labor organization officers representative of such members who have been elected by secret ballot.
+
+
+
+
+(e)
+ Nomination of candidates; eligibility; notice of election; voting rights; counting and publication of results; preservation of ballots and records
+In any election required by this section which is to be held by secret ballot a reasonable opportunity shall be given for the nomination of candidates and every member in good standing shall be eligible to be a candidate and to hold office (subject to 
+section 504 of this title
+ and to reasonable qualifications uniformly imposed) and shall have the right to vote for or otherwise support the candidate or candidates of his choice, without being subject to penalty, discipline, or improper interference or reprisal of any kind by such organization or any member thereof. Not less than fifteen days prior to the election notice thereof shall be mailed to each member at his last known home address. Each member in good standing shall be entitled to one vote. No member whose dues have been withheld by his employer for payment to such organization pursuant to his voluntary authorization provided for in a collective bargaining agreement shall be declared ineligible to vote or be a candidate for office in such organization by reason of alleged delay or default in the payment of dues. The votes cast by members of each local labor organization shall be counted, and the results published, separately. The election officials designated in the constitution and bylaws or the secretary, if no other official is designated, shall preserve for one year the ballots and all other records pertaining to the election. The election shall be conducted in accordance with the constitution and bylaws of such organization insofar as they are not inconsistent with the provisions of this subchapter.
+
+
+
+
+(f)
+ Election of officers by convention of delegates; manner of conducting convention; preservation of records
+When officers are chosen by a convention of delegates elected by secret ballot, the convention shall be conducted in accordance with the constitution and bylaws of the labor organization insofar as they are not inconsistent with the provisions of this subchapter. The officials designated in the constitution and bylaws or the secretary, if no other is designated, shall preserve for one year the credentials of the delegates and all minutes and other records of the convention pertaining to the election of officers.
+
+
+
+
+(g)
+ Use of dues, assessments or similar levies, and funds of employer for promotion of candidacy of person
+No moneys received by any labor organization by way of dues, assessment, or similar levy, and no moneys of an employer shall be contributed or applied to promote the candidacy of any person in any election subject to the provisions of this subchapter. Such moneys of a labor organization may be utilized for notices, factual statements of issues not involving candidates, and other expenses necessary for the holding of an election.
+
+
+
+
+(h)
+ Removal of officers guilty of serious misconduct
+If the Secretary, upon application of any member of a local labor organization, finds after hearing in accordance with subchapter II of chapter 5 of title 5 that the constitution and bylaws of such labor organization do not provide an adequate procedure for the removal of an elected officer guilty of serious misconduct, such officer may be removed, for cause shown and after notice and hearing, by the members in good standing voting in a secret ballot, conducted by the officers of such labor organization in accordance with its constitution and bylaws insofar as they are not inconsistent with the provisions of this subchapter.
+
+
+
+
+(i)
+ Rules and regulations for determining adequacy of removal procedures
+The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h) of this section.
+
+
+
+
+ Enforcement
+(a)
+ Filing of complaint; presumption of validity of challenged election
+A member of a labor organization—
+(1)
+ who has exhausted the remedies available under the constitution and bylaws of such organization and of any parent body, or
+
+
+
+
+(2)
+ who has invoked such available remedies without obtaining a final decision within three calendar months after their invocation,
+
+
+
+
+
+may file a complaint with the Secretary within one calendar month thereafter alleging the violation of any provision of 
+section 481 of this title
+ (including violation of the constitution and bylaws of the labor organization pertaining to the election and removal of officers). The challenged election shall be presumed valid pending a final decision thereon (as hereinafter provided) and in the interim the affairs of the organization shall be conducted by the officers elected or in such other manner as its constitution and bylaws may provide.
+
+
+(b)
+ Investigation of complaint; commencement of civil action by Secretary; jurisdiction; preservation of assets
+The Secretary shall investigate such complaint and, if he finds probable cause to believe that a violation of this subchapter has occurred and has not been remedied, he shall, within sixty days after the filing of such complaint, bring a civil action against the labor organization as an entity in the district court of the United States in which such labor organization maintains its principal office to set aside the invalid election, if any, and to direct the conduct of an election or hearing and vote upon the removal of officers under the supervision of the Secretary and in accordance with the provisions of this subchapter and such rules and regulations as the Secretary may prescribe. The court shall have power to take such action as it deems proper to preserve the assets of the labor organization.
+
+
+
+
+(c)
+ Declaration of void election; order for new election; certification of election to court; decree; certification of result of vote for removal of officers
+If, upon a preponderance of the evidence after a trial upon the merits, the court finds—
+(1)
+ that an election has not been held within the time prescribed by 
+section 481 of this title
+, or
+
+
+
+
+(2)
+ that the violation of 
+section 481 of this title
+ may have affected the outcome of an election,
+
+
+
+
+
+the court shall declare the election, if any, to be void and direct the conduct of a new election under supervision of the Secretary and, so far as lawful and practicable, in conformity with the constitution and bylaws of the labor organization. The Secretary shall promptly certify to the court the names of the persons elected, and the court shall thereupon enter a decree declaring such persons to be the officers of the labor organization. If the proceeding is for the removal of officers pursuant to subsection (h) of 
+section 481 of this title
+, the Secretary shall certify the results of the vote and the court shall enter a decree declaring whether such persons have been removed as officers of the labor organization.
+
+
+(d)
+ Review of orders; stay of order directing election
+An order directing an election, dismissing a complaint, or designating elected officers of a labor organization shall be appealable in the same manner as the final judgment in a civil action, but an order directing an election shall not be stayed pending appeal.
+
+
+
+
+ Application of other laws; existing rights and remedies; exclusiveness of remedy for challenging election
+No labor organization shall be required by law to conduct elections of officers with greater frequency or in a different form or manner than is required by its own constitution or bylaws, except as otherwise provided by this subchapter. Existing rights and remedies to enforce the constitution and bylaws of a labor organization with respect to elections prior to the conduct thereof shall not be affected by the provisions of this subchapter. The remedy provided by this subchapter for challenging an election already conducted shall be exclusive.
+ Fiduciary responsibility of officers of labor organizations
+(a)
+ Duties of officers; exculpatory provisions and resolutions void
+The officers, agents, shop stewards, and other representatives of a labor organization occupy positions of trust in relation to such organization and its members as a group. It is, therefore, the duty of each such person, taking into account the special problems and functions of a labor organization, to hold its money and property solely for the benefit of the organization and its members and to manage, invest, and expend the same in accordance with its constitution and bylaws and any resolutions of the governing bodies adopted thereunder, to refrain from dealing with such organization as an adverse party or in behalf of an adverse party in any matter connected with his duties and from holding or acquiring any pecuniary or personal interest which conflicts with the interests of such organization, and to account to the organization for any profit received by him in whatever capacity in connection with transactions conducted by him or under his direction on behalf of the organization. A general exculpatory provision in the constitution and bylaws of such a labor organization or a general exculpatory resolution of a governing body purporting to relieve any such person of liability for breach of the duties declared by this section shall be void as against public policy.
+
+
+
+
+(b)
+ Violation of duties; action by member after refusal or failure by labor organization to commence proceedings; jurisdiction; leave of court; counsel fees and expenses
+When any officer, agent, shop steward, or representative of any labor organization is alleged to have violated the duties declared in subsection (a) of this section and the labor organization or its governing board or officers refuse or fail to sue or recover damages or secure an accounting or other appropriate relief within a reasonable time after being requested to do so by any member of the labor organization, such member may sue such officer, agent, shop steward, or representative in any district court of the United States or in any State court of competent jurisdiction to recover damages or secure an accounting or other appropriate relief for the benefit of the labor organization. No such proceeding shall be brought except upon leave of the court obtained upon verified application and for good cause shown, which application may be made ex parte. The trial judge may allot a reasonable part of the recovery in any action under this subsection to pay the fees of counsel prosecuting the suit at the instance of the member of the labor organization and to compensate such member for any expenses necessarily paid or incurred by him in connection with the litigation.
+
+
+
+
+(c)
+ Embezzlement of assets; penalty
+Any person who embezzles, steals, or unlawfully and willfully abstracts or converts to his own use, or the use of another, any of the moneys, funds, securities, property, or other assets of a labor organization of which he is an officer, or by which he is employed, directly or indirectly, shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
+
+
+
+
+ Bonding of officers and employees of labor organizations; amount, form, and placement of bonds; penalty for violation
+(a)
+ Every officer, agent, shop steward, or other representative or employee of any labor organization (other than a labor organization whose property and annual financial receipts do not exceed $5,000 in value), or of a trust in which a labor organization is interested, who handles funds or other property thereof shall be bonded to provide protection against loss by reason of acts of fraud or dishonesty on his part directly or through connivance with others. The bond of each such person shall be fixed at the beginning of the organization’s fiscal year and shall be in an amount not less than 10 per centum of the funds handled by him and his predecessor or predecessors, if any, during the preceding fiscal year, but in no case more than $500,000. If the labor organization or the trust in which a labor organization is interested does not have a preceding fiscal year, the amount of the bond shall be, in the case of a local labor organization, not less than $1,000, and in the case of any other labor organization or of a trust in which a labor organization is interested, not less than $10,000. Such bonds shall be individual or schedule in form, and shall have a corporate surety company as surety thereon. Any person who is not covered by such bonds shall not be permitted to receive, handle, disburse, or otherwise exercise custody or control of the funds or other property of a labor organization or of a trust in which a labor organization is interested. No such bond shall be placed through an agent or broker or with a surety company in which any labor organization or any officer, agent, shop steward, or other representative of a labor organization has any direct or indirect interest. Such surety company shall be a corporate surety which holds a grant of authority from the Secretary of the Treasury under sections 9304–9308 of title 31, as an acceptable surety on Federal bonds: 
+Provided
+, That when in the opinion of the Secretary a labor organization has made other bonding arrangements which would provide the protection required by this section at comparable cost or less, he may exempt such labor organization from placing a bond through a surety company holding such grant of authority.
+
+
+(b)
+ Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+
+ Financial transactions between labor organization and officers and employees
+(a)
+ Direct and indirect loans
+No labor organization shall make directly or indirectly any loan or loans to any officer or employee of such organization which results in a total indebtedness on the part of such officer or employee to the labor organization in excess of $2,000.
+
+
+
+
+(b)
+ Direct or indirect payment of fines
+No labor organization or employer shall directly or indirectly pay the fine of any officer or employee convicted of any willful violation of this chapter.
+
+
+
+
+(c)
+ Penalty for violations
+Any person who willfully violates this section shall be fined not more than $5,000 or imprisoned for not more than one year, or both.
+
+
+
+
+ Prohibition against certain persons holding office
+(a)
+ Membership in Communist Party; persons convicted of robbery, bribery, etc.
+No person who is or has been a member of the Communist Party or who has been convicted of, or served any part of a prison term resulting from his conviction of, robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, or a violation of subchapter III or IV of this chapter 
+1
+1
+ So in original. Probably should be followed by a comma.
+ any felony involving abuse or misuse of such person’s position or employment in a labor organization or employee benefit plan to seek or obtain an illegal gain at the expense of the members of the labor organization or the beneficiaries of the employee benefit plan, or conspiracy to commit any such crimes or attempt to commit any such crimes, or a crime in which any of the foregoing crimes is an element, shall serve or be permitted to serve—
+(1)
+ as a consultant or adviser to any labor organization,
+
+
+
+
+(2)
+ as an officer, director, trustee, member of any executive board or similar governing body, business agent, manager, organizer, employee, or representative in any capacity of any labor organization,
+
+
+
+
+(3)
+ as a labor relations consultant or adviser to a person engaged in an industry or activity affecting commerce, or as an officer, director, agent, or employee of any group or association of employers dealing with any labor organization, or in a position having specific collective bargaining authority or direct responsibility in the area of labor-management relations in any corporation or association engaged in an industry or activity affecting commerce, or
+
+
+
+
+(4)
+ in a position which entitles its occupant to a share of the proceeds of, or as an officer or executive or administrative employee of, any entity whose activities are in whole or substantial part devoted to providing goods or services to any labor organization, or
+
+
+
+
+(5)
+ in any capacity, other than in his capacity as a member of such labor organization, that involves decisionmaking authority concerning, or decisionmaking authority over, or custody of, or control of the moneys, funds, assets, or property of any labor organization,
+
+
+
+
+
+during or for the period of thirteen years after such conviction or after the end of such imprisonment, whichever is later, unless the sentencing court on the motion of the person convicted sets a lesser period of at least three years after such conviction or after the end of such imprisonment, whichever is later, or unless prior to the end of such period, in the case of a person so convicted or imprisoned, (A) his citizenship rights, having been revoked as a result of such conviction, have been fully restored, or (B) if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, the United States district court for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements under 
+section 994(a) of title 28
+, determines that such person’s service in any capacity referred to in clauses (1) through (5) would not be contrary to the purposes of this chapter. Prior to making any such determination the court shall hold a hearing and shall give notice of such proceeding by certified mail to the Secretary of Labor and to State, county, and Federal prosecuting officials in the jurisdiction or jurisdictions in which such person was convicted. The court’s determination in any such proceeding shall be final. No person shall knowingly hire, retain, employ, or otherwise place any other person to serve in any capacity in violation of this subsection.
+
+
+(b)
+ Penalty for violations
+Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
+
+
+
+
+(c)
+ Definitions
+For the purpose of this section—
+(1)
+ A person shall be deemed to have been “convicted” and under the disability of “conviction” from the date of the judgment of the trial court, regardless of whether that judgment remains under appeal.
+
+
+
+
+(2)
+ A period of parole shall not be considered as part of a period of imprisonment.
+
+
+
+
+(d)
+ Salary of person barred from labor organization office during appeal of conviction
+Whenever any person—
+(1)
+ by operation of this section, has been barred from office or other position in a labor organization as a result of a conviction, and
+
+
+
+
+(2)
+ has filed an appeal of that conviction,
+
+
+
+
+
+any salary which would be otherwise due such person by virtue of such office or position, shall be placed in escrow by the individual employer or organization responsible for payment of such salary. Payment of such salary into escrow shall continue for the duration of the appeal or for the period of time during which such salary would be otherwise due, whichever period is shorter. Upon the final reversal of such person’s conviction on appeal, the amounts in escrow shall be paid to such person. Upon the final sustaining of such person’s conviction on appeal, the amounts in escrow shall be returned to the individual employer or organization responsible for payments of those amounts. Upon final reversal of such person’s conviction, such person shall no longer be barred by this statute 
+2
+2
+ So in original. Probably should be “section”.
+ from assuming any position from which such person was previously barred.
+
+
+“(a)
+ The amendments made by section 802 [amending 
+section 1111 of this title
+] and section 803 [amending this section] of this title shall take effect with respect to any judgment of conviction entered by the trial court after the date of enactment of this title [
+Oct. 12, 1984
+], except that that portion of such amendments relating to the commencement of the period of disability shall apply to any judgment of conviction entered prior to the date of enactment of this title if a right of appeal or an appeal from such judgment is pending on the date of enactment of this title.
+
+
+“(b)
+ Subject to subsection (a) the amendments made by sections 803 and 804 [probably should be sections 802 and 803] shall not affect any disability under section 411 of the Employee Retirement Income Security Act of 1974 [
+section 1111 of this title
+] or under section 504 of the Labor-Management Reporting and Disclosure Act of 1959 [this section] in effect on the date of enactment of this title [
+Oct. 12, 1984
+].”
+
+
+ Investigations by Secretary; applicability of other laws
+(a)
+ The Secretary shall have power when he believes it necessary in order to determine whether any person has violated or is about to violate any provision of this chapter (except subchapter II of this chapter) to make an investigation and in connection therewith he may enter such places and inspect such records and accounts and question such persons as he may deem necessary to enable him to determine the facts relative thereto. The Secretary may report to interested persons or officials concerning the facts required to be shown in any report required by this chapter and concerning the reasons for failure or refusal to file such a report or any other matter which he deems to be appropriate as a result of such an investigation.
+
+
+(b)
+ For the purpose of any investigation provided for in this chapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents), are made applicable to the jurisdiction, powers, and duties of the Secretary or any officers designated by him.
+
+
+ Extortionate picketing; penalty for violation
+(a)
+ It shall be unlawful to carry on picketing on or about the premises of any employer for the purpose of, or as part of any conspiracy or in furtherance of any plan or purpose for, the personal profit or enrichment of any individual (except a bona fide increase in wages or other employee benefits) by taking or obtaining any money or other thing of value from such employer against his will or with his consent.
+
+
+(b)
+ Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned not more than twenty years, or both.
+
+
+ Retention of rights under other Federal and State laws
+(a)
+ Except as explicitly provided to the contrary, nothing in this chapter shall reduce or limit the responsibilities of any labor organization or any officer, agent, shop steward, or other representative of a labor organization, or of any trust in which a labor organization is interested, under any other Federal law or under the laws of any State, and, except as explicitly provided to the contrary, nothing in this chapter shall take away any right or bar any remedy to which members of a labor organization are entitled under such other Federal law or law of any State.
+
+
+(b)
+ Nothing contained in this chapter and section 186(a)–(c) of this title shall be construed to supersede or impair or otherwise affect the provisions of the Railway Labor Act, as amended [
+45 U.S.C. 151
+ et seq.], or any of the obligations, rights, benefits, privileges, or immunities of any carrier, employee, organization, representative, or person subject thereto; nor shall anything contained in this chapter be construed to confer any rights, privileges, immunities, or defenses upon employers, or to impair or otherwise affect the rights of any person under the National Labor Relations Act, as amended [
+29 U.S.C. 151
+ et seq.].
+
+
+ Effect on State laws
+Nothing in this chapter shall be construed to impair or diminish the authority of any State to enact and enforce general criminal laws with respect to robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, or assault which inflicts grievous bodily injury, or conspiracy to commit any of such crimes.
+ Elimination of racketeering activities threat; State legislation governing collective bargaining representative
+Notwithstanding this or any other Act regulating labor-management relations, each State shall have the authority to enact and enforce, as part of a comprehensive statutory system to eliminate the threat of pervasive racketeering activity in an industry that is, or over time has been, affected by such activity, a provision of law that applies equally to employers, employees, and collective bargaining representatives, which provision of law governs service in any position in a local labor organization which acts or seeks to act in that State as a collective bargaining representative pursuant to the National Labor Relations Act [
+ Service of process
+For the purposes of this chapter, service of summons, subpena, or other legal process of a court of the United States upon an officer or agent of a labor organization in his capacity as such shall constitute service upon the labor organization.
+ Applicability of administrative procedure provisions
+The provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall be applicable to the issuance, amendment, or rescission of any rules or regulations, or any adjudication authorized or required pursuant to the provisions of this chapter.
+ Cooperation with other agencies and departments
+In order to avoid unnecessary expense and duplication of functions among Government agencies, the Secretary may make such arrangements or agreements for cooperation or mutual assistance in the performance of his functions under this chapter and the functions of any such agency as he may find to be practicable and consistent with law. The Secretary may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment; and each department, agency, or establishment of the United States is authorized and directed to cooperate with the Secretary and, to the extent permitted by law, to provide such information and facilities as he may request for his assistance in the performance of his functions under this chapter. The Attorney General or his representative shall receive from the Secretary for appropriate action such evidence developed in the performance of his functions under this chapter as may be found to warrant consideration for criminal prosecution under the provisions of this chapter or other Federal law.
+ Criminal contempt
+No person shall be punished for any criminal contempt allegedly committed outside the immediate presence of the court in connection with any civil action prosecuted by the Secretary or any other person in any court of the United States under the provisions of this chapter unless the facts constituting such criminal contempt are established by the verdict of the jury in a proceeding in the district court of the United States, which jury shall be chosen and empaneled in the manner prescribed by the law governing trial juries in criminal prosecutions in the district courts of the United States.
+ Prohibition on certain discipline by labor organization
+It shall be unlawful for any labor organization, or any officer, agent, shop steward, or other representative of a labor organization, or any employee thereof to fine, suspend, expel, or otherwise discipline any of its members for exercising any right to which he is entitled under the provisions of this chapter. The provisions of 
+ Deprivation of rights by violence; penalty
+It shall be unlawful for any person through the use of force or violence, or threat of the use of force or violence, to restrain, coerce, or intimidate, or attempt to restrain, coerce, or intimidate any member of a labor organization for the purpose of interfering with or preventing the exercise of any right to which he is entitled under the provisions of this chapter. Any person who willfully violates this section shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
+ Separability
+If any provision of this chapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this chapter or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.

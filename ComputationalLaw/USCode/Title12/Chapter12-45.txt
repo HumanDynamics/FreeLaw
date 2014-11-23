@@ -1,0 +1,238 @@
+
+Chapter 45
+PAYMENT SYSTEM RISK REDUCTION
+ Findings and purpose
+ Definitions
+ Bilateral netting
+(a)
+ General rule
+Notwithstanding any other provision of State or Federal law (other than 
+section 1821(e) of this title
+, 
+section 5390(c) of this title
+, 
+section 4617 of this title
+, 
+section 1787(c) of this title
+, or any order authorized under 
+section 78eee(b)(2) of title 15
+), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be terminated, liquidated, accelerated, and netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in 
+section 561(b)(2) of title 11
+).
+
+
+
+
+(b)
+ Limitation on obligation to make payment
+The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to its net obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.
+
+
+
+
+(c)
+ Limitation on right to receive payment
+The only right, if any, of a financial institution to receive payments with respect to covered contractual payment entitlements from another financial institution shall be equal to its net entitlement with respect to such other financial institution, and no such right shall exist if there is no net entitlement.
+
+
+
+
+(d)
+ Payment of net entitlement of failed financial institution
+The net entitlement of any failed financial institution, if any, shall be paid to the failed financial institution in accordance with, and subject to the conditions of, the applicable netting contract.
+
+
+
+
+(e)
+ Effectiveness notwithstanding status as financial institution
+This section shall be given effect notwithstanding that a financial institution is a failed financial institution.
+
+
+
+
+(f)
+ Enforceability of security agreements
+The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in 
+section 561(b)(2) of title 11
+), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than 
+section 1821(e) of this title
+, 
+section 1787(c) of this title
+, and 
+section 78eee(b)(2) of title 15
+).
+
+
+
+
+ Clearing organization netting
+(a)
+ General rule
+Notwithstanding any other provision of State or Federal law (other than 
+section 1821(e) of this title
+, 
+section 1787(c) of this title
+, and any order authorized under 
+section 78eee(b)(2) of title 15
+), the covered contractual payment obligations and the covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be terminated, liquidated, accelerated, and netted in accordance with and subject to the conditions of any applicable netting contract (except as provided in 
+section 561(b)(2) of title 11
+).
+
+
+
+
+(b)
+ Limitation of obligation to make payment
+The only obligation, if any, of a member of a clearing organization to make payment with respect to covered contractual payment obligations arising under a single netting contract to any other member of a clearing organization shall be equal to its net obligation arising under that netting contract, and no such obligation shall exist if there is no net obligation.
+
+
+
+
+(c)
+ Limitation on right to receive payment
+The only right, if any, of a member of a clearing organization to receive payment with respect to a covered contractual payment entitlement arising under a single netting contract from other members of a clearing organization shall be equal to its net entitlement arising under that netting contract, and no such right shall exist if there is no net entitlement.
+
+
+
+
+(d)
+ Entitlement of failed members
+The net entitlement, if any, of any failed member of a clearing organization shall be paid to the failed member in accordance with, and subject to the conditions of, the applicable netting contract.
+
+
+
+
+(e)
+ Obligations of failed members
+The net obligation, if any, of any failed member of a clearing organization shall be determined in accordance with, and subject to the conditions of, the applicable netting contract.
+
+
+
+
+(f)
+ Limitation on claims for entitlement
+A failed member of a clearing organization shall have no recognizable claim against any member of a clearing organization for any amount based on such covered contractual payment entitlements other than its net entitlement.
+
+
+
+
+(g)
+ Effectiveness notwithstanding status as member
+This section shall be given effect notwithstanding that a member is a failed member.
+
+
+
+
+(h)
+ Enforceability of security agreements
+The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 members of a clearing organization shall be enforceable in accordance with their terms (except as provided in 
+section 561(b)(2) of title 11
+), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than 
+section 1821(e) of this title
+, 
+section 1787(c) of this title
+, and 
+section 78eee(b)(2) of title 15
+).
+
+
+
+
+ Preemption
+No stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a court, administrative agency, or otherwise, shall limit or delay application of otherwise enforceable netting contracts in accordance with sections 4403 and 4404 of this title.
+ Relationship to other payments systems
+This chapter shall have no effect by implication or otherwise on the validity or legal enforceability of a netting arrangement of any payment system which is not subject to this chapter.
+ Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations
+(a)
+ In general
+Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [
+12 U.S.C. 1821(e)
+] shall apply to an uninsured national bank or uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [
+12 U.S.C. 611
+ et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 
+1
+1
+ See References in Text note below.
+ of this title, except that for such purpose—
+(1)
+ any reference to the “Corporation as receiver” or “the receiver or the Corporation” shall refer to the receiver appointed by the Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency, or to the receiver appointed by the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [
+12 U.S.C. 611
+ et seq.] or an uninsured State member bank;
+
+
+
+
+(2)
+ any reference to the “Corporation” (other than in section 11(e)(8)(D) of such Act [
+12 U.S.C. 1821(e)(8)(D)
+]), the “Corporation, whether acting as such or as conservator or receiver”, a “receiver”, or a “conservator” shall refer to the receiver or conservator appointed by the Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency, or to the receiver or conservator appointed by the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [
+12 U.S.C. 611
+ et seq.] or an uninsured State member bank; and
+
+
+
+
+(3)
+ any reference to an “insured depository institution” or “depository institution” shall refer to an uninsured national bank, an uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [
+12 U.S.C. 611
+ et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 
+1
+ of this title.
+
+
+
+
+(b)
+ Liability
+The liability of a receiver or conservator of an uninsured national bank, uninsured Federal branch or agency, a corporation chartered under section 25A of the Federal Reserve Act [
+12 U.S.C. 611
+ et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 
+1
+ of this title, shall be determined in the same manner and subject to the same limitations that apply to receivers and conservators of insured depository institutions under section 11(e) of the Federal Deposit Insurance Act [
+12 U.S.C. 1821(e)
+].
+
+
+
+
+(c)
+ Regulatory authority
+(1)
+ In general
+The Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [
+12 U.S.C. 611
+ et seq.], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 
+1
+ of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.
+
+
+
+
+
+
+(2)
+ Specific requirement
+In promulgating regulations, limited solely to implementing paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [
+12 U.S.C. 1821(e)
+], the Comptroller of the Currency and the Board of Governors of the Federal Reserve System each shall ensure that the regulations generally are consistent with the regulations and policies of the Federal Deposit Insurance Corporation adopted pursuant to the Federal Deposit Insurance Act [
+12 U.S.C. 1811
+ et seq.].
+
+
+
+
+
+
+(d)
+ Definitions
+For purposes of this section, the terms “Federal branch”, “Federal agency”, and “foreign bank” have the same meanings as in 
+section 3101 of this title
+.
+
+
+
+
+ National emergencies
+The provisions of this chapter may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (
+ Repealed. 

@@ -1,0 +1,5933 @@
+
+Chapter 149
+NATIONAL ENERGY POLICY AND PROGRAMS
+ Definitions
+ Energy efficiency in federally assisted housing
+ Purposes
+ Definitions
+ Plan
+ Programs
+(a)
+ In general
+The Secretary, in consultation with other Federal agencies and the private sector, shall conduct a research and development program on technologies relating to the production, purification, distribution, storage, and use of hydrogen energy, fuel cells, and related infrastructure.
+
+
+
+
+(b)
+ Goal
+The goal of the program shall be to demonstrate and commercialize the use of hydrogen for transportation (in light-duty vehicles and heavy-duty vehicles), utility, industrial, commercial, and residential applications.
+
+
+
+
+(c)
+ Focus
+In carrying out activities under this section, the Secretary shall focus on factors that are common to the development of hydrogen infrastructure and the supply of vehicle and electric power for critical consumer and commercial applications, and that achieve continuous technical evolution and cost reduction, particularly for hydrogen production, the supply of hydrogen, storage of hydrogen, and end uses of hydrogen that—
+(1)
+ steadily increase production, distribution, and end use efficiency and reduce life-cycle emissions;
+
+
+
+
+(2)
+ resolve critical problems relating to catalysts, membranes, storage, lightweight materials, electronic controls, manufacturability, and other problems that emerge from the program;
+
+
+
+
+(3)
+ enhance sources of renewable fuels and biofuels for hydrogen production; and
+
+
+
+
+(4)
+ enable widespread use of distributed electricity generation and storage.
+
+
+
+
+(d)
+ Public education and research
+In carrying out this section, the Secretary shall support enhanced public education and research conducted at institutions of higher education in fundamental sciences, application design, and systems concepts (including education and research relating to materials, subsystems, manufacturability, maintenance, and safety) relating to hydrogen and fuel cells.
+
+
+
+
+(e)
+ Activities
+The Secretary, in partnership with the private sector, shall conduct programs to address—
+(1)
+ production of hydrogen from diverse energy sources, including—
+(A)
+ fossil fuels, which may include carbon capture and sequestration;
+
+
+
+
+(B)
+ hydrogen-carrier fuels (including ethanol and methanol);
+
+
+
+
+(C)
+ renewable energy resources, including biomass; and
+
+
+
+
+(D)
+ nuclear energy;
+
+
+
+
+
+
+(2)
+ use of hydrogen for commercial, industrial, and residential electric power generation;
+
+
+
+
+(3)
+ safe delivery of hydrogen or hydrogen-carrier fuels, including—
+(A)
+ transmission by pipeline and other distribution methods; and
+
+
+
+
+(B)
+ convenient and economic refueling of vehicles either at central refueling stations or through distributed onsite generation;
+
+
+
+
+
+
+(4)
+ advanced vehicle technologies, including—
+(A)
+ engine and emission control systems;
+
+
+
+
+(B)
+ energy storage, electric propulsion, and hybrid systems;
+
+
+
+
+(C)
+ automotive materials; and
+
+
+
+
+(D)
+ other advanced vehicle technologies;
+
+
+
+
+
+
+(5)
+ storage of hydrogen or hydrogen-carrier fuels, including development of materials for safe and economic storage in gaseous, liquid, or solid form at refueling facilities and onboard vehicles;
+
+
+
+
+(6)
+ development of safe, durable, affordable, and efficient fuel cells, including fuel-flexible fuel cell power systems, improved manufacturing processes, high-temperature membranes, cost-effective fuel processing for natural gas, fuel cell stack and system reliability, low temperature operation, and cold start capability; and
+
+
+
+
+(7)
+ the ability of domestic automobile manufacturers to manufacture commercially available competitive hybrid vehicle technologies in the United States.
+
+
+
+
+(f)
+ Program goals
+(1)
+ Vehicles
+For vehicles, the goals of the program are—
+(A)
+ to enable a commitment by automakers no later than year 2015 to offer safe, affordable, and technically viable hydrogen fuel cell vehicles in the mass consumer market; and
+
+
+
+
+(B)
+ to enable production, delivery, and acceptance by consumers of model year 2020 hydrogen fuel cell and other hydrogen-powered vehicles that will have, when compared to light duty vehicles in model year 2005—
+(i)
+ fuel economy that is substantially higher;
+
+
+
+
+(ii)
+ substantially lower emissions of air pollutants; and
+
+
+
+
+(iii)
+ equivalent or improved vehicle fuel system crash integrity and occupant protection.
+
+
+
+
+
+
+
+
+(2)
+ Hydrogen energy and energy infrastructure
+For hydrogen energy and energy infrastructure, the goals of the program are to enable a commitment not later than 2015 that will lead to infrastructure by 2020 that will provide—
+(A)
+ safe and convenient refueling;
+
+
+
+
+(B)
+ improved overall efficiency;
+
+
+
+
+(C)
+ widespread availability of hydrogen from domestic energy sources through—
+(i)
+ production, with consideration of emissions levels;
+
+
+
+
+(ii)
+ delivery, including transmission by pipeline and other distribution methods for hydrogen; and
+
+
+
+
+(iii)
+ storage, including storage in surface transportation vehicles;
+
+
+
+
+
+
+(D)
+ hydrogen for fuel cells, internal combustion engines, and other energy conversion devices for portable, stationary, micro, critical needs facilities, and transportation applications; and
+
+
+
+
+(E)
+ other technologies consistent with the Department’s plan.
+
+
+
+
+
+
+(3)
+ Fuel cells
+The goals for fuel cells and their portable, stationary, and transportation applications are to enable—
+(A)
+ safe, economical, and environmentally sound hydrogen fuel cells;
+
+
+
+
+(B)
+ fuel cells for light duty and other vehicles; and
+
+
+
+
+(C)
+ other technologies consistent with the Department’s plan.
+
+
+
+
+
+
+(g)
+ Funding
+(1)
+ In general
+The Secretary shall carry out the programs under this section using a competitive, merit-based review process and consistent with the generally applicable Federal laws and regulations governing awards of financial assistance, contracts, or other agreements.
+
+
+
+
+
+
+(2)
+ Research centers
+Activities under this section may be carried out by funding nationally recognized university-based or Federal laboratory research centers.
+
+
+
+
+
+
+(h)
+ Hydrogen supply
+There are authorized to be appropriated to carry out projects and activities relating to hydrogen production, storage, distribution and dispensing, transport, education and coordination, and technology transfer under this section—
+(1)
+ $160,000,000 for fiscal year 2006;
+
+
+
+
+(2)
+ $200,000,000 for fiscal year 2007;
+
+
+
+
+(3)
+ $220,000,000 for fiscal year 2008;
+
+
+
+
+(4)
+ $230,000,000 for fiscal year 2009;
+
+
+
+
+(5)
+ $250,000,000 for fiscal year 2010; and
+
+
+
+
+(6)
+ such sums as are necessary for each of fiscal years 2011 through 2020.
+
+
+
+
+(i)
+ Fuel cell technologies
+There are authorized to be appropriated to carry out projects and activities relating to fuel cell technologies under this section—
+(1)
+ $150,000,000 for fiscal year 2006;
+
+
+
+
+(2)
+ $160,000,000 for fiscal year 2007;
+
+
+
+
+(3)
+ $170,000,000 for fiscal year 2008;
+
+
+
+
+(4)
+ $180,000,000 for fiscal year 2009;
+
+
+
+
+(5)
+ $200,000,000 for fiscal year 2010; and
+
+
+
+
+(6)
+ such sums as are necessary for each of fiscal years 2011 through 2020.
+
+
+
+
+ Hydrogen and Fuel Cell Technical Task Force
+(a)
+ Establishment
+Not later than 120 days after 
+August 8, 2005
+, the President shall establish an interagency task force chaired by the Secretary with representatives from each of the following:
+(1)
+ The Office of Science and Technology Policy within the Executive Office of the President.
+
+
+
+
+(2)
+ The Department of Transportation.
+
+
+
+
+(3)
+ The Department of Defense.
+
+
+
+
+(4)
+ The Department of Commerce (including the National Institute of Standards and Technology).
+
+
+
+
+(5)
+ The Department of State.
+
+
+
+
+(6)
+ The Environmental Protection Agency.
+
+
+
+
+(7)
+ The National Aeronautics and Space Administration.
+
+
+
+
+(8)
+ Other Federal agencies as the Secretary determines appropriate.
+
+
+
+
+(b)
+ Duties
+(1)
+ Planning
+The Task Force shall work toward—
+(A)
+ a safe, economical, and environmentally sound fuel infrastructure for hydrogen and hydrogen-carrier fuels, including an infrastructure that supports buses and other fleet transportation;
+
+
+
+
+(B)
+ fuel cells in government and other applications, including portable, stationary, and transportation applications;
+
+
+
+
+(C)
+ distributed power generation, including the generation of combined heat, power, and clean fuels including hydrogen;
+
+
+
+
+(D)
+ uniform hydrogen codes, standards, and safety protocols; and
+
+
+
+
+(E)
+ vehicle hydrogen fuel system integrity safety performance.
+
+
+
+
+
+
+(2)
+ Activities
+The Task Force may organize workshops and conferences, may issue publications, and may create databases to carry out its duties. The Task Force shall—
+(A)
+ foster the exchange of generic, nonproprietary information and technology among industry, academia, and government;
+
+
+
+
+(B)
+ develop and maintain an inventory and assessment of hydrogen, fuel cells, and other advanced technologies, including the commercial capability of each technology for the economic and environmentally safe production, distribution, delivery, storage, and use of hydrogen;
+
+
+
+
+(C)
+ integrate technical and other information made available as a result of the programs and activities under this subchapter;
+
+
+
+
+(D)
+ promote the marketplace introduction of infrastructure for hydrogen fuel vehicles; and
+
+
+
+
+(E)
+ conduct an education program to provide hydrogen and fuel cell information to potential end-users.
+
+
+
+
+
+
+(c)
+ Agency cooperation
+The heads of all agencies, including those whose agencies are not represented on the Task Force, shall cooperate with and furnish information to the Task Force, the Technical Advisory Committee, and the Department.
+
+
+
+
+ Technical Advisory Committee
+(a)
+ Establishment
+The Hydrogen Technical and Fuel Cell Advisory Committee is established to advise the Secretary on the programs and activities under this subchapter.
+
+
+
+
+(b)
+ Membership
+(1)
+ Members
+The Technical Advisory Committee shall be comprised of not fewer than 12 nor more than 25 members. The members shall be appointed by the Secretary to represent domestic industry, academia, professional societies, government agencies, Federal laboratories, previous advisory panels, and financial, environmental, and other appropriate organizations based on the Department’s assessment of the technical and other qualifications of Technical Advisory Committee members and the needs of the Technical Advisory Committee.
+
+
+
+
+
+
+(2)
+ Terms
+The term of a member of the Technical Advisory Committee shall not be more than 3 years. The Secretary may appoint members of the Technical Advisory Committee in a manner that allows the terms of the members serving at any time to expire at spaced intervals so as to ensure continuity in the functioning of the Technical Advisory Committee. A member of the Technical Advisory Committee whose term is expiring may be reappointed.
+
+
+
+
+
+
+(3)
+ Chairperson
+The Technical Advisory Committee shall have a chairperson, who shall be elected by the members from among their number.
+
+
+
+
+
+
+(c)
+ Review
+The Technical Advisory Committee shall review and make recommendations to the Secretary on—
+(1)
+ the implementation of programs and activities under this subchapter;
+
+
+
+
+(2)
+ the safety, economical, and environmental consequences of technologies for the production, distribution, delivery, storage, or use of hydrogen energy and fuel cells; and
+
+
+
+
+(3)
+ the plan under 
+section 16153 of this title
+.
+
+
+
+
+(d)
+ Response
+(1)
+ Consideration of recommendations
+The Secretary shall consider, but need not adopt, any recommendations of the Technical Advisory Committee under subsection (c).
+
+
+
+
+
+
+(2)
+ Biennial report
+The Secretary shall transmit a biennial report to Congress describing any recommendations made by the Technical Advisory Committee since the previous report. The report shall include a description of how the Secretary has implemented or plans to implement the recommendations, or an explanation of the reasons that a recommendation will not be implemented. The report shall be transmitted along with the President’s budget proposal.
+
+
+
+
+
+
+(e)
+ Support
+The Secretary shall provide resources necessary in the judgment of the Secretary for the Technical Advisory Committee to carry out its responsibilities under this subchapter.
+
+
+
+
+ Demonstration
+(a)
+ In general
+In carrying out the programs under this section, the Secretary shall fund a limited number of demonstration projects, consistent with this subchapter and a determination of the maturity, cost-effectiveness, and environmental impacts of technologies supporting each project. In selecting projects under this subsection, the Secretary shall, to the extent practicable and in the public interest, select projects that—
+(1)
+ involve using hydrogen and related products at existing facilities or installations, such as existing office buildings, military bases, vehicle fleet centers, transit bus authorities, or units of the National Park System;
+
+
+
+
+(2)
+ depend on reliable power from hydrogen to carry out essential activities;
+
+
+
+
+(3)
+ lead to the replication of hydrogen technologies and draw such technologies into the marketplace;
+
+
+
+
+(4)
+ include vehicle, portable, and stationary demonstrations of fuel cell and hydrogen-based energy technologies;
+
+
+
+
+(5)
+ address the interdependency of demand for hydrogen fuel cell applications and hydrogen fuel infrastructure;
+
+
+
+
+(6)
+ raise awareness of hydrogen technology among the public;
+
+
+
+
+(7)
+ facilitate identification of an optimum technology among competing alternatives;
+
+
+
+
+(8)
+ address distributed generation using renewable sources;
+
+
+
+
+(9)
+ carry out demonstrations of evolving hydrogen and fuel cell technologies in national parks, remote island areas, and on Indian tribal land, as selected by the Secretary;
+
+
+
+
+(10)
+ carry out a program to demonstrate developmental hydrogen and fuel cell systems for mobile, portable, and stationary uses, using improved versions of the learning demonstrations program concept of the Department including demonstrations involving—
+(A)
+ light-duty vehicles;
+
+
+
+
+(B)
+ heavy-duty vehicles;
+
+
+
+
+(C)
+ fleet vehicles;
+
+
+
+
+(D)
+ specialty industrial and farm vehicles; and
+
+
+
+
+(E)
+ commercial and residential portable, continuous, and backup electric power generation;
+
+
+
+
+
+
+(11)
+ in accordance with any code or standards developed in a region, fund prototype, pilot fleet, and infrastructure regional hydrogen supply corridors along the interstate highway system in varied climates across the United States; and
+
+
+
+
+(12)
+ fund demonstration programs that explore the use of hydrogen blends, hybrid hydrogen, and hydrogen reformed from renewable agricultural fuels, including the use of hydrogen in hybrid electric, heavier duty, and advanced internal combustion-powered vehicles.
+
+
+
+
+
+The Secretary shall give preference to projects which address multiple elements contained in paragraphs (1) through (12).
+
+
+(b)
+ System demonstrations
+(1)
+ 
+1
+1
+ So in original. No par. (2) has been enacted.
+ In general
+As a component of the demonstration program under this section, the Secretary shall provide grants, on a cost share basis as appropriate, to eligible entities (as determined by the Secretary) for use in—
+(A)
+ devising system design concepts that provide for the use of advanced composite vehicles in programs under 
+section 16122 of this title
+ that—
+(i)
+ have as a primary goal the reduction of drive energy requirements;
+
+
+
+
+(ii)
+ after 2010, add another research and development phase, as defined in subsection (c), including the vehicle and infrastructure partnerships developed under the learning demonstrations program concept of the Department; and
+
+
+
+
+(iii)
+ are managed through an enhanced FreedomCAR program within the Department that encourages involvement in cost-shared projects by manufacturers and governments; and
+
+
+
+
+
+
+(B)
+ designing a local distributed energy system that—
+(i)
+ incorporates renewable hydrogen production, off-grid electricity production, and fleet applications in industrial or commercial service;
+
+
+
+
+(ii)
+ integrates energy or applications described in clause (i), such as stationary, portable, micro, and mobile fuel cells, into a high-density commercial or residential building complex or agricultural community; and
+
+
+
+
+(iii)
+ is managed in cooperation with industry, State, tribal, and local governments, agricultural organizations, and nonprofit generators and distributors of electricity.
+
+
+
+
+
+
+
+
+(c)
+ Identification of new program requirements
+In carrying out the demonstrations under subsection (a), the Secretary, in consultation with the Task Force and the Technical Advisory Committee, shall—
+(1)
+ after 2008 for stationary and portable applications, and after 2010 for vehicles, identify new requirements that refine technological concepts, planning, and applications; and
+
+
+
+
+(2)
+ during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii), redesign subsequent program work to incorporate those requirements.
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated to carry out this section—
+(1)
+ $185,000,000 for fiscal year 2006;
+
+
+
+
+(2)
+ $200,000,000 for fiscal year 2007;
+
+
+
+
+(3)
+ $250,000,000 for fiscal year 2008;
+
+
+
+
+(4)
+ $300,000,000 for fiscal year 2009;
+
+
+
+
+(5)
+ $375,000,000 for fiscal year 2010; and
+
+
+
+
+(6)
+ such sums as are necessary for each of fiscal years 2011 through 2020.
+
+
+
+
+ Codes and standards
+(a)
+ In general
+The Secretary, in cooperation with the Task Force, shall provide grants to, or offer to enter into contracts with, such professional organizations, public service organizations, and government agencies as the Secretary determines appropriate to support timely and extensive development of safety codes and standards relating to fuel cell vehicles, hydrogen energy systems, and stationary, portable, and micro fuel cells.
+
+
+
+
+(b)
+ Educational efforts
+The Secretary shall support educational efforts by organizations and agencies described in subsection (a) to share information, including information relating to best practices, among those organizations and agencies.
+
+
+
+
+(c)
+ Authorization of appropriations
+There are authorized to be appropriated to carry out this section—
+(1)
+ $4,000,000 for fiscal year 2006;
+
+
+
+
+(2)
+ $7,000,000 for fiscal year 2007;
+
+
+
+
+(3)
+ $8,000,000 for fiscal year 2008;
+
+
+
+
+(4)
+ $10,000,000 for fiscal year 2009;
+
+
+
+
+(5)
+ $9,000,000 for fiscal year 2010; and
+
+
+
+
+(6)
+ such sums as are necessary for each of fiscal years 2011 through 2020.
+
+
+
+
+ Disclosure
+ Reports
+(a)
+ Secretary
+Subject to subsection (c), not later than 2 years after 
+August 8, 2005
+, and triennially thereafter, the Secretary shall submit to Congress a report describing—
+(1)
+ activities carried out by the Department under this subchapter,
+1
+1
+ So in original. The comma probably should not appear.
+ for hydrogen and fuel cell technology;
+
+
+
+
+(2)
+ measures the Secretary has taken during the preceding 3 years to support the transition of primary industry (or a related industry) to a fully commercialized hydrogen economy;
+
+
+
+
+(3)
+ any change made to the strategy relating to hydrogen and fuel cell technology to reflect the results of a learning demonstrations;
+
+
+
+
+(4)
+ progress, including progress in infrastructure, made toward achieving the goal of producing and deploying not less than—
+(A)
+ 100,000 hydrogen-fueled vehicles in the United States by 2010; and
+
+
+
+
+(B)
+ 2,500,000 hydrogen-fueled vehicles in the United States by 2020;
+
+
+
+
+
+
+(5)
+ progress made toward achieving the goal of supplying hydrogen at a sufficient number of fueling stations in the United States by 2010 including by integrating—
+(A)
+ hydrogen activities; and
+
+
+
+
+(B)
+ associated targets and timetables for the development of hydrogen technologies;
+
+
+
+
+
+
+(6)
+ any problem relating to the design, execution, or funding of a program under this subchapter;
+
+
+
+
+(7)
+ progress made toward and goals achieved in carrying out this subchapter and updates to the developmental roadmap, including the results of the reviews conducted by the National Academy of Sciences under subsection (b) for the fiscal years covered by the report; and
+
+
+
+
+(8)
+ any updates to strategic plans that are necessary to meet the goals described in paragraph (4).
+
+
+
+
+(b)
+ External review
+The Secretary shall enter into an arrangement with the National Academy of Sciences under which the Academy will review the programs under sections 16154 and 16157 of this title every fourth year following 
+August 8, 2005
+. The Academy’s review shall include the program priorities and technical milestones, and evaluate the progress toward achieving them. The first review shall be completed not later than 5 years after 
+August 8, 2005
+. Not later than 45 days after receiving the review, the Secretary shall transmit the review to Congress along with a plan to implement the review’s recommendations or an explanation for the reasons that a recommendation will not be implemented.
+
+
+
+
+(c)
+ Authorization of appropriations
+There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2006 through 2020.
+
+
+
+
+ Solar and wind technologies
+(a)
+ Solar energy technologies
+The Secretary shall—
+(1)
+ prepare a detailed roadmap for carrying out the provisions in this subchapter related to solar energy technologies and for implementing the recommendations related to solar energy technologies that are included in the report transmitted under subsection (e);
+
+
+
+
+(2)
+ provide for the establishment of 5 projects in geographic areas that are regionally and climatically diverse to demonstrate the production of hydrogen at solar energy facilities, including one demonstration project at a National Laboratory or institution of higher education;
+
+
+
+
+(3)
+ establish a program—
+(A)
+ to develop optimized concentrating solar power devices that may be used for the production of both electricity and hydrogen; and
+
+
+
+
+(B)
+ to evaluate the use of thermochemical cycles for hydrogen production at the temperatures attainable with concentrating solar power devices;
+
+
+
+
+
+
+(4)
+ coordinate with activities sponsored by the Department’s Office of Nuclear Energy, Science, and Technology on high-temperature materials, thermochemical cycles, and economic issues related to solar energy;
+
+
+
+
+(5)
+ provide for the construction and operation of new concentrating solar power devices or solar power cogeneration facilities that produce hydrogen either concurrently with, or independently of, the production of electricity;
+
+
+
+
+(6)
+ support existing facilities and programs of study related to concentrating solar power devices; and
+
+
+
+
+(7)
+ establish a program—
+(A)
+ to develop methods that use electricity from photovoltaic devices for the onsite production of hydrogen, such that no intermediate transmission or distribution infrastructure is required or used and future demand growth may be accommodated;
+
+
+
+
+(B)
+ to evaluate the economics of small-scale electrolysis for hydrogen production; and
+
+
+
+
+(C)
+ to study the potential of modular photovoltaic devices for the development of a hydrogen infrastructure, the security implications of a hydrogen infrastructure, and the benefits potentially derived from a hydrogen infrastructure.
+
+
+
+
+
+
+(b)
+ Wind energy technologies
+The Secretary shall—
+(1)
+ prepare a detailed roadmap for carrying out the provisions in this subchapter related to wind energy technologies and for implementing the recommendations related to wind energy technologies that are included in the report transmitted under subsection (e); and
+
+
+
+
+(2)
+ provide for the establishment of 5 projects in geographic areas that are regionally and climatically diverse to demonstrate the production of hydrogen at existing wind energy facilities, including one demonstration project at a National Laboratory or institution of higher education.
+
+
+
+
+(c)
+ Program support
+The Secretary shall support programs at institutions of higher education for the development of solar energy technologies and wind energy technologies for the production of hydrogen. The programs supported under this subsection shall—
+(1)
+ enhance fellowship and faculty assistance programs;
+
+
+
+
+(2)
+ provide support for fundamental research;
+
+
+
+
+(3)
+ encourage collaborative research among industry, National Laboratories, and institutions of higher education;
+
+
+
+
+(4)
+ support communication and outreach; and
+
+
+
+
+(5)
+ to the greatest extent possible—
+(A)
+ be located in geographic areas that are regionally and climatically diverse; and
+
+
+
+
+(B)
+ be located at part B institutions, minority institutions, and institutions of higher education located in States participating in the Experimental Program to Stimulate Competitive Research of the Department.
+
+
+
+
+
+
+(d)
+ Institutions of higher education and National Laboratory interactions
+In conjunction with the programs supported under this section, the Secretary shall develop sabbatical, fellowship, and visiting scientist programs to encourage National Laboratories and institutions of higher education to share and exchange personnel.
+
+
+
+
+(e)
+ Report
+The Secretary shall transmit to the Congress not later than 120 days after 
+August 8, 2005
+, a report containing detailed summaries of the roadmaps prepared under subsections (a)(1) and (b)(1), descriptions of the Secretary’s progress in establishing the projects and other programs required under this section, and recommendations for promoting the availability of advanced solar and wind energy technologies for the production of hydrogen.
+
+
+
+
+(f)
+ Definitions
+For purposes of this section—
+(1)
+ the term “concentrating solar power devices” means devices that concentrate the power of the sun by reflection or refraction to improve the efficiency of a photovoltaic or thermal generation process;
+
+
+
+
+(2)
+ the term “minority institution” has the meaning given to that term in 
+section 1067k of title 20
+;
+
+
+
+
+(3)
+ the term “part B institution” has the meaning given to that term in 
+section 1061 of title 20
+; and
+
+
+
+
+(4)
+ the term “photovoltaic devices” means devices that convert light directly into electricity through a solid-state, semiconductor process.
+
+
+
+
+(g)
+ Authorization of appropriations
+There is authorized to be appropriated such sums as are necessary for carrying out the activities under this section for each of fiscal years 2006 through 2020.
+
+
+
+
+ Technology transfer
+ Miscellaneous provisions
+(a)
+ Representation
+The Secretary may represent the United States interests with respect to activities and programs under this subchapter, in coordination with the Department of Transportation, the National Institute of Standards and Technology, and other relevant Federal agencies, before governments and nongovernmental organizations including—
+(1)
+ other Federal, State, regional, and local governments and their representatives;
+
+
+
+
+(2)
+ industry and its representatives, including members of the energy and transportation industries; and
+
+
+
+
+(3)
+ in consultation with the Department of State, foreign governments and their representatives including international organizations.
+
+
+
+
+(b)
+ Regulatory authority
+Nothing in this subchapter shall be construed to alter the regulatory authority of the Department.
+
+
+
+
+ Cost sharing
+The costs of carrying out projects and activities under this subchapter shall be shared in accordance with 
+ Savings clause
+ Goals
+(a)
+ In general
+In order to achieve the purposes of this subchapter, the Secretary shall conduct a balanced set of programs of energy research, development, demonstration, and commercial application with the general goals of—
+(1)
+ increasing the efficiency of all energy intensive sectors through conservation and improved technologies;
+
+
+
+
+(2)
+ promoting diversity of energy supply;
+
+
+
+
+(3)
+ decreasing the dependence of the United States on foreign energy supplies;
+
+
+
+
+(4)
+ improving the energy security of the United States; and
+
+
+
+
+(5)
+ decreasing the environmental impact of energy-related activities.
+
+
+
+
+(b)
+ Goals
+The Secretary shall publish measurable cost and performance-based goals, comparable over time, with each annual budget submission in at least the following areas:
+(1)
+ Energy efficiency for buildings, energy-consuming industries, and vehicles.
+
+
+
+
+(2)
+ Electric energy generation (including distributed generation), transmission, and storage.
+
+
+
+
+(3)
+ Renewable energy technologies, including wind power, photovoltaics, solar thermal systems, geothermal energy, hydrogen-fueled systems, biomass-based systems, biofuels, and hydropower.
+
+
+
+
+(4)
+ Fossil energy, including power generation, onshore and offshore oil and gas resource recovery, and transportation fuels.
+
+
+
+
+(5)
+ Nuclear energy, including programs for existing and advanced reactors, and education of future specialists.
+
+
+
+
+(c)
+ Public comment
+The Secretary shall provide mechanisms for input on the annually published goals from industry, institutions of higher education, and other public sources.
+
+
+
+
+(d)
+ Effect of goals
+Nothing in subsection (a) or the annually published goals creates any new authority for any Federal agency, or may be used by any Federal agency, to support the establishment of regulatory standards or regulatory requirements.
+
+
+
+
+ Definitions
+ Improved technology transfer of energy technologies
+(a)
+ Technology Transfer Coordinator
+The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
+
+
+
+
+(b)
+ Qualifications
+The Coordinator shall be an individual who, by reason of professional background and experience, is specially qualified to advise the Secretary on matters pertaining to technology transfer at the Department.
+
+
+
+
+(c)
+ Duties of the Coordinator
+The Coordinator shall oversee—
+(1)
+ the activities of the Technology Transfer Working Group established under subsection (d);
+
+
+
+
+(2)
+ the expenditure of funds allocated for technology transfer within the Department;
+
+
+
+
+(3)
+ the activities of each technology partnership ombudsman appointed under 
+section 7261c of this title
+; and
+
+
+
+
+(4)
+ efforts to engage private sector entities, including venture capital companies.
+
+
+
+
+(d)
+ Technology Transfer Working Group
+The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
+(1)
+ coordinate technology transfer activities occurring at National Laboratories and single-purpose research facilities;
+
+
+
+
+(2)
+ exchange information about technology transfer practices, including alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters; and
+
+
+
+
+(3)
+ develop and disseminate to the public and prospective technology partners information about opportunities and procedures for technology transfer with the Department, including opportunities and procedures related to alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters.
+
+
+
+
+(e)
+ Technology Commercialization Fund
+The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
+
+
+
+
+(f)
+ Technology transfer responsibility
+Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3701
+ et seq.).
+
+
+
+
+(g)
+ Planning and reporting
+(1)
+ In general
+Not later than 180 days after 
+August 8, 2005
+, the Secretary shall submit to Congress a technology transfer execution plan.
+
+
+
+
+
+
+(2)
+ Updates
+Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).
+
+
+
+
+
+
+ Technology Infrastructure Program
+(a)
+ Definitions
+In this section:
+(1)
+ Program
+The term “Program” means the Technology Infrastructure Program established under subsection (b).
+
+
+
+
+
+
+(2)
+ Technology cluster
+The term “technology cluster” means a concentration of technology-related business concerns, institutions of higher education, or nonprofit institutions, that reinforce each other’s performance in the areas of technology development through formal or informal relationships.
+
+
+
+
+
+
+(3)
+ Technology-related business concern
+The term “technology-related business concern” means a for-profit corporation, company, association, firm, partnership, or small business concern that—
+(A)
+ conducts scientific or engineering research;
+
+
+
+
+(B)
+ develops new technologies;
+
+
+
+
+(C)
+ manufactures products based on new technologies; or
+
+
+
+
+(D)
+ performs technological services.
+
+
+
+
+
+
+(b)
+ Establishment
+The Secretary shall establish a Technology Infrastructure Program in accordance with this section.
+
+
+
+
+(c)
+ Purpose
+The purpose of the Program shall be to improve the ability of National Laboratories and single-purpose research facilities to support departmental missions by—
+(1)
+ stimulating the development of technology clusters that can support departmental missions at the National Laboratories or single-purpose research facilities;
+
+
+
+
+(2)
+ improving the ability of National Laboratories and single-purpose research facilities to leverage and benefit from commercial research, technology, products, processes, and services; and
+
+
+
+
+(3)
+ encouraging the exchange of scientific and technological expertise between—
+(A)
+ National Laboratories or single-purpose research facilities; and
+
+
+
+
+(B)
+ entities that can support departmental missions at the National Laboratories or single-purpose research facilities, such as—
+(i)
+ institutions of higher education;
+
+
+
+
+(ii)
+ technology-related business concerns;
+
+
+
+
+(iii)
+ nonprofit institutions; and
+
+
+
+
+(iv)
+ agencies of State, tribal, or local governments.
+
+
+
+
+
+
+
+
+(d)
+ Projects
+The Secretary shall authorize the director of each National Laboratory or single-purpose research facility to implement the Program at the National Laboratory or facility through one or more projects that meet the requirements of subsections (e) and (f).
+
+
+
+
+(e)
+ Program requirements
+(1)
+ In general
+Each project funded under this section shall meet the requirements of this subsection.
+
+
+
+
+
+
+(2)
+ Entities
+Each project shall include at least one of each of the following entities:
+(A)
+ A business.
+
+
+
+
+(B)
+ An institution of higher education.
+
+
+
+
+(C)
+ A nonprofit institution.
+
+
+
+
+(D)
+ An agency of a State, local, or tribal government.
+
+
+
+
+
+
+(3)
+ Cost-sharing
+(A)
+ In general
+The costs of carrying out projects under this section shall be shared in accordance with 
+section 16352 of this title
+.
+
+
+
+
+
+
+(B)
+ Sources
+The calculation of costs paid by the non-Federal sources for a project shall include cash, personnel, services, equipment, and other resources expended on the project after the commencement of the project.
+
+
+
+
+
+
+(C)
+ Research and development expenses
+Independent research and development expenses of Government contractors that qualify for reimbursement under section 31.205–18(e) of title 48, Code of Federal Regulations, issued pursuant to 
+section 1303(a)(1) of title 41
+, may be credited towards costs paid by non-Federal sources to a project, if the expenses meet the other requirements of this section.
+
+
+
+
+
+
+
+
+(4)
+ Competitive selection
+A project under this section shall be competitively selected using procedures determined by the Secretary.
+
+
+
+
+
+
+(5)
+ Accounting
+Any participant that receives funds under this section may use generally accepted accounting principles for maintaining accounts, books, and records relating to the project.
+
+
+
+
+
+
+(6)
+ Duration
+No Federal funds shall be made available under this section for a construction project or for any project with a duration of more than 5 years.
+
+
+
+
+
+
+(f)
+ Selection criteria
+(1)
+ Departmental missions
+The Secretary shall allocate funds under this section only if the Director of the National Laboratory or single-purpose research facility managing the project determines that the project is likely to improve the ability of the National Laboratory or single-purpose research facility to achieve technical success in meeting departmental missions.
+
+
+
+
+
+
+(2)
+ Other criteria
+In selecting a project to receive Federal funds, the Secretary shall consider—
+(A)
+ the potential of the project to promote the development of a commercially sustainable technology cluster following the period of investment by the Department, which will derive most of the demand for its products or services from the private sector, and which will support departmental missions at the participating National Laboratory or single-purpose research facility;
+
+
+
+
+(B)
+ the potential of the project to promote the use of commercial research, technology, products, processes, and services by the participating National Laboratory or single-purpose research facility to achieve its mission or the commercial development of technological innovations made at the participating National Laboratory or single-purpose research facility;
+
+
+
+
+(C)
+ the extent to which the project involves a wide variety and number of institutions of higher education, nonprofit institutions, and technology-related business concerns that can support the missions of the participating National Laboratory or single-purpose research facility and that will make substantive contributions to achieving the goals of the project;
+
+
+
+
+(D)
+ the extent to which the project focuses on promoting the development of technology-related business concerns that are small businesses or involves such small businesses substantively in the project; and
+
+
+
+
+(E)
+ such other criteria as the Secretary determines to be appropriate.
+
+
+
+
+
+
+(g)
+ Allocation
+In allocating funds for projects approved under this section, the Secretary shall provide—
+(1)
+ the Federal share of the project costs; and
+
+
+
+
+(2)
+ additional funds to the National Laboratory or single-purpose research facility managing the project to permit the National Laboratory or single-purpose research facility to carry out activities relating to the project, and to coordinate the activities with the project.
+
+
+
+
+(h)
+ Report to Congress
+Not later than 
+July 1, 2008
+, the Secretary shall submit to Congress a report on whether the Program should be continued and, if so, how the program should be managed.
+
+
+
+
+(i)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for activities under this section $10,000,000 for each of fiscal years 2006 through 2008.
+
+
+
+
+ Small business advocacy and assistance
+(a)
+ Small business advocate
+The Secretary shall require the Director of each National Laboratory, and may require the Director of a single-purpose research facility, to designate a small business advocate to—
+(1)
+ increase the participation of small business concerns, including socially and economically disadvantaged small business concerns (as defined in 
+section 637(a)(4) of title 15
+), in procurement, collaborative research, technology licensing, and technology transfer activities conducted by the National Laboratory or single-purpose research facility;
+
+
+
+
+(2)
+ report to the Director of the National Laboratory or single-purpose research facility on the actual participation of small business concerns in procurement and collaborative research along with recommendations, if appropriate, on how to improve participation;
+
+
+
+
+(3)
+ make available to small business concerns training, mentoring, and information on how to participate in procurement and collaborative research activities;
+
+
+
+
+(4)
+ increase the awareness inside the National Laboratory or single-purpose research facility of the capabilities and opportunities presented by small business concerns; and
+
+
+
+
+(5)
+ establish guidelines for the program under subsection (b) and report on the effectiveness of the program to the Director of the National Laboratory or single-purpose research facility.
+
+
+
+
+(b)
+ Establishment of small business assistance program
+The Secretary shall require the Director of each National Laboratory, and may require the Director of a single-purpose research facility, to establish a program to provide small business concerns with—
+(1)
+ assistance directed at making the small business concerns more effective and efficient subcontractors or suppliers to the National Laboratory or single-purpose research facilities; or
+
+
+
+
+(2)
+ general technical assistance, the cost of which shall not exceed $10,000 per instance of assistance, to improve the products or services of the small business concern.
+
+
+
+
+(c)
+ Use of funds
+None of the funds expended under subsection (b) may be used for direct grants to small business concerns.
+
+
+
+
+(d)
+ Authorization of appropriations
+There is authorized to be appropriated to the Secretary for activities under this section $5,000,000 for each of fiscal years 2006 through 2008.
+
+
+
+
+ Outreach
+The Secretary shall ensure that each program authorized by this Act or an amendment made by this Act includes an outreach component to provide information, as appropriate, to manufacturers, consumers, engineers, architects, builders, energy service companies, institutions of higher education, facility planners and managers, State and local governments, and other entities.
+ Relationship to other laws
+ Prizes for achievement in grand challenges of science and technology
+(a)
+ Authority
+The Secretary may carry out a program to award cash prizes in recognition of breakthrough achievements in research, development, demonstration, and commercial application that have the potential for application to the performance of the mission of the Department.
+
+
+
+
+(b)
+ Competition requirements
+The program under subsection (a) may include prizes for the achievement of goals articulated by the Secretary in a specific area through a widely advertised solicitation of submission of results for research, development, demonstration, or commercial application projects.
+
+
+
+
+(c)
+ Prizes for processes and technologies to reduce dependence on imported oil
+The Secretary, in cooperation with the Freedom Prize Foundation, shall support a program of awarding prizes, to be known as Freedom Prizes, to encourage and recognize the development and deployment of processes and technologies that serve to reduce the dependence of the United States on imported oil.
+
+
+
+
+(d)
+ Relationship to other authority
+The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
+
+
+
+
+(e)
+ Authorization of appropriations
+There are authorized to be appropriated—
+(1)
+ $10,000,000 to carry out the program under subsection (a); and
+
+
+
+
+(2)
+ $5,000,000 to carry out the program under subsection (c).
+
+
+
+
+(f)
+ H-prize
+(1)
+ Prize authority
+(A)
+ In general
+As part of the program under this section, the Secretary shall carry out a program to competitively award cash prizes in conformity with this subsection to advance the research, development, demonstration, and commercial application of hydrogen energy technologies.
+
+
+
+
+
+
+(B)
+ Advertising and solicitation of competitors
+(i)
+ Advertising
+The Secretary shall widely advertise prize competitions under this subsection to encourage broad participation, including by individuals, universities (including historically Black colleges and universities and other minority serving institutions), and large and small businesses (including businesses owned or controlled by socially and economically disadvantaged persons).
+
+
+
+
+
+
+(ii)
+ Announcement through Federal Register notice
+The Secretary shall announce each prize competition under this subsection by publishing a notice in the Federal Register. This notice shall include essential elements of the competition such as the subject of the competition, the duration of the competition, the eligibility requirements for participation in the competition, the process for participants to register for the competition, the amount of the prize, and the criteria for awarding the prize.
+
+
+
+
+
+
+
+
+(C)
+ Administering the competitions
+The Secretary shall enter into an agreement with a private, nonprofit entity to administer the prize competitions under this subsection, subject to the provisions of this subsection (in this subsection referred to as the “administering entity”). The duties of the administering entity under the agreement shall include—
+(i)
+ advertising prize competitions under this subsection and their results;
+
+
+
+
+(ii)
+ raising funds from private entities and individuals to pay for administrative costs and to contribute to cash prizes, including funds provided in exchange for the right to name a prize awarded under this subsection;
+
+
+
+
+(iii)
+ developing, in consultation with and subject to the final approval of the Secretary, the criteria for selecting winners in prize competitions under this subsection, based on goals provided by the Secretary;
+
+
+
+
+(iv)
+ determining, in consultation with the Secretary, the appropriate amount and funding sources for each prize to be awarded under this subsection, subject to the final approval of the Secretary with respect to Federal funding;
+
+
+
+
+(v)
+ providing advice and consultation to the Secretary on the selection of judges in accordance with paragraph (2)(D), using criteria developed in consultation with and subject to the final approval of the Secretary; and
+
+
+
+
+(vi)
+ protecting against the administering entity’s unauthorized use or disclosure of a registered participant’s trade secrets and confidential business information. Any information properly identified as trade secrets or confidential business information that is submitted by a participant as part of a competitive program under this subsection may be withheld from public disclosure.
+
+
+
+
+
+
+(D)
+ Funding sources
+Prizes under this subsection shall consist of Federal appropriated funds and any funds provided by the administering entity (including funds raised pursuant to subparagraph (C)(ii)) for such cash prize programs. The Secretary may accept funds from other Federal agencies for such cash prizes and, notwithstanding 
+section 3302(b) of title 31
+, may use such funds for the cash prize program under this subsection. Other than publication of the names of prize sponsors, the Secretary may not give any special consideration to any private sector entity or individual in return for a donation to the Secretary or administering entity.
+
+
+
+
+
+
+(E)
+ Announcement of prizes
+The Secretary may not issue a notice required by subparagraph (B)(ii) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
+(i)
+ notice of the increase is provided in the same manner as the initial notice of the prize; and
+
+
+
+
+(ii)
+ the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by the administering entity.
+
+
+
+
+
+
+(F)
+ Sunset
+The authority to announce prize competitions under this subsection shall terminate on 
+September 30, 2018
+.
+
+
+
+
+
+
+
+
+(2)
+ Prize categories
+(A)
+ Categories
+The Secretary shall establish prizes under this subsection for—
+(i)
+ advancements in technologies, components, or systems related to—
+(I)
+ hydrogen production;
+
+
+
+
+(II)
+ hydrogen storage;
+
+
+
+
+(III)
+ hydrogen distribution; and
+
+
+
+
+(IV)
+ hydrogen utilization;
+
+
+
+
+
+
+(ii)
+ prototypes of hydrogen-powered vehicles or other hydrogen-based products that best meet or exceed objective performance criteria, such as completion of a race over a certain distance or terrain or generation of energy at certain levels of efficiency; and
+
+
+
+
+(iii)
+ transformational changes in technologies for the distribution or production of hydrogen that meet or exceed far-reaching objective criteria, which shall include minimal carbon emissions and which may include cost criteria designed to facilitate the eventual market success of a winning technology.
+
+
+
+
+
+
+(B)
+ Awards
+(i)
+ Advancements
+To the extent permitted under paragraph (1)(E), the prizes authorized under subparagraph (A)(i) shall be awarded biennially to the most significant advance made in each of the four subcategories described in subclauses (I) through (IV) of subparagraph (A)(i) since the submission deadline of the previous prize competition in the same category under subparagraph (A)(i) or 
+December 19, 2007
+, whichever is later, unless no such advance is significant enough to merit an award. No one such prize may exceed $1,000,000. If less than $4,000,000 is available for a prize competition under subparagraph (A)(i), the Secretary may omit one or more subcategories, reduce the amount of the prizes, or not hold a prize competition.
+
+
+
+
+
+
+(ii)
+ Prototypes
+To the extent permitted under paragraph (1)(E), prizes authorized under subparagraph (A)(ii) shall be awarded biennially in alternate years from the prizes authorized under subparagraph (A)(i). The Secretary is authorized to award up to one prize in this category in each 2-year period. No such prize may exceed $4,000,000. If no registered participants meet the objective performance criteria established pursuant to subparagraph (C) for a competition under this clause, the Secretary shall not award a prize.
+
+
+
+
+
+
+(iii)
+ Transformational technologies
+To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after 
+December 19, 2007
+, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
+
+
+
+
+
+
+
+
+(C)
+ Criteria
+In establishing the criteria required by this subsection, the Secretary—
+(i)
+ shall consult with the Department’s Hydrogen Technical and Fuel Cell Advisory Committee;
+
+
+
+
+(ii)
+ shall consult with other Federal agencies, including the National Science Foundation; and
+
+
+
+
+(iii)
+ may consult with other experts such as private organizations, including professional societies, industry associations, and the National Academy of Sciences and the National Academy of Engineering.
+
+
+
+
+
+
+(D)
+ Judges
+For each prize competition under this subsection, the Secretary in consultation with the administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge’s household may not—
+(i)
+ have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
+
+
+
+
+(ii)
+ have a familial or financial relationship with an individual who is a registered participant in the prize competition for which he or she will serve as a judge.
+
+
+
+
+
+
+
+
+(3)
+ Eligibility
+To be eligible to win a prize under this subsection, an individual or entity—
+(A)
+ shall have complied with all the requirements in accordance with the Federal Register notice required under paragraph (1)(B)(ii);
+
+
+
+
+(B)
+ in the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen of, or an alien lawfully admitted for permanent residence in, the United States; and
+
+
+
+
+(C)
+ shall not be a Federal entity, a Federal employee acting within the scope of his employment, or an employee of a national laboratory acting within the scope of his employment.
+
+
+
+
+
+
+(4)
+ Intellectual property
+The Federal Government shall not, by virtue of offering or awarding a prize under this subsection, be entitled to any intellectual property rights derived as a consequence of, or direct relation to, the participation by a registered participant in a competition authorized by this subsection. This paragraph shall not be construed to prevent the Federal Government from negotiating a license for the use of intellectual property developed for a prize competition under this subsection.
+
+
+
+
+
+
+(5)
+ Liability
+(A)
+ Waiver of liability
+The Secretary may require registered participants to waive claims against the Federal Government and the administering entity (except claims for willful misconduct) for any injury, death, damage, or loss of property, revenue, or profits arising from the registered participants’ participation in a competition under this subsection. The Secretary shall give notice of any waiver required under this subparagraph in the notice required by paragraph (1)(B)(ii). The Secretary may not require a registered participant to waive claims against the administering entity arising out of the unauthorized use or disclosure by the administering entity of the registered participant’s trade secrets or confidential business information.
+
+
+
+
+
+
+(B)
+ Liability insurance
+(i)
+ Requirements
+Registered participants in a prize competition under this subsection shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
+(I)
+ a third party for death, bodily injury, or property damage or loss resulting from an activity carried out in connection with participation in a competition under this subsection; and
+
+
+
+
+(II)
+ the Federal Government for damage or loss to Government property resulting from such an activity.
+
+
+
+
+
+
+(ii)
+ Federal Government insured
+The Federal Government shall be named as an additional insured under a registered participant’s insurance policy required under clause (i)(I), and registered participants shall be required to agree to indemnify the Federal Government against third party claims for damages arising from or related to competition activities under this subsection.
+
+
+
+
+
+
+
+
+
+
+(6)
+ Report to Congress
+Not later than 60 days after the awarding of the first prize under this subsection, and annually thereafter, the Secretary shall transmit to the Congress a report that—
+(A)
+ identifies each award recipient;
+
+
+
+
+(B)
+ describes the technologies developed by each award recipient; and
+
+
+
+
+(C)
+ specifies actions being taken toward commercial application of all technologies with respect to which a prize has been awarded under this subsection.
+
+
+
+
+
+
+(7)
+ Authorization of appropriations
+(A)
+ In general
+(i)
+ Awards
+There are authorized to be appropriated to the Secretary for the period encompassing fiscal years 2008 through 2017 for carrying out this subsection—
+(I)
+ $20,000,000 for awards described in paragraph (2)(A)(i);
+
+
+
+
+(II)
+ $20,000,000 for awards described in paragraph (2)(A)(ii); and
+
+
+
+
+(III)
+ $10,000,000 for the award described in paragraph (2)(A)(iii).
+
+
+
+
+
+
+(ii)
+ Administration
+In addition to the amounts authorized in clause (i), there are authorized to be appropriated to the Secretary for each of fiscal years 2008 and 2009 $2,000,000 for the administrative costs of carrying out this subsection.
+
+
+
+
+
+
+
+
+(B)
+ Carryover of funds
+Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of 
+section 1341 of title 31
+ (commonly referred to as the Anti-Deficiency Act).
+
+
+
+
+
+
+
+
+(8)
+ Nonsubstitution
+The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
+
+
+
+
+
+
+ Workforce trends and traineeship grants
+(a)
+ Definitions
+In this section:
+(1)
+ Energy technology industry
+The term “energy technology industry” includes—
+(A)
+ a renewable energy industry;
+
+
+
+
+(B)
+ a company that develops or commercializes a device to increase energy efficiency;
+
+
+
+
+(C)
+ the oil and gas industry;
+
+
+
+
+(D)
+ the nuclear power industry;
+
+
+
+
+(E)
+ the coal industry;
+
+
+
+
+(F)
+ the electric utility industry; and
+
+
+
+
+(G)
+ any other industrial sector, as the Secretary determines to be appropriate.
+
+
+
+
+
+
+(2)
+ Skilled technical personnel
+The term “skilled technical personnel” means—
+(A)
+ journey- and apprentice-level workers who are enrolled in, or have completed, a federally-recognized or State-recognized apprenticeship program; and
+
+
+
+
+(B)
+ other skilled workers in energy technology industries, as determined by the Secretary.
+
+
+
+
+
+
+(b)
+ Workforce trends
+(1)
+ Monitoring
+The Secretary, in consultation with, and using data collected by, the Secretary of Labor, shall monitor trends in the workforce of—
+(A)
+ skilled technical personnel that support energy technology industries; and
+
+
+
+
+(B)
+ electric power and transmission engineers.
+
+
+
+
+
+
+(2)
+ Report on trends
+Not later than 1 year after 
+August 8, 2005
+, the Secretary shall submit to Congress a report on current trends under paragraph (1), with recommendations (as appropriate) to meet the future labor requirements for the energy technology industries.
+
+
+
+
+
+
+(3)
+ Report on shortage
+As soon as practicable after the date on which the Secretary identifies or predicts a significant national shortage of skilled technical personnel in one or more energy technology industries, the Secretary shall submit to Congress a report describing the shortage.
+
+
+
+
+
+
+(c)
+ Traineeship grants for skilled technical personnel
+The Secretary, in consultation with the Secretary of Labor, may establish programs in the appropriate offices of the Department under which the Secretary provides grants to enhance training (including distance learning) for any workforce category for which a shortage is identified or predicted under subsection (b)(2).
+
+
+
+
+(d)
+ Authorization of appropriations
+There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2006 through 2008.
+
+
+
+
+ Training guidelines for nonnuclear electric energy industry personnel
+(a)
+ In general
+The Secretary of Labor, in consultation with the Secretary and in conjunction with the electric industry and recognized employee representatives, shall develop model personnel training guidelines to support the reliability and safety of the nonnuclear electric system.
+
+
+
+
+(b)
+ Requirements
+The training guidelines under subsection (a) shall, at a minimum—
+(1)
+ include training requirements for workers engaged in the construction, operation, inspection, or maintenance of nonnuclear electric generation, transmission, or distribution systems, including requirements relating to—
+(A)
+ competency;
+
+
+
+
+(B)
+ certification; and
+
+
+
+
+(C)
+ assessment, including—
+(i)
+ initial and continuous evaluation of workers;
+
+
+
+
+(ii)
+ recertification procedures; and
+
+
+
+
+(iii)
+ methods for examining or testing the qualification of an individual who performs a covered task; and
+
+
+
+
+
+
+
+
+(2)
+ consolidate training guidelines in existence on the date on which the guidelines under subsection (a) are developed relating to the construction, operation, maintenance, and inspection of nonnuclear electric generation, transmission, and distribution facilities, such as guidelines established by the National Electric Safety Code and other industry consensus standards.
+
+
+
+
+ National Center for Energy Management and Building Technologies
+The Secretary shall support the ongoing activities of and explore opportunities for expansion of the National Center for Energy Management and Building Technologies to carry out research, education, and training activities to facilitate the improvement of energy efficiency, indoor environmental quality, and security of industrial, commercial, residential, and public buildings.
+ National Power Plant Operations Technology and Educational Center
+(a)
+ Establishment
+The Secretary shall support the establishment of a National Power Plant Operations Technology and Education Center (referred to in this section as the “Center”), to address the need for training and educating certified operators and technicians for the electric power industry.
+
+
+
+
+(b)
+ Location of Center
+The Secretary shall support the establishment of the Center at an institution of higher education that has—
+(1)
+ expertise in providing degree programs in electric power generation, transmission, and distribution technologies;
+
+
+
+
+(2)
+ expertise in providing onsite and Internet-based training; and
+
+
+
+
+(3)
+ demonstrated responsiveness to workforce and training requirements in the electric power industry.
+
+
+
+
+(c)
+ Training and continuing education
+(1)
+ In general
+The Center shall provide training and continuing education in electric power generation, transmission, and distribution technologies and operations.
+
+
+
+
+
+
+(2)
+ Location
+The Center shall carry out training and education activities under paragraph (1)—
+(A)
+ at the Center; and
+
+
+
+
+(B)
+ through Internet-based information technologies that allow for learning at remote sites.
+
+
+
+
+
+
+ Energy production incentives
+(a)
+ In general
+A State may provide to any entity—
+(1)
+ a credit against any tax or fee owed to the State under a State law, or
+
+
+
+
+(2)
+ any other tax incentive,
+
+
+
+
+
+determined by the State to be appropriate, in the amount calculated under and in accordance with a formula determined by the State, for production described in subsection (b) in the State by the entity that receives such credit or such incentive.
+
+
+(b)
+ Eligible entities
+Subsection (a) shall apply with respect to the production in the State of electricity from coal mined in the State and used in a facility, if such production meets all applicable Federal and State laws and if such facility uses scrubbers or other forms of clean coal technology.
+
+
+
+
+(c)
+ Effect on interstate commerce
+Any action taken by a State in accordance with this section with respect to a tax or fee payable, or incentive applicable, for any period beginning after 
+August 8, 2005
+, shall—
+(1)
+ be considered to be a reasonable regulation of commerce; and
+
+
+
+
+(2)
+ not be considered to impose an undue burden on interstate commerce or to otherwise impair, restrain, or discriminate, against interstate commerce.
+
+
+
+
+ Regulation of certain oil used in transformers
+Notwithstanding any other provision of law, or rule promulgated by the Environmental Protection Agency, vegetable oil made from soybeans and used in electric transformers as thermal insulation shall not be regulated as an oil identified under 
+ National Priority Project Designation
+(a)
+ Designation of National Priority Projects
+(1)
+ In general
+There is established the National Priority Project Designation (referred to in this section as the “Designation”), which shall be evidenced by a medal bearing the inscription “National Priority Project”.
+
+
+
+
+
+
+(2)
+ Design and materials
+The medal shall be of such design and materials and bear such additional inscriptions as the President may prescribe.
+
+
+
+
+
+
+(b)
+ Making and presentation of Designation
+(1)
+ In general
+The President, on the basis of recommendations made by the Secretary, shall annually designate organizations that have—
+(A)
+ advanced the field of renewable energy technology and contributed to North American energy independence; and
+
+
+
+
+(B)
+ been certified by the Secretary under subsection (e).
+
+
+
+
+
+
+(2)
+ Presentation
+The President shall designate projects with such ceremonies as the President may prescribe.
+
+
+
+
+
+
+(3)
+ Use of Designation
+An organization that receives a Designation under this section may publicize the Designation of the organization as a National Priority Project in advertising.
+
+
+
+
+
+
+(4)
+ Categories in which the Designation may be given
+Separate Designations shall be made to qualifying projects in each of the following categories:
+(A)
+ Wind and biomass energy generation projects.
+
+
+
+
+(B)
+ Photovoltaic and fuel cell energy generation projects.
+
+
+
+
+(C)
+ Energy efficient building and renewable energy projects.
+
+
+
+
+(D)
+ First-in-Class projects.
+
+
+
+
+
+
+(c)
+ Selection criteria
+(1)
+ In general
+Certification and selection of the projects to receive the Designation shall be based on criteria established under this subsection.
+
+
+
+
+
+
+(2)
+ Wind, biomass, and building projects
+In the case of a wind, biomass, or building project, the project shall demonstrate that the project will install not less than 30 megawatts of renewable energy generation capacity.
+
+
+
+
+
+
+(3)
+ Solar photovoltaic and fuel cell projects
+In the case of a solar photovoltaic or fuel cell project, the project shall demonstrate that the project will install not less than 3 megawatts of renewable energy generation capacity.
+
+
+
+
+
+
+(4)
+ Energy efficient building and renewable energy projects
+In the case of an energy efficient building or renewable energy project, in addition to meeting the criteria established under paragraph (2), each building project shall demonstrate that the project will—
+(A)
+ comply with third-party certification standards for high-performance, sustainable buildings;
+
+
+
+
+(B)
+ use whole-building integration of energy efficiency and environmental performance design and technology, including advanced building controls;
+
+
+
+
+(C)
+ use renewable energy for at least 50 percent of the energy consumption of the project;
+
+
+
+
+(D)
+ comply with applicable Energy Star standards; and
+
+
+
+
+(E)
+ include at least 5,000,000 square feet of enclosed space.
+
+
+
+
+
+
+(5)
+ First-in-Class use
+Notwithstanding paragraphs (2) through (4), a new building project may qualify under this section if the Secretary determines that the project—
+(A)
+ represents a First-In-Class use of renewable energy; or
+
+
+
+
+(B)
+ otherwise establishes a new paradigm of building integrated renewable energy use or energy efficiency.
+
+
+
+
+
+
+(d)
+ Application
+(1)
+ Initial applications
+No later than 120 days after 
+August 8, 2005
+, and annually thereafter, the Secretary shall publish in the Federal Register an invitation and guidelines for submitting applications, consistent with this section.
+
+
+
+
+
+
+(2)
+ Contents
+The application shall describe the project, or planned project, and the plans to meet the criteria established under subsection (c).
+
+
+
+
+
+
+(e)
+ Certification
+(1)
+ In general
+Not later than 60 days after the application period described in subsection (d), and annually thereafter, the Secretary shall certify projects that are reasonably expected to meet the criteria established under subsection (c).
+
+
+
+
+
+
+(2)
+ Certified projects
+The Secretary shall designate personnel of the Department to work with persons carrying out each certified project and ensure that the personnel—
+(A)
+ provide each certified project with guidance in meeting the criteria established under subsection (c);
+
+
+
+
+(B)
+ identify programs of the Department, including National Laboratories and Technology Centers, that will assist each project in meeting the criteria established under subsection (c); and
+
+
+
+
+(C)
+ ensure that knowledge and transfer of the most current technology between the applicable resources of the Federal Government (including the National Laboratories and Technology Centers, the Department, and the Environmental Protection Agency) and the certified projects is being facilitated to accelerate commercialization of work developed through those resources.
+
+
+
+
+
+
+(f)
+ Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2010.
+
+
+
+
+ Oxygen-fuel
+(a)
+ Program
+The Secretary shall establish a program on oxygen-fuel systems. If feasible, the program shall include renovation of at least one existing large unit and one existing small unit, and construction of one new large unit and one new small unit.
+
+
+
+
+(b)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this section—
+(1)
+ $100,000,000 for fiscal year 2006;
+
+
+
+
+(2)
+ $100,000,000 for fiscal year 2007; and
+
+
+
+
+(3)
+ $100,000,000 for fiscal year 2008.
+
+
+
+
+(c)
+ Definitions
+For purposes of this section—
+(1)
+ the term “large unit” means a unit with a generating capacity of 100 megawatts or more;
+
+
+
+
+(2)
+ the term “oxygen-fuel systems” means systems that utilize fuel efficiency benefits of oil, gas, coal, and biomass combustion using substantially pure oxygen, with high flame temperatures and the exclusion of air from the boiler, in industrial or electric utility steam generating units; and
+
+
+
+
+(3)
+ the term “small unit” means a unit with a generating capacity in the 10–50 megawatt range.
+
+
+
+
+ Commercial byproducts from municipal solid waste and cellulosic biomass loan guarantee program
+(a)
+ Definition of municipal solid waste
+In this section, the term “municipal solid waste” has the meaning given the term “solid waste” in 
+section 6903 of this title
+.
+
+
+
+
+(b)
+ Establishment of program
+The Secretary shall establish a program to provide guarantees of loans by private institutions for the construction of facilities for the processing and conversion of municipal solid waste and cellulosic biomass into fuel ethanol and other commercial byproducts.
+
+
+
+
+(c)
+ Requirements
+The Secretary may provide a loan guarantee under subsection (b) to an applicant if—
+(1)
+ without a loan guarantee, credit is not available to the applicant under reasonable terms or conditions sufficient to finance the construction of a facility described in subsection (b);
+
+
+
+
+(2)
+ the prospective earning power of the applicant and the character and value of the security pledged provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with the terms of the loan; and
+
+
+
+
+(3)
+ the loan bears interest at a rate determined by the Secretary to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan.
+
+
+
+
+(d)
+ Criteria
+In selecting recipients of loan guarantees from among applicants, the Secretary shall give preference to proposals that—
+(1)
+ meet all applicable Federal and State permitting requirements;
+
+
+
+
+(2)
+ are most likely to be successful; and
+
+
+
+
+(3)
+ are located in local markets that have the greatest need for the facility because of—
+(A)
+ the limited availability of land for waste disposal;
+
+
+
+
+(B)
+ the availability of sufficient quantities of cellulosic biomass; or
+
+
+
+
+(C)
+ a high level of demand for fuel ethanol or other commercial byproducts of the facility.
+
+
+
+
+
+
+(e)
+ Maturity
+A loan guaranteed under subsection (b) shall have a maturity of not more than 20 years.
+
+
+
+
+(f)
+ Terms and conditions
+The loan agreement for a loan guaranteed under subsection (b) shall provide that no provision of the loan agreement may be amended or waived without the consent of the Secretary.
+
+
+
+
+(g)
+ Assurance of repayment
+The Secretary shall require that an applicant for a loan guarantee under subsection (b) provide an assurance of repayment in the form of a performance bond, insurance, collateral, or other means acceptable to the Secretary in an amount equal to not less than 20 percent of the amount of the loan.
+
+
+
+
+(h)
+ Guarantee fee
+The recipient of a loan guarantee under subsection (b) shall pay the Secretary an amount determined by the Secretary to be sufficient to cover the administrative costs of the Secretary relating to the loan guarantee.
+
+
+
+
+(i)
+ Full faith and credit
+The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the loan for the guarantee with respect to principal and interest. The validity of the guarantee shall be incontestable in the hands of a holder of the guaranteed loan.
+
+
+
+
+(j)
+ Reports
+Until each guaranteed loan under this section has been repaid in full, the Secretary shall annually submit to Congress a report on the activities of the Secretary under this section.
+
+
+
+
+(k)
+ Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+
+
+
+(l)
+ Termination of authority
+The authority of the Secretary to issue a loan guarantee under subsection (b) terminates on the date that is 10 years after 
+August 8, 2005
+.
+
+
+
+
+ Advanced Biofuel Technologies Program
+(a)
+ In general
+Subject to the availability of appropriations under subsection (d), the Administrator of the Environmental Protection Agency shall, in consultation with the Secretary of Agriculture and the Biomass Research and Development Technical Advisory Committee established under section 8605 
+1
+1
+ See References in Text note below.
+ of title 7, establish a program, to be known as the “Advanced Biofuel Technologies Program”, to demonstrate advanced technologies for the production of alternative transportation fuels.
+
+
+
+
+(b)
+ Priority
+In carrying out the program under subsection (a), the Administrator shall give priority to projects that enhance the geographical diversity of alternative fuels production and utilize feedstocks that represent 10 percent or less of ethanol or biodiesel fuel production in the United States during the previous fiscal year.
+
+
+
+
+(c)
+ Demonstration projects
+(1)
+ In general
+As part of the program under subsection (a), the Administrator shall fund demonstration projects—
+(A)
+ to develop not less than 4 different conversion technologies for producing cellulosic biomass ethanol; and
+
+
+
+
+(B)
+ to develop not less than 5 technologies for coproducing value-added bioproducts (such as fertilizers, herbicides, and pesticides) resulting from the production of biodiesel fuel.
+
+
+
+
+
+
+(2)
+ Administration
+Demonstration projects under this subsection shall be—
+(A)
+ conducted based on a merit-reviewed, competitive process; and
+
+
+
+
+(B)
+ subject to the cost-sharing requirements of 
+section 16352 of this title
+.
+
+
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated to carry out this section $110,000,000 for each of fiscal years 2005 through 2009.
+
+
+
+
+ Sugar ethanol loan guarantee program
+(a)
+ In general
+Funds may be provided for the cost (as defined in 
+section 661a of title 2
+) of loan guarantees issued under title XIV 
+1
+1
+ See References in Text note below.
+ to carry out commercial demonstration projects for ethanol derived from sugarcane, bagasse, and other sugarcane byproducts.
+
+
+
+
+(b)
+ Demonstration projects
+The Secretary may issue loan guarantees under this section to projects to demonstrate commercially the feasibility and viability of producing ethanol using sugarcane, sugarcane bagasse, and other sugarcane byproducts as a feedstock.
+
+
+
+
+(c)
+ Requirements
+An applicant for a loan guarantee under this section may provide assurances, satisfactory to the Secretary, that—
+(1)
+ the project design has been validated through the operation of a continuous process facility;
+
+
+
+
+(2)
+ the project has been subject to a full technical review;
+
+
+
+
+(3)
+ the project, with the loan guarantee, is economically viable; and
+
+
+
+
+(4)
+ there is a reasonable assurance of repayment of the guaranteed loan.
+
+
+
+
+(d)
+ Limitations
+(1)
+ Maximum guarantee
+Except as provided in paragraph (2), a loan guarantee under this section—
+(A)
+ may be issued for up to 80 percent of the estimated cost of a project; but
+
+
+
+
+(B)
+ shall not exceed $50,000,000 for any 1 project.
+
+
+
+
+
+
+(2)
+ Additional guarantees
+(A)
+ In general
+The Secretary may issue additional loan guarantees for a project to cover—
+(i)
+ up to 80 percent of the excess of actual project costs; but
+
+
+
+
+(ii)
+ not to exceed 15 percent of the amount of the original loan guarantee.
+
+
+
+
+
+
+(B)
+ Principal and interest
+Subject to subparagraph (A), the Secretary shall guarantee 100 percent of the principal and interest of a loan guarantee made under subparagraph (A).
+
+
+
+
+
+
+
+
+ Definitions
+ Terms and conditions
+(a)
+ In general
+Except for division C of 
+Public Law 108–324
+ [
+15 U.S.C. 720
+ et seq.], the Secretary shall make guarantees under this or any other Act for projects on such terms and conditions as the Secretary determines, after consultation with the Secretary of the Treasury, only in accordance with this section.
+
+
+
+
+(b)
+ Specific appropriation or contribution
+(1)
+ 
+1
+1
+ So in original. No par. (2) has been enacted.
+ In general
+No guarantee shall be made unless—
+(A)
+ an appropriation for the cost of the guarantee has been made;
+
+
+
+
+(B)
+ the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
+
+
+
+
+(C)
+ a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower under subparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
+
+
+
+
+
+
+(c)
+ Amount
+Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
+
+
+
+
+(d)
+ Repayment
+(1)
+ In general
+No guarantee shall be made unless the Secretary determines that there is reasonable prospect of repayment of the principal and interest on the obligation by the borrower.
+
+
+
+
+
+
+(2)
+ Amount
+No guarantee shall be made unless the Secretary determines that the amount of the obligation (when combined with amounts available to the borrower from other sources) will be sufficient to carry out the project.
+
+
+
+
+
+
+(3)
+ Subordination
+The obligation shall be subject to the condition that the obligation is not subordinate to other financing.
+
+
+
+
+
+
+(e)
+ Interest rate
+An obligation shall bear interest at a rate that does not exceed a level that the Secretary determines appropriate, taking into account the prevailing rate of interest in the private sector for similar loans and risks.
+
+
+
+
+(f)
+ Term
+The term of an obligation shall require full repayment over a period not to exceed the lesser of—
+(1)
+ 30 years; or
+
+
+
+
+(2)
+ 90 percent of the projected useful life of the physical asset to be financed by the obligation (as determined by the Secretary).
+
+
+
+
+(g)
+ Defaults
+(1)
+ Payment by Secretary
+(A)
+ In general
+If a borrower defaults on the obligation (as defined in regulations promulgated by the Secretary and specified in the guarantee contract), the holder of the guarantee shall have the right to demand payment of the unpaid amount from the Secretary.
+
+
+
+
+
+
+(B)
+ Payment required
+Within such period as may be specified in the guarantee or related agreements, the Secretary shall pay to the holder of the guarantee the unpaid interest on, and unpaid principal of the obligation as to which the borrower has defaulted, unless the Secretary finds that there was no default by the borrower in the payment of interest or principal or that the default has been remedied.
+
+
+
+
+
+
+(C)
+ Forbearance
+Nothing in this subsection precludes any forbearance by the holder of the obligation for the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
+
+
+
+
+
+
+
+
+(2)
+ Subrogation
+(A)
+ In general
+If the Secretary makes a payment under paragraph (1), the Secretary shall be subrogated to the rights of the recipient of the payment as specified in the guarantee or related agreements including, where appropriate, the authority (notwithstanding any other provision of law) to—
+(i)
+ complete, maintain, operate, lease, or otherwise dispose of any property acquired pursuant to such guarantee or related agreements; or
+
+
+
+
+(ii)
+ permit the borrower, pursuant to an agreement with the Secretary, to continue to pursue the purposes of the project if the Secretary determines this to be in the public interest.
+
+
+
+
+
+
+(B)
+ Superiority of rights
+The rights of the Secretary, with respect to any property acquired pursuant to a guarantee or related agreements, shall be superior to the rights of any other person with respect to the property.
+
+
+
+
+
+
+(C)
+ Terms and conditions
+A guarantee agreement shall include such detailed terms and conditions as the Secretary determines appropriate to—
+(i)
+ protect the interests of the United States in the case of default; and
+
+
+
+
+(ii)
+ have available all the patents and technology necessary for any person selected, including the Secretary, to complete and operate the project.
+
+
+
+
+
+
+
+
+(3)
+ Payment of principal and interest by Secretary
+With respect to any obligation guaranteed under this section, the Secretary may enter into a contract to pay, and pay, holders of the obligation, for and on behalf of the borrower, from funds appropriated for that purpose, the principal and interest payments which become due and payable on the unpaid balance of the obligation if the Secretary finds that—
+(A)
+(i)
+ the borrower is unable to meet the payments and is not in default;
+
+
+
+
+(ii)
+ it is in the public interest to permit the borrower to continue to pursue the purposes of the project; and
+
+
+
+
+(iii)
+ the probable net benefit to the Federal Government in paying the principal and interest will be greater than that which would result in the event of a default;
+
+
+
+
+
+
+(B)
+ the amount of the payment that the Secretary is authorized to pay shall be no greater than the amount of principal and interest that the borrower is obligated to pay under the agreement being guaranteed; and
+
+
+
+
+(C)
+ the borrower agrees to reimburse the Secretary for the payment (including interest) on terms and conditions that are satisfactory to the Secretary.
+
+
+
+
+
+
+(4)
+ Action by Attorney General
+(A)
+ Notification
+If the borrower defaults on an obligation, the Secretary shall notify the Attorney General of the default.
+
+
+
+
+
+
+(B)
+ Recovery
+On notification, the Attorney General shall take such action as is appropriate to recover the unpaid principal and interest due from—
+(i)
+ such assets of the defaulting borrower as are associated with the obligation; or
+
+
+
+
+(ii)
+ any other security pledged to secure the obligation.
+
+
+
+
+
+
+
+
+(h)
+ Fees
+(1)
+ In general
+The Secretary shall charge and collect fees for guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
+
+
+
+
+
+
+(2)
+ Availability
+Fees collected under this subsection shall—
+(A)
+ be deposited by the Secretary into the Treasury; and
+
+
+
+
+(B)
+ remain available until expended, subject to such other conditions as are contained in annual appropriations Acts.
+
+
+
+
+
+
+(i)
+ Records; audits
+(1)
+ In general
+A recipient of a guarantee shall keep such records and other pertinent documents as the Secretary shall prescribe by regulation, including such records as the Secretary may require to facilitate an effective audit.
+
+
+
+
+
+
+(2)
+ Access
+The Secretary and the Comptroller General of the United States, or their duly authorized representatives, shall have access, for the purpose of audit, to the records and other pertinent documents.
+
+
+
+
+
+
+(j)
+ Full faith and credit
+The full faith and credit of the United States is pledged to the payment of all guarantees issued under this section with respect to principal and interest.
+
+
+
+
+(k)
+ Wage rate requirements
+All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (
+64 Stat. 1267
+; 5 U.S.C. App.) and 
+section 3145 of title 40
+.
+
+
+
+
+ Eligible projects
+(a)
+ In general
+The Secretary may make guarantees under this section only for projects that—
+(1)
+ avoid, reduce, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
+
+
+
+
+(2)
+ employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued.
+
+
+
+
+(b)
+ Categories
+Projects from the following categories shall be eligible for a guarantee under this section:
+(1)
+ Renewable energy systems.
+
+
+
+
+(2)
+ Advanced fossil energy technology (including coal gasification meeting the criteria in subsection (d)).
+
+
+
+
+(3)
+ Hydrogen fuel cell technology for residential, industrial, or transportation applications.
+
+
+
+
+(4)
+ Advanced nuclear energy facilities.
+
+
+
+
+(5)
+ Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon.
+
+
+
+
+(6)
+ Efficient electrical generation, transmission, and distribution technologies.
+
+
+
+
+(7)
+ Efficient end-use energy technologies.
+
+
+
+
+(8)
+ Production facilities for the manufacture of fuel efficient vehicles or parts of those vehicles, including electric drive vehicles and advanced diesel vehicles.
+
+
+
+
+(9)
+ Pollution control equipment.
+
+
+
+
+(10)
+ Refineries, meaning facilities at which crude oil is refined into gasoline.
+
+
+
+
+(c)
+ Gasification projects
+The Secretary may make guarantees for the following gasification projects:
+(1)
+ Integrated gasification combined cycle projects
+Integrated gasification combined cycle plants meeting the emission levels under subsection (d), including—
+(A)
+ projects for the generation of electricity—
+(i)
+ for which, during the term of the guarantee—
+(I)
+ coal, biomass, petroleum coke, or a combination of coal, biomass, and petroleum coke will account for at least 65 percent of annual heat input; and
+
+
+
+
+(II)
+ electricity will account for at least 65 percent of net useful annual energy output;
+
+
+
+
+
+
+(ii)
+ that have a design that is determined by the Secretary to be capable of accommodating the equipment likely to be necessary to capture the carbon dioxide that would otherwise be emitted in flue gas from the plant;
+
+
+
+
+(iii)
+ that have an assured revenue stream that covers project capital and operating costs (including servicing all debt obligations covered by the guarantee) that is approved by the Secretary and the relevant State public utility commission; and
+
+
+
+
+(iv)
+ on which construction commences not later than the date that is 3 years after the date of the issuance of the guarantee;
+
+
+
+
+
+
+(B)
+ a project to produce energy from coal (of not more than 13,000 Btu/lb and mined in the western United States) using appropriate advanced integrated gasification combined cycle technology that minimizes and offers the potential to sequester carbon dioxide emissions and that—
+(i)
+ may include repowering of existing facilities;
+
+
+
+
+(ii)
+ may be built in stages;
+
+
+
+
+(iii)
+ shall have a combined output of at least 100 megawatts;
+
+
+
+
+(iv)
+ shall be located in a western State at an altitude greater than 4,000 feet; and
+
+
+
+
+(v)
+ shall demonstrate the ability to use coal with an energy content of not more than 9,000 Btu/lb;
+
+
+
+
+
+
+(C)
+ a project located in a taconite-producing region of the United States that is entitled under the law of the State in which the plant is located to enter into a long-term contract approved by a State public utility commission to sell at least 450 megawatts of output to a utility;
+
+
+
+
+(D)
+ facilities that—
+(i)
+ generate one or more hydrogen-rich and carbon monoxide-rich product streams from the gasification of coal or coal waste; and
+
+
+
+
+(ii)
+ use those streams to facilitate the production of ultra clean premium fuels through the Fischer-Tropsch process; and
+
+
+
+
+
+
+(E)
+ a project to produce energy and clean fuels, using appropriate coal liquefaction technology, from Western bituminous or subbituminous coal, that—
+(i)
+ is owned by a State government; and
+
+
+
+
+(ii)
+ may include tribal and private coal resources.
+
+
+
+
+
+
+
+
+(2)
+ Industrial gasification projects
+Facilities that gasify coal, biomass, or petroleum coke in any combination to produce synthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
+
+
+
+
+
+
+(3)
+ Petroleum coke gasification projects
+The Secretary is encouraged to make loan guarantees under this subchapter available for petroleum coke gasification projects.
+
+
+
+
+
+
+(4)
+ Liquefaction project
+Notwithstanding any other provision of law, funds awarded under the Department of Energy’s Clean Coal Power Initiative for Fischer-Tropsch coal-to-oil liquefaction projects may be used to finance the cost of loan guarantees for projects awarded such funds.
+
+
+
+
+
+
+(d)
+ Emission levels
+In addition to any other applicable Federal or State emission limitation requirements, a project shall attain at least—
+(1)
+ total sulfur dioxide emissions in flue gas from the project that do not exceed 0.05 lb/MMBtu;
+
+
+
+
+(2)
+ a 90-percent removal rate (including any fuel pretreatment) of mercury from the coal-derived gas, and any other fuel, combusted by the project;
+
+
+
+
+(3)
+ total nitrogen oxide emissions in the flue gas from the project that do not exceed 0.08 lb/MMBtu; and
+
+
+
+
+(4)
+ total particulate emissions in the flue gas from the project that do not exceed 0.01 lb/MMBtu.
+
+
+
+
+(e)
+ Qualification of facilities receiving tax credits
+A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
+
+
+
+
+ Authorization of appropriations
+(a)
+ In general
+There are authorized to be appropriated such sums as are necessary to provide the cost of guarantees under this subchapter.
+
+
+
+
+(b)
+ Use of other appropriated funds
+The Department may use amounts awarded under the Clean Coal Power Initiative to carry out the project described in 
+section 16513(c)(1)(C) of this title
+, on the request of the recipient of such award, for a loan guarantee, to the extent that the amounts have not yet been disbursed to, or have been repaid by, the recipient.
+
+
+
+
+ Limitation on commitments to guarantee loans
+(a)
+ Notwithstanding section 101,
+1
+1
+ See References in Text note below.
+ subject to the Federal Credit Reform Act of 1990, as amended [
+2 U.S.C. 661
+ et seq.], commitments to guarantee loans under title XVII of the Energy Policy Act of 2005 [
+42 U.S.C. 16501
+ et seq.] shall not exceed a total principal amount, any part of which is to be guaranteed, of $4,000,000,000: 
+Provided
+, That there are appropriated for the cost of the guaranteed loans such sums as are hereafter derived from amounts received from borrowers pursuant to 
+section 16512(b)(2) of this title
+, to remain available until expended: 
+Provided further
+, That the source of payments received from borrowers for the subsidy cost shall not be a loan or other debt obligation that is made or guaranteed by the Federal government.
+2
+2
+ So in original. Probably should be capitalized.
+ In addition, fees collected pursuant to 
+section 16512(h) of this title
+ in fiscal year 2007 shall be credited as offsetting collections to the Departmental Administration account for administrative expenses of the Loan Guarantee Program: 
+Provided further
+, That the sum appropriated for administrative expenses for the Loan Guarantee Program shall be reduced by the amount of fees received during fiscal year 2007: 
+Provided further
+, That any fees collected under 
+section 16512(h) of this title
+ in excess of the amount appropriated for administrative expenses shall not be available until appropriated.
+
+
+(b)
+ No loan guarantees may be awarded under title XVII of the Energy Policy Act of 2005 [
+42 U.S.C. 16501
+ et seq.] until final regulations are issued that include—
+(1)
+ programmatic, technical, and financial factors the Secretary will use to select projects for loan guarantees;
+
+
+
+
+(2)
+ policies and procedures for selecting and monitoring lenders and loan performance; and
+
+
+
+
+(3)
+ any other policies, procedures, or information necessary to implement title XVII of the Energy Policy Act of 2005.
+
+
+
+
+(c)
+ The Secretary of Energy shall enter into an arrangement with an independent auditor for annual evaluations of the program under title XVII of the Energy Policy Act of 2005 [
+42 U.S.C. 16501
+ et seq.]. In addition to the independent audit, the Comptroller General shall conduct a review every three years of the Department’s execution of the program under title XVII of the Energy Policy Act of 2005. The results of the independent audit and the Comptroller General’s review shall be provided directly to the Committees on Appropriations of the House of Representatives and the Senate.
+
+
+(d)
+ The Secretary of Energy shall promulgate final regulations for loan guarantees under title XVII of the Energy Policy Act of 2005 [
+42 U.S.C. 16501
+ et seq.] within 6 months of 
+February 15, 2007
+.
+
+
+(e)
+ Not later than 120 days after 
+February 15, 2007
+, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 [
+42 U.S.C. 16501
+ et seq.], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under this subchapter, describing the technologies, amount of loan guarantee sought, and the applicants’ assessment of risk.
+
+
+ Temporary program for rapid deployment of renewable energy and electric power transmission projects
+(a)
+ In general
+Notwithstanding 
+section 16513 of this title
+, the Secretary may make guarantees under this section only for the following categories of projects that commence construction not later than 
+September 30, 2011
+:
+(1)
+ Renewable energy systems, including incremental hydropower, that generate electricity or thermal energy, and facilities that manufacture related components.
+
+
+
+
+(2)
+ Electric power transmission systems, including upgrading and reconductoring projects.
+
+
+
+
+(3)
+ Leading edge biofuel projects that will use technologies performing at the pilot or demonstration scale that the Secretary determines are likely to become commercial technologies and will produce transportation fuels that substantially reduce life-cycle greenhouse gas emissions compared to other transportation fuels.
+
+
+
+
+(b)
+ Factors relating to electric power transmission systems
+In determining to make guarantees to projects described in subsection (a)(2), the Secretary may consider the following factors:
+(1)
+ The viability of the project without guarantees.
+
+
+
+
+(2)
+ The availability of other Federal and State incentives.
+
+
+
+
+(3)
+ The importance of the project in meeting reliability needs.
+
+
+
+
+(4)
+ The effect of the project in meeting a State or region’s environment (including climate change) and energy goals.
+
+
+
+
+(c)
+ Wage rate requirements
+The Secretary shall require that each recipient of support under this section provide reasonable assurance that all laborers and mechanics employed in the performance of the project for which the assistance is provided, including those employed by contractors or subcontractors, will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of part A of subtitle II of title 40 (commonly referred to as the “Davis-Bacon Act”).
+
+
+
+
+(d)
+ Limitation
+Funding under this section for projects described in subsection (a)(3) shall not exceed $500,000,000.
+
+
+
+
+(e)
+ Sunset
+The authority to enter into guarantees under this section shall expire on 
+September 30, 2011
+.
+
+
+
+
+ Report on energy integration with Latin America
+The Secretary shall submit an annual report to the Committee on Energy and Commerce of the United States House of Representatives and to the Committee on Energy and Natural Resources of the Senate concerning the status of energy export development in Latin America and efforts by the Secretary and other departments and agencies of the United States to promote energy integration with Latin America. The report shall contain a detailed analysis of the status of energy export development in Mexico and a description of all significant efforts by the Secretary and other departments and agencies to promote a constructive relationship with Mexico regarding the development of that nation’s energy capacity. In particular this report shall outline efforts the Secretary and other departments and agencies have made to ensure that regulatory approval and oversight of United States/Mexico border projects that result in the expansion of Mexican energy capacity are effectively coordinated across departments and with the Mexican government.
+ Low-volume gas reservoir study
+(a)
+ Study
+The Secretary shall make a grant to an organization of oil and gas producing States, specifically those containing significant numbers of marginal oil and natural gas wells, for conducting an annual study of low-volume natural gas reservoirs. Such organization shall work with the State geologist of each State being studied.
+
+
+
+
+(b)
+ Contents
+The studies under this section shall—
+(1)
+ determine the status and location of marginal wells and gas reservoirs;
+
+
+
+
+(2)
+ gather the production information of these marginal wells and reservoirs;
+
+
+
+
+(3)
+ estimate the remaining producible reserves based on variable pipeline pressures;
+
+
+
+
+(4)
+ locate low-pressure gathering facilities and pipelines;
+
+
+
+
+(5)
+ recommend incentives which will enable the continued production of these resources;
+
+
+
+
+(6)
+ produce maps and literature to disseminate to States to promote conservation of natural gas reserves; and
+
+
+
+
+(7)
+ evaluate the amount of natural gas that is being wasted through the practice of venting or flaring of natural gas produced in association with crude oil well production.
+
+
+
+
+(c)
+ Data analysis
+Data development and analysis under this section shall be performed by an institution of higher education with GIS capabilities. If the organization receiving the grant under subsection (a) does not have GIS capabilities, such organization shall contract with one or more entities with—
+(1)
+ technological capabilities and resources to perform advanced image processing, GIS programming, and data analysis; and
+
+
+
+
+(2)
+ the ability to—
+(A)
+ process remotely sensed imagery with high spatial resolution;
+
+
+
+
+(B)
+ deploy global positioning systems;
+
+
+
+
+(C)
+ process and synthesize existing, variable-format gas well, pipeline, gathering facility, and reservoir data;
+
+
+
+
+(D)
+ create and query GIS databases with infrastructure location and attribute information;
+
+
+
+
+(E)
+ write computer programs to customize relevant GIS software;
+
+
+
+
+(F)
+ generate maps, charts, and graphs which summarize findings from data research for presentation to different audiences; and
+
+
+
+
+(G)
+ deliver data in a variety of formats, including Internet Map Server for query and display, desktop computer display, and access through handheld personal digital assistants.
+
+
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this section—
+(1)
+ $1,500,000 for fiscal year 2006; and
+
+
+
+
+(2)
+ $450,000 for each of the fiscal years 2007 through 2010.
+
+
+
+
+(e)
+ Definitions
+For purposes of this section, the term “GIS” means geographic information systems technology that facilitates the organization and management of data with a geographic component.
+
+
+
+
+ Alaska natural gas pipeline
+ Study on the benefits of economic dispatch
+(a)
+ Study
+The Secretary, in coordination and consultation with the States, shall conduct a study on—
+(1)
+ the procedures currently used by electric utilities to perform economic dispatch;
+
+
+
+
+(2)
+ identifying possible revisions to those procedures to improve the ability of nonutility generation resources to offer their output for sale for the purpose of inclusion in economic dispatch; and
+
+
+
+
+(3)
+ the potential benefits to residential, commercial, and industrial electricity consumers nationally and in each state 
+1
+1
+ So in original. Probably should be capitalized.
+ if economic dispatch procedures were revised to improve the ability of nonutility generation resources to offer their output for inclusion in economic dispatch.
+
+
+
+
+(b)
+ Definition
+The term “economic dispatch” when used in this section means the operation of generation facilities to produce energy at the lowest cost to reliably serve consumers, recognizing any operational limits of generation and transmission facilities.
+
+
+
+
+(c)
+ Report to Congress and the States
+Not later than 90 days after 
+August 8, 2005
+, and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
+
+
+
+
+ Definitions
+ Nuclear science talent expansion program for institutions of higher education
+(a)
+ Purposes
+The purposes of this section are—
+(1)
+ to address the decline in the number of and resources available to nuclear science programs at institutions of higher education; and
+
+
+
+
+(2)
+ to increase the number of graduates with degrees in nuclear science, an area of strategic importance to the economic competitiveness and energy security of the United States.
+
+
+
+
+(b)
+ Definition of nuclear science
+In this section, the term “nuclear science” includes—
+(1)
+ nuclear science;
+
+
+
+
+(2)
+ nuclear engineering;
+
+
+
+
+(3)
+ nuclear chemistry;
+
+
+
+
+(4)
+ radio chemistry; and
+
+
+
+
+(5)
+ health physics.
+
+
+
+
+(c)
+ Establishment
+The Secretary shall establish, in accordance with this section, a program to expand and enhance institution of higher education nuclear science educational capabilities.
+
+
+
+
+(d)
+ Nuclear science program expansion grants for institutions of higher education
+(1)
+ In general
+The Secretary shall award up to 3 competitive grants for each fiscal year to institutions of higher education that establish new academic degree programs in nuclear science.
+
+
+
+
+
+
+(2)
+ Priority
+In evaluating grants under this subsection, the Secretary shall give priority to proposals that involve partnerships with a National Laboratory or other eligible nuclear-related entity, as determined by the Secretary.
+
+
+
+
+
+
+(3)
+ Criteria
+Criteria for a grant awarded under this subsection shall be based on—
+(A)
+ the potential to attract new students to the program;
+
+
+
+
+(B)
+ academic rigor; and
+
+
+
+
+(C)
+ the ability to offer hands-on learning opportunities.
+
+
+
+
+
+
+(4)
+ Duration and amount
+(A)
+ Duration
+A grant under this subsection may be up to 5 years in duration.
+
+
+
+
+
+
+(B)
+ Amount
+An institution of higher education that receives a grant under this subsection shall be eligible for up to $1,000,000 for each year of the grant period.
+
+
+
+
+
+
+
+
+(5)
+ Use of funds
+An institution of higher education that receives a grant under this subsection may use the grant to—
+(A)
+ recruit and retain new faculty;
+
+
+
+
+(B)
+ develop core and specialized course content;
+
+
+
+
+(C)
+ encourage collaboration between faculty and researchers in the nuclear science field; and
+
+
+
+
+(D)
+ support outreach efforts to recruit students.
+
+
+
+
+
+
+(e)
+ Nuclear science competitiveness grants for institutions of higher education
+(1)
+ In general
+The Secretary shall award up to 5 competitive grants for each fiscal year to institutions of higher education with existing academic degree programs that produce graduates in nuclear science.
+
+
+
+
+
+
+(2)
+ Criteria
+Criteria for a grant awarded under this subsection shall be based on the potential for increasing the number and academic quality of graduates in the nuclear sciences who enter into careers in nuclear-related fields.
+
+
+
+
+
+
+(3)
+ Duration and amount
+(A)
+ Duration
+A grant under this subsection may be up to 5 years in duration.
+
+
+
+
+
+
+(B)
+ Amount
+An institution of higher education that receives a grant under this subsection shall be eligible for up to $500,000 for each year of the grant period.
+
+
+
+
+
+
+
+
+(4)
+ Use of funds
+An institution of higher education that receives a grant under this subsection may use the grant to—
+(A)
+ increase the number of graduates in nuclear science that enter into careers in the nuclear science field;
+
+
+
+
+(B)
+ enhance the teaching of advanced nuclear technologies;
+
+
+
+
+(C)
+ aggressively pursue collaboration opportunities with industry and National Laboratories;
+
+
+
+
+(D)
+ bolster or sustain nuclear infrastructure and research facilities of the institution of higher education, such as research and training reactors or laboratories; and
+
+
+
+
+(E)
+ provide tuition assistance and stipends to undergraduate and graduate students.
+
+
+
+
+
+
+(f)
+ Authorization of appropriations
+(1)
+ Nuclear science program expansion grants for institutions of higher education
+There are authorized to be appropriated to carry out subsection (d)—
+(A)
+ $3,500,000 for fiscal year 2008;
+
+
+
+
+(B)
+ $6,500,000 for fiscal year 2009;
+
+
+
+
+(C)
+ $9,500,000 for fiscal year 2010;
+
+
+
+
+(D)
+ $9,800,000 for fiscal year 2011;
+
+
+
+
+(E)
+ $10,100,000 for fiscal year 2012; and
+
+
+
+
+(F)
+ $10,400,000 for fiscal year 2013.
+
+
+
+
+
+
+(2)
+ Nuclear science competitiveness grants for institutions of higher education
+There are authorized to be appropriated to carry out subsection (e)—
+(A)
+ $3,000,000 for fiscal year 2008;
+
+
+
+
+(B)
+ $5,500,000 for fiscal year 2009;
+
+
+
+
+(C)
+ $8,000,000 for fiscal year 2010;
+
+
+
+
+(D)
+ $8,240,000 for fiscal year 2011;
+
+
+
+
+(E)
+ $8,500,000 for fiscal year 2012; and
+
+
+
+
+(F)
+ $8,750,000 for fiscal year 2013.
+
+
+
+
+
+
+ Hydrocarbon systems science talent expansion program for institutions of higher education
+(a)
+ Purposes
+The purposes of this section are—
+(1)
+ to address the decline in the number of and resources available to hydrocarbon systems science programs at institutions of higher education; and
+
+
+
+
+(2)
+ to increase the number of graduates with degrees in hydrocarbon systems science, an area of strategic importance to the economic competitiveness and energy security of the United States.
+
+
+
+
+(b)
+ Definition of hydrocarbon systems science
+In this section:
+(1)
+ In general
+The term “hydrocarbon systems science” means a science involving natural gas or other petroleum exploration, development, or production.
+
+
+
+
+
+
+(2)
+ Inclusions
+The term “hydrocarbon systems science” includes—
+(A)
+ petroleum or reservoir engineering;
+
+
+
+
+(B)
+ environmental geoscience;
+
+
+
+
+(C)
+ petrophysics;
+
+
+
+
+(D)
+ geophysics;
+
+
+
+
+(E)
+ geochemistry;
+
+
+
+
+(F)
+ petroleum geology;
+
+
+
+
+(G)
+ ocean engineering;
+
+
+
+
+(H)
+ environmental engineering;
+
+
+
+
+(I)
+ computer science, as computer science relates to a science described in this subsection; and
+
+
+
+
+(J)
+ hydrocarbon spill response and remediation.
+
+
+
+
+
+
+(c)
+ Establishment
+The Secretary shall establish, in accordance with this section, a program to expand and enhance institution of higher education hydrocarbon systems science educational capabilities.
+
+
+
+
+(d)
+ Hydrocarbon systems science program expansion grants for institutions of higher education
+(1)
+ In general
+The Secretary shall award up to 3 competitive grants for each fiscal year to institutions of higher education that establish new academic degree programs in hydrocarbon systems science.
+
+
+
+
+
+
+(2)
+ Eligibility
+In evaluating grants under this subsection, the Secretary shall give priority to proposals that involve partnerships with the National Laboratories, including the National Energy Technology Laboratory, or other hydrocarbon systems scientific entities, as determined by the Secretary.
+
+
+
+
+
+
+(3)
+ Criteria
+Criteria for a grant awarded under this subsection shall be based on—
+(A)
+ the potential to attract new students to the program;
+
+
+
+
+(B)
+ academic rigor; and
+
+
+
+
+(C)
+ the ability to offer hands-on learning opportunities.
+
+
+
+
+
+
+(4)
+ Duration and amount
+(A)
+ Duration
+A grant under this subsection may be up to 5 years in duration.
+
+
+
+
+
+
+(B)
+ Amount
+An institution of higher education that receives a grant under this subsection shall be eligible for up to $1,000,000 for each year of the grant period.
+
+
+
+
+
+
+
+
+(5)
+ Use of funds
+An institution of higher education that receives a grant under this subsection may use the grant to—
+(A)
+ recruit and retain new faculty;
+
+
+
+
+(B)
+ develop core and specialized course content;
+
+
+
+
+(C)
+ encourage collaboration between faculty and researchers in the hydrocarbon systems science field; and
+
+
+
+
+(D)
+ support outreach efforts to recruit students.
+
+
+
+
+
+
+(e)
+ Hydrocarbon systems science competitiveness grants for institutions of higher education
+(1)
+ In general
+The Secretary shall award up to 5 competitive grants for each fiscal year to institutions of higher education with existing academic degree programs that produce graduates in hydrocarbon systems science.
+
+
+
+
+
+
+(2)
+ Criteria
+Criteria for a grant awarded under this subsection shall be based on the potential for increasing the number and academic quality of graduates in hydrocarbon systems sciences who enter into careers in natural gas and other petroleum exploration, development, and production related fields.
+
+
+
+
+
+
+(3)
+ Duration and amount
+(A)
+ Duration
+A grant under this subsection may be up to 5 years in duration.
+
+
+
+
+
+
+(B)
+ Amount
+An institution of higher education that receives a grant under this subsection shall be eligible for up to $500,000 for each year of the grant period.
+
+
+
+
+
+
+
+
+(4)
+ Use of funds
+An institution of higher education that receives a grant under this subsection may use the grant to—
+(A)
+ increase the number of graduates in the hydrocarbon systems sciences that enter into careers in the natural gas and other petroleum exploration, development, and production science fields;
+
+
+
+
+(B)
+ enhance the teaching of advanced natural gas and other petroleum exploration, development, and production technologies;
+
+
+
+
+(C)
+ aggressively pursue collaboration opportunities with industry and the National Laboratories, including the National Energy Technology Laboratory;
+
+
+
+
+(D)
+ bolster or sustain natural gas and other petroleum exploration, development, and production infrastructure and research facilities of the institution of higher education, such as research and training or laboratories; and
+
+
+
+
+(E)
+ provide tuition assistance and stipends to undergraduate and graduate students.
+
+
+
+
+
+
+(f)
+ Authorization of appropriations
+(1)
+ Hydrocarbon systems science program expansion grants for institutions of higher education
+There are authorized to be appropriated to carry out subsection (d)—
+(A)
+ $3,500,000 for fiscal year 2008;
+
+
+
+
+(B)
+ $6,500,000 for fiscal year 2009;
+
+
+
+
+(C)
+ $9,500,000 for fiscal year 2010;
+
+
+
+
+(D)
+ $9,800,000 for fiscal year 2011;
+
+
+
+
+(E)
+ $10,000,000 for fiscal year 2012; and
+
+
+
+
+(F)
+ $10,400,000 for fiscal year 2013.
+
+
+
+
+
+
+(2)
+ Hydrocarbon systems science competitiveness grants for institutions of higher education
+There are authorized to be appropriated to carry out subsection (e)—
+(A)
+ $3,000,000 for fiscal year 2008;
+
+
+
+
+(B)
+ $5,500,000 for fiscal year 2009; and
+
+
+
+
+(C)
+ $8,000,000 for fiscal year 2010.
+
+
+
+
+
+
+ Department of Energy early career awards for science, engineering, and mathematics researchers
+(a)
+ Grant awards
+The Director of the Office of Science of the Department (referred to in this section as the “Director”) shall carry out a program to award grants to scientists and engineers at an early career stage at institutions of higher education and organizations described in subsection (c) to conduct research in fields relevant to the mission of the Department.
+
+
+
+
+(b)
+ Amount and duration
+(1)
+ Amount
+The amount of a grant awarded under this section shall be—
+(A)
+ not less than $80,000; and
+
+
+
+
+(B)
+ not more than $125,000.
+
+
+
+
+
+
+(2)
+ Duration
+The term of a grant awarded under this section shall be not more than 5 years.
+
+
+
+
+
+
+(c)
+ Eligibility
+(1)
+ In general
+To be eligible to receive a grant under this section, an individual shall, as determined by the Director—
+(A)
+ subject to paragraph (2), have completed a doctorate or other terminal degree not more than 10 years before the date on which the proposal for a grant is submitted under subsection (e)(1);
+
+
+
+
+(B)
+ have demonstrated promise in a science, engineering, or mathematics field relevant to the missions of the Department; and
+
+
+
+
+(C)
+ be employed—
+(i)
+ in a tenure track-position as an assistant professor or equivalent title at an institution of higher education in the United States;
+
+
+
+
+(ii)
+ at an organization in the United States that is a nonprofit, nondegree-granting research organization such as a museum, observatory, or research laboratory; or
+
+
+
+
+(iii)
+ as a scientist at a National Laboratory.
+
+
+
+
+
+
+
+
+(2)
+ Waiver
+Notwithstanding paragraph (1)(A), the Director may determine that an individual who has completed a doctorate more than 10 years before the date of submission of a proposal under subsection (e)(1) is eligible to receive a grant under this section if the individual was unable to conduct research for a period of time because of extenuating circumstances, including military service or family responsibilities, as determined by the Director.
+
+
+
+
+
+
+(d)
+ Selection
+Grant recipients shall be selected on a competitive, merit-reviewed basis.
+
+
+
+
+(e)
+ Selection process and criteria
+(1)
+ Proposal
+To be eligible to receive a grant under this section, an individual shall submit to the Director a proposal at such time, in such manner, and containing such information as the Director may require.
+
+
+
+
+
+
+(2)
+ Evaluation
+In evaluating the proposals submitted under paragraph (1), the Director shall take into consideration, at a minimum—
+(A)
+ the intellectual merit of the proposed project;
+
+
+
+
+(B)
+ the innovative or transformative nature of the proposed research;
+
+
+
+
+(C)
+ the extent to which the proposal integrates research and education, including undergraduate education in science and engineering disciplines; and
+
+
+
+
+(D)
+ the potential of the applicant for leadership at the frontiers of knowledge.
+
+
+
+
+
+
+(f)
+ Diversity requirement
+(1)
+ In general
+In awarding grants under this section, the Director shall endeavor to ensure that the grant recipients represent a variety of types of institutions of higher education and nonprofit, nondegree-granting research organizations.
+
+
+
+
+
+
+(2)
+ Requirement
+In support of the goal described in paragraph (1), the Director shall broadly disseminate information regarding the deadlines applicable to, and manner in which to submit, proposals for grants under this section, including by conducting outreach activities for—
+(A)
+ part B institutions, as defined in 
+section 1061 of title 20
+; and
+
+
+
+
+(B)
+ minority institutions, as defined in 
+section 1067k of title 20
+.
+
+
+
+
+
+
+(g)
+ Report on recruiting and retaining early career science and engineering researchers at National Laboratories
+(1)
+ In general
+Not later than 90 days after 
+August 9, 2007
+, the Director shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing efforts of the Director to recruit and retain young scientists and engineers at early career stages at the National Laboratories.
+
+
+
+
+
+
+(2)
+ Inclusions
+The report under paragraph (1) shall include—
+(A)
+ a description of applicable Department and National Laboratory policies and procedures, including policies and procedures relating to financial incentives, awards, promotions, time reserved for independent research, access to equipment or facilities, and other forms of recognition, designed to attract and retain young scientists and engineers;
+
+
+
+
+(B)
+ an evaluation of the impact of the incentives described in subparagraph (A) on—
+(i)
+ the careers of young scientists and engineers at the National Laboratories; and
+
+
+
+
+(ii)
+ the quality of the research at the National Laboratories and in Department programs;
+
+
+
+
+
+
+(C)
+ a description of barriers, if any, that exist with respect to efforts to recruit and retain young scientists and engineers, including the limited availability of full-time equivalent positions, legal and procedural requirements, and pay grading systems; and
+
+
+
+
+(D)
+ the amount of funding devoted to efforts to recruit and retain young researchers, and the source of the funds.
+
+
+
+
+
+
+(h)
+ Authorization of appropriations
+There is authorized to be appropriated to the Secretary, acting through the Director, to carry out this section $25,000,000 for each of fiscal years 2008 through 2013.
+
+
+
+
+ Discovery science and engineering innovation institutes
+(a)
+ In general
+The Secretary shall establish distributed, multidisciplinary institutes (referred to in this section as “Institutes”) centered at National Laboratories to apply fundamental science and engineering discoveries to technological innovations relating to—
+(1)
+ the missions of the Department; and
+
+
+
+
+(2)
+ the global competitiveness of the United States.
+
+
+
+
+(b)
+ Topical areas
+The Institutes shall support scientific and engineering research and education activities on critical emerging technologies determined by the Secretary to be essential to global competitiveness, including activities relating to—
+(1)
+ sustainable energy technologies;
+
+
+
+
+(2)
+ multiscale materials and processes;
+
+
+
+
+(3)
+ micro- and nano-engineering;
+
+
+
+
+(4)
+ computational and information engineering; and
+
+
+
+
+(5)
+ genomics and proteomics.
+
+
+
+
+(c)
+ Partnerships
+In carrying out this section, the Secretary shall establish partnerships between the Institutes and—
+(1)
+ institutions of higher education—
+(A)
+ to train undergraduate and graduate science and engineering students;
+
+
+
+
+(B)
+ to develop innovative undergraduate and graduate educational curricula; and
+
+
+
+
+(C)
+ to conduct research within the topical areas described in subsection (b); and
+
+
+
+
+
+
+(2)
+ private industry to develop innovative technologies within the topical areas described in subsection (b).
+
+
+
+
+(d)
+ Grants
+(1)
+ In general
+For each fiscal year, the Secretary may select not more than 3 Institutes to receive a grant under this section.
+
+
+
+
+
+
+(2)
+ Merit-based selection
+The selection of Institutes under paragraph (1) shall be—
+(A)
+ merit-based; and
+
+
+
+
+(B)
+ made through an open, competitive selection process.
+
+
+
+
+
+
+(3)
+ Term
+An Institute shall receive a grant under this section for not more than 3 fiscal years.
+
+
+
+
+
+
+(e)
+ Review
+The Secretary shall offer to enter into an agreement with the National Academy of Sciences under which the Academy shall, by not later than 3 years after 
+August 9, 2007
+—
+(1)
+ review the performance of the Institutes under this section; and
+
+
+
+
+(2)
+ submit to Congress and the Secretary a report describing the results of the review.
+
+
+
+
+(f)
+ Authorization of appropriations
+There is authorized to be appropriated to provide grants to each Institute selected under this section $10,000,000 for each of fiscal years 2008 through 2010.
+
+
+
+
+ Protecting America’s Competitive Edge (PACE) graduate fellowship program
+(a)
+ Definition of eligible student
+In this section, the term “eligible student” means a student who attends an institution of higher education that offers a doctoral degree in a field relevant to a mission area of the Department.
+
+
+
+
+(b)
+ Establishment
+The Secretary shall establish a graduate fellowship program for eligible students pursuing a doctoral degree in a mission area of the Department.
+
+
+
+
+(c)
+ Selection
+(1)
+ In general
+The Secretary shall award fellowships to eligible students under this section through a competitive merit review process, involving written and oral interviews, that will result in a wide distribution of awards throughout the United States, as determined by the Secretary.
+
+
+
+
+
+
+(2)
+ Criteria
+The Secretary shall establish selection criteria for awarding fellowships under this section that require an eligible student—
+(A)
+ to pursue a field of science or engineering of importance to a mission area of the Department;
+
+
+
+
+(B)
+ to demonstrate to the Secretary—
+(i)
+ the capacity of the eligible student to understand technical topics relating to the fellowship that can be derived from the first principles of the technical topics;
+
+
+
+
+(ii)
+ imagination and creativity;
+
+
+
+
+(iii)
+ leadership skills in organizations or intellectual endeavors, demonstrated through awards and past experience; and
+
+
+
+
+(iv)
+ excellent verbal and communication skills to explain, defend, and demonstrate an understanding of technical subjects relating to the fellowship; and
+
+
+
+
+
+
+(C)
+ to be a citizen or legal permanent resident of the United States.
+
+
+
+
+
+
+(d)
+ Awards
+(1)
+ Amount
+A fellowship awarded under this section shall—
+(A)
+ provide an annual living stipend; and
+
+
+
+
+(B)
+ cover—
+(i)
+ graduate tuition at an institution of higher education described in subsection (a); and
+
+
+
+
+(ii)
+ incidental expenses associated with curricula and research at the institution of higher education (including books, computers, and software).
+
+
+
+
+
+
+
+
+(2)
+ Duration
+A fellowship awarded under this section shall be up to 3 years duration within a 5-year period.
+
+
+
+
+
+
+(3)
+ Portability
+A fellowship awarded under this section shall be portable with the eligible student.
+
+
+
+
+
+
+(e)
+ Administration
+The Secretary, acting through the Director of Science, Engineering, and Mathematics Education—
+(1)
+ shall administer the program established under this section; and
+
+
+
+
+(2)
+ may enter into a contract with a nonprofit entity to administer the program, including the selection and award of fellowships.
+
+
+
+
+(f)
+ Authorization of appropriations
+There are authorized to be appropriated to carry out this section—
+(1)
+ $7,500,000 for fiscal year 2008;
+
+
+
+
+(2)
+ $12,000,000 for fiscal year 2009, including nonexpiring fellowships for the preceding fiscal year;
+
+
+
+
+(3)
+ $20,000,000 for fiscal year 2010, including nonexpiring fellowships for preceding fiscal years;
+
+
+
+
+(4)
+ $20,600,000 for fiscal year 2011;
+
+
+
+
+(5)
+ $21,200,000 for fiscal year 2012; and
+
+
+
+
+(6)
+ $21,900,000 for fiscal year 2013.
+
+
+
+
+ Distinguished scientist program
+(a)
+ Purpose
+The purpose of this section is to promote scientific and academic excellence through collaborations between institutions of higher education and National Laboratories.
+
+
+
+
+(b)
+ Establishment
+The Secretary shall establish a program to support the joint appointment of distinguished scientists by institutions of higher education and National Laboratories.
+
+
+
+
+(c)
+ Qualifications
+To be eligible for appointment as a distinguished scientist under this section, an individual, by reason of professional background and experience, shall be able to bring international recognition to the appointing institution of higher education or National Laboratory in the field of scientific endeavor of the individual.
+
+
+
+
+(d)
+ Selection
+A distinguished scientist appointed under this section shall be selected through an open, competitive process.
+
+
+
+
+(e)
+ Appointment
+(1)
+ Institution of higher education
+An appointment by an institution of higher education under this section shall be filled within the tenure allotment of the institution of higher education, at a minimum rank of professor.
+
+
+
+
+
+
+(2)
+ National Laboratory
+An appointment by a National Laboratory under this section shall be at the rank of the highest grade of distinguished scientist or technical staff of the National Laboratory.
+
+
+
+
+
+
+(f)
+ Duration
+An appointment under this section shall—
+(1)
+ be for a term of 6 years; and
+
+
+
+
+(2)
+ consist of 2 3-year funding allotments.
+
+
+
+
+(g)
+ Use of funds
+Funds made available under this section may be used for—
+(1)
+ the salary of the distinguished scientist and support staff;
+
+
+
+
+(2)
+ undergraduate, graduate, and post-doctoral appointments;
+
+
+
+
+(3)
+ research-related equipment;
+
+
+
+
+(4)
+ professional travel; and
+
+
+
+
+(5)
+ such other requirements as the Secretary determines to be necessary to carry out the purpose of the program.
+
+
+
+
+(h)
+ Review
+(1)
+ In general
+The appointment of a distinguished scientist under this section shall be reviewed at the end of the first 3-year allotment for the distinguished scientist through an open peer-review process to determine whether the appointment is meeting the purpose of this section under subsection (a).
+
+
+
+
+
+
+(2)
+ Funding
+Funding of the appointment of the distinguished scientist for the second 3-year allotment shall be determined based on the review conducted under paragraph (1).
+
+
+
+
+
+
+(i)
+ Cost sharing
+To be eligible for assistance under this section, an appointing institution of higher education shall pay at least 50 percent of the total costs of the appointment.
+
+
+
+
+(j)
+ Authorization of appropriations
+There are authorized to be appropriated to carry out this section—
+(1)
+ $15,000,000 for fiscal year 2008;
+
+
+
+
+(2)
+ $20,000,000 for fiscal year 2009;
+
+
+
+
+(3)
+ $30,000,000 for fiscal year 2010;
+
+
+
+
+(4)
+ $31,000,000 for fiscal year 2011;
+
+
+
+
+(5)
+ $32,000,000 for fiscal year 2012; and
+
+
+
+
+(6)
+ $33,000,000 for fiscal year 2013.
+
+
+
+
+ Advanced Research Projects Agency—Energy
+(a)
+ Definitions
+In this section:
+(1)
+ ARPA-E
+The term “ARPA–E” means the Advanced Research Projects Agency—Energy established by subsection (b).
+
+
+
+
+
+
+(2)
+ Director
+The term “Director” means the Director of ARPA-E appointed under subsection (d).
+
+
+
+
+
+
+(3)
+ Fund
+The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (n)(1).
+
+
+
+
+
+
+(b)
+ Establishment
+There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
+
+
+
+
+(c)
+ Goals
+(1)
+ In general
+The goals of ARPA-E shall be—
+(A)
+ to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+(i)
+ reductions of imports of energy from foreign sources;
+
+
+
+
+(ii)
+ reductions of energy-related emissions, including greenhouse gases; and
+
+
+
+
+(iii)
+ improvement in the energy efficiency of all economic sectors; and
+
+
+
+
+
+
+(B)
+ to ensure that the United States maintains a technological lead in developing and deploying advanced energy technologies.
+
+
+
+
+
+
+(2)
+ Means
+ARPA-E shall achieve the goals established under paragraph (1) through energy technology projects by—
+(A)
+ identifying and promoting revolutionary advances in fundamental and applied sciences;
+
+
+
+
+(B)
+ translating scientific discoveries and cutting-edge inventions into technological innovations; and
+
+
+
+
+(C)
+ accelerating transformational technological advances in areas that industry by itself is not likely to undertake because of technical and financial uncertainty.
+
+
+
+
+
+
+(d)
+ Director
+(1)
+ Appointment
+There shall be in the Department of Energy a Director of ARPA-E, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+
+
+
+
+
+(2)
+ Qualifications
+The Director shall be an individual who, by reason of professional background and experience, is especially qualified to advise the Secretary on, and manage research programs addressing, matters pertaining to long-term and high-risk technological barriers to the development of energy technologies.
+
+
+
+
+
+
+(3)
+ Relationship to Secretary
+The Director shall report to the Secretary.
+
+
+
+
+
+
+(4)
+ Relationship to other programs
+No other programs within the Department shall report to the Director.
+
+
+
+
+
+
+(e)
+ Responsibilities
+The responsibilities of the Director shall include—
+(1)
+ approving all new programs within ARPA-E;
+
+
+
+
+(2)
+ developing funding criteria and assessing the success of programs through the establishment of technical milestones;
+
+
+
+
+(3)
+ administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
+(A)
+ novel early-stage energy research with possible technology applications;
+
+
+
+
+(B)
+ development of techniques, processes, and technologies, and related testing and evaluation;
+
+
+
+
+(C)
+ research and development of advanced manufacturing process and technologies for the domestic manufacturing of novel energy technologies; and
+
+
+
+
+(D)
+ coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer;
+
+
+
+
+
+
+(4)
+ terminating programs carried out under this section that are not achieving the goals of the programs; and
+
+
+
+
+(5)
+ pursuant to subsection (c)(2)(C)—
+(A)
+ ensuring that applications for funding disclose the extent of current and prior efforts, including monetary investments as appropriate, in pursuit of the technology area for which funding is being requested;
+
+
+
+
+(B)
+ adopting measures to ensure that, in making awards, program managers adhere to the purposes of subsection (c)(2)(C); and
+
+
+
+
+(C)
+ providing as part of the annual report required by subsection (h)(1) a summary of the instances of and reasons for ARPA–E funding projects in technology areas already being undertaken by industry.
+
+
+
+
+
+
+(f)
+ Awards
+In carrying out this section, the Director may provide awards in the form of grants, contracts, cooperative agreements, cash prizes, and other transactions.
+
+
+
+
+(g)
+ Personnel
+(1)
+ In general
+The Director shall establish and maintain within ARPA–E a staff with sufficient qualifications and expertise to enable ARPA–E to carry out the responsibilities of ARPA–E under this section in conjunction with other operations of the Department.
+
+
+
+
+
+
+(2)
+ Program directors
+(A)
+ In general
+The Director shall designate employees to serve as program directors for the programs established pursuant to the responsibilities established for ARPA-E under subsection (e).
+
+
+
+
+
+
+(B)
+ Responsibilities
+A program director of a program shall be responsible for—
+(i)
+ establishing research and development goals for the program, including through the convening of workshops and conferring with outside experts, and publicizing the goals of the program to the public and private sectors;
+
+
+
+
+(ii)
+ soliciting applications for specific areas of particular promise, especially areas that the private sector or the Federal Government are not likely to undertake alone;
+
+
+
+
+(iii)
+ building research collaborations for carrying out the program;
+
+
+
+
+(iv)
+ selecting on the basis of merit each of the projects to be supported under the program after considering—
+(I)
+ the novelty and scientific and technical merit of the proposed projects;
+
+
+
+
+(II)
+ the demonstrated capabilities of the applicants to successfully carry out the proposed project;
+
+
+
+
+(III)
+ the consideration by the applicant of future commercial applications of the project, including the feasibility of partnering with 1 or more commercial entities; and
+
+
+
+
+(IV)
+ such other criteria as are established by the Director;
+
+
+
+
+
+
+(v)
+ identifying innovative cost-sharing arrangements for ARPA–E projects, including through use of the authority provided under 
+section 16352(b)(3) of this title
+;
+
+
+
+
+(vi)
+ monitoring the progress of projects supported under the program;
+
+
+
+
+(vii)
+ identifying mechanisms for commercial application of successful energy technology development projects, including through establishment of partnerships between awardees and commercial entities; and
+
+
+
+
+(viii)
+ recommending program restructure or termination of research partnerships or whole projects.
+
+
+
+
+
+
+(C)
+ Term
+The term of a program manager shall be not more than 3 years and may be renewed.
+
+
+
+
+
+
+
+
+(3)
+ Hiring and management
+(A)
+ In general
+The Director shall have the authority to—
+(i)
+ make appointments of scientific, engineering, and professional personnel without regard to the civil service laws;
+
+
+
+
+(ii)
+ fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
+
+
+
+
+(iii)
+ pay any employee appointed under this subpart 
+1
+1
+ So in original.
+ payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subpart 
+1
+ for any 12-month period shall not exceed the least of the following amounts:
+(I)
+ $25,000.
+
+
+
+
+(II)
+ The amount equal to 25 percent of the annual rate of basic pay of the employee.
+
+
+
+
+(III)
+ The amount of the limitation that is applicable for a calendar year under 
+section 5307(a)(1) of title 5
+.
+
+
+
+
+
+
+
+
+(B)
+ Number
+The Director shall appoint not more than 120 personnel under this section.
+
+
+
+
+
+
+(C)
+ Private recruiting firms
+The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
+
+
+
+
+
+
+(D)
+ Additional staff
+The Director may use all authorities in existence on 
+August 9, 2007
+, that are provided to the Secretary to hire administrative, financial, and clerical staff as necessary to carry out this section.
+
+
+
+
+
+
+
+
+(h)
+ Reports and roadmaps
+(1)
+ Annual report
+As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+
+
+
+
+
+
+(2)
+ Strategic vision roadmap
+Not later than 
+October 1, 2010
+, and 
+October 1, 2013
+, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
+
+
+
+
+
+
+(i)
+ Coordination and nonduplication
+(1)
+ In general
+To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies.
+
+
+
+
+
+
+(2)
+ Technology Transfer Coordinator
+To the extent appropriate, the Director may coordinate technology transfer efforts with the Technology Transfer Coordinator appointed under 
+section 16391 of this title
+.
+
+
+
+
+
+
+(j)
+ Federal demonstration of technologies
+The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
+
+
+
+
+(k)
+ Advice
+(1)
+ Advisory committees
+The Director may seek advice on any aspect of ARPA-E from—
+(A)
+ an existing Department of Energy advisory committee; and
+
+
+
+
+(B)
+ a new advisory committee organized to support the programs of ARPA-E and to provide advice and assistance on—
+(i)
+ specific program tasks; or
+
+
+
+
+(ii)
+ overall direction of ARPA-E.
+
+
+
+
+
+
+
+
+(2)
+ Additional sources of advice
+In carrying out this section, the Director may seek advice and review from—
+(A)
+ the President’s Committee of Advisors on Science and Technology; and
+
+
+
+
+(B)
+ any professional or scientific organization with expertise in specific processes or technologies under development by ARPA-E.
+
+
+
+
+
+
+(l)
+ ARPA-E evaluation
+(1)
+ In general
+After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
+
+
+
+
+
+
+(2)
+ Inclusions
+The evaluation shall include—
+(A)
+ the recommendation of the National Academy of Sciences on whether ARPA-E should be continued or terminated; and
+
+
+
+
+(B)
+ a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
+
+
+
+
+
+
+(3)
+ Availability
+On completion of the evaluation, the evaluation shall be made available to Congress and the public.
+
+
+
+
+
+
+(m)
+ Existing authorities
+The authorities granted by this section are—
+(1)
+ in addition to existing authorities granted to the Secretary; and
+
+
+
+
+(2)
+ are not intended to supersede or modify any existing authorities.
+
+
+
+
+(n)
+ Funding
+(1)
+ Fund
+There is established in the Treasury of the United States a fund, to be known as the “Energy Transformation Acceleration Fund”, which shall be administered by the Director for the purposes of carrying out this section.
+
+
+
+
+
+
+(2)
+ Authorization of appropriations
+Subject to paragraphs (4) and (5),
+2
+2
+ See References in Text note below.
+ there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
+(A)
+ $300,000,000 for fiscal year 2008;
+
+
+
+
+(B)
+ such sums as are necessary for each of fiscal years 2009 and 2010;
+
+
+
+
+(C)
+ $300,000,000 for fiscal year 2011;
+
+
+
+
+(D)
+ $306,000,000 for fiscal year 2012; and
+
+
+
+
+(E)
+ $312,000,000 for fiscal year 2013.
+
+
+
+
+
+
+(3)
+ Separate budget and appropriation
+(A)
+ Budget request
+The budget request for ARPA-E shall be separate from the rest of the budget of the Department.
+
+
+
+
+
+
+(B)
+ Appropriations
+Appropriations to the Fund shall be separate and distinct from the rest of the budget for the Department.
+
+
+
+
+
+
+
+
+(4)
+ Allocation
+Of the amounts appropriated for a fiscal year under paragraph (2)—
+(A)
+ not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
+
+
+
+
+(B)
+ at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
+
+
+
+
+(C)
+ no funds may be used for construction of new buildings or facilities during the 5-year period beginning on 
+August 9, 2007
+.
+
+
+
+
+
+

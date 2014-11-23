@@ -1,0 +1,1338 @@
+
+Chapter 12
+GIFT TAX
+ Imposition of tax
+(a)
+ Taxable transfers
+(1)
+ General rule
+A tax, computed as provided in section 2502, is hereby imposed for each calendar year on the transfer of property by gift during such calendar year by any individual resident or nonresident.
+
+
+
+
+
+
+(2)
+ Transfers of intangible property
+Except as provided in paragraph (3), paragraph (1) shall not apply to the transfer of intangible property by a nonresident not a citizen of the United States.
+
+
+
+
+
+
+(3)
+ Exception
+(A)
+ Certain individuals
+Paragraph (2) shall not apply in the case of a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer.
+
+
+
+
+
+
+(B)
+ Credit for foreign gift taxes
+The tax imposed by this section solely by reason of this paragraph shall be credited with the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
+
+
+
+
+
+
+
+
+(4)
+ Transfers to political organizations
+Paragraph (1) shall not apply to the transfer of money or other property to a political organization (within the meaning of section 527(e)(1)) for the use of such organization.
+
+
+
+
+
+
+(5)
+ Transfers of certain stock
+(A)
+ In general
+In the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer—
+(i)
+ section 2511(a) shall be applied without regard to whether such stock is situated within the United States, and
+
+
+
+
+(ii)
+ the value of such stock for purposes of this chapter shall be its U.S.-asset value determined under subparagraph (C).
+
+
+
+
+
+
+(B)
+ Foreign corporation described
+A foreign corporation is described in this subparagraph with respect to a donor if—
+(i)
+ the donor owned (within the meaning of section 958(a)) at the time of such transfer 10 percent or more of the total combined voting power of all classes of stock entitled to vote of the foreign corporation, and
+
+
+
+
+(ii)
+ such donor owned (within the meaning of section 958(a)), or is considered to have owned (by applying the ownership rules of section 958(b)), at the time of such transfer, more than 50 percent of—
+(I)
+ the total combined voting power of all classes of stock entitled to vote of such corporation, or
+
+
+
+
+(II)
+ the total value of the stock of such corporation.
+
+
+
+
+
+
+
+
+(C)
+ U.S.-asset value
+For purposes of subparagraph (A), the U.S.-asset value of stock shall be the amount which bears the same ratio to the fair market value of such stock at the time of transfer as—
+(i)
+ the fair market value (at such time) of the assets owned by such foreign corporation and situated in the United States, bears to
+
+
+
+
+(ii)
+ the total fair market value (at such time) of all assets owned by such foreign corporation.
+
+
+
+
+
+
+
+
+(b)
+ Certain residents of possessions considered citizens of the United States
+A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+
+
+
+
+(c)
+ Certain residents of possessions considered nonresidents not citizens of the United States
+A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+
+
+
+
+(d)
+ Cross references
+(1)
+ For increase in basis of property acquired by gift for gift tax paid, see section 1015(d).
+
+
+
+
+(2)
+ For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).
+
+
+
+
+ Rate of tax
+(a)
+ Computation of tax
+The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
+(1)
+ a tentative tax, computed under section 2001(c), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
+
+
+
+
+(2)
+ a tentative tax, computed under such section, on the aggregate sum of the taxable gifts for each of the preceding calendar periods.
+
+
+
+
+(b)
+ Preceding calendar period
+Whenever used in this title in connection with the gift tax imposed by this chapter, the term “preceding calendar period” means—
+(1)
+ calendar years 1932 and 1970 and all calendar years intervening between calendar year 1932 and calendar year 1970,
+
+
+
+
+(2)
+ the first calendar quarter of calendar year 1971 and all calendar quarters intervening between such calendar quarter and the first calendar quarter of calendar year 1982, and
+
+
+
+
+(3)
+ all calendar years after 1981 and before the calendar year for which the tax is being computed.
+
+
+
+
+
+For purposes of paragraph (1), the term “calendar year 1932” includes only that portion of such year after 
+June 6, 1932
+.
+
+
+(c)
+ Tax to be paid by donor
+The tax imposed by section 2501 shall be paid by the donor.
+
+
+
+
+ Taxable gifts
+(a)
+ General definition
+The term “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following).
+
+
+
+
+(b)
+ Exclusions from gifts
+(1)
+ In general
+In the case of gifts (other than gifts of future interests in property) made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsection (a), be included in the total amount of gifts made during such year. Where there has been a transfer to any person of a present interest in property, the possibility that such interest may be diminished by the exercise of a power shall be disregarded in applying this subsection, if no part of such interest will at any time pass to any other person.
+
+
+
+
+
+
+(2)
+ Inflation adjustment
+In the case of gifts made in a calendar year after 1998, the $10,000 amount contained in paragraph (1) shall be increased by an amount equal to—
+(A)
+ $10,000, multiplied by
+
+
+
+
+(B)
+ the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+
+
+
+
+
+If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
+
+
+
+
+(c)
+ Transfer for the benefit of minor
+No part of a gift to an individual who has not attained the age of 21 years on the date of such transfer shall be considered a gift of a future interest in property for purposes of subsection (b) if the property and the income therefrom—
+(1)
+ may be expended by, or for the benefit of, the donee before his attaining the age of 21 years, and
+
+
+
+
+(2)
+ will to the extent not so expended—
+(A)
+ pass to the donee on his attaining the age of 21 years, and
+
+
+
+
+(B)
+ in the event the donee dies before attaining the age of 21 years, be payable to the estate of the donee or as he may appoint under a general power of appointment as defined in section 2514(c).
+
+
+
+
+
+
+[(d)
+ Repealed. 
+Pub. L. 97–34, title III, § 311(h)(5)
+, 
+Aug. 13, 1981
+, 
+95 Stat. 282
+]
+
+
+(e)
+ Exclusion for certain transfers for educational expenses or medical expenses
+(1)
+ In general
+Any qualified transfer shall not be treated as a transfer of property by gift for purposes of this chapter.
+
+
+
+
+
+
+(2)
+ Qualified transfer
+For purposes of this subsection, the term “qualified transfer” means any amount paid on behalf of an individual—
+(A)
+ as tuition to an educational organization described in section 170(b)(1)(A)(ii) for the education or training of such individual, or
+
+
+
+
+(B)
+ to any person who provides medical care (as defined in section 213(d)) with respect to such individual as payment for such medical care.
+
+
+
+
+
+
+(f)
+ Waiver of certain pension rights
+If any individual waives, before the death of a participant, any survivor benefit, or right to such benefit, under section 401(a)(11) or 417, such waiver shall not be treated as a transfer of property by gift for purposes of this chapter.
+
+
+
+
+(g)
+ Treatment of certain loans of artworks
+(1)
+ In general
+For purposes of this subtitle, any loan of a qualified work of art shall not be treated as a transfer (and the value of such qualified work of art shall be determined as if such loan had not been made) if—
+(A)
+ such loan is to an organization described in section 501(c)(3) and exempt from tax under section 501(c) (other than a private foundation), and
+
+
+
+
+(B)
+ the use of such work by such organization is related to the purpose or function constituting the basis for its exemption under section 501.
+
+
+
+
+
+
+(2)
+ Definitions
+For purposes of this section—
+(A)
+ Qualified work of art
+The term “qualified work of art” means any archaeological, historic, or creative tangible personal property.
+
+
+
+
+
+
+(B)
+ Private foundation
+The term “private foundation” has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
+
+
+
+
+
+
+
+
+ Taxable gifts for preceding calendar periods
+(a)
+ In general
+In computing taxable gifts for preceding calendar periods for purposes of computing the tax for any calendar year—
+(1)
+ there shall be treated as gifts such transfers as were considered to be gifts under the gift tax laws applicable to the calendar period in which the transfers were made,
+
+
+
+
+(2)
+ there shall be allowed such deductions as were provided for under such laws, and
+
+
+
+
+(3)
+ the specific exemption in the amount (if any) allowable under section 2521 (as in effect before its repeal by the Tax Reform Act of 1976) shall be applied in all computations in respect of preceding calendar periods ending before 
+January 1, 1977
+, for purposes of computing the tax for any calendar year.
+
+
+
+
+(b)
+ Exclusions from gifts for preceding calendar periods
+In the case of gifts made to any person by the donor during preceding calendar periods, the amount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
+
+
+
+
+(c)
+ Valuation of gifts
+If the time has expired under section 6501 within which a tax may be assessed under this chapter 12 (or under corresponding provisions of prior laws) on—
+(1)
+ the transfer of property by gift made during a preceding calendar period (as defined in section 2502(b)); or
+
+
+
+
+(2)
+ an increase in taxable gifts required under section 2701(d),
+
+
+
+
+
+the value thereof shall, for purposes of computing the tax under this chapter, be the value as finally determined (within the meaning of section 2001(f)(2)) for purposes of this chapter.
+
+
+(d)
+ Net gifts
+The term “net gifts” as used in the corresponding provisions of prior laws shall be read as “taxable gifts” for purposes of this chapter.
+
+
+
+
+ Unified credit against gift tax
+(a)
+ General rule
+In the case of a citizen or resident of the United States, there shall be allowed as a credit against the tax imposed by section 2501 for each calendar year an amount equal to—
+(1)
+ the applicable credit amount in effect under section 2010(c) which would apply if the donor died as of the end of the calendar year, reduced by
+
+
+
+
+(2)
+ the sum of the amounts allowable as a credit to the individual under this section for all preceding calendar periods.
+
+
+
+
+
+For purposes of applying paragraph (2) for any calendar year, the rates of tax in effect under section 2502(a)(2) for such calendar year shall, in lieu of the rates of tax in effect for preceding calendar periods, be used in determining the amounts allowable as a credit under this section for all preceding calendar periods.
+
+
+(b)
+ Adjustment to credit for certain gifts made before 1977
+The amount allowable under subsection (a) shall be reduced by an amount equal to 20 percent of the aggregate amount allowed as a specific exemption under section 2521 (as in effect before its repeal by the Tax Reform Act of 1976) with respect to gifts made by the individual after 
+September 8, 1976
+.
+
+
+
+
+(c)
+ Limitation based on amount of tax
+The amount of the credit allowed under subsection (a) for any calendar year shall not exceed the amount of the tax imposed by section 2501 for such calendar year.
+
+
+
+
+ Transfers in general
+(a)
+ Scope
+Subject to the limitations contained in this chapter, the tax imposed by section 2501 shall apply whether the transfer is in trust or otherwise, whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible; but in the case of a nonresident not a citizen of the United States, shall apply to a transfer only if the property is situated within the United States.
+
+
+
+
+(b)
+ Intangible property
+For purposes of this chapter, in the case of a nonresident not a citizen of the United States who is excepted from the application of section 2501(a)(2)—
+(1)
+ shares of stock issued by a domestic corporation, and
+
+
+
+
+(2)
+ debt obligations of—
+(A)
+ a United States person, or
+
+
+
+
+(B)
+ the United States, a State or any political subdivision thereof, or the District of Columbia,
+
+
+
+
+
+
+
+which are owned and held by such nonresident shall be deemed to be property situated within the United States.
+
+
+ Valuation of gifts
+(a)
+ If the gift is made in property, the value thereof at the date of the gift shall be considered the amount of the gift.
+
+
+(b)
+ Where property is transferred for less than an adequate and full consideration in money or money’s worth, then the amount by which the value of the property exceeded the value of the consideration shall be deemed a gift, and shall be included in computing the amount of gifts made during the calendar year.
+
+
+(c)
+ Cross reference
+For individual’s right to be furnished on request a statement regarding any valuation made by the Secretary of a gift by that individual, see section 7517.
+
+
+
+
+ Gift by husband or wife to third party
+(a)
+ Considered as made one-half by each
+(1)
+ In general
+A gift made by one spouse to any person other than his spouse shall, for the purposes of this chapter, be considered as made one-half by him and one-half by his spouse, but only if at the time of the gift each spouse is a citizen or resident of the United States. This paragraph shall not apply with respect to a gift by a spouse of an interest in property if he creates in his spouse a general power of appointment, as defined in section 2514(c), over such interest. For purposes of this section, an individual shall be considered as the spouse of another individual only if he is married to such individual at the time of the gift and does not remarry during the remainder of the calendar year.
+
+
+
+
+
+
+(2)
+ Consent of both spouses
+Paragraph (1) shall apply only if both spouses have signified (under the regulations provided for in subsection (b)) their consent to the application of paragraph (1) in the case of all such gifts made during the calendar year by either while married to the other.
+
+
+
+
+
+
+(b)
+ Manner and time of signifying consent
+(1)
+ Manner
+ A consent under this section shall be signified in such manner as is provided under regulations prescribed by the Secretary.
+
+
+
+
+
+
+(2)
+ Time
+Such consent may be so signified at any time after the close of the calendar year in which the gift was made, subject to the following limitations—
+(A)
+ The consent may not be signified after the 15th day of April following the close of such year, unless before such 15th day no return has been filed for such year by either spouse, in which case the consent may not be signified after a return for such year is filed by either spouse.
+
+
+
+
+(B)
+ The consent may not be signified after a notice of deficiency with respect to the tax for such year has been sent to either spouse in accordance with section 6212(a).
+
+
+
+
+
+
+(c)
+ Revocation of consent
+Revocation of a consent previously signified shall be made in such manner as in provided under regulations prescribed by the Secretary, but the right to revoke a consent previously signified with respect to a calendar year—
+(1)
+ shall not exist after the 15th day of April following the close of such year if the consent was signified on or before such 15th day; and
+
+
+
+
+(2)
+ shall not exist if the consent was not signified until after such 15th day.
+
+
+
+
+(d)
+ Joint and several liability for tax
+If the consent required by subsection (a)(2) is signified with respect to a gift made in any calendar year, the liability with respect to the entire tax imposed by this chapter of each spouse for such year shall be joint and several.
+
+
+
+
+ Powers of appointment
+(a)
+ Powers created on or before 
+October 21, 1942
+An exercise of a general power of appointment created on or before 
+October 21, 1942
+, shall be deemed a transfer of property by the individual possessing such power; but the failure to exercise such a power or the complete release of such a power shall not be deemed an exercise thereof. If a general power of appointment created on or before 
+October 21, 1942
+, has been partially released so that it is no longer a general power of appointment, the subsequent exercise of such power shall not be deemed to be the exercise of a general power of appointment if—
+(1)
+ such partial release occurred before 
+November 1, 1951
+, or
+
+
+
+
+(2)
+ the donee of such power was under a legal disability to release such power on 
+October 21, 1942
+, and such partial release occurred not later than six months after the termination of such legal disability.
+
+
+
+
+(b)
+ Powers created after 
+October 21, 1942
+The exercise or release of a general power of appointment created after 
+October 21, 1942
+, shall be deemed a transfer of property by the individual possessing such power.
+
+
+
+
+(c)
+ Definition of general power of appointment
+For purposes of this section, the term “general power of appointment” means a power which is exercisable in favor of the individual possessing the power (hereafter in this subsection referred to as the “possessor”), his estate, his creditors, or the creditors of his estate; except that—
+(1)
+ A power to consume, invade, or appropriate property for the benefit of the possessor which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the possessor shall not be deemed a general power of appointment.
+
+
+
+
+(2)
+ A power of appointment created on or before 
+October 21, 1942
+, which is exercisable by the possessor only in conjunction with another person shall not be deemed a general power of appointment.
+
+
+
+
+(3)
+ In the case of a power of appointment created after 
+October 21, 1942
+, which is exercisable by the possessor only in conjunction with another person—
+(A)
+ if the power is not exercisable by the possessor except in conjunction with the creator of the power—such power shall not be deemed a general power of appointment;
+
+
+
+
+(B)
+ if the power is not exercisable by the possessor except in conjunction with a person having a substantial interest, in the property subject to the power, which is adverse to exercise of the power in favor of the possessor—such power shall not be deemed a general power of appointment. For the purposes of this subparagraph a person who, after the death of the possessor, may be possessed of a power of appointment (with respect to the property subject to the possessor’s power) which he may exercise in his own favor shall be deemed as having an interest in the property and such interest shall be deemed adverse to such exercise of the possessor’s power;
+
+
+
+
+(C)
+ if (after the application of subparagraphs (A) and (B)) the power is a general power of appointment and is exercisable in favor of such other person—such power shall be deemed a general power of appointment only in respect of a fractional part of the property subject to such power, such part to be determined by dividing the value of such property by the number of such persons (including the possessor) in favor of whom such power is exercisable.
+
+
+
+
+
+For purposes of subparagraphs (B) and (C), a power shall be deemed to be exercisable in favor of a person if it is exercisable in favor of such person, his estate, his creditors, or the creditors of his estate.
+
+
+
+
+(d)
+ Creation of another power in certain cases
+If a power of appointment created after 
+October 21, 1942
+, is exercised by creating another power of appointment which, under the applicable local law, can be validly exercised so as to postpone the vesting of any estate or interest in the property which was subject to the first power, or suspend the absolute ownership or power of alienation of such property, for a period ascertainable without regard to the date of the creation of the first power, such exercise of the first power shall, to the extent of the property subject to the second power, be deemed a transfer of property by the individual possessing such power.
+
+
+
+
+(e)
+ Lapse of power
+The lapse of a power of appointment created after 
+October 21, 1942
+, during the life of the individual possessing the power shall be considered a release of such power. The rule of the preceding sentence shall apply with respect to the lapse of powers during any calendar year only to the extent that the property which could have been appointed by exercise of such lapsed powers exceeds in value the greater of the following amounts:
+(1)
+ $5,000, or
+
+
+
+
+(2)
+ 5 percent of the aggregate value of the assets out of which, or the proceeds of which, the exercise of the lapsed powers could be satisfied.
+
+
+
+
+(f)
+ Date of creation of power
+For purposes of this section a power of appointment created by a will executed on or before 
+October 21, 1942
+, shall be considered a power created on or before such date if the person executing such will dies before 
+July 1, 1949
+, without having republished such will, by codicil or otherwise, after 
+October 21, 1942
+.
+
+
+
+
+ Treatment of generation-skipping transfer tax
+In the case of any taxable gift which is a direct skip (within the meaning of chapter 13), the amount of such gift shall be increased by the amount of any tax imposed on the transferor under chapter 13 with respect to such gift.
+ Repealed. 
+ Certain property settlements
+ Repealed. 
+ Disclaimers
+(a)
+ General rule
+For purposes of this subtitle, if a person makes a qualified disclaimer with respect to any interest in property, this subtitle shall apply with respect to such interest as if the interest had never been transferred to such person.
+
+
+
+
+(b)
+ Qualified disclaimer defined
+For purposes of subsection (a), the term “qualified disclaimer” means an irrevocable and unqualified refusal by a person to accept an interest in property but only if—
+(1)
+ such refusal is in writing,
+
+
+
+
+(2)
+ such writing is received by the transferor of the interest, his legal representative, or the holder of the legal title to the property to which the interest relates not later than the date which is 9 months after the later of—
+(A)
+ the day on which the transfer creating the interest in such person is made, or
+
+
+
+
+(B)
+ the day on which such person attains age 21,
+
+
+
+
+
+
+(3)
+ such person has not accepted the interest or any of its benefits, and
+
+
+
+
+(4)
+ as a result of such refusal, the interest passes without any direction on the part of the person making the disclaimer and passes either—
+(A)
+ to the spouse of the decedent, or
+
+
+
+
+(B)
+ to a person other than the person making the disclaimer.
+
+
+
+
+
+
+(c)
+ Other rules
+For purposes of subsection (a)—
+(1)
+ Disclaimer of undivided portion of interest
+A disclaimer with respect to an undivided portion of an interest which meets the requirements of the preceding sentence shall be treated as a qualified disclaimer of such portion of the interest.
+
+
+
+
+
+
+(2)
+ Powers
+A power with respect to property shall be treated as an interest in such property.
+
+
+
+
+
+
+(3)
+ Certain transfers treated as disclaimers
+A written transfer of the transferor’s entire interest in the property—
+(A)
+ which meets requirements similar to the requirements of paragraphs (2) and (3) of subsection (b), and
+
+
+
+
+(B)
+ which is to a person or persons who would have received the property had the transferor made a qualified disclaimer (within the meaning of subsection (b)),
+
+
+
+
+
+shall be treated as a qualified disclaimer.
+
+
+
+
+ Dispositions of certain life estates
+(a)
+ General rule
+For purposes of this chapter and chapter 11, any disposition of all or part of a qualifying income interest for life in any property to which this section applies shall be treated as a transfer of all interests in such property other than the qualifying income interest.
+
+
+
+
+(b)
+ Property to which this subsection applies
+This section applies to any property if a deduction was allowed with respect to the transfer of such property to the donor—
+(1)
+ under section 2056 by reason of subsection (b)(7) thereof, or
+
+
+
+
+(2)
+ under section 2523 by reason of subsection (f) thereof.
+
+
+
+
+(c)
+ Cross reference
+For right of recovery for gift tax in the case of property treated as transferred under this section, see section 2207A(b).
+
+
+
+
+ Repealed. 
+ Charitable and similar gifts
+(a)
+ Citizens or residents
+In computing taxable gifts for the calendar year, there shall be allowed as a deduction in the case of a citizen or resident the amount of all gifts made during such year to or for the use of—
+(1)
+ the United States, any State, or any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
+
+
+
+
+(2)
+ a corporation, or trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+
+
+
+
+(3)
+ a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
+
+
+
+
+(4)
+ posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
+
+
+
+
+
+Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
+
+
+(b)
+ Nonresidents
+In the case of a nonresident not a citizen of the United States, there shall be allowed as a deduction the amount of all gifts made during such year to or for the use of—
+(1)
+ the United States, any State, or any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
+
+
+
+
+(2)
+ a domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+
+
+
+
+(3)
+ a trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office; but only if such gifts are to be used within the United States exclusively for such purposes;
+
+
+
+
+(4)
+ a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used within the United States exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
+
+
+
+
+(5)
+ posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings inures to the benefit of any private shareholder or individual.
+
+
+
+
+(c)
+ Disallowance of deductions in certain cases
+(1)
+ No deduction shall be allowed under this section for a gift to of 
+1
+1
+ So in original. Probably should be “or”.
+ for the use of an organization or trust described in section 508(d) or 4948(c)(4) subject to the conditions specified in such sections.
+
+
+
+
+(2)
+ Where a donor transfers an interest in property (other than an interest described in section 170(f)(3)(B)) to a person, or for a use, described in subsection (a) or (b) and an interest in the same property is retained by the donor, or is transferred or has been transferred (for less than an adequate and full consideration in money or money’s worth) from the donor to a person, or for a use, not described in subsection (a) or (b), no deduction shall be allowed under this section for the interest which is, or has been transferred to the person, or for the use, described in subsection (a) or (b), unless—
+(A)
+ in the case of a remainder interest, such interest is in a trust which is a charitable remainder annuity trust or a charitable remainder unitrust (described in section 664) or a pooled income fund (described in section 642(c)(5)), or
+
+
+
+
+(B)
+ in the case of any other interest, such interest is in the form of a guaranteed annuity or is a fixed percentage distributed yearly of the fair market value of the property (to be determined yearly).
+
+
+
+
+
+
+(3)
+ Rules similar to the rules of section 2055(e)(4) shall apply for purposes of paragraph (2).
+
+
+
+
+(4)
+ Reformations to comply with paragraph (2)
+(A)
+ In general
+A deduction shall be allowed under subsection (a) in respect of any qualified reformation (within the meaning of section 2055(e)(3)(B)).
+
+
+
+
+
+
+(B)
+ Rules similar to section 2055(e)(3) to apply
+For purposes of this paragraph, rules similar to the rules of section 2055(e)(3) shall apply.
+
+
+
+
+
+
+
+
+(5)
+ Contributions to donor advised funds
+A deduction otherwise allowed under subsection (a) for any contribution to a donor advised fund (as defined in section 4966(d)(2)) shall only be allowed if—
+(A)
+ the sponsoring organization (as defined in section 4966(d)(1)) with respect to such donor advised fund is not—
+(i)
+ described in paragraph (3) or (4) of subsection (a), or
+
+
+
+
+(ii)
+ a type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
+
+
+
+
+
+
+(B)
+ the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of section 170(f)(8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
+
+
+
+
+
+
+(d)
+ Special rule for irrevocable transfers of easements in real property
+A deduction shall be allowed under subsection (a) in respect of any transfer of a qualified real property interest (as defined in section 170(h)(2)(C)) which meets the requirements of section 170(h) (without regard to paragraph (4)(A) thereof).
+
+
+
+
+(e)
+ Special rules for fractional gifts
+(1)
+ Denial of deduction in certain cases
+(A)
+ In general
+No deduction shall be allowed for a contribution of an undivided portion of a taxpayer’s entire interest in tangible personal property unless all interests in the property are held immediately before such contribution by—
+(i)
+ the taxpayer, or
+
+
+
+
+(ii)
+ the taxpayer and the donee.
+
+
+
+
+
+
+(B)
+ Exceptions
+The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions of an undivided portion of the entire interest held by such persons.
+
+
+
+
+
+
+
+
+(2)
+ Recapture of deduction in certain cases; addition to tax
+(A)
+ In general
+The Secretary shall provide for the recapture of an amount equal to any deduction allowed under this section (plus interest) with respect to any contribution of an undivided portion of a taxpayer’s entire interest in tangible personal property—
+(i)
+ in any case in which the donor does not contribute all of the remaining interests in such property to the donee (or, if such donee is no longer in existence, to any person described in section 170(c)) on or before the earlier of—
+(I)
+ the date that is 10 years after the date of the initial fractional contribution, or
+
+
+
+
+(II)
+ the date of the death of the donor, and
+
+
+
+
+
+
+(ii)
+ in any case in which the donee has not, during the period beginning on the date of the initial fractional contribution and ending on the date described in clause (i)—
+(I)
+ had substantial physical possession of the property, and
+
+
+
+
+(II)
+ used the property in a use which is related to a purpose or function constituting the basis for the organizations’ exemption under section 501.
+
+
+
+
+
+
+
+
+(B)
+ Addition to tax
+The tax imposed under this chapter for any taxable year for which there is a recapture under subparagraph (A) shall be increased by 10 percent of the amount so recaptured.
+
+
+
+
+
+
+(C)
+ Initial fractional contribution
+For purposes of this paragraph, the term “initial fractional contribution” means, with respect to any donor, the first gift of an undivided portion of the donor’s entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).
+
+
+
+
+
+
+
+
+(f)
+ Cross references
+(1)
+ For treatment of certain organizations providing child care, see section 501(k).
+
+
+
+
+(2)
+ For exemption of certain gifts to or for the benefit of the United States and for rules of construction with respect to certain bequests, see section 2055(f).
+
+
+
+
+(3)
+ For treatment of gifts to or for the use of Indian tribal governments (or their subdivisions), see section 7871.
+
+
+
+
+ Gift to spouse
+(a)
+ Allowance of deduction
+Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor’s spouse, there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
+
+
+
+
+(b)
+ Life estate or other terminable interest
+Where, on the lapse of time, on the occurrence of an event or contingency, or on the failure of an event or contingency to occur, such interest transferred to the spouse will terminate or fail, no deduction shall be allowed with respect to such interest—
+(1)
+ if the donor retains in himself, or transfers or has transferred (for less than an adequate and full consideration in money or money’s worth) to any person other than such donee spouse (or the estate of such spouse), an interest in such property, and if by reason of such retention or transfer the donor (or his heirs or assigns) or such person (or his heirs or assigns) may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse; or
+
+
+
+
+(2)
+ if the donor immediately after the transfer to the donee spouse has a power to appoint an interest in such property which he can exercise (either alone or in conjunction with any person) in such manner that the appointee may possess or enjoy any part of such property after such termination or failure of the interest transferred to the donee spouse. For purposes of this paragraph, the donor shall be considered as having immediately after the transfer to the donee spouse such power to appoint even though such power cannot be exercised until after the lapse of time, upon the occurrence of an event or contingency, or on the failure of an event or contingency to occur.
+
+
+
+
+
+An exercise or release at any time by the donor, either alone or in conjunction with any person, of a power to appoint an interest in property, even though not otherwise a transfer, shall, for purposes of paragraph (1), be considered as a transfer by him. Except as provided in subsection (e), where at the time of the transfer it is impossible to ascertain the particular person or persons who may receive from the donor an interest in property so transferred by him, such interest shall, for purposes of paragraph (1), be considered as transferred to a person other than the donee spouse.
+
+
+(c)
+ Interest in unidentified assets
+Where the assets out of which, or the proceeds of which, the interest transferred to the donee spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets were transferred from the donor to such spouse, then the value of the interest transferred to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+
+
+
+
+(d)
+ Joint interests
+If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason of the possibility that the donor may survive the donee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
+
+
+
+
+(e)
+ Life estate with power of appointment in donee spouse
+Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
+(1)
+ the interest, or such portion, so transferred shall, for purposes of subsection (a) be considered as transferred to the donee spouse, and
+
+
+
+
+(2)
+ no part of the interest, or such portion, so transferred shall, for purposes of subsection (b)(1), be considered as retained in the donor or transferred to any person other than the donee spouse.
+
+
+
+
+
+This subsection shall apply only if, by such transfer, such power in the donee spouse to appoint the interest, or such portion, whether exercisable by will or during life, is exercisable by such spouse alone and in all events. For purposes of this subsection, the term “specific portion” only includes a portion determined on a fractional or percentage basis.
+
+
+(f)
+ Election with respect to life estate for donee spouse
+(1)
+ In general
+In the case of qualified terminable interest property—
+(A)
+ for purposes of subsection (a), such property shall be treated as transferred to the donee spouse, and
+
+
+
+
+(B)
+ for purposes of subsection (b)(1), no part of such property shall be considered as retained in the donor or transferred to any person other than the donee spouse.
+
+
+
+
+
+
+(2)
+ Qualified terminable interest property
+For purposes of this subsection, the term “qualified terminable interest property” means any property—
+(A)
+ which is transferred by the donor spouse,
+
+
+
+
+(B)
+ in which the donee spouse has a qualifying income interest for life, and
+
+
+
+
+(C)
+ to which an election under this subsection applies.
+
+
+
+
+
+
+(3)
+ Certain rules made applicable
+For purposes of this subsection, rules similar to the rules of clauses (ii), (iii), and (iv) of section 2056(b)(7)(B) shall apply and the rules of section 2056(b)(10) shall apply.
+
+
+
+
+
+
+(4)
+ Election
+(A)
+ Time and manner
+An election under this subsection with respect to any property shall be made on or before the date prescribed by section 6075(b) for filing a gift tax return with respect to the transfer (determined without regard to section 6019(2)) and shall be made in such manner as the Secretary shall by regulations prescribe.
+
+
+
+
+
+
+(B)
+ Election irrevocable
+An election under this subsection, once made, shall be irrevocable.
+
+
+
+
+
+
+
+
+(5)
+ Treatment of interest retained by donor spouse
+(A)
+ In general
+In the case of any qualified terminable interest property—
+(i)
+ such property shall not be includible in the gross estate of the donor spouse, and
+
+
+
+
+(ii)
+ any subsequent transfer by the donor spouse of an interest in such property shall not be treated as a transfer for purposes of this chapter.
+
+
+
+
+
+
+(B)
+ Subparagraph (A) not to apply after transfer by donee spouse
+Subparagraph (A) shall not apply with respect to any property after the donee spouse is treated as having transferred such property under section 2519, or such property is includible in the donee spouse’s gross estate under section 2044.
+
+
+
+
+
+
+
+
+(6)
+ Treatment of joint and survivor annuities
+In the case of a joint and survivor annuity where only the donor spouse and donee spouse have the right to receive payments before the death of the last spouse to die—
+(A)
+ the donee spouse’s interest shall be treated as a qualifying income interest for life,
+
+
+
+
+(B)
+ the donor spouse shall be treated as having made an election under this subsection with respect to such annuity unless the donor spouse otherwise elects on or before the date specified in paragraph (4)(A),
+
+
+
+
+(C)
+ paragraph (5) and section 2519 shall not apply to the donor spouse’s interest in the annuity, and
+
+
+
+
+(D)
+ if the donee spouse dies before the donor spouse, no amount shall be includible in the gross estate of the donee spouse under section 2044 with respect to such annuity.
+
+
+
+
+
+An election under subparagraph (B), once made, shall be irrevocable.
+
+
+
+
+(g)
+ Special rule for charitable remainder trusts
+(1)
+ In general
+If, after the transfer, the donee spouse is the only noncharitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
+
+
+
+
+
+
+(2)
+ Definitions
+For purposes of paragraph (1), the term “noncharitable beneficiary” and “qualified charitable remainder trust” have the meanings given to such terms by section 2056(b)(8)(B).
+1
+1
+ See References in Text note below.
+
+
+
+
+
+
+(h)
+ Denial of double deduction
+Nothing in this section or any other provision of this chapter shall allow the value of any interest in property to be deducted under this chapter more than once with respect to the same donor.
+
+
+
+
+(i)
+ Disallowance of marital deduction where spouse not citizen
+If the spouse of the donor is not a citizen of the United States—
+(1)
+ no deduction shall be allowed under this section,
+
+
+
+
+(2)
+ section 2503(b) shall be applied with respect to gifts which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1) by substituting “$100,000” for “$10,000”, and
+
+
+
+
+(3)
+ the principles of sections 2515 and 2515A (as such sections were in effect before their repeal by the Economic Recovery Tax Act of 1981) shall apply, except that the provisions of such section 2515 providing for an election shall not apply.
+
+
+
+
+
+This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).
+
+
+ Extent of deductions
+The deductions provided in sections 2522 and 2523 shall be allowed only to the extent that the gifts therein specified are included in the amount of gifts against which such deductions are applied.

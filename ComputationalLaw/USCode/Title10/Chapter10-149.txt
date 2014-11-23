@@ -1,0 +1,338 @@
+
+Chapter 149
+DEFENSE ACQUISITION SYSTEM
+ Definitions
+ Civilian management of the defense acquisition system
+(a)
+ 
+Responsibility of the Under Secretary of Defense for Acquisition, Technology, and Logistics
+.—
+Subject to the authority, direction and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for the management of the defense acquisition system and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of the defense acquisition system, including the duties enumerated and assigned to the Under Secretary elsewhere in this title.
+
+
+(b)
+ 
+Responsibility of the Service Acquisition Executives
+.—
+Subject to the direction of the Under Secretary of Defense for Acquisition, Technology, and Logistics on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.
+
+
+ Acquisition-related functions of chiefs of the armed forces
+(a)
+ 
+Performance of Certain Acquisition-related Functions
+.—
+The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
+(1)
+ The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to 
+section 181 of this title
+).
+
+
+
+
+(2)
+ The coordination of measures to control requirements creep in the defense acquisition system.
+
+
+
+
+(3)
+ The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+
+
+
+
+(4)
+ Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+
+
+
+
+(5)
+ The development of career paths in acquisition for military personnel (as required by 
+section 1722a of this title
+).
+
+
+
+
+(6)
+ The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+
+
+
+
+(b)
+ 
+Rule of Construction
+.—
+Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or 
+section 8014(c)(1)(A) of this title
+, except as explicitly provided in this section.
+
+
+(c)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “requirements creep” means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
+
+
+
+
+(2)
+ The term “requirements document” means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—
+(A)
+ justifies the need for a materiel approach, or an approach that is a combination of materiel and non-materiel, to satisfy one or more specific capability gaps;
+
+
+
+
+(B)
+ details the information necessary to develop an increment of militarily useful, logistically supportable, and technically mature capability, including key performance parameters; or
+
+
+
+
+(C)
+ identifies production attributes required for a single increment of a program.
+
+
+
+
+
+
+ Performance assessments of the defense acquisition system
+(a)
+ 
+Performance Assessments Required
+.—
+The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
+(1)
+ determining the extent to which such elements of the defense acquisition system deliver value to the Department of Defense, taking into consideration the performance elements identified in subsection (b);
+
+
+
+
+(2)
+ assisting senior officials of the Department of Defense in identifying and developing lessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
+
+
+
+
+(3)
+ assisting senior officials of the Department of Defense in developing acquisition workforce excellence under 
+section 1701a of this title
+.
+
+
+
+
+(b)
+ 
+Areas Considered in Performance Assessments
+.—
+(1)
+ Each performance assessment conducted pursuant to subsection (a) shall consider, at a minimum—
+(A)
+ the extent to which acquisitions conducted by the element of the defense acquisition system under review meet applicable cost, schedule, and performance objectives; and
+
+
+
+
+(B)
+ the staffing and quality of the acquisition workforce and the effectiveness of the management of the acquisition workforce, including workforce incentives and career paths.
+
+
+
+
+
+
+(2)
+ The Secretary of Defense shall ensure that the performance assessments required by this section are appropriately tailored to reflect the diverse nature of the work performed by each element of the defense acquisition system. In addition to the mandatory areas under paragraph (1), a performance assessment may consider, as appropriate, specific areas of acquisition concern, such as—
+(A)
+ the selection of contractors, including—
+(i)
+ the extent of competition and the use of exceptions to competition requirements;
+
+
+
+
+(ii)
+ compliance with Department of Defense policies regarding the participation of small business concerns and various categories of small business concerns, including the use of contract bundling and the availability of non-bundled contract vehicles;
+
+
+
+
+(iii)
+ the quality of market research;
+
+
+
+
+(iv)
+ the effective consideration of contractor past performance; and
+
+
+
+
+(v)
+ the number of bid protests, the extent to which such bid protests have been successful, and the reasons for such success;
+
+
+
+
+
+
+(B)
+ the negotiation of contracts, including—
+(i)
+ the appropriate application of 
+section 2306a of this title
+ (relating to truth in negotiations);
+
+
+
+
+(ii)
+ the appropriate use of contract types appropriate to specific procurements;
+
+
+
+
+(iii)
+ the appropriate use of performance requirements;
+
+
+
+
+(iv)
+ the appropriate acquisition of technical data and other rights and assets necessary to support long-term sustainment and follow-on procurement; and
+
+
+
+
+(v)
+ the timely definitization of any undefinitized contract actions; and
+
+
+
+
+
+
+(C)
+ the management of contractor performance, including—
+(i)
+ the assignment of appropriately qualified contracting officer representatives and other contract management personnel;
+
+
+
+
+(ii)
+ the extent of contract disputes, the reasons for such disputes, and the extent to which they have been successfully addressed;
+
+
+
+
+(iii)
+ the appropriate consideration of long-term sustainment and energy efficiency objectives; and
+
+
+
+
+(iv)
+ the appropriate use of integrated testing.
+
+
+
+
+
+
+
+
+(c)
+ 
+Contents of Guidance
+.—
+The guidance issued pursuant to subsection (a) shall ensure that each element of the defense acquisition system is subject to a performance assessment under this section not less often than once every four years, and shall address, at a minimum—
+(1)
+ the designation of elements of the defense acquisition system that are subject to performance assessment at an organizational level that ensures such assessments can be performed in an efficient and integrated manner;
+
+
+
+
+(2)
+ the frequency with which such performance assessments should be conducted;
+
+
+
+
+(3)
+ goals, standards, tools, and metrics for use in conducting performance assessments;
+
+
+
+
+(4)
+ the composition of the teams designated to perform performance assessments;
+
+
+
+
+(5)
+ any phase-in requirements needed to ensure that qualified staff are available to perform performance assessments;
+
+
+
+
+(6)
+ procedures for tracking the implementation of recommendations made pursuant to performance assessments;
+
+
+
+
+(7)
+ procedures for developing and disseminating lessons learned from performance assessments; and
+
+
+
+
+(8)
+ procedures for ensuring that information from performance assessments are retained electronically and are provided in a timely manner to the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Director of the Office of Performance Assessment and Root Cause Analysis as needed to assist them in performing their responsibilities under this section.
+
+
+
+
+(d)
+ 
+Performance Goals Under Government Performance and Results Act of
+ 1993.—
+The annual performance plan prepared by the Department of Defense pursuant to 
+section 1115 of title 31
+ shall include appropriate performance goals for elements of the defense acquisition system.
+
+
+(e)
+ 
+Reporting Requirements
+.—
+Beginning with fiscal year 2012—
+(1)
+ the annual report prepared by the Secretary of Defense pursuant to 
+section 1116 of title 31
+ shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
+
+
+
+
+(2)
+ the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to 
+section 2438(f) of this title
+ shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
+
+
+
+

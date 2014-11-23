@@ -1,0 +1,1389 @@
+
+Chapter 475
+NOISE
+ Definitions
+“(a)
+ 
+In General
+.—
+The Secretary [of Transportation] shall enter into an agreement with the National Academy of Sciences to conduct a study on airport noise in the United States.
+
+
+“(b)
+ 
+Contents of Study
+.—
+In conducting the study, the National Academy of Sciences shall examine—
+“(1)
+ the threshold of noise at which health begins to be affected;
+
+
+
+
+“(2)
+ the effectiveness of noise abatement programs at airports located in the United States;
+
+
+
+
+“(3)
+ the impacts of aircraft noise on communities, including schools; and
+
+
+
+
+“(4)
+ the noise assessment practices of the Federal Aviation Administration and whether such practices fairly and accurately reflect the burden of noise on communities.
+
+
+
+
+“(c)
+ 
+Report
+.—
+Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to the Secretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
+
+
+“(d)
+ 
+Authorization of Appropriations
+.—
+There is authorized to be appropriated such sums as may be necessary to carry out this section.”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary [of Transportation] shall conduct a study—
+“(1)
+ on the effects of nonmilitary helicopter noise on individuals in densely populated areas in the continental United States; and
+
+
+
+
+“(2)
+ to develop recommendations for the reduction of the effects of nonmilitary helicopter noise.
+
+
+
+
+“(b)
+ 
+Focus
+.—
+In conducting the study, the Secretary shall focus on air traffic control procedures to address helicopter noise problems and shall take into account the needs of law enforcement.
+
+
+“(c)
+ 
+Consideration of Views
+.—
+In conducting the study, the Secretary shall consider the views of representatives of the helicopter industry and organizations with an interest in reducing nonmilitary helicopter noise.
+
+
+“(d)
+ 
+Report
+.—
+Not later than 1 year after the date of the enactment of this Act [
+Apr. 5, 2000
+], the Secretary shall transmit to Congress a report on the results of the study conducted under this section.”
+
+
+ Noise measurement and exposure systems and identifying land use compatible with noise exposure
+ Noise exposure maps
+(a)
+ 
+Submission and Preparation
+.—
+An airport operator may submit to the Secretary of Transportation a noise exposure map showing the noncompatible uses in each area of the map on the date the map is submitted, a description of estimated aircraft operations during a forecast period that is at least 5 years in the future and how those operations will affect the map. The map shall—
+(1)
+ be prepared in consultation with public agencies and planning authorities in the area surrounding the airport; and
+
+
+
+
+(2)
+ comply with regulations prescribed under 
+section 47502 of this title
+.
+
+
+
+
+(b)
+ 
+Revised Maps
+.—
+If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction.
+
+
+“(a)
+ 
+Noise Disclosure System Implementation Study
+.—
+The Administrator of the Federal Aviation Administration shall conduct a study to determine the feasibility of developing a program under which prospective home buyers of property located in the vicinity of an airport could be notified of information derived from noise exposure maps that may affect the use and enjoyment of the property. The study shall assess the scope, administration, usefulness, and burdensomeness of any such program, the costs and benefits of such a program, and whether participation in such a program should be voluntary or mandatory.
+
+
+“(b)
+ 
+Public Availability of Noise Exposure Maps
+.—
+The Administrator shall make noise exposure and land use information from noise exposure maps available to the public via the Internet on its website in an appropriate format.
+
+
+“(c)
+ 
+Noise Exposure Map
+.—
+In this section, the term ‘noise exposure map’ means a noise exposure map prepared under 
+section 47503 of title 49
+, United States Code.”
+
+
+ Noise compatibility programs
+(a)
+ 
+Submissions
+.—
+(1)
+ An airport operator that submitted a noise exposure map and related information under 
+section 47503(a) of this title
+ may submit a noise compatibility program to the Secretary of Transportation after—
+(A)
+ consulting with public agencies and planning authorities in the area surrounding the airport, United States Government officials having local responsibility for the airport, and air carriers using the airport; and
+
+
+
+
+(B)
+ notice and an opportunity for a public hearing.
+
+
+
+
+
+
+(2)
+ A program submitted under paragraph (1) of this subsection shall state the measures the operator has taken or proposes to take to reduce existing noncompatible uses and prevent introducing additional noncompatible uses in the area covered by the map. The measures may include—
+(A)
+ establishing a preferential runway system;
+
+
+
+
+(B)
+ restricting the use of the airport by a type or class of aircraft because of the noise characteristics of the aircraft;
+
+
+
+
+(C)
+ constructing barriers and acoustical shielding and soundproofing public buildings;
+
+
+
+
+(D)
+ using flight procedures to control the operation of aircraft to reduce exposure of individuals to noise in the area surrounding the airport; and
+
+
+
+
+(E)
+ acquiring land, air rights, easements, development rights, and other interests to ensure that the property will be used in ways compatible with airport operations.
+
+
+
+
+
+
+(b)
+ 
+Approvals
+.—
+(1)
+ The Secretary shall approve or disapprove a program submitted under subsection (a) of this section (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) not later than 180 days after receiving it. The Secretary shall approve the program (except as the program is related to flight procedures referred to in subsection (a)(2)(D)) if the program—
+(A)
+ does not place an unreasonable burden on interstate or foreign commerce;
+
+
+
+
+(B)
+ is reasonably consistent with achieving the goal of reducing noncompatible uses and preventing the introduction of additional noncompatible uses; and
+
+
+
+
+(C)
+ provides for necessary revisions because of a revised map submitted under 
+section 47503(b) of this title
+.
+
+
+
+
+
+
+(2)
+ A program (except as the program is related to flight procedures referred to in subsection (a)(2)(D) of this section) is deemed to be approved if the Secretary does not act within the 180-day period.
+
+
+
+
+(3)
+ The Secretary shall submit any part of a program related to flight procedures referred to in subsection (a)(2)(D) of this section to the Administrator of the Federal Aviation Administration. The Administrator shall approve or disapprove that part of the program.
+
+
+
+
+(4)
+ The Secretary shall not approve in fiscal years 2004 through 2007 a program submitted under subsection (a) if the program requires the expenditure of funds made available under section 48103 for mitigation of aircraft noise less than 65 DNL.
+
+
+
+
+(c)
+ 
+Grants
+.—
+(1)
+ The Secretary may incur obligations to make grants from amounts available under 
+section 48103 of this title
+ to carry out a project under a part of a noise compatibility program approved under subsection (b) of this section. A grant may be made to—
+(A)
+ an airport operator submitting the program; and
+
+
+
+
+(B)
+ a unit of local government in the area surrounding the airport, if the Secretary decides the unit is able to carry out the project.
+
+
+
+
+
+
+(2)
+ 
+Soundproofing and acquisition of certain residential buildings and properties
+.—
+The Secretary may incur obligations to make grants from amounts made available under 
+section 48103 of this title
+—
+(A)
+ for projects to soundproof residential buildings—
+(i)
+ if the airport operator received approval for a grant for a project to soundproof residential buildings pursuant to section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987;
+
+
+
+
+(ii)
+ if the airport operator submits updated noise exposure contours, as required by the Secretary; and
+
+
+
+
+(iii)
+ if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
+
+
+
+
+
+
+(B)
+ to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airport—
+(i)
+ if the airport operator amended an existing local aircraft noise regulation during calendar year 1993 to increase the maximum permitted noise levels for scheduled air carrier aircraft as a direct result of implementation of revised aircraft noise departure procedures mandated for aircraft safety purposes by the Administrator of the Federal Aviation Administration for standardized application at airports served by scheduled air carriers;
+
+
+
+
+(ii)
+ if the airport operator submits updated noise exposure contours, as required by the Secretary; and
+
+
+
+
+(iii)
+ if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
+
+
+
+
+
+
+(C)
+ to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before 
+February 18, 1980
+, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
+
+
+
+
+(D)
+ to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise; and
+
+
+
+
+(E)
+ to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations.
+
+
+
+
+
+
+(3)
+ An airport operator may agree to make a grant made under paragraph (1)(A) of this subsection available to a public agency in the area surrounding the airport if the Secretary decides the agency is able to carry out the project.
+
+
+
+
+(4)
+ The Government’s share of a project for which a grant is made under this subsection is the greater of—
+(A)
+ 80 percent of the cost of the project; or
+
+
+
+
+(B)
+ the Government’s share that would apply if the amounts available for the project were made available under subchapter I of chapter 471 of this title for a project at the airport.
+
+
+
+
+
+
+(5)
+ The provisions of subchapter I of chapter 471 of this title related to grants apply to a grant made under this chapter, except—
+(A)
+ section 47109(a) and (b) of this title; and
+
+
+
+
+(B)
+ any provision that the Secretary decides is inconsistent with, or unnecessary to carry out, this chapter.
+
+
+
+
+
+
+(6)
+ 
+Aircraft noise primarily caused by military aircraft
+.—
+The Secretary may make a grant under this subsection for a project even if the purpose of the project is to mitigate the effect of noise primarily caused by military aircraft at an airport.
+
+
+
+
+(d)
+ 
+Government Relief From Liability
+.—
+The Government is not liable for damages from aviation noise because of action taken under this section.
+
+
+(e)
+ Grants for Assessment of Flight Procedures.—
+(1)
+ 
+In general
+.—
+In accordance with subsection (c)(1), the Secretary may make a grant to an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
+
+
+
+
+(2)
+ 
+Additional staff
+.—
+The Administrator may accept funds from an airport operator, including funds provided to the operator under paragraph (1), to hire additional staff or obtain the services of consultants in order to facilitate the timely processing, review, and completion of environmental activities associated with proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
+
+
+
+
+(3)
+ 
+Receipts credited as offsetting collections
+.—
+Notwithstanding 
+section 3302 of title 31
+, any funds accepted under this section—
+(A)
+ shall be credited as offsetting collections to the account that finances the activities and services for which the funds are accepted;
+
+
+
+
+(B)
+ shall be available for expenditure only to pay the costs of activities and services for which the funds are accepted; and
+
+
+
+
+(C)
+ shall remain available until expended.
+
+
+
+
+
+
+(f)
+ 
+Determination of Fair Market Value of Residential Properties
+.—
+In approving a project to acquire residential real property using financial assistance made available under this section or chapter 471, the Secretary shall ensure that the appraisal of the property to be acquired disregards any decrease or increase in the fair market value of the real property caused by the project for which the property is to be acquired, or by the likelihood that the property would be acquired for the project, other than that due to physical deterioration within the reasonable control of the owner.
+
+
+ Airport noise compatibility planning grants
+(a)
+ 
+General Authority
+.—
+The Secretary of Transportation may make a grant to a sponsor of an airport to develop, for planning purposes, information necessary to prepare and submit—
+(1)
+ a noise exposure map and related information under 
+section 47503 of this title
+, including the cost of obtaining the information; or
+
+
+
+
+(2)
+ a noise compatibility program under 
+section 47504 of this title
+.
+
+
+
+
+(b)
+ 
+Availability of Amounts and Government’s Share of Costs
+.—
+A grant under subsection (a) of this section may be made from amounts available under 
+section 48103 of this title
+. The United States Government’s share of the grant is the percent for which a project for airport development at an airport would be eligible under section 47109(a) and (b) of this title.
+
+
+ Limitations on recovering damages for noise
+(a)
+ 
+General Limitations
+.—
+A person acquiring an interest in property after 
+February 18, 1980
+, in an area surrounding an airport for which a noise exposure map has been submitted under 
+section 47503 of this title
+ and having actual or constructive knowledge of the existence of the map may recover damages for noise attributable to the airport only if, in addition to any other elements for recovery of damages, the person shows that—
+(1)
+ after acquiring the interest, there was a significant—
+(A)
+ change in the type or frequency of aircraft operations at the airport;
+
+
+
+
+(B)
+ change in the airport layout;
+
+
+
+
+(C)
+ change in flight patterns; or
+
+
+
+
+(D)
+ increase in nighttime operations; and
+
+
+
+
+
+
+(2)
+ the damages resulted from the change or increase.
+
+
+
+
+(b)
+ 
+Constructive Knowledge
+.—
+Constructive knowledge of the existence of a map under subsection (a) of this section shall be imputed, at a minimum, to a person if—
+(1)
+ before the person acquired the interest, notice of the existence of the map was published at least 3 times in a newspaper of general circulation in the county in which the property is located; or
+
+
+
+
+(2)
+ the person is given a copy of the map when acquiring the interest.
+
+
+
+
+ Nonadmissibility of noise exposure map and related information as evidence
+No part of a noise exposure map or related information described in 
+ Noise standards for air carriers and foreign air carriers providing foreign air transportation
+(a)
+ 
+General Requirements
+.—
+The Secretary of Transportation shall require each air carrier and foreign air carrier providing foreign air transportation to comply with noise standards—
+(1)
+ the Secretary prescribed for new subsonic aircraft in regulations of the Secretary in effect on 
+January 1, 1977
+; or
+
+
+
+
+(2)
+ of the International Civil Aviation Organization that are substantially compatible with standards of the Secretary for new subsonic aircraft in regulations of the Secretary at parts 36 and 91 of title 14, Code of Federal Regulations, prescribed between 
+January 2, 1977
+, and 
+January 1, 1982
+.
+
+
+
+
+(b)
+ 
+Compliance at Phased Rate
+.—
+The Secretary shall require each air carrier and foreign air carrier providing foreign air transportation to comply with the noise standards at a phased rate similar to the rate for aircraft registered in the United States.
+
+
+(c)
+ 
+Nondiscrimination
+.—
+The requirement for air carriers providing foreign air transportation may not be more stringent than the requirement for foreign air carriers.
+
+
+“(a)
+ 
+Development of New Standards
+.—
+The Secretary [of Transportation] shall continue to work to develop through the International Civil Aviation Organization new performance standards for aircraft and aircraft engines that will lead to a further reduction in aircraft noise levels.
+
+
+“(b)
+ 
+Goals To Be Considered in Developing New Standards
+.—
+In negotiating standards under subsection (a), the Secretary shall give high priority to developing standards that—
+“(1)
+ are performance based and can be achieved by use of a full range of certifiable noise reduction technologies;
+
+
+
+
+“(2)
+ protect the useful economic value of existing Stage 3 aircraft in the United States fleet;
+
+
+
+
+“(3)
+ ensure that United States air carriers and aircraft engine and hushkit manufacturers are not competitively disadvantaged;
+
+
+
+
+“(4)
+ use dynamic economic modeling capable of determining impacts on all aircraft in service in the United States fleet; and
+
+
+
+
+“(5)
+ continue the use of a balanced approach to address aircraft environmental issues, taking into account aircraft technology, land use planning, economic feasibility, and airspace operational improvements.
+
+
+
+
+“(c)
+ 
+Annual Report
+.—
+Not later than 
+July 1, 2000
+, and annually thereafter, the Secretary shall transmit to Congress a report regarding the application of new standards or technologies to reduce aircraft noise levels.”
+
+
+“(a)
+ 
+Establishment
+.—
+The Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall jointly conduct a research program to develop new technologies for quieter subsonic jet aircraft engines and airframes.
+
+
+“(b)
+ 
+Goal
+.—
+The goal of the research program established by subsection (a) is to develop by the year 2010 technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
+
+
+“(c)
+ 
+Participation
+.—
+In carrying out the program established by subsection (a), the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall encourage the participation of representatives of the aviation industry and academia.
+
+
+“(d)
+ 
+Report to Congress
+.—
+The Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall jointly submit to Congress, on an annual basis during the term of the program established by subsection (a), a report on the progress being made under the program toward meeting the goal described in subsection (b).”
+
+
+ Research program on quiet aircraft technology for propeller and rotor driven aircraft
+(a)
+ 
+Establishment
+.—
+The Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall conduct a study to identify technologies for noise reduction of propeller driven aircraft and rotorcraft.
+
+
+(b)
+ 
+Goal
+.—
+The goal of the study conducted under subsection (a) is to determine the status of research and development now underway in the area of quiet technology for propeller driven aircraft and rotorcraft, including technology that is cost beneficial, and to determine whether a research program to supplement existing research activities is necessary.
+
+
+(c)
+ 
+Participation
+.—
+In conducting the study required under subsection (a), the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall encourage the participation of the Department of Defense, the Department of the Interior, the airtour industry, the aviation industry, academia and other appropriate groups.
+
+
+(d)
+ 
+Report
+.—
+Not less than 280 days after 
+August 23, 1994
+, the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall transmit to Congress a report on the results of the study required under subsection (a).
+
+
+(e)
+ 
+Research and Development Program
+.—
+If the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration determine that additional research and development is necessary and would substantially contribute to the development of quiet aircraft technology, then the agencies shall conduct an appropriate research program in consultation with the entities listed in subsection (c) to develop safe, effective, and economical noise reduction technology (including technology that can be applied to existing propeller driven aircraft and rotorcraft) that would result in aircraft that operate at substantially reduced levels of noise to reduce the impact of such aircraft and rotorcraft on the resources of national parks and other areas.
+
+
+ Tradeoff allowance
+Notwithstanding another law or a regulation prescribed or order issued under that law, the tradeoff provisions contained in appendix C of part 36 of title 14, Code of Federal Regulations, apply in deciding whether an aircraft complies with subpart I of part 91 of title 14.
+ Findings
+ Definitions
+ National aviation noise policy
+(a)
+ 
+General Requirements
+.—
+Not later than 
+July 1, 1991
+, the Secretary of Transportation shall establish by regulation a national aviation noise policy that considers this subchapter, including the phaseout and nonaddition of stage 2 aircraft as provided in this subchapter and dates for carrying out that policy and reporting requirements consistent with this subchapter and law existing as of 
+November 5, 1990
+.
+
+
+(b)
+ 
+Detailed Economic Analysis
+.—
+The policy shall be based on a detailed economic analysis of the impact of the phaseout date for stage 2 aircraft on competition in the airline industry, including—
+(1)
+ the ability of air carriers to achieve capacity growth consistent with the projected rate of growth for the airline industry;
+
+
+
+
+(2)
+ the impact of competition in the airline and air cargo industries;
+
+
+
+
+(3)
+ the impact on nonhub and small community air service; and
+
+
+
+
+(4)
+ the impact on new entry into the airline industry.
+
+
+
+
+ Airport noise and access restriction review program
+(a)
+ 
+General Requirements
+.—
+The national aviation noise policy established under 
+section 47523 of this title
+ shall provide for establishing by regulation a national program for reviewing airport noise and access restrictions on the operation of stage 2 and stage 3 aircraft. The program shall provide for adequate public notice and opportunity for comment on the restrictions.
+
+
+(b)
+ 
+Stage
+ 2 
+Aircraft
+.—
+Except as provided in subsection (d) of this section, an airport noise or access restriction may include a restriction on the operation of stage 2 aircraft proposed after 
+October 1, 1990
+, only if the airport operator publishes the proposed restriction and prepares and makes available for public comment at least 180 days before the effective date of the proposed restriction—
+(1)
+ an analysis of the anticipated or actual costs and benefits of the existing or proposed restriction;
+
+
+
+
+(2)
+ a description of alternative restrictions;
+
+
+
+
+(3)
+ a description of the alternative measures considered that do not involve aircraft restrictions; and
+
+
+
+
+(4)
+ a comparison of the costs and benefits of the alternative measures to the costs and benefits of the proposed restriction.
+
+
+
+
+(c)
+ 
+Stage
+ 3 
+Aircraft
+.—
+(1)
+ Except as provided in subsection (d) of this section, an airport noise or access restriction on the operation of stage 3 aircraft not in effect on 
+October 1, 1990
+, may become effective only if the restriction has been agreed to by the airport proprietor and all aircraft operators or has been submitted to and approved by the Secretary of Transportation after an airport or aircraft operator’s request for approval as provided by the program established under this section. Restrictions to which this paragraph applies include—
+(A)
+ a restriction on noise levels generated on either a single event or cumulative basis;
+
+
+
+
+(B)
+ a restriction on the total number of stage 3 aircraft operations;
+
+
+
+
+(C)
+ a noise budget or noise allocation program that would include stage 3 aircraft;
+
+
+
+
+(D)
+ a restriction on hours of operations; and
+
+
+
+
+(E)
+ any other restriction on stage 3 aircraft.
+
+
+
+
+
+
+(2)
+ Not later than 180 days after the Secretary receives an airport or aircraft operator’s request for approval of an airport noise or access restriction on the operation of a stage 3 aircraft, the Secretary shall approve or disapprove the restriction. The Secretary may approve the restriction only if the Secretary finds on the basis of substantial evidence that—
+(A)
+ the restriction is reasonable, nonarbitrary, and nondiscriminatory;
+
+
+
+
+(B)
+ the restriction does not create an unreasonable burden on interstate or foreign commerce;
+
+
+
+
+(C)
+ the restriction is not inconsistent with maintaining the safe and efficient use of the navigable airspace;
+
+
+
+
+(D)
+ the restriction does not conflict with a law or regulation of the United States;
+
+
+
+
+(E)
+ an adequate opportunity has been provided for public comment on the restriction; and
+
+
+
+
+(F)
+ the restriction does not create an unreasonable burden on the national aviation system.
+
+
+
+
+
+
+(3)
+ Paragraphs (1) and (2) of this subsection do not apply if the Administrator of the Federal Aviation Administration, before 
+November 5, 1990
+, has formed a working group (outside the process established by part 150 of title 14, Code of Federal Regulations) with a local airport operator to examine the noise impact of air traffic control procedure changes at the airport. However, if an agreement on noise reductions at that airport is made between the airport proprietor and one or more air carriers or foreign air carriers that constitute a majority of the carrier use of the airport, this paragraph applies only to a local action to enforce the agreement.
+
+
+
+
+(4)
+ The Secretary may reevaluate an airport noise or access restriction previously agreed to or approved under this subsection on request of an aircraft operator able to demonstrate to the satisfaction of the Secretary that there has been a change in the noise environment of the affected airport that justifies a reevaluation. The Secretary shall establish by regulation procedures for conducting a reevaluation. A reevaluation—
+(A)
+ shall be based on the criteria in paragraph (2) of this subsection; and
+
+
+
+
+(B)
+ may be conducted only after 2 years after a decision under paragraph (2) of this subsection has been made.
+
+
+
+
+
+
+(d)
+ 
+Nonapplication
+.—
+Subsections (b) and (c) of this section do not apply to—
+(1)
+ a local action to enforce a negotiated or executed airport noise or access agreement between the airport operator and the aircraft operators in effect on 
+November 5, 1990
+;
+
+
+
+
+(2)
+ a local action to enforce a negotiated or executed airport noise or access restriction agreed to by the airport operator and the aircraft operators before 
+November 5, 1990
+;
+
+
+
+
+(3)
+ an intergovernmental agreement including an airport noise or access restriction in effect on 
+November 5, 1990
+;
+
+
+
+
+(4)
+ a subsequent amendment to an airport noise or access agreement or restriction in effect on 
+November 5, 1990
+, that does not reduce or limit aircraft operations or affect aircraft safety;
+
+
+
+
+(5)
+(A)
+ an airport noise or access restriction adopted by an airport operator not later than 
+October 1, 1990
+, and stayed as of 
+October 1, 1990
+, by a court order or as a result of litigation, if any part of the restriction is subsequently allowed by a court to take effect; or
+
+
+
+
+(B)
+ a new restriction imposed by an airport operator to replace any part of a restriction described in subclause (A) of this clause that is disallowed by a court, if the new restriction would not prohibit aircraft operations in effect on 
+November 5, 1990
+; or
+
+
+
+
+
+
+(6)
+ a local action that represents the adoption of the final part of a program of a staged airport noise or access restriction if the initial part of the program was adopted during 1988 and was in effect on 
+November 5, 1990
+.
+
+
+
+
+(e)
+ 
+Grant Limitations
+.—
+Beginning on the 91st day after the Secretary prescribes a regulation under subsection (a) of this section, a sponsor of a facility operating under an airport noise or access restriction on the operation of stage 3 aircraft that first became effective after 
+October 1, 1990
+, is eligible for a grant under 
+section 47104 of this title
+ and is eligible to impose a passenger facility charge under 
+section 40117 of this title
+ only if the restriction has been—
+(1)
+ agreed to by the airport proprietor and aircraft operators;
+
+
+
+
+(2)
+ approved by the Secretary as required by subsection (c)(1) of this section; or
+
+
+
+
+(3)
+ rescinded.
+
+
+
+
+ Decision about airport noise and access restrictions on certain stage 2 aircraft
+ Limitations for noncomplying airport noise and access restrictions
+ Liability of the United States Government for noise damages
+When a proposed airport noise or access restriction is disapproved under this subchapter, the United States Government shall assume liability for noise damages only to the extent that a taking has occurred as a direct result of the disapproval. The United States Court of Federal Claims has exclusive jurisdiction of a civil action under this section.
+ Prohibition on operating certain aircraft not complying with stage 3 noise levels
+(a)
+ 
+Prohibition
+.—
+Except as provided in subsection (b) or (f) of this section and 
+section 47530 of this title
+, a person may operate after 
+December 31, 1999
+, a civil subsonic turbojet (for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
+
+
+(b)
+ 
+Waivers
+.—
+(1)
+ If, not later than 
+July 1, 1999
+, at least 85 percent of the aircraft used by an air carrier or foreign air carrier to provide air transportation comply with the stage 3 noise levels, the carrier may apply for a waiver of subsection (a) of this section for the remaining aircraft used by the carrier to provide air transportation. The application must be filed with the Secretary not later than 
+January 1, 1999
+, or, in the case of a foreign air carrier, the 15th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century and must include a plan with firm orders for making all aircraft used by the carrier to provide air transportation comply with the noise levels not later than 
+December 31, 2003
+.
+
+
+
+
+(2)
+ The Secretary may grant a waiver under this subsection if the Secretary finds it would be in the public interest. In making the finding, the Secretary shall consider the effect of granting the waiver on competition in the air carrier industry and on small community air service.
+
+
+
+
+(3)
+ A waiver granted under this subsection may not permit the operation of stage 2 aircraft in the United States after 
+December 31, 2003
+.
+
+
+
+
+(c)
+ 
+Schedule for Phased-In Compliance
+.—
+The Secretary shall establish by regulation a schedule for phased-in compliance with subsection (a) of this section. The phase-in period shall begin on 
+November 5, 1990
+, and end before 
+December 31, 1999
+. The regulations shall establish interim compliance dates. The schedule for phased-in compliance shall be based on—
+(1)
+ a detailed economic analysis of the impact of the phaseout date for stage 2 aircraft on competition in the airline industry, including—
+(A)
+ the ability of air carriers to achieve capacity growth consistent with the projected rate of growth for the airline industry;
+
+
+
+
+(B)
+ the impact of competition in the airline and air cargo industries;
+
+
+
+
+(C)
+ the impact on nonhub and small community air service; and
+
+
+
+
+(D)
+ the impact on new entry into the airline industry; and
+
+
+
+
+
+
+(2)
+ an analysis of the impact of aircraft noise on individuals residing near airports.
+
+
+
+
+(d)
+ 
+Annual Report
+.—
+Beginning with calendar year 1992—
+(1)
+ each air carrier shall submit to the Secretary an annual report on the progress the carrier is making toward complying with the requirements of this section and regulations prescribed under this section; and
+
+
+
+
+(2)
+ the Secretary shall submit to Congress an annual report on the progress being made toward that compliance.
+
+
+
+
+(e)
+ 
+Hawaiian Operations
+.—
+(1)
+ In this subsection, “turnaround service” means a flight between places only in Hawaii.
+
+
+
+
+(2)
+(A)
+ An air carrier or foreign air carrier may not operate in Hawaii, or between a place in Hawaii and a place outside the 48 contiguous States, a greater number of stage 2 aircraft with a maximum weight of more than 75,000 pounds than it operated in Hawaii, or between a place in Hawaii and a place outside the 48 contiguous States, on 
+November 5, 1990
+.
+
+
+
+
+(B)
+ An air carrier that provided turnaround service in Hawaii on 
+November 5, 1990
+, using stage 2 aircraft with a maximum weight of more than 75,000 pounds may include in the number of aircraft authorized under subparagraph (A) of this paragraph all stage 2 aircraft with a maximum weight of more than 75,000 pounds that were owned or leased by that carrier on that date, whether or not the aircraft were operated by the carrier on that date.
+
+
+
+
+
+
+(3)
+ An air carrier may provide turnaround service in Hawaii using stage 2 aircraft with a maximum weight of more than 75,000 pounds only if the carrier provided the service on 
+November 5, 1990
+.
+
+
+
+
+(4)
+ An air carrier operating stage 2 aircraft under this subsection may transport stage 2 aircraft to or from the 48 contiguous States on a nonrevenue basis in order—
+(A)
+ to perform maintenance (including major alterations) or preventative maintenance on aircraft operated, or to be operated, within the limitations of paragraph (2)(B); or
+
+
+
+
+(B)
+ conduct operations within the limitations of paragraph (2)(B).
+
+
+
+
+
+
+(f)
+ Aircraft Modification, Disposal, Scheduled Heavy Maintenance, or Leasing.—
+(1)
+ 
+In general
+.—
+The Secretary shall permit a person to operate after 
+December 31, 1999
+, a stage 2 aircraft in nonrevenue service through the airspace of the United States or to or from an airport in the contiguous 48 States in order to—
+(A)
+ sell, lease, or use the aircraft outside the contiguous 48 States;
+
+
+
+
+(B)
+ scrap the aircraft;
+
+
+
+
+(C)
+ obtain modifications to the aircraft to meet stage 3 noise levels;
+
+
+
+
+(D)
+ perform scheduled heavy maintenance or significant modifications on the aircraft at a maintenance facility located in the contiguous 48 States;
+
+
+
+
+(E)
+ deliver the aircraft to an operator leasing the aircraft from the owner or return the aircraft to the lessor;
+
+
+
+
+(F)
+ prepare or park or store the aircraft in anticipation of any of the activities described in subparagraphs (A) through (E); or
+
+
+
+
+(G)
+ divert the aircraft to an alternative airport in the contiguous 48 States on account of weather, mechanical, fuel, air traffic control, or other safety reasons while conducting a flight in order to perform any of the activities described in subparagraphs (A) through (F).
+
+
+
+
+
+
+(2)
+ 
+Procedure To Be Published
+.—
+Not later than 30 days after the date of the enactment of this subsection, the Secretary shall establish and publish a procedure to implement paragraph (1) through the use of categorical waivers, ferry permits, or other means.
+
+
+
+
+(g)
+ 
+Statutory Construction
+.—
+Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on 
+November 1, 1999
+.
+
+
+ Nonaddition rule
+(a)
+ 
+General Limitations
+.—
+Except as provided in subsection (b) of this section and 
+section 47530 of this title
+, a person may operate a civil subsonic turbojet aircraft with a maximum weight of more than 75,000 pounds that is imported into the United States after 
+November 4, 1990
+, only if the aircraft—
+(1)
+ complies with the stage 3 noise levels; or
+
+
+
+
+(2)
+ was purchased by the person importing the aircraft into the United States under a legally binding contract made before 
+November 5, 1990
+.
+
+
+
+
+(b)
+ 
+Exemptions
+.—
+The Secretary of Transportation may provide an exemption from subsection (a) of this section to permit a person to obtain modifications to an aircraft to meet the stage 3 noise levels.
+
+
+(c)
+ 
+Aircraft Deemed Not Imported
+.—
+In this section, an aircraft is deemed not to have been imported into the United States if the aircraft—
+(1)
+ was owned on 
+November 5, 1990
+, by—
+(A)
+ a corporation, trust, or partnership organized under the laws of the United States or a State (including the District of Columbia);
+
+
+
+
+(B)
+ an individual who is a citizen of the United States; or
+
+
+
+
+(C)
+ an entity that is owned or controlled by a corporation, trust, partnership, or individual described in subclause (A) or (B) of this clause; and
+
+
+
+
+
+
+(2)
+ enters the United States not later than 6 months after the expiration of a lease agreement (including any extension) between an owner described in clause (1) of this subsection and a foreign carrier.
+
+
+
+
+ Nonapplication of sections 47528(a)–(d) and 47529 to aircraft outside the 48 contiguous States
+Sections 47528(a)–(d) and 47529 of this title do not apply to aircraft used only to provide air transportation outside the 48 contiguous States. A civil subsonic turbojet aircraft with a maximum weight of more than 75,000 pounds that is imported into a noncontiguous State or a territory or possession of the United States after 
+ Penalties
+A person violating section 47528, 47529, 47530, or 47534 of this title or a regulation prescribed under any of those sections is subject to the same civil penalties and procedures under chapter 463 of this title as a person violating section 44701(a) or (b) or any of sections 44702–44716 of this title.
+ Judicial review
+An action taken by the Secretary of Transportation under any of sections 47528–47531 or 47534 of this title is subject to judicial review as provided under 
+ Relationship to other laws
+ Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels
+(a)
+ 
+Prohibition
+.—
+Except as otherwise provided by this section, after 
+December 31, 2015
+, a person may not operate a civil subsonic jet airplane with a maximum weight of 75,000 pounds or less, and for which an airworthiness certificate (other than an experimental certificate) has been issued, to or from an airport in the United States unless the Secretary of Transportation finds that the aircraft complies with stage 3 noise levels.
+
+
+(b)
+ 
+Aircraft Operations Outside 48 Contiguous States
+.—
+Subsection (a) shall not apply to aircraft operated only outside the 48 contiguous States.
+
+
+(c)
+ 
+Temporary Operations
+.—
+The Secretary may allow temporary operation of an aircraft otherwise prohibited from operation under subsection (a) to or from an airport in the contiguous United States by granting a special flight authorization for one or more of the following circumstances:
+(1)
+ To sell, lease, or use the aircraft outside the 48 contiguous States.
+
+
+
+
+(2)
+ To scrap the aircraft.
+
+
+
+
+(3)
+ To obtain modifications to the aircraft to meet stage 3 noise levels.
+
+
+
+
+(4)
+ To perform scheduled heavy maintenance or significant modifications on the aircraft at a maintenance facility located in the contiguous 48 States.
+
+
+
+
+(5)
+ To deliver the aircraft to an operator leasing the aircraft from the owner or return the aircraft to the lessor.
+
+
+
+
+(6)
+ To prepare, park, or store the aircraft in anticipation of any of the activities described in paragraphs (1) through (5).
+
+
+
+
+(7)
+ To provide transport of persons and goods in the relief of an emergency situation.
+
+
+
+
+(8)
+ To divert the aircraft to an alternative airport in the 48 contiguous States on account of weather, mechanical, fuel, air traffic control, or other safety reasons while conducting a flight in order to perform any of the activities described in paragraphs (1) through (7).
+
+
+
+
+(d)
+ 
+Regulations
+.—
+The Secretary may prescribe such regulations or other guidance as may be necessary for the implementation of this section.
+
+
+(e)
+ Statutory Construction.—
+(1)
+ 
+AIP grant assurances
+.—
+Noncompliance with subsection (a) shall not be construed as a violation of section 47107 or any regulations prescribed thereunder.
+
+
+
+
+(2)
+ 
+Pending applications
+.—
+Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration, with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on the date of enactment of this section.
+
+
+
+

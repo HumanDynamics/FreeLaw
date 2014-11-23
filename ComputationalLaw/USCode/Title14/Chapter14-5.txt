@@ -1,0 +1,1207 @@
+
+Chapter 5
+FUNCTIONS AND POWERS
+ Aids to navigation authorized
+ Repealed. 
+ Unauthorized aids to maritime navigation; penalty
+No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $100 for each offense. Each day during which such violation continues shall be considered as a new offense.
+ Interference with aids to navigation; penalty
+It shall be unlawful for any person, or public body, or instrumentality, excluding the armed forces, to remove, change the location of, obstruct, wilfully damage, make fast to, or interfere with any aid to navigation established, installed, operated, or maintained by the Coast Guard pursuant to 
+ Aids to maritime navigation; penalty
+The Secretary shall prescribe and enforce necessary and reasonable rules and regulations, for the protection of maritime navigation, relative to the establishment, maintenance, and operation of lights and other signals on fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States. Any owner or operator of such a structure, excluding an agency of the United States, who violates any of the rules or regulations prescribed hereunder, commits a misdemeanor and shall be punished, upon conviction thereof, by a fine of not exceeding $100 for each day which such violation continues.
+ Marking of obstructions
+The Secretary may mark for the protection of navigation any sunken vessel or other obstruction existing on the navigable waters or waters above the continental shelf of the United States in such manner and for so long as, in his judgment, the needs of maritime navigation require. The owner of such an obstruction shall be liable to the United States for the cost of such marking until such time as the obstruction is removed or its abandonment legally established or until such earlier time as the Secretary may determine. All moneys received by the United States from the owners of obstructions, in accordance with this section, shall be covered into the Treasury of the United States as miscellaneous receipts. This section shall not be construed so as to relieve the owner of any such obstruction from the duty and responsibility suitably to mark the same and remove it as required by law.
+ Repealed. 
+ Saving life and property
+(a)
+ In order to render aid to distressed persons, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to persons and property imperiled by flood, the Coast Guard may:
+(1)
+ perform any and all acts necessary to rescue and aid persons and protect and save property;
+
+
+
+
+(2)
+ take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by persons legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
+
+
+
+
+(3)
+ furnish clothing, food, lodging, medicines, and other necessary supplies and services to persons succored by the Coast Guard; and
+
+
+
+
+(4)
+ destroy or tow into port sunken or floating dangers to navigation.
+
+
+
+
+(b)
+(1)
+ Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+
+
+
+
+(2)
+ The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to 
+section 8904(b) of title 46
+, United States Code, in rendering aid under this subsection in nonemergency cases.
+
+
+
+
+(c)
+ An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
+(1)
+ guilty of a class D felony;
+
+
+
+
+(2)
+ subject to a civil penalty of not more than $5,000; and
+
+
+
+
+(3)
+ liable for all costs the Coast Guard incurs as a result of the individual’s action.
+
+
+
+
+(d)
+ The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
+
+
+(e)
+ An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—
+(1)
+ guilty of a class E felony; and
+
+
+
+
+(2)
+ subject to a civil penalty of not more than $1,000 per day for each violation.
+
+
+
+
+“(a)
+ 
+Report
+.—
+The Secretary of the department in which the Coast Guard is operating shall prepare a status report on the modernization of the National Distress and Response System and transmit the report, not later than 60 days after the date of enactment of this Act [
+Nov. 25, 2002
+] and annually thereafter until completion of the project, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+
+“(b)
+ 
+Contents
+.—
+The report required by subsection (a) shall—
+“(1)
+ set forth the scope of the modernization, the schedule for completion of the System, and information on progress in meeting the schedule and on any anticipated delays;
+
+
+
+
+“(2)
+ specify the funding expended to-date on the System, the funding required to complete the System, and the purposes for which the funds were or will be expended;
+
+
+
+
+“(3)
+ describe and map the existing public and private communications coverage throughout the waters of the coastal and internal regions of the continental United States, Alaska, Hawaii, Guam, and the Caribbean, and identify locations that possess direction-finding, asset-tracking communications, and digital selective calling service;
+
+
+
+
+“(4)
+ identify areas of high risk to boaters and Coast Guard personnel due to communications gaps;
+
+
+
+
+“(5)
+ specify steps taken by the Secretary to fill existing gaps in coverage, including obtaining direction-finding equipment, digital recording systems, asset-tracking communications, use of commercial VHF services, and digital selective calling services that meet or exceed Global Maritime Distress and Safety System requirements adopted under the International Convention for the Safety of Life at Sea [see 
+33 U.S.C. 1602
+ and notes thereunder];
+
+
+
+
+“(6)
+ identify the number of VHF–FM radios equipped with digital selective calling sold to United States boaters;
+
+
+
+
+“(7)
+ list all reported marine accidents, casualties, and fatalities occurring in areas with existing communications gaps or failures, including incidents associated with gaps in VHF–FM coverage or digital selected calling capabilities and failures associated with inadequate communications equipment aboard the involved vessels during calendar years 1997 and thereafter;
+
+
+
+
+“(8)
+ identify existing systems available to close all identified marine safety gaps before 
+January 1, 2003
+, including expeditious receipt and response by appropriate Coast Guard operations centers to VHF–FM digital selective calling distress signal; and
+
+
+
+
+“(9)
+ identify actions taken to-date to implement the recommendations of the National Transportation Safety Board in its Report No. MAR–99–01.”
+
+
+
+
+ Law enforcement
+(a)
+ The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship’s documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering a person liable to arrest is being, or has been committed, by any person, such person shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
+
+
+(b)
+ The officers of the Coast Guard insofar as they are engaged, pursuant to the authority contained in this section, in enforcing any law of the United States shall:
+(1)
+ be deemed to be acting as agents of the particular executive department or independent establishment charged with the administration of the particular law; and
+
+
+
+
+(2)
+ be subject to all the rules and regulations promulgated by such department or independent establishment with respect to the enforcement of that law.
+
+
+
+
+(c)
+ The provisions of this section are in addition to any powers conferred by law upon such officers, and not in limitation of any powers conferred by law upon such officers, or any other officers of the United States.
+
+
+ Repealed. 
+ Safety of naval vessels
+(a)
+ The Secretary may control the anchorage and movement of any vessel in the navigable waters of the United States to ensure the safety or security of any United States naval vessel in those waters.
+
+
+(b)
+ If the Secretary does not exercise the authority in subsection (a) of this section and immediate action is required, the senior naval officer present in command may control the anchorage or movement of any vessel in the navigable waters of the United States to ensure the safety and security of any United States naval vessel under the officer’s command.
+
+
+(c)
+ If a person violates, or a vessel is operated in violation of, this section or a regulation or order issued under this section, the person or vessel is subject to the enforcement provisions in section 13 of the Ports and Waterways Safety Act (
+33 U.S.C. 1232
+).
+
+
+(d)
+ As used in this section “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of 
+December 27, 1988
+.
+
+
+ Secretary; general powers
+(a)
+ establish, change the limits of, consolidate, discontinue, and re-establish Coast Guard districts;
+
+
+(b)
+ arrange with the Secretaries of the Army, Navy and Air Force to assign members of the Coast Guard to any school maintained by the Army, Navy, and Air Force, for instruction and training, including aviation schools;
+
+
+(c)
+ construct, or cause to be constructed, Coast Guard shore establishments;
+
+
+(d)
+ design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
+
+
+[(e)
+ Repealed. 
+Oct. 31, 1951, ch. 654, § 1(32)
+, 
+65 Stat. 702
+.]
+
+
+(f)
+ acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
+
+
+(g)
+ exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
+
+
+(h)
+ exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
+
+
+(i)
+ do any and all things necessary to carry out the purposes of this title.
+
+
+“(a)
+ 
+Purpose
+.—
+The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
+
+
+“(b)
+ 
+International Maritime Organization Agreements
+.—
+To carry out the purpose of this section, the Secretary of the department in which the Coast Guard is operating is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
+“(1)
+ placement and maintenance of aids to navigation;
+
+
+
+
+“(2)
+ appropriate marine safety, tug, and salvage capabilities;
+
+
+
+
+“(3)
+ oil spill prevention and response capability;
+
+
+
+
+“(4)
+ maritime domain awareness, including long-range vessel tracking; and
+
+
+
+
+“(5)
+ search and rescue.
+
+
+
+
+“(c)
+ 
+Coordination by Committee on the Maritime Transportation System
+.—
+The Committee on the Maritime Transportation System established under a directive of the President in the Ocean Action Plan, issued 
+December 17, 2004
+, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
+
+
+“(d)
+ 
+Agreements and Contracts
+.—
+The Secretary of the department in which the Coast Guard is operating may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
+
+
+“(e)
+ 
+Icebreaking
+.—
+The Secretary of the department in which the Coast Guard is operating shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
+
+
+“(f)
+ Independent Ice Breaker Analyses.—
+“(1)
+ 
+In general
+.—
+Not later than 90 days after the date of enactment of this Act [
+Oct. 15, 2010
+], the Secretary of the department in which the Coast Guard is operating shall require a nongovernmental, independent third party (other than the National Academy of Sciences) that has extensive experience in the analysis of military procurements, to—
+“(A)
+ conduct a comparative cost-benefit analysis, taking into account future Coast Guard budget projections (which assume Coast Guard budget growth of no more than inflation) and other recapitalization needs, of—
+“(i)
+ rebuilding, renovating, or improving the existing fleet of polar icebreakers for operation by the Coast Guard;
+
+
+
+
+“(ii)
+ constructing new polar icebreakers for operation by the Coast Guard;
+
+
+
+
+“(iii)
+ construction of new polar icebreakers by the National Science Foundation for operation by the Foundation;
+
+
+
+
+“(iv)
+ rebuilding, renovating, or improving the existing fleet of polar icebreakers by the National Science Foundation for operation by the Foundation; and
+
+
+
+
+“(v)
+ any combination of the activities described in clause (i), (ii), (iii), or (iv) to carry out the missions of the Coast Guard and the National Science Foundation; and
+
+
+
+
+
+
+“(B)
+ conduct a comprehensive analysis of the impact on all Coast Guard activities, including operations, maintenance, procurements, and end strength, of the acquisition of polar icebreakers described in subparagraph (A) by the Coast Guard or the National Science Foundation assuming that total Coast Guard funding will not increase more than the annual rate of inflation.
+
+
+
+
+
+
+“(2)
+ 
+Report
+.—
+Not later than 1 year after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall submit a report containing the results of the analyses required under paragraph (1), together with recommendations the Commandant considers appropriate under 
+section 93(a)(24) of title 14
+, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+
+
+
+“(g)
+ 
+High-Latitude Study
+.—
+Not later than 90 days after the date of enactment of this Act [
+Oct. 15, 2010
+] or the date of completion of the ongoing High-Latitude Study to assess polar icebreaking mission requirements for all Coast Guard missions including search and rescue, marine pollution response and prevention, fisheries enforcement, and maritime commerce, whichever occurs later, the Commandant of the Coast Guard shall submit a report containing the results of the study, together with recommendations the Commandant considers appropriate under 
+section 93(a)(24) of title 14
+, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+
+“(h)
+ 
+Arctic Definition
+.—
+In this section the term ‘Arctic’ has the same meaning as in section 112 of the Arctic Research and Policy Act of 1984 (
+15 U.S.C. 4111
+).”
+
+
+“(a)
+ 
+In General
+.—
+Whenever the transfer of ownership of a Coast Guard vessel or aircraft to an eligible entity for use for educational, cultural, historical, charitable, recreational, or other public purposes is authorized by law or declared excess by the Commandant, the Coast Guard shall transfer the vessel or aircraft to the General Services Administration for conveyance to the eligible entity.
+
+
+“(b)
+ 
+Conditions of Conveyance
+.—
+The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—
+“(1)
+ to provide the documentation needed by the General Services Administration to process a request for aircraft or vessels under section 102.37.225 of title 41, Code of Federal Regulations;
+
+
+
+
+“(2)
+ to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title;
+
+
+
+
+“(3)
+ to make the vessel available to the United States Government if it is needed for use by the Commandant of the Coast Guard in time of war or a national emergency; and
+
+
+
+
+“(4)
+ to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
+
+
+
+
+“(c)
+ 
+Other Obligations Unaffected
+.—
+Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act (
+15 U.S.C. 2601
+ et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls.
+
+
+“(d)
+ 
+Eligible Entity Defined
+.—
+In this section, the term ‘eligible entity’ means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section.”
+
+
+“(a)
+ 
+Findings
+.—
+The Congress finds the following:
+“(1)
+ The Great Lakes are home to more than 400 lighthouses. One hundred and twenty of these maritime landmarks are in the State of Michigan.
+
+
+
+
+“(2)
+ Lighthouses are an important part of Great Lakes culture and stand as a testament to the importance of shipping in the region’s political, economic, and social history.
+
+
+
+
+“(3)
+ Advances in navigation technology have made many Great Lakes lighthouses obsolete. In Michigan alone, approximately 70 lighthouses will be designated as excess property of the Federal Government and will be transferred to the General Services Administration for disposal.
+
+
+
+
+“(4)
+ Unfortunately, the Federal property disposal process is confusing, complicated, and not well-suited to disposal of historic lighthouses or to facilitate transfers to nonprofit organizations. This is especially troubling because, in many cases, local nonprofit historical organizations have dedicated tremendous resources to preserving and maintaining Great Lakes lighthouses.
+
+
+
+
+“(5)
+ If Great Lakes lighthouses disappear, the public will be unaware of an important chapter in Great Lakes history.
+
+
+
+
+“(6)
+ The National Trust for Historic Preservation has placed Michigan lighthouses on their list of Most Endangered Historic Places.
+
+
+
+
+“(b)
+ 
+Assistance for Great Lakes Lighthouse Preservation Efforts
+.—
+The Secretary of the department in which the Coast Guard is operating, may—
+“(1)
+ continue to offer advice and technical assistance to organizations in the Great Lakes region that are dedicated to lighthouse stewardship; and
+
+
+
+
+“(2)
+ promptly release information regarding the timing of designations of Coast Guard lighthouses on the Great Lakes as excess to the needs of the Coast Guard, to enable those organizations to mobilize and be prepared to take appropriate action with respect to the disposal of those properties.”
+
+
+
+
+“(a)
+ The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
+
+
+“(b)
+ Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
+
+
+“(c)
+ Nothing in this section shall affect the rights or obligations of the United States under section 704(c) of the Telecommunications Act of 1996 [
+Pub. L. 104–104
+] (
+47 U.S.C. 332
+ note) with respect to the availability of property or under section 359(d) of the Communications Act of 1934 (
+47 U.S.C. 357(d)
+) with respect to charges for transmission of distress messages.”
+
+
+“(a)
+ 
+Purchase of American-Made Equipment and Products
+.—
+It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American-made.
+
+
+“(b)
+ 
+Notice to Recipients of Assistance
+.—
+In providing financial assistance under this Act, the official responsible for providing the assistance, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of the department in which the Coast Guard is operating (hereinafter in this section referred to as the ‘Secretary’) may carry out a pilot program to establish and maintain a junior reserve officers training program in cooperation with the Dade County Public School System of Dade County, Florida, as part of the Maritime and Science Technology Academy established by that school system (hereinafter in this section referred to as the ‘Academy’).
+
+
+“(b)
+ 
+Program Requirements
+.—
+A pilot program carried out by the Secretary under this section—
+“(1)
+ shall be known as the ‘Claude Pepper Junior Reserve Officers Training Program’, and
+
+
+
+
+“(2)
+ shall provide to students at the Academy—
+“(A)
+ instruction in subject areas relating to operations of the Coast Guard; and
+
+
+
+
+“(B)
+ training in skills which are useful and appropriate for a career in the Coast Guard.
+
+
+
+
+
+
+“(c)
+ 
+Provision of Additional Support
+.—
+To carry out a pilot program under this section, the Secretary may provide to the Academy—
+“(1)
+ assistance in course development, instruction, and other support activities;
+
+
+
+
+“(2)
+ commissioned, warrant, and petty officers of the Coast Guard to serve as administrators and instructors; and
+
+
+
+
+“(3)
+ necessary and appropriate course materials, equipment, and uniforms.
+
+
+
+
+“(d)
+ Employment of Retired Coast Guard Personnel.—
+“(1)
+ 
+In general
+.—
+Subject to paragraph (2) of this subsection, the Secretary may authorize the Academy to employ as administrators and instructors for the pilot program retired Coast Guard and Coast Guard Reserve commissioned, warrant, and petty officers who request that employment and who are approved by the Secretary and the Academy.
+
+
+
+
+“(2)
+ 
+Authorized pay
+.—
+(A)
+ Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
+“(i)
+ the amount the individual would be paid as pay and allowance if they were considered to have been ordered to active duty during that period of employment; and
+
+
+
+
+“(ii)
+ the amount of retired pay the individual is entitled to receive during that period.
+
+
+
+
+
+
+“(B)
+ The Secretary shall pay to the Academy an amount equal to one half of the amount described in subparagraph (A) of this paragraph, from funds appropriated for that purpose.
+
+
+
+
+“(C)
+ Notwithstanding any other law, while employed under this subsection, an individual is not considered to be on active duty or inactive duty training.”
+
+
+
+
+
+
+ Commandant; general powers
+(a)
+ For the purpose of executing the duties and functions of the Coast Guard the Commandant may:
+(1)
+ maintain water, land, and air patrols, and ice-breaking facilities;
+
+
+
+
+(2)
+ establish and prescribe the purpose of, change the location of, consolidate, discontinue, re-establish, maintain, operate, and repair Coast Guard shore establishments;
+
+
+
+
+(3)
+ assign vessels, aircraft, vehicles, aids to navigation, equipment, appliances, and supplies to Coast Guard districts and shore establishments, and transfer any of the foregoing from one district or shore establishment to another;
+
+
+
+
+(4)
+ conduct experiments, investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function, including research, development, test, or evaluation related to intelligence systems and capabilities, and cooperate and coordinate such activities with other Government agencies and with private agencies;
+
+
+
+
+(5)
+ conduct any investigations or studies that may be of assistance to the Coast Guard in the performance of any of its powers, duties, or functions;
+
+
+
+
+(6)
+ collect, publish, and distribute information concerning Coast Guard operations;
+
+
+
+
+(7)
+ conduct or make available to personnel of the Coast Guard such specialized training and courses of instruction, including correspondence courses, as may be necessary or desirable for the good of the service;
+
+
+
+
+(8)
+ design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
+
+
+
+
+(9)
+ acquire, accept as gift, maintain, repair, and discontinue aids to navigation, appliances, equipment, and supplies;
+
+
+
+
+(10)
+ equip, operate, maintain, supply, and repair Coast Guard districts and shore establishments;
+
+
+
+
+(11)
+ establish, equip, operate, and maintain shops, depots, and yards for the manufacture and construction of aids to navigation, equipment, apparatus, vessels, vehicles, and aircraft not normally or economically obtainable from private contractors, and for the maintenance and repair of any property used by the Coast Guard;
+
+
+
+
+(12)
+ accept and utilize, in times of emergency in order to save life or protect property, such voluntary services as may be offered to the Coast Guard;
+
+
+
+
+(13)
+ rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the Treasury;
+
+
+
+
+(14)
+ grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
+
+
+
+
+(15)
+ establish, install, abandon, re-establish, reroute, operate, maintain, repair, purchase, or lease such telephone and telegraph lines and cables, together with all facilities, apparatus, equipment, structures, appurtenances, accessories, and supplies used or useful in connection with the installation, operation, maintenance, or repair of such lines and cables, including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration, and acquire such real property rights of way, easements, or attachment privileges as may be required for the installation, operation, and maintenance of such lines, cables, and equipment;
+
+
+
+
+(16)
+ establish, install, abandon, reestablish, change the location of, operate, maintain, and repair radio transmitting and receiving stations;
+
+
+
+
+(17)
+ provide medical and dental care for personnel entitled thereto by law or regulation, including care in private facilities;
+
+
+
+
+(18)
+ accept, under terms and conditions the Commandant establishes, the service of an individual ordered to perform community service under the order of a Federal, State, or municipal court;
+
+
+
+
+(19)
+ notwithstanding any other law, enter into cooperative agreements with States, local governments, non-governmental organizations, and individuals, to accept and utilize voluntary services for the maintenance and improvement of natural and historic resources on, or to benefit natural and historic research on, Coast Guard facilities, subject to the requirement that—
+(A)
+ the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
+
+
+
+
+(B)
+ a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
+
+
+
+
+
+
+(20)
+ enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
+
+
+
+
+(21)
+ require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in 
+section 30304(a) of title 49
+, be made available to the Commandant under 
+section 30305(a) of title 49
+, may receive that information, and upon receipt, shall make the information available to the individual;
+
+
+
+
+(22)
+ provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
+
+
+
+
+(23)
+ rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery; and
+
+
+
+
+(24)
+ after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
+
+
+
+
+(b)
+(1)
+ Notwithstanding subsection (a)(14), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
+
+
+
+
+(2)
+ A lease referred to in paragraph (1) is a lease—
+(A)
+ to the United States Coast Guard Academy Alumni Association for the construction of an Alumni Center on the grounds of the United States Coast Guard Academy; or
+
+
+
+
+(B)
+ to an entity with which the Commandant has a cooperative agreement under section 4(e) of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
+
+
+
+
+
+
+(c)
+ 
+Marine Safety Responsibilities
+.—
+In exercising the Commandant’s duties and responsibilities with regard to marine safety, the individual with the highest rank who meets the experience qualifications set forth in section 50(a)(3) shall serve as the principal advisor to the Commandant regarding—
+(1)
+ the operation, regulation, inspection, identification, manning, and measurement of vessels, including plan approval and the application of load lines;
+
+
+
+
+(2)
+ approval of materials, equipment, appliances, and associated equipment;
+
+
+
+
+(3)
+ the reporting and investigation of marine casualties and accidents;
+
+
+
+
+(4)
+ the licensing, certification, documentation, protection and relief of merchant seamen;
+
+
+
+
+(5)
+ suspension and revocation of licenses and certificates;
+
+
+
+
+(6)
+ enforcement of manning requirements, citizenship requirements, control of log books;
+
+
+
+
+(7)
+ documentation and numbering of vessels;
+
+
+
+
+(8)
+ State boating safety programs;
+
+
+
+
+(9)
+ commercial instruments and maritime liens;
+
+
+
+
+(10)
+ the administration of bridge safety;
+
+
+
+
+(11)
+ administration of the navigation rules;
+
+
+
+
+(12)
+ the prevention of pollution from vessels;
+
+
+
+
+(13)
+ ports and waterways safety;
+
+
+
+
+(14)
+ waterways management; including regulation for regattas and marine parades;
+
+
+
+
+(15)
+ aids to navigation; and
+
+
+
+
+(16)
+ other duties and powers of the Secretary related to marine safety and stewardship.
+
+
+
+
+(d)
+ 
+Other Authority Not Affected
+.—
+Nothing in subsection (c) affects—
+(1)
+ the authority of Coast Guard officers and members to enforce marine safety regulations using authority under 
+section 89 of this title
+; or
+
+
+
+
+(2)
+ the exercise of authority under 
+section 91 of this title
+ and the provisions of law codified at sections 191 through 195 of title 50 on the date of enactment of this paragraph.
+
+
+
+
+(e)
+ 
+Operation and Maintenance of Coast Guard Assets and Facilities
+.—
+All authority, including programmatic budget authority, for the operation and maintenance of Coast Guard vessels, aircraft, systems, aids to navigation, infrastructure, and other assets or facilities shall be allocated to and vested in the Coast Guard and the department in which the Coast Guard is operating.
+
+
+“(a)
+ 
+In General
+.—
+Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+
+“(b)
+ 
+Contents
+.—
+The report required under subsection (a) shall contain the following:
+“(1)
+ The number of sexual assaults against members of the Coast Guard, and the number of sexual assaults by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated.
+
+
+
+
+“(2)
+ A synopsis of, and the disciplinary action taken in, each substantiated case.
+
+
+
+
+“(3)
+ The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Coast Guard concerned.
+
+
+
+
+“(4)
+ A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Coast Guard concerned.”
+
+
+
+
+“(a)
+ 
+Operation and Maintenance Plan
+.—
+Not later than 90 days after the date of enactment of this Act [
+July 11, 2006
+], the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan—
+“(1)
+ for operation and maintenance after fiscal year 2006 of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY, that does not rely on the transfer of funds to the Coast Guard by any other Federal agency; and
+
+
+
+
+“(2)
+ for the long-term recapitalization of these assets.
+
+
+
+
+“(b)
+ 
+Necessary Measures
+.—
+The Secretary shall take all necessary measures to ensure that the Coast Guard maintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
+
+
+“(c)
+ 
+Reimbursement
+.—
+Nothing in this section shall preclude the Secretary from seeking reimbursement for operation and maintenance costs of such polar icebreakers from other Federal agencies and entities, including foreign countries, that benefit from the use of the icebreakers.
+
+
+“(d)
+ 
+Authorization of Appropriations
+.—
+There is authorized to be appropriated for fiscal year 2006 to the Secretary of the department in which the Coast Guard is operating $100,000,000 to carry out this section with respect to the polar icebreakers referred to in subsection (a).”
+
+
+“(a)
+ 
+In General
+.—
+The Commandant of the Coast Guard may provide support, with or without reimbursement, to an entity engaged in fishing vessel safety training, including—
+“(1)
+ assistance in developing training curricula;
+
+
+
+
+“(2)
+ use of Coast Guard personnel, including active duty members, members of the Coast Guard Reserve, and members of the Coast Guard Auxiliary, as temporary or adjunct instructors;
+
+
+
+
+“(3)
+ sharing of appropriate Coast Guard informational and safety publications; and
+
+
+
+
+“(4)
+ participation on applicable fishing vessel safety training advisory panels.
+
+
+
+
+“(b)
+ 
+No Interference With Other Functions
+.—
+In providing support under subsection (a), the Commandant shall ensure that the support does not interfere with any Coast Guard function or operation.”
+
+
+ Oceanographic research
+The Coast Guard shall conduct such oceanographic research, use such equipment or instruments, and collect and analyze such oceanographic data, in cooperation with other agencies of the Government, or not, as may be in the national interest.
+ Special agents of the Coast Guard Investigative Service law enforcement authority
+(a)
+(1)
+ A special agent of the Coast Guard Investigative Service designated under subsection (b) has the following authority:
+(A)
+ To carry firearms.
+
+
+
+
+(B)
+ To execute and serve any warrant or other process issued under the authority of the United States.
+
+
+
+
+(C)
+ To make arrests without warrant for—
+(i)
+ any offense against the United States committed in the agent’s presence; or
+
+
+
+
+(ii)
+ any felony cognizable under the laws of the United States if the agent has probable cause to believe that the person to be arrested has committed or is committing the felony.
+
+
+
+
+
+
+
+
+(2)
+ The authorities provided in paragraph (1) shall be exercised only in the enforcement of statutes for which the Coast Guard has law enforcement authority, or in exigent circumstances.
+
+
+
+
+(b)
+ The Commandant may designate to have the authority provided under subsection (a) any special agent of the Coast Guard Investigative Service whose duties include conducting, supervising, or coordinating investigation of criminal activity in programs and operations of the United States Coast Guard.
+
+
+(c)
+ The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary or the Attorney General.
+
+
+ Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards
+A Coast Guard vessel the home port of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
+ Procurement of buoy chain
+(a)
+ Except as provided in subsection (b), the Coast Guard may not procure buoy chain—
+(1)
+ that is not manufactured in the United States; or
+
+
+
+
+(2)
+ substantially all of the components of which are not produced or manufactured in the United States.
+
+
+
+
+(b)
+ The Coast Guard may procure buoy chain that is not manufactured in the United States if the Secretary determines that—
+(1)
+ the price of buoy chain manufactured in the United States is unreasonable; or
+
+
+
+
+(2)
+ emergency circumstances exist.
+
+
+
+
+ National Coast Guard Museum
+(a)
+ 
+Establishment
+.—
+The Commandant may establish a National Coast Guard Museum, on lands which will be federally owned and administered by the Coast Guard, and are located in New London, Connecticut, at, or in close proximity to, the Coast Guard Academy.
+
+
+(b)
+ 
+Limitation on Expenditures
+.—
+(1)
+ Except as provided in paragraph (2), the Secretary shall not expend any appropriated Federal funds for the engineering, design, or construction of any museum established under this section.
+
+
+
+
+(2)
+ The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts.
+
+
+
+
+(c)
+ 
+Funding Plan
+.—
+Before the date on which the Commandant establishes a museum under subsection (a), the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for constructing, operating, and maintaining such a museum, including—
+(1)
+ estimated planning, engineering, design, construction, operation, and maintenance costs;
+
+
+
+
+(2)
+ the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction; and
+
+
+
+
+(3)
+ a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
+
+
+
+
+(d)
+ 
+Authority
+.—
+The Commandant may not establish a Coast Guard museum except as set forth in this section.
+
+
+ Enforcement authority
+ Enforcement of coastwise trade laws
+Officers and members of the Coast Guard are authorized to enforce chapter 551 of title 46. The Secretary shall establish a program for these officers and members to enforce that chapter.
+ Appeals and waivers

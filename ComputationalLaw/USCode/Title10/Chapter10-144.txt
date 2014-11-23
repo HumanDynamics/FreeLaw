@@ -1,0 +1,5385 @@
+
+Chapter 144
+MAJOR DEFENSE ACQUISITION PROGRAMS
+ Major defense acquisition program defined
+(a)
+ In this chapter, the term “major defense acquisition program” means a Department of Defense acquisition program that is not a highly sensitive classified program (as determined by the Secretary of Defense) and—
+(1)
+ that is designated by the Secretary of Defense as a major defense acquisition program; or
+
+
+
+
+(2)
+ that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+
+
+
+
+(b)
+ The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+
+
+(c)
+ For purposes of subsection (a)(2), the Secretary shall consider, as applicable, the following:
+(1)
+ The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to 
+section 181 of this title
+.
+
+
+
+
+(2)
+ The cost estimate referred to in section 2366a(a)(4) 
+1
+1
+ See References in Text note below.
+ of this title.
+
+
+
+
+(3)
+ The cost estimate referred to in 
+section 2366b(a)(1)(C) of this title
+.
+
+
+
+
+(4)
+ The cost estimate within a baseline description as required by 
+section 2435 of this title
+.
+
+
+
+
+“(a)
+ 
+Prohibition With Respect to Production of Major Defense Acquisition Programs
+.—
+Not later than 120 days after the date of the enactment of this Act [
+Jan. 2, 2013
+], the Secretary of Defense shall modify the acquisition regulations of the Department of Defense to prohibit the Department from entering into cost-type contracts for the production of major defense acquisition programs.
+
+
+“(b)
+ Exception.—
+“(1)
+ 
+In general
+.—
+The prohibition under subsection (a) shall not apply in the case of a particular cost-type contract if the Under Secretary of Defense for Acquisition, Technology, and Logistics provides written certification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that a cost-type contract is needed to provide a required capability in a timely and cost-effective manner.
+
+
+
+
+“(2)
+ 
+Scope of exception
+.—
+In any case for which the Under Secretary grants an exception under paragraph (1), the Under Secretary shall take affirmative steps to make sure that the use of cost-type pricing is limited to only those line items or portions of the contract where such pricing is needed to achieve the purposes of the exception. A written certification under paragraph (1) shall be accompanied by an explanation of the steps taken under this paragraph.
+
+
+
+
+“(c)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ 
+Major defense acquisition program
+.—
+The term ‘major defense acquisition program’ has the meaning given the term in 
+section 2430(a) of title 10
+, United States Code.
+
+
+
+
+“(2)
+ 
+Production of a major defense acquisition program
+.—
+The term ‘production of a major defense acquisition program’ means the production and deployment of a major system that is intended to achieve an operational capability that satisfies mission needs, or any activity otherwise defined as Milestone C under Department of Defense Instruction 5000.02 or related authorities.
+
+
+
+
+“(3)
+ 
+Contract for the production of a major defense acquisition program
+.—
+The term ‘contract for the production of a major defense acquisition program’—
+“(A)
+ means a prime contract for the production of a major defense acquisition program; and
+
+
+
+
+“(B)
+ does not include individual line items for segregable efforts or contracts for the incremental improvement of systems that are already in production (other than contracts for major upgrades that are themselves major defense acquisition programs).
+
+
+
+
+
+
+“(d)
+ 
+Applicability
+.—
+The requirements of this section shall apply to contracts for the production of major defense acquisition programs entered into on or after 
+October 1, 2014
+.”
+
+
+“(a)
+ 
+Department of Defense Review
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Jan. 2, 2013
+], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall review relevant acquisition guidance and take appropriate actions to ensure that program managers for major defense acquisition programs are preparing estimates of potential termination liability for covered contracts, including how such termination liability is likely to increase or decrease over the period of performance, and are giving appropriate consideration to such estimates before making recommendations on decisions to enter into or terminate such contracts.
+
+
+“(b)
+ Comptroller General of the United States Report.—
+“(1)
+ 
+In general
+.—
+Not later than 270 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
+
+
+
+
+“(2)
+ 
+Matters to be addressed
+.—
+The report required by paragraph (1) shall include, at a minimum, an assessment of the following:
+“(A)
+ The extent to which the Department of Defense developed estimates of potential termination liability for covered contracts entered into before the date of the enactment of this Act and how such termination liability was likely to increase or decrease over the period of performance before making decisions to enter into or terminate such contracts.
+
+
+
+
+“(B)
+ The extent to which the Department considered estimates of potential termination liability for such contracts and how such termination liability was likely to increase or decrease over the period of performance as a risk factor in deciding whether to enter into or terminate such contracts.
+
+
+
+
+
+
+“(c)
+ 
+Covered Contracts
+.—
+For purposes of this section, a covered contract is a contract for the development or production of a major defense acquisition program for which potential termination liability could reasonably be expected to exceed $100,000,000.
+
+
+“(d)
+ 
+Major Defense Acquisition Program Defined
+.—
+In this section, the term ‘major defense acquisition program’ has the meaning given that term in 
+section 2430(a) of title 10
+, United States Code.”
+
+
+“(a)
+ 
+Guidance Required
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Dec. 31, 2011
+], the Secretary of Defense shall issue guidance on actions to be taken to assess, manage, and control Department of Defense costs for the operation and support of major weapon systems.
+
+
+“(b)
+ 
+Elements
+.—
+The guidance required by subsection (a) shall, at a minimum—
+“(1)
+ be issued in conjunction with the comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems required by section 805 of the National Defense Authorization Act for Fiscal Year 2010 (
+Public Law 111–84
+; 
+123 Stat. 2403
+; 
+10 U.S.C. 2301
+ [2302] note);
+
+
+
+
+“(2)
+ require the military departments to retain each estimate of operating and support costs that is developed at any time during the life cycle of a major weapon system, together with supporting documentation used to develop the estimate;
+
+
+
+
+“(3)
+ require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
+
+
+
+
+“(4)
+ establish standard requirements for the collection of data on operating and support costs for major weapon systems and require the military departments to revise their Visibility and Management of Operating and Support Costs (VAMOSC) systems to ensure that they collect complete and accurate data in compliance with such requirements and make such data available in a timely manner;
+
+
+
+
+“(5)
+ establish standard requirements for the collection and reporting of data on operating and support costs for major weapon systems by contractors performing weapon system sustainment functions in an appropriate format, and develop contract clauses to ensure that contractors comply with such requirements;
+
+
+
+
+“(6)
+ require the military departments—
+“(A)
+ to collect and retain data from operational and developmental testing and evaluation on the reliability and maintainability of major weapon systems; and
+
+
+
+
+“(B)
+ to use such data to inform system design decisions, provide insight into sustainment costs, and inform estimates of operating and support costs for such systems;
+
+
+
+
+
+
+“(7)
+ require the military departments to ensure that sustainment factors are fully considered at key life cycle management decision points and that appropriate measures are taken to reduce operating and support costs by influencing system design early in development, developing sound sustainment strategies, and addressing key drivers of costs;
+
+
+
+
+“(8)
+ require the military departments to conduct an independent logistics assessment of each major weapon system prior to key acquisition decision points (including milestone decisions) to identify features that are likely to drive future operating and support costs, changes to system design that could reduce such costs, and effective strategies for managing such costs;
+
+
+
+
+“(9)
+ include—
+“(A)
+ reliability metrics for major weapon systems; and
+
+
+
+
+“(B)
+ requirements on the use of metrics under subparagraph (A) as triggers—
+“(i)
+ to conduct further investigation and analysis into drivers of those metrics; and
+
+
+
+
+“(ii)
+ to develop strategies for improving reliability, availability, and maintainability of such systems at an affordable cost; and
+
+
+
+
+
+
+
+
+“(10)
+ require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.
+
+
+
+
+“(c)
+ Retention of Data on Operating and Support Costs.—
+“(1)
+ 
+In general
+.—
+The Director of Cost Assessment and Program Evaluation shall be responsible for developing and maintaining a database on operating and support estimates, supporting documentation, and actual operating and support costs for major weapon systems.
+
+
+
+
+“(2)
+ 
+Support
+.—
+The Secretary of Defense shall ensure that the Director, in carrying out such responsibility—
+“(A)
+ promptly receives the results of all cost estimates and cost analyses conducted by the military departments with regard to operating and support costs of major weapon systems;
+
+
+
+
+“(B)
+ has timely access to any records and data of the military departments (including classified and proprietary information) that the Director considers necessary to carry out such responsibility; and
+
+
+
+
+“(C)
+ with the concurrence of the Under Secretary of Defense for Acquisition, Technology, and Logistics, may direct the military departments to collect and retain information necessary to support the database.
+
+
+
+
+
+
+“(d)
+ 
+Major Weapon System Defined
+.—
+In this section, the term ‘major weapon system’ has the meaning given that term in 
+section 2379(f) of title 10
+, United States Code.”
+
+
+“(a)
+ 
+Guidance Required
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Jan. 7, 2011
+], the Secretary of Defense shall issue comprehensive guidance on the management of manufacturing risk in major defense acquisition programs.
+
+
+“(b)
+ 
+Elements
+.—
+The guidance issued under subsection (a) shall, at a minimum—
+“(1)
+ require the use of manufacturing readiness levels or other manufacturing readiness standards as a basis for measuring, assessing, reporting, and communicating manufacturing readiness and risk on major defense acquisition programs throughout the Department of Defense;
+
+
+
+
+“(2)
+ provide guidance on the definition of manufacturing readiness levels or other manufacturing readiness standards and how manufacturing readiness levels or other manufacturing readiness standards should be used to assess manufacturing risk and readiness in major defense acquisition programs;
+
+
+
+
+“(3)
+ specify manufacturing readiness levels or other manufacturing readiness standards that should be achieved at key milestones and decision points for major defense acquisition programs;
+
+
+
+
+“(4)
+ provide for the tailoring of manufacturing readiness levels or other manufacturing readiness standards to address the unique characteristics of specific industry sectors or weapon system portfolios;
+
+
+
+
+“(5)
+ identify tools and models that may be used to assess, manage, and reduce risks that are identified in the course of manufacturing readiness assessments for major defense acquisition programs; and
+
+
+
+
+“(6)
+ require appropriate consideration of the manufacturing readiness and manufacturing readiness processes of potential contractors and subcontractors as a part of the source selection process for major defense acquisition programs.
+
+
+
+
+“(c)
+ 
+Manufacturing Readiness Expertise
+.—
+The Secretary shall ensure that—
+“(1)
+ the acquisition workforce chapter of the annual strategic workforce plan required by 
+section 115b of title 10
+, United States Code, includes an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce and a plan of action for addressing any gaps in such knowledge and skills; and
+
+
+
+
+“(2)
+ the need of the Department for manufacturing readiness knowledge and skills is given appropriate consideration, comparable to the consideration given to other program management functions, as the Department identifies areas of need for funding through the Defense Acquisition Workforce Development Fund established in accordance with the requirements of 
+section 1705 of title 10
+, United States Code.
+
+
+
+
+“(d)
+ 
+Major Defense Acquisition Program Defined
+.—
+In this section, the term ‘major defense acquisition program’ has the meaning given that term in 
+section 2430(a) of title 10
+, United States Code.”
+
+
+“(a)
+ 
+Acquisition Strategies To Ensure Competition
+.—
+The Secretary of Defense shall ensure that the acquisition strategy for each major defense acquisition program includes—
+“(1)
+ measures to ensure competition, or the option of competition, at both the prime contract level and the subcontract level (at such tier or tiers as are appropriate) of such program throughout the life-cycle of such program as a means to improve contractor performance; and
+
+
+
+
+“(2)
+ adequate documentation of the rationale for the selection of the subcontract tier or tiers under paragraph (1).
+
+
+
+
+“(b)
+ 
+Measures To Ensure Competition
+.—
+The measures to ensure competition, or the option of competition, for purposes of subsection (a)(1) may include measures to achieve the following, in appropriate cases if such measures are cost-effective:
+“(1)
+ Competitive prototyping.
+
+
+
+
+“(2)
+ Dual-sourcing.
+
+
+
+
+“(3)
+ Unbundling of contracts.
+
+
+
+
+“(4)
+ Funding of next-generation prototype systems or subsystems.
+
+
+
+
+“(5)
+ Use of modular, open architectures to enable competition for upgrades.
+
+
+
+
+“(6)
+ Use of build-to-print approaches to enable production through multiple sources.
+
+
+
+
+“(7)
+ Acquisition of complete technical data packages.
+
+
+
+
+“(8)
+ Periodic competitions for subsystem upgrades.
+
+
+
+
+“(9)
+ Licensing of additional suppliers.
+
+
+
+
+“(10)
+ Periodic system or program reviews to address long-term competitive effects of program decisions.
+
+
+
+
+“(c)
+ 
+Additional Measures To Ensure Competition at Subcontract Level
+.—
+The Secretary shall take actions to ensure competition or the option of competition at the subcontract level on major defense acquisition programs by—
+“(1)
+ where appropriate, breaking out a major subsystem, conducting a separate competition for the subsystem, and providing the subsystem to the prime contractor as Government-furnished equipment;
+
+
+
+
+“(2)
+ requiring prime contractors to give full and fair consideration to qualified sources other than the prime contractor for the development or construction of major subsystems and components of major weapon systems;
+
+
+
+
+“(3)
+ providing for government surveillance of the process by which prime contractors consider such sources and determine whether to conduct such development or construction in-house or through a subcontract; and
+
+
+
+
+“(4)
+ providing for the assessment of the extent to which a contractor has given full and fair consideration to qualified sources other than the contractor in sourcing decisions as a part of past performance evaluations.
+
+
+
+
+“(d)
+ 
+Consideration of Competition Throughout Maintenance and Sustainment of Major Weapon Systems and Subsystems
+.—
+Whenever a decision regarding source of repair results in a plan to award a contract for performance of maintenance and sustainment of a major weapon system or subsystem of a major weapon system, the Secretary shall take actions to ensure that, to the maximum extent practicable and consistent with statutory requirements, contracts for such maintenance and sustainment, or for components needed for such maintenance and sustainment, are awarded on a competitive basis and give full consideration to all sources (including sources that partner or subcontract with public or private sector repair activities).
+
+
+“(e)
+ Applicability.—
+“(1)
+ 
+Strategy and measures to ensure competition
+.—
+The requirements of subsections (a) and (b) shall apply to any acquisition plan for a major defense acquisition program that is developed or revised on or after the date that is 60 days after the date of the enactment of this Act [
+May 22, 2009
+].
+
+
+
+
+“(2)
+ 
+Additional actions
+.—
+The actions required by subsections (c) and (d) shall be taken within 180 days after the date of the enactment of this Act.”
+
+
+
+
+“(a)
+ 
+Competitive Prototyping
+.—
+Not later than 90 days after the date of the enactment of this Act [
+May 22, 2009
+], the Secretary of Defense shall modify the guidance of the Department of Defense relating to the operation of the acquisition system with respect to competitive prototyping for major defense acquisition programs to ensure the following:
+“(1)
+ That the acquisition strategy for each major defense acquisition program provides for competitive prototypes before Milestone B approval (or Key Decision Point B approval in the case of a space program) unless the Milestone Decision Authority for such program waives the requirement pursuant to paragraph (2).
+
+
+
+
+“(2)
+ That the Milestone Decision Authority may waive the requirement in paragraph (1) only—
+“(A)
+ on the basis that the cost of producing competitive prototypes exceeds the expected life-cycle benefits (in constant dollars) of producing such prototypes, including the benefits of improved performance and increased technological and design maturity that may be achieved through competitive prototyping; or
+
+
+
+
+“(B)
+ on the basis that, but for such waiver, the Department would be unable to meet critical national security objectives.
+
+
+
+
+
+
+“(3)
+ That whenever a Milestone Decision Authority authorizes a waiver pursuant to paragraph (2), the Milestone Decision Authority—
+“(A)
+ shall require that the program produce a prototype before Milestone B approval (or Key Decision Point B approval in the case of a space program) if the expected life-cycle benefits (in constant dollars) of producing such prototype exceed its cost and its production is consistent with achieving critical national security objectives; and
+
+
+
+
+“(B)
+ shall notify the congressional defense committees in writing not later than 30 days after the waiver is authorized and include in such notification the rationale for the waiver and the plan, if any, for producing a prototype.
+
+
+
+
+
+
+“(4)
+ That prototypes—
+“(A)
+ may be required under paragraph (1) or (3) for the system to be acquired or, if prototyping of the system is not feasible, for critical subsystems of the system; and
+
+
+
+
+“(B)
+ may be acquired from commercial, government, or academic sources.
+
+
+
+
+
+
+“(b)
+ Comptroller General Review of Certain Waivers.—
+“(1)
+ 
+Notice to comptroller general
+.—
+Whenever a Milestone Decision Authority authorizes a waiver of the requirement for prototypes pursuant to paragraph (2) of subsection (a) on the basis of excessive cost, the Milestone Decision Authority shall submit the notification of the waiver, together with the rationale, to the Comptroller General of the United States at the same time it is submitted to the congressional defense committees.
+
+
+
+
+“(2)
+ 
+Comptroller general review
+.—
+Not later than 60 days after receipt of a notification of a waiver under paragraph (1), the Comptroller General shall—
+“(A)
+ review the rationale for the waiver; and
+
+
+
+
+“(B)
+ submit to the congressional defense committees a written assessment of the rationale for the waiver.”
+
+
+
+
+
+
+“(a)
+ 
+Revised Regulations Required
+.—
+Not later than 270 days after the date of the enactment of this Act [
+May 22, 2009
+], the Secretary of Defense shall revise the Defense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs.
+
+
+“(b)
+ 
+Elements
+.—
+The revised regulations required by subsection (a) shall, at a minimum—
+“(1)
+ address organizational conflicts of interest that could arise as a result of—
+“(A)
+ lead system integrator contracts on major defense acquisition programs and contracts that follow lead system integrator contracts on such programs, particularly contracts for production;
+
+
+
+
+“(B)
+ the ownership of business units performing systems engineering and technical assistance functions, professional services, or management support services in relation to major defense acquisition programs by contractors who simultaneously own business units competing to perform as either the prime contractor or the supplier of a major subsystem or component for such programs;
+
+
+
+
+“(C)
+ the award of major subsystem contracts by a prime contractor for a major defense acquisition program to business units or other affiliates of the same parent corporate entity, and particularly the award of subcontracts for software integration or the development of a proprietary software system architecture; or
+
+
+
+
+“(D)
+ the performance by, or assistance of, contractors in technical evaluations on major defense acquisition programs;
+
+
+
+
+
+
+“(2)
+ ensure that the Department of Defense receives advice on systems architecture and systems engineering matters with respect to major defense acquisition programs from federally funded research and development centers or other sources independent of the prime contractor;
+
+
+
+
+“(3)
+ require that a contract for the performance of systems engineering and technical assistance functions for a major defense acquisition program contains a provision prohibiting the contractor or any affiliate of the contractor from participating as a prime contractor or a major subcontractor in the development or construction of a weapon system under the program; and
+
+
+
+
+“(4)
+ establish such limited exceptions to the requirement in paragraphs (2) and (3) as may be necessary to ensure that the Department of Defense has continued access to advice on systems architecture and systems engineering matters from highly-qualified contractors with domain experience and expertise, while ensuring that such advice comes from sources that are objective and unbiased.
+
+
+
+
+“(c)
+ Consultation in Revision of Regulations.—
+“(1)
+ 
+Recommendations of panel on contracting integrity
+.—
+Not later than 90 days after the date of the enactment of this Act [
+May 22, 2009
+], the Panel on Contracting Integrity established pursuant to section 813 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (
+Public Law 109–364
+; 
+120 Stat. 2320
+) [
+10 U.S.C. 2304
+ note] shall present recommendations to the Secretary of Defense on measures to eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
+
+
+
+
+“(2)
+ 
+Consideration of recommendations
+.—
+In developing the revised regulations required by subsection (a), the Secretary shall consider the following:
+“(A)
+ The recommendations presented by the Panel on Contracting Integrity pursuant to paragraph (1).
+
+
+
+
+“(B)
+ Any findings and recommendations of the Administrator for Federal Procurement Policy and the Director of the Office of Government Ethics pursuant to section 841(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (
+Public Law 110–417
+; 
+122 Stat. 4539
+) [
+41 U.S.C. 2303
+ note].”
+
+
+
+
+
+
+“(a)
+ 
+Configuration Steering Boards
+.—
+Each Secretary of a military department shall establish one or more boards (to be known as a ‘Configuration Steering Board’) for the major defense acquisition programs of such department.
+
+
+“(b)
+ Composition.—
+“(1)
+ 
+Chair
+.—
+Each Configuration Steering Board under this section shall be chaired by the service acquisition executive of the military department concerned.
+
+
+
+
+“(2)
+ 
+Particular members
+.—
+Each Configuration Steering Board under this section shall include a representative of the following:
+“(A)
+ The Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+
+
+“(B)
+ The Chief of Staff of the Armed Force concerned.
+
+
+
+
+“(C)
+ Other Armed Forces, as appropriate.
+
+
+
+
+“(D)
+ The Joint Staff.
+
+
+
+
+“(E)
+ The Comptroller of the military department concerned.
+
+
+
+
+“(F)
+ The military deputy to the service acquisition executive concerned.
+
+
+
+
+“(G)
+ The program executive officer for the major defense acquisition program concerned.
+
+
+
+
+“(H)
+ Other senior representatives of the Office of the Secretary of Defense and the military department concerned, as appropriate.
+
+
+
+
+
+
+“(c)
+ Responsibilities.—
+“(1)
+ 
+In general
+.—
+The Configuration Steering Board for a major defense acquisition program under this section shall be responsible for the following:
+“(A)
+ Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule.
+
+
+
+
+“(B)
+ Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required.
+
+
+
+
+“(C)
+ Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline.
+
+
+
+
+
+
+“(2)
+ 
+Discharge of responsibilities
+.—
+In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—
+“(A)
+ review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and
+
+
+
+
+“(B)
+ review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives.
+
+
+
+
+
+
+“(3)
+ 
+Presentation of recommendations on reduction in requirements
+.—
+Any recommendation for a proposed reduction in requirements that is made by a Configuration Steering Board under paragraph (2)(B) shall be presented to appropriate organizations of the Joint Staff and the military departments responsible for such requirements for review and approval in accordance with applicable procedures.
+
+
+
+
+“(4)
+ 
+Annual consideration of each major defense acquisition program
+.—
+The Secretary of the military department concerned shall ensure that a Configuration Steering Board under this section meets to consider each major defense acquisition program of such military department at least once each year.
+
+
+
+
+“(5)
+ 
+Certification of cost and schedule deviations during system design and development
+.—
+For a major defense acquisition program that received an initial Milestone B approval during fiscal year 2008, a Configuration Steering Board may not approve any proposed alteration to program requirements or system configuration if such an alteration would—
+“(A)
+ increase the cost (including any increase for expected inflation or currency exchange rates) for system development and demonstration by more than 25 percent; or
+
+
+
+
+“(B)
+ extend the schedule for key events by more than 15 percent of the total number of months between the award of the system development and demonstration contract and the scheduled Milestone C approval date,
+
+
+
+
+
+unless the Under Secretary of Defense for Acquisition, Technology, and Logistics certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], and includes in the certification supporting rationale, that approving such alteration to program requirements or system configuration is in the best interest of the Department of Defense despite the cost and schedule impacts to system development and demonstration of such program.
+
+
+
+
+“(d)
+ Applicability.—
+“(1)
+ 
+In general
+.—
+The requirements of this section shall apply with respect to any major defense acquisition program that is commenced before, on, or after the date of the enactment of this Act [
+Oct. 14, 2008
+].
+
+
+
+
+“(2)
+ 
+Current programs
+.—
+In the case of any major defense acquisition program that is ongoing as of the date of the enactment of this Act, a Configuration Steering Board under this section shall be established for such program not later than 60 days after the date of the enactment of this Act.
+
+
+
+
+“(e)
+ Guidance on Authorities of Program Managers After Milestone B.—
+“(1)
+ [Amended 
+section 853(d)(2) of Pub. L. 109–364
+, set out below.]
+
+
+
+
+“(2)
+ 
+Applicability
+.—
+The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 [
+Pub. L. 109–364
+; set out below] in order to take into account the amendment made by paragraph (1) not later than 60 days after the date of the enactment of this Act [
+Oct. 14, 2008
+].
+
+
+
+
+“(f)
+ 
+Major Defense Acquisition Program Defined
+.—
+In this section, the term ‘major defense acquisition program’ has the meaning given that term in 
+section 2430(a) of title 10
+, United States Code.”
+
+
+“(a)
+ 
+Guidance Required
+.—
+Not later than 270 days after the date of the enactment of this Act [
+Oct. 14, 2008
+], the Secretary of Defense shall issue guidance requiring the preservation and storage of unique tooling associated with the production of hardware for a major defense acquisition program through the end of the service life of the end item associated with such a program. Such guidance shall—
+“(1)
+ require that the milestone decision authority approve a plan, including the identification of any contract clauses, facilities, and funding required, for the preservation and storage of such tooling prior to Milestone C approval;
+
+
+
+
+“(2)
+ require that the milestone decision authority periodically review the plan required by paragraph (1) prior to the end of the service life of the end item, to ensure that the preservation and storage of such tooling remains adequate and in the best interest of the Department of Defense;
+
+
+
+
+“(3)
+ provide a mechanism for the Secretary to waive the requirement for preservation and storage of unique production tooling, or any category of unique production tooling, if the Secretary—
+“(A)
+ makes a written determination that such a waiver is in the best interest of the Department of Defense; and
+
+
+
+
+“(B)
+ notifies the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the waiver upon making such determination; and
+
+
+
+
+
+
+“(4)
+ provide such criteria as necessary to guide a determination made pursuant to paragraph (3)(A).
+
+
+
+
+“(b)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ 
+Major defense acquisition program
+.—
+The term ‘major defense acquisition program’ has the meaning provided in 
+section 2430 of title 10
+, United States Code.
+
+
+
+
+“(2)
+ 
+Milestone decision authority
+.—
+The term ‘milestone decision authority’ has the meaning provided in section 2366a(f)(2) [now 2366b(g)(3)] of such title.
+
+
+
+
+“(3)
+ 
+Milestone c approval
+.—
+The term ‘Milestone C approval’ has the meaning provided in section 2366(e)(8) of such title.”
+
+
+
+
+“(a)
+ Training Program.—
+“(1)
+ 
+Requirement
+.—
+The Under Secretary of Defense for Acquisition, Technology, and Logistics, in consultation with the Defense Acquisition University, shall develop a training program to certify military and civilian personnel of the Department of Defense with responsibility for generating requirements for major defense acquisition programs (as defined in 
+section 2430(a) of title 10
+, United States Code).
+
+
+
+
+“(2)
+ 
+Competency and other requirements
+.—
+The Under Secretary shall establish competency requirements for the personnel undergoing the training program. The Under Secretary shall define the target population for such training program by identifying which military and civilian personnel should have responsibility for generating requirements. The Under Secretary also may establish other training programs for personnel not subject to chapter 87 of title 10, United States Code, who contribute significantly to other types of acquisitions by the Department of Defense.
+
+
+
+
+“(b)
+ 
+Applicability
+.—
+Effective on and after 
+September 30, 2008
+, a member of the Armed Forces or an employee of the Department of Defense with authority to generate requirements for a major defense acquisition program may not continue to participate in the requirements generation process unless the member or employee successfully completes the certification training program developed under this section.
+
+
+“(c)
+ 
+Reports
+.—
+The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an interim report, not later than 
+March 1, 2007
+, and a final report, not later than 
+March 1, 2008
+, on the implementation of the training program required under this section.”
+
+
+“(a)
+ 
+Strategy
+.—
+The Secretary of Defense shall develop a comprehensive strategy for enhancing the role of Department of Defense program managers in developing and carrying out defense acquisition programs.
+
+
+“(b)
+ 
+Matters to Be Addressed
+.—
+The strategy required by this section shall address, at a minimum—
+“(1)
+ enhanced training and educational opportunities for program managers;
+
+
+
+
+“(2)
+ increased emphasis on the mentoring of current and future program managers by experienced senior executives and program managers within the Department;
+
+
+
+
+“(3)
+ improved career paths and career opportunities for program managers;
+
+
+
+
+“(4)
+ additional incentives for the recruitment and retention of highly qualified individuals to serve as program managers;
+
+
+
+
+“(5)
+ improved resources and support (including systems engineering expertise, cost estimating expertise, and software development expertise) for program managers;
+
+
+
+
+“(6)
+ improved means of collecting and disseminating best practices and lessons learned to enhance program management throughout the Department;
+
+
+
+
+“(7)
+ common templates and tools to support improved data gathering and analysis for program management and oversight purposes;
+
+
+
+
+“(8)
+ increased accountability of program managers for the results of defense acquisition programs; and
+
+
+
+
+“(9)
+ enhanced monetary and nonmonetary awards for successful accomplishment of program objectives by program managers.
+
+
+
+
+“(c)
+ 
+Guidance on Tenure and Accountability of Program Managers Before Milestone B
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Oct. 17, 2006
+], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure, and accountability of program managers for the program development period (before Milestone B approval (or Key Decision Point B approval in the case of a space program)).
+
+
+“(d)
+ 
+Guidance on Tenure and Accountability of Program Managers After Milestone B
+.—
+Not later than 180 days after the date of enactment of this Act [
+Oct. 17, 2006
+], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure and accountability of program managers for the program execution period (from Milestone B approval (or Key Decision Point B approval in the case of a space program) until the delivery of the first production units of a program). The guidance issued pursuant to this subsection shall address, at a minimum—
+“(1)
+ the need for a performance agreement between a program manager and the milestone decision authority for the program, setting forth expected parameters for cost, schedule, and performance, and appropriate commitments by the program manager and the milestone decision authority to ensure that such parameters are met;
+
+
+
+
+“(2)
+ authorities available to the program manager, including—
+“(A)
+ the authority to object to the addition of new program requirements that would be inconsistent with the parameters established at Milestone B (or Key Decision Point B in the case of a space program) and reflected in the performance agreement, unless such requirements are approved by the appropriate Configuration Steering Board; and
+
+
+
+
+“(B)
+ the authority to recommend to the appropriate Configuration Steering Board reduced program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives; and
+
+
+
+
+
+
+“(3)
+ the extent to which a program manager for such period should continue in the position without interruption until the delivery of the first production units of the program.
+
+
+
+
+“(e)
+ Reports.—
+“(1)
+ 
+Report by secretary of defense
+.—
+Not later than 270 days after the date of enactment of this Act [
+Oct. 17, 2006
+], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the strategy developed pursuant to subsection (a) and the guidance issued pursuant to subsections (b) and (c).
+
+
+
+
+“(2)
+ 
+Report by comptroller general
+.—
+Not later than one year after the date of enactment of this Act, the Comptroller General shall submit to the congressional defense committees a report on the actions taken by the Secretary of Defense to implement the requirements of this section.”
+
+
+
+
+“(a)
+ 
+Management of Acquisition Programs Through
+ USD (AT
+&
+L).—
+The Secretary of Defense shall direct that, effective as of the date of the enactment of this Act [
+Nov. 24, 2003
+], acquisitions under the National Security Agency Modernization Program shall be directed and managed by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+“(b)
+ 
+Applicability of Major Defense Acquisition Program Authorities
+.—
+(1)
+ Each project designated as a major defense acquisition program under paragraph (2) shall be managed under the laws, policies, and procedures that are applicable to major defense acquisition programs (as defined in 
+section 2430 of title 10
+, United States Code).
+
+
+
+
+“(2)
+ The Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) shall designate those projects under the National Security Agency Modernization Program that are to be managed as major defense acquisition programs.
+
+
+
+
+“(c)
+ 
+Milestone Decision Authority
+.—
+(1)
+ The authority to make a decision that a program is authorized to proceed from one milestone stage into another (referred to as the milestone decision authority) may only be exercised by the Under Secretary of Defense for Acquisition, Technology, and Logistics for the following:
+“(A)
+ Each project of the National Security Agency Modernization Program that is to be managed as a major defense acquisition program, as designated under subsection (b).
+
+
+
+
+“(B)
+ Each major system under the National Security Agency Modernization Program.
+
+
+
+
+
+
+“(2)
+ The limitation in paragraph (1) shall terminate on, and the Under Secretary may delegate the milestone decision authority referred to in paragraph (1) to the Director of the National Security Agency at any time after, the date that is the later of—
+“(A)
+ 
+September 30, 2005
+, or
+
+
+
+
+“(B)
+ the date on which the Under Secretary submits to the appropriate committees of Congress a notification described in paragraph (3).
+
+
+
+
+
+
+“(3)
+ A notification described in this paragraph is a notification by the Under Secretary of the Under Secretary’s intention to delegate the milestone decision authority referred to in paragraph (1) to the Director of the National Security Agency, together with a detailed discussion of the justification for that delegation. Such a notification may not be submitted until—
+“(A)
+ the Under Secretary has determined (after consultation with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management) that the Director has implemented acquisition management policies, procedures, and practices that are sufficient to ensure that acquisitions by the National Security Agency are conducted in a manner consistent with sound, efficient acquisition practices;
+
+
+
+
+“(B)
+ the Under Secretary has consulted with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management on the delegation of such milestone decision authority to the Director; and
+
+
+
+
+“(C)
+ the Secretary of Defense has approved the delegation of such milestone decision authority to the Director.
+
+
+
+
+
+
+“(d)
+ 
+Projects Comprising Program
+.—
+The National Security Agency Modernization Program consists of the following projects of the National Security Agency:
+“(1)
+ The Trailblazer project.
+
+
+
+
+“(2)
+ The Groundbreaker project.
+
+
+
+
+“(3)
+ Each cryptological mission management project.
+
+
+
+
+“(4)
+ Each other project of that Agency that—
+“(A)
+ meets either of the dollar thresholds in effect under paragraph (2) of 
+section 2430(a) of title 10
+, United States Code; and
+
+
+
+
+“(B)
+ is determined by the Under Secretary of Defense for Acquisition, Technology, and Logistics as being a major project that is within, or properly should be within, the National Security Agency Modernization Project.
+
+
+
+
+
+
+“(e)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ 
+Major system
+.—
+The term ‘major system’ has the meaning given that term in 
+section 2302(5) of title 10
+, United States Code.
+
+
+
+
+“(2)
+ 
+Appropriate committees of congress
+.—
+The term ‘appropriate committees of Congress’ means the following:
+“(A)
+ The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+
+
+
+
+“(B)
+ The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+
+
+
+
+
+“(a)
+ 
+Authority
+.—
+The Secretary of Defense is authorized to conduct major defense acquisition programs as spiral development programs.
+
+
+“(b)
+ 
+Limitation on Spiral Development Programs
+.—
+A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
+
+
+“(c)
+ 
+Spiral Development Plans
+.—
+A spiral development plan for a research and development program for a major defense acquisition program shall, at a minimum, include the following matters:
+“(1)
+ A rationale for dividing the research and development program into separate spirals, together with a preliminary identification of the spirals to be included.
+
+
+
+
+“(2)
+ A program strategy, including overall cost, schedule, and performance goals for the total research and development program.
+
+
+
+
+“(3)
+ Specific cost, schedule, and performance parameters, including measurable exit criteria, for the first spiral to be conducted.
+
+
+
+
+“(4)
+ A testing plan to ensure that performance goals, parameters, and exit criteria are met.
+
+
+
+
+“(5)
+ An appropriate limitation on the number of prototype units that may be produced under the research and development program.
+
+
+
+
+“(6)
+ Specific performance parameters, including measurable exit criteria, that must be met before the major defense acquisition program proceeds into production of units in excess of the limitation on the number of prototype units.
+
+
+
+
+“(d)
+ 
+Guidance
+.—
+Not later than 120 days after the date of the enactment of this Act [
+Dec. 2, 2002
+], the Secretary of Defense shall issue guidance for the implementation of spiral development programs authorized by this section. The guidance shall include appropriate processes for ensuring the independent validation of exit criteria being met, the operational assessment of fieldable prototypes, and the management of spiral development programs.
+
+
+“(e)
+ 
+Reporting Requirement
+.—
+The Secretary shall submit to Congress by September 30 of each of 2003 through 2008 a status report on each research and development program that is a spiral development program. The report shall contain information on unit costs that is similar to the information on unit costs under major defense acquisition programs that is required to be provided to Congress under chapter 144 of title 10, United States Code, except that the information on unit costs shall address projected prototype costs instead of production costs.
+
+
+“(f)
+ 
+Applicability of Existing Law
+.—
+Nothing in this section shall be construed to exempt any program of the Department of Defense from the application of any provision of chapter 144 of title 10, United States Code, section 139, 181, 2366, 2399, or 2400 of such title, or any requirement under Department of Defense Directive 5000.1, Department of Defense Instruction 5000.2, or Chairman of the Joint Chiefs of Staff Instruction 3170.01B in accordance with the terms of such provision or requirement.
+
+
+“(g)
+ 
+ Definitions
+.—
+In this section:
+“(1)
+ The term ‘spiral development program’, with respect to a research and development program, means a program that—
+“(A)
+ is conducted in discrete phases or blocks, each of which will result in the development of fieldable prototypes; and
+
+
+
+
+“(B)
+ will not proceed into acquisition until specific performance parameters, including measurable exit criteria, have been met.
+
+
+
+
+
+
+“(2)
+ The term ‘spiral’ means one of the discrete phases or blocks of a spiral development program.
+
+
+
+
+“(3)
+ The term ‘major defense acquisition program’ has the meaning given such term in 
+section 139(a)(2)(B) of title 10
+, United States Code.”
+
+
+
+
+“(a)
+ 
+Guidance
+.—
+Before 
+April 1, 1995
+, the Secretary of Defense shall issue guidance, to apply uniformly throughout the Department of Defense, regarding—
+“(1)
+ how to achieve the purposes and intent of the National Environmental Policy Act of 1969 (
+42 U.S.C. 4321
+ et seq.) by ensuring timely compliance for major defense acquisition programs (as defined in 
+section 2430 of title 10
+, United States Code) through (A) initiation of compliance efforts before development begins, (B) appropriate environmental impact analysis in support of each milestone decision, and (C) accounting for all direct, indirect, and cumulative environmental effects before proceeding toward production; and
+
+
+
+
+“(2)
+ how to analyze, as early in the process as feasible, the life-cycle environmental costs for such major defense acquisition programs, including the materials to be used, the mode of operations and maintenance, requirements for demilitarization, and methods of disposal, after consideration of all pollution prevention opportunities and in light of all environmental mitigation measures to which the department expressly commits.
+
+
+
+
+“(b)
+ 
+Analysis
+.—
+Beginning not later than 
+March 31, 1995
+, the Secretary of Defense shall analyze the environmental costs of a major defense acquisition process as an integral part of the life-cycle cost analysis of the program pursuant to the guidance issued under subsection (a).
+
+
+“(c)
+ 
+Data Base for NEPA Documentation
+.—
+The Secretary of Defense shall establish and maintain a data base for documents prepared by the Department of Defense in complying with the National Environmental Policy Act of 1969 with respect to major defense acquisition programs. Any such document relating to a major defense acquisition program shall be maintained in the data base for 5 years after commencement of low-rate initial production of the program.”
+
+
+“(a)
+ 
+Authority
+.—
+The Secretary of Defense may waive sections 2399, 2432, and 2433 of title 10, United States Code, in accordance with this section for any defense acquisition program designated by the Secretary of Defense for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 (
+Public Law 101–510
+; 
+10 U.S.C. 2430
+ note).
+
+
+“(b)
+ 
+Operational Test and Evaluation
+.—
+The Secretary of Defense may waive the requirements for operational test and evaluation for such a defense acquisition program as set forth in 
+section 2399 of title 10
+, United States Code, if the Secretary—
+“(1)
+ determines (without delegation) that such test would be unreasonably expensive or impractical;
+
+
+
+
+“(2)
+ develops a suitable alternate operational test program for the system concerned;
+
+
+
+
+“(3)
+ describes in the test and evaluation master plan, as approved by the Director of Operational Test and Evaluation, the method of evaluation that will be used to evaluate whether the system will be effective and suitable for combat; and
+
+
+
+
+“(4)
+ submits to the congressional defense committees [Committees on Armed Services and on Appropriations of the Senate and House of Representatives] a report containing the determination that was made under paragraph (1), a justification for that determination, and a copy of the plan required by paragraph (3).
+
+
+
+
+“(c)
+ 
+Selected Acquisition Reports
+.—
+The Secretary of Defense may waive the requirements of sections 2432 and 2433 of title 10, United States Code, for such a defense acquisition program if the Secretary provides a single annual report to Congress at the end of each fiscal year that describes the status of the program in relation to the baseline description for the program established under section 2435 of such title.”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of Defense is authorized to designate the following defense acquisition programs for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 [
+Pub. L. 101–510
+] (
+10 U.S.C. 2430
+ note):
+“(1)
+ 
+Fire support combined arms tactical trainer (fscatt)
+.—
+The Fire Support Combined Arms Tactical Trainer program with respect to all contracts directly related to the procurement of a training simulation system (including related hardware, software, and subsystems) to perform collective training of field artillery gunnery team components, with development of software as required to generate the training exercises and component interfaces.
+
+
+
+
+“(2)
+ 
+Joint direct attack munition (jdam i)
+.—
+The Joint Direct Attack Munition program with respect to all contracts directly related to the development and procurement of a strap-on guidance kit, using an inertially guided, Global Positioning System updated guidance kit to enhance the delivery accuracy of 500-pound, 1000-pound, and 2000-pound bombs in inventory.
+
+
+
+
+“(3)
+ 
+Joint primary aircraft training system (jpats)
+.—
+The Joint Primary Aircraft Training System (JPATS) with respect to all contracts directly related to the acquisition of a new primary trainer aircraft to fulfill Air Force and Navy joint undergraduate aviation training requirements, and an associated ground-based training system consisting of air crew training devices (simulators), courseware, a Training Management System, and contractor support for the life of the system.
+
+
+
+
+“(4)
+ Commercial-derivative aircraft (cda).—
+“(A)
+ All contracts directly related to the acquisition or upgrading of commercial-derivative aircraft for use in meeting airlift and tanker requirements and the air vehicle component for airborne warning and control systems.
+
+
+
+
+“(B)
+ For purposes of this paragraph, the term ‘commercial-derivative aircraft’ means any of the following:
+“(i)
+ Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificate by the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
+
+
+
+
+“(ii)
+ Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made to meet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
+
+
+
+
+“(iii)
+ For purposes of a potential complement or alternative to the C–17 program, any nondevelopmental airlift aircraft, other than the C–17 or any aircraft derived from the C–17, shall be considered a commercial-derivative aircraft.
+
+
+
+
+
+
+
+
+“(5)
+ 
+Commercial-derivative engine (cde)
+.—
+The commercial derivative engine program with respect to all contracts directly related to the acquisition of (A) commercial derivative engines (including spare engines and upgrades), logistics support equipment, technical orders, management data, and spare parts, and (B) commercially derived engines for use in supporting the purchase of commercial-derivative aircraft for use in airlift and tanker requirements (including engine replacement and upgrades) and the air vehicle component for airborne warning and control systems. For purposes of a potential complement or alternative to the C–17 program, any nondevelopmental airlift aircraft engine shall be considered a commercial-derivative engine.
+
+
+
+
+“(b)
+ 
+Pilot Program Implementation
+.—
+(1)
+ [Amended 
+section 833 of Pub. L. 103–160
+, set out below.]
+
+
+
+
+“(2)
+ [Amended 
+section 837 of Pub. L. 103–160
+, set out above.]
+
+
+
+
+“(3)
+ [Amended 
+section 838 of Pub. L. 103–160
+, set out above.]
+
+
+
+
+“(4)
+ Not later than 45 days after the date of the enactment of the Federal Acquisition Streamlining Act of 1994 [
+Oct. 13, 1994
+], the Secretary of Defense shall identify for each defense acquisition program participating in the pilot program quantitative measures and goals for reducing acquisition management costs.
+
+
+
+
+“(5)
+ For each defense acquisition program participating in the pilot program, the Secretary of Defense shall establish a review process that provides senior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
+“(A)
+ contain essential information on program results at appropriate intervals, including the criteria to be used in measuring the success of the program; and
+
+
+
+
+“(B)
+ reduce data requirements from the current program review reporting requirements.
+
+
+
+
+
+
+“(c)
+ 
+Special Authority
+.—
+The authority delegated under subsection (a) may include authority for the Secretary of Defense—
+“(1)
+ to apply any amendment or repeal of a provision of law made in this Act [see Tables for classification] to the pilot programs before the effective date of such amendment or repeal [see Effective Date of 1994 Amendment note set out under 
+section 2302 of this title
+]; and
+
+
+
+
+“(2)
+ to apply to a procurement of items other than commercial items under such programs—
+“(A)
+ any authority provided in this Act (or in an amendment made by a provision of this Act) to waive a provision of law in the case of commercial items, and
+
+
+
+
+“(B)
+ any exception applicable under this Act (or an amendment made by a provision of this Act) in the case of commercial items,
+
+
+
+
+
+before the effective date of such provision (or amendment) to the extent that the Secretary determines necessary to test the application of such waiver or exception to procurements of items other than commercial items.
+
+
+
+
+“(d)
+ 
+Applicability
+.—
+(1)
+ Subsection (c) applies with respect to—
+“(A)
+ a contract that is awarded or modified during the period described in paragraph (2); and
+
+
+
+
+“(B)
+ a contract that is awarded before the beginning of such period and is to be performed (or may be performed), in whole or in part, during such period.
+
+
+
+
+
+
+“(2)
+ The period referred to in paragraph (1) is the period that begins on 
+October 13, 1994
+, and ends on 
+October 1, 2007
+.
+
+
+
+
+“(e)
+ 
+Rule of Construction
+.—
+Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the programs designated for participation in the defense acquisition pilot program under the authority of subsection (a).”
+
+
+“(a)
+ 
+Mission-Oriented Program Management
+.—
+In the exercise of the authority provided in section 809 of the National Defense Authorization Act for Fiscal Year 1991 [
+Pub. L. 101–510
+] (
+10 U.S.C. 2430
+ note), the Secretary of Defense should propose for one or more of the defense acquisition programs covered by the Defense Acquisition Pilot Program to utilize the concept of mission-oriented program management.
+
+
+“(b)
+ 
+Policies and Procedures
+.—
+In the case of each defense acquisition program covered by the Defense Acquisition Pilot Program, the Secretary of Defense should prescribe policies and procedures for the interaction of the program manager and the commander of the operational command (or a representative) responsible for the requirement for the equipment acquired, and for the interaction with the commanders of the unified and specified combatant commands. Such policies and procedures should include provisions for enabling the user commands to participate in acceptance testing.”
+
+
+“(a)
+ 
+Collection and Analysis of Performance Information
+.—
+The Secretary of Defense shall collect and analyze information on contractor performance under the Defense Acquisition Pilot Program.
+
+
+“(b)
+ 
+Information To Be Included
+.—
+Information collected under subsection (a) shall include the history of the performance of each contractor under the Defense Acquisition Pilot Program contracts and, for each such contract performed by the contractor, a technical evaluation of the contractor’s performance prepared by the program manager responsible for the contract.”
+
+
+“(a)
+ 
+Authority To Conduct Pilot Program
+.—
+The Secretary of Defense may conduct a pilot program for the purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in defense acquisition programs.
+
+
+“(b)
+ 
+Designation of Participating Programs
+.—
+(1)
+ Subject to paragraph (2), the Secretary may designate defense acquisition programs for participation in the pilot program.
+
+
+
+
+“(2)
+ The Secretary may designate for participation in the pilot program only those defense acquisition programs specifically authorized to be so designated in a law authorizing appropriations for such program enacted after the date of the enactment of this Act [
+Nov. 5, 1990
+].
+
+
+
+
+“(c)
+ 
+Conduct of Pilot Program
+.—
+(1)
+ In the case of each defense acquisition program designated for participation in the pilot program, the Secretary—
+“(A)
+ shall conduct the program in accordance with standard commercial, industrial practices; and
+
+
+
+
+“(B)
+ may waive or limit the applicability of any provision of law that is specifically authorized to be waived in the law authorizing appropriations referred to in subsection (b)(2) and that prescribes—
+“(i)
+ procedures for the procurement of supplies or services;
+
+
+
+
+“(ii)
+ a preference or requirement for acquisition from any source or class of sources;
+
+
+
+
+“(iii)
+ any requirement related to contractor performance;
+
+
+
+
+“(iv)
+ any cost allowability, cost accounting, or auditing requirements; or
+
+
+
+
+“(v)
+ any requirement for the management of, testing to be performed under, evaluation of, or reporting on a defense acquisition program.
+
+
+
+
+
+
+
+
+“(2)
+ The waiver authority provided in paragraph (1)(B) does not apply to a provision of law if, as determined by the Secretary—
+“(A)
+ a purpose of the provision is to ensure the financial integrity of the conduct of a Federal Government program; or
+
+
+
+
+“(B)
+ the provision relates to the authority of the Inspector General of the Department of Defense.
+
+
+
+
+
+
+“(d)
+ 
+Publication of Policies and Guidelines
+.—
+The Secretary shall publish in the Federal Register a proposed memorandum setting forth policies and guidelines for implementation of the pilot program under this section and provide an opportunity for public comment on the proposed memorandum for a period of 60 days after the date of publication. The Secretary shall publish in the Federal Register any subsequent proposed change to the memorandum and provide an opportunity for public comment on each such proposed change for a period of 60 days after the date of publication.
+
+
+“(e)
+ 
+Notification and Implementation
+.—
+(1)
+ The Secretary shall transmit to the congressional defense committees a written notification of each defense acquisition program proposed to be designated by the Secretary for participation in the pilot program.
+
+
+
+
+“(2)
+ If the Secretary proposes to waive or limit the applicability of any provision of law to a defense acquisition program under the pilot program in accordance with this section, the Secretary shall include in the notification regarding that acquisition program—
+“(A)
+ the provision of law proposed to be waived or limited;
+
+
+
+
+“(B)
+ the effects of such provision of law on the acquisition, including specific examples;
+
+
+
+
+“(C)
+ the actions taken to ensure that the waiver or limitation will not reduce the efficiency, integrity, and effectiveness of the acquisition process used for the defense acquisition program; and
+
+
+
+
+“(D)
+ a discussion of the efficiencies or savings, if any, that will result from the waiver or limitation.
+
+
+
+
+
+
+“(f)
+ 
+Limitation on Waiver Authority
+.—
+The applicability of the following requirements of law may not be waived or limited under subsection (c)(1)(B) with respect to a defense acquisition program:
+“(1)
+ The requirements of this section.
+
+
+
+
+“(2)
+ The requirements contained in any law enacted on or after the date of the enactment of this Act [
+Nov. 5, 1990
+] if that law designates such defense acquisition program as a participant in the pilot program, except to the extent that a waiver of such requirement is specifically authorized for such defense acquisition program in a law enacted on or after such date.
+
+
+
+
+“(g)
+ 
+Termination of Authority
+.—
+The authority to waive or limit the applicability of any law under this section may not be exercised after 
+September 30, 1995
+.”
+
+
+ Major subprograms
+(a)
+ 
+Authority To Designate Major Subprograms as Subject to Acquisition Reporting Requirements
+.—
+(1)
+(A)
+ If the Secretary of Defense determines that a major defense acquisition program requires the delivery of two or more categories of end items which differ significantly from each other in form and function, the Secretary may designate each such category of end items as a major subprogram for the purposes of acquisition reporting under this chapter.
+
+
+
+
+(B)
+ If the Secretary of Defense determines that a major defense acquisition program to purchase satellites requires the delivery of satellites in two or more increments or blocks, the Secretary may designate each such increment or block as a major subprogram for the purposes of acquisition reporting under this chapter.
+
+
+
+
+
+
+(2)
+ The Secretary shall notify the congressional defense committees in writing of any proposed designation pursuant to paragraph (1) not less than 30 days before the date such designation takes effect.
+
+
+
+
+(b)
+ 
+Reporting Requirements
+.—
+(1)
+ If the Secretary designates a major subprogram of a major defense acquisition program in accordance with subsection (a), Selected Acquisition Reports, unit cost reports, and program baselines under this chapter shall reflect cost, schedule, and performance information—
+(A)
+ for the major defense acquisition program as a whole (other than as provided in paragraph (2)); and
+
+
+
+
+(B)
+ for each major subprogram of the major defense acquisition program so designated.
+
+
+
+
+
+
+(2)
+ For a major defense acquisition program for which a designation of a major subprogram has been made under subsection (a), unit costs under this chapter shall be submitted in accordance with the definitions in subsection (d).
+
+
+
+
+(c)
+ 
+Requirement to Cover Entire Major Defense Acquisition Program
+.—
+If a subprogram of a major defense acquisition program is designated as a major subprogram under subsection (a), all other elements of the major defense acquisition program shall be appropriately organized into one or more subprograms under the major defense acquisition program, each of which subprograms, as so organized, shall be treated as a major subprogram under subsection (a).
+
+
+(d)
+ 
+Definitions
+.—
+Notwithstanding paragraphs (1) and (2) of 
+section 2432(a) of this title
+, in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this chapter—
+(1)
+ the term “program acquisition unit cost” applies at the level of the subprogram and means the total cost for the development and procurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
+
+
+
+
+(2)
+ the term “procurement unit cost” applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
+
+
+
+
+(3)
+ the term “major contract”, with respect to a designated major subprogram, means each of the six largest prime, associate, or Government furnished equipment contracts under the subprogram that is in excess of $40,000,000 and that is not a firm-fixed price contract; and
+
+
+
+
+(4)
+ the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
+
+
+
+
+ Weapons development and procurement schedules
+(a)
+ The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under 
+section 1105 of title 31
+, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by 
+section 114(a) of this title
+, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies, in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
+
+
+(b)
+ Any documents required to be submitted under subsection (a) shall include detailed and summarized information with respect to each weapon system covered and shall specifically include each of the following:
+(1)
+ The development schedule, including estimated annual costs until development is completed.
+
+
+
+
+(2)
+ The planned procurement schedule, including the best estimate of the Secretary of Defense of the annual costs and units to be procured until procurement is completed.
+
+
+
+
+(3)
+ To the extent required by the second sentence of subsection (a), the result of all operational testing and evaluation up to the time of the submission of the documents, or, if operational testing and evaluation has not been conducted, a statement of the reasons therefor and the results of such other testing and evaluation as has been conducted.
+
+
+
+
+(4)
+(A)
+ The most efficient production rate, the most efficient acquisition rate, and the minimum sustaining rate, consistent with the program priority established for such weapon system by the Secretary concerned.
+
+
+
+
+(B)
+ In this paragraph:
+(i)
+ The term “most efficient production rate” means the maximum rate for each budget year at which the weapon system can be produced with existing or planned plant capacity and tooling, with one shift a day running for eight hours a day and five days a week.
+
+
+
+
+(ii)
+ The term “minimum sustaining rate” means the production rate for each budget year that is necessary to keep production lines open while maintaining a base of responsive vendors and suppliers.
+
+
+
+
+
+
+
+
+(c)
+ In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
+
+
+“(a)
+ Deployment of Long-range Discriminating Radar.—
+“(1)
+ 
+In general
+.—
+The Director of the Missile Defense Agency shall deploy a long-range discriminating radar against long-range ballistic missile threats from the Democratic People’s Republic of Korea. Such radar shall be located at a location optimized to support the defense of the homeland of the United States.
+
+
+
+
+“(2)
+ 
+Funding
+.—
+Of the funds authorized to be appropriated by this Act for research, development, test, and evaluation, Defense-wide, for the Missile Defense Agency for BMD Sensors (PE 63884C), as specified in the funding table in section 4201, $30,000,000 shall be available for initial costs toward the deployment of the radar required by paragraph (1).
+
+
+
+
+“(b)
+ Additional Sensor Coverage for Threats From Iran.—
+“(1)
+ 
+In general
+.—
+The Secretary of Defense shall ensure that the Secretary is able to deploy additional tracking and discrimination sensor capabilities to support the defense of the homeland of the United States from future long-range ballistic missile threats that emerge from Iran.
+
+
+
+
+“(2)
+ 
+Report
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Dec. 26, 2013
+], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that details what sensor capabilities of the United States, including re-locatable land- and sea-based capabilities, are or will become available to support the defense of the homeland of the United States from future long-range ballistic missile threats that emerge from Iran. Such report shall include the following:
+“(A)
+ With respect to the capabilities included in the report, an identification of such capabilities that can be located on the Atlantic-side of the United States by not later than 2019, or sooner if long-range ballistic missile threats from Iran are successfully flight-tested prior to 2019.
+
+
+
+
+“(B)
+ A description of the manner in which the United States will maintain such capabilities so as to ensure the deployment of the capabilities in time to support the missile defense of the United States from long-range ballistic missile threats from Iran.”
+
+
+
+
+
+
+“(a)
+ 
+Improved Kill Assessment Capability
+.—
+The Director of the Missile Defense Agency, in consultation with the Commander of the United States Strategic Command and the Commander of the United States Northern Command, shall develop—
+“(1)
+ options to achieve an improved kill assessment capability for the ground-based midcourse defense system that can be developed as soon as practicable with acceptable acquisition risk, with the objective of achieving initial operating capability by not later than 
+December 31, 2019
+, including by improving—
+“(A)
+ the exo-atmospheric kill vehicle for the ground-based interceptor;
+
+
+
+
+“(B)
+ the command, control, battle management, and communications system; and
+
+
+
+
+“(C)
+ the sensor and communications architecture of the ballistic missile defense system; and
+
+
+
+
+
+
+“(2)
+ a plan to carry out such options that gives priority to including such improved capabilities in at least some of the 14 ground-based interceptors that will be procured by the Director, as announced by the Secretary of Defense on 
+March 15, 2013
+.
+
+
+
+
+“(b)
+ 
+Improved Hit Assessment
+.—
+The Director, in consultation with the Commander of the United States Strategic Command and the Commander of the United States Northern Command, shall take appropriate steps to develop an interim capability for improved hit assessment for the ground-based midcourse defense system that can be integrated into near-term exo-atmospheric kill vehicle upgrades and refurbishment.
+
+
+“(c)
+ 
+Report on Improved Capabilities
+.—
+Not later than 
+April 1, 2014
+, the Director, the Commander of the United States Strategic Command, and the Commander of the United States Northern Command shall jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on—
+“(1)
+ the development of an improved kill assessment capability under subsection (a), including the plan developed under paragraph (2) of such subsection; and
+
+
+
+
+“(2)
+ the development of an interim capability for improved hit assessment under subsection (b).
+
+
+
+
+“(d)
+ Plan for Upgraded Enhanced Exo-atmospheric Kill Vehicle.—
+“(1)
+ 
+Plan required
+.—
+Not later than 120 days after the date of the enactment of this Act [
+Dec. 26, 2013
+], the Director shall submit to the congressional defense committees a plan to use covered funding to develop, test, and deploy an upgraded enhanced exo-atmospheric kill vehicle for the ground-based midcourse defense system that—
+“(A)
+ is tested under a test program coordinated with the Director of Operational Test and Evaluation; and
+
+
+
+
+“(B)
+ following such test program, is capable of being deployed during fiscal year 2018 or thereafter.
+
+
+
+
+
+
+“(2)
+ 
+Priority
+.—
+In developing the plan for an upgraded enhanced exo-atmospheric kill vehicle under paragraph (1), the Director shall give priority to the following attributes:
+“(A)
+ Cost effectiveness and high reliability, testability, producibility, modularity, and maintainability.
+
+
+
+
+“(B)
+ Capability across the midcourse battle space.
+
+
+
+
+“(C)
+ Ability to leverage ballistic missile defense system data with kill vehicle on-board capability to discriminate lethal objects.
+
+
+
+
+“(D)
+ Reliable on-demand communications.
+
+
+
+
+“(E)
+ Sufficient flexibility to ensure that the potential for future enhancements, including ballistic missile defense system interceptor commonality and multiple and volume kill capability, is maintained.
+
+
+
+
+
+
+“(3)
+ 
+Covered funding defined
+.—
+In this subsection, the term ‘covered funding’ means—
+“(A)
+ funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2014 for the Missile Defense Agency, as specified in the funding table in section 4201; and
+
+
+
+
+“(B)
+ funds authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2013 (
+Public Law 112–239
+) or otherwise made available for fiscal year 2013 that are available to the Director to carry out the plan under paragraph (1).”
+
+
+
+
+
+
+“(a)
+ 
+Limitation on Construction and Deployment of Interceptors
+.—
+No funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the Department of Defense for fiscal year 2011 or any fiscal year thereafter may be obligated or expended for site activation, construction, or deployment of missile defense interceptors on European land as part of the phased, adaptive approach to missile defense in Europe until—
+“(1)
+ any nation agreeing to host such system has signed and ratified a missile defense basing agreement and a status of forces agreement authorizing the deployment of such interceptors; and
+
+
+
+
+“(2)
+ a period of 45 days has elapsed following the date on which the Secretary of Defense submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the report on the independent assessment of alternative missile defense systems in Europe required by section 235(c)(2) of the National Defense Authorization Act for Fiscal Year 2010 (
+Public Law 111–84
+; 
+123 Stat. 2235
+).
+
+
+
+
+“(b)
+ 
+Limitation on Procurement or Deployment of Interceptors
+.—
+No funds authorized to be appropriated by this Act or otherwise made available for the Department of Defense for fiscal year 2011 or any fiscal year thereafter may be obligated or expended for the procurement (other than initial long-lead procurement) or deployment of operational missiles on European land as part of the phased, adaptive approach to missile defense in Europe until the Secretary of Defense, after receiving the views of the Director of Operational Test and Evaluation, submits to the congressional defense committees a report certifying that the proposed interceptor to be deployed as part of such missile defense system has demonstrated, through successful, operationally realistic flight testing, a high probability of working in an operationally effective manner and that such missile defense system has the ability to accomplish the mission.
+
+
+“(c)
+ 
+Waiver
+.—
+The Secretary of Defense may waive the limitations in subsections (a) and (b) if—
+“(1)
+ the Secretary submits to the congressional defense committees written certification that the waiver is in the urgent national security interests of the United States; and
+
+
+
+
+“(2)
+ a period of seven days has elapsed following the date on which the certification under paragraph (1) is submitted.
+
+
+
+
+“(d)
+ 
+Construction
+.—
+Nothing in this section shall be construed so as to limit the obligation and expenditure of funds for any missile defense activities not otherwise limited by subsection (a) or (b), including, with respect to the planned deployments of missile defense interceptors on European land as part of the phased, adaptive approach to missile defense in Europe—
+“(1)
+ research, development, test and evaluation;
+
+
+
+
+“(2)
+ site surveys;
+
+
+
+
+“(3)
+ studies and analyses; and
+
+
+
+
+“(4)
+ site planning and design and construction design.”
+
+
+
+
+“(a)
+ 
+General Limitation
+.—
+No funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the Department of Defense for fiscal year 2009 or any fiscal year thereafter may be obligated or expended for procurement, site activation, construction, preparation of equipment for, or deployment of a long-range missile defense system in Europe until the following conditions have been met:
+“(1)
+ In the case of the proposed midcourse radar element of such missile defense system, the host nation has signed and ratified the missile defense basing agreement and status of forces agreement that allow for the stationing in such nation of the radar and personnel to carry out the proposed deployment.
+
+
+
+
+“(2)
+ In the case of the proposed long-range missile defense interceptor site element of such missile defense system—
+“(A)
+ the condition in paragraph (1) has been met; and
+
+
+
+
+“(B)
+ the host nation has signed and ratified the missile defense basing agreement and status of forces agreement that allow for the stationing in such nation of the interceptor site and personnel to carry out the proposed deployment.
+
+
+
+
+
+
+“(3)
+ In the case of either element of such missile defense system described in paragraph (1) or (2), 45 days have elapsed following the receipt by the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the report required by section 226(c)(6) of the National Defense Authorization Act for Fiscal Year 2008 (
+Public Law 110–181
+; 
+122 Stat. 43
+).
+
+
+
+
+“(b)
+ 
+Additional Limitation
+.—
+In addition to the limitation in subsection (a), no funds authorized to be appropriated by this Act or otherwise made available for the Department of Defense for fiscal year 2009 may be obligated or expended for the acquisition (other than initial long-lead procurement) or deployment of operational missiles of a long-range missile defense system in Europe until the Secretary of Defense, after receiving the views of the Director of Operational Test and Evaluation, submits to the congressional defense committees a report certifying that the proposed interceptor to be deployed as part of such missile defense system has demonstrated, through successful, operationally realistic flight testing, a high probability of working in an operationally effective manner and the ability to accomplish the mission.
+
+
+“(c)
+ 
+Construction
+.—
+Nothing in this section shall be construed to limit continuing obligation and expenditure of funds for missile defense, including for research and development and for other activities not otherwise limited by subsection (a) or (b), including, but not limited to, site surveys, studies, analysis, and planning and design for the proposed missile defense deployment in Europe.”
+
+
+“(a)
+ 
+Finding
+.—
+Congress finds that Iran maintains a nuclear program in continued defiance of the international community while developing ballistic missiles of increasing sophistication and range that—
+“(1)
+ pose a threat to—
+“(A)
+ the forward-deployed forces of the United States;
+
+
+
+
+“(B)
+ North Atlantic Treaty Organization (NATO) allies in Europe; and
+
+
+
+
+“(C)
+ other allies and friendly foreign countries in the region; and
+
+
+
+
+
+
+“(2)
+ eventually could pose a threat to the United States homeland.
+
+
+
+
+“(b)
+ 
+Policy of the United States
+.—
+It is the policy of the United States—
+“(1)
+ to develop, test, and deploy, as soon as technologically feasible, in conjunction with allies and friendly foreign countries whenever possible, an effective defense against the threat from Iran described in subsection (a) that will provide protection—
+“(A)
+ for the forward-deployed forces of the United States, NATO allies, and other allies and friendly foreign countries in the region; and
+
+
+
+
+“(B)
+ for the United States homeland;
+
+
+
+
+
+
+“(2)
+ to encourage the NATO alliance to accelerate its efforts to—
+“(A)
+ protect NATO territory in Europe against the existing threat of Iranian short- and medium-range ballistic missiles; and
+
+
+
+
+“(B)
+ facilitate the ability of NATO allies to acquire the missile defense systems needed to provide a wide-area defense capability against short- and medium-range ballistic missiles; and
+
+
+
+
+
+
+“(3)
+ to proceed with the activities specified in paragraphs (1) and (2) in a manner such that any missile defense systems fielded by the United States in Europe are integrated with or complementary to missile defense systems fielded by NATO in Europe.”
+
+
+
+
+“(a)
+ 
+Findings
+.—
+Congress makes the following findings:
+“(1)
+ In response to the threat posed by ballistic missiles, President George W. Bush in December 2002 directed the Secretary of Defense to proceed with the fielding of an initial set of missile defense capabilities in 2004 and 2005.
+
+
+
+
+“(2)
+ According to assessments by the intelligence community of the United States, North Korea tested in 2005 a new solid propellant short-range ballistic missile, conducted a launch of a Taepodong-2 ballistic missile/space launch vehicle in 2006, and is likely developing intermediate-range and intercontinental ballistic missile capabilities that could someday reach as far as the United States with a nuclear payload.
+
+
+
+
+“(3)
+ According to assessments by the intelligence community of the United States, Iran continued in 2005 to test its medium-range ballistic missile, and the danger that Iran will acquire a nuclear weapon and integrate it with a ballistic missile Iran already possesses is a reason for immediate concern.
+
+
+
+
+“(b)
+ 
+Policy
+.—
+It is the policy of the United States that the Department of Defense accord a priority within the missile defense program to the development, testing, fielding, and improvement of effective near-term missile defense capabilities, including the ground-based midcourse defense system, the Aegis ballistic missile defense system, the Patriot PAC–3 system, the Terminal High Altitude Area Defense system, and the sensors necessary to support such systems.”
+
+
+“(a)
+ Test and Evaluation Plans for Blocks.—
+“(1)
+ 
+Plans required
+.—
+With respect to block 06 and each subsequent block of the Ballistic Missile Defense System, the appropriate joint and service operational test and evaluation components of the Department of Defense concerned with the block shall prepare a plan, appropriate for the level of technological maturity of the block, to test, evaluate, and characterize the operational capability of the block.
+
+
+
+
+“(2)
+ 
+Consultation and review
+.—
+The preparation of each plan under this subsection shall be—
+“(A)
+ carried out in coordination with the Missile Defense Agency; and
+
+
+
+
+“(B)
+ subject to the review and approval of the Director of Operational Test and Evaluation.
+
+
+
+
+
+
+“(3)
+ 
+Submittal to congress
+.—
+Each plan prepared under this subsection and approved by the Director of Operational Test and Evaluation shall be submitted to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 30 days after the date of the approval of such plan by the Director.
+
+
+
+
+“(b)
+ 
+Reports on Test and Evaluation of Blocks
+.—
+At the conclusion of the test and evaluation of block 06 and each subsequent block of the Ballistic Missile Defense System, the Director of Operational Test and Evaluation shall submit to the Secretary of Defense and the congressional defense committees a report providing—
+“(1)
+ the assessment of the Director as to whether or not the test and evaluation was adequate to evaluate the operational capability of the block; and
+
+
+
+
+“(2)
+ the characterization of the Director as to the operational effectiveness, suitability, and survivability of the block, as appropriate for the level of technological maturity of the block tested.”
+
+
+
+
+“(a)
+ 
+Relationship to Ballistic Missile Defense System
+.—
+The combined program of the Department of the Army known as the Patriot Advanced Capability-3/Medium Extended Air Defense System air and missile defense program (hereinafter in this section referred to as the ‘PAC–3/MEADS program’) is an element of the Ballistic Missile Defense System.
+
+
+“(b)
+ 
+Management of Configuration Changes
+.—
+The Director of the Missile Defense Agency, in consultation with the Secretary of the Army (acting through the Assistant Secretary of the Army for Acquisition, Logistics and Technology) shall ensure that any configuration change for the PAC–3/MEADS program is subject to the configuration control board processes of the Missile Defense Agency so as to ensure integration of the PAC–3/MEADS element with appropriate elements of the Ballistic Missile Defense System.
+
+
+“(c)
+ 
+Required Procedures
+.—
+(1)
+ Except as otherwise directed by the Secretary of Defense, the Secretary of the Army (acting through the Assistant Secretary of the Army for Acquisition, Logistics and Technology) may make a significant change to the baseline technical specifications or the baseline schedule for the PAC–3/MEADS program only with the concurrence of the Director of the Missile Defense Agency.
+
+
+
+
+“(2)
+ With respect to a proposal by the Secretary of the Army to make a significant change to the procurement quantity (including any quantity in any future block procurement) that, as of the date of such proposal, is planned for the PAC–3/MEADS program, the Secretary of Defense shall establish—
+“(A)
+ procedures for a determination of the effect of such change on Ballistic Missile Defense System capabilities and on the cost of the PAC–3/MEADS program; and
+
+
+
+
+“(B)
+ procedures for review of the proposed change by all relevant commands and agencies of the Department of Defense, including determination of the concurrence or nonconcurrence of each such command and agency with respect to such proposed change.
+
+
+
+
+
+
+“(d)
+ 
+Report
+.—
+Not later than 
+February 1, 2005
+, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report describing the procedures developed pursuant to subsection (c)(2).
+
+
+“(e)
+ 
+Definitions
+.—
+For purpose of this section:
+“(1)
+ The term ‘significant change’ means, with respect to the PAC–3/MEADS program, a change that would substantially alter the role or contribution of that program in the Ballistic Missile Defense System.
+
+
+
+
+“(2)
+ The term ‘baseline technical specifications’ means, with respect to the PAC–3/MEADS program, those technical specifications for that program that have been approved by the configuration control board of the Missile Defense Agency and are in effect as of the date of the review.
+
+
+
+
+“(3)
+ The term ‘baseline schedule’ means, with respect to the PAC–3/MEADS program, the development and production schedule for the PAC–3/MEADS program in effect at the time of a review of such program conducted pursuant to subsection (b) or (c)(2)(B).”
+
+
+
+
+“(a)
+ 
+Testing Criteria
+.—
+Not later than 
+February 1, 2005
+, the Secretary of Defense, in consultation with the Director of Operational Test and Evaluation, shall prescribe appropriate criteria for operationally realistic testing of fieldable prototypes developed under the ballistic missile defense spiral development program. The Secretary shall submit a copy of the prescribed criteria to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives].
+
+
+“(b)
+ 
+Use of Criteria
+.—
+(1)
+ The Secretary of Defense shall ensure that, not later than 
+October 1, 2005
+, a test of the ballistic missile defense system is conducted consistent with the criteria prescribed under subsection (a).
+
+
+
+
+“(2)
+ The Secretary of Defense shall ensure that each block configuration of the ballistic missile defense system is tested consistent with the criteria prescribed under subsection (a).
+
+
+
+
+“(c)
+ 
+Relationship to Other Law
+.—
+Nothing in this section shall be construed to exempt any spiral development program of the Department of Defense, after completion of the spiral development, from the applicability of any provision of chapter 144 of title 10, United States Code, or section 139, 181, 2366, 2399, or 2400 of such title in accordance with the terms and conditions of such provision.
+
+
+“(d)
+ 
+Evaluation
+.—
+(1)
+ The Director of Operational Test and Evaluation shall evaluate the results of each test conducted under subsection (a) as soon as practicable after the completion of such test.
+
+
+
+
+“(2)
+ The Director shall submit to the Secretary of Defense and the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report on the evaluation of each test conducted under subsection (a) upon completion of the evaluation of such test under paragraph (1).
+
+
+
+
+“(e)
+ 
+Cost, Schedule, and Performance Baselines
+.—
+(1)
+ The Director of the Missile Defense Agency shall establish cost, schedule, and performance baselines for each block configuration of the Ballistic Missile Defense System being fielded. The cost baseline for a block configuration shall include full life cycle costs for the block configuration.
+
+
+
+
+“(2)
+ The Director shall include the baselines established under paragraph (1) in the first Selected Acquisition Report for the Ballistic Missile Defense System that is submitted to Congress under 
+section 2432 of title 10
+, United States Code, after the establishment of such baselines.
+
+
+
+
+“(3)
+ The Director shall also include in the Selected Acquisition Report submitted to Congress under paragraph (2) the significant assumptions used in determining the performance baseline under paragraph (1), including any assumptions regarding threat missile countermeasures and decoys.
+
+
+
+
+“(f)
+ 
+Variations Against Baselines
+.—
+In the event the cost, schedule, or performance of any block configuration of the Ballistic Missile Defense System varies significantly (as determined by the Director of the Ballistic Missile Defense Agency) from the applicable baseline established under subsection (d), the Director shall include such variation, and the reasons for such variation, in the Selected Acquisition Report submitted to Congress under 
+section 2432 of title 10
+, United States Code.
+
+
+“(g)
+ 
+Modifications of Baselines
+.—
+In the event the Director of the Missile Defense Agency elects to undertake any modification of a baseline established under subsection (d), the Director shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report setting forth the reasons for such modification.”
+
+
+“(a)
+ 
+Information To Be Furnished to Congressional Committees
+.—
+The Director of the Missile Defense Agency shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] information on the results of each flight test of the Ground-based Midcourse national missile defense system.
+
+
+“(b)
+ 
+Content
+.—
+Information provided under subsection (a) on the results of a flight test shall include the following matters:
+“(1)
+ A thorough discussion of the content and objectives of the test.
+
+
+
+
+“(2)
+ For each such test objective, a statement regarding whether or not the objective was achieved.
+
+
+
+
+“(3)
+ For any such test objective not achieved—
+“(A)
+ a thorough discussion describing the reasons that the objective was not achieved; and
+
+
+
+
+“(B)
+ a discussion of any plans for future tests to achieve that objective.”
+
+
+
+
+
+
+“[(c)
+, (d). Repealed. 
+Pub. L. 112–81, div. A, title X, § 1062(h)
+, 
+Dec. 31, 2011
+, 
+125 Stat. 1585
+.]
+
+
+“(e)
+ 
+Internal DOD Reviews
+.—
+(1)
+ The officials and elements of the Department of Defense specified in paragraph (2) shall on an ongoing basis—
+“(A)
+ review the development of goals under subsection (c) and the annual program plan under subsection (d); and
+
+
+
+
+“(B)
+ provide to the Secretary of Defense and the Director of the Missile Defense Agency any comments on such matters as considered appropriate.
+
+
+
+
+
+
+“(2)
+ Paragraph (1) applies with respect to the following:
+“(A)
+ The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+
+
+“(B)
+ The Director of Operational Test and Evaluation.
+
+
+
+
+“(C)
+ The Director of Program Analysis and Evaluation.
+
+
+
+
+“(D)
+ The Joint Requirements Oversight Council.
+
+
+
+
+“(E)
+ The Cost Analysis and Improvement Group.
+
+
+
+
+
+
+“(f)
+ 
+Demonstration of Critical Technologies
+.—
+(1)
+ The Director of the Missile Defense Agency shall develop a plan for ensuring that each critical technology for a missile defense program is successfully demonstrated in an appropriate environment before that technology enters into operational service as part of a missile defense program.
+
+
+
+
+“(2)
+ The Director of Operational Test and Evaluation of the Department of Defense shall monitor the development of the plan under paragraph (1) and shall submit to the Director of the Missile Defense Agency any comments regarding that plan that the Director of Operational Test and Evaluation considers appropriate.
+
+
+
+
+“[(g)
+ Repealed. 
+Pub. L. 112–81, div. A, title II, § 232(c)
+, 
+Dec. 31, 2011
+, 
+125 Stat. 1340
+.]
+
+
+“(h)
+ 
+Annual OT&E Assessment and Characterization of Certain Ballistic Missile Defense Matters
+.—
+(1)
+ The Director of Operational Test and Evaluation shall each year assess the adequacy and sufficiency of the Missile Defense Agency test program during the preceding fiscal year.
+
+
+
+
+“(2)
+ The Director of Operational Test and Evaluation shall also each year characterize the operational effectiveness, suitability, and survivability of the ballistic missile defense system, and its elements, that have been fielded or tested before the end of the preceding fiscal year.
+
+
+
+
+“(3)
+ Not later than February 15 each year the Director shall submit to the congressional defense committees a report on the assessment under paragraph (1) and the characterization under paragraph (2) with respect to the preceding fiscal year.”
+
+
+
+
+“(a)
+ 
+Testing Infrastructure
+.—
+(1)
+ The Secretary of Defense shall ensure that each annual budget request of the Department of Defense—
+“(A)
+ is designed to provide for comprehensive testing of ballistic missile defense programs during early stages of development; and
+
+
+
+
+“(B)
+ includes necessary funding to support and improve test infrastructure and provide adequate test assets for the testing of such programs.
+
+
+
+
+
+
+“(2)
+ The Secretary shall ensure that ballistic missile defense programs incorporate, to the greatest possible extent, operationally realistic test configurations (referred to as ‘test bed’ configurations) to demonstrate system performance across a broad range of capability and, during final stages of operational testing, to demonstrate reliable performance.
+
+
+
+
+“(3)
+ The Secretary shall ensure that the test infrastructure for ballistic missile defense programs is capable of supporting continued testing of ballistic missile defense systems after deployment.
+
+
+
+
+“(b)
+ 
+Requirements for Early Stages of System Development
+.—
+In order to demonstrate acceptable risk and developmental stability, the Secretary of Defense shall ensure that any ballistic missile defense program incorporates, to the maximum extent practicable, the following elements during the early stages of system development:
+“(1)
+ Pursuit of parallel conceptual approaches and technological paths for all critical problematic components until effective and reliable solutions can be demonstrated.
+
+
+
+
+“(2)
+ Comprehensive ground testing in conjunction with flight-testing for key elements of the proposed system that are considered to present high risk, with such ground testing to make use of existing facilities and combinations of facilities that support testing at the highest possible levels of integration.
+
+
+
+
+“(3)
+ Where appropriate, expenditures to enhance the capabilities of existing test facilities, or to construct new test facilities, to support alternative complementary test methodologies.
+
+
+
+
+“(4)
+ Sufficient funding of test instrumentation to ensure accurate measurement of all critical test events.
+
+
+
+
+“(5)
+ Incorporation into the program of sufficient schedule flexibility and expendable test assets, including missile interceptors and targets, to ensure that failed or aborted tests can be repeated in a prudent, but expeditious manner.
+
+
+
+
+“(6)
+ Incorporation into flight-test planning for the program, where possible, of—
+“(A)
+ methods that make the most cost-effective use of test opportunities;
+
+
+
+
+“(B)
+ events to demonstrate engagement of multiple targets, ‘shoot-look-shoot’, and other planned operational concepts; and
+
+
+
+
+“(C)
+ exploitation of opportunities to facilitate early development and demonstration of ‘family of systems’ concepts.
+
+
+
+
+
+
+“(c)
+ 
+Specific Requirements for Ground-Based Mid-Course Interceptor Systems
+.—
+For ground-based mid-course interceptor systems, the Secretary of Defense shall initiate steps during fiscal year 2002 to establish a flight-test capability of launching not less than three missile defense interceptors and not less than two ballistic missile targets to provide a realistic test infrastructure.”
+
+
+“(a)
+ 
+Jointly Funded Projects
+.—
+The Secretary of Energy and the Secretary of Defense shall modify the memorandum of understanding for the use of the national laboratories for ballistic missile defense programs, entered into under section 3131 of the National Defense Authorization Act for Fiscal Year 1998 (
+Public Law 105–85
+; 
+111 Stat. 2034
+; 
+10 U.S.C. 2431
+ note), to provide for jointly funded projects.
+
+
+“(b)
+ 
+Requirements for Projects
+.—
+The projects referred to in subsection (a) shall—
+“(1)
+ be carried out by the National Nuclear Security Administration and the Missile Defense Agency; and
+
+
+
+
+“(2)
+ contribute to sustaining—
+“(A)
+ the expertise necessary for the viability of such laboratories; and
+
+
+
+
+“(B)
+ the capabilities required to sustain the nuclear stockpile.
+
+
+
+
+
+
+“(c)
+ 
+Participation by NNSA in Certain MDA Activities
+.—
+The Administrator for Nuclear Security and the Director of the Missile Defense Agency shall implement mechanisms that increase the cooperative relationship between those organizations. Those mechanisms may include participation by personnel of the National Nuclear Security Administration in the following activities of the Missile Defense Agency:
+“(1)
+ Peer reviews of technical efforts.
+
+
+
+
+“(2)
+ Activities of so-called ‘red teams’.”
+
+
+
+
+“(a)
+ 
+Memorandum of Understanding
+.—
+The Secretary of Energy and the Secretary of Defense shall enter into a memorandum of understanding for the purpose of improving and facilitating the use by the Secretary of Defense of the expertise of the national laboratories for the ballistic missile defense programs of the Department of Defense.
+
+
+“(b)
+ 
+Assistance
+.—
+The memorandum of understanding shall provide that the Secretary of Defense shall request such assistance with respect to the ballistic missile defense programs of the Department of Defense as the Secretary of Defense and the Secretary of Energy determine can be provided through the technical skills and experience of the national laboratories, using such financial arrangements as the Secretaries determine are appropriate.
+
+
+“(c)
+ 
+Activities
+.—
+The memorandum of understanding shall provide that the national laboratories shall carry out those activities necessary to respond to requests for assistance from the Secretary of Defense referred to in subsection (b). Such activities may include the identification of technical modifications and test techniques, the analysis of physics problems, the consolidation of range and test activities, and the analysis and simulation of theater missile defense deployment problems.
+
+
+“(d)
+ 
+National Laboratories
+.—
+For purposes of this section, the national laboratories are—
+“(1)
+ the Lawrence Livermore National Laboratory, Livermore, California;
+
+
+
+
+“(2)
+ the Los Alamos National Laboratory, Los Alamos, New Mexico; and
+
+
+
+
+“(3)
+ the Sandia National Laboratories, Albuquerque, New Mexico.”
+
+
+
+
+“(a)
+ 
+Establishment of Core Program
+.—
+To implement the policy established in paragraph (1) of section 233, the Secretary of Defense shall restructure the core theater missile defense program to consist of the following systems:
+“(1)
+ The Patriot PAC–3 system.
+
+
+
+
+“(2)
+ The Navy Area Defense system.
+
+
+
+
+“(3)
+ The Theater High-Altitude Area Defense (THAAD) system.
+
+
+
+
+“(4)
+ The Navy Theater Wide system.
+
+
+
+
+“(b)
+ 
+Use of Streamlined Acquisition Procedures
+.—
+The Secretary of Defense shall prescribe and use streamlined acquisition policies and procedures to reduce the cost and increase the efficiency of developing and deploying the theater missile defense systems specified in subsection (a).
+
+
+“(c)
+ 
+Interoperability and Support of Core Systems
+.—
+To maximize effectiveness and flexibility of the systems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
+“(A)
+ the Cooperative Engagement Capability (CEC) system of the Navy;
+
+
+
+
+“(B)
+ airborne sensors; and
+
+
+
+
+“(C)
+ space-based sensors (including, in particular, the Space and Missile Tracking System).
+
+
+
+
+“(d)
+ 
+Follow-on Systems
+.—
+(1)
+ The Secretary of Defense shall prepare an affordable development plan for theater missile defense systems to be developed as follow-on systems to the core systems specified in subsection (a). The Secretary shall make the selection of a system for inclusion in the plan based on the capability of the system to satisfy military requirements not met by the systems in the core program and on the capability of the system to use prior investments in technologies, infrastructure, and battle-management capabilities that are incorporated in, or associated with, the systems in the core program.
+
+
+
+
+“(2)
+ The Secretary may not proceed with the development of a follow-on theater missile defense system beyond the Demonstration/Validation stage of development unless the Secretary designates that system as a part of the core program under this section and submits to the congressional defense committees [Committees on Armed Services and on Appropriations of the Senate and House of Representatives] notice of that designation. The Secretary shall include with any such notification a report describing—
+“(A)
+ the requirements for the system and the specific threats that such system is designed to counter;
+
+
+
+
+“(B)
+ how the system will relate to, support, and build upon existing core systems;
+
+
+
+
+“(C)
+ the planned acquisition strategy for the system; and
+
+
+
+
+“(D)
+ a preliminary estimate of total program cost for that system and the effect of development and acquisition of such system on Department of Defense budget projections.
+
+
+
+
+
+
+“(e)
+ 
+Program Accountability Report
+.—
+(1)
+ As part of the annual report of the Ballistic Missile Defense Organization [now Missile Defense Agency] required by 
+section 224 of Public Law 101–189
+ (
+10 U.S.C. 2431
+ note), the Secretary of Defense shall describe the technical milestones, the schedule, and the cost of each phase of development and acquisition (together with total estimated program costs) for each core and follow-on theater missile defense program.
+
+
+
+
+“(2)
+ As part of such report, the Secretary shall describe, with respect to each program covered in the report, any variance in the technical milestones, program schedule milestones, and costs for the program compared with the information relating to that program in the report submitted in the previous year and in the report submitted in the first year in which that program was covered.
+
+
+
+
+“(a)
+ 
+Findings
+.—
+(1)
+ Congress hereby reaffirms—
+“(A)
+ the finding in [former] section 234(a)(7) of the National Defense Authorization Act for Fiscal Year 1994 (
+Public Law 103–160
+; 
+107 Stat. 1595
+; 
+10 U.S.C. 2431
+ note) that the ABM Treaty was not intended to, and does not, apply to or limit research, development, testing, or deployment of missile defense systems, system upgrades, or system components that are designed to counter modern theater ballistic missiles, regardless of the capabilities of such missiles, unless those systems, system upgrades, or system components are tested against or have demonstrated capabilities to counter modern strategic ballistic missiles; and
+
+
+
+
+“(B)
+ the statement in section 232 of the National Defense Authorization Act for Fiscal Year 1995 (
+Public Law 103–337
+; 
+108 Stat. 2700
+) that the United States shall not be bound by any international agreement entered into by the President that would substantively modify the ABM Treaty unless the agreement is entered into pursuant to the treaty making power of the President under the Constitution.
+
+
+
+
+
+
+“(2)
+ Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of a missile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
+
+
+
+
+“(b)
+ 
+Sense of Congress Concerning Compliance Policy
+.—
+It is the sense of Congress that—
+“(1)
+ unless a missile defense system, system upgrade, or system component (including one that exploits data from space-based or other external sensors) is flight tested in an ABM-qualifying flight test (as defined in subsection (e)), that system, system upgrade, or system component has not, for purposes of the ABM Treaty, been tested in an ABM mode nor been given capabilities to counter strategic ballistic missiles and, therefore, is not subject to any application, limitation, or obligation under the ABM Treaty; and
+
+
+
+
+“(2)
+ any international agreement that would limit the research, development, testing, or deployment of missile defense systems, system upgrades, or system components that are designed to counter modern theater ballistic missiles in a manner that would be more restrictive than the compliance criteria specified in paragraph (1) should be entered into only pursuant to the treaty making powers of the President under the Constitution.
+
+
+
+
+“(c)
+ 
+Prohibition on Funding
+.—
+Funds appropriated or otherwise made available to the Department of Defense for fiscal year 1996 may not be obligated or expended to implement an agreement, or any understanding with respect to interpretation of the ABM Treaty, between the United States and any of the independent states of the former Soviet Union entered into after 
+January 1, 1995
+, that—
+“(1)
+ would establish a demarcation between theater missile defense systems and anti-ballistic missile systems for purposes of the ABM Treaty; or
+
+
+
+
+“(2)
+ would restrict the performance, operation, or deployment of United States theater missile defense systems.
+
+
+
+
+“(d)
+ 
+Exceptions
+.—
+Subsection (c) does not apply—
+“(1)
+ to the extent provided by law in an Act enacted after this Act [
+Pub. L. 104–106
+, enacted 
+Feb. 10, 1996
+];
+
+
+
+
+“(2)
+ to expenditures to implement that portion of any such agreement or understanding that implements the policy set forth in subsection (b)(1); or
+
+
+
+
+“(3)
+ to expenditures to implement any such agreement or understanding that is approved as a treaty or by law.
+
+
+
+
+“(e)
+ ABM-
+Qualifying Flight Test Defined
+.—
+For purposes of this section, an ABM-qualifying flight test is a flight test against a ballistic missile which, in that flight test, exceeds (1) a range of 3,500 kilometers, or (2) a velocity of 5 kilometers per second.
+
+
+“(a)
+ 
+General Limitation
+.—
+Funds appropriated to the Department of Defense for fiscal year 1995, or otherwise made available to the Department of Defense from any funds appropriated for fiscal year 1995 or for any fiscal year before 1995, may not be obligated or expended—
+“(1)
+ for any development or testing of anti-ballistic missile systems or components except for development and testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the 
+July 13, 1993
+, ACDA letter; or
+
+
+
+
+“(2)
+ for the acquisition of any material or equipment (including long lead materials, components, piece parts, or test equipment, or any modified space launch vehicle) required or to be used for the development or testing of anti-ballistic missile systems or components, except for material or equipment required for development or testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the 
+July 13, 1993
+, ACDA letter.
+
+
+
+
+“(b)
+ 
+Limitation Relating to Brilliant Eyes
+.—
+Of the funds appropriated pursuant to the authorizations of appropriations in section 201 [
+108 Stat. 2690
+] that are made available for the space-based, midcourse missile tracking system known as the Brilliant Eyes program, not more than $80,000,000 may be obligated until the Secretary of Defense submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review conducted pursuant to subsection (c).
+
+
+“(c)
+ 
+Compliance Review for Brilliant Eyes
+.—
+The Secretary of Defense shall review the Brilliant Eyes program to determine whether, and under what conditions, the development, testing, and deployment of the Brilliant Eyes missile tracking system in conjunction with a theater ballistic missile defense system, with a limited national missile defense system, and with both such systems, would be in compliance with the ABM Treaty, including the interpretation of that treaty set forth in the enclosure to the 
+July 13, 1993
+, ACDA letter.
+
+
+“(d)
+ 
+Compliance Review for Navy Upper Tier System
+.—
+(1)
+ The Secretary of Defense shall review the theater ballistic missile program known as the Navy Upper Tier program to determine whether the development, testing, and deployment of the system being developed under that program would be in compliance with the ABM Treaty, including the interpretation of the Treaty set forth in the enclosure to the 
+July 13, 1993
+, ACDA letter.
+
+
+
+
+“(2)
+ Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review under paragraph (1).
+
+
+
+
+“(e)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘
+July 13, 1993
+, ACDA letter’ means the letter dated 
+July 13, 1993
+, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
+
+
+
+
+“(2)
+ The term ‘ABM Treaty’ means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missiles, signed in Moscow on 
+May 26, 1972
+.
+
+
+
+
+“(3)
+ The term ‘appropriate congressional committees’ means—
+“(A)
+ the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
+
+
+
+
+“(B)
+ the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
+
+
+
+
+
+
+“(a)
+ 
+Integration and Compatibility
+.—
+In carrying out the Theater Missile Defense Initiative, the Secretary of Defense shall—
+“(1)
+ seek to maximize the use of existing systems and technologies; and
+
+
+
+
+“(2)
+ seek to promote joint use by the military departments of existing and future ballistic missile defense equipment (rather than each military department developing its own systems that would largely overlap in their capabilities).
+
+
+
+
+
+The Secretaries of the military departments shall seek the maximum integration and compatibility of their ballistic missile defense systems as well as of the respective roles and missions of those systems.
+
+
+“(b)
+ TMD 
+Master Plan
+.—
+The Secretary of Defense shall submit to Congress a report (which shall constitute the TMD master plan) containing a thorough and complete analysis of the future of theater missile defense programs. The report shall include the following:
+“(1)
+ A description of the mission and scope of Theater Missile Defense.
+
+
+
+
+“(2)
+ A description of the role of each of the Armed Forces in Theater Missile Defense.
+
+
+
+
+“(3)
+ A description of how those roles interact and complement each other.
+
+
+
+
+“(4)
+ An evaluation of the cost and relative effectiveness of each interceptor and sensor under development as part of a Theater Missile Defense system by the Ballistic Missile Defense Organization [now Missile Defense Agency].
+
+
+
+
+“(5)
+ A detailed acquisition strategy which includes an analysis and comparison of the projected acquisition and life-cycle costs of each Theater Missile Defense system intended for production (shown separately for research, development, test, and evaluation, for procurement, for operation and maintenance, and for personnel costs for each system).
+
+
+
+
+“(6)
+ Specification of the baseline production rate for each year of the program through completion of procurement.
+
+
+
+
+“(7)
+ An estimate of the unit cost and capabilities of each system.
+
+
+
+
+“(8)
+ A description of plans for theater and tactical missile defense doctrine, training, tactics, and force structure.
+
+
+
+
+“(c)
+ 
+Description of Testing Program
+.—
+The Secretary of Defense shall include in the report under subsection (b)—
+“(1)
+ a description of the current and projected testing program for Theater Missile Defense systems and major components; and
+
+
+
+
+“(2)
+ an evaluation of the adequacy of the testing program to simulate conditions similar to those the systems and components would actually be expected to encounter if and when deployed (such as the ability to track and engage multiple targets with multiple interceptors, to discriminate targets from decoys and other incoming objects, and to be employed in a shoot-look-shoot firing mode).
+
+
+
+
+“(d)
+ 
+Relationship to Arms Control Treaties
+.—
+The Secretary shall include in the report under subsection (b) a statement of how production and deployment of any projected Theater Missile Defense program will conform to all relevant arms control agreements. The report shall describe any potential noncompliance with any such agreement, when such noncompliance is expected to occur, and whether provisions need to be renegotiated within that agreement to address future contingencies.
+
+
+“(e)
+ 
+Submission of Report
+.—
+The report required by subsection (b) shall be submitted as part of the next annual report of the Secretary submitted to Congress under 
+section 224 of Public Law 101–189
+ (
+10 U.S.C. 2431
+ note).
+
+
+“(f)
+ 
+Objectives of Plan
+.—
+In preparing the master plan, the Secretary shall—
+“(1)
+ seek to maximize the use of existing technologies (such as SM–2, AEGIS, Patriot, and THAAD) rather than develop new systems;
+
+
+
+
+“(2)
+ seek to maximize integration and compatibility among the systems, roles, and missions of the military departments; and
+
+
+
+
+“(3)
+ seek to promote cross-service use of existing equipment (such as development of Army equipment for the Marine Corps or ground utilization of an air or sea system).
+
+
+
+
+“(g)
+ 
+Review and Report on Deployment of Ballistic Missile Defenses
+.—
+(1)
+ The Secretary of Defense shall conduct an intensive and extensive review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses with the objective of reducing the cost of deployment and accelerating the schedule for deployment without significantly increasing programmatic risk or concurrency.
+
+
+
+
+“(2)
+ In conducting the review, the Secretary shall obtain recommendations and advice from—
+“(A)
+ the Defense Science Board;
+
+
+
+
+“(B)
+ the faculty of the Industrial College of the Armed Forces [now Dwight D. Eisenhower School for National Security and Resource Strategy]; and
+
+
+
+
+“(C)
+ federally funded research and development centers supporting the Office of the Secretary of Defense.
+
+
+
+
+
+
+“(3)
+ Not later than 
+May 1, 1994
+, the Secretary shall submit to the congressional defense committees a report on the Secretary’s findings resulting from the review under paragraph (1), together with any recommendations of the Secretary for legislation. The Secretary shall submit the report in unclassified form, but may submit a classified version of the report if necessary to clarify any of the information in the findings or recommendations or any related information. The report may be submitted as part of the next annual report of the Secretary submitted to Congress under 
+section 224 of Public Law 101–189
+ (
+10 U.S.C. 2431
+ note).”
+
+
+
+
+“(a)
+ 
+Management Responsibility
+.—
+Except as provided in subsection (b), the Secretary of Defense shall provide that management and budget responsibility for research and development of any program, project, or activity to develop far-term follow-on technology relating to ballistic missile defense shall be provided through the Defense Advanced Research Projects Agency or the appropriate military department.
+
+
+“(b)
+ 
+Waiver Authority
+.—
+The Secretary may waive the provisions of subsection (a) in the case of a particular program, project, or activity if the Secretary certifies to the congressional defense committees that it is in the national security interest of the United States to provide management and budget responsibility for that program, project, or activity through the Missile Defense Agency.
+
+
+“(c)
+ 
+Report Required
+.—
+As a part of the report required by section 231(e) [
+107 Stat. 1593
+], the Secretary shall submit to the congressional defense committees a report identifying—
+“(1)
+ each program, project, and activity with respect to which the Secretary has transferred management and budget responsibility from the Missile Defense Agency in accordance with subsection (a);
+
+
+
+
+“(2)
+ the agency or military department to which each such transfer was made; and
+
+
+
+
+“(3)
+ the date on which each such transfer was made.
+
+
+
+
+“(d)
+ 
+Definition
+.—
+For the purposes of this section, the term ‘far-term follow-on technology’ means a technology that is not incorporated into a ballistic missile defense architecture and is not likely to be incorporated within 15 years into a weapon system for ballistic missile defense.
+
+
+“(e)
+ 
+Conforming Amendment
+.—
+Section 234 of the Missile Defense Act of 1991 [
+Pub. L. 102–190
+; 
+10 U.S.C. 2431
+ note] is repealed.”
+
+
+“(a)
+ 
+Establishment of Theater Missile Defense Initiative
+.—
+The Secretary of Defense shall establish a Theater Missile Defense Initiative office within the Department of Defense. All theater and tactical missile defense activities of the Department of Defense (including all programs, projects, and activities formerly associated with the Theater Missile Defense program element of the Strategic Defense Initiative) shall be carried out under the Theater Missile Defense Initiative.
+
+
+“(b)
+ 
+Funding for Fiscal Year
+ 1993.—
+Of the amounts appropriated pursuant to section 201 [
+106 Stat. 2349
+] or otherwise made available to the Department of Defense for research, development, test, and evaluation for fiscal year 1993, not more than $935,000,000 may be obligated for activities of the Theater Missile Defense Initiative, of which not less than $90,000,000 shall be made available for exploration of promising concepts for naval theater missile defense.
+
+
+“(c)
+ 
+Report
+.—
+When the President’s budget for fiscal year 1994 is submitted to Congress pursuant to 
+section 1105 of title 31
+, United States Code, the Secretary of Defense shall submit to the congressional defense committees a report—
+“(1)
+ setting forth the proposed allocation by the Secretary of funds for the Theater Missile Defense Initiative for fiscal year 1994, shown for each program, project, and activity;
+
+
+
+
+“(2)
+ describing an updated master plan for the Theater Missile Defense Initiative that includes (A) a detailed consideration of plans for theater and tactical missile defense doctrine, training, tactics, and force structure, and (B) a detailed acquisition strategy which includes a consideration of acquisition and life-cycle costs through the year 2005 for the programs, projects, and activities associated with the Theater Missile Defense Initiative;
+
+
+
+
+“(3)
+ assessing the possible near-term contribution and cost-effectiveness for theater missile defense of exoatmospheric capabilities, to include at a minimum a consideration of—
+“(A)
+ the use of the Navy’s Standard missile combined with a kick stage rocket motor and lightweight exoatmospheric projectile (LEAP); and
+
+
+
+
+“(B)
+ the use of the Patriot missile combined with a kick stage rocket motor and LEAP.
+
+
+
+
+
+
+“(d)
+ 
+Effective Date
+.—
+The provisions of subsections (a), (b), and (c) shall be implemented not later than 90 days after the date of the enactment of this Act [
+Oct. 23, 1992
+].”
+
+
+“(a)
+ 
+Requirement Regarding the Use of Funds
+.—
+None of the funds appropriated pursuant to an authorization in this or any other Act may be obligated or expended to test against an object in space the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President has made a determination and a certification to the Congress as provided in section 8100 of the Department of Defense Appropriations Act, 1985 [set out as a note below] (as contained in 
+section 101(h) of Public Law 98–473
+ (
+98 Stat. 1941
+)).
+
+
+“(b)
+ 
+Limitation on Number of Tests
+.—
+Not more than three tests described in subsection (a) may be conducted before 
+October 1, 1986
+.”
+
+
+“(a)
+ Notwithstanding any other provision of law, none of the funds appropriated or made available in this or any other Act may be obligated or expended to test against an object in space the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President determines and certifies to Congress—
+“(1)
+ that the United States is endeavoring, in good faith, to negotiate with the Soviet Union a mutual and verifiable agreement with the strictest possible limitations on anti-satellite weapons consistent with the national security interests of the United States;
+
+
+
+
+“(2)
+ that, pending agreement on such strict limitations, testing against objects in space of the F–15 launched miniature homing vehicle anti-satellite warhead by the United States is necessary to avert clear and irrevocable harm to the national security;
+
+
+
+
+“(3)
+ that such testing would not constitute an irreversible step that would gravely impair prospects for negotiations on anti-satellite weapons; and
+
+
+
+
+“(4)
+ that such testing is fully consistent with the rights and obligations of the United States under the Anti-Ballistic Missile Treaty of 1972 as those rights and obligations exist at the time of such testing.
+
+
+
+
+“(b)
+ During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
+
+
+“(c)
+ The limitation on the expenditure of funds provided by subsection (a) of this section shall cease to apply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or 
+March 1, 1985
+, whichever occurs later.”
+
+
+“(a)
+ The Secretary of Defense (hereinafter in this section referred to as the ‘Secretary’) may assist communities located near MX Missile System sites and communities located near the East Coast Trident Base, and the States in which such communities are located, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, or operation of the MX Missile System or the East Coast Trident Base, as the case may be, and that an unfair and excessive financial burden will be incurred by such communities, or the States in which such communities are located, as a result of such increased need for such services and facilities.
+
+
+“(b)
+(1)
+ Whenever possible, the Secretary shall carry out the program of assistance authorized under this section through existing Federal programs. In carrying out such program of assistance, the Secretary may—
+“(A)
+ supplement funds made available under existing Federal programs through a direct transfer of funds from the Secretary to the department or agency concerned in such amounts as the Secretary considers necessary;
+
+
+
+
+“(B)
+ provide financial assistance to communities described in subsection (a) to help such communities pay their share of the costs under such programs;
+
+
+
+
+“(C)
+ guarantee State or municipal indebtedness, and make interest payments, in whole or in part, for State or municipal indebtedness, for improved public facilities related to the MX Missile System site or the East Coast Trident Base, as the case may be; and
+
+
+
+
+“(D)
+ make direct grants to or on behalf of communities described in subsection (a) in cases in which Federal programs (or funds for such programs) do not exist or are not sufficient to meet the costs of providing increased municipal services and facilities to the residents of such communities.
+
+
+
+
+
+
+“(2)
+ The head of each department and agency shall cooperate fully with the Secretary in carrying out the provisions of this section on a priority basis.
+
+
+
+
+“(3)
+ Notwithstanding any other provision of law, the Secretary, in cooperation with the heads of other departments and agencies of the Federal Government, may provide assistance under this section in anticipation of the work to be carried out in connection with the MX Missile System sites or the East Coast Trident Base, as the case may be.
+
+
+
+
+“(c)
+ In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary shall consult with the head of the department or agency concerned with the type of service or facility for which financial assistance is being made available and shall take into consideration—
+“(1)
+ the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population;
+
+
+
+
+“(2)
+ the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community;
+
+
+
+
+“(3)
+ the initial capitalization required for municipal sewer and water systems;
+
+
+
+
+“(4)
+ the initial operating cost for upgrading municipal services; and
+
+
+
+
+“(5)
+ such other pertinent factors as the Secretary considers appropriate.
+
+
+
+
+“(d)
+ Funds appropriated to the Department of Defense for carrying out the MX Missile System deployment program and the East Coast Trident Base may, to the extent specifically authorized in Military Construction Authorization Acts, be used by the Secretary to provide assistance under this section.”
+
+
+“(a)
+ The Congress finds that a survivable land-based intercontinental ballistic missile (ICBM) system is vital to the security of the United States and to a stable strategic balance between the United States and the Soviet Union and that timely deployment of a new basing mode is essential to the survivability of this Nation’s land-based intercontinental ballistic missiles. It is, therefore, the purpose of this section to commit the Congress to the development and deployment of the MX missile system, consisting of 200 missiles and 4,600 hardened shelters, and to insure that deployment of the entire MX system is carried out as soon as practicable.
+
+
+“(b)
+ The Secretary of Defense shall proceed immediately with the full-scale engineering development of the MX missile and a Multiple Protective Structure (MPS) basing mode and shall continue such development in a manner that will achieve an Initial Operational Capability of such missile and basing mode not later than 
+December 31, 1986
+.
+
+
+“(c)
+ Notwithstanding any other provision of law, the initial phase of construction shall be limited to 2,300 protective shelters for the MX missile in the initial deployment area.
+
+
+“(d)
+ In accordance with the finding of the Congress expressed in subsection (a), a full system of at least 4,600 protective shelters may be deployed in the initial deployment area if, after completion of a study to be conducted by the Secretary of Defense of an alternate site for a portion of the system, it is determined by the Congress that adverse cost, military considerations, or other reasons preclude split basing.”
+
+
+“(a)
+ It is the sense of the Congress that maintaining a survivable land-based intercontinental ballistic missile system is vital to the security of the United States and that development of a new basing mode for land-based intercontinental ballistic missiles is necessary to assure the survivability of the land-based system. To this end, the development of the MX missile, together with a new basing mode for such missile, should proceed so as to achieve Initial Operational Capability (IOC) for both such missile and such basing mode at the earliest practicable date.
+
+
+“(b)
+ In addition, it is the sense of the Congress that the basing mode for the MX missile should be restricted to location on the least productive land available that is suitable for such purpose.
+
+
+“(c)
+ In accordance with the sense of Congress expressed in subsection (a), the Secretary of Defense shall proceed immediately with full scale engineering development of the missile basing mode known as the Multiple Protective Structure (MPS) system concurrently with full scale engineering development of the MX missile, unless and until the Secretary of Defense certifies to the Congress that an alternative basing mode is militarily or technologically superior to, and is more cost effective than, the MPS system or the President informs the Congress that in his view the MPS system is not consistent with United States national security interests.
+
+
+“(d)
+ Nothing in this section shall be construed to prohibit or restrict the study of alternative basing modes for land-based intercontinental ballistic missiles.”
+
+
+“(a)
+ The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
+
+
+“(b)
+ The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
+
+
+“(c)
+ In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary of Defense shall consult with the head of the department or agency of the Federal Government concerned with the type of service or facility for which financial assistance is being made available and shall take into consideration (1) the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population, (2) the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community, and (3) such other pertinent factors as the Secretary of Defense deems appropriate.
+
+
+“(d)
+ Any funds appropriated to the Department of Defense for the fiscal year beginning 
+July 1, 1974
+, for carrying out the TRIDENT Weapon System shall be utilized by the Secretary of Defense in carrying out the provisions of this section to the extent that funds are unavailable under other Federal programs. Funds appropriated to the Department of Defense for any fiscal year beginning after 
+June 30, 1975
+, for carrying out the TRIDENT Weapon System may, to the extent specifically authorized in an annual Military Construction Authorization Act, be utilized by the Secretary of Defense in carrying out the provision of this section to the extent that funds are unavailable under other Federal programs.
+
+
+“(e)
+ The Secretary shall transmit to the Committees on Armed Services of the Senate and the House of Representatives semiannual reports indicating the total amount expended in the case of each local community which was provided assistance under the authority of this section during the preceding six-month period, the specific projects for which assistance was provided during such period, and the total amount provided for each such project during such period.”
+
+
+ Selected Acquisition Reports
+(a)
+ In this section:
+(1)
+ The term “program acquisition unit cost”, with respect to a major defense acquisition program, means the amount equal to (A) the total cost for development and procurement of, and system-specific military construction for, the acquisition program, divided by (B) the number of fully-configured end items to be produced for the acquisition program.
+
+
+
+
+(2)
+ The term “procurement unit cost”, with respect to a major defense acquisition program, means the amount equal to (A) the total of all funds programmed to be available for obligation for procurement for the program, divided by (B) the number of fully-configured end items to be procured.
+
+
+
+
+(3)
+ The term “major contract”, with respect to a major defense acquisition program, means each of the six largest prime, associate, or Government-furnished equipment contracts under the program that is in excess of $40,000,000 and that is not a firm, fixed price contract.
+
+
+
+
+(4)
+ The term “full life-cycle cost”, with respect to a major defense acquisition program, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
+
+
+
+
+(b)
+(1)
+ The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
+
+
+
+
+(2)
+ A status report on a major defense acquisition program need not be included in the Selected Acquisition Report for the second, third, or fourth quarter of a fiscal year if such a report was included in a previous Selected Acquisition Report for that fiscal year and during the period since that report there has been—
+(A)
+ less than a 15 percent increase in program acquisition unit cost and current procurement unit cost for the program (or for each designated subprogram under the program); and
+
+
+
+
+(B)
+ less than a six-month delay in any program schedule milestone shown in the Selected Acquisition Report.
+
+
+
+
+
+
+(3)
+(A)
+ The Secretary of Defense may waive the requirement for submission of Selected Acquisition Reports for a program for a fiscal year if—
+(i)
+ the program has not entered system development and demonstration;
+
+
+
+
+(ii)
+ a reasonable cost estimate has not been established for such program; and
+
+
+
+
+(iii)
+ the system configuration for such program is not well defined.
+
+
+
+
+
+
+(B)
+ The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to 
+section 1105 of title 31
+ in that fiscal year.
+
+
+
+
+
+
+(c)
+(1)
+ Each Selected Acquisition Report for the first quarter for a fiscal year shall include—
+(A)
+ the same information, in detailed and summarized form, as is provided in reports submitted under 
+section 2431 of this title
+;
+
+
+
+
+(B)
+ for each major defense acquisition program or designated major subprogram included in the report—
+(i)
+ the Baseline Estimate (as that term is defined in 
+section 2433(a)(2) of this title
+), along with the associated risk and sensitivity analysis of that estimate;
+
+
+
+
+(ii)
+ the original Baseline Estimate (as that term is defined in 
+section 2435(d)(1) of this title
+), along with the associated risk and sensitivity analysis of that estimate;
+
+
+
+
+(iii)
+ if the original Baseline Estimate was adjusted or revised pursuant to 
+section 2435(d)(2) of this title
+, such adjusted or revised estimate, along with the associated risk and sensitivity analysis of that estimate; and
+
+
+
+
+(iv)
+ the primary risk parameters associated with the current procurement cost for the program (as that term is used in 
+section 2432(e)(4) of this title
+);
+
+
+
+
+
+
+(C)
+ a summary of the history of significant developments from the date each major defense acquisition program or designated major subprogram included in the report was first included in a Selected Acquisition Report and program highlights since the last Selected Acquisition Report;
+
+
+
+
+(D)
+ the significant schedule and technical risks for each such program or subprogram, identified at each major milestone and as of the quarter for which the current report is submitted;
+
+
+
+
+(E)
+ the current program acquisition cost and program acquisition unit cost for each such program or subprogram included in the report and the history of those costs from the December 2001 reporting period to the end of the quarter for which the current report is submitted;
+
+
+
+
+(F)
+ the current procurement unit cost for each such program or subprogram included in the report and the history of that cost from the December 2001 reporting period to the end of the quarter for which the current report is submitted; and
+
+
+
+
+(G)
+ such other information as the Secretary of Defense considers appropriate.
+
+
+
+
+
+
+(2)
+ Each Selected Acquisition Report for the first quarter of a fiscal year shall be designed to provide to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the information such Committees need to perform their oversight functions. Whenever the Secretary of Defense proposes to make changes in the content of a Selected Acquisition Report, the Secretary shall submit a notice of the proposed changes to such committees. The changes shall be considered approved by the Secretary, and may be incorporated into the report, only after the end of the 60-day period beginning on the date on which the notice is received by those committees.
+
+
+
+
+(3)
+ In addition to the material required by paragraphs (1) and (2), each Selected Acquisition Report for the first quarter of a fiscal year shall include the following:
+(A)
+ A full life-cycle cost analysis for each major defense acquisition program and each designated major subprogram included in the report that is in the system development and demonstration stage or has completed that stage. The Secretary of Defense shall ensure that this subparagraph is implemented in a uniform manner, to the extent practicable, throughout the Department of Defense.
+
+
+
+
+(B)
+ If the system that is included in that major defense acquisition program has an antecedent system, a full life-cycle cost analysis for that system.
+
+
+
+
+
+
+(4)
+ Selected Acquisition Reports for the first quarter of a fiscal year shall be known as comprehensive annual Selected Acquisition Reports.
+
+
+
+
+(d)
+(1)
+ Each Selected Acquisition Report for the second, third, and fourth quarters of a fiscal year shall include—
+(A)
+ with respect to each major defense acquisition program that was included in the most recent comprehensive annual Selected Acquisition Report, the information described in subsection (e); and
+
+
+
+
+(B)
+ with respect to each major defense acquisition program that was not included in the most recent comprehensive annual Selected Acquisition Report, the information described in subsection (c).
+
+
+
+
+
+
+(2)
+ Selected Acquisition Reports for the second, third, and fourth quarters of a fiscal year shall be known as Quarterly Selected Acquisition Reports.
+
+
+
+
+(e)
+ Information to be included under this subsection in a Quarterly Selected Acquisition Report with respect to a major defense acquisition program is as follows:
+(1)
+ The quantity of items to be purchased under the program.
+
+
+
+
+(2)
+ The program acquisition cost.
+
+
+
+
+(3)
+ The program acquisition unit cost for the program (or for each designated major subprogram under the program).
+
+
+
+
+(4)
+ The current procurement cost for the program.
+
+
+
+
+(5)
+ The current procurement unit cost for the program (or for each designated major subprogram under the program).
+
+
+
+
+(6)
+ The reasons for any change in program acquisition cost, program acquisition unit cost, procurement cost, or procurement unit cost or in program schedule from the previous Selected Acquisition Report.
+
+
+
+
+(7)
+ The reasons for any significant changes (from the previous Selected Acquisition Report) in the total program cost for development and procurement of the software component of the program or subprogram, schedule milestones for the software component of the program or subprogram, or expected performance for the software component of the program or subprogram that are known, expected, or anticipated by the program manager.
+
+
+
+
+(8)
+ The major contracts under the program and designated major subprograms under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
+
+
+
+
+(9)
+ Program highlights since the last Selected Acquisition Report.
+
+
+
+
+(f)
+ Each comprehensive annual Selected Acquisition Report shall be submitted within 45 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
+
+
+(g)
+ The requirements of this section with respect to a major defense acquisition program or designated major subprogram shall cease to apply after 90 percent of the items to be delivered to the United States under the program or subprogram (shown as the total quantity of items to be purchased under the program or subprogram in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program or subprogram have been made.
+
+
+(h)
+(1)
+ Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such program and the Secretary of Defense has decided to proceed to system development and demonstration of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to system development and demonstration if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
+
+
+
+
+(2)
+ A limited report under this subsection shall include the following:
+(A)
+ The same information, in detail and summarized form, as is provided in reports submitted under subsections (b)(1) and (b)(3) of 
+section 2431 of this title
+.
+
+
+
+
+(B)
+ Reasons for any change in the development cost and schedule.
+
+
+
+
+(C)
+ The major contracts under the development program and designated major subprograms under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
+
+
+
+
+(D)
+ Program highlights since the last Selected Acquisition Report.
+
+
+
+
+(E)
+ Other information as the Secretary of Defense considers appropriate.
+
+
+
+
+
+
+(3)
+ The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
+
+
+
+
+“(a)
+ 
+SAR Coverage for ATB, ACM, and ATA Programs
+.—
+The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives, in accordance with the provisions of subsection (b) of 
+section 2432 of title 10
+, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under 
+section 2432 of title 10
+, United States Code.
+
+
+“(b)
+ 
+Covered Programs
+.—
+Subsection (a) applies to the Advanced Technology Bomber program, the Advanced Cruise Missile program, and the Advanced Tactical Aircraft program.
+
+
+“(c)
+ 
+Selected Acquisition Report Defined
+.—
+As used in subsection (a), the term ‘Selected Acquisition Report’ means a report containing the information referred to in 
+section 2432 of title 10
+, United States Code.”
+
+
+ Unit cost reports
+(a)
+ In this section:
+(1)
+ Except as provided in 
+section 2430a(d) of this title
+, the terms “program acquisition unit cost”, “procurement unit cost”, and “major contract” have the same meanings as provided in 
+section 2432(a) of this title
+.
+
+
+
+
+(2)
+ The term “Baseline Estimate”, with respect to a unit cost report that is submitted under this section to the service acquisition executive designated by the Secretary concerned on a major defense acquisition program or designated major subprogram, means the cost estimate included in the baseline description for the program or subprogram under 
+section 2435 of this title
+.
+
+
+
+
+(3)
+ The term “procurement program” means a program for which funds for procurement are authorized to be appropriated in a fiscal year.
+
+
+
+
+(4)
+ The term “significant cost growth threshold” means the following:
+(A)
+ In the case of a major defense acquisition program or designated major defense subprogram, a percentage increase in the program acquisition unit cost for the program or subprogram of—
+(i)
+ at least 15 percent over the program acquisition unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; or
+
+
+
+
+(ii)
+ at least 30 percent over the program acquisition unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+
+
+
+
+
+(B)
+ In the case of a major defense acquisition program or designated major defense subprogram that is a procurement program, a percentage increase in the procurement unit cost for the program or subprogram of—
+(i)
+ at least 15 percent over the procurement unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; or
+
+
+
+
+(ii)
+ at least 30 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+
+
+
+
+
+
+
+(5)
+ The term “critical cost growth threshold” means the following:
+(A)
+ In the case of a major defense acquisition program or designated major defense subprogram, a percentage increase in the program acquisition unit cost for the program or subprogram of—
+(i)
+ at least 25 percent over the program acquisition unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; or
+
+
+
+
+(ii)
+ at least 50 percent over the program acquisition unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+
+
+
+
+
+(B)
+ In the case of a major defense acquisition program or designated major defense subprogram that is a procurement program, a percentage increase in the procurement unit cost for the program or subprogram of—
+(i)
+ at least 25 percent over the procurement unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; or
+
+
+
+
+(ii)
+ at least 50 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+
+
+
+
+
+
+
+(6)
+ The term “original Baseline Estimate” has the same meaning as provided in 
+section 2435(d) of this title
+.
+
+
+
+
+(b)
+ The program manager for a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under 
+section 2432(b)(3) of this title
+) shall, on a quarterly basis, submit to the service acquisition executive designated by the Secretary concerned a written report on the unit costs of the program (or of each designated major subprogram under the program). Each report shall be submitted not more than 30 calendar days after the end of that quarter. The program manager shall include in each such unit cost report the following information with respect to the program (as of the last day of the quarter for which the report is made):
+(1)
+ The program acquisition unit cost for the program (or for each designated major subprogram under the program).
+
+
+
+
+(2)
+ In the case of a procurement program, the procurement unit cost for the program (or for each designated major subprogram under the program).
+
+
+
+
+(3)
+ Any cost variance or schedule variance in a major contract under the program since the contract was entered into.
+
+
+
+
+(4)
+ Any changes from program schedule milestones or program performances reflected in the baseline description established under 
+section 2435 of this title
+ that are known, expected, or anticipated by the program manager.
+
+
+
+
+(5)
+ Any significant changes in the total program cost for development and procurement of the software component of the program or subprogram, schedule milestones for the software component of the program or subprogram, or expected performance for the software component of the program or subprogram that are known, expected, or anticipated by the program manager.
+
+
+
+
+(c)
+ If the program manager of a major defense acquisition program for which a unit cost report has previously been submitted under subsection (b) determines at any time during a quarter that there is reasonable cause to believe that the program acquisition unit cost for the program (or for a designated major subprogram under the program) or the procurement unit cost for the program (or for such a subprogram), as applicable, has increased by a percentage equal to or greater than the significant cost growth threshold; and if a unit cost report indicating an increase of such percentage or more has not previously been submitted to the service acquisition executive designated by the Secretary concerned, then the program manager shall immediately submit to such service acquisition executive a unit cost report containing the information, determined as of the date of the report, required under subsection (b).
+
+
+(d)
+(1)
+ When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program, the service acquisition executive shall determine whether the current program acquisition unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
+
+
+
+
+(2)
+ When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program or any designated major subprogram under the program that is a procurement program, the service acquisition executive, in addition to the determination under paragraph (1), shall determine whether the procurement unit cost for the program or subprogram has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program or subprogram.
+
+
+
+
+(3)
+ If, based upon the service acquisition executive’s determination, the Secretary concerned determines that the current program acquisition unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that the procurement unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary shall notify Congress in writing of such determination and of the increase with respect to the program or subprogram concerned. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.
+
+
+
+
+(e)
+(1)
+(A)
+ Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the program acquisition unit cost or the procurement unit cost of a major defense acquisition program or designated major subprogram has increased by a percentage equal to or greater than the significant cost growth threshold for the program or subprogram, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination or for the fiscal-year quarter which immediately precedes the first fiscal-year quarter ending on or after that date. The report shall include the information described in 
+section 2432(e) of this title
+ and shall be submitted in accordance with 
+section 2432(f) of this title
+.
+
+
+
+
+(B)
+ Whenever the Secretary makes a determination referred to in subparagraph (A) in the case of a major defense acquisition program or designated major subprogram during the second quarter of a fiscal year and before the date on which the President transmits the budget for the following fiscal year to Congress pursuant to 
+section 1105 of title 31
+, the Secretary is not required to file a Selected Acquisition Report under subparagraph (A) but shall include the information described in subsection (g) regarding that program or subprogram in the comprehensive annual Selected Acquisition Report submitted in that quarter.
+
+
+
+
+
+
+(2)
+ If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated major subprogram (as determined by the Secretary under subsection (d)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense shall take actions consistent with the requirements of 
+section 2433a of this title
+.
+
+
+
+
+(3)
+ If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under 
+section 7307(b)(2) of this title
+) beginning on the date—
+(A)
+ on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
+
+
+
+
+(B)
+ on which Congress has received both the Selected Acquisition Report under paragraph (1) or (2)(B) and the certification of the Secretary of Defense under paragraph (2)(A) with respect to that program, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under subsection (d)).
+
+
+
+
+
+
+(f)
+ Any determination of a percentage increase under this section shall be stated in terms of constant base year dollars (as described in 
+section 2430 of this title
+).
+
+
+(g)
+(1)
+ Except as provided in paragraph (2), each report under subsection (e) with respect to a major defense acquisition program shall include the following:
+(A)
+ The name of the major defense acquisition program.
+
+
+
+
+(B)
+ The date of the preparation of the report.
+
+
+
+
+(C)
+ The program phase as of the date of the preparation of the report.
+
+
+
+
+(D)
+ The estimate of the program acquisition cost for the program (and for each designated major subprogram under the program) as shown in the Selected Acquisition Report in which the program or subprogram was first included, expressed in constant base-year dollars and in current dollars.
+
+
+
+
+(E)
+ The current program acquisition cost for the program (and for each designated major subprogram under the program) in constant base-year dollars and in current dollars.
+
+
+
+
+(F)
+ A statement of the reasons for any increase in program acquisition unit cost or procurement unit cost for the program (or for any designated major subprogram under the program).
+
+
+
+
+(G)
+ The completion status of the program and each designated major subprogram under the program (i) expressed as the percentage that the number of years for which funds have been appropriated for the program or subprogram is of the number of years for which it is planned that funds will be appropriated for the program or subprogram, and (ii) expressed as the percentage that the amount of funds that have been appropriated for the program or subprogram is of the total amount of funds which it is planned will be appropriated for the program or subprogram.
+
+
+
+
+(H)
+ The fiscal year in which information on the program and each designated major subprogram under the program was first included in a Selected Acquisition Report (referred to in this paragraph as the “base year”) and the date of that Selected Acquisition Report in which information on the program or subprogram was first included.
+
+
+
+
+(I)
+ The type of the Baseline Estimate that was included in the baseline description under 
+section 2435 of this title
+ and the date of the Baseline Estimate.
+
+
+
+
+(J)
+ The current change and the total change, in dollars and expressed as a percentage, in the program acquisition unit cost for the program (or for each designated major subprogram under the program), stated both in constant base-year dollars and in current dollars.
+
+
+
+
+(K)
+ The current change and the total change, in dollars and expressed as a percentage, in the procurement unit cost for the program (or for each designated major subprogram under the program), stated both in constant base-year dollars and in current dollars and the procurement unit cost for the program (or for each designated major subprogram under the program) for the succeeding fiscal year expressed in constant base-year dollars and in current year dollars.
+
+
+
+
+(L)
+ The quantity of end items to be acquired under the program and the current change and total change, if any, in that quantity.
+
+
+
+
+(M)
+ The identities of the military and civilian officers responsible for program management and cost control of the program.
+
+
+
+
+(N)
+ The action taken and proposed to be taken to control future cost growth of the program.
+
+
+
+
+(O)
+ Any changes made in the performance or schedule milestones of the program and the extent to which such changes have contributed to the increase in program acquisition unit cost or procurement unit cost for the program (or for any designated major subprogram under the program).
+
+
+
+
+(P)
+ The following contract performance assessment information with respect to each major contract under the program or subprogram:
+(i)
+ The name of the contractor.
+
+
+
+
+(ii)
+ The phase that the contract is in at the time of the preparation of the report.
+
+
+
+
+(iii)
+ The percentage of work under the contract that has been completed.
+
+
+
+
+(iv)
+ Any current change and the total change, in dollars and expressed as a percentage, in the contract cost.
+
+
+
+
+(v)
+ The percentage by which the contract is currently ahead of or behind schedule.
+
+
+
+
+(vi)
+ A narrative providing a summary explanation of the most significant occurrences, including cost and schedule variances under major contracts of the program and any designated major subprogram under the program, contributing to the changes identified and a discussion of the effect these occurrences will have on future program costs and the program schedule.
+
+
+
+
+
+
+(Q)
+ In any case in which one or more problems with the software component of the program or any designated major subprogram under the program significantly contributed to the increase in program unit costs, the action taken and proposed to be taken to solve such problems.
+
+
+
+
+
+
+(2)
+ If a program acquisition unit cost increase or a procurement unit cost increase for a major defense acquisition program or designated major subprogram that results in a report under this subsection is due to termination or cancellation of the entire program or subprogram, only the information specified in clauses (A) through (F) of paragraph (1) and the percentage change in program acquisition unit cost or procurement unit cost that resulted in the report need be included in the report. The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program or subprogram.
+
+
+
+
+(h)
+ Reporting under this section shall not apply if a program has received a limited reporting waiver under 
+section 2432(h) of this title
+.
+
+
+ Critical cost growth in major defense acquisition programs
+(a)
+ 
+Reassessment of Program
+.—
+If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated subprogram (as determined by the Secretary under 
+section 2433(d) of this title
+) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense, after consultation with the Joint Requirements Oversight Council regarding program requirements, shall—
+(1)
+ determine the root cause or causes of the critical cost growth in accordance with applicable statutory requirements and Department of Defense policies, procedures, and guidance; and
+
+
+
+
+(2)
+ in consultation with the Director of Cost Assessment and Program Evaluation, carry out an assessment of—
+(A)
+ the projected cost of completing the program if current requirements are not modified;
+
+
+
+
+(B)
+ the projected cost of completing the program based on reasonable modification of such requirements;
+
+
+
+
+(C)
+ the rough order of magnitude of the costs of any reasonable alternative system or capability; and
+
+
+
+
+(D)
+ the need to reduce funding for other programs due to the growth in cost of the program.
+
+
+
+
+
+
+(b)
+ 
+Presumption of Termination
+.—
+(1)
+ After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in 
+section 2433(g) of this title
+ is required to be submitted under 
+section 2432(f) of this title
+, a written certification in accordance with paragraph (2).
+
+
+
+
+(2)
+ A certification described by this paragraph with respect to a major defense acquisition program is a written certification that—
+(A)
+ the continuation of the program is essential to the national security;
+
+
+
+
+(B)
+ there are no alternatives to the program which will provide acceptable capability to meet the joint military requirement (as defined in 
+section 181(g)(1) of this title
+) at less cost;
+
+
+
+
+(C)
+ the new estimates of the program acquisition unit cost or procurement unit cost have been determined by the Director of Cost Assessment and Program Evaluation to be reasonable;
+
+
+
+
+(D)
+ the program is a higher priority than programs whose funding must be reduced to accommodate the growth in cost of the program; and
+
+
+
+
+(E)
+ the management structure for the program is adequate to manage and control program acquisition unit cost or procurement unit cost.
+
+
+
+
+
+
+(3)
+ A written certification under paragraph (2) shall be accompanied by a report presenting the root cause analysis and assessment carried out pursuant to subsection (a) and the basis for each determination made in accordance with subparagraphs (A) through (E) of paragraph (2), together with supporting documentation.
+
+
+
+
+(c)
+ 
+Actions if Program Not Terminated
+.—
+(1)
+ If the Secretary elects not to terminate a major defense acquisition program pursuant to subsection (b), the Secretary shall—
+(A)
+ restructure the program in a manner that addresses the root cause or causes of the critical cost growth, as identified pursuant to subsection (a), and ensures that the program has an appropriate management structure as set forth in the certification submitted pursuant to subsection (b)(2)(E);
+
+
+
+
+(B)
+ rescind the most recent Milestone approval for the program and withdraw any associated certification under section 2366a or 2366b of this title;
+
+
+
+
+(C)
+ require a new Milestone approval for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
+
+
+
+
+(D)
+ include in the report specified in paragraph (2) a description of all funding changes made as a result of the growth in cost of the program, including reductions made in funding for other programs to accommodate such cost growth; and
+
+
+
+
+(E)
+ conduct regular reviews of the program in accordance with the requirements of section 205 of the Weapon Systems Acquisition Reform Act of 2009.
+
+
+
+
+
+
+(2)
+ For purposes of paragraph (1)(D), the report specified in this paragraph is the first Selected Acquisition Report for the program submitted pursuant to 
+section 2432 of this title
+ after the President submits a budget pursuant to 
+section 1105 of title 31
+, in the calendar year following the year in which the program was restructured.
+
+
+
+
+(3)
+(A)
+ The requirements of subparagraphs (B), (C), and (E) of paragraph (1) shall not apply to a program or subprogram if—
+(i)
+ the Milestone Decision Authority determines in writing, on the basis of a cost assessment and root cause analysis conducted pursuant to subsection (a), that—
+(I)
+ but for a change in the quantity of items to be purchased under the program or subprogram, the program acquisition unit cost or procurement unit cost for the program or subprogram would not have increased by a percentage equal to or greater than the cost growth thresholds for the program or subprogram set forth in subparagraph (B); and
+
+
+
+
+(II)
+ the change in quantity of items described in subclause (I) was not made as a result of an increase in program cost, a delay in the program, or a problem meeting program requirements;
+
+
+
+
+
+
+(ii)
+ the Secretary determines in writing that the cost to the Department of Defense of complying with such requirements is likely to exceed the benefits to the Department of complying with such requirements; and
+
+
+
+
+(iii)
+ the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in 
+section 2433(g) of this title
+ is required to be submitted under 
+section 2432(f) of this title
+—
+(I)
+ a copy of the written determination under clause (i) and an explanation of the basis for the determination; and
+
+
+
+
+(II)
+ a copy of the written determination under clause (ii) and an explanation of the basis for the determination.
+
+
+
+
+
+
+
+
+(B)
+ The cost growth thresholds specified in this subparagraph are as follows:
+(i)
+ In the case of a major defense acquisition program or designated major defense subprogram, a percentage increase in the program acquisition unit cost for the program or subprogram of—
+(I)
+ 5 percent over the program acquisition unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
+
+
+
+
+(II)
+ 10 percent over the program acquisition unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+
+
+
+
+
+(ii)
+ In the case of a major defense acquisition program or designated major defense subprogram that is a procurement program, a percentage increase in the procurement unit cost for the program or subprogram of—
+(I)
+ 5 percent over the procurement unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
+
+
+
+
+(II)
+ 10 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
+
+
+
+
+
+
+
+
+
+
+(d)
+ 
+Actions if Program Terminated
+.—
+If a major defense acquisition program is terminated pursuant to subsection (b), the Secretary shall submit to Congress a written report setting forth—
+(1)
+ an explanation of the reasons for terminating the program;
+
+
+
+
+(2)
+ the alternatives considered to address any problems in the program; and
+
+
+
+
+(3)
+ the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
+
+
+
+
+ Independent cost estimates; operational manpower requirements
+(a)
+ 
+Requirement for Approval
+.—
+(1)
+ The Secretary of Defense may not approve the system development and demonstration, or the production and deployment, of a major defense acquisition program unless an independent estimate of the full life-cycle cost of the program and a manpower estimate for the program have been considered by the Secretary.
+
+
+
+
+(2)
+ The provisions of this section shall apply to any major subprogram of a major defense acquisition program (as designated under 
+section 2430a(a)(1) of this title
+) in the same manner as those provisions apply to a major defense acquisition program, and any reference in this section to a program shall be treated as including such a subprogram.
+
+
+
+
+(b)
+ 
+Regulations
+.—
+The Secretary of Defense shall prescribe regulations governing the content and submission of the estimates required by subsection (a). The regulations shall require—
+(1)
+ that the independent estimate of the full life-cycle cost of a program—
+(A)
+ be prepared or approved by the Director of Cost Assessment and Program Evaluation; and
+
+
+
+
+(B)
+ include all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control; and
+
+
+
+
+
+
+(2)
+ that the manpower estimate include an estimate of the total number of personnel required—
+(A)
+ to operate, maintain, and support the program upon full operational deployment; and
+
+
+
+
+(B)
+ to train personnel to carry out the activities referred to in subparagraph (A).
+
+
+
+
+
+
+ Baseline description
+(a)
+ 
+Baseline Description Requirement
+.—
+(1)
+ The Secretary of a military department shall establish a baseline description for each major defense acquisition program and for each designated major subprogram under the program under the jurisdiction of such Secretary.
+
+
+
+
+(2)
+ The baseline shall include sufficient parameters to describe the cost estimate (referred to as the “Baseline Estimate” in 
+section 2433 of this title
+), schedule, performance, supportability, and any other factor of such major defense acquisition program or designated major subprogram.
+
+
+
+
+(b)
+ 
+Funding Limit
+.—
+No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program or any designated major subprogram under the program may be obligated after the program or subprogram enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+(c)
+ 
+Schedule
+.—
+A baseline description for a major defense acquisition program or any designated major subprogram under the program shall be prepared under this section—
+(1)
+ before the program or subprogram enters system development and demonstration;
+
+
+
+
+(2)
+ before the program or subprogram enters production and deployment; and
+
+
+
+
+(3)
+ before the program or subprogram enters full rate production.
+
+
+
+
+(d)
+ 
+Original Baseline Estimate
+.—
+(1)
+ In this chapter, the term “original Baseline Estimate”, with respect to a major defense acquisition program or any designated major subprogram under the program, means the baseline description established with respect to the program or subprogram under subsection (a) prepared before the program or subprogram enters system development and demonstration, or at program or subprogram initiation, whichever occurs later, without adjustment or revision (except as provided in paragraph (2)).
+
+
+
+
+(2)
+ An adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program may be treated as the original Baseline Estimate for the program or subprogram for purposes of this chapter only if the percentage increase in the program acquisition unit cost or procurement unit cost under such adjustment or revision exceeds the critical cost growth threshold for the program or subprogram under 
+section 2433 of this title
+, as determined by the Secretary of the military department concerned under subsection (d) of such section.
+
+
+
+
+(3)
+ In the event of an adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program, the Secretary of Defense shall include in the next Selected Acquisition Report to be submitted under 
+section 2432 of this title
+ after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
+
+
+
+
+(e)
+ 
+Regulations
+.—
+The Secretary of Defense shall prescribe regulations governing the following:
+(1)
+ The content of baseline descriptions under this section.
+
+
+
+
+(2)
+ The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition, Technology, and Logistics by the program manager for a program for which there is an approved baseline description (or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms) under this section of reports of deviations from any such baseline description of the cost, schedule, performance, supportability, or any other factor of the program or subprogram.
+
+
+
+
+(3)
+ Procedures for review of such deviation reports within the Department of Defense.
+
+
+
+
+(4)
+ Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
+
+
+
+
+ Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States
+(a)
+ 
+Establishment of Incentive Program
+.—
+The Secretary of Defense shall plan and establish an incentive program in accordance with this section for contractors to purchase capital assets manufactured in the United States in part with funds available to the Department of Defense.
+
+
+(b)
+ 
+Defense Industrial Capabilities Fund May Be Used
+.—
+The Secretary of Defense may use the Defense Industrial Capabilities Fund, established under section 814 of the National Defense Authorization Act for Fiscal Year 2004, for incentive payments under the program established under this section.
+
+
+(c)
+ 
+Applicability to Major Defense Acquisition Program Contracts
+.—
+The incentive program shall apply to contracts for the procurement of a major defense acquisition program.
+
+
+(d)
+ 
+Consideration
+.—
+The Secretary of Defense shall provide consideration in source selection in any request for proposals for a major defense acquisition program for offerors with eligible capital assets.
+
+
+ Development of major defense acquisition programs: sustainment of system to be replaced
+(a)
+ 
+Requirement for Sustaining Existing Forces
+.—
+(1)
+ The Secretary of Defense shall require that, whenever a new major defense acquisition program begins development, the defense acquisition authority responsible for that program shall develop a plan (to be known as a “sustainment plan”) for the existing system that the system under development is intended to replace. Any such sustainment plan shall provide for an appropriate level of budgeting for sustaining the existing system until the replacement system to be developed under the major defense acquisition program is fielded and assumes the majority of responsibility for the mission of the existing system. This section does not apply to a major defense acquisition that reaches initial operational capability before 
+October 1, 2008
+.
+
+
+
+
+(2)
+ In this section, the term “defense acquisition authority” means the Secretary of a military department or the commander of the United States Special Operations Command.
+
+
+
+
+(b)
+ 
+Sustainment Plan
+.—
+The Secretary of Defense shall require that each sustainment plan under this section include, at a minimum, the following:
+(1)
+ The milestone schedule for the development of the major defense acquisition program, including the scheduled dates for low-rate initial production, initial operational capability, full-rate production, and full operational capability and the date as of when the replacement system is scheduled to assume the majority of responsibility for the mission of the existing system.
+
+
+
+
+(2)
+ An analysis of the existing system to assess the following:
+(A)
+ Anticipated funding levels necessary to—
+(i)
+ ensure acceptable reliability and availability rates for the existing system; and
+
+
+
+
+(ii)
+ maintain mission capability of the existing system against the relevant threats.
+
+
+
+
+
+
+(B)
+ The extent to which it is necessary and appropriate to—
+(i)
+ transfer mature technologies from the new system or other systems to enhance the mission capability of the existing system against relevant threats; and
+
+
+
+
+(ii)
+ provide interoperability with the new system during the period from initial fielding until the new system assumes the majority of responsibility for the mission of the existing system.
+
+
+
+
+
+
+
+
+(c)
+ 
+Exceptions
+.—
+Subsection (a) shall not apply to a major defense acquisition program if the Secretary of Defense determines that—
+(1)
+ the existing system is no longer relevant to the mission;
+
+
+
+
+(2)
+ the mission has been eliminated;
+
+
+
+
+(3)
+ the mission has been consolidated with another mission in such a manner that another existing system can adequately meet the mission requirements; or
+
+
+
+
+(4)
+ the duration of time until the new system assumes the majority of responsibility for the existing system’s mission is sufficiently short so that mission availability, capability, interoperability, and force protection requirements are maintained.
+
+
+
+
+(d)
+ 
+Waiver
+.—
+The Secretary of Defense may waive the applicability of subsection (a) to a major defense acquisition program if the Secretary determines that, but for such a waiver, the Department would be unable to meet national security objectives. Whenever the Secretary makes such a determination and authorizes such a waiver, the Secretary shall submit notice of such waiver and of the Secretary’s determination and the reasons therefor in writing to the congressional defense committees.
+
+
+ Performance assessments and root cause analyses
+(a)
+ 
+Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses
+.—
+(1)
+ 
+In general
+.—
+The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense as the principal official of the Department of Defense responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+
+
+
+
+(2)
+ 
+No program execution responsibility
+.—
+The Secretary shall ensure that the senior official designated under paragraph (1) is not responsible for program execution.
+
+
+
+
+(3)
+ 
+Staff and resources
+.—
+The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out the senior official’s function under this section.
+
+
+
+
+(b)
+ 
+Responsibilities
+.—
+The senior official designated under subsection (a) shall be responsible for the following:
+(1)
+ Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+
+
+
+
+(2)
+ Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by 
+section 2433a(a)(1) of this title
+, or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+
+
+
+
+(3)
+ Issuing policies, procedures, and guidance governing the conduct of performance assessments and root cause analyses by the military departments and the Defense Agencies.
+
+
+
+
+(4)
+ Evaluating the utility of performance metrics used to measure the cost, schedule, and performance of major defense acquisition programs, and making such recommendations to the Secretary of Defense as the official considers appropriate to improve such metrics.
+
+
+
+
+(5)
+ Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
+(A)
+ before certification under 
+section 2433a of this title
+;
+
+
+
+
+(B)
+ before entry into full-rate production; or
+
+
+
+
+(C)
+ in the course of consideration of any decision to request authorization of a multiyear procurement contract for the program.
+
+
+
+
+
+
+(c)
+ 
+Performance Assessments
+.—
+For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
+(1)
+ The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
+
+
+
+
+(2)
+ The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
+
+
+
+
+(d)
+ 
+Root Cause Analyses
+.—
+For purposes of this section and 
+section 2433a of this title
+, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+(1)
+ unrealistic performance expectations;
+
+
+
+
+(2)
+ unrealistic baseline estimates for cost or schedule;
+
+
+
+
+(3)
+ immature technologies or excessive manufacturing or integration risk;
+
+
+
+
+(4)
+ unanticipated design, engineering, manufacturing, or technology integration issues arising during program performance;
+
+
+
+
+(5)
+ changes in procurement quantities;
+
+
+
+
+(6)
+ inadequate program funding or funding instability;
+
+
+
+
+(7)
+ poor performance by government or contractor personnel responsible for program management; or
+
+
+
+
+(8)
+ any other matters.
+
+
+
+
+(e)
+ 
+Support of Applicable Capabilities and Expertise
+.—
+The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
+
+
+(f)
+ 
+Annual Report
+.—
+Not later than March 1 each year, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.
+
+
+ Repealed. 
+ Technology and industrial base plans
+The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by 

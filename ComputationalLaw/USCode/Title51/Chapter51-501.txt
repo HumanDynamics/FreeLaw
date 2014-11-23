@@ -1,0 +1,353 @@
+
+Chapter 501
+SPACE COMMERCE
+ Definitions
+ Commercialization of Space Station
+(a)
+ 
+Policy
+.—
+Congress declares that a priority goal of constructing the International Space Station is the economic development of Earth orbital space. Congress further declares that free and competitive markets create the most efficient conditions for promoting economic development, and should therefore govern the economic development of Earth orbital space. Congress further declares that the use of free market principles in operating, servicing, allocating the use of, and adding capabilities to the Space Station, and the resulting fullest possible engagement of commercial providers and participation of commercial users, will reduce Space Station operational costs for all partners and the Federal Government’s share of the United States burden to fund operations.
+
+
+(b)
+ Use of United States Commercially Provided Services.—
+(1)
+ 
+In general
+.—
+In order to stimulate commercial use of space, help maximize the utility and productivity of the International Space Station, and enable a commercial means of providing crew transfer and crew rescue services for the International Space Station, the Administration shall—
+(A)
+ make use of United States commercially provided International Space Station crew transfer and crew rescue services to the maximum extent practicable, if those commercial services have demonstrated the capability to meet Administration-specified ascent, entry, and International Space Station proximity operations safety requirements;
+
+
+
+
+(B)
+ limit, to the maximum extent practicable, the use of the Crew Exploration Vehicle to missions carrying astronauts beyond low Earth orbit once commercial crew transfer and crew rescue services that meet safety requirements become operational;
+
+
+
+
+(C)
+ facilitate, to the maximum extent practicable, the transfer of Administration-developed technologies to potential United States commercial crew transfer and rescue service providers, consistent with United States law; and
+
+
+
+
+(D)
+ issue a notice of intent, not later than 180 days after 
+October 15, 2008
+, to enter into a funded, competitively awarded Space Act Agreement with 2 or more commercial entities for a Phase 1 Commercial Orbital Transportation Services crewed vehicle demonstration program.
+
+
+
+
+
+
+(2)
+ 
+Congressional intent
+.—
+It is the intent of Congress that funding for the program described in paragraph (1)(D) shall not come at the expense of full funding of the amounts authorized under section 101(3)(A) of the National Aeronautics and Space Administration Authorization Act of 2008 (
+Public Law 110–422
+, 
+122 Stat. 4783
+), and for future fiscal years, for Orion Crew Exploration Vehicle development, Ares I Crew Launch Vehicle development, or International Space Station cargo delivery.
+
+
+
+
+(3)
+ 
+Additional technologies
+.—
+The Administration shall make International Space Station-compatible docking adaptors and other relevant technologies available to the commercial crew providers selected to service the International Space Station.
+
+
+
+
+(4)
+ 
+Crew transfer and crew rescue services contract
+.—
+If a commercial provider demonstrates the capability to provide International Space Station crew transfer and crew rescue services and to satisfy Administration ascent, entry, and International Space Station proximity operations safety requirements, the Administration shall enter into an International Space Station crew transfer and crew rescue services contract with that commercial provider for a portion of the Administration’s anticipated International Space Station crew transfer and crew rescue requirements from the time the commercial provider commences operations under contract with the Administration through calendar year 2016, with an option to extend the period of performance through calendar year 2020.
+
+
+
+
+ Promotion of United States Global Positioning System standards
+ Acquisition of space science data
+(a)
+ 
+Definition of Space Science Data
+.—
+In this section, the term “space science data” includes scientific data concerning—
+(1)
+ the elemental and mineralogical resources of the moon, asteroids, planets and their moons, and comets;
+
+
+
+
+(2)
+ microgravity acceleration; and
+
+
+
+
+(3)
+ solar storm monitoring.
+
+
+
+
+(b)
+ 
+Acquisition From Commercial Providers
+.—
+The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space science data from a commercial provider.
+
+
+(c)
+ 
+Treatment of Space Science Data as Commercial Item Under Acquisition Laws
+.—
+Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+
+
+(d)
+ 
+Safety Standards
+.—
+Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+
+(e)
+ 
+Limitation
+.—
+This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
+
+
+ Administration of commercial space centers
+The Administrator shall administer the Commercial Space Center program in a coordinated manner from Administration headquarters in Washington, D.C.
+ Sources of Earth science data
+(a)
+ 
+Acquisition
+.—
+The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost-effective, space-based and airborne Earth remote sensing data, services, distribution, and applications from a commercial provider.
+
+
+(b)
+ 
+Treatment as Commercial Item Under Acquisition Laws
+.—
+Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+
+
+(c)
+ 
+Safety Standards
+.—
+Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+
+(d)
+ 
+Administration and Execution
+.—
+This section shall be carried out as part of the Commercial Remote Sensing Program at the Stennis Space Center.
+
+
+ Commercial technology transfer program
+(a)
+ 
+In General
+.—
+The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community.
+
+
+(b)
+ 
+Program Structure
+.—
+In carrying out the program described in subsection (a), the Administrator shall provide program participants with at least 45 days notice of any proposed changes to the structure of the Administration’s technology transfer and commercialization organizations that is in effect as of 
+December 30, 2005
+.
+
+
+ Requirement to procure commercial space transportation services
+(a)
+ 
+In General
+.—
+Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
+
+
+(b)
+ 
+Exceptions
+.—
+The Federal Government shall not be required to acquire space transportation services under subsection (a) if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
+(1)
+ a payload requires the unique capabilities of the space shuttle;
+
+
+
+
+(2)
+ cost effective space transportation services that meet specific mission requirements would not be reasonably available from United States commercial providers when required;
+
+
+
+
+(3)
+ the use of space transportation services from United States commercial providers poses an unacceptable risk of loss of a unique scientific opportunity;
+
+
+
+
+(4)
+ the use of space transportation services from United States commercial providers is inconsistent with national security objectives;
+
+
+
+
+(5)
+ the use of space transportation services from United States commercial providers is inconsistent with international agreements for international collaborative efforts relating to science and technology;
+
+
+
+
+(6)
+ it is more cost effective to transport a payload in conjunction with a test or demonstration of a space transportation vehicle owned by the Federal Government; or
+
+
+
+
+(7)
+ a payload can make use of the available cargo space on a space shuttle mission as a secondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
+
+
+
+
+(c)
+ 
+Agreements With Foreign Entities
+.—
+Nothing in this section shall prevent the Administrator from planning or negotiating agreements with foreign entities for the launch of Federal Government payloads for international collaborative efforts relating to science and technology.
+
+
+(d)
+ 
+Delayed Effect
+.—
+Subsection (a) shall not apply to space transportation services and space transportation vehicles acquired or owned by the Federal Government before 
+October 28, 1998
+, or with respect to which a contract for such acquisition or ownership has been entered into before 
+October 28, 1998
+.
+
+
+(e)
+ 
+Historical Purposes
+.—
+This section shall not be construed to prohibit the Federal Government from acquiring, owning, or maintaining space transportation vehicles solely for historical display purposes.
+
+
+ Acquisition of commercial space transportation services
+(a)
+ 
+Treatment of Commercial Space Transportation Services as Commercial Item Under Acquisition Laws
+.—
+Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
+
+
+(b)
+ 
+Safety Standards
+.—
+Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+
+ Shuttle privatization
+The Administrator shall prepare for an orderly transition from the Federal operation, or Federal management of contracted operation, of space transportation systems to the Federal purchase of commercial space transportation services for all nonemergency space transportation requirements for transportation to and from Earth orbit, including human, cargo, and mixed payloads. In those preparations, the Administrator shall take into account the need for short-term economies, as well as the goal of restoring the Administration’s research focus and its mandate to promote the fullest possible commercial use of space. As part of those preparations, the Administrator shall plan for the potential privatization of the space shuttle program. Such plan shall keep safety and cost effectiveness as high priorities. Nothing in this section shall prohibit the Administration from studying, designing, developing, or funding upgrades or modifications essential to the safe and economical operation of the space shuttle fleet.
+ Use of excess intercontinental ballistic missiles
+(a)
+ 
+In General
+.—
+The Federal Government shall not—
+(1)
+ convert any missile described in subsection (c) to a space transportation vehicle configuration; or
+
+
+
+
+(2)
+ transfer ownership of any such missile to another person, except as provided in subsection (b).
+
+
+
+
+(b)
+ Authorized Federal Uses.—
+(1)
+ 
+In general
+.—
+A missile described in subsection (c) may be converted for use as a space transportation vehicle by the Federal Government if, except as provided in paragraph (2) and at least 30 days before such conversion, the agency seeking to use the missile as a space transportation vehicle transmits to the Committee on Armed Services and the Committee on Science and Technology of the House of Representatives, and to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, a certification that the use of such missile—
+(A)
+ would result in cost savings to the Federal Government when compared to the cost of acquiring space transportation services from United States commercial providers;
+
+
+
+
+(B)
+ meets all mission requirements of the agency, including performance, schedule, and risk requirements;
+
+
+
+
+(C)
+ is consistent with international obligations of the United States; and
+
+
+
+
+(D)
+ is approved by the Secretary of Defense or the designee of the Secretary of Defense.
+
+
+
+
+
+
+(2)
+ 
+Exception to requirement that certification be transmitted 30 days before conversion
+.—
+The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistent with meeting immediate national security requirements.
+
+
+
+
+(c)
+ 
+Missiles Referred to
+.—
+The missiles referred to in this section are missiles owned by the United States that—
+(1)
+ were formerly used by the Department of Defense for national defense purposes as intercontinental ballistic missiles; and
+
+
+
+
+(2)
+ have been declared excess to United States national defense needs and are in compliance with international obligations of the United States.
+
+
+
+

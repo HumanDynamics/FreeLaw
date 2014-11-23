@@ -1,0 +1,421 @@
+
+Chapter 144A
+MAJOR AUTOMATED INFORMATION SYSTEM PROGRAMS
+ Definitions
+(a)
+ 
+Major Automated Information System Program
+.—
+In this chapter, the term “major automated information system program” means a Department of Defense program for the acquisition of an automated information system (either as a product or a service) if—
+(1)
+ the program is designated by the Secretary of Defense, or a designee of the Secretary, as a major automated information system program; or
+
+
+
+
+(2)
+ the dollar value of the program is estimated to exceed—
+(A)
+ $32,000,000 in fiscal year 2000 constant dollars for all program costs in a single fiscal year;
+
+
+
+
+(B)
+ $126,000,000 in fiscal year 2000 constant dollars for all program acquisition costs for the entire program; or
+
+
+
+
+(C)
+ $378,000,000 in fiscal year 2000 constant dollars for the total life-cycle costs of the program (including operation and maintenance costs).
+
+
+
+
+
+
+(b)
+ 
+Adjustment
+.—
+The Secretary of Defense may adjust the amounts (and base fiscal year) set forth in subsection (a) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the congressional defense committees.
+
+
+(c)
+ 
+Increments
+.—
+In the event any increment of a major automated information system program separately meets the requirements for treatment as a major automated information system program, the provisions of this chapter shall apply to such increment as well as to the overall major automated information system program of which such increment is a part.
+
+
+(d)
+ 
+Other Major Information Technology Investment Program
+.—
+In this chapter, the term “other major information technology investment program” means the following:
+(1)
+ An investment that is designated by the Secretary of Defense, or a designee of the Secretary, as a “pre-Major Automated Information System” or “pre-MAIS” program.
+
+
+
+
+(2)
+ Any other investment in automated information system products or services that is expected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
+
+
+
+
+(e)
+ 
+Full Deployment Decision
+.—
+In this chapter, the term “full deployment decision” means, with respect to a major automated information system program, the final decision made by the Milestone Decision Authority authorizing an increment of the program to deploy software for operational use.
+
+
+(f)
+ 
+Full Deployment
+.—
+In this chapter, the term “full deployment” means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
+
+
+(g)
+ 
+Extension of a Program
+.—
+In this chapter, the term “extension of a program” means, with respect to a major automated information system program or other major information technology investment program, the further deployment or planned deployment to additional users of the system which has already been found operationally effective and suitable by an independent test agency or the Director of Operational Test and Evaluation, beyond the scope planned in the original estimate or information originally submitted on the program.
+
+
+ Cost, schedule, and performance information
+(a)
+ 
+Submittal of Cost, Schedule, and Performance Information
+.—
+The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits to Congress the budget for a fiscal year under 
+section 1105 of title 31
+, budget justification documents regarding cost, schedule, and performance for each major automated information system program and each other major information technology investment program for which funds are requested by the President in the budget.
+
+
+(b)
+ 
+Elements Regarding Major Automated Information System Programs
+.—
+The documents submitted under subsection (a) with respect to a major automated information system program shall include detailed and summarized information with respect to the automated information system to be acquired under the program, and shall specifically include each of the following:
+(1)
+ The development schedule, including major milestones.
+
+
+
+
+(2)
+ The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
+
+
+
+
+(3)
+ Estimates of total acquisition costs and full life-cycle costs.
+
+
+
+
+(4)
+ A summary of key performance parameters.
+
+
+
+
+(5)
+ For each major automated information system program for which such information has not been provided in a previous annual report—
+(A)
+ a description of the business case analysis (if any) that has been prepared for the program and key functional requirements for the program;
+
+
+
+
+(B)
+ a description of the analysis of alternatives conducted with regard to the program;
+
+
+
+
+(C)
+ an assessment of the extent to which the program, or portions of the program, have technical requirements of sufficient clarity that the program, or portions of the program, may be feasibly procured under firm, fixed-price contracts;
+
+
+
+
+(D)
+ the most recent independent cost estimate or cost analysis for the program provided by the Director of Cost Assessment and Program Evaluation in accordance with 
+section 2334(a)(6) of this title
+;
+
+
+
+
+(E)
+ a certification by a Department of Defense acquisition official with responsibility for the program that all technical and business requirements have been reviewed and validated to ensure alignment with the business case; and
+
+
+
+
+(F)
+ an explanation of the basis for the certification described in subparagraph (E).
+
+
+
+
+
+
+(6)
+ For each major automated information system program for which the information required under paragraph (5) has been provided in a previous annual report, a summary of any significant changes to the information previously provided.
+
+
+
+
+(c)
+ 
+Baseline
+.—
+(1)
+ For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such program for purposes of the reports and determinations on program changes in 
+section 2445c of this title
+.
+
+
+
+
+(2)
+ An adjustment or revision of the original estimate or information originally submitted on a program may be treated as the original estimate or information originally submitted on the program if the adjustment or revision is the result of a critical change in the program covered by 
+section 2445c(d) of this title
+.
+
+
+
+
+(3)
+ In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
+
+
+
+
+(d)
+ 
+Elements Regarding Other Major Information Technology Investment Programs
+.—
+With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
+
+
+ Reports: quarterly reports; reports on program changes
+(a)
+ 
+Quarterly Reports by Program Managers
+.—
+The program manager of a major automated information system program or other major information technology investment program shall, on a quarterly basis, submit to the senior Department of Defense official responsible for the program a written report identifying any variance in the projected development schedule, implementation schedule, life-cycle costs, or key performance parameters for the major automated information system or information technology investment to be acquired under the program from such information as originally submitted to Congress under 
+section 2445b of this title
+.
+
+
+(b)
+ 
+Senior Officials Responsible for Programs
+.—
+For purposes of this section, the senior Department of Defense official responsible for a major automated information system program or other major information technology investment program is—
+(1)
+ in the case of an automated information system or information technology investment to be acquired for a military department, the senior acquisition executive for the military department; or
+
+
+
+
+(2)
+ in the case of any other automated information system or information technology investment to be acquired for the Department of Defense or any component of the Department of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+
+
+(c)
+ Report on Significant Changes in Program.—
+(1)
+ 
+In general
+.—
+If, based on a quarterly report submitted by the program manager of a major automated information system program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (2), the official shall, not later than 45 days after receiving such report, notify the congressional defense committees in writing of such determination.
+
+
+
+
+(2)
+ 
+Covered determination
+.—
+A determination described in this paragraph with respect to a major automated information system program is a determination that—
+(A)
+ there has been a schedule change that will cause a delay of more than six months but less than a year in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of 
+section 2445b(b) of this title
+;
+
+
+
+
+(B)
+ the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of 
+section 2445b(b) of this title
+; or
+
+
+
+
+(C)
+ there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of 
+section 2445b(b) of this title
+.
+
+
+
+
+
+
+(d)
+ Report on Critical Changes in Program.—
+(1)
+ 
+In general
+.—
+If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (3), the official shall, not later than 60 days after receiving such report—
+(A)
+ carry out an evaluation of the program under subsection (e); and
+
+
+
+
+(B)
+ submit, through the Secretary of Defense, to the congressional defense committees a report meeting the requirements of subsection (f).
+
+
+
+
+
+
+(2)
+ 
+Certification when variance due to extension of program
+.—
+If an official with milestone decision authority for a program who, following receipt of a quarterly report described in paragraph (1) and making a determination described in paragraph (3), also determines that the circumstances resulting in the determination described in paragraph (3)(A) is primarily due to an extension of a program, and (B) involves minimal developmental risk, the official may, in lieu of carrying out an evaluation and submitting a report in accordance with paragraph (1), submit to the congressional defense committees, within 45 days after receiving the quarterly report, a certification that the official has made those determinations. If such a certification is submitted, the limitation in subsection (g)(1) does not apply with respect to that determination under paragraph (3).
+
+
+
+
+(3)
+ 
+Covered determination
+.—
+A determination described in this paragraph with respect to a major automated information system program or other major information technology investment program is a determination that—
+(A)
+ the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);
+
+
+
+
+(B)
+ there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of 
+section 2445b(b) of this title
+ or 
+section 2445b(d) of this title
+, as applicable;
+
+
+
+
+(C)
+ the estimated total acquisition cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of 
+section 2445b(b) of this title
+ or 
+section 2445b(d) of this title
+, as applicable; or
+
+
+
+
+(D)
+ there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under 
+section 2445b(b) of this title
+ or 
+section 2445b(d) of this title
+, as applicable.
+
+
+
+
+
+
+(e)
+ 
+Program Evaluation
+.—
+The evaluation of a major automated information system program or other major information technology investment program conducted under this subsection for purposes of subsection (d)(1)(A) shall include an assessment of—
+(1)
+ the projected cost and schedule for completing the program if current requirements are not modified;
+
+
+
+
+(2)
+ the projected cost and schedule for completing the program based on reasonable modification of such requirements; and
+
+
+
+
+(3)
+ the rough order of magnitude of the cost and schedule for any reasonable alternative system or capability.
+
+
+
+
+(f)
+ 
+Report on Critical Program Changes
+.—
+A report on a major automated information system program or other major information technology investment program conducted under this subsection for purposes of subsection (d)(1)(B) shall include a written certification (with supporting explanation) stating that—
+(1)
+ the automated information system or information technology investment to be acquired under the program is essential to the national security or to the efficient management of the Department of Defense;
+
+
+
+
+(2)
+ there is no alternative to the system or information technology investment which will provide equal or greater capability at less cost;
+
+
+
+
+(3)
+ the new estimates of the costs, schedule, and performance parameters with respect to the program and system or information technology investment, as applicable, have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable; and
+
+
+
+
+(4)
+ the management structure for the program is adequate to manage and control program costs.
+
+
+
+
+(g)
+ 
+Prohibition on Obligation of Funds
+.—
+(1)
+ If the determination of a critical change to a program is made by the senior Department official responsible for the program under subsection (d)(3) and a report is not submitted to Congress within the 60-day period provided by subsection (d)(1), appropriated funds may not be obligated for any major contract under the program.
+
+
+
+
+(2)
+ The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report under subsection (d)(1)(B).
+
+
+
+
+ Construction with other reporting requirements
+In the case of a major automated information system program covered by this chapter that is also treatable as a major defense acquisition program for which reports would be required under chapter 144 of this title, the Secretary may designate the program to be treated only as a major automated information system program covered by this chapter or to be treated only as a major defense acquisition program covered by such chapter 144.

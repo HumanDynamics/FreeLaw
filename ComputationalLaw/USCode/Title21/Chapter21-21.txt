@@ -1,0 +1,622 @@
+
+Chapter 21
+BIOMATERIALS ACCESS ASSURANCE
+ Findings
+ Definitions
+ General requirements; applicability; preemption
+(a)
+ General requirements
+(1)
+ In general
+In any civil action covered by this chapter, a biomaterials supplier may—
+(A)
+ raise any exclusion from liability set forth in 
+section 1604 of this title
+; and
+
+
+
+
+(B)
+ make a motion for dismissal or for summary judgment as set forth in 
+section 1605 of this title
+.
+
+
+
+
+
+
+(2)
+ Procedures
+Notwithstanding any other provision of law, a Federal or State court in which an action covered by this chapter is pending shall, in connection with a motion under section 1605 or 1606 of this title, use the procedures set forth in this chapter.
+
+
+
+
+
+
+(b)
+ Applicability
+(1)
+ In general
+Except as provided in paragraph (2), this chapter applies to any civil action brought by a claimant, whether in a Federal or State court, on the basis of any legal theory, for harm allegedly caused, directly or indirectly, by an implant.
+
+
+
+
+
+
+(2)
+ Exclusion
+A civil action brought by a purchaser of a medical device, purchased for use in providing professional health care services, for loss or damage to an implant or for commercial loss to the purchaser—
+(A)
+ shall not be considered an action that is subject to this chapter; and
+
+
+
+
+(B)
+ shall be governed by applicable commercial or contract law.
+
+
+
+
+
+
+(c)
+ Scope of preemption
+(1)
+ In general
+This chapter supersedes any State law regarding recovery for harm caused by an implant and any rule of procedure applicable to a civil action to recover damages for such harm only to the extent that this chapter establishes a rule of law applicable to the recovery of such damages.
+
+
+
+
+
+
+(2)
+ Applicability of other laws
+Any issue that arises under this chapter and that is not governed by a rule of law applicable to the recovery of damages described in paragraph (1) shall be governed by applicable Federal or State law.
+
+
+
+
+
+
+(d)
+ Statutory construction
+Nothing in this chapter may be construed—
+(1)
+ to affect any defense available to a defendant under any other provisions of Federal or State law in an action alleging harm caused by an implant; or
+
+
+
+
+(2)
+ to create a cause of action or Federal court jurisdiction pursuant to section 1331 or 1337 of title 28 that otherwise would not exist under applicable Federal or State law.
+
+
+
+
+ Liability of biomaterials suppliers
+(a)
+ In general
+Except as provided in 
+section 1606 of this title
+, a biomaterials supplier shall not be liable for harm to a claimant caused by an implant unless such supplier is liable—
+(1)
+ as a manufacturer of the implant, as provided in subsection (b) of this section;
+
+
+
+
+(2)
+ as a seller of the implant, as provided in subsection (c) of this section; or
+
+
+
+
+(3)
+ for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in subsection (d) of this section.
+
+
+
+
+(b)
+ Liability as manufacturer
+(1)
+ In general
+A biomaterials supplier may, to the extent required and permitted by any other applicable law, be liable for harm to a claimant caused by an implant if the biomaterials supplier is the manufacturer of the implant.
+
+
+
+
+
+
+(2)
+ Grounds for liability
+The biomaterials supplier may be considered the manufacturer of the implant that allegedly caused harm to a claimant only if the biomaterials supplier—
+(A)
+(i)
+ registered or was required to register with the Secretary pursuant to 
+section 360 of this title
+ and the regulations issued under such section; and
+
+
+
+
+(ii)
+ included or was required to include the implant on a list of devices filed with the Secretary pursuant to 
+section 360(j) of this title
+ and the regulations issued under such section;
+
+
+
+
+
+
+(B)
+ is the subject of a declaration issued by the Secretary pursuant to paragraph (3) that states that the supplier, with respect to the implant that allegedly caused harm to the claimant, was required to—
+(i)
+ register with the Secretary under 
+section 360 of this title
+, and the regulations issued under such section, but failed to do so; or
+
+
+
+
+(ii)
+ include the implant on a list of devices filed with the Secretary pursuant to 
+section 360(j) of this title
+ and the regulations issued under such section, but failed to do so; or
+
+
+
+
+
+
+(C)
+ is related by common ownership or control to a person meeting all the requirements described in subparagraph (A) or (B), if the court deciding a motion to dismiss in accordance with 
+section 1605(c)(3)(B)(i) of this title
+ finds, on the basis of affidavits submitted in accordance with 
+section 1605 of this title
+, that it is necessary to impose liability on the biomaterials supplier as a manufacturer because the related manufacturer meeting the requirements of subparagraph (A) or (B) lacks sufficient financial resources to satisfy any judgment that the court feels it is likely to enter should the claimant prevail.
+
+
+
+
+
+
+(3)
+ Administrative procedures
+(A)
+ In general
+The Secretary may issue a declaration described in paragraph (2)(B) on the motion of the Secretary or on petition by any person, after providing—
+(i)
+ notice to the affected persons; and
+
+
+
+
+(ii)
+ an opportunity for an informal hearing.
+
+
+
+
+
+
+(B)
+ Docketing and final decision
+Immediately upon receipt of a petition filed pursuant to this paragraph, the Secretary shall docket the petition. Not later than 120 days after the petition is filed, the Secretary shall issue a final decision on the petition.
+
+
+
+
+
+
+(C)
+ Applicability of statute of limitations
+Any applicable statute of limitations shall toll during the period from the time a claimant files a petition with the Secretary under this paragraph until such time as either (i) the Secretary issues a final decision on the petition, or (ii) the petition is withdrawn.
+
+
+
+
+
+
+(D)
+ Stay pending petition for declaration
+If a claimant has filed a petition for a declaration with respect to a defendant, and the Secretary has not issued a final decision on the petition, the court shall stay all proceedings with respect to that defendant until such time as the Secretary has issued a final decision on the petition.
+
+
+
+
+
+
+
+
+(c)
+ Liability as seller
+A biomaterials supplier may, to the extent required and permitted by any other applicable law, be liable as a seller for harm to a claimant caused by an implant only if—
+(1)
+ the biomaterials supplier—
+(A)
+ held title to the implant and then acted as a seller of the implant after its initial sale by the manufacturer; or
+
+
+
+
+(B)
+ acted under contract as a seller to arrange for the transfer of the implant directly to the claimant after the initial sale by the manufacturer of the implant; or
+
+
+
+
+
+
+(2)
+ the biomaterials supplier is related by common ownership or control to a person meeting all the requirements described in paragraph (1), if a court deciding a motion to dismiss in accordance with 
+section 1605(c)(3)(B)(ii) of this title
+ finds, on the basis of affidavits submitted in accordance with 
+section 1605 of this title
+, that it is necessary to impose liability on the biomaterials supplier as a seller because the related seller meeting the requirements of paragraph (1) lacks sufficient financial resources to satisfy any judgment that the court feels it is likely to enter should the claimant prevail.
+
+
+
+
+(d)
+ Liability for failure to meet applicable contractual requirements or specifications
+A biomaterials supplier may, to the extent required and permitted by any other applicable law, be liable for harm to a claimant caused by an implant if the claimant in an action shows, by a preponderance of the evidence, that—
+(1)
+ the biomaterials supplier supplied raw materials or component parts for use in the implant that either—
+(A)
+ did not constitute the product described in the contract between the biomaterials supplier and the person who contracted for the supplying of the product; or
+
+
+
+
+(B)
+ failed to meet any specifications that were—
+(i)
+ accepted, pursuant to applicable law, by the biomaterials supplier;
+
+
+
+
+(ii)
+ published by the biomaterials supplier;
+
+
+
+
+(iii)
+ provided by the biomaterials supplier to the person who contracted for such product;
+
+
+
+
+(iv)
+ contained in a master file that was submitted by the biomaterials supplier to the Secretary and that is currently maintained by the biomaterials supplier for purposes of premarket approval of medical devices; or
+
+
+
+
+(v)
+ included in the submissions for purposes of premarket approval or review by the Secretary under section 360, 360c, 360e, or 360j of this title, and received clearance from the Secretary if such specifications were accepted, pursuant to applicable law, by the biomaterials supplier; and
+
+
+
+
+
+
+
+
+(2)
+ such failure to meet applicable contractual requirements or specifications was an actual and proximate cause of the harm to the claimant.
+
+
+
+
+ Procedures for dismissal of civil actions against biomaterials suppliers
+(a)
+ Motion to dismiss
+A defendant may, at any time during which a motion to dismiss may be filed under applicable law, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:
+(1)
+ The defendant is not liable as a manufacturer, as provided in 
+section 1604(b) of this title
+.
+
+
+
+
+(2)
+ The defendant is not liable as a seller, as provided in 
+section 1604(c) of this title
+.
+
+
+
+
+(3)
+ The defendant is not liable for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in 
+section 1604(d) of this title
+.
+
+
+
+
+(4)
+ The claimant did not name the manufacturer as a party to the action, as provided in subsection (b) of this section.
+
+
+
+
+(b)
+ Manufacturer of implant shall be named a party
+In any civil action covered by this chapter, the claimant shall be required to name the manufacturer of the implant as a party to the action, unless—
+(1)
+ the manufacturer is subject to service of process solely in a jurisdiction in which the biomaterials supplier is not domiciled or subject to a service of process; or
+
+
+
+
+(2)
+ a claim against the manufacturer is barred by applicable law or rule of practice.
+
+
+
+
+(c)
+ Proceeding on motion to dismiss
+The following rules shall apply to any proceeding on a motion to dismiss filed by a defendant under this section:
+(1)
+ Effect of motion to dismiss on discovery
+(A)
+ In general
+Except as provided in subparagraph (B), if a defendant files a motion to dismiss under subsection (a) of this section, no discovery shall be permitted in connection with the action that is the subject of the motion, other than discovery necessary to determine a motion to dismiss for lack of jurisdiction, until such time as the court rules on the motion to dismiss.
+
+
+
+
+
+
+(B)
+ Discovery
+If a defendant files a motion to dismiss under subsection (a)(3) of this section on the grounds that it did not furnish raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, the court may permit discovery limited to issues that are directly relevant to—
+(i)
+ the pending motion to dismiss; or
+
+
+
+
+(ii)
+ the jurisdiction of the court.
+
+
+
+
+
+
+
+
+(2)
+ Affidavits
+(A)
+ Defendant
+A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a) of this section. If the motion is made under subsection (a)(1) of this section, the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to 
+section 360(j) of this title
+.
+
+
+
+
+
+
+(B)
+ Claimant
+In response to a motion to dismiss, the claimant may submit affidavits demonstrating that—
+(i)
+ the Secretary has, with respect to the defendant and the implant that allegedly caused harm to the claimant, issued a declaration pursuant to 
+section 1604(b)(2)(B) of this title
+; or
+
+
+
+
+(ii)
+ the defendant is a seller of the implant who is liable under 
+section 1604(c) of this title
+.
+
+
+
+
+
+
+
+
+(3)
+ Basis of ruling on motion to dismiss
+The court shall rule on a motion to dismiss filed under subsection (a) of this section solely on the basis of the pleadings and affidavits of the parties made pursuant to this subsection. The court shall grant a motion to dismiss filed under subsection (a) of this section—
+(A)
+ unless the claimant submits a valid affidavit that demonstrates that the defendant is not a biomaterials supplier;
+
+
+
+
+(B)
+ unless the court determines, to the extent raised in the pleadings and affidavits, that one or more of the following apply:
+(i)
+ the defendant may be liable as a manufacturer, as provided in 
+section 1604(b) of this title
+;
+
+
+
+
+(ii)
+ the defendant may be liable as a seller, as provided in 
+section 1604(c) of this title
+; or
+
+
+
+
+(iii)
+ the defendant may be liable for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in 
+section 1604(d) of this title
+; or
+
+
+
+
+
+
+(C)
+ if the claimant did not name the manufacturer as a party to the action, as provided in subsection (b) of this section.
+
+
+
+
+
+
+(4)
+ Treatment of motion as motion for summary judgment
+The court may treat a motion to dismiss as a motion for summary judgment subject to subsection (d) of this section in order to determine whether the pleadings and affidavits, in connection with such action, raise genuine issues of material fact concerning whether the defendant furnished raw materials or component parts of the implant that failed to meet applicable contractual requirements or specifications as provided in 
+section 1604(d) of this title
+.
+
+
+
+
+
+
+(d)
+ Summary judgment
+(1)
+ In general
+(A)
+ Basis for entry of judgment
+If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) of this section or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of 
+section 1604(d) of this title
+.
+
+
+
+
+
+
+(B)
+ Issues of material fact
+With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist only if the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.
+
+
+
+
+
+
+
+
+(2)
+ Discovery made prior to a ruling on a motion for summary judgment
+If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by 
+section 1604(d) of this title
+, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of 
+section 1604(d) of this title
+.
+
+
+
+
+
+
+(3)
+ Discovery with respect to a biomaterials supplier
+A biomaterials supplier shall be subject to discovery in connection with a motion seeking dismissal or summary judgment on the basis of the inapplicability of 
+section 1604(d) of this title
+ or the failure to establish the applicable elements of 
+section 1604(d) of this title
+ solely to the extent permitted by the applicable Federal or State rules for discovery against nonparties.
+
+
+
+
+
+
+(e)
+ Dismissal with prejudice
+An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar as the moving defendant may be rejoined to the action as provided in 
+section 1606 of this title
+.
+
+
+
+
+(f)
+ Manufacturer conduct of litigation
+The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
+
+
+
+
+ Subsequent impleader of dismissed biomaterials supplier
+(a)
+ Impleading of dismissed defendant
+A court, upon motion by a manufacturer or a claimant within 90 days after entry of a final judgment in an action by the claimant against a manufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—
+(1)
+ the manufacturer has made an assertion, either in a motion or other pleading filed with the court or in an opening or closing statement at trial, or as part of a claim for contribution or indemnification, and the court finds based on the court’s independent review of the evidence contained in the record of the action, that under applicable law—
+(A)
+ the negligence or intentionally tortious conduct of the dismissed supplier was an actual and proximate cause of the harm to the claimant; and
+
+
+
+
+(B)
+ the manufacturer’s liability for damages should be reduced in whole or in part because of such negligence or intentionally tortious conduct; or
+
+
+
+
+
+
+(2)
+ the claimant has moved to implead the supplier and the court finds, based on the court’s independent review of the evidence contained in the record of the action, that under applicable law—
+(A)
+ the negligence or intentionally tortious conduct of the dismissed supplier was an actual and proximate cause of the harm to the claimant; and
+
+
+
+
+(B)
+ the claimant is unlikely to be able to recover the full amount of its damages from the remaining defendants.
+
+
+
+
+
+
+(b)
+ Standard of liability
+Notwithstanding any preliminary finding under subsection (a) of this section, a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
+(1)
+ may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a) of this section; and
+
+
+
+
+(2)
+ may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.
+
+
+
+
+(c)
+ Discovery
+Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under 
+section 1605 of this title
+.
+
+
+
+

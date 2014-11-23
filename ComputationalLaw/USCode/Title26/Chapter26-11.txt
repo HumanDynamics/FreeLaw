@@ -1,0 +1,897 @@
+
+Chapter 11
+ESTATE TAX
+ Tax imposed
+(a)
+ Imposition
+Except as provided in section 2107, a tax is hereby imposed on the transfer of the taxable estate (determined as provided in section 2106) of every decedent nonresident not a citizen of the United States.
+
+
+
+
+(b)
+ Computation of tax
+The tax imposed by this section shall be the amount equal to the excess (if any) of—
+(1)
+ a tentative tax computed under section 2001(c) on the sum of—
+(A)
+ the amount of the taxable estate, and
+
+
+
+
+(B)
+ the amount of the adjusted taxable gifts, over
+
+
+
+
+
+
+(2)
+ a tentative tax computed under section 2001(c) on the amount of the adjusted taxable gifts.
+
+
+
+
+(c)
+ Adjustments for taxable gifts
+(1)
+ Adjusted taxable gifts defined
+For purposes of this section, the term “adjusted taxable gifts” means the total amount of the taxable gifts (within the meaning of section 2503 as modified by section 2511) made by the decedent after 
+December 31, 1976
+, other than gifts which are includible in the gross estate of the decedent.
+
+
+
+
+
+
+(2)
+ Adjustment for certain gift tax
+For purposes of this section, the rules of section 2001(d) shall apply.
+
+
+
+
+
+
+ Credits against tax
+(a)
+ In general
+The tax imposed by section 2101 shall be credited with the amounts determined in accordance with sections 2012 and 2013 (relating to gift tax and tax on prior transfers).
+
+
+
+
+(b)
+ Unified credit
+(1)
+ In general
+A credit of $13,000 shall be allowed against the tax imposed by section 2101.
+
+
+
+
+
+
+(2)
+ Residents of possessions of the United States
+In the case of a decedent who is considered to be a “nonresident not a citizen of the United States” under section 2209, the credit under this subsection shall be the greater of—
+(A)
+ $13,000, or
+
+
+
+
+(B)
+ that proportion of $46,800 which the value of that part of the decedent’s gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated.
+
+
+
+
+
+
+(3)
+ Special rules
+(A)
+ Coordination with treaties
+To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to the applicable credit amount in effect under section 2010(c) for the calendar year which includes the date of death as the value of the part of the decedent’s gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated. For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.
+
+
+
+
+
+
+(B)
+ Coordination with gift tax unified credit
+If a credit has been allowed under section 2505 with respect to any gift made by the decedent, each dollar amount contained in paragraph (1) or (2) or subparagraph (A) of this paragraph (whichever applies) shall be reduced by the amount so allowed.
+
+
+
+
+
+
+
+
+(4)
+ Limitation based on amount of tax
+The credit allowed under this subsection shall not exceed the amount of the tax imposed by section 2101.
+
+
+
+
+
+
+(5)
+ Application of other credits
+For purposes of subsection (a), sections 2012 and 2013 shall be applied as if the credit allowed under this subsection were allowed under section 2010.
+
+
+
+
+
+
+ Definition of gross estate
+For the purpose of the tax imposed by section 2101, the value of the gross estate of every decedent nonresident not a citizen of the United States shall be that part of his gross estate (determined as provided in section 2031) which at the time of his death is situated in the United States.
+ Property within the United States
+(a)
+ Stock in corporation
+For purposes of this subchapter shares of stock owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States only if issued by a domestic corporation.
+
+
+
+
+(b)
+ Revocable transfers and transfers within 3 years of death
+For purposes of this subchapter, any property of which the decedent has made a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, shall be deemed to be situated in the United States, if so situated either at the time of the transfer or at the time of the decedent’s death.
+
+
+
+
+(c)
+ Debt obligations
+For purposes of this subchapter, debt obligations of—
+(1)
+ a United States person, or
+
+
+
+
+(2)
+ the United States, a State or any political subdivision thereof, or the District of Columbia,
+
+
+
+
+
+owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after 
+December 31, 1969
+, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
+
+
+ Property without the United States
+(a)
+ Proceeds of life insurance
+For purposes of this subchapter, the amount receivable as insurance on the life of a nonresident not a citizen of the United States shall not be deemed property within the United States.
+
+
+
+
+(b)
+ Bank deposits and certain other debt obligations
+For purposes of this subchapter, the following shall not be deemed property within the United States—
+(1)
+ amounts described in section 871(i)(3), if any interest thereon would not be subject to tax by reason of section 871(i)(1) were such interest received by the decedent at the time of his death,
+
+
+
+
+(2)
+ deposits with a foreign branch of a domestic corporation or domestic partnership, if such branch is engaged in the commercial banking business,
+
+
+
+
+(3)
+ debt obligations, if, without regard to whether a statement meeting the requirements of section 871(h)(5) has been received, any interest thereon would be eligible for the exemption from tax under section 871(h)(1) were such interest received by the decedent at the time of his death, and
+
+
+
+
+(4)
+ obligations which would be original issue discount obligations as defined in section 871(g)(1) but for subparagraph (B)(i) thereof, if any interest thereon (were such interest received by the decedent at the time of his death) would not be effectively connected with the conduct of a trade or business within the United States.
+
+
+
+
+
+Notwithstanding the preceding sentence, if any portion of the interest on an obligation referred to in paragraph (3) would not be eligible for the exemption referred to in paragraph (3) by reason of section 871(h)(4) if the interest were received by the decedent at the time of his death, then an appropriate portion (as determined in a manner prescribed by the Secretary) of the value (as determined for purposes of this chapter) of such debt obligation shall be deemed property within the United States.
+
+
+(c)
+ Works of art on loan for exhibition
+For purposes of this subchapter, works of art owned by a nonresident not a citizen of the United States shall not be deemed property within the United States if such works of art are—
+(1)
+ imported into the United States solely for exhibition purposes,
+
+
+
+
+(2)
+ loaned for such purposes, to a public gallery or museum, no part of the net earnings of which inures to the benefit of any private stockholder or individual, and
+
+
+
+
+(3)
+ at the time of the death of the owner, on exhibition, or en route to or from exhibition, in such a public gallery or museum.
+
+
+
+
+(d)
+ Stock in a RIC
+(1)
+ In general
+For purposes of this subchapter, stock in a regulated investment company (as defined in section 851) owned by a nonresident not a citizen of the United States shall not be deemed property within the United States in the proportion that, at the end of the quarter of such investment company’s taxable year immediately preceding a decedent’s date of death (or at such other time as the Secretary may designate in regulations), the assets of the investment company that were qualifying assets with respect to the decedent bore to the total assets of the investment company.
+
+
+
+
+
+
+(2)
+ Qualifying assets
+For purposes of this subsection, qualifying assets with respect to a decedent are assets that, if owned directly by the decedent, would have been—
+(A)
+ amounts, deposits, or debt obligations described in subsection (b) of this section,
+
+
+
+
+(B)
+ debt obligations described in the last sentence of section 2104(c), or
+
+
+
+
+(C)
+ other property not within the United States.
+
+
+
+
+
+
+(3)
+ Termination
+This subsection shall not apply to estates of decedents dying after 
+December 31, 2011
+.
+
+
+
+
+
+
+ Taxable estate
+(a)
+ Definition of taxable estate
+For purposes of the tax imposed by section 2101, the value of the taxable estate of every decedent nonresident not a citizen of the United States shall be determined by deducting from the value of that part of his gross estate which at the time of his death is situated in the United States—
+(1)
+ Expenses, losses, indebtedness, and taxes
+That proportion of the deductions specified in sections 2053 and 2054 (other than the deductions described in the following sentence) which the value of such part bears to the value of his entire gross estate, wherever situated. Any deduction allowable under section 2053 in the case of a claim against the estate which was founded on a promise or agreement but was not contracted for an adequate and full consideration in money or money’s worth shall be allowable under this paragraph to the extent that it would be allowable as a deduction under paragraph (2) if such promise or agreement constituted a bequest.
+
+
+
+
+
+
+(2)
+ Transfers for public, charitable, and religious uses
+(A)
+ In general
+The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
+(i)
+ to or for the use of the United States, any State, any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
+
+
+
+
+(ii)
+ to or for the use of any domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private stockholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office; or
+
+
+
+
+(iii)
+ to a trustee or trustees, or a fraternal society, order, or association operating under the lodge system, but only if such contributions or gifts are to be used within the United States by such trustee or trustees, or by such fraternal society, order, or association, exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and such trustee or trustees, or such fraternal society, order, or association, does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+
+
+
+
+
+
+(B)
+ Powers of appointment
+Property includible in the decedent’s gross estate under section 2041 (relating to powers of appointment) received by a donee described in this paragraph shall, for purposes of this paragraph, be considered a bequest of such decedent.
+
+
+
+
+
+
+(C)
+ Death taxes payable out of bequests
+If the tax imposed by section 2101, or any estate, succession, legacy, or inheritance taxes, are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this paragraph, then the amount deductible under this paragraph shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
+
+
+
+
+
+
+(D)
+ Limitation on deduction
+The amount of the deduction under this paragraph for any transfer shall not exceed the value of the transferred property required to be included in the gross estate.
+
+
+
+
+
+
+(E)
+ Disallowance of deductions in certain cases
+The provisions of section 2055(e) shall be applied in the determination of the amount allowable as a deduction under this paragraph.
+
+
+
+
+
+
+(F)
+ Cross references
+(i)
+ For option as to time for valuation for purposes of deduction under this section, see section 2032.
+
+
+
+
+(ii)
+ For exemption of certain bequests for the benefit of the United States and for rules of construction for certain bequests, see section 2055(g).
+
+
+
+
+(iii)
+ For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.
+
+
+
+
+
+
+
+
+(3)
+ Marital deduction
+The amount which would be deductible with respect to property situated in the United States at the time of the decedent’s death under the principles of section 2056.
+
+
+
+
+
+
+(4)
+ State death taxes
+The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2011(a).
+
+
+
+
+
+
+(b)
+ Condition of allowance of deductions
+No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
+
+
+
+
+ Expatriation to avoid tax
+(a)
+ Treatment of expatriates
+A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b).
+
+
+
+
+(b)
+ Gross estate
+For purposes of the tax imposed by subsection (a), the value of the gross estate of every decedent to whom subsection (a) applies shall be determined as provided in section 2103, except that—
+(1)
+ if such decedent owned (within the meaning of section 958(a)) at the time of his death 10 percent or more of the total combined voting power of all classes of stock entitled to vote of a foreign corporation, and
+
+
+
+
+(2)
+ if such decedent owned (within the meaning of section 958(a)), or is considered to have owned (by applying the ownership rules of section 958(b)), at the time of his death, more than 50 percent of—
+(A)
+ the total combined voting power of all classes of stock entitled to vote of such corporation, or
+
+
+
+
+(B)
+ the total value of the stock of such corporation,
+
+
+
+
+
+
+
+then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
+
+
+(c)
+ Credits
+(1)
+ Unified credit
+(A)
+ In general
+A credit of $13,000 shall be allowed against the tax imposed by subsection (a).
+
+
+
+
+
+
+(B)
+ Limitation based on amount of tax
+The credit allowed under this paragraph shall not exceed the amount of the tax imposed by subsection (a).
+
+
+
+
+
+
+
+
+(2)
+ Credit for foreign death taxes
+(A)
+ In general
+The tax imposed by subsection (a) shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property which is included in the gross estate solely by reason of subsection (b).
+
+
+
+
+
+
+(B)
+ Limitation on credit
+The credit allowed by subparagraph (A) for such taxes paid to a foreign country shall not exceed the lesser of—
+(i)
+ the amount which bears the same ratio to the amount of such taxes actually paid to such foreign country as the value of the property subjected to such taxes by such foreign country and included in the gross estate solely by reason of subsection (b) bears to the value of all property subjected to such taxes by such foreign country, or
+
+
+
+
+(ii)
+ such property’s proportionate share of the excess of—
+(I)
+ the tax imposed by subsection (a), over
+
+
+
+
+(II)
+ the tax which would be imposed by section 2101 but for this section.
+
+
+
+
+
+
+
+
+(C)
+ Proportionate share
+In the case of property which is included in the gross estate solely by reason of subsection (b), such property’s proportionate share is the percentage which the value of such property bears to the total value of all property included in the gross estate solely by reason of subsection (b).
+
+
+
+
+
+
+
+
+(3)
+ Other credits
+The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with subsections (a) and (b) of section 2102. For purposes of subsection (a) of section 2102, sections 2012 and 2013 shall be applied as if the credit allowed under paragraph (1) were allowed under section 2010.
+
+
+
+
+
+
+(d)
+ Burden of proof
+If the Secretary establishes that it is reasonable to believe that an individual’s loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxes in respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual’s estate.
+
+
+
+
+(e)
+ Cross reference
+For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).
+
+
+
+
+ Application of pre-1967 estate tax provisions
+(a)
+ Imposition of more burdensome tax by foreign country
+Whenever the President finds that—
+(1)
+ under the laws of any foreign country, considering the tax system of such foreign country, a more burdensome tax is imposed by such foreign country on the transfer of estates of decedents who were citizens of the United States and not residents of such foreign country than the tax imposed by this subchapter on the transfer of estates of decedents who were residents of such foreign country,
+
+
+
+
+(2)
+ such foreign country, when requested by the United States to do so, has not acted to revise or reduce such tax so that it is no more burdensome than the tax imposed by this subchapter on the transfer of estates of decedents who were residents of such foreign country, and
+
+
+
+
+(3)
+ it is in the public interest to apply pre-1967 tax provisions in accordance with this section to the transfer of estates of decedents who were residents of such foreign country,
+
+
+
+
+
+the President shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to amendments made to sections 2101 (relating to tax imposed), 2102 (relating to credits against tax), 2106 (relating to taxable estate), and 6018 (relating to estate tax returns) on or after 
+November 13, 1966
+.
+
+
+(b)
+ Alleviation of more burdensome tax
+Whenever the President finds that the laws of any foreign country with respect to which the President has made a proclamation under subsection (a) have been modified so that the tax on the transfer of estates of decedents who were citizens of the United States and not residents of such foreign country is no longer more burdensome than the tax imposed by this subchapter on the transfer of estates of decedents who were residents of such foreign country, he shall proclaim that the tax on the transfer of the estate of every decedent who was a resident of such foreign country at the time of his death shall, in the case of decedents dying after the date of such proclamation, be determined under this subchapter without regard to subsection (a).
+
+
+
+
+(c)
+ Notification of Congress required
+No proclamation shall be issued by the President pursuant to this section unless, at least 30 days prior to such proclamation, he has notified the Senate and the House of Representatives of his intention to issue such proclamation.
+
+
+
+
+(d)
+ Implementation by regulations
+The Secretary shall prescribe such regulations as may be necessary or appropriate to implement this section.
+
+
+
+
+ Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks
+(a)
+ In general
+Unless the executor elects not to have this section apply, in applying sections 2001 and 2101 to the estate of a qualified decedent, the rate schedule set forth in subsection (c) shall be deemed to be the rate schedule set forth in section 2001(c).
+
+
+
+
+(b)
+ Qualified decedent
+For purposes of this section, the term “qualified decedent” means—
+(1)
+ any citizen or resident of the United States dying while in active service of the Armed Forces of the United States, if such decedent—
+(A)
+ was killed in action while serving in a combat zone, as determined under section 112(c), or
+
+
+
+
+(B)
+ died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of a hazard to which such decedent was subjected as an incident of such service,
+
+
+
+
+
+
+(2)
+ any specified terrorist victim (as defined in section 692(d)(4)), and
+
+
+
+
+(3)
+ any astronaut whose death occurs in the line of duty.
+
+
+
+
+(c)
+ Rate schedule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If the amount with respect to which the tentative tax to be computed is:
+The tentative tax is:
+
+
+
+
+
+
+Not over $150,000
+1 percent of the amount by which such amount exceeds $100,000.
+
+
+Over $150,000 but not over $200,000
+$500 plus 2 percent of the excess over $150,000.
+
+
+Over $200,000 but not over $300,000
+$1,500 plus 3 percent of the excess over $200,000.
+
+
+Over $300,000 but not over $500,000
+$4,500 plus 4 percent of the excess over $300,000.
+
+
+Over $500,000 but not over $700,000
+$12,500 plus 5 percent of the excess over $500,000.
+
+
+Over $700,000 but not over $900,000
+$22,500 plus 6 percent of the excess over $700,000.
+
+
+Over $900,000 but not over $1,100,000
+$34,500 plus 7 percent of the excess over $900,000.
+
+
+Over $1,100,000 but not over $1,600,000
+$48,500 plus 8 percent of the excess over $1,100,000.
+
+
+Over $1,600,000 but not over $2,100,000
+$88,500 plus 9 percent of the excess over $1,600,000.
+
+
+Over $2,100,000 but not over $2,600,000
+$133,500 plus 10 percent of the excess over $2,100,000.
+
+
+Over $2,600,000 but not over $3,100,000
+$183,500 plus 11 percent of the excess over $2,600,000.
+
+
+Over $3,100,000 but not over $3,600,000
+$238,500 plus 12 percent of the excess over $3,100,000.
+
+
+Over $3,600,000 but not over $4,100,000
+$298,500 plus 13 percent of the excess over $3,600,000.
+
+
+Over $4,100,000 but not over $5,100,000
+$363,500 plus 14 percent of the excess over $4,100,000.
+
+
+Over $5,100,000 but not over $6,100,000
+$503,500 plus 15 percent of the excess over $5,100,000.
+
+
+Over $6,100,000 but not over $7,100,000
+$653,500 plus 16 percent of the excess over $6,100,000.
+
+
+Over $7,100,000 but not over $8,100,000
+$813,500 plus 17 percent of the excess over $7,100,000.
+
+
+Over $8,100,000 but not over $9,100,000
+$983,500 plus 18 percent of the excess over $8,100,000.
+
+
+Over $9,100,000 but not over $10,100,000
+$1,163,500 plus 19 percent of the excess over $9,100,000.
+
+
+Over $10,100,000
+$1,353,500 plus 20 percent of the excess over $10,100,000.
+
+
+
+
+
+
+
+
+(d)
+ Determination of unified credit
+In the case of an estate to which this section applies, subsection (a) shall not apply in determining the credit under section 2010.
+
+
+
+
+ Repealed. 
+ Definition of executor
+The term “executor” wherever it is used in this title in connection with the estate tax imposed by this chapter means the executor or administrator of the decedent, or, if there is no executor or administrator appointed, qualified, and acting within the United States, then any person in actual or constructive possession of any property of the decedent.
+ Discharge of fiduciary from personal liability
+(a)
+ General rule
+If the executor makes written application to the Secretary for determination of the amount of the tax and discharge from personal liability therefor, the Secretary (as soon as possible, and in any event within 9 months after the making of such application, or, if the application is made before the return is filed, then within 9 months after the return is filed, but not after the expiration of the period prescribed for the assessment of the tax in section 6501) shall notify the executor of the amount of the tax. The executor, on payment of the amount of which he is notified (other than any amount the time for payment of which is extended under sections 6161, 6163, or 6166), and on furnishing any bond which may be required for any amount for which the time for payment is extended, shall be discharged from personal liability for any deficiency in tax thereafter found to be due and shall be entitled to a receipt or writing showing such discharge.
+
+
+
+
+(b)
+ Fiduciary other than the executor
+If a fiduciary (not including a fiduciary in respect of the estate of a nonresident decedent) other than the executor makes written application to the Secretary for determination of the amount of any estate tax for which the fiduciary may be personally liable, and for discharge from personal liability therefor, the Secretary upon the discharge of the executor from personal liability under subsection (a), or upon the expiration of 6 months after the making of such application by the fiduciary, if later, shall notify the fiduciary (1) of the amount of such tax for which it has been determined the fiduciary is liable, or (2) that it has been determined that the fiduciary is not liable for any such tax. Such application shall be accompanied by a copy of the instrument, if any, under which such fiduciary is acting, a description of the property held by the fiduciary, and such other information for purposes of carrying out the provisions of this section as the Secretary may require by regulations. On payment of the amount of such tax for which it has been determined the fiduciary is liable (other than any amount the time for payment of which has been extended under section 6161, 6163, or 6166), and on furnishing any bond which may be required for any amount for which the time for payment has been extended, or on receipt by him of notification of a determination that he is not liable for any such tax, the fiduciary shall be discharged from personal liability for any deficiency in such tax thereafter found to be due and shall be entitled to a receipt or writing evidencing such discharge.
+
+
+
+
+(c)
+ Special lien under section 6324A
+For purposes of the second sentence of subsection (a) and the last sentence of subsection (b), an agreement which meets the requirements of section 6324A (relating to special lien for estate tax deferred under section 6166) shall be treated as the furnishing of bond with respect to the amount for which the time for payment has been extended under section 6166.
+
+
+
+
+(d)
+ Good faith reliance on gift tax returns
+If the executor in good faith relies on gift tax returns furnished under section 6103(e)(3) for determining the decedent’s adjusted taxable gifts, the executor shall be discharged from personal liability with respect to any deficiency of the tax imposed by this chapter which is attributable to adjusted taxable gifts which—
+(1)
+ are made more than 3 years before the date of the decedent’s death, and
+
+
+
+
+(2)
+ are not shown on such returns.
+
+
+
+
+ Reimbursement out of estate
+If the tax or any part thereof is paid by, or collected out of, that part of the estate passing to or in the possession of any person other than the executor in his capacity as such, such person shall be entitled to reimbursement out of any part of the estate still undistributed or by a just and equitable contribution by the persons whose interest in the estate of the decedent would have been reduced if the tax had been paid before the distribution of the estate or whose interest is subject to equal or prior liability for the payment of taxes, debts, or other charges against the estate, it being the purpose and intent of this chapter that so far as is practicable and unless otherwise directed by the will of the decedent the tax shall be paid out of the estate before its distribution.
+ Liability of life insurance beneficiaries
+Unless the decedent directs otherwise in his will, if any part of the gross estate on which tax has been paid consists of proceeds of policies of insurance on the life of the decedent receivable by a beneficiary other than the executor, the executor shall be entitled to recover from such beneficiary such portion of the total tax paid as the proceeds of such policies bear to the taxable estate. If there is more than one such beneficiary, the executor shall be entitled to recover from such beneficiaries in the same ratio. In the case of such proceeds receivable by the surviving spouse of the decedent for which a deduction is allowed under section 2056 (relating to marital deduction), this section shall not apply to such proceeds except as to the amount thereof in excess of the aggregate amount of the marital deductions allowed under such section.
+ Liability of recipient of property over which decedent had power of appointment
+Unless the decedent directs otherwise in his will, if any part of the gross estate on which the tax has been paid consists of the value of property included in the gross estate under section 2041, the executor shall be entitled to recover from the person receiving such property by reason of the exercise, nonexercise, or release of a power of appointment such portion of the total tax paid as the value of such property bears to the taxable estate. If there is more than one such person, the executor shall be entitled to recover from such persons in the same ratio. In the case of such property received by the surviving spouse of the decedent for which a deduction is allowed under section 2056 (relating to marital deduction), this section shall not apply to such property except as to the value thereof reduced by an amount equal to the excess of the aggregate amount of the marital deductions allowed under section 2056 over the amount of proceeds of insurance upon the life of the decedent receivable by the surviving spouse for which proceeds a marital deduction is allowed under such section.
+ Right of recovery in the case of certain marital deduction property
+(a)
+ Recovery with respect to estate tax
+(1)
+ In general
+If any part of the gross estate consists of property the value of which is includible in the gross estate by reason of section 2044 (relating to certain property for which marital deduction was previously allowed), the decedent’s estate shall be entitled to recover from the person receiving the property the amount by which—
+(A)
+ the total tax under this chapter which has been paid, exceeds
+
+
+
+
+(B)
+ the total tax under this chapter which would have been payable if the value of such property had not been included in the gross estate.
+
+
+
+
+
+
+(2)
+ Decedent may otherwise direct
+Paragraph (1) shall not apply with respect to any property to the extent that the decedent in his will (or a revocable trust) specifically indicates an intent to waive any right of recovery under this subchapter with respect to such property.
+
+
+
+
+
+
+(b)
+ Recovery with respect to gift tax
+If for any calendar year tax is paid under chapter 12 with respect to any person by reason of property treated as transferred by such person under section 2519, such person shall be entitled to recover from the person receiving the property the amount by which—
+(1)
+ the total tax for such year under chapter 12, exceeds
+
+
+
+
+(2)
+ the total tax which would have been payable under such chapter for such year if the value of such property had not been taken into account for purposes of chapter 12.
+
+
+
+
+(c)
+ More than one recipient of property
+For purposes of this section, if there is more than one person receiving the property, the right of recovery shall be against each such person.
+
+
+
+
+(d)
+ Taxes and interest
+In the case of penalties and interest attributable to additional taxes described in subsections (a) and (b), rules similar to subsections (a), (b), and (c) shall apply.
+
+
+
+
+ Right of recovery where decedent retained interest
+(a)
+ Estate tax
+(1)
+ In general
+If any part of the gross estate on which tax has been paid consists of the value of property included in the gross estate by reason of section 2036 (relating to transfers with retained life estate), the decedent’s estate shall be entitled to recover from the person receiving the property the amount which bears the same ratio to the total tax under this chapter which has been paid as—
+(A)
+ the value of such property, bears to
+
+
+
+
+(B)
+ the taxable estate.
+
+
+
+
+
+
+(2)
+ Decedent may otherwise direct
+Paragraph (1) shall not apply with respect to any property to the extent that the decedent in his will (or a revocable trust) specifically indicates an intent to waive any right of recovery under this subchapter with respect to such property.
+
+
+
+
+
+
+(b)
+ More than one recipient
+For purposes of this section, if there is more than 1 person receiving the property, the right of recovery shall be against each such person.
+
+
+
+
+(c)
+ Penalties and interest
+In the case of penalties and interest attributable to the additional taxes described in subsection (a), rules similar to the rules of subsections (a) and (b) shall apply.
+
+
+
+
+(d)
+ No right of recovery against charitable remainder trusts
+No person shall be entitled to recover any amount by reason of this section from a trust to which section 664 applies (determined without regard to this section).
+
+
+
+
+ Certain residents of possessions considered citizens of the United States
+A decedent who was a citizen of the United States and a resident of a possession thereof at the time of his death shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+ Certain residents of possessions considered nonresidents not citizens of the United States
+A decedent who was a citizen of the United States and a resident of a possession thereof at the time of his death shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such person acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+ Repealed. 

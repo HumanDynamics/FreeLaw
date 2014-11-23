@@ -1,0 +1,2568 @@
+
+Chapter 176
+FEDERAL DEBT COLLECTION PROCEDURE
+ Applicability of chapter
+(a)
+ 
+In General
+.—
+Except as provided in subsection (b), the 
+1
+1
+ So in original. Probably should be “this”.
+ chapter provides the exclusive civil procedures for the United States—
+(1)
+ to recover a judgment on a debt; or
+
+
+
+
+(2)
+ to obtain, before judgment on a claim for a debt, a remedy in connection with such claim.
+
+
+
+
+(b)
+ 
+Limitation
+.—
+To the extent that another Federal law specifies procedures for recovering on a claim or a judgment for a debt arising under such law, those procedures shall apply to such claim or judgment to the extent those procedures are inconsistent with this chapter.
+
+
+(c)
+ 
+Amounts Owing Other Than Debts
+.—
+This chapter shall not apply with respect to an amount owing that is not a debt or to a claim for an amount owing that is not a debt.
+
+
+“(a)
+ Except as provided in subsection (b), this Act [probably should be “title”, meaning title XXXVI of 
+Pub. L. 101–647
+, which enacted this chapter and 
+section 2044 of this title
+, amended sections 550, 1962, 1963, and 2410 of this title, 
+section 523 of Title 11
+, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under 
+section 1 of this title
+] and the amendments made by this Act [title] shall take effect 180 days after the date of the enactment of this Act [
+Nov. 29, 1990
+].
+
+
+“(b)
+(1)
+ The amendments made by title I of this Act [probably should be “subtitle A of this title”, meaning subtitle A (§§ 3611, 3302 [3612]) of title XXXVI of 
+Pub. L. 101–647
+, which enacted this chapter] shall apply with respect to actions pending on the effective date of this Act [probably should be title XXXVI of 
+Pub. L. 101–647
+] in any court on—
+“(A)
+ a claim for a debt; or
+
+
+
+
+“(B)
+ a judgment for a debt.
+
+
+
+
+
+
+“(2)
+ All notices, writs, orders, and judgments in effect in such actions shall continue in effect until superseded or modified in an action under chapter 176 of title 28 of the United States Code, as added by title I of this Act [subtitle A of this title].
+
+
+
+
+“(3)
+ For purposes of this subsection—
+“(A)
+ the term ‘court’ means a Federal, State, or local court, and
+
+
+
+
+“(B)
+ the term ‘debt’ has the meaning given such term in section and [sic] 3002(3) of such chapter.”
+
+
+
+
+
+
+ Definitions
+ Rules of construction
+(a)
+ 
+Terms
+.—
+For purposes of this chapter—
+(1)
+ the terms “includes” and “including” are not limiting;
+
+
+
+
+(2)
+ the term “or” is not exclusive; and
+
+
+
+
+(3)
+ the singular includes the plural.
+
+
+
+
+(b)
+ 
+Effect on Rights of the United States
+.—
+This chapter shall not be construed to curtail or limit the right of the United States under any other Federal law or any State law—
+(1)
+ to collect taxes or to collect any other amount collectible in the same manner as a tax;
+
+
+
+
+(2)
+ to collect any fine, penalty, assessment, restitution, or forfeiture arising in a criminal case;
+
+
+
+
+(3)
+ to appoint or seek the appointment of a receiver; or
+
+
+
+
+(4)
+ to enforce a security agreement.
+
+
+
+
+(c)
+ 
+Effect on Other Laws
+.—
+This chapter shall not be construed to supersede or modify the operation of—
+(1)
+ title 11;
+
+
+
+
+(2)
+ admiralty law;
+
+
+
+
+(3)
+ 
+section 3713 of title 31
+;
+
+
+
+
+(4)
+ section 303 of the Consumer Credit Protection Act (
+15 U.S.C. 1673
+);
+
+
+
+
+(5)
+ a statute of limitation applicable to a criminal proceeding;
+
+
+
+
+(6)
+ the common law or statutory rights to set-off or recoupment;
+
+
+
+
+(7)
+ any Federal law authorizing, or any inherent authority of a court to provide, injunctive relief;
+
+
+
+
+(8)
+ the authority of a court—
+(A)
+ to impose a sanction under the Federal Rules of Civil Procedure;
+
+
+
+
+(B)
+ to appoint a receiver to effectuate its order; or
+
+
+
+
+(C)
+ to exercise the power of contempt under any Federal law;
+
+
+
+
+
+
+(9)
+ any law authorizing the United States to obtain partition, or to recover possession, of property in which the United States holds title; or
+
+
+
+
+(10)
+ any provision of any other chapter of this title, except to the extent such provision is inconsistent with this chapter.
+
+
+
+
+(d)
+ 
+Preemption
+.—
+This chapter shall preempt State law to the extent such law is inconsistent with a provision of this chapter.
+
+
+(e)
+ 
+Effect on Rights of the United States Under Foreign and International Law
+.—
+This chapter shall not be construed to curtail or limit the rights of the United States under foreign law, under a treaty or an international agreement, or otherwise under international law.
+
+
+(f)
+ 
+Applicability of Federal Rules of Civil Procedure
+.—
+Except as provided otherwise in this chapter, the Federal Rules of Civil Procedure shall apply with respect to actions and proceedings under this chapter.
+
+
+ Service of process; enforcement; notice
+(a)
+ 
+Manner of Service
+.—
+A complaint, notice, writ, or other process required to be served in an action or proceeding under this chapter shall be served in accordance with the Federal Rules of Civil Procedure unless otherwise provided in this chapter.
+
+
+(b)
+ 
+Nationwide Enforcement
+.—
+(1)
+ Except as provided in paragraph (2)—
+(A)
+ any writ, order, judgment, or other process, including a summons and complaint, filed under this chapter may be served in any State; and
+
+
+
+
+(B)
+ such writ, order, or judgment may be enforced by the court issuing the writ, order, or process, regardless of where the person is served with the writ, order, or process.
+
+
+
+
+
+
+(2)
+ If the debtor so requests, within 20 days after receiving the notice described in section 3101(d) or 3202(b), the action or proceeding in which the writ, order, or judgment was issued shall be transferred to the district court for the district in which the debtor resides.
+
+
+
+
+(c)
+ 
+Notice and Other Process
+.—
+At such time as counsel for the United States considers appropriate, but not later than the time a prejudgment or postjudgment remedy is put into effect under this chapter, counsel for the United States shall exercise reasonable diligence to serve on the debtor and any person who the United States believes, after exercising due diligence, has possession, custody, or control of the property, a copy of the application for such remedy, the order granting such remedy, and the notice required by section 3101(d) or 3202(b).
+
+
+ Application of chapter to judgments
+This chapter shall not apply with respect to a judgment on a debt if such judgment is entered more than 10 years before the effective date of this chapter.
+ Affidavit requirements
+Any affidavit required of the United States by this chapter may be made on information and belief, if reliable and reasonably necessary, establishing with particularity, to the court’s satisfaction, facts supporting the claim of the United States.
+ Perishable personal property
+(a)
+ 
+Authority To Sell
+.—
+If at any time during any action or proceeding under this chapter the court determines on its own initiative or upon motion of any party, that any seized or detained personal property is likely to perish, waste, or be destroyed, or otherwise substantially depreciate in value during the pendency of the proceeding, the court shall order a commercially reasonable sale of such property.
+
+
+(b)
+ 
+Deposit of Sale Proceeds
+.—
+Within 5 days after such sale, the proceeds shall be deposited with the clerk of the court, accompanied by a statement in writing and signed by the United States marshal, to be filed in the action or proceeding, stating the time and place of sale, the name of the purchaser, the amount received, and an itemized account of expenses.
+
+
+(c)
+ 
+Presumption
+.—
+For purposes of liability on the part of the United States, there shall be a presumption that the price paid at a sale under subsection (a) is the fair market value of the property or portion.
+
+
+ Proceedings before United States magistrate judges
+A district court of the United States may assign its duties in proceedings under this chapter to a United States magistrate judge to the extent not inconsistent with the Constitution and laws of the United States.
+ United States marshals’ authority to designate keeper
+Whenever a United States marshal is authorized to seize property pursuant to this chapter, the United States marshal may designate another person or Federal agency to hold for safekeeping such property seized.
+ Co-owned property
+(a)
+ 
+Limitation
+.—
+The remedies available to the United States under this chapter may be enforced against property which is co-owned by a debtor and any other person only to the extent allowed by the law of the State where the property is located. This section shall not be construed to limit any right or interest of a debtor or co-owner in a retirement system for Federal military or civilian personnel established by the United States or any agency thereof or in a qualified retirement arrangement.
+
+
+(b)
+ 
+Definitions
+.—
+For purposes of subsection (a)—
+(1)
+ the term “retirement system for Federal military or civilian personnel” means a pension or annuity system for Federal military or civilian personnel of more than one agency, or for some or all of such personnel of a single agency, established by statute or by regulation pursuant to statutory authority; and
+
+
+
+
+(2)
+ the term “qualified retirement arrangement” means a plan qualified under section 401(a), 403(a), or 409 of the Internal Revenue Code of 1986 or a plan that is subject to the requirements of section 205 of the Employee Retirement Income Security Act of 1974.
+
+
+
+
+ Assessment of surcharge on a debt
+(a)
+ 
+Surcharge Authorized
+.—
+In an action or proceeding under subchapter B or C, and subject to subsection (b), the United States is entitled to recover a surcharge of 10 percent of the amount of the debt in connection with the recovery of the debt, to cover the cost of processing and handling the litigation and enforcement under this chapter of the claim for such debt.
+
+
+(b)
+ 
+Limitation
+.—
+Subsection (a) shall not apply if—
+(1)
+ the United States receives an attorney’s fee in connection with the enforcement of the claim; or
+
+
+
+
+(2)
+ the law pursuant to which the action on the claim is based provides any other amount to cover such costs.
+
+
+
+
+ Joinder of additional defendant
+The United States or the debtor may join as an additional defendant in an action or proceeding under this chapter any person reasonably believed to owe money (including money owed on account of a requirement to provide goods or services pursuant to a loan or loan guarantee extended under Federal law) to the debtor arising out of the transaction or occurrence giving rise to a debt.
+ Modification or protective order; supervision of enforcement
+The court may at any time on its own initiative or the motion of any interested person, and after such notice as it may require, make an order denying, limiting, conditioning, regulating, extending, or modifying the use of any enforcement procedure under this chapter.
+ Exempt property
+(a)
+ 
+Election To Exempt Property
+.—
+An individual debtor may, in an action or proceeding under this chapter, elect to exempt property listed in either paragraph (1) or, in the alternative, paragraph (2). If such action or proceeding is against debtors who are husband and wife, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2). If the debtors cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1). Such property is either—
+(1)
+ property that is specified in 
+section 522(d) of title 11
+, as amended from time to time; or
+
+
+
+
+(2)
+(A)
+ any property that is exempt under Federal law, other than paragraph (1), or State or local law that is applicable on the date of the filing of the application for a remedy under this chapter at the place in which the debtor’s domicile has been located for the 180 days immediately preceding the date of the filing of such application, or for a longer portion of such 180-day period than in any other place; and
+
+
+
+
+(B)
+ any interest in property in which the debtor had, immediately before the filing of such application, an interest as a tenant by the entirety or joint tenant, or an interest in a community estate, to the extent that such interest is exempt from process under applicable nonbankruptcy law.
+
+
+
+
+
+
+(b)
+ Effect on Assertion and Manner of Determination.—
+(1)
+ 
+Statement
+.—
+A court may order the debtor to file a statement with regard to any claimed exemption. A copy of such statement shall be served on counsel for the United States. Such statement shall be under oath and shall describe each item of property for which exemption is claimed, the value and the basis for such valuation, and the nature of the debtor’s ownership interest.
+
+
+
+
+(2)
+ 
+Hearing
+.—
+The United States or the debtor, by application to the court in which an action or proceeding under this chapter is pending, may request a hearing on the applicability of any exemption claimed by the debtor. The court shall determine the extent (if any) to which the exemption applies. Unless it is reasonably evident that the exemption applies, the debtor shall bear the burden of persuasion.
+
+
+
+
+(3)
+ 
+Stay of Disposition
+.—
+Assertion of an exemption shall prevent the United States from selling or otherwise disposing of the property for which such exemption is claimed until the court determines whether the debtor has a substantial nonexempt interest in such property. The United States may not take possession of, dispose of, sell, or otherwise interfere with the debtor’s normal use and enjoyment of an interest in property the United States knows or has reason to know is exempt.
+
+
+
+
+(c)
+ 
+Debtors in Joint Cases
+.—
+Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
+
+
+ Discovery as to debtor’s financial condition
+(a)
+ 
+In General
+.—
+Except as provided in subsection (b), in an action or proceeding under subchapter B or C, the United States may have discovery regarding the financial condition of the debtor in the manner in which discovery is authorized by the Federal Rules of Civil Procedure in an action on a claim for a debt.
+
+
+(b)
+ 
+Limitation
+.—
+Subsection (a) shall not apply with respect to an action or proceeding under subchapter B unless there is a reasonable likelihood that the debt involved exceeds $50,000.
+
+
+ Prejudgment remedies
+(a)
+ 
+Application
+.—
+(1)
+ The United States may, in a proceeding in conjunction with the complaint or at any time after the filing of a civil action on a claim for a debt, make application under oath to a court to issue any prejudgment remedy.
+
+
+
+
+(2)
+ Such application shall be filed with the court and shall set forth the factual and legal basis for each prejudgment remedy sought.
+
+
+
+
+(3)
+ Such application shall—
+(A)
+ state that the debtor against whom the prejudgment remedy is sought shall be afforded an opportunity for a hearing; and
+
+
+
+
+(B)
+ set forth with particularity that all statutory requirements under this chapter for the issuance of the prejudgment remedy sought have been satisfied.
+
+
+
+
+
+
+(b)
+ 
+Grounds
+.—
+Subject to section 3102, 3103, 3104, or 3105, a prejudgment remedy may be granted by any court if the United States shows reasonable cause to believe that—
+(1)
+ the debtor—
+(A)
+ is about to leave the jurisdiction of the United States with the effect of hindering, delaying, or defrauding the United States in its effort to recover a debt;
+
+
+
+
+(B)
+ has or is about to assign, dispose, remove, conceal, ill treat, waste, or destroy property with the effect of hindering, delaying, or defrauding the United States;
+
+
+
+
+(C)
+ has or is about to convert the debtor’s property into money, securities, or evidence of debt in a manner prejudicial to the United States with the effect of hindering, delaying, or defrauding the United States; or
+
+
+
+
+(D)
+ has evaded service of process by concealing himself or has temporarily withdrawn from the jurisdiction of the United States with the effect of hindering, delaying, or defrauding the United States; or
+
+
+
+
+
+
+(2)
+ a prejudgment remedy is required to obtain jurisdiction within the United States and the prejudgment remedy sought will result in obtaining such jurisdiction.
+
+
+
+
+(c)
+ 
+Affidavit
+.—
+(1)
+ The application under subsection (a) shall include an affidavit establishing with particularity to the court’s satisfaction facts supporting the probable validity of the claim for a debt and the right of the United States to recover what is demanded in the application.
+
+
+
+
+(2)
+ The affidavit shall state—
+(A)
+ specifically the amount of the debt claimed by the United States and any interest or costs attributable to such debt;
+
+
+
+
+(B)
+ one or more of the grounds specified in subsection (b); and
+
+
+
+
+(C)
+ the requirements of section 3102(b), 3103(a), 3104(a), or 3105(b), as the case may be.
+
+
+
+
+
+
+(3)
+ No bond is required of the United States.
+
+
+
+
+(d)
+ 
+Notice and Hearing
+.—
+(1)
+ On filing an application by the United States as provided in this section, the counsel for the United States shall prepare, and the clerk shall issue, a notice for service on the debtor against whom the prejudgment remedy is sought and on any other person whom the United States reasonably believes, after exercising due diligence, has possession, custody, or control of property affected by such remedy. Three copies of the notice shall be served on each such person. The form and content of such notice shall be approved jointly by a majority of the chief judges of the Federal districts in the State in which the court is located and shall be in substantially the following form:
+“notice
+
+
+“You are hereby notified that this [property] is being taken by the United States Government (‘the Government’), which says that [name of debtor] owes it a debt of $ [amount] for [reason for debt] and has filed a lawsuit to collect this debt. The Government says it must take this property at this time because [recite the pertinent ground or grounds from section 3101(b)]. The Government wants to make sure [name of debtor] will pay if the court determines that this money is owed.
+
+
+“In addition, you are hereby notified that there are exemptions under the law which may protect some of this property from being taken by the Government if [name of debtor] can show that the exemptions apply. Below is a summary of the major exemptions which apply in most situations in the State of [State where property is located]:
+
+
+“[A statement summarizing in plain and understandable English the election available with respect to such State under section 3014 and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a), and a statement that different property may be so exempted with respect to the State in which the debtor resides.]
+
+
+“If you are [name of debtor] and you disagree with the reason the Government gives for taking your property now, or if you think you do not owe the money to the Government that it says you do, or if you think the property the Government is taking qualifies under one of the above exemptions, you have a right to ask the court to return your property to you.
+
+
+“If you want a hearing, you must promptly notify the court. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at [address]. If you wish, you may use this notice to request the hearing by checking the box below and mailing this notice to the court clerk. You must also send a copy of your request to the Government at [address], so the Government will know you want a hearing. The hearing will take place within 5 days after the clerk receives your request, if you ask for it to take place that quickly, or as soon after that as possible.
+
+
+“At the hearing you may explain to the judge why you think you do not owe the money to the Government, why you disagree with the reason the Government says it must take your property at this time, or why you believe the property the Government has taken is exempt or belongs to someone else. You may make any or all of these explanations as you see fit.
+
+
+“If you think you live outside the Federal judicial district in which the court is located, you may request, not later than 20 days after you receive this notice, that this proceeding to take your property be transferred by the court to the Federal judicial district in which you reside. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at [address]. You must also send a copy of your request to the Government at [address], so the Government will know you want the proceeding to be transferred.
+
+
+“Be sure to keep a copy of this notice for your own records. If you have any questions about your rights or about this procedure, you should contact a lawyer, an office of public legal assistance, or the clerk of the court. The clerk is not permitted to give legal advice, but can refer you to other sources of information.”
+
+
+
+
+
+
+(2)
+ By requesting, at any time before judgment on the claim for a debt, the court to hold a hearing, the debtor may move to quash the order granting such remedy. The court shall hold a hearing on such motion as soon as practicable, or, if requested by the debtor, within 5 days after receiving the request for a hearing or as soon thereafter as possible. The issues at such hearing shall be limited to—
+(A)
+ the probable validity of the claim for the debt for which such remedy was granted and of any defense or claim of exemption asserted by such person;
+
+
+
+
+(B)
+ compliance with any statutory requirement for the issuance of the prejudgment remedy granted;
+
+
+
+
+(C)
+ the existence of any ground set forth in subsection (b); and
+
+
+
+
+(D)
+ the inadequacy of alternative remedies (if any) to protect the interests of the United States.
+
+
+
+
+
+
+(e)
+ 
+Issuance of Writ
+.—
+On the court’s determination that the requirements of subsections (a), (b), and (c) have been met, the court shall issue all process sufficient to put into effect the prejudgment remedy sought.
+
+
+ Attachment
+(a)
+ 
+Property Subject to Attachment
+.—
+(1)
+ Any property in the possession, custody, or control of the debtor and in which the debtor has a substantial nonexempt interest, except earnings, may be attached pursuant to a writ of attachment in an action or proceeding against a debtor on a claim for a debt and may be held as security to satisfy such judgment, and interest and costs, as the United States may recover on such claim.
+
+
+
+
+(2)
+ The value of property attached shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
+(A)
+ property securing the debt; and
+
+
+
+
+(B)
+ property garnished or in receivership, or income sequestered, under this subchapter.
+
+
+
+
+
+
+(b)
+ 
+Availability of Attachment
+.—
+If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to attach property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+(1)
+ in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
+(A)
+ the contract is not fully secured by real or personal property; or
+
+
+
+
+(B)
+ the value of the original security is substantially diminished, without any act of the United States or the person to whom the security was given, below the amount of the debt;
+
+
+
+
+
+
+(2)
+ in an action against the debtor for damages in tort;
+
+
+
+
+(3)
+ if the debtor resides outside the jurisdiction of the United States; or
+
+
+
+
+(4)
+ in an action to recover a fine, penalty, or tax.
+
+
+
+
+(c)
+ 
+Issuance of Writ; Contents
+.—
+(1)
+ Subject to subsections (a) and (b), a writ of attachment shall be issued by the court directing the United States marshal of the district where property described in subsection (a) is located to attach the property.
+
+
+
+
+(2)
+ Several writs of attachment may be issued at the same time, or in succession, and sent to different judicial districts until sufficient property is attached.
+
+
+
+
+(3)
+ The writ of attachment shall contain—
+(A)
+ the date of the issuance of the writ;
+
+
+
+
+(B)
+ the identity of the court, the docket number of the action, and the identity of the cause of action;
+
+
+
+
+(C)
+ the name and last known address of the debtor;
+
+
+
+
+(D)
+ the amount to be secured by the attachment; and
+
+
+
+
+(E)
+ a reasonable description of the property to be attached.
+
+
+
+
+
+
+(d)
+ 
+Levy of Attachment
+.—
+(1)
+ The United States marshal receiving the writ shall proceed without delay to levy upon the property specified for attachment if found within the district. The marshal may not sell property unless ordered by the court.
+
+
+
+
+(2)
+ In performing the levy, the United States marshal may enter any property owned, occupied, or controlled by the debtor, except that the marshal may not enter a residence or other building unless the writ expressly authorizes the marshal to do so or upon specific order of the court.
+
+
+
+
+(3)
+ Levy on real property is made by entering the property and posting the writ and notice of levy in a conspicuous place upon the property.
+
+
+
+
+(4)
+ Levy on personal property is made by taking possession of it. Levy on personal property not easily taken into possession or which cannot be taken into possession without great inconvenience or expense may be made by affixing a copy of the writ and notice of levy on it or in a conspicuous place in the vicinity of it describing in the notice of levy the property by quantity and with sufficient detail to identify the property levied on.
+
+
+
+
+(5)
+ The United States marshal shall file a copy of the notice of levy in the same manner as provided for judgments in section 3201(a)(1). The United States marshal shall serve a copy of the writ and notice of levy on—
+(A)
+ the debtor against whom the writ is issued; and
+
+
+
+
+(B)
+ the person who has possession of the property subject to the writ;
+
+
+
+
+
+in the same manner that a summons is served in a civil action and make the return thereof.
+
+
+
+
+(e)
+ 
+Return of Writ; Duties of Marshal; Further Return
+.—
+(1)
+ A United States marshal executing a writ of attachment shall return the writ with the marshal’s action endorsed thereon or attached thereto and signed by the marshal, to the court from which it was issued, within 5 days after the date of the levy.
+
+
+
+
+(2)
+ The return shall describe the property attached with sufficient certainty to identify it and shall state the location where it was attached, the date and time it was attached, and the disposition made of the property. If no property was attached, the return shall so state.
+
+
+
+
+(3)
+ If the property levied on is claimed, replevied under subsection (j)(2), or sold under section 3007 after the return, the United States marshal shall immediately make a further return to the clerk of the court showing the disposition of the property.
+
+
+
+
+(4)
+ If personal property is replevied, the United States marshal shall deliver the replevin bond to the clerk of the court to be filed in the action.
+
+
+
+
+(f)
+ 
+Levy of Attachment as Lien on Property; Satisfaction of Lien
+.—
+(1)
+ A levy on property under a writ of attachment under this section creates a lien in favor of the United States on the property or, in the case of perishable property sold under section 3007, on the proceeds of the sale.
+
+
+
+
+(2)
+ Such lien shall be ranked ahead of any other security interests perfected after the later of the time of levy and the time a copy of the notice of levy is filed under subsection (d)(5).
+
+
+
+
+(3)
+ Such lien shall arise from the time of levy and shall continue until a judgment in the action is obtained or denied, or the action is otherwise dismissed. The death of the debtor whose property is attached does not terminate the attachment lien. Upon issuance of a judgment in the action and registration under this chapter, the judgment lien so created relates back to the time of levy.
+
+
+
+
+(g)
+ 
+Reduction or Dissolution of Attachment
+.—
+(1)
+ If an excessive or unreasonable attachment is made, the debtor may submit a motion to the court for a reduction of the amount of the attachment or its dissolution. Notice of such motion shall be served on the United States.
+
+
+
+
+(2)
+ The court shall order a part of the property to be released, if after a hearing the court finds that the amount of the attachment is excessive or unreasonable or if the attachment is for an amount larger than the sum of the liquidated or ascertainable amount of the debt and the amount of interest and costs likely to be taxed.
+
+
+
+
+(3)
+ The court shall dissolve the attachment if the amount of the debt is unliquidated and unascertainable by calculation.
+
+
+
+
+(4)
+ If any property claimed to be exempt is levied on, the debtor may, at any time after such levy, request that the court vacate such levy. If it appears to the court that the property so levied upon is exempt, the court shall order the levy vacated and the property returned to the debtor.
+
+
+
+
+(h)
+ 
+Replevin of Attached Property by Debtor; Bond
+.—
+If attached property is not sold before judgment, the debtor may replevy such property or any part thereof by giving a bond approved by counsel for the United States or the court and payable to the United States in double the reasonable value of the property to be replevied or double the value of the claim, whichever is less.
+
+
+(i)
+ 
+Preservation of Personal Property Under Attachment
+.—
+If personal property in custody of the United States marshal under a writ of attachment is not replevied, claimed, or sold, the court may make such order for its preservation or use as appears to be in the interest of the parties.
+
+
+(j)
+ Judgment and Disposition of Attached Property.—
+(1)
+ 
+Judgment for the united states
+.—
+On entry of judgment for the United States, the court shall order the proceeds of personal property sold pursuant to section 3007 to be applied to the satisfaction of the judgment, and shall order the sale of any remaining personal property and any real property levied on to the extent necessary to satisfy the judgment.
+
+
+
+
+(2)
+ 
+Judgment for the united states when personal property replevied
+.—
+With respect to personal property under attachment that is replevied, the judgment which may be entered shall be against the debtor against whom the writ of attachment is issued and also against the sureties on the debtor’s replevin bond for the value of the property.
+
+
+
+
+(3)
+ 
+Restoration of property and exoneration of replevin bond
+.—
+If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
+
+
+
+
+ Receivership
+(a)
+ 
+Appointment of a Receiver
+.—
+If the requirements of section 3101 are satisfied, a court may appoint a receiver for property in which the debtor has a substantial nonexempt interest if the United States shows reasonable cause to believe that there is a substantial danger that the property will be removed from the jurisdiction of the court, lost, concealed, materially injured or damaged, or mismanaged.
+
+
+(b)
+ 
+Powers of Receiver
+.—
+(1)
+ The appointing court may authorize a receiver—
+(A)
+ to take possession of real and personal property and sue for, collect, and sell obligations upon such conditions and for such purposes as the court shall direct; and
+
+
+
+
+(B)
+ to administer, collect, improve, lease, repair or sell pursuant to section 3007 such real and personal property as the court shall direct.
+
+
+
+
+
+A receiver appointed to manage residential or commercial property shall have demonstrable expertise in the management of these types of property.
+
+
+
+
+(2)
+ Unless expressly authorized by order of the court, a receiver shall have no power to employ attorneys, accountants, appraisers, auctioneers, or other professional persons.
+
+
+
+
+(c)
+ 
+Duration of Receivership
+.—
+A receivership shall not continue past the entry of judgment, or the conclusion of an appeal of such judgment, unless the court orders it continued under section 3203(e) or unless the court otherwise directs its continuation.
+
+
+(d)
+ 
+Accounts; Requirement to Report
+.—
+A receiver shall keep written accounts itemizing receipts and expenditures, describing the property and naming the depository of receivership funds. The receiver’s accounts shall be open to inspection by any person having an apparent interest in the property. The receiver shall file reports at regular intervals as directed by the court and shall serve the debtor and the United States with a copy thereof.
+
+
+(e)
+ 
+Modification of Powers; Removal
+.—
+On motion of the receiver or on its own initiative, the court which appointed the receiver may remove the receiver or modify the receiver’s powers at any time.
+
+
+(f)
+ 
+Priority
+.—
+If more than one court appoints a receiver for particular property, the receiver first qualifying under law shall be entitled to take possession, control, or custody of the property.
+
+
+(g)
+ 
+Compensation of Receivers
+.—
+(1)
+ A receiver is entitled to such commissions, not exceeding 5 percent of the sums received and disbursed by him, as the court allows unless the court otherwise directs.
+
+
+
+
+(2)
+ If, at the termination of a receivership, there are no funds in the hands of a receiver, the court may fix the compensation of the receiver in accordance with the services rendered and may direct the party who moved for the appointment of the receiver to pay such compensation in addition to the necessary expenditures incurred by the receiver which remain unpaid.
+
+
+
+
+(3)
+ At the termination of a receivership, the receiver shall file a final accounting of the receipts and disbursements and apply for compensation setting forth the amount sought and the services rendered by the receiver.
+
+
+
+
+ Garnishment
+(a)
+ 
+In General
+.—
+If the requirements of section 3101 are satisfied, a court may issue a writ of garnishment against property (excluding earnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor in order to satisfy a claim for a debt. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in section 3205(c)(10).
+
+
+(b)
+ 
+Writ
+.—
+(1)
+ Subsections (b)(2) and (c) of section 3205 shall apply with respect to garnishment under this section, except that for purposes of this section—
+(A)
+ earnings of the debtor shall not be subject to garnishment; and
+
+
+
+
+(B)
+ a reference in such subsections to a judgment debtor shall be deemed to be a reference to a debtor.
+
+
+
+
+
+
+(2)
+ The United States shall include in its application for a writ of garnishment—
+(A)
+ the amount of the claim asserted by the United States for a debt; and
+
+
+
+
+(B)
+ the date the writ is issued.
+
+
+
+
+
+
+(c)
+ 
+Limitation
+.—
+The value of property garnished shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
+(1)
+ property securing the debt; and
+
+
+
+
+(2)
+ property attached or in receivership, or income sequestered, under this subchapter.
+
+
+
+
+ Sequestration
+(a)
+ 
+Property Subject to Sequestration
+.—
+(1)
+ Any income from property in which the debtor has a substantial nonexempt interest may be sequestered pursuant to a writ of sequestration in an action or proceeding against a debtor on a claim for a debt and may be held as security to satisfy such judgment, and interest and costs, as the United States may recover on such claim.
+
+
+
+
+(2)
+ The amount of income sequestered shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
+(A)
+ property securing the debt; and
+
+
+
+
+(B)
+ property attached, garnished, or in receivership under this subchapter.
+
+
+
+
+
+
+(b)
+ 
+Availability of Sequestration
+.—
+If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to sequester income from property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+(1)
+ in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
+(A)
+ the contract is not fully secured by real or personal property; or
+
+
+
+
+(B)
+ the value of the original security is substantially diminished, without any act of the United States or the person to whom the security was given, below the amount of the debt;
+
+
+
+
+
+
+(2)
+ in an action against the debtor for damages in tort;
+
+
+
+
+(3)
+ if the debtor resides outside the jurisdiction of the United States; or
+
+
+
+
+(4)
+ in an action to recover a fine, penalty, or tax.
+
+
+
+
+(c)
+ 
+Issuance of Writ; Contents
+.—
+(1)
+ Subject to subsections (a) and (b), a writ of sequestration shall be issued by the court directing the United States marshal of the district where income described in subsection (a) is located to sequester the income.
+
+
+
+
+(2)
+ Several writs of sequestration may be issued at the same time, or in succession, and sent to different judicial districts until sufficient income is sequestered.
+
+
+
+
+(3)
+ The writ of sequestration shall contain—
+(A)
+ the date of the issuance of the writ;
+
+
+
+
+(B)
+ the identity of the court, the docket number of the action, and the identity of the cause of action;
+
+
+
+
+(C)
+ the name and last known address of the debtor;
+
+
+
+
+(D)
+ the amount to be secured by the sequestration; and
+
+
+
+
+(E)
+ a reasonable description of the income to be sequestered.
+
+
+
+
+
+
+(d)
+ 
+Execution of Writ
+.—
+(1)
+ The United States marshal receiving the writ shall proceed without delay to execute the writ.
+
+
+
+
+(2)
+ The United States marshal shall file a copy of the notice of sequestration in the same manner as provided for judgments in section 3201(a)(1). The United States marshal shall serve a copy of the writ and notice of sequestration on—
+(A)
+ the debtor against whom the writ is issued; and
+
+
+
+
+(B)
+ the person who has possession of the income subject to the writ;
+
+
+
+
+
+in the same manner that a summons is served in a civil action and make the return thereof.
+
+
+
+
+(e)
+ 
+Deposit of Sequestered Income
+.—
+A person who has possession of the income subject to a writ of sequestration shall deposit such income with the clerk of the court, accompanied by a statement in writing stating the person’s name, the name of the debtor, the amount of such income, the property from which such income is produced, and the period during which such income is produced.
+
+
+(f)
+ 
+Return of Writ; Duties of Marshal; Further Return
+.—
+(1)
+ A United States marshal executing a writ of sequestration shall return the writ with the marshal’s action endorsed thereon or attached thereto and signed by the marshal, to the court from which it was issued, within 5 days after the date of the execution.
+
+
+
+
+(2)
+ The return shall describe the income sequestered with sufficient certainty to identify it and shall state the location where it was sequestered, and the date and time it was sequestered. If no income was sequestered, the return shall so state.
+
+
+
+
+(3)
+ If sequestered income is claimed after the return, the United States marshal shall immediately make a further return to the clerk of the court showing the disposition of the income.
+
+
+
+
+(g)
+ 
+Reduction or Dissolution of Sequestration
+.—
+(1)
+ If an excessive or unreasonable sequestration is made, the debtor may submit a motion to the court for a reduction of the amount of the sequestration or its dissolution. Notice of such motion shall be served on the United States.
+
+
+
+
+(2)
+ The court shall order a part of the income to be released, if after a hearing the court finds that the amount of the sequestration is excessive or unreasonable or if the sequestration is for an amount larger than the sum of the liquidated or ascertainable amount of the debt and the amount of interest and costs likely to be taxed.
+
+
+
+
+(3)
+ The court shall dissolve the sequestration if the amount of the debt is unliquidated and unascertainable by calculation.
+
+
+
+
+(h)
+ 
+Preservation of Income Under Sequester
+.—
+If personal property in custody of the United States marshal under a writ of sequestration is not claimed, the court may make such order for its preservation or use as appears to be in the interest of the parties.
+
+
+(i)
+ Judgment and Disposition of Sequestered Income.—
+(1)
+ 
+Judgment for the united states
+.—
+On entry of judgment for the United States, the court shall order the sequestered income to be applied to the satisfaction of the judgment.
+
+
+
+
+(2)
+ 
+Restoration of income
+.—
+If the sequestration is vacated or if the judgment on the claim for the debt is for the person against whom the writ of sequestration is issued, the court shall order the income restored to the debtor.
+
+
+
+
+ Judgment liens
+(a)
+ 
+Creation
+.—
+A judgment in a civil action shall create a lien on all real property of a judgment debtor on filing a certified copy of the abstract of the judgment in the manner in which a notice of tax lien would be filed under paragraphs (1) and (2) of section 6323(f) of the Internal Revenue Code of 1986. A lien created under this paragraph is for the amount necessary to satisfy the judgment, including costs and interest.
+
+
+(b)
+ 
+Priority of Lien
+.—
+A lien created under subsection (a) shall have priority over any other lien or encumbrance which is perfected later in time.
+
+
+(c)
+ 
+Duration of Lien; Renewal
+.—
+(1)
+ Except as provided in paragraph (2), a lien created under subsection (a) is effective, unless satisfied, for a period of 20 years.
+
+
+
+
+(2)
+ Such lien may be renewed for one additional period of 20 years upon filing a notice of renewal in the same manner as the judgment is filed and shall relate back to the date the judgment is filed if—
+(A)
+ the notice of renewal is filed before the expiration of the 20-year period to prevent the expiration of the lien; and
+
+
+
+
+(B)
+ the court approves the renewal of such lien under this paragraph.
+
+
+
+
+
+
+(d)
+ 
+Release of Judgment Lien
+.—
+A judgment lien shall be released on the filing of a satisfaction of judgment or release of lien in the same manner as the judgment is filed to obtain the lien.
+
+
+(e)
+ 
+Effect of Lien on Eligibility for Federal Grants, Loans or Programs
+.—
+A debtor who has a judgment lien against the debtor’s property for a debt to the United States shall not be eligible to receive any grant or loan which is made, insured, guaranteed, or financed directly or indirectly by the United States or to receive funds directly from the Federal Government in any program, except funds to which the debtor is entitled as beneficiary, until the judgment is paid in full or otherwise satisfied. The agency of the United States that is responsible for such grants and loans may promulgate regulations to allow for waiver of this restriction on eligibility for such grants, loans, and funds.
+
+
+(f)
+ 
+Sale of Property Subject to Judgment Lien
+.—
+(1)
+ On proper application to a court, the court may order the United States to sell, in accordance with sections 2001 and 2002, any real property subject to a judgment lien in effect under this section.
+
+
+
+
+(2)
+ This subsection shall not preclude the United States from using an execution sale pursuant to section 3203(g) to sell real property subject to a judgment lien.
+
+
+
+
+ Enforcement of judgments
+(a)
+ 
+Enforcement Remedies
+.—
+A judgment may be enforced by any of the remedies set forth in this subchapter. A court may issue other writs pursuant to 
+section 1651 of title 28
+, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
+
+
+(b)
+ 
+Notice
+.—
+On the commencement by the United States of an action or proceeding under this subchapter to obtain a remedy, the counsel for the United States shall prepare, and clerk of the court shall issue, a notice in substantially the following form:
+“Notice
+
+
+“You are hereby notified that this [property] is being taken by the United States Government, which has a court judgment in [case docket number and jurisdiction of court] of $[amount] for [reason of debt].
+
+
+“In addition, you are hereby notified that there are exemptions under the law which may protect some of this property from being taken by the United States Government if [name of judgment debtor] can show that the exemptions apply. Below is a summary of the major exemptions which apply in most situations in the State of [State where property is located]:
+
+
+“[A statement summarizing in plain and understandable English the election available with respect to such State under section 3014 and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a) and a statement that different property may be so exempted with respect to the State in which the debtor resides.]
+
+
+“If you are [name of judgment debtor], you have a right to ask the court to return your property to you if you think the property the Government is taking qualifies under one of the above exemptions [For a default judgment:] or if you think you do not owe the money to the United States Government that it says you do.
+
+
+“If you want a hearing, you must notify the court within 20 days after you receive this notice. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at [address]. If you wish, you may use this notice to request the hearing by checking the box below and mailing this notice to the court clerk. You must also send a copy of your request to the Government at [address], so the Government will know you want a hearing. The hearing will take place within 5 days after the clerk receives your request, if you ask for it to take place that quickly, or as soon after that as possible.
+
+
+“At the hearing you may explain to the judge why you believe the property the Government has taken is exempt [For a default judgment:] or why you think you do not owe the money to the Government. [For a writ of execution:] If you do not request a hearing within 20 days of receiving this notice, your [property] may be sold at public auction and the payment used toward the money you owe the Government.
+
+
+“If you think you live outside the Federal judicial district in which the court is located, you may request, not later than 20 days after your 
+1
+1
+ So in original. Probably should be “you”.
+ receive this notice, that this proceeding to take your property be transferred by the court to the Federal judicial district in which you reside. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at [address]. You must also send a copy of your request to the Government at [address], so the Government will know you want the proceeding to be transferred.
+
+
+“Be sure to keep a copy of this notice for your own records. If you have any questions about your rights or about this procedure, you should contact a lawyer, an office of public legal assistance, or the clerk of the court. The clerk is not permitted to give legal advice, but can refer you to other sources of information.”
+
+
+
+
+(c)
+ 
+Service
+.—
+A copy of the notice and a copy of the application for granting a remedy under this subchapter shall be served by counsel for the United States on the judgment debtor against whom such remedy is sought and on each person whom the United States, after diligent inquiry, has reasonable cause to believe has an interest in property to which the remedy is directed.
+
+
+(d)
+ 
+Hearing
+.—
+By requesting, within 20 days after receiving the notice described in section 3202(b), the court to hold a hearing, the judgment debtor may move to quash the order granting such remedy. The court that issued such order shall hold a hearing on such motion as soon as practicable, or, if so requested by the judgment debtor, within 5 days after receiving the request or as soon thereafter as possible. The issues at such hearing shall be limited—
+(1)
+ to the probable validity of any claim of exemption by the judgment debtor;
+
+
+
+
+(2)
+ to compliance with any statutory requirement for the issuance of the postjudgment remedy granted; and
+
+
+
+
+(3)
+ if the judgment is by default and only to the extent that the Constitution or another law of the United States provides a right to a hearing on the issue, to—
+(A)
+ the probable validity of the claim for the debt which is merged in the judgment; and
+
+
+
+
+(B)
+ the existence of good cause for setting aside such judgment.
+
+
+
+
+
+This subparagraph shall not be construed to afford the judgment debtor the right to more than one such hearing except to the extent that the Constitution or another law of the United States provides a right to more than one such hearing.
+
+
+
+
+(e)
+ 
+Sale of Property
+.—
+The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
+
+
+ Execution
+(a)
+ 
+Property Subject to Execution
+.—
+All property in which the judgment debtor has a substantial nonexempt interest shall be subject to levy pursuant to a writ of execution. The debtor’s earnings shall not be subject to execution while in the possession, custody, or control of the debtor’s employer. Co-owned property shall be subject to execution to the extent such property is subject to execution under the law of the State in which it is located.
+
+
+(b)
+ 
+Creation of Execution Lien
+.—
+A lien shall be created in favor of the United States on all property levied on under a writ of execution and shall date from the time of the levy. Such lien shall have priority over all subsequent liens and shall be for the aggregate amount of the judgment, costs, and interest. The execution lien on any real property as to which the United States has a judgment lien shall relate back to the judgment lien date.
+
+
+(c)
+ Writ of Execution.—
+(1)
+ 
+Issuance
+.—
+On written application of counsel for the United States, the court may issue a writ of execution. Multiple writs may issue simultaneously, and successive writs may issue before the return date of a writ previously issued.
+
+
+
+
+(2)
+ Form of writ.—
+(A)
+ 
+General contents
+.—
+A writ of execution shall specify the date that the judgment is entered, the court in which it is entered, the amount of the judgment if for money, the amount of the costs, the amount of interest due, the sum due as of the date the writ is issued, the rate of postjudgment interest, the name of the judgment debtor, and the judgment debtor’s last known address.
+
+
+
+
+(B)
+ 
+Additional contents
+.—
+(i)
+ Except as provided in clauses (ii) and (iii), the writ shall direct the United States marshal to satisfy the judgment by levying on and selling property in which the judgment debtor has a substantial nonexempt interest, but not to exceed property reasonably equivalent in value to the aggregate amount of the judgment, costs, and interest.
+
+
+
+
+(ii)
+ A writ of execution issued on a judgment for the delivery to the United States of the possession of personal property, or for the delivery of the possession of real property, shall particularly describe the property, and shall require the marshal to deliver the possession of the property to the United States.
+
+
+
+
+(iii)
+ A writ of execution on a judgment for the recovery of personal property or its value shall direct the marshal, in case a delivery of the specific property cannot be had, to levy and collect such value out of any property in which the judgment debtor has a substantial nonexempt interest.
+
+
+
+
+
+
+
+
+(d)
+ Levy of Execution.—
+(1)
+ 
+In general
+.—
+Levy on property pursuant to a writ of execution issued under this section shall be made in the same manner as levy on property is made pursuant to a writ of attachment issued under section 3102(d).
+
+
+
+
+(2)
+ 
+Death of judgment debtor
+.—
+The death of the judgment debtor after a writ of execution is issued stays the execution proceedings, but any lien acquired by levy of the writ shall be recognized and enforced by the court for the district in which the estate of the deceased is located. The execution lien may be enforced—
+(A)
+ against the executor, administrator, or personal representative of the estate of the deceased; or
+
+
+
+
+(B)
+ if there be none, against the deceased’s property coming to the heirs or devisees or at their option against cash in their possession, but only to the extent of the value of the property coming to them.
+
+
+
+
+
+
+(3)
+ 
+Records of united states marshal
+.—
+(A)
+ A United States marshal receiving a writ of execution shall endorse thereon the exact hour and date of receipt.
+
+
+
+
+(B)
+ The United States marshal shall make a written record of every levy, specify the property on which levy is made, the date on which levy is made, and the marshal’s costs, expenses, and fees.
+
+
+
+
+(C)
+ The United States marshal shall make a written return to the court on each writ of execution stating concisely what is done pursuant to the writ and shall deliver a copy to counsel for the United States who requests the writ. The writ shall be returned not more than—
+(i)
+ 90 days after the date of issuance if levy is not made; or
+
+
+
+
+(ii)
+ 10 days after the date of sale of property on which levy is made.
+
+
+
+
+
+
+
+
+(e)
+ 
+Appointment of Receiver
+.—
+Pending the levy of execution, the court may appoint a receiver to manage property described in such writ if there is a substantial danger that the property will be removed from the jurisdiction of the court, lost, materially injured or damaged, or mismanaged.
+
+
+(f)
+ Replevy; Redemption.—
+(1)
+ 
+Before execution sale
+.—
+(A)
+ Before execution sale, the United States marshal may return property 
+1
+1
+ So in original. The word “property” probably should not appear.
+ to the judgment debtor any personal property taken in execution, on—
+(i)
+ satisfaction of the judgment, interest, and costs, and any costs incurred in connection with scheduling the sale; or
+
+
+
+
+(ii)
+ receipt from the judgment debtor of a bond—
+(I)
+ payable to the United States, with 2 or more good and sufficient sureties to be approved by the marshal, conditioned on the delivery of the property to the marshal at the time and place named in the bond to be sold under subsection (g); or
+
+
+
+
+(II)
+ for the payment to the marshal of a fair value thereof which shall be stated in the bond.
+
+
+
+
+
+
+
+
+(B)
+ A judgment debtor who sells or disposes of property replevied under subparagraph (A) shall pay the United States marshal the stipulated value of such property.
+
+
+
+
+(C)
+ If the judgment debtor fails to deliver such property to the United States marshal pursuant to the terms of the delivery described in subparagraph (A)(ii)(I) and fails to pay the United States marshal the stipulated value of such property, the United States marshal shall endorse the bond “forfeited” and return it to the court from which the writ of execution issued. If the judgment is not fully satisfied, the court shall issue a writ of execution against the judgment debtor and the sureties on the bond for the amount due, not exceeding the stipulated value of the property, on which execution no delivery bond shall be taken, which instruction shall be endorsed on the writ.
+
+
+
+
+
+
+(2)
+ 
+After execution sale
+.—
+The judgment debtor shall not be entitled to redeem the property after the execution sale.
+
+
+
+
+(g)
+ Execution Sale.—
+(1)
+ 
+General procedures
+.—
+An execution sale under this section shall be conducted in a commercially reasonable manner—
+(A)
+ Sale of real property.—
+(i)
+ 
+In general
+.—
+(I)
+ Except as provided in clause (ii), real property, or any interest therein, shall be sold, after the expiration of the 90-day period beginning on the date of levy under subsection (d), for cash at public auction at the courthouse of the county, parish, or city in which the greater part of the property is located or on the premises or some parcel thereof.
+
+
+
+
+(II)
+ The court may order the sale of any real property after the expiration of the 30-day period beginning on the date of levy under subsection (d) if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during the 90-day period beginning on the date of levy.
+
+
+
+
+(III)
+ The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location for rural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor’s reasonable objections, for a reasonable period before the day of sale.
+
+
+
+
+(IV)
+ The United States marshal shall serve written notice of public sale by personal delivery, or certified or registered mail, to each person whom the marshal has reasonable cause to believe, after a title search is conducted by the United States, has an interest in property under execution, including lienholders, co-owners, and tenants, at least 25 days before the day of sale, to the last known address of each such person.
+
+
+
+
+
+
+(ii)
+ 
+Sale of city lots
+.—
+If the real property consists of several lots, tracts, or parcels in a city or town, each lot, tract, or parcel shall be offered for sale separately, unless not susceptible to separate sale because of the character of improvements.
+
+
+
+
+(iii)
+ 
+Sale of rural property
+.—
+If the real property is not located in a city or town, the judgment debtor may—
+(I)
+ divide the property into lots of not less than 50 acres or in such greater or lesser amounts as ordered by the court;
+
+
+
+
+(II)
+ furnish a survey of such prepared by a registered surveyor; and
+
+
+
+
+(III)
+ designate the order in which those lots shall be sold.
+
+
+
+
+
+
+
+ When a sufficient number of lots are sold to satisfy the amount of the execution and costs of sale, the marshal shall stop the sale.
+
+
+
+
+(B)
+ 
+Sale of personal property
+.—
+(i)
+ Personal property levied on shall be offered for sale on the premises where it is located at the time of levy, at the courthouse of the county, parish or city wherein it is located, or at another location if ordered by the court. Personal property susceptible of being exhibited shall not be sold unless it is present and subject to the view of those attending the sale unless—
+(I)
+ the property consists of shares of stock in corporations;
+
+
+
+
+(II)
+ by reason of the nature of the property, it is impractical to exhibit it; or
+
+
+
+
+(III)
+ the debtor’s interest in the property does not include the right to the exclusive possession.
+
+
+
+
+
+
+(ii)
+(I)
+ Except as provided in subclause (II), personal property, or any interest therein, shall be sold after the expiration of the 30-day period beginning on the date of levy under subsection (d).
+
+
+
+
+(II)
+ The court may order the sale of any personal property before the expiration of such 30-day period if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during such 30-day period.
+
+
+
+
+
+
+(iii)
+ Notice of the time and place of the sale of personal property shall be given by the United States marshal by posting notice thereof for not less than 10 days successively immediately before the day of sale at the courthouse of any county, parish, or city, and at the place where the sale is to be made.
+
+
+
+
+(iv)
+ The United States marshal shall serve written notice of public sale by personal delivery, or registered or certified mail at their last known addresses, on the judgment debtor and other persons who the marshal has reasonable cause to believe, after diligent inquiry, have a substantial interest in the property.
+
+
+
+
+
+
+
+
+(2)
+ 
+Postponement of sale
+.—
+The United States marshal may postpone an execution sale from time to time by continuing the required posting or publication of notice until the date to which the sale is postponed, and appending, at the foot of each such notice of a current copy of the following:
+“The above sale is postponed until the        day of          , 19  , at    o’clock   .M.,            , United States Marshal for the District of            , by                , Deputy, dated            .”
+
+
+
+
+
+
+(3)
+ Sale procedures.—
+(A)
+ 
+Bidding requirements
+.—
+A bidder at an execution sale of property, may be required by the United States marshal to make a cash deposit of as much as 20 percent of the sale price proposed before the bid is accepted.
+
+
+
+
+(B)
+ 
+Resale of property
+.—
+If the terms of the sale are not complied with by the successful bidder, the United States marshal shall proceed to sell the property again on the same day if there is sufficient time. If there is insufficient time, the marshal shall schedule and notice a subsequent sale of the property as provided in paragraphs (1) and (2).
+
+
+
+
+
+
+(4)
+ Rights and liabilities of purchasers.—
+(A)
+ Transfer of title after sale.—
+(i)
+ If property is sold under this subsection and the successful bidder complies with the terms of the sale, the United States marshal shall execute and deliver all documents necessary to transfer to the successful bidder, without warranty, all the rights, titles, interests, and claims of the judgment debtor in the property.
+
+
+
+
+(ii)
+ If the successful bidder dies before execution and delivery of the documents needed to transfer ownership, the United States marshal shall execute and deliver them to the successful bidder’s estate. Such delivery to the estate shall have the same effect as if accomplished during the lifetime of the purchaser.
+
+
+
+
+
+
+(B)
+ 
+Purchaser considered innocent purchaser without notice
+.—
+The purchaser of property sold under execution shall be deemed to be an innocent purchaser without notice if the purchaser would have been considered an innocent purchaser without notice had the sale been made voluntarily and in person by the judgment debtor.
+
+
+
+
+(C)
+ 
+Liability of successful bidder who fails to comply
+.—
+A successful bidder at an execution sale who fails to comply with the terms of the sale shall forfeit to the United States the cash deposit or, at the election of the United States, shall be liable to the United States, on a subsequent sale of the property, for all net losses incurred by the United States as a result of such failure.
+
+
+
+
+
+
+(h)
+ Disposition of Proceeds; Further Levy.—
+(1)
+ 
+Distribution of sale proceeds
+.—
+(A)
+ The United States marshal shall first deliver to the judgment debtor such amounts to which the judgment debtor is entitled from the sale of partially exempt property.
+
+
+
+
+(B)
+ The United States marshal shall next deduct from the proceeds of an execution sale of property an amount equal to the reasonable expenses incurred in making the levy of execution and in keeping and maintaining the property.
+
+
+
+
+(C)
+ Except as provided in subparagraph (D), the United States marshal shall deliver the balance of the proceeds to the counsel for the United States as soon as practicable.
+
+
+
+
+(D)
+ If more proceeds are received from the execution sale than is necessary to satisfy the executions held by the United States marshal, the marshal shall pay the surplus to the judgment debtor.
+
+
+
+
+
+
+(2)
+ 
+Further levy if execution not satisfied
+.—
+If the proceeds of the execution sale of the property levied on are insufficient to satisfy the execution, the United States marshal shall proceed on the same writ of execution to levy other property of the judgment debtor.
+
+
+
+
+ Installment payment order
+(a)
+ 
+Authority To Issue Order
+.—
+Subject to subsection (c), if it is shown that the judgment debtor—
+(1)
+ is receiving or will receive substantial nonexempt disposable earnings from self employment that are not subject to garnishment; or
+
+
+
+
+(2)
+ is diverting or concealing substantial earnings from any source, or property received in lieu of earnings;
+
+
+
+
+
+then upon motion of the United States and notice to the judgment debtor, the court may, if appropriate, order that the judgment debtor make specified installment payments to the United States. Notice of the motion shall be served on the judgment debtor in the same manner as a summons or by registered or certified mail, return receipt requested. In fixing the amount of the payments, the court shall take into consideration after a hearing, the income, resources, and reasonable requirements of the judgment debtor and the judgment debtor’s dependents, any other payments to be made in satisfaction of judgments against the judgment debtor, and the amount due on the judgment in favor of the United States.
+
+
+(b)
+ 
+Modification of Order
+.—
+On motion of the United States or the judgment debtor, and upon a showing that the judgment debtor’s financial circumstances have changed or that assets not previously disclosed by the judgment debtor have been discovered, the court may modify the amount of payments, alter their frequency, or require full payment.
+
+
+(c)
+ 
+Limitation
+.—
+(1)
+ An order may not be issued under subsection (a), and if so issued shall have no force or effect, against a judgment debtor with respect to whom there is in effect a writ of garnishment of earnings issued under this chapter and based on the same debt.
+
+
+
+
+(2)
+ An order may not be issued under subsection (a) with respect to any earnings of the debtor except nonexempt disposable earnings.
+
+
+
+
+ Garnishment
+(a)
+ 
+In General
+.—
+A court may issue a writ of garnishment against property (including nonexempt disposable earnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor, in order to satisfy the judgment against the debtor. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in subsection (c)(10).
+
+
+(b)
+ Writ.—
+(1)
+ 
+General requirements
+.—
+The United States shall include in its application for a writ of garnishment—
+(A)
+ the judgment debtor’s name, social security number (if known), and last known address;
+
+
+
+
+(B)
+ the nature and amount of the debt owed and the facts that not less than 30 days has elapsed since demand on the debtor for payment of the debt was made and the judgment debtor has not paid the amount due; and
+
+
+
+
+(C)
+ that the garnishee is believed to have possession of property (including nonexempt disposable earnings) in which the debtor has a substantial nonexempt interest.
+
+
+
+
+
+
+(2)
+ Proper garnishee for particular property.—
+(A)
+ If the property consists of a right to or share in the stock of an association or corporation, or interests or profits therein, for which a certificate of stock or other negotiable instrument is not outstanding, the corporation, or the president or treasurer of the association shall be the garnishee.
+
+
+
+
+(B)
+ If the property consists of an interest in a partnership interest, any partner other than the debtor shall be the garnishee on behalf of the partnership.
+
+
+
+
+(C)
+ If the property or a debt is evidenced by a negotiable instrument for the payment of money, a negotiable document of title or a certificate of stock of an association or corporation, the instrument, document, or certificate shall be treated as property capable of delivery and the person holding it shall be the garnishee, except that—
+(i)
+ subject to clause (ii), in the case of a security which is transferable in the manner set forth in State law, the entity that carries on its books an account in the name of the debtor in which is reflected such security shall be the garnishee; and
+
+
+
+
+(ii)
+ notwithstanding clause (i), the pledgee shall be the garnishee if such security is pledged.
+
+
+
+
+
+
+
+
+(c)
+ Procedures Applicable to Writ.—
+(1)
+ 
+Court determination
+.—
+If the court determines that the requirements of this section are satisfied, the court shall issue an appropriate writ of garnishment.
+
+
+
+
+(2)
+ 
+Form of writ
+.—
+The writ shall state—
+(A)
+ The nature and amount of the debt, and any cost and interest owed with respect to the debt.
+
+
+
+
+(B)
+ The name and address of the garnishee.
+
+
+
+
+(C)
+ The name and address of counsel for the United States.
+
+
+
+
+(D)
+ The last known address of the judgment debtor.
+
+
+
+
+(E)
+ That the garnishee shall answer the writ within 10 days of service of the writ.
+
+
+
+
+(F)
+ That the garnishee shall withhold and retain any property in which the debtor has a substantial nonexempt interest and for which the garnishee is or may become indebted to the judgment debtor pending further order of the court.
+
+
+
+
+
+
+(3)
+ 
+Service of writ
+.—
+The United States shall serve the garnishee and the judgment debtor with a copy of the writ of garnishment and shall certify to the court that this service was made. The writ shall be accompanied by—
+(A)
+ an instruction explaining the requirement that the garnishee submit a written answer to the writ; and
+
+
+
+
+(B)
+ instructions to the judgment debtor for objecting to the answer of the garnishee and for obtaining a hearing on the objections.
+
+
+
+
+
+
+(4)
+ 
+Answer of the garnishee
+.—
+In its written answer to the writ of garnishment, the garnishee shall state under oath—
+(A)
+ whether the garnishee has custody, control or possession of such property;
+
+
+
+
+(B)
+ a description of such property and the value of such interest;
+
+
+
+
+(C)
+ a description of any previous garnishments to which such property is subject and the extent to which any remaining property is not exempt; and
+
+
+
+
+(D)
+ the amount of the debt the garnishee anticipates owing to the judgment debtor in the future and whether the period for payment will be weekly or another specified period.
+
+
+
+
+
+The garnishee shall file the original answer with the court issuing the writ and serve a copy on the debtor and counsel for the United States.
+
+
+
+
+(5)
+ 
+Objections to answer
+.—
+Within 20 days after receipt of the answer, the judgment debtor or the United States may file a written objection to the answer and request a hearing. The party objecting shall state the grounds for the objection and bear the burden of proving such grounds. A copy of the objection and request for a hearing shall be served on the garnishee and all other parties. The court shall hold a hearing within 10 days after the date the request is received by the court, or as soon thereafter as is practicable, and give notice of the hearing date to all the parties.
+
+
+
+
+(6)
+ 
+Garnishee’s failure to answer or pay
+.—
+If a garnishee fails to answer the writ of garnishment or to withhold property in accordance with the writ, the United States may petition the court for an order requiring the garnishee to appear before the court to answer the writ and to so withhold property before the appearance date. If the garnishee fails to appear, or appears and fails to show good cause why the garnishee failed to comply with the writ, the court shall enter judgment against the garnishee for the value of the judgment debtor’s nonexempt interest in such property (including nonexempt disposable earnings). The court may award a reasonable attorney’s fee to the United States and against the garnishee if the writ is not answered within the time specified therein and a petition requiring the garnishee to appear is filed as provided in this section.
+
+
+
+
+(7)
+ 
+Disposition order
+.—
+After the garnishee files an answer and if no hearing is requested within the required time period, the court shall promptly enter an order directing the garnishee as to the disposition of the judgment debtor’s nonexempt interest in such property. If a hearing is timely requested, the order shall be entered within 5 days after the hearing, or as soon thereafter as is practicable.
+
+
+
+
+(8)
+ 
+Priorities
+.—
+Judicial orders and garnishments for the support of a person shall have priority over a writ of garnishment issued under this section. As to any other writ of garnishment or levy, a garnishment issued under this section shall have priority over writs which are issued later in time.
+
+
+
+
+(9)
+ 
+Accounting
+.—
+(A)
+ While a writ of garnishment is in effect under this section, the United States shall give an annual accounting on the garnishment to the judgment debtor and the garnishee.
+
+
+
+
+(B)
+ Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 days after such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
+
+
+
+
+
+
+(10)
+ 
+Termination of garnishment
+.—
+A garnishment under this chapter is terminated only by—
+(A)
+ a court order quashing the writ of garnishment;
+
+
+
+
+(B)
+ exhaustion of property in the possesion,
+1
+1
+ So in original. Probably should be “possession,”.
+ custody, or control of the garnishee in which the debtor has a substantial nonexempt interest (including nonexempt disposable earnings), unless the garnishee reinstates or reemploys the judgment debtor within 90 days after the judgment debtor’s dismissal or resignation; or
+
+
+
+
+(C)
+ satisfaction of the debt with respect to which the writ is issued.
+
+
+
+
+
+
+ Discharge
+A person who pursuant to an execution or order issued under this chapter by a court pays or delivers to the United States, a United States marshal, or a receiver, money or other personal property in which a judgment debtor has or will have an interest, or so pays a debt such person owes the judgment debtor, is discharged from such debt to the judgment debtor to the extent of the payment or delivery.
+ Definitions
+ Insolvency
+(a)
+ 
+In General
+.—
+Except as provided in subsection (c), a debtor is insolvent if the sum of the debtor’s debts is greater than all of the debtor’s assets at a fair valuation.
+
+
+(b)
+ 
+Presumption
+.—
+A debtor who is generally not paying debts as they become due is presumed to be insolvent.
+
+
+(c)
+ 
+Calculation
+.—
+A partnership is insolvent under subsection (a) if the sum of the partnership’s debts is greater than the aggregate, at a fair valuation, of—
+(1)
+ all of the partnership’s assets; and
+
+
+
+
+(2)
+ the sum of the excess of the value of each general partner’s non-partnership assets over the partner’s non-partnership debts.
+
+
+
+
+(d)
+ 
+Assets
+.—
+For purposes of this section, assets do not include property that is transferred, concealed, or removed with intent to hinder, delay, or defraud creditors or that has been transferred in a manner making the transfer voidable under this subchapter.
+
+
+(e)
+ 
+Debts
+.—
+For purposes of this section, debts do not include an obligation to the extent such obligation is secured by a valid lien on property of the debtor not included as an asset.
+
+
+ Value for transfer or obligation
+(a)
+ 
+Transaction
+.—
+Value is given for a transfer or an obligation if, in exchange for the transfer or obligation, property is transferred or an antecedent debt is secured or satisfied, but value does not include an unperformed promise made otherwise than in the ordinary course of the promisor’s business to furnish support to the debtor or another person.
+
+
+(b)
+ 
+Reasonably Equivalent Value
+.—
+For the purposes of sections 3304 and 3307, a person gives a reasonably equivalent value if the person acquires an interest of the debtor in an asset pursuant to a regularly conducted, noncollusive foreclosure sale or execution of a power of sale for the acquisition or disposition of such interest upon default under a mortgage, deed of trust, or security agreement.
+
+
+(c)
+ 
+Present Value
+.—
+A transfer is made for present value if the exchange between the debtor and the transferee is intended by them to be contemporaneous and is in fact substantially contemporaneous.
+
+
+ Transfer fraudulent as to a debt to the United States
+(a)
+ 
+Debt Arising Before Transfer
+.—
+Except as provided in section 3307, a transfer made or obligation incurred by a debtor is fraudulent as to a debt to the United States which arises before the transfer is made or the obligation is incurred if—
+(1)
+(A)
+ the debtor makes the transfer or incurs the obligation without receiving a reasonably equivalent value in exchange for the transfer or obligation; and
+
+
+
+
+(B)
+ the debtor is insolvent at that time or the debtor becomes insolvent as a result of the transfer or obligation; or
+
+
+
+
+
+
+(2)
+(A)
+ the transfer was made to an insider for an antecedent debt, the debtor was insolvent at the time; and
+
+
+
+
+(B)
+ the insider had reasonable cause to believe that the debtor was insolvent.
+
+
+
+
+
+
+(b)
+ 
+Transfers Without Regard to Date of Judgment
+.—
+(1)
+ Except as provided in section 3307, a transfer made or obligation incurred by a debtor is fraudulent as to a debt to the United States, whether such debt arises before or after the transfer is made or the obligation is incurred, if the debtor makes the transfer or incurs the obligation—
+(A)
+ with actual intent to hinder, delay, or defraud a creditor; or
+
+
+
+
+(B)
+ without receiving a reasonably equivalent value in exchange for the transfer or obligation if the debtor—
+(i)
+ was engaged or was about to engage in a business or a transaction for which the remaining assets of the debtor were unreasonably small in relation to the business or transaction; or
+
+
+
+
+(ii)
+ intended to incur, or believed or reasonably should have believed that he would incur, debts beyond his ability to pay as they became due.
+
+
+
+
+
+
+
+
+(2)
+ In determining actual intent under paragraph (1), consideration may be given, among other factors, to whether—
+(A)
+ the transfer or obligation was to an insider;
+
+
+
+
+(B)
+ the debtor retained possession or control of the property transferred after the transfer;
+
+
+
+
+(C)
+ the transfer or obligation was disclosed or concealed;
+
+
+
+
+(D)
+ before the transfer was made or obligation was incurred, the debtor had been sued or threatened with suit;
+
+
+
+
+(E)
+ the transfer was of substantially all the debtor’s assets;
+
+
+
+
+(F)
+ the debtor absconded;
+
+
+
+
+(G)
+ the debtor removed or concealed assets;
+
+
+
+
+(H)
+ the value of the consideration received by the debtor was reasonably equivalent to the value of the asset transferred or the amount of the obligation incurred;
+
+
+
+
+(I)
+ the debtor was insolvent or became insolvent shortly after the transfer was made or the obligation was incurred;
+
+
+
+
+(J)
+ the transfer occurred shortly before or shortly after a substantial debt was incurred; and
+
+
+
+
+(K)
+ the debtor transferred the essential assets of the business to a lienor who transferred the assets to an insider of the debtor.
+
+
+
+
+
+
+ When transfer is made or obligation is incurred
+ Remedies of the United States
+(a)
+ 
+In General
+.—
+In an action or proceeding under this subchapter for relief against a transfer or obligation, the United States, subject to section 3307 and to applicable principles of equity and in accordance with the Federal Rules of Civil Procedure, may obtain—
+(1)
+ avoidance of the transfer or obligation to the extent necessary to satisfy the debt to the United States;
+
+
+
+
+(2)
+ a remedy under this chapter against the asset transferred or other property of the transferee; or
+
+
+
+
+(3)
+ any other relief the circumstances may require.
+
+
+
+
+(b)
+ 
+Limitation
+.—
+A claim for relief with respect to a fraudulent transfer or obligation under this subchapter is extinguished unless action is brought—
+(1)
+ under section 3304(b)(1)(A) within 6 years after the transfer was made or the obligation was incurred or, if later, within 2 years after the transfer or obligation was or could reasonably have been discovered by the claimant;
+
+
+
+
+(2)
+ under subsection (a)(1) or (b)(1)(B) of section 3304 within 6 years after the transfer was made or the obligation was incurred; or
+
+
+
+
+(3)
+ under section 3304(a)(2) within 2 years after the transfer was made or the obligation was incurred.
+
+
+
+
+ Defenses, liability, and protection of trans­feree
+(a)
+ 
+Good Faith Transfer
+.—
+A transfer or obligation is not voidable under section 3304(b) with respect to a person who took in good faith and for a reasonably equivalent value or against any transferee or obligee subsequent to such person.
+
+
+(b)
+ 
+Limitation
+.—
+Except as provided in subsection (d), to the extent a transfer is voidable in an action or proceeding by the United States under section 3306(a)(1), the United States may recover judgment for the value of the asset transferred, but not to exceed the judgment on a debt. The judgment may be entered against—
+(1)
+ the first transferee of the asset or the person for whose benefit the transfer was made; or
+
+
+
+
+(2)
+ any subsequent transferee, other than a good faith transferee who took for value or any subsequent transferee of such good-faith transferee.
+
+
+
+
+(c)
+ 
+Value of Asset
+.—
+For purposes of subsection (b), the value of the asset is the value of the asset at the time of the transfer, subject to adjustment as the equities may require.
+
+
+(d)
+ 
+Rights of Good Faith Transferees and Obligees
+.—
+Notwithstanding voidability of a transfer or an obligation under this subchapter, a good-faith transferee or obligee is entitled, to the extent of the value given the debtor for the transfer or obligation, to—
+(1)
+ a lien on or a right to retain any interest in the asset transferred;
+
+
+
+
+(2)
+ enforcement of any obligation incurred; or
+
+
+
+
+(3)
+ a reduction in the amount of the liability on the judgment.
+
+
+
+
+(e)
+ 
+Exceptions
+.—
+A transfer is not voidable under section 3304(a) or section 3304(b)(2) if the transfer results from—
+(1)
+ termination of a lease upon default by the debtor when the termination is pursuant to the lease and applicable law; or
+
+
+
+
+(2)
+ enforcement of a security interest in compliance with article 9 of the Uniform Commercial Code or its equivalent in effect in the State where the property is located.
+
+
+
+
+(f)
+ 
+Limitation of Voidability
+.—
+A transfer is not voidable under section 3304(a)(2)—
+(1)
+ to the extent the insider gives new value to or for the benefit of the debtor after the transfer is made unless the new value is secured by a valid lien;
+
+
+
+
+(2)
+ if made in the ordinary course of business or financial affairs of the debtor and the insider; or
+
+
+
+
+(3)
+ if made pursuant to a good-faith effort to rehabilitate the debtor and the transfer secured both present value given for that purpose and an antecedent debt of the debtor.
+
+
+
+
+ Supplementary provision
+Except as provided in this subchapter, the principles of law and equity, including the law merchant and the law relating to principal and agent, estoppel, laches, fraud, misrepresentation, duress, coercion, mistake, insolvency, or other validating or invalidating cause shall apply to actions and proceedings under this subchapter.

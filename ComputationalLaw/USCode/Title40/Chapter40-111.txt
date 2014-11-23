@@ -1,0 +1,107 @@
+
+Chapter 111
+GENERAL
+ Definitions
+ Sense of Congress
+ Applicability to national security systems
+(a)
+ Definition.—
+(1)
+ 
+National security system
+.—
+In this section, the term “national security system” means a telecommunications or information system operated by the Federal Government, the function, operation, or use of which—
+(A)
+ involves intelligence activities;
+
+
+
+
+(B)
+ involves cryptologic activities related to national security;
+
+
+
+
+(C)
+ involves command and control of military forces;
+
+
+
+
+(D)
+ involves equipment that is an integral part of a weapon or weapons system; or
+
+
+
+
+(E)
+ subject to paragraph (2), is critical to the direct fulfillment of military or intelligence missions.
+
+
+
+
+
+
+(2)
+ 
+Limitation
+.—
+Paragraph (1)(E) does not include a system to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
+
+
+
+
+(b)
+ 
+In General
+.—
+Except as provided in subsection (c), chapter 113 of this title does not apply to national security systems.
+
+
+(c)
+ Exceptions.—
+(1)
+ 
+In general
+.—
+Sections 11313, 11315, and 11316 of this title apply to national security systems.
+
+
+
+
+(2)
+ 
+Capital planning and investment control
+.—
+The heads of executive agencies shall apply sections 11302 and 11312 of this title to national security systems to the extent practicable.
+
+
+
+
+(3)
+ Applicability of performance-based and results-based management to national security systems.—
+(A)
+ 
+In general
+.—
+Subject to subparagraph (B), the heads of executive agencies shall apply 
+section 11303 of this title
+ to national security systems to the extent practicable.
+
+
+
+
+(B)
+ 
+Exception
+.—
+National security systems are subject to 
+section 11303(b)(5) of this title
+, except for subparagraph (B)(iv).
+
+
+
+
+
+

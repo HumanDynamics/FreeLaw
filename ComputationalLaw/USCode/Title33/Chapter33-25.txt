@@ -1,0 +1,921 @@
+
+Chapter 25
+PORTS AND WATERWAYS SAFETY PROGRAM
+ Statement of policy
+(a)
+ that navigation and vessel safety, protection of the marine environment, and safety and security of United States ports and waterways are matters of major national importance;
+
+
+(b)
+ that increased vessel traffic in the Nation’s ports and waterways creates substantial hazard to life, property, and the marine environment;
+
+
+(c)
+ that increased supervision of vessel and port operations is necessary in order to—
+(1)
+ reduce the possibility of vessel or cargo loss, or damage to life, property, or the marine environment;
+
+
+
+
+(2)
+ prevent damage to structures in, on, or immediately adjacent to the navigable waters of the United States or the resources within such waters;
+
+
+
+
+(3)
+ insure that vessels operating in the navigable waters of the United States shall comply with all applicable standards and requirements for vessel construction, equipment, manning, and operational procedures; and
+
+
+
+
+(4)
+ insure that the handling of dangerous articles and substances on the structures in, on, or immediately adjacent to the navigable waters of the United States is conducted in accordance with established standards and requirements; and
+
+
+
+
+(d)
+ that advance planning is critical in determining proper and adequate protective measures for the Nation’s ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
+
+
+ Definitions
+ Vessel operating requirements
+(a)
+ In general
+Subject to the requirements of 
+section 1224 of this title
+, the Secretary—
+(1)
+ in any port or place under the jurisdiction of the United States, in the navigable waters of the United States, or in any area covered by an international agreement negotiated pursuant to 
+section 1230 of this title
+, may construct, operate, maintain, improve, or expand vessel traffic services, consisting of measures for controlling or supervising vessel traffic or for protecting navigation and the marine environment and may include, but need not be limited to one or more of the following: reporting and operating requirements, surveillance and communications systems, routing systems, and fairways;
+
+
+
+
+(2)
+ shall require appropriate vessels which operate in an area of a vessel traffic service to utilize or comply with that service;
+
+
+
+
+(3)
+ may require vessels to install and use specified navigation equipment, communications equipment, electronic relative motion analyzer equipment, or any electronic or other device necessary to comply with a vessel traffic service or which is necessary in the interests of vessel safety: 
+Provided
+, That the Secretary shall not require fishing vessels under 300 gross tons as measured under 
+section 14502 of title 46
+, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title or recreational vessels 65 feet or less to possess or use the equipment or devices required by this subsection solely under the authority of this chapter;
+
+
+
+
+(4)
+ may control vessel traffic in areas subject to the jurisdiction of the United States which the Secretary determines to be hazardous, or under conditions of reduced visibility, adverse weather, vessel congestion, or other hazardous circumstances by—
+(A)
+ specifying times of entry, movement, or departure;
+
+
+
+
+(B)
+ establishing vessel traffic routing schemes;
+
+
+
+
+(C)
+ establishing vessel size, speed, draft limitations and vessel operating conditions; and
+
+
+
+
+(D)
+ restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances;
+
+
+
+
+
+
+(5)
+ may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment; and
+
+
+
+
+(6)
+ may prohibit the use on vessels of electronic or other devices that interfere with communication and navigation equipment, except that such authority shall not apply to electronic or other devices certified to transmit in the maritime services by the Federal Communications Commission and used within the frequency bands 157.1875–157.4375 MHz and 161.7875–162.0375 MHz.
+
+
+
+
+(b)
+ Special powers
+The Secretary may order any vessel, in a port or place subject to the jurisdiction of the United States or in the navigable waters of the United States, to operate or anchor in a manner he directs if—
+(1)
+ he has reasonable cause to believe such vessel does not comply with any regulation issued under this chapter or any other applicable law or treaty;
+
+
+
+
+(2)
+ he determines that such vessel does not satisfy the conditions for port entry set forth in 
+section 1228 of this title
+; or
+
+
+
+
+(3)
+ by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, he is satisfied that such directive is justified in the interest of safety.
+
+
+
+
+(c)
+ Port access routes
+(1)
+ In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in the territorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
+
+
+
+
+(2)
+ No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: 
+Provided
+, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: 
+Provided further
+, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
+
+
+
+
+(3)
+ Prior to making a designation pursuant to paragraph (1) hereof, and in accordance with the requirements of 
+section 1224 of this title
+, the Secretary shall—
+(A)
+ within six months after date of enactment of this Act (and may, from time to time thereafter), undertake a study of the potential traffic density and the need for safe access routes for vessels in any area for which fairways or traffic separation schemes are proposed or which may otherwise be considered and shall publish notice of such undertaking in the Federal Register;
+
+
+
+
+(B)
+ in consultation with the Secretary of State, the Secretary of the Interior, the Secretary of Commerce, the Secretary of the Army, and the Governors of affected States, as their responsibilities may require, take into account all other uses of the area under consideration (including, as appropriate, the exploration for, or exploitation of, oil, gas, or other mineral resources, the construction or operation of deepwater ports or other structures on or above the seabed or subsoil of the submerged lands or the Outer Continental Shelf of the United States, the establishment or operation of marine or estuarine sanctuaries, and activities involving recreational or commercial fishing); and
+
+
+
+
+(C)
+ to the extent practicable, reconcile the need for safe access routes with the needs of all other reasonable uses of the area involved.
+
+
+
+
+
+
+(4)
+ In carrying out his responsibilities under paragraph (3), the Secretary shall proceed expeditiously to complete any study undertaken. Thereafter, he shall promptly issue a notice of proposed rule-making for the designation contemplated or shall have published in the Federal Register a notice that no designation is contemplated as a result of the study and the reason for such determination.
+
+
+
+
+(5)
+ In connection with a designation made pursuant to this subsection, the Secretary—
+(A)
+ shall issue reasonable rules and regulations governing the use of such designated areas, including the applicability of rules 9 and 10 of the International Regulations for Preventing Collisions at Sea, 1972, relating to narrow channels and traffic separation schemes, respectively, in waters where such regulations apply;
+
+
+
+
+(B)
+ to the extent that he finds reasonable and necessary to effectuate the purposes of the designation, make the use of designated fairways and traffic separation schemes mandatory for specific types and sizes of vessels, foreign and domestic, operating in the territorial sea of the United States and for specific types and sizes of vessels of the United States operating on the high seas beyond the territorial sea of the United States;
+
+
+
+
+(C)
+ may, from time to time, as necessary, adjust the location or limits of designated fairways or traffic separation schemes, in order to accommodate the needs of other uses which cannot be reasonably accommodated otherwise: 
+Provided
+, That such an adjustment will not, in the judgement of the Secretary, unacceptably adversely affect the purpose for which the existing designation was made and the need for which continues; and
+
+
+
+
+(D)
+ shall, through appropriate channels, (i) notify cognizant international organizations of any designation, or adjustment thereof, and (ii) take action to seek the cooperation of foreign States in making it mandatory for vessels under their control to use any fairway or traffic separation scheme designated pursuant to this subsection in any area of the high seas, to the same extent as required by the Secretary for vessels of the United States.
+
+
+
+
+
+
+(d)
+ Exception
+Except pursuant to international treaty, convention, or agreement, to which the United States is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
+(1)
+ innocent passage through the territorial sea of the United States, or
+
+
+
+
+(2)
+ transit through the navigable waters of the United States which form a part of an international strait.
+
+
+
+
+(e)
+ Cooperative agreements
+(1)
+ The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1) of this section.
+
+
+
+
+(2)
+ A nongovernmental entity may not under this subsection carry out an inherently governmental function.
+
+
+
+
+(3)
+ As used in this paragraph, the term “inherently governmental function” means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.
+
+
+
+
+“(a)
+ 
+Notice of Arrival
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Oct. 13, 2006
+], the Secretary of the department in which the Coast Guard is operating shall update and finalize the rulemaking on notice of arrival for foreign vessels on the Outer Continental Shelf.
+
+
+“(b)
+ 
+Content of Regulations
+.—
+The regulations promulgated pursuant to subsection (a) shall be consistent with information required under the Notice of Arrival under section 160.206 of title 33, Code of Federal Regulations, as in effect on the date of the enactment of this Act [
+Oct. 13, 2006
+].”
+
+
+ Electronic charts
+(a)
+ System requirements
+(1)
+ Requirements
+Subject to paragraph (2), the following vessels, while operating on the navigable waters of the United States, shall be equipped with and operate electronic charts under regulations prescribed by the Secretary of the department in which the Coast Guard is operating:
+(A)
+ A self-propelled commercial vessel of at least 65 feet overall length.
+
+
+
+
+(B)
+ A vessel carrying more than a number of passengers for hire determined by the Secretary.
+
+
+
+
+(C)
+ A towing vessel of more than 26 feet in overall length and 600 horsepower.
+
+
+
+
+(D)
+ Any other vessel for which the Secretary decides that electronic charts are necessary for the safe navigation of the vessel.
+
+
+
+
+
+
+(2)
+ Exemptions and waivers
+The Secretary may—
+(A)
+ exempt a vessel from paragraph (1), if the Secretary finds that electronic charts are not necessary for the safe navigation of the vessel on the waters on which the vessel operates; and
+
+
+
+
+(B)
+ waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary, if the Secretary finds that electronic charts are not needed for safe navigation on those waters.
+
+
+
+
+
+
+(b)
+ Regulations
+The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) of this section before 
+January 1, 2007
+, including requirements for the operation and maintenance of the electronic charts required under subsection (a) of this section.
+
+
+
+
+ Considerations by Secretary
+(a)
+ take into account all relevant factors concerning navigation and vessel safety, protection of the marine environment, and the safety and security of United States ports and waterways, including but not limited to—
+(1)
+ the scope and degree of the risk or hazard involved;
+
+
+
+
+(2)
+ vessel traffic characteristics and trends, including traffic volume, the sizes and types of vessels involved, potential interference with the flow of commercial traffic, the presence of any unusual cargoes, and other similar factors;
+
+
+
+
+(3)
+ port and waterway configurations and variations in local conditions of geography, climate, and other similar factors;
+
+
+
+
+(4)
+ the need for granting exemptions for the installation and use of equipment or devices for use with vessel traffic services for certain classes of small vessels, such as self-propelled fishing vessels and recreational vessels;
+
+
+
+
+(5)
+ the proximity of fishing grounds, oil and gas drilling and production operations, or any other potential or actual conflicting activity;
+
+
+
+
+(6)
+ environmental factors;
+
+
+
+
+(7)
+ economic impact and effects;
+
+
+
+
+(8)
+ existing vessel traffic services; and
+
+
+
+
+(9)
+ local practices and customs, including voluntary arrangements and agreements within the maritime community; and
+
+
+
+
+(b)
+ at the earliest possible time, consult with and receive and consider the views of representatives of the maritime community, ports and harbor authorities or associations, environmental groups, and other parties who may be affected by the proposed actions.
+
+
+ Waterfront safety
+(a)
+ In general
+The Secretary may take such action as is necessary to—
+(1)
+ prevent damage to, or the destruction of, any bridge or other structure on or in the navigable waters of the United States, or any land structure or shore area immediately adjacent to such waters; and
+
+
+
+
+(2)
+ protect the navigable waters and the resources therein from harm resulting from vessel or structure damage, destruction, or loss. Such action may include, but need not be limited to—
+(A)
+ establishing procedures, measures, and standards for the handling, loading, unloading, storage, stowage, and movement on the structure (including the emergency removal, control, and disposition) of explosives or other dangerous articles and substances, including oil or hazardous material as those terms are defined in 
+section 2101 of title 46
+;
+
+
+
+
+(B)
+ prescribing minimum safety equipment requirements for the structure to assure adequate protection from fire, explosion, natural disaster, and other serious accidents or casualties;
+
+
+
+
+(C)
+ establishing water or waterfront safety zones, or other measures for limited, controlled, or conditional access and activity when necessary for the protection of any vessel, structure, waters, or shore area; and
+
+
+
+
+(D)
+ establishing procedures for examination to assure compliance with the requirements prescribed under this section.
+
+
+
+
+
+
+(b)
+ State law
+Nothing contained in this section, with respect to structures, prohibits a State or political subdivision thereof from prescribing higher safety equipment requirements or safety standards than those which may be prescribed by regulations hereunder.
+
+
+
+
+ Port, harbor, and coastal facility security
+(a)
+ General authority
+The Secretary may take actions described in subsection (b) of this section to prevent or respond to an act of terrorism against—
+(1)
+ an individual, vessel, or public or commercial structure, that is—
+(A)
+ subject to the jurisdiction of the United States; and
+
+
+
+
+(B)
+ located within or adjacent to the marine environment; or
+
+
+
+
+
+
+(2)
+ a vessel of the United States or an individual on board that vessel.
+
+
+
+
+(b)
+ Specific authority
+Under subsection (a) of this section, the Secretary may—
+(1)
+ carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
+
+
+
+
+(2)
+ recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
+
+
+
+
+(3)
+ dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in 
+section 70101 of title 46
+.
+
+
+
+
+(c)
+ Nondisclosure of port security plans
+Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
+
+
+
+
+ Investigatory powers
+(a)
+ Secretary
+The Secretary may investigate any incident, accident, or act involving the loss or destruction of, or damage to any structure subject to this chapter, or which affects or may affect the safety or environmental quality of the ports, harbors, or navigable waters of the United States.
+
+
+
+
+(b)
+ Powers
+In an investigation under this section, the Secretary may issue subpenas to require the attendance of witnesses and the production of documents or other evidence relating to such incident, accident, or act. If any person refuses to obey a subpena, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance with the subpena. Any district court of the United States may, in the case of refusal to obey a subpena, issue an order requiring compliance with the subpena, and failure to obey the order may be punished by the court as contempt. Witnesses may be paid fees for travel and attendance at rates not exceeding those allowed in a district court of the United States.
+
+
+
+
+ Conditions for entry to ports in the United States
+(a)
+ In general
+No vessel, subject to the provisions of chapter 37 of title 46, shall operate in the navigable waters of the United States or transfer cargo or residue in any port or place under the jurisdiction of the United States, if such vessel—
+(1)
+ has a history of accidents, pollution incidents, or serious repair problems which, as determined by the Secretary, creates reason to believe that such vessel may be unsafe or may create a threat to the marine environment; or
+
+
+
+
+(2)
+ fails to comply with any applicable regulation issued under this chapter, chapter 37 of title 46, or under any other applicable law or treaty; or
+
+
+
+
+(3)
+ discharges oil or hazardous material in violation of any law of the United States or in a manner or quantities inconsistent with the provisions of any treaty to which the United States is a party; or
+
+
+
+
+(4)
+ does not comply with any applicable vessel traffic service requirements; or
+
+
+
+
+(5)
+ is manned by one or more officers who are licensed by a certificating state which the Secretary has determined, pursuant to 
+section 9101 of title 46
+, does not have standards for licensing and certification of seafarers which are comparable to or more stringent than United States standards or international standards which are accepted by the United States; or
+
+
+
+
+(6)
+ is not manned in compliance with manning levels as determined by the Secretary to be necessary to insure the safe navigation of the vessel; or
+
+
+
+
+(7)
+ while underway, does not have at least one licensed deck officer on the navigation bridge who is capable of clearly understanding English.
+
+
+
+
+(b)
+ Exceptions
+The Secretary may allow provisional entry of a vessel not in compliance with subsection (a) of this section, if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard. In addition, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation or condition, as appropriate. Clauses (5) and (6) of subsection (a) of this section shall become applicable eighteen months after 
+October 17, 1978
+.
+
+
+
+
+ Applicability
+This chapter shall not apply to the Panama Canal. The authority granted to the Secretary under sections 1223, 1224, and 1225 of this title shall not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Saint Lawrence Seaway Development Corporation. Any other authority granted the Secretary under this chapter shall be delegated to the Saint Lawrence Seaway Development Corporation to the extent he determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.
+ International agreements
+(a)
+ Transmittal of regulations
+The Secretary shall transmit, via the Secretary of State, to appropriate international bodies or forums, any regulations issued under this chapter, for consideration as international standards.
+
+
+
+
+(b)
+ Agreements
+The President is authorized and encouraged to—
+(1)
+ enter into negotiations and conclude and execute agreements with neighboring nations, to establish compatible vessel standards and vessel traffic services, and to establish, operate, and maintain international vessel traffic services, in areas and under circumstances of mutual concern; and
+
+
+
+
+(2)
+ enter into negotiations, through appropriate international bodies, and conclude and execute agreements to establish vessel traffic services in appropriate areas of the high seas.
+
+
+
+
+(c)
+ Operations
+The Secretary, pursuant to any agreement negotiated under subsection (b) of this section which is binding upon the United States in accordance with constitutional requirements, may—
+(1)
+ require vessels in the vessel traffic service area to utilize or to comply with the vessel traffic service, including the carrying or installation of equipment and devices as necessary for the use of the service; and
+
+
+
+
+(2)
+ waive, by order or regulation, the application of any United States law or regulation concerning the design, construction, operation, equipment, personnel qualifications, and manning standards for vessels operating in waters over which the United States exercises jurisdiction if such vessel is not en route to or from a United States port or place, and if vessels en route to or from a United States port or place are accorded equivalent waivers of laws and regulations of the neighboring nation, when operating in waters over which that nation exercises jurisdiction.
+
+
+
+
+(d)
+ Ship reporting systems
+The Secretary, in cooperation with the International Maritime Organization, is authorized to implement and enforce two mandatory ship reporting systems, consistent with international law, with respect to vessels subject to such reporting systems entering the following areas of the Atlantic Ocean: Cape Cod Bay, Massachusetts Bay, and Great South Channel (in the area generally bounded by a line starting from a point on Cape Ann, Massachusetts at 42 deg. 39’ N., 70 deg. 37’ W; then northeast to 42 deg. 45’ N., 70 deg. 13’ W; then southeast to 42 deg. 10’ N., 68 deg. 31 W, then south to 41 deg. 00’ N., 68 deg. 31’ W; then west to 41 deg. 00’ N., 69 deg. 17’ W; then northeast to 42 deg. 05’ N., 70 deg. 02’ W, then west to 42 deg. 04’ N., 70 deg. 10’ W; and then along the Massachusetts shoreline of Cape Cod Bay and Massachusetts Bay back to the point on Cape Ann at 42 deg. 39’ N., 70 deg. 37’ W) and in the coastal waters of the Southeastern United States within about 25 nm along a 90 nm stretch of the Atlantic seaboard (in an area generally extending from the shoreline east to longitude 80 deg. 51.6’ W with the southern and northern boundary at latitudes 30 deg. 00’ N., 31 deg. 27’ N., respectively).
+
+
+
+
+ Regulations
+(a)
+ In general
+In accordance with the provisions of 
+section 553 of title 5
+, the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement this chapter.
+
+
+
+
+(b)
+ Procedures
+The Secretary, in the exercise of this regulatory authority, shall establish procedures for consulting with, and receiving and considering the views of all interested parties, including—
+(1)
+ interested Federal departments and agencies,
+
+
+
+
+(2)
+ officials of State and local governments,
+
+
+
+
+(3)
+ representatives of the maritime community,
+
+
+
+
+(4)
+ representatives of port and harbor authorities or associations,
+
+
+
+
+(5)
+ representatives of environmental groups,
+
+
+
+
+(6)
+ any other interested parties who are knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment, and
+
+
+
+
+(7)
+ advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.
+
+
+
+
+ Towing Safety Advisory Committee
+(a)
+ Establishment; membership
+There is established a Towing Safety Advisory Committee (hereinafter referred to as the “Committee”). The Committee shall consist of eighteen members with particular expertise, knowledge, and experience regarding shallow-draft inland and coastal waterway navigation and towing safety as follows:
+(1)
+ Seven members representing the barge and towing industry, reflecting a regional geographic balance.
+
+
+
+
+(2)
+ One member representing the offshore mineral and oil supply vessel industry.
+
+
+
+
+(3)
+ One member representing holders of active licensed Masters or Pilots of towing vessels with experience on the Western Rivers and the Gulf Intracoastal Waterway.
+
+
+
+
+(4)
+ One member representing the holders of active licensed Masters of towing vessels in offshore service.
+
+
+
+
+(5)
+ One member representing Masters who are active ship-docking or harbor towing vessel.
+1
+1
+ So in original.
+
+
+
+
+(6)
+ One member representing licensed or unlicensed towing vessel engineers with formal training and experience.
+
+
+
+
+(7)
+ Two members representing each of the following groups:
+(A)
+ Port districts, authorities, or terminal operators.
+
+
+
+
+(B)
+ Shippers (of whom at least one shall be engaged in the shipment of oil or hazardous materials by barge).
+
+
+
+
+
+
+(8)
+ Two members representing the general public.
+
+
+
+
+(b)
+ Appointments; Chairman, Vice Chairman, and observers; publication in Federal Register
+The Secretary of the department in which the Coast Guard is operating (hereinafter referred to as the “Secretary”) shall appoint the members of the Committee. The Secretary shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman. The Secretary may request the Secretary of the Army and the Secretary of Commerce to each designate a representative to participate as an observer on the Committee. The Secretary shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
+
+
+
+
+(c)
+ Functions; meetings; public proceedings and records; disclosures to Congress
+The Committee shall advise, consult with, and make recommendations to the Secretary on matters relating to shallow-draft inland and coastal waterway navigation and towing safety. Any advice or recommendation made by the Committee to the Secretary shall reflect the independent judgment of the Committee on the matter concerned. The Secretary shall consult with the Committee before taking any significant action affecting shallow-draft inland and coastal waterway navigation and towing safety. The Committee shall meet at the call of the Secretary, but in any event not less than once during each calendar year. All proceedings of the Committee shall be open to the public, and a record of the proceedings shall be made available for public inspection. The Committee is authorized to make available to Congress any information, advice, and recommendations which the Committee is authorized to give to the Secretary.
+
+
+
+
+(d)
+ Compensation and travel expenses; administrative services; personnel; authorization of appropriations
+Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by 
+section 5703 of title 5
+. The Secretary shall furnish to the Committee an executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
+
+
+
+
+(e)
+ Termination
+Unless extended by subsequent Act of Congress, the Committee shall terminate on 
+September 30, 2020
+.
+
+
+
+
+ Enforcement provisions
+(a)
+ Civil penalty
+(1)
+ Any person who is found by the Secretary, after notice and an opportunity for a hearing, to have violated this chapter or a regulation issued hereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+
+
+
+
+(2)
+ The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section.
+
+
+
+
+(3)
+ If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General of the United States, for collection in any appropriate district court of the United States.
+
+
+
+
+(b)
+ Criminal penalty
+(1)
+ Any person who willfully and knowingly violates this chapter or any regulation issued hereunder commits a class D felony.
+
+
+
+
+(2)
+ Any person who, in the willfull 
+1
+1
+ So in original. Probably should be “willful”.
+ and knowing violation of this chapter or of any regulation issued hereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of this chapter or the regulations issued hereunder, commits a class C felony.
+
+
+
+
+(c)
+ In rem liability
+Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+
+
+
+
+(d)
+ Injunction
+The United States district courts shall have jurisdiction to restrain violations of this chapter or of regulations issued hereunder, for cause shown.
+
+
+
+
+(e)
+ Denial of entry
+Except as provided in 
+section 1228 of this title
+, the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States to any port or place under the jurisdiction of the United States or to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+
+
+
+
+(f)
+ Withholding of clearance
+(1)
+ If any owner, operator, or individual in charge of a vessel is liable for a penalty or fine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty or fine under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by 
+section 60105 of title 46
+.
+
+
+
+
+(2)
+ Clearance refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
+
+
+
+
+ Navigational hazards
+(a)
+ Reporting procedure
+The Secretary shall establish a program to encourage fishermen and other vessel operators to report potential or existing navigational hazards involving pipelines to the Secretary through Coast Guard field offices.
+
+
+
+
+(b)
+ Secretary’s response
+(1)
+ Upon notification by the operator of a pipeline of a hazard to navigation with respect to that pipeline, the Secretary shall immediately notify Coast Guard headquarters, the Office of Pipeline Safety, other affected Federal and State agencies, and vessel owners and operators in the pipeline’s vicinity.
+
+
+
+
+(2)
+ Upon notification by any other person of a hazard or potential hazard to navigation with respect to a pipeline, the Secretary shall promptly determine whether a hazard exists, and if so shall immediately notify Coast Guard headquarters, the Office of Pipeline Safety, other affected Federal and State agencies, vessel owners and operators in the pipeline’s vicinity, and the owner and operator of the pipeline.
+
+
+
+
+(c)
+ Establishment of standards
+The Secretary shall, within six months after 
+November 16, 1990
+, establish standards, for the purposes of this section, for what constitutes a hazard to navigation.
+
+
+
+
+(d)
+ “Pipelines” defined
+For purposes of this section, the term “pipelines” has the meaning given the term “pipeline facilities” in 
+section 60101(a)(18) of title 49
+.
+
+
+
+
+ Requirement to notify Coast Guard of release of objects into the navigable waters of the United States
+(a)
+ Requirement
+As soon as a person has knowledge of any release from a vessel or facility into the navigable waters of the United States of any object that creates an obstruction prohibited under 
+section 403 of this title
+, such person shall notify the Secretary and the Secretary of the Army of such release.
+
+
+
+
+(b)
+ Restriction on use of notification
+Any notification provided by an individual in accordance with subsection (a) may not be used against such individual in any criminal case, except a prosecution for perjury or for giving a false statement.
+
+
+
+
+ Regulations as to regattas or marine parades
+The Commandant of the Coast Guard is authorized and empowered in his discretion to issue from time to time regulations, not contrary to law, to promote the safety of life on navigable waters during regattas or marine parades.
+ Enforcement of regulations; use of public or private vessels
+To enforce such regulations the Commandant of the Coast Guard may detail any public vessel in the service of the Coast Guard and make use of any private vessel tendered gratuitously for the purpose, or upon the request of the Commandant of the Coast Guard the head of any other department may enforce the regulations issued under sections 1233 and 1235 of this title by means of any public vessel of such department and of any private vessel tendered gratuitously for the purpose.
+ Transfer of authority to regulate to head of other department
+The authority and power bestowed upon the Commandant of the Coast Guard by sections 1233 and 1234 of this title may be transferred for any special occasion to the head of another department by the President whenever in his judgment such transfer is desirable.
+ Penalties for violations of regulations
+(a)
+ A licensed officer shall be liable to suspension or revocation of license in the manner now prescribed by law for incompetency or misconduct.
+
+
+(b)
+ Any person in charge of the navigation of a vessel other than a licensed officer shall be liable to a penalty of $5,000.
+
+
+(c)
+ The owner of a vessel (including any corporate officer of a corporation owning the vessel) actually on board shall be liable to a penalty of $5,000, unless the violation of regulations shall have occurred without his knowledge.
+
+
+(d)
+ Any other person shall be liable to a penalty of $2,500.
+The Commandant of the Coast Guard is authorized and empowered to mitigate or remit any penalty herein provided for in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.
+
+
+
+

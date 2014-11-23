@@ -1,0 +1,1904 @@
+
+Chapter 61
+PROGRAM INFORMATION
+ Definitions
+“(a)
+ 
+Requirements
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Jan. 2, 2013
+], the head of the covered agency concerned shall ensure the following:
+“(1)
+ There shall be not less than one suspension and debarment official—
+“(A)
+ in the case of the Department of Defense, for each of the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Defense Logistics Agency;
+
+
+
+
+“(B)
+ for the Department of State; and
+
+
+
+
+“(C)
+ for the United States Agency for International Development.
+
+
+
+
+
+
+“(2)
+ A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
+“(A)
+ in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
+
+
+
+
+“(B)
+ in the case of the Department of State and the United States Agency for International Development, of the covered agency concerned.
+
+
+
+
+
+
+“(3)
+ Each suspension and debarment official under paragraph (1) shall have a staff and resources adequate for the discharge of the suspension and debarment responsibilities of such official.
+
+
+
+
+“(4)
+ Each suspension and debarment official under paragraph (1) shall document the basis for any final decision taken pursuant to a formal referral in accordance with the policies established under paragraph (5).
+
+
+
+
+“(5)
+ Each suspension and debarment official under paragraph (1) shall, in consultation with the General Counsel of the covered agency, establish in writing policies for the consideration of the following:
+“(A)
+ Formal referrals of suspension and debarment matters.
+
+
+
+
+“(B)
+ Suspension and debarment matters that are not formally referred.
+
+
+
+
+
+
+“(b)
+ 
+Duties of Interagency Committee on Debarment and Suspension
+.—
+[Amended 
+section 873 of Pub. L. 110–417
+, set out below.]
+
+
+“(c)
+ 
+Covered Agency
+.—
+In this section, the term ‘covered agency’ means the Department of Defense, the Department of State, and the United States Agency for International Development.”
+
+
+“(a)
+ 
+Requirement
+.—
+The Interagency Committee on Debarment and Suspension shall—
+“(1)
+ resolve issues regarding which of several Federal agencies is the lead agency having responsibility to initiate suspension or debarment proceedings, including with respect to contracts in connection with contingency operations;
+
+
+
+
+“(2)
+ coordinate actions among interested agencies with respect to such action;
+
+
+
+
+“(3)
+ encourage and assist Federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the Governmentwide suspension and debarment system;
+
+
+
+
+“(4)
+ recommend to the Office of Management and Budget changes to the Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
+
+
+
+
+“(5)
+ authorize the Office of Management and Budget to issue guidelines that implement those recommendations;
+
+
+
+
+“(6)
+ authorize the chair of the Committee to establish subcommittees as appropriate to best enable the Interagency Committee to carry out its functions; and
+
+
+
+
+“(7)
+ submit to Congress an annual report on—
+“(A)
+ the progress and efforts to improve the suspension and debarment system;
+
+
+
+
+“(B)
+ member agencies’ active participation in the committee’s work;
+
+
+
+
+“(C)
+ a summary of each agency’s activities and accomplishments in the Governmentwide debarment system; and
+
+
+
+
+“(D)
+ a summary of suspensions, debarments, and administrative agreements during the previous year.
+
+
+
+
+
+
+“(b)
+ 
+Date of Submittal of Annual Reports
+.—
+The annual report required by subsection (a)(7) shall be submitted not later than January 31 of each year, beginning with 
+January 31, 2014
+.
+
+
+“(c)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘contingency operation’ has the meaning given that term in 
+section 101(a)(13) of title 10
+, United States Code.
+
+
+
+
+“(2)
+ The term ‘Interagency Committee on Debarment and Suspension’ means the committee constituted under sections 4 and 5 of Executive Order No. 12549 [set out below].”
+
+
+
+
+“(a)
+ 
+Definitions
+.—
+In this Act:
+“(1)
+ 
+Director
+.—
+The term ‘Director’ means the Director of the Office of Management and Budget.
+
+
+
+
+“(2)
+ 
+Entity
+.—
+The term ‘entity’—
+“(A)
+ includes, whether for profit or nonprofit—
+“(i)
+ a corporation;
+
+
+
+
+“(ii)
+ an association;
+
+
+
+
+“(iii)
+ a partnership;
+
+
+
+
+“(iv)
+ a limited liability company;
+
+
+
+
+“(v)
+ a limited liability partnership;
+
+
+
+
+“(vi)
+ a sole proprietorship;
+
+
+
+
+“(vii)
+ any other legal business entity;
+
+
+
+
+“(viii)
+ any other grantee or contractor that is not excluded by subparagraph (B) or (C); and
+
+
+
+
+“(ix)
+ any State or locality;
+
+
+
+
+
+
+“(B)
+ on and after 
+January 1, 2009
+, includes any subcontractor or subgrantee; and
+
+
+
+
+“(C)
+ does not include—
+“(i)
+ an individual recipient of Federal assistance; or
+
+
+
+
+“(ii)
+ a Federal employee.
+
+
+
+
+
+
+
+
+“(3)
+ 
+Federal agency
+.—
+The term ‘Federal agency’ has the meaning given the term ‘Executive agency’ under 
+section 105 of title 5
+, United States Code.
+
+
+
+
+“(4)
+ 
+Federal award
+.—
+The term ‘Federal award’—
+“(A)
+ means Federal financial assistance and expenditures that—
+“(i)
+ include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;
+
+
+
+
+“(ii)
+ include contracts, subcontracts, purchase orders, task orders, and delivery orders;
+
+
+
+
+
+
+“(B)
+ does not include individual transactions below $25,000; and
+
+
+
+
+“(C)
+ before 
+October 1, 2008
+, does not include credit card transactions.
+
+
+
+
+
+
+“(5)
+ 
+Object class
+.—
+The term ‘object class’ means the category assigned for purposes of the annual budget of the President submitted under 
+section 1105(a) of title 31
+, United States Code, to the type of property or services purchased by the Federal Government.
+
+
+
+
+“(6)
+ 
+Program activity
+.—
+The term ‘program activity’ has the meaning given that term under 
+section 1115(h) of title 31
+, United States Code.
+
+
+
+
+“(7)
+ 
+Searchable website
+.—
+The term ‘searchable website’ means a website that allows the public to—
+“(A)
+ search and aggregate Federal funding by any element required by subsection (b)(1);
+
+
+
+
+“(B)
+ ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(i), by fiscal year;
+
+
+
+
+“(C)
+ ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(ii), by fiscal year; and
+
+
+
+
+“(D)
+ download data included in subparagraph (A) included in the outcome from searches.
+
+
+
+
+
+
+“(8)
+ 
+Secretary
+.—
+The term ‘Secretary’ means the Secretary of the Treasury.
+
+
+
+
+“(b)
+ In General.—
+“(1)
+ 
+Website
+.—
+Not later than 
+January 1, 2008
+, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (
+Public Law 107–347
+; 
+44 U.S.C. 3501
+ note), and the Office of Federal Procurement Policy Act ([former] 
+41 U.S.C. 403
+ [401] et seq.) [now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41], ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—
+“(A)
+ the name of the entity receiving the award;
+
+
+
+
+“(B)
+ the amount of the award;
+
+
+
+
+“(C)
+ information on the award including transaction type, funding agency, the North American Industry Classification System code or Catalog of Federal Domestic Assistance number (where applicable), program source, and an award title descriptive of the purpose of each funding action;
+
+
+
+
+“(D)
+ the location of the entity receiving the award and the primary location of performance under the award, including the city, State, congressional district, and country;
+
+
+
+
+“(E)
+ a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity;
+
+
+
+
+“(F)
+ the names and total compensation of the five most highly compensated officers of the entity if—
+“(i)
+ the entity in the preceding fiscal year received—
+     “(I)
+ 80 percent or more of its annual gross revenues in Federal awards; and
+
+
+
+
+     “(II)
+ $25,000,000 or more in annual gross revenues from Federal awards; and
+
+
+
+
+
+
+“(ii)
+ the public does not have access to information about the compensation of the senior executives of the entity through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (
+15 U.S.C. 78m(a)
+, 78
+o
+(d)) or section 6104 of the Internal Revenue Code of 1986. [; and]
+
+
+
+
+
+
+“(G)
+ any other relevant information specified by the Office of Management and Budget.
+
+
+
+
+
+
+“(2)
+ 
+Scope of data
+.—
+The website shall include data for fiscal year 2007, and each fiscal year thereafter.
+
+
+
+
+“(3)
+ 
+Designation of agencies
+.—
+The Director is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
+
+
+
+
+“(4)
+ 
+Agency responsibilities
+.—
+Federal agencies shall comply with the instructions and guidance issued by the Director under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
+
+
+
+
+“(c)
+ 
+Website
+.—
+The website established under this section—
+“(1)
+ may use as the source of its data the Federal Procurement Data System, Federal Assistance Award Data System, and Grants.gov, if all of these data sources are searchable through the website and can be accessed in a search on the website required by this Act, provided that the user may—
+“(A)
+ specify such search shall be confined to Federal contracts and subcontracts;
+
+
+
+
+“(B)
+ specify such search shall be confined to include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;
+
+
+
+
+
+
+“(2)
+ shall not be considered in compliance if it hyperlinks to the Federal Procurement Data System website, Federal Assistance Award Data System website, Grants.gov website, or other existing websites, so that the information elements required by subsection (b)(1) cannot be searched electronically by field in a single search;
+
+
+
+
+“(3)
+ shall provide an opportunity for the public to provide input about the utility of the site and recommendations for improvements;
+
+
+
+
+“(4)
+ shall be updated not later than 30 days after the award of any Federal award requiring a posting;
+
+
+
+
+“(5)
+ shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii);
+
+
+
+
+“(6)
+ shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and
+
+
+
+
+“(7)
+ shall ensure that all information published under this section is available—
+“(A)
+ in machine-readable and open formats;
+
+
+
+
+“(B)
+ to be downloaded in bulk; and
+
+
+
+
+“(C)
+ to the extent practicable, for automated processing.
+
+
+
+
+
+
+“(d)
+ Subaward Data.—
+“(1)
+ Pilot program.—
+“(A)
+ 
+In general
+.—
+Not later than 
+July 1, 2007
+, the Director shall commence a pilot program to—
+“(i)
+ test the collection and accession of data about subgrants and subcontracts; and
+
+
+
+
+“(ii)
+ determine how to implement a subaward reporting program across the Federal Government, including—
+     “(I)
+ a reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and
+
+
+
+
+     “(II)
+ a mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.
+
+
+
+
+
+
+
+
+“(B)
+ 
+Termination
+.—
+The pilot program under subparagraph (A) shall terminate not later than 
+January 1, 2009
+.
+
+
+
+
+
+
+“(2)
+ Reporting of subawards.—
+“(A)
+ 
+In general
+.—
+Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than 
+January 1, 2009
+, the Director—
+“(i)
+ shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and
+
+
+
+
+“(ii)
+ shall ensure that the method for collecting and distributing data about subawards under clause (i)—
+     “(I)
+ minimizes burdens imposed on Federal award recipients and subaward recipients;
+
+
+
+
+     “(II)
+ allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
+
+
+
+
+     “(III)
+ establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.
+
+
+
+
+
+
+
+
+“(B)
+ 
+Extension of deadline
+.—
+For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+
+
+
+
+
+
+“(e)
+ 
+Exception
+.—
+Any entity that demonstrates to the Director that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
+
+
+“(f)
+ 
+Construction
+.—
+Nothing in this Act shall prohibit the Office of Management and Budget from including through the website established under this section access to data that is publicly available in any other Federal database.
+
+
+“(g)
+ Report.—
+“(1)
+ 
+In general
+.—
+The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives an annual report regarding the implementation of the website established under this section.
+
+
+
+
+“(2)
+ 
+Contents
+.—
+Each report submitted under paragraph (1) shall include—
+“(A)
+ data regarding the usage and public feedback on the utility of the site (including recommendations for improving data quality and collection);
+
+
+
+
+“(B)
+ an assessment of the reporting burden placed on Federal award and subaward recipients; and
+
+
+
+
+“(C)
+ an explanation of any extension of the subaward reporting deadline under subsection (d)(2)(B), if applicable.
+
+
+
+
+
+
+“(3)
+ 
+Publication
+.—
+The Director shall make each report submitted under paragraph (1) publicly available on the website established under this section.
+
+
+
+
+“(a)
+ 
+In General
+.—
+Not later than 3 years after the date of enactment of the Digital Accountability and Transparency Act of 2014 [
+May 9, 2014
+], and monthly when practicable but not less than quarterly thereafter, the Secretary, in consultation with the Director, shall ensure that the information in subsection (b) is posted on the website established under section 2.
+
+
+“(b)
+ 
+Information To Be Posted
+.—
+For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
+“(1)
+ for each appropriations account, including an expired or unexpired appropriations account, the amount—
+“(A)
+ of budget authority appropriated;
+
+
+
+
+“(B)
+ that is obligated;
+
+
+
+
+“(C)
+ of unobligated balances; and
+
+
+
+
+“(D)
+ of any other budgetary resources;
+
+
+
+
+
+
+“(2)
+ from which accounts and in what amount—
+“(A)
+ appropriations are obligated for each program activity; and
+
+
+
+
+“(B)
+ outlays are made for each program activity;
+
+
+
+
+
+
+“(3)
+ from which accounts and in what amount—
+“(A)
+ appropriations are obligated for each object class; and
+
+
+
+
+“(B)
+ outlays are made for each object class; and
+
+
+
+
+
+
+“(4)
+ for each program activity, the amount—
+“(A)
+ obligated for each object class; and
+
+
+
+
+“(B)
+ of outlays made for each object class.
+
+
+
+
+
+
+“(a)
+ In General.—
+“(1)
+ 
+Establishment of standards
+.—
+The Secretary and the Director, in consultation with the heads of Federal agencies, shall establish Government-wide financial data standards for any Federal funds made available to or expended by Federal agencies and entities receiving Federal funds.
+
+
+
+
+“(2)
+ 
+Data elements
+.—
+The financial data standards established under paragraph (1) shall include common data elements for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds.
+
+
+
+
+“(b)
+ 
+Requirements
+.—
+The data standards established under subsection (a) shall, to the extent reasonable and practicable—
+“(1)
+ incorporate widely accepted common data elements, such as those developed and maintained by—
+“(A)
+ an international voluntary consensus standards body;
+
+
+
+
+“(B)
+ Federal agencies with authority over contracting and financial assistance; and
+
+
+
+
+“(C)
+ accounting standards organizations;
+
+
+
+
+
+
+“(2)
+ incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format;
+
+
+
+
+“(3)
+ include unique identifiers for Federal awards and entities receiving Federal awards that can be consistently applied Government-wide;
+
+
+
+
+“(4)
+ be consistent with and implement applicable accounting principles;
+
+
+
+
+“(5)
+ be capable of being continually upgraded as necessary;
+
+
+
+
+“(6)
+ produce consistent and comparable data, including across program activities; and
+
+
+
+
+“(7)
+ establish a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes.
+
+
+
+
+“(c)
+ Deadlines.—
+“(1)
+ 
+Guidance
+.—
+Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014 [
+May 9, 2014
+], the Director and the Secretary shall issue guidance to Federal agencies on the data standards established under subsection (a).
+
+
+
+
+“(2)
+ Agencies.—
+“(A)
+ 
+In general
+.—
+Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued, each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
+
+
+
+
+“(B)
+ Noninterference with auditability of department of defense financial statements.—
+“(i)
+ 
+In general
+.—
+Upon request by the Secretary of Defense, the Director may grant an extension of the deadline under subparagraph (A) to the Department of Defense for a period of not more than 6 months to report financial and payment information data in accordance with the data standards established under subsection (a).
+
+
+
+
+“(ii)
+ 
+Limitation
+.—
+The Director may not grant more than 3 extensions to the Secretary of Defense under clause (i).
+
+
+
+
+“(iii)
+ 
+Notification
+.—
+The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives of—
+     “(I)
+ each grant of an extension under clause (i); and
+
+
+
+
+     “(II)
+ the reasons for granting such an extension.
+
+
+
+
+
+
+
+
+
+
+“(3)
+ 
+Website
+.—
+Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) are applied to the data made available on the website established under section 2.
+
+
+
+
+“(d)
+ 
+Consultation
+.—
+The Director and the Secretary shall consult with public and private stakeholders in establishing data standards under this section.
+
+
+“(a)
+ 
+In General
+.—
+The Director, in consultation with relevant Federal agencies, recipients of Federal awards, including State and local governments, and institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (
+20 U.S.C. 1002
+)), shall review the information required to be reported by recipients of Federal awards to identify—
+“(1)
+ common reporting elements across the Federal Government;
+
+
+
+
+“(2)
+ unnecessary duplication in financial reporting; and
+
+
+
+
+“(3)
+ unnecessarily burdensome reporting requirements for recipients of Federal awards.
+
+
+
+
+“(b)
+ Pilot Program.—
+“(1)
+ 
+Establishment
+.—
+Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014 [
+May 9, 2014
+], the Director, or a Federal agency designated by the Director, shall establish a pilot program (in this section referred to as the ‘pilot program’) with the participation of appropriate Federal agencies to facilitate the development of recommendations for—
+“(A)
+ standardized reporting elements across the Federal Government;
+
+
+
+
+“(B)
+ the elimination of unnecessary duplication in financial reporting; and
+
+
+
+
+“(C)
+ the reduction of compliance costs for recipients of Federal awards.
+
+
+
+
+
+
+“(2)
+ 
+Requirements
+.—
+The pilot program shall—
+“(A)
+ include a combination of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000 and not more than $2,000,000,000;
+
+
+
+
+“(B)
+ include a diverse group of recipients of Federal awards; and
+
+
+
+
+“(C)
+ to the extent practicable, include recipients who receive Federal awards from multiple programs across multiple agencies.
+
+
+
+
+
+
+“(3)
+ 
+Data collection
+.—
+The pilot program shall include data collected during a 12-month reporting cycle.
+
+
+
+
+“(4)
+ 
+Reporting and evaluation requirements
+.—
+Each recipient of a Federal award participating in the pilot program shall submit to the Office of Management and Budget or the Federal agency designated under paragraph (1), as appropriate, any requested reports of the selected Federal awards.
+
+
+
+
+“(5)
+ 
+Termination
+.—
+The pilot program shall terminate on the date that is 2 years after the date on which the pilot program is established.
+
+
+
+
+“(6)
+ 
+Report to congress
+.—
+Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
+“(A)
+ a description of the data collected under the pilot program, the usefulness of the data provided, and the cost to collect the data from recipients; and
+
+
+
+
+“(B)
+ a discussion of any legislative action required and recommendations for—
+“(i)
+ consolidating aspects of Federal financial reporting to reduce the costs to recipients of Federal awards;
+
+
+
+
+“(ii)
+ automating aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal awards;
+
+
+
+
+“(iii)
+ simplifying the reporting requirements for recipients of Federal awards; and
+
+
+
+
+“(iv)
+ improving financial transparency.
+
+
+
+
+
+
+
+
+“(7)
+ 
+Government-wide implementation
+.—
+Not later than 1 year after the date on which the Director submits the report under paragraph (6), the Director shall issue guidance to the heads of Federal agencies as to how the Government-wide financial data standards established under section 4(a) shall be applied to the information required to be reported by entities receiving Federal awards to—
+“(A)
+ reduce the burden of complying with reporting requirements; and
+
+
+
+
+“(B)
+ simplify the reporting process, including by reducing duplicative reports.
+
+
+
+
+
+
+“(a)
+ Inspector General Reports.—
+“(1)
+ 
+In general
+.—
+In accordance with paragraph (2), the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall—
+“(A)
+ review a statistically valid sampling of the spending data submitted under this Act by the Federal agency; and
+
+
+
+
+“(B)
+ submit to Congress and make publically available a report assessing the completeness, timeliness, quality, and accuracy of the data sampled and the implementation and use of data standards by the Federal agency.
+
+
+
+
+
+
+“(2)
+ Deadlines.—
+“(A)
+ 
+First report
+.—
+Not later than 18 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), the Inspector General of each Federal agency shall submit and make publically available a report as described in paragraph (1).
+
+
+
+
+“(B)
+ 
+Subsequent reports
+.—
+On the same date as the Inspector General of each Federal agency submits the second and fourth reports under sections 3521(f) and 9105(a)(3) of title 31, United States Code, that are submitted after the report under subparagraph (A), the Inspector General shall submit and make publically available a report as described in paragraph (1). The report submitted under this subparagraph may be submitted as a part of the report submitted under section 3521(f) or 9105(a)(3) of title 31, United States Code.
+
+
+
+
+
+
+“(b)
+ Comptroller General Reports.—
+“(1)
+ 
+In general
+.—
+In accordance with paragraph (2) and after a review of the reports submitted under subsection (a), the Comptroller General of the United States shall submit to Congress and make publically available a report assessing and comparing the data completeness, timeliness, quality, and accuracy of the data submitted under this Act by Federal agencies and the implementation and use of data standards by Federal agencies.
+
+
+
+
+“(2)
+ 
+Deadlines
+.—
+Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4 years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
+
+
+
+
+“(c)
+ Recovery Accountability and Transparency Board Data Analysis Center.—
+“(1)
+ 
+In general
+.—
+The Secretary may establish a data analysis center or expand an existing service to provide data, analytic tools, and data management techniques to support—
+“(A)
+ the prevention and reduction of improper payments by Federal agencies; and
+
+
+
+
+“(B)
+ improving efficiency and transparency in Federal spending.
+
+
+
+
+
+
+“(2)
+ 
+Data availability
+.—
+The Secretary shall enter into memoranda of understanding with Federal agencies, including Inspectors General and Federal law enforcement agencies—
+“(A)
+ under which the Secretary may provide data from the data analysis center for—
+“(i)
+ the purposes set forth under paragraph (1);
+
+
+
+
+“(ii)
+ the identification, prevention, and reduction of waste, fraud, and abuse relating to Federal spending; and
+
+
+
+
+“(iii)
+ use in the conduct of criminal and other investigations; and
+
+
+
+
+
+
+“(B)
+ which may require the Federal agency, Inspector General, or Federal law enforcement agency to provide reimbursement to the Secretary for the reasonable cost of carrying out the agreement.
+
+
+
+
+
+
+“(3)
+ 
+Transfer
+.—
+Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under 
+section 1531 of title 31
+, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+
+
+
+
+“(a)
+ 
+In General
+.—
+Except as provided under subsection (b), not later than 18 months after the date of the enactment of this Act [
+Nov. 20, 1999
+], each Federal agency shall develop and implement a plan that—
+“(1)
+ streamlines and simplifies the application, administrative, and reporting procedures for Federal financial assistance programs administered by the agency;
+
+
+
+
+“(2)
+ demonstrates active participation in the interagency process under section 6(a)(2);
+
+
+
+
+“(3)
+ demonstrates appropriate agency use, or plans for use, of the common application and reporting system developed under section 6(a)(1);
+
+
+
+
+“(4)
+ designates a lead agency official for carrying out the responsibilities of the agency under this Act;
+
+
+
+
+“(5)
+ allows applicants to electronically apply for, and report on the use of, funds from the Federal financial assistance program administered by the agency;
+
+
+
+
+“(6)
+ ensures recipients of Federal financial assistance provide timely, complete, and high quality information in response to Federal reporting requirements; and
+
+
+
+
+“(7)
+ in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency’s annual planning responsibilities under the Government Performance and Results Act of 1993 (
+Public Law 103–62
+; 
+107 Stat. 285
+) [see Short Title of 1993 Amendment note set out under 
+section 1101 of this title
+].
+
+
+
+
+“(b)
+ 
+Extension
+.—
+If a Federal agency is unable to comply with subsection (a), the Director may extend for up to 12 months the period for the agency to develop and implement a plan in accordance with subsection (a).
+
+
+“(c)
+ Comment and Consultation on Agency Plans.—
+“(1)
+ 
+Comment
+.—
+Each agency shall publish the plan developed under subsection (a) in the Federal Register and shall receive public comment of the plan through the Federal Register and other means (including electronic means). To the maximum extent practicable, each Federal agency shall hold public forums on the plan.
+
+
+
+
+“(2)
+ 
+Consultation
+.—
+The lead official designated under subsection (a)(4) shall consult with representatives of non-Federal entities during development and implementation of the plan. Consultation with representatives of State, local, and tribal governments shall be in accordance with section 204 of the Unfunded Mandates Reform Act of 1995 (
+2 U.S.C. 1534
+).
+
+
+
+
+“(d)
+ 
+Submission of Plan
+.—
+Each Federal agency shall submit the plan developed under subsection (a) to the Director and Congress and report annually thereafter on the implementation of the plan and performance of the agency in meeting the goals and objectives specified under subsection (a)(7). Such report may be included as part of any of the general management reports required under law.
+
+
+“(a)
+ 
+In General
+.—
+The Director, in consultation with agency heads and representatives of non-Federal entities, shall direct, coordinate, and assist Federal agencies in establishing—
+“(1)
+ a common application and reporting system, including—
+“(A)
+ a common application or set of common applications, wherein a non-Federal entity can apply for Federal financial assistance from multiple Federal financial assistance programs that serve similar purposes and are administered by different Federal agencies;
+
+
+
+
+“(B)
+ a common system, including electronic processes, wherein a non-Federal entity can apply for, manage, and report on the use of funding from multiple Federal financial assistance programs that serve similar purposes and are administered by different Federal agencies; and
+
+
+
+
+“(C)
+ uniform administrative rules for Federal financial assistance programs across different Federal agencies; and
+
+
+
+
+
+
+“(2)
+ an interagency process for addressing—
+“(A)
+ ways to streamline and simplify Federal financial assistance administrative procedures and reporting requirements for non-Federal entities;
+
+
+
+
+“(B)
+ improved interagency and intergovernmental coordination of information collection and sharing of data pertaining to Federal financial assistance programs, including appropriate information sharing consistent with 
+section 552a of title 5
+, United States Code; and
+
+
+
+
+“(C)
+ improvements in the timeliness, completeness, and quality of information received by Federal agencies from recipients of Federal financial assistance.
+
+
+
+
+
+
+“(b)
+ 
+Lead Agency and Working Groups
+.—
+The Director may designate a lead agency to assist the Director in carrying out the responsibilities under this section. The Director may use interagency working groups to assist in carrying out such responsibilities.
+
+
+“(c)
+ 
+Review of Plans and Reports
+.—
+Upon the request of the Director, agencies shall submit to the Director, for the Director’s review, information and other reporting regarding agency implementation of this Act.
+
+
+“(d)
+ 
+Exemptions
+.—
+The Director may exempt any Federal agency or Federal financial assistance program from the requirements of this Act if the Director determines that the Federal agency does not have a significant number of Federal financial assistance programs. The Director shall maintain a list of exempted agencies which shall be available to the public through the Office of Management and Budget’s Internet site.
+
+
+“(e)
+ 
+Report on Recommended Changes in Law
+.—
+Not later than 18 months after the date of the enactment of this Act [
+Nov. 20, 1999
+], the Director shall submit to Congress a report containing recommendations for changes in law to improve the effectiveness, performance, and coordination of Federal financial assistance programs.
+
+
+“(f)
+ 
+Deadline
+.—
+All actions required under this section shall be carried out not later than 18 months after the date of the enactment of this Act [
+Nov. 20, 1999
+].
+
+
+“(a)
+ 
+In General
+.—
+The Government Accountability Office shall evaluate the effectiveness of this Act. Not later than 6 years after the date of the enactment of this Act [
+Nov. 20, 1999
+], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
+
+
+“(b)
+ 
+Contents
+.—
+The evaluation under subsection (a) shall—
+“(1)
+ assess the effectiveness of this Act in meeting the purposes of this Act and make specific recommendations to further the implementation of this Act;
+
+
+
+
+“(2)
+ evaluate actual performance of each agency in achieving the goals and objectives stated in agency plans; and
+
+
+
+
+“(3)
+ assess the level of coordination among the Director, Federal agencies, State, local, and tribal governments, and nonprofit organizations in implementing this Act.
+
+
+
+
+“(a)
+ 
+Requirement for Regulations
+.—
+Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 [set out below], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+
+
+“(b)
+ 
+Authority To Grant Exception
+.—
+The regulations issued pursuant to subsection (a) shall provide that an agency may grant an exception permitting a debarred, suspended, or otherwise excluded party to participate in procurement activities of that agency to the extent exceptions are authorized under the Federal Acquisition Regulation, or to participate in nonprocurement activities of that agency to the extent exceptions are authorized under regulations issued pursuant to Executive Order No. 12549.
+
+
+“(c)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act ([former] 
+41 U.S.C. 431(c)
+) [now 
+41 U.S.C. 104
+]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
+
+
+
+
+“(2)
+ The term ‘nonprocurement activities’ means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
+
+
+
+
+“(3)
+ The term ‘agency’ means an Executive agency as defined in 
+section 103 of title 5
+, United States Code.”
+
+
+
+
+ Program information requirements
+(a)
+ The Director shall collect and review information on domestic assistance programs and shall provide such information to the Administrator. The information on each domestic assistance program shall include the following:
+(1)
+ identification of the program by—
+(A)
+ title;
+
+
+
+
+(B)
+ authorizing law;
+
+
+
+
+(C)
+ administering office; and
+
+
+
+
+(D)
+ an identifying number assigned by the Director.
+
+
+
+
+
+
+(2)
+ a description of the—
+(A)
+ program;
+
+
+
+
+(B)
+ objectives of the program;
+
+
+
+
+(C)
+ types of activities financed under the program;
+
+
+
+
+(D)
+ eligibility requirements;
+
+
+
+
+(E)
+ types of assistance;
+
+
+
+
+(F)
+ uses, and restrictions on the use, of assistance; and
+
+
+
+
+(G)
+ duties of recipients under the program.
+
+
+
+
+
+
+(3)
+ a specification of each formula governing eligibility for assistance or the distribution of assistance under the program, which shall be described through the use of—
+(A)
+ the language used to specify each such formula in the law authorizing the program;
+
+
+
+
+(B)
+ the language used to specify each such formula in any Federal rule promulgated pursuant to the law authorizing the program; or
+
+
+
+
+(C)
+ a mathematical statement which is derived from the language referred to in subparagraphs (A) and (B) of this paragraph;
+
+
+
+
+
+
+(4)
+ a description of all data and statistical estimates used to carry out each formula specified pursuant to paragraph (3), and an identification of the sources of such data and estimates;
+
+
+
+
+(5)
+ financial information, including the—
+(A)
+ amounts appropriated for the current fiscal year or, if unavailable, the amounts requested by the President and the amounts obligated; and
+
+
+
+
+(B)
+ average amounts of awards made in past years.
+
+
+
+
+
+
+(6)
+ identification of information contacts, including the administering office and regional and local offices with their addresses and telephone numbers.
+
+
+
+
+(7)
+ a general description of—
+(A)
+ the application requirements and procedures; and
+
+
+
+
+(B)
+ to the extent practical, an estimate of the time required to process the application.
+
+
+
+
+
+
+(b)
+ On request of the Director, an agency shall give to the Director current information on all domestic assistance programs administered by the agency. The Director shall be responsible for ensuring that the Administrator incorporates all relevant information received on a regular basis.
+
+
+(c)
+ The Administrator—
+(1)
+ shall ensure that information and catalogs under this chapter are made available to the public at reasonable prices;
+
+
+
+
+(2)
+ may develop information services to assist State and local governments in identifying and obtaining sources of assistance;
+
+
+
+
+(3)
+ shall ensure that the information in the computerized system is made current on a regular basis and that the printed catalog and supplements thereto contain the most current data available at the time of printing; and
+
+
+
+
+(4)
+ shall transmit annually the information compiled under paragraphs (3) and (4) of subsection (a) to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.
+
+
+
+
+ Assistance awards information system
+(a)
+ The Director shall—
+(1)
+ maintain the United States Government assistance awards information system established as a result of the study conducted under section 9 of the Federal Program Information Act; and
+
+
+
+
+(2)
+ update the system on a quarterly basis.
+
+
+
+
+(b)
+ To carry out subsection (a) of this section, the Director—
+(1)
+ may delegate the responsibility for carrying out subsection (a) of this section to the head of another executive agency;
+
+
+
+
+(2)
+ shall review a report the head of an agency submits to the Director on the method of carrying out subsection (a) of this section; and
+
+
+
+
+(3)
+ may validate, by appropriate means, the method by which an agency prepares the report.
+
+
+
+
+(c)
+ The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection (a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
+
+
+ Access to computer information system
+(a)
+ The Administrator shall maintain a computerized information system providing access to—
+(1)
+ the information described in paragraphs (1), (2), (5), (6), and (7) of 
+section 6102(a) of this title
+; and
+
+
+
+
+(2)
+ such portions or summaries, as the Administrator considers appropriate, of the information described in paragraphs (3) and (4) of such section.
+
+
+
+
+(b)
+ To the greatest extent practicable, the Administrator shall provide for the widespread availability of the information by available computer terminals.
+
+
+(c)
+ When the Administrator decides the efficiency of the information system under subsection (a) of this section requires it, the Administrator may make contracts with private organizations to obtain computer time-sharing services, including—
+(1)
+ computer telecommunications networks;
+
+
+
+
+(2)
+ computer software; and
+
+
+
+
+(3)
+ associated services.
+
+
+
+
+ Catalog of Federal domestic assistance programs
+(a)
+ The Administrator shall prepare and publish each year a catalog of domestic assistance programs.
+
+
+(b)
+ In a form selected by the Administrator, the catalog shall contain—
+(1)
+(A)
+ all substantive information on domestic assistance programs that, at the time the catalog is prepared, is in the system under paragraphs (1), (2), (5), (6), and (7) of 
+section 6102(a) of this title
+; and
+
+
+
+
+(B)
+ such portions or summaries, as the Administrator considers appropriate, of the information on domestic assistance programs that, at the time the catalog is prepared, is in the system under paragraphs (3) and (4) of 
+section 6102(a) of this title
+;
+
+
+
+
+
+
+(2)
+ information the Administrator decides may be helpful to a potential applicant for or beneficiary of assistance; and
+
+
+
+
+(3)
+ a detailed index.
+
+
+
+
+(c)
+ When the Administrator decides it is necessary, the Administrator shall prepare and publish—
+(1)
+ supplements to the catalog; and
+
+
+
+
+(2)
+ specialized compilations by function of information in the catalog.
+
+
+
+
+(d)
+ The Administrator may distribute a catalog without cost to each—
+(1)
+ member of Congress;
+
+
+
+
+(2)
+ department, agency, and instrumentality of the United States Government;
+
+
+
+
+(3)
+ State;
+
+
+
+
+(4)
+ general purpose unit of a local government;
+
+
+
+
+(5)
+ Indian tribe recognized by the United States Government;
+
+
+
+
+(6)
+ depository library of Government publications; and
+
+
+
+
+(7)
+ depository designated by the Administrator.
+
+
+
+
+ Oversight responsibility of Director
+The Director shall have oversight responsibility for the exercise of all authorities and responsibilities in this chapter not specifically assigned to the Director.
+ Authorization of appropriations
+After 

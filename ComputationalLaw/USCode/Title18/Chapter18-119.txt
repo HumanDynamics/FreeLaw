@@ -1,0 +1,287 @@
+
+Chapter 119
+WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS
+ Definitions
+“(a)
+ 
+In General
+.—
+Except as provided in subsection (b) or (c), this title and the amendments made by this title [enacting sections 2521 and 3117 of this title, amending this section and sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section] shall take effect 90 days after the date of the enactment of this Act [
+Oct. 21, 1986
+] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.
+
+
+“(b)
+ 
+Special Rule for State Authorizations of Interceptions
+.—
+Any interception pursuant to 
+section 2516(2) of title 18
+ of the United States Code which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding such amendments if such interception occurs during the period beginning on the date such amendments take effect and ending on the earlier of—
+“(1)
+ the day before the date of the taking effect of State law conforming the applicable State statute with chapter 119 of title 18, United States Code, as so amended; or
+
+
+
+
+“(2)
+ the date two years after the date of the enactment of this Act [
+Oct. 21, 1986
+].
+
+
+
+
+“(c)
+ 
+Effective Date for Certain Approvals by Justice Department Officials
+.—
+Section 104 of this Act [amending 
+section 2516 of this title
+] shall take effect on the date of enactment of this Act [
+Oct. 21, 1986
+].”
+
+
+“(a)
+ 
+In General
+.—
+Nothing in this Act or the amendments made by this Act [see Short Title of 1986 Amendment note above] constitutes authority for the conduct of any intelligence activity.
+
+
+“(b)
+ 
+Certain Activities Under Procedures Approved by the Attorney General
+.—
+Nothing in chapter 119 or chapter 121 of title 18, United States Code, shall affect the conduct, by officers or employees of the United States Government in accordance with other applicable Federal law, under procedures approved by the Attorney General of activities intended to—
+“(1)
+ intercept encrypted or other official communications of United States executive branch entities or United States Government contractors for communications security purposes;
+
+
+
+
+“(2)
+ intercept radio communications transmitted between or among foreign powers or agents of a foreign power as defined by the Foreign Intelligence Surveillance Act of 1978 [
+50 U.S.C. 1801
+ et seq.]; or
+
+
+
+
+“(3)
+ access an electronic communication system used exclusively by a foreign power or agent of a foreign power as defined by the Foreign Intelligence Surveillance Act of 1978.”
+
+
+
+
+“(a)
+ Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
+
+
+“(b)
+ In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
+
+
+“(c)
+ Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
+
+
+“(d)
+ To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction and should remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime with assurances that the interception is justified and that the information obtained thereby will not be misused.”
+
+
+ Interception and disclosure of wire, oral, or electronic communications prohibited
+(b)
+ The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
+
+
+ Manufacture, distribution, possession, and advertising of wire, oral, or electronic communication intercepting devices prohibited
+ Confiscation of wire, oral, or electronic communication intercepting devices
+Any electronic, mechanical, or other device used, sent, carried, manufactured, assembled, possessed, sold, or advertised in violation of section 2511 or section 2512 of this chapter may be seized and forfeited to the United States. All provisions of law relating to (1) the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violations of the customs laws contained in title 19 of the United States Code, (2) the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof, (3) the remission or mitigation of such forfeiture, (4) the compromise of claims, and (5) the award of compensation to informers in respect of such forfeitures, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions of this section; except that such duties as are imposed upon the collector of customs or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the provisions of the customs laws contained in title 19 of the United States Code shall be performed with respect to seizure and forfeiture of electronic, mechanical, or other intercepting devices under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General.
+ Repealed. 
+ Prohibition of use as evidence of intercepted wire or oral communications
+Whenever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof if the disclosure of that information would be in violation of this chapter.
+ Authorization for interception of wire, oral, or electronic communications
+ Authorization for disclosure and use of intercepted wire, oral, or electronic communications
+ Procedure for interception of wire, oral, or electronic communications
+ Reports concerning intercepted wire, oral, or electronic communications
+ Recovery of civil damages authorized
+(a)
+ 
+In General
+.—
+Except as provided in section 2511(2)(a)(ii), any person whose wire, oral, or electronic communication is intercepted, disclosed, or intentionally used in violation of this chapter may in a civil action recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
+
+
+(b)
+ 
+Relief
+.—
+In an action under this section, appropriate relief includes—
+(1)
+ such preliminary and other equitable or declaratory relief as may be appropriate;
+
+
+
+
+(2)
+ damages under subsection (c) and punitive damages in appropriate cases; and
+
+
+
+
+(3)
+ a reasonable attorney’s fee and other litigation costs reasonably incurred.
+
+
+
+
+(c)
+ 
+Computation of Damages
+.—
+(1)
+ In an action under this section, if the conduct in violation of this chapter is the private viewing of a private satellite video communication that is not scrambled or encrypted or if the communication is a radio communication that is transmitted on frequencies allocated under subpart D of part 74 of the rules of the Federal Communications Commission that is not scrambled or encrypted and the conduct is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, then the court shall assess damages as follows:
+(A)
+ If the person who engaged in that conduct has not previously been enjoined under section 2511(5) and has not been found liable in a prior civil action under this section, the court shall assess the greater of the sum of actual damages suffered by the plaintiff, or statutory damages of not less than $50 and not more than $500.
+
+
+
+
+(B)
+ If, on one prior occasion, the person who engaged in that conduct has been enjoined under section 2511(5) or has been found liable in a civil action under this section, the court shall assess the greater of the sum of actual damages suffered by the plaintiff, or statutory damages of not less than $100 and not more than $1000.
+
+
+
+
+
+
+(2)
+ In any other action under this section, the court may assess as damages whichever is the greater of—
+(A)
+ the sum of the actual damages suffered by the plaintiff and any profits made by the violator as a result of the violation; or
+
+
+
+
+(B)
+ statutory damages of whichever is the greater of $100 a day for each day of violation or $10,000.
+
+
+
+
+
+
+(d)
+ 
+Defense
+.—
+A good faith reliance on—
+(1)
+ a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization;
+
+
+
+
+(2)
+ a request of an investigative or law enforcement officer under 
+section 2518(7) of this title
+; or
+
+
+
+
+(3)
+ a good faith determination that section 2511(3) or 2511(2)(i) of this title permitted the conduct complained of;
+
+
+
+
+
+is a complete defense against any civil or criminal action brought under this chapter or any other law.
+
+
+(e)
+ 
+Limitation
+.—
+A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
+
+
+(f)
+ 
+Administrative Discipline
+.—
+If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+
+
+(g)
+ 
+Improper Disclosure Is Violation
+.—
+Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
+
+
+ Injunction against illegal interception
+Whenever it shall appear that any person is engaged or is about to engage in any act which constitutes or will constitute a felony violation of this chapter, the Attorney General may initiate a civil action in a district court of the United States to enjoin such violation. The court shall proceed as soon as practicable to the hearing and determination of such an action, and may, at any time before final determination, enter such a restraining order or prohibition, or take such other action, as is warranted to prevent a continuing and substantial injury to the United States or to any person or class of persons for whose protection the action is brought. A proceeding under this section is governed by the Federal Rules of Civil Procedure, except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
+ Enforcement of the Communications Assistance for Law Enforcement Act
+(a)
+ 
+Enforcement by Court Issuing Surveillance Order
+.—
+If a court authorizing an interception under this chapter, a State statute, or the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1801
+ et seq.) or authorizing use of a pen register or a trap and trace device under chapter 206 or a State statute finds that a telecommunications carrier has failed to comply with the requirements of the Communications Assistance for Law Enforcement Act, the court may, in accordance with section 108 of such Act, direct that the carrier comply forthwith and may direct that a provider of support services to the carrier or the manufacturer of the carrier’s transmission or switching equipment furnish forthwith modifications necessary for the carrier to comply.
+
+
+(b)
+ 
+Enforcement Upon Application by Attorney General
+.—
+The Attorney General may, in a civil action in the appropriate United States district court, obtain an order, in accordance with section 108 of the Communications Assistance for Law Enforcement Act, directing that a telecommunications carrier, a manufacturer of telecommunications transmission or switching equipment, or a provider of telecommunications support services comply with such Act.
+
+
+(c)
+ Civil Penalty.—
+(1)
+ 
+In general
+.—
+A court issuing an order under this section against a telecommunications carrier, a manufacturer of telecommunications transmission or switching equipment, or a provider of telecommunications support services may impose a civil penalty of up to $10,000 per day for each day in violation after the issuance of the order or after such future date as the court may specify.
+
+
+
+
+(2)
+ 
+Considerations
+.—
+In determining whether to impose a civil penalty and in determining its amount, the court shall take into account—
+(A)
+ the nature, circumstances, and extent of the violation;
+
+
+
+
+(B)
+ the violator’s ability to pay, the violator’s good faith efforts to comply in a timely manner, any effect on the violator’s ability to continue to do business, the degree of culpability, and the length of any delay in undertaking efforts to comply; and
+
+
+
+
+(C)
+ such other matters as justice may require.
+
+
+
+
+
+
+(d)
+ 
+Definitions
+.—
+As used in this section, the terms defined in section 102 of the Communications Assistance for Law Enforcement Act have the meanings provided, respectively, in such section.
+
+

@@ -1,0 +1,6013 @@
+
+Chapter 65
+ABATEMENTS, CREDITS, AND REFUNDS
+ Amounts treated as overpayments
+(a)
+ Assessment and collection after limitation period.
+The term “overpayment” includes that part of the amount of the payment of any internal revenue tax which is assessed or collected after the expiration of the period of limitation properly applicable thereto.
+
+
+
+
+(b)
+ Excessive credits
+(1)
+ In general
+If the amount allowable as credits under subpart C of part IV of subchapter A of chapter 1 (relating to refundable credits) exceeds the tax imposed by subtitle A (reduced by the credits allowable under subparts A, B, D, G, H, I, and J of such part IV), the amount of such excess shall be considered an overpayment.
+
+
+
+
+
+
+(2)
+ Special rule for credit under section 33
+For purposes of paragraph (1), any credit allowed under section 33 (relating to withholding of tax on nonresident aliens and on foreign corporations) for any taxable year shall be treated as a credit allowable under subpart C of part IV of subchapter A of chapter 1 only if an election under subsection (g) or (h) of section 6013 is in effect for such taxable year. The preceding sentence shall not apply to any credit so allowed by reason of section 1446.
+
+
+
+
+
+
+(c)
+ Rule where no tax liability
+An amount paid as tax shall not be considered not to constitute an overpayment solely by reason of the fact that there was no tax liability in respect of which such amount was paid.
+
+
+
+
+ Authority to make credits or refunds
+(a)
+ General rule
+In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), (e), and (f) 
+1
+1
+ So in original. Probably should be followed by a comma.
+ refund any balance to such person.
+
+
+
+
+(b)
+ Credits against estimated tax
+The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
+
+
+
+
+(c)
+ Offset of past-due support against overpayments
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of 
+2
+2
+ So in original.
+ such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
+
+
+
+
+(d)
+ Collection of debts owed to Federal agencies
+(1)
+ In general
+Upon receiving notice from any Federal agency that a named person owes a past-due legally enforceable debt (other than past-due support subject to the provisions of subsection (c)) to such agency, the Secretary shall—
+(A)
+ reduce the amount of any overpayment payable to such person by the amount of such debt;
+
+
+
+
+(B)
+ pay the amount by which such overpayment is reduced under subparagraph (A) to such agency; and
+
+
+
+
+(C)
+ notify the person making such overpayment that such overpayment has been reduced by an amount necessary to satisfy such debt.
+
+
+
+
+
+
+(2)
+ Priorities for offset
+Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) 
+3
+3
+ See References in Text note below.
+ of the Social Security Act and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+
+
+
+
+
+
+(3)
+ Treatment of OASDI overpayments
+(A)
+ Requirements
+Paragraph (1) shall apply with respect to an OASDI overpayment only if the requirements of paragraphs (1) and (2) of 
+section 3720A(f) of title 31
+, United States Code, are met with respect to such overpayment.
+
+
+
+
+
+
+(B)
+ Notice; protection of other persons filing joint return
+(i)
+ Notice
+In the case of a debt consisting of an OASDI overpayment, if the Secretary determines upon receipt of the notice referred to in paragraph (1) that the refund from which the reduction described in paragraph (1)(A) would be made is based upon a joint return, the Secretary shall—
+(I)
+ notify each taxpayer filing such joint return that the reduction is being made from a refund based upon such return, and
+
+
+
+
+(II)
+ include in such notification a description of the procedures to be followed, in the case of a joint return, to protect the share of the refund which may be payable to another person.
+
+
+
+
+
+
+(ii)
+ Adjustments based on protections given to other taxpayers on joint return
+If the other person filing a joint return with the person owing the OASDI overpayment takes appropriate action to secure his or her proper share of the refund subject to reduction under this subsection, the Secretary shall pay such share to such other person. The Secretary shall deduct the amount of such payment from amounts which are derived from subsequent reductions in refunds under this subsection and are payable to a trust fund referred to in subparagraph (C).
+
+
+
+
+
+
+
+
+(C)
+ Deposit of amount of reduction into appropriate trust fund
+In lieu of payment, pursuant to paragraph (1)(B), of the amount of any reduction under this subsection to the Commissioner of Social Security, the Secretary shall deposit such amount in the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, whichever is certified to the Secretary as appropriate by the Commissioner of Social Security.
+
+
+
+
+
+
+(D)
+ OASDI overpayment
+For purposes of this paragraph, the term “OASDI overpayment” means any overpayment of benefits made to an individual under title II of the Social Security Act.
+
+
+
+
+
+
+
+
+(e)
+ Collection of past-due, legally enforceable State income tax obligations
+(1)
+ In general
+Upon receiving notice from any State that a named person owes a past-due, legally enforceable State income tax obligation to such State, the Secretary shall, under such conditions as may be prescribed by the Secretary—
+(A)
+ reduce the amount of any overpayment payable to such person by the amount of such State income tax obligation;
+
+
+
+
+(B)
+ pay the amount by which such overpayment is reduced under subparagraph (A) to such State and notify such State of such person’s name, taxpayer identification number, address, and the amount collected; and
+
+
+
+
+(C)
+ notify the person making such overpayment that the overpayment has been reduced by an amount necessary to satisfy a past-due, legally enforceable State income tax obligation.
+
+
+
+
+
+If an offset is made pursuant to a joint return, the notice under subparagraph (B) shall include the names, taxpayer identification numbers, and addresses of each person filing such return.
+
+
+
+
+(2)
+ Offset permitted only against residents of State seeking offset
+Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset.
+
+
+
+
+
+
+(3)
+ Priorities for offset
+Any overpayment by a person shall be reduced pursuant to this subsection—
+(A)
+ after such overpayment is reduced pursuant to—
+(i)
+ subsection (a) with respect to any liability for any internal revenue tax on the part of the person who made the overpayment;
+
+
+
+
+(ii)
+ subsection (c) with respect to past-due support; and
+
+
+
+
+(iii)
+ subsection (d) with respect to any past-due, legally enforceable debt owed to a Federal agency; and
+
+
+
+
+
+
+(B)
+ before such overpayment is credited to the future liability for any Federal internal revenue tax of such person pursuant to subsection (b).
+
+
+
+
+
+If the Secretary receives notice from one or more agencies of the State of more than one debt subject to paragraph (1) or subsection (f) that is owed by such person to such an agency, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+
+
+
+
+(4)
+ Notice; consideration of evidence
+No State may take action under this subsection until such State—
+(A)
+ notifies by certified mail with return receipt the person owing the past-due State income tax liability that the State proposes to take action pursuant to this section;
+
+
+
+
+(B)
+ gives such person at least 60 days to present evidence that all or part of such liability is not past-due or not legally enforceable;
+
+
+
+
+(C)
+ considers any evidence presented by such person and determines that an amount of such debt is past-due and legally enforceable; and
+
+
+
+
+(D)
+ satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C) is valid and that the State has made reasonable efforts to obtain payment of such State income tax obligation.
+
+
+
+
+
+
+(5)
+ Past-due, legally enforceable State income tax obligation
+For purposes of this subsection, the term “past-due, legally enforceable State income tax obligation” means a debt—
+(A)
+(i)
+ which resulted from—
+(I)
+ a judgment rendered by a court of competent jurisdiction which has determined an amount of State income tax to be due; or
+
+
+
+
+(II)
+ a determination after an administrative hearing which has determined an amount of State income tax to be due; and
+
+
+
+
+
+
+(ii)
+ which is no longer subject to judicial review; or
+
+
+
+
+
+
+(B)
+ which resulted from a State income tax which has been assessed but not collected, the time for redetermination of which has expired, and which has not been delinquent for more than 10 years.
+
+
+
+
+
+For purposes of this paragraph, the term “State income tax” includes any local income tax administered by the chief tax administration agency of the State.
+
+
+
+
+(6)
+ Regulations
+The Secretary shall issue regulations prescribing the time and manner in which States must submit notices of past-due, legally enforceable State income tax obligations and the necessary information that must be contained in or accompany such notices. The regulations shall specify the types of State income taxes and the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied. The regulations may require States to pay a fee to reimburse the Secretary for the cost of applying such procedure. Any fee paid to the Secretary pursuant to the preceding sentence shall be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
+
+
+
+
+
+
+(7)
+ Erroneous payment to State
+Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+
+
+
+
+
+
+(f)
+ Collection of unemployment compensation debts
+(1)
+ In general
+Upon receiving notice from any State that a named person owes a covered unemployment compensation debt to such State, the Secretary shall, under such conditions as may be prescribed by the Secretary—
+(A)
+ reduce the amount of any overpayment payable to such person by the amount of such covered unemployment compensation debt;
+
+
+
+
+(B)
+ pay the amount by which such overpayment is reduced under subparagraph (A) to such State and notify such State of such person’s name, taxpayer identification number, address, and the amount collected; and
+
+
+
+
+(C)
+ notify the person making such overpayment that the overpayment has been reduced by an amount necessary to satisfy a covered unemployment compensation debt.
+
+
+
+
+
+If an offset is made pursuant to a joint return, the notice under subparagraph (C) shall include information related to the rights of a spouse of a person subject to such an offset.
+
+
+
+
+(2)
+ Priorities for offset
+Any overpayment by a person shall be reduced pursuant to this subsection—
+(A)
+ after such overpayment is reduced pursuant to—
+(i)
+ subsection (a) with respect to any liability for any internal revenue tax on the part of the person who made the overpayment;
+
+
+
+
+(ii)
+ subsection (c) with respect to past-due support; and
+
+
+
+
+(iii)
+ subsection (d) with respect to any past-due, legally enforceable debt owed to a Federal agency; and
+
+
+
+
+
+
+(B)
+ before such overpayment is credited to the future liability for any Federal internal revenue tax of such person pursuant to subsection (b).
+
+
+
+
+
+If the Secretary receives notice from a State or States of more than one debt subject to paragraph (1) or subsection (e) that is owed by a person to such State or States, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+
+
+
+
+(3)
+ Notice; consideration of evidence
+No State may take action under this subsection until such State—
+(A)
+ notifies the person owing the covered unemployment compensation debt that the State proposes to take action pursuant to this section;
+
+
+
+
+(B)
+ provides such person at least 60 days to present evidence that all or part of such liability is not legally enforceable or is not a covered unemployment compensation debt;
+
+
+
+
+(C)
+ considers any evidence presented by such person and determines that an amount of such debt is legally enforceable and is a covered unemployment compensation debt; and
+
+
+
+
+(D)
+ satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C) is valid and that the State has made reasonable efforts to obtain payment of such covered unemployment compensation debt.
+
+
+
+
+
+
+(4)
+ Covered unemployment compensation debt
+For purposes of this subsection, the term “covered unemployment compensation debt” means—
+(A)
+ a past-due debt for erroneous payment of unemployment compensation due to fraud or the person’s failure to report earnings which has become final under the law of a State certified by the Secretary of Labor pursuant to section 3304 and which remains uncollected;
+
+
+
+
+(B)
+ contributions due to the unemployment fund of a State for which the State has determined the person to be liable and which remain uncollected; and
+
+
+
+
+(C)
+ any penalties and interest assessed on such debt.
+
+
+
+
+
+
+(5)
+ Regulations
+(A)
+ In general
+The Secretary may issue regulations prescribing the time and manner in which States must submit notices of covered unemployment compensation debt and the necessary information that must be contained in or accompany such notices. The regulations may specify the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied.
+
+
+
+
+
+
+(B)
+ Fee payable to Secretary
+The regulations may require States to pay a fee to the Secretary, which may be deducted from amounts collected, to reimburse the Secretary for the cost of applying such procedure. Any fee paid to the Secretary pursuant to the preceding sentence shall be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
+
+
+
+
+
+
+(C)
+ Submission of notices through Secretary of Labor
+The regulations may include a requirement that States submit notices of covered unemployment compensation debt to the Secretary via the Secretary of Labor in accordance with procedures established by the Secretary of Labor. Such procedures may require States to pay a fee to the Secretary of Labor to reimburse the Secretary of Labor for the costs of applying this subsection. Any such fee shall be established in consultation with the Secretary of the Treasury. Any fee paid to the Secretary of Labor may be deducted from amounts collected and shall be used to reimburse the appropriation account which bore all or part of the cost of applying this subsection.
+
+
+
+
+
+
+
+
+(6)
+ Erroneous payment to State
+Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+
+
+
+
+
+
+(g)
+ Review of reductions
+No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c), (d), (e), or (f). No such reduction shall be subject to review by the Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
+
+
+
+
+(h)
+ Federal agency
+For purposes of this section, the term “Federal agency” means a department, agency, or instrumentality of the United States, and includes a Government corporation (as such term is defined in 
+section 103 of title 5
+, United States Code).
+
+
+
+
+(i)
+ Treatment of payments to States
+The Secretary may provide that, for purposes of determining interest, the payment of any amount withheld under subsection (c), (e), or (f) to a State shall be treated as a payment to the person or persons making the overpayment.
+
+
+
+
+(j)
+ Cross reference
+For procedures relating to agency notification of the Secretary, see 
+section 3721 of title 31
+, United States Code.
+
+
+
+
+(k)
+ Refunds to certain fiduciaries of insolvent members of affiliated groups
+Notwithstanding any other provision of law, in the case of an insolvent corporation which is a member of an affiliated group of corporations filing a consolidated return for any taxable year and which is subject to a statutory or court-appointed fiduciary, the Secretary may by regulation provide that any refund for such taxable year may be paid on behalf of such insolvent corporation to such fiduciary to the extent that the Secretary determines that the refund is attributable to losses or credits of such insolvent corporation.
+
+
+
+
+(l)
+ Explanation of reason for refund disallowance
+In the case of a disallowance of a claim for refund, the Secretary shall provide the taxpayer with an explanation for such disallowance.
+
+
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of the Treasury shall, to the extent practicable, include with the mailing of any payment of a refund of individual income tax made during the period beginning on 
+February 1, 1997
+, and ending on 
+June 30, 1997
+, a copy of the document described in subsection (b).
+
+
+“(b)
+ 
+Text of Document
+.—
+The Secretary of the Treasury shall, after consultation with the Secretary of Health and Human Services and organizations promoting organ and tissue (including eye) donation, prepare a document suitable for inclusion with individual income tax refund payments which—
+“(1)
+ encourages organ and tissue donation;
+
+
+
+
+“(2)
+ includes a detachable organ and tissue donor card; and
+
+
+
+
+“(3)
+ urges recipients to—
+“(A)
+ sign the organ and tissue donor card;
+
+
+
+
+“(B)
+ discuss organ and tissue donation with family members and tell family members about the recipient’s desire to be an organ and tissue donor if the occasion arises; and
+
+
+
+
+“(C)
+ encourage family members to request or authorize organ and tissue donation if the occasion arises.”
+
+
+
+
+
+
+ Overpayment of installment
+In the case of a tax payable in installments, if the taxpayer has paid as an installment of the tax more than the amount determined to be the correct amount of such installment, the overpayment shall be credited against the unpaid installments, if any. If the amount already paid, whether or not on the basis of installments, exceeds the amount determined to be the correct amount of the tax, the overpayment shall be credited or refunded as provided in section 6402.
+ Abatements
+(a)
+ General rule
+The Secretary is authorized to abate the unpaid portion of the assessment of any tax or any liability in respect thereof, which—
+(1)
+ is excessive in amount, or
+
+
+
+
+(2)
+ is assessed after the expiration of the period of limitation properly applicable thereto, or
+
+
+
+
+(3)
+ is erroneously or illegally assessed.
+
+
+
+
+(b)
+ No claim for abatement of income, estate, and gift taxes
+No claim for abatement shall be filed by a taxpayer in respect of any assessment of any tax imposed under subtitle A or B.
+
+
+
+
+(c)
+ Small tax balances
+The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or any liability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
+
+
+
+
+(d)
+ Assessments attributable to certain mathematical errors by Internal Revenue Service
+In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
+
+
+
+
+(e)
+ Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
+(1)
+ In general
+In the case of any assessment of interest on—
+(A)
+ any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the Internal Revenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
+
+
+
+
+(B)
+ any payment of any tax described in section 6212(a) to the extent that any unreasonable error or delay in such payment is attributable to such an officer or employee being erroneous or dilatory in performing a ministerial or managerial act,
+
+
+
+
+
+the Secretary may abate the assessment of all or any part of such interest for any period. For purposes of the preceding sentence, an error or delay shall be taken into account only if no significant aspect of such error or delay can be attributed to the taxpayer involved, and after the Internal Revenue Service has contacted the taxpayer in writing with respect to such deficiency or payment.
+
+
+
+
+(2)
+ Interest abated with respect to erroneous refund check
+The Secretary shall abate the assessment of all interest on any erroneous refund under section 6602 until the date demand for repayment is made, unless—
+(A)
+ the taxpayer (or a related party) has in any way caused such erroneous refund, or
+
+
+
+
+(B)
+ such erroneous refund exceeds $50,000.
+
+
+
+
+
+
+(f)
+ Abatement of any penalty or addition to tax attributable to erroneous written advice by the Internal Revenue Service
+(1)
+ In general
+The Secretary shall abate any portion of any penalty or addition to tax attributable to erroneous advice furnished to the taxpayer in writing by an officer or employee of the Internal Revenue Service, acting in such officer’s or employee’s official capacity.
+
+
+
+
+
+
+(2)
+ Limitations
+Paragraph (1) shall apply only if—
+(A)
+ the written advice was reasonably relied upon by the taxpayer and was in response to a specific written request of the taxpayer, and
+
+
+
+
+(B)
+ the portion of the penalty or addition to tax did not result from a failure by the taxpayer to provide adequate or accurate information.
+
+
+
+
+
+
+(3)
+ Initial regulations
+Within 180 days after the date of the enactment of this subsection, the Secretary shall prescribe such initial regulations as may be necessary to carry out this subsection.
+
+
+
+
+
+
+(g)
+ Suspension of interest and certain penalties where Secretary fails to contact taxpayer
+(1)
+ Suspension
+(A)
+ In general
+In the case of an individual who files a return of tax imposed by subtitle A for a taxable year on or before the due date for the return (including extensions), if the Secretary does not provide a notice to the taxpayer specifically stating the taxpayer’s liability and the basis for the liability before the close of the 36-month period beginning on the later of—
+(i)
+ the date on which the return is filed; or
+
+
+
+
+(ii)
+ the due date of the return without regard to extensions,
+
+
+
+
+
+the Secretary shall suspend the imposition of any interest, penalty, addition to tax, or additional amount with respect to any failure relating to the return which is computed by reference to the period of time the failure continues to exist and which is properly allocable to the suspension period.
+
+
+
+
+(B)
+ Separate application
+This paragraph shall be applied separately with respect to each item or adjustment.
+
+
+
+
+
+
+
+If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
+
+
+
+
+(2)
+ Exceptions
+Paragraph (1) shall not apply to—
+(A)
+ any penalty imposed by section 6651;
+
+
+
+
+(B)
+ any interest, penalty, addition to tax, or additional amount in a case involving fraud;
+
+
+
+
+(C)
+ any interest, penalty, addition to tax, or additional amount with respect to any tax liability shown on the return;
+
+
+
+
+(D)
+ any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
+
+
+
+
+(E)
+ any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) 
+1
+1
+ See References in Text note below.
+ is not met and any listed transaction (as defined in 6707A(c)); or
+
+
+
+
+(F)
+ any criminal penalty.
+
+
+
+
+
+
+(3)
+ Suspension period
+For purposes of this subsection, the term “suspension period” means the period—
+(A)
+ beginning on the day after the close of the 36-month period under paragraph (1); and
+
+
+
+
+(B)
+ ending on the date which is 21 days after the date on which notice described in paragraph (1)(A) is provided by the Secretary.
+
+
+
+
+
+
+(h)
+ Review of denial of request for abatement of interest
+(1)
+ In general
+The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.
+
+
+
+
+
+
+(2)
+ Special rules
+(A)
+ Date of mailing
+Rules similar to the rules of section 6213 shall apply for purposes of determining the date of the mailing referred to in paragraph (1).
+
+
+
+
+
+
+(B)
+ Relief
+Rules similar to the rules of section 6512(b) shall apply for purposes of this subsection.
+
+
+
+
+
+
+(C)
+ Review
+An order of the Tax Court under this subsection shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
+
+
+
+
+
+
+
+
+(i)
+ Cross reference
+For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.
+
+
+
+
+“(b)
+ 
+Effective Date
+.—
+The amendment made by this section [amending this section] shall apply to disasters declared after 
+December 31, 1997
+, with respect to taxable years beginning after 
+December 31, 1997
+.
+
+
+“(c)
+ Emergency Designation.—
+“(1)
+ For the purposes of section 252(e) of the Balanced Budget and Emergency Deficit Control Act [
+2 U.S.C. 902(e)
+], Congress designates the provisions of this section as an emergency requirement.
+
+
+
+
+“(2)
+ The amendments made by subsections (a) and (b) of this section [amending this section] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
+
+
+
+
+ Reports of refunds and credits
+(a)
+ By Treasury to Joint Committee
+No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators’ trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 shall be made until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
+
+
+
+
+(b)
+ Tentative adjustments
+Any credit or refund allowed or made under section 6411 shall be made without regard to the provisions of subsection (a) of this section. In any such case, if the credit or refund, reduced by any deficiency in such tax thereafter assessed and by deficiencies in any other tax resulting from adjustments reflected in the determination of the credit or refund, is in excess of $2,000,000, there shall be submitted to such committee a report containing the matter specified in subsection (a) at such time after the making of the credit or refund as the Secretary shall determine the correct amount of the tax.
+
+
+
+
+(c)
+ Refunds attributable to certain disaster losses
+If any refund or credit of income taxes is attributable to the taxpayer’s election under section 165(i) to deduct a disaster loss for the taxable year immediately preceding the taxable year in which the disaster occurred, the Secretary is authorized in his discretion to make the refund or credit, to the extent attributable to such election, without regard to the provisions of subsection (a) of this section. If such refund or credit is made without regard to subsection (a), there shall thereafter be submitted to such Joint Committee a report containing the matter specified in subsection (a) as soon as the Secretary shall determine the correct amount of the tax for the taxable year for which the refund or credit is made.
+
+
+
+
+ Prohibition of administrative review of decisions
+In the absence of fraud or mistake in mathematical calculation, the findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by the internal revenue laws and the allowance or non-allowance by the Secretary of interest on any credit or refund under the internal revenue laws shall not, except as provided in subchapters C and D of chapter 76 (relating to the Tax Court), be subject to review by any other administrative or accounting officer, employee, or agent of the United States.
+ Date of allowance of refund or credit
+The date on which the Secretary first authorizes the scheduling of an overassessment in respect of any internal revenue tax shall be considered as the date of allowance of refund or credit in respect of such tax.
+ State escheat laws not to apply
+No overpayment of any tax imposed by this title shall be refunded (and no interest with respect to any such overpayment shall be paid) if the amount of such refund (or interest) would escheat to a State or would otherwise become the property of a State under any law relating to the disposition of unclaimed or abandoned property. No refund (or payment of interest) shall be made to the estate of any decedent unless it is affirmatively shown that such amount will not escheat to a State or otherwise become the property of a State under such a law.
+ Refunds disregarded in the administration of Federal programs and federally assisted programs
+Notwithstanding any other provision of law, any refund (or advance payment with respect to a refundable credit) made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual (or any other individual) for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds.
+ Tentative carryback and refund adjustments
+(a)
+ Application for adjustment
+A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
+(1)
+ The amount of the net operating loss, net capital loss, or unused business credit;
+
+
+
+
+(2)
+ The amount of the tax previously determined for the prior taxable year affected by such carryback, the tax previously determined being ascertained in accordance with the method prescribed in section 1314(a);
+
+
+
+
+(3)
+ The amount of decrease in such tax, attributable to such carryback, such decrease being determined by applying the carryback in the manner provided by law to the items on the basis of which such tax was determined;
+
+
+
+
+(4)
+ The unpaid amount of such tax, not including any amount required to be shown under paragraph (5);
+
+
+
+
+(5)
+ The amount, with respect to the tax for the taxable year immediately preceding the taxable year from which the carryback is made, as to which an extension of time for payment under section 6164 is in effect; and
+
+
+
+
+(6)
+ Such other information for purposes of carrying out the provisions of this section as may be required by such regulations.
+
+
+
+
+
+Except for purposes of applying section 6611(f)(4)(B), an application under this subsection shall not constitute a claim for credit or refund.
+
+
+(b)
+ Allowance of adjustments
+Within a period of 90 days from the date on which an application for a tentative carryback adjustment is filed under subsection (a), or from the last day of the month in which falls the last date prescribed by law (including any extension of time granted the taxpayer) for filing the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which such carryback results, whichever is the later, the Secretary shall make, to the extent he deems practicable in such period, a limited examination of the application, to discover omissions and errors of computation therein, and shall determine the amount of the decrease in the tax attributable to such carryback upon the basis of the application and the examination, except that the Secretary may disallow, without further action, any application which he finds contains errors of computation which he deems cannot be corrected by him within such 90-day period or material omissions. Such decrease shall be applied against any unpaid amount of the tax decreased (including any amount of such tax as to which an extension of time under section 6164 is in effect) and any remainder shall be credited against any unsatisfied amount of any tax for the taxable year immediately preceding the taxable year of the net operating loss, net capital loss, or unused business credit the time for payment of which tax is extended under section 6164. Any remainder shall, within such 90-day period, be either credited against any tax or installment thereof then due from the taxpayer, or refunded to the taxpayer.
+
+
+
+
+(c)
+ Consolidated returns
+If the corporation seeking a tentative carryback adjustment under this section, made or was required to make a consolidated return, either for the taxable year within which the net operating loss, net capital loss, or unused business credit arises, or for the preceding taxable year affected by such loss or credit, the provisions of this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
+
+
+
+
+(d)
+ Tentative refund of tax under claim of right adjustment
+(1)
+ Application
+A taxpayer may file an application for a tentative refund of any amount treated as an overpayment of tax for the taxable year under section 1341(b)(1). Such application shall be in such manner and form as the Secretary may prescribe by regulation and shall—
+(A)
+ be verified in the same manner as an application under subsection (a),
+
+
+
+
+(B)
+ be filed during the period beginning on the date of filing the return for such taxable year and ending on the date 12 months from the last day of such taxable year, and
+
+
+
+
+(C)
+ set forth in such detail and with such supporting data such regulations prescribe—
+(i)
+ the amount of the tax for such taxable year computed without regard to the deduction described in section 1341(a)(2),
+
+
+
+
+(ii)
+ the amount of the tax for all prior taxable years for which the decrease in tax provided in section 1341(a)(5)(B) was computed,
+
+
+
+
+(iii)
+ the amount determined under section 1341(a)(5)(B),
+
+
+
+
+(iv)
+ the amount of the overpayment determined under section 1341(b)(1); and
+
+
+
+
+(v)
+ such other information as the Secretary may require.
+
+
+
+
+
+
+
+
+(2)
+ Allowance of adjustments
+Within a period of 90 days from the date on which an application is filed under paragraph (1) or from the date of the overpayment (determined under section 1341(b)(1)), whichever is later, the Secretary shall—
+(A)
+ review the application,
+
+
+
+
+(B)
+ determine the amount of the overpayment, and
+
+
+
+
+(C)
+ apply, credit, or refund such overpayment,
+
+
+
+
+
+in a manner similar to the manner provided in subsection (b).
+
+
+
+
+(3)
+ Consolidated returns
+The provisions of subsection (c) shall apply to an adjustment under this subsection to the same extent and manner as the Secretary may by regulations provide.
+
+
+
+
+
+
+ Floor stocks refunds
+(a)
+ In general
+(1)
+ Tires and taxable fuel
+Where before 
+October 1, 2016
+, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after 
+October 1, 2016
+, if claim for such credit or refund is filed with the Secretary on or before 
+March 31, 2017
+, based upon a request submitted to the manufacturer, producer, or importer before 
+January 1, 2017
+, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before 
+March 31, 2017
+, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
+
+
+
+
+
+
+(2)
+ Definitions
+For purposes of this section—
+(A)
+ The term “dealer” includes a wholesaler, jobber, distributor, or retailer.
+
+
+
+
+(B)
+ An article shall be considered as “held by a dealer” if title thereto has passed to such dealer (whether or not delivery to him has been made), and if for purposes of consumption title to such article or possession thereof has not at any time been transferred to any person other than a dealer.
+
+
+
+
+
+
+(b)
+ Limitation on eligibility for credit or refund
+No manufacturer, producer, or importer shall be entitled to credit or refund under subsection (a) unless he has in his possession such evidence of the inventories with respect to which the credit or refund is claimed as may be required by regulations prescribed under this section.
+
+
+
+
+(c)
+ Other laws applicable
+All provisions of law, including penalties, applicable in respect of the taxes imposed by sections 4071 and 4081 shall, insofar as applicable and not inconsistent with subsections (a) and (b) of this section, apply in respect of the credits and refunds provided for in subsection (a) to the same extent as if such credits or refunds constituted overpayments of such taxes.
+
+
+
+
+ Special rules applicable to certain employment taxes
+(a)
+ Adjustment of tax
+(1)
+ General rule
+If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid with respect to any payment of remuneration, proper adjustments, with respect to both the tax and the amount to be deducted, shall be made, without interest, in such manner and at such times as the Secretary may by regulations prescribe.
+
+
+
+
+
+
+(2)
+ United States as employer
+For purposes of this subsection, in the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall be deemed a separate employer.
+
+
+
+
+
+
+(3)
+ Guam or American Samoa as employer
+For purposes of this subsection, in the case of remuneration received during any calendar year from the Government of Guam, the Government of American Samoa, a political subdivision of either, or any instrumentality of any one or more of the foregoing which is wholly owned thereby, the Governor of Guam, the Governor of American Samoa, and each agent designated by either who makes a return pursuant to section 3125 shall be deemed a separate employer.
+
+
+
+
+
+
+(4)
+ District of Columbia as employer
+For purposes of this subsection, in the case of remuneration received during any calendar year from the District of Columbia or any instrumentality which is wholly owned thereby, the Mayor of the District of Columbia and each agent designated by him who makes a return pursuant to section 3125 shall be deemed a separate employer.
+
+
+
+
+
+
+(5)
+ States and political subdivisions as employer
+For purposes of this subsection, in the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
+
+
+
+
+
+
+(b)
+ Overpayments of certain employment taxes
+If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of remuneration and the overpayment cannot be adjusted under subsection (a) of this section, the amount of the overpayment shall be refunded in such manner and at such times (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
+
+
+
+
+(c)
+ Special refunds
+(1)
+ In general
+If by reason of an employee receiving wages from more than one employer during a calendar year the wages received by him during such year exceed the contribution and benefit base (as determined under section 230 of the Social Security Act) which is effective with respect to such year, the employee shall be entitled (subject to the provisions of section 31(b)) to a credit or refund of any amount of tax, with respect to such wages, imposed by section 3101(a) or section 3201(a) (to the extent of so much of the rate applicable under section 3201(a) as does not exceed the rate of tax in effect under section 3101(a)), or by both such sections, and deducted from the employee’s wages (whether or not paid to the Secretary), which exceeds the tax with respect to the amount of such wages received in such year which is equal to such contribution and benefit base. The term “wages” as used in this paragraph shall, for purposes of this paragraph, include “compensation” as defined in section 3231(e).
+
+
+
+
+
+
+(2)
+ Applicability in case of Federal and State employees, employees of certain foreign affiliates, and governmental employees in Guam, American Samoa, and the District of Columbia
+(A)
+ Federal employees
+In the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall, for purposes of this subsection, be deemed a separate employer; and the term “wages” includes for purposes of this subsection the amount, not to exceed an amount equal to the contribution and benefit base (as determined under section 230 of the Social Security Act) for any calendar year with respect to which such contribution and benefit base is effective, determined by each such head or agent as constituting wages paid to an employee.
+
+
+
+
+
+
+(B)
+ State employees
+For purposes of this subsection, in the case of remuneration received during any calendar year, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 218 of the Social Security Act as would be wages if such services constituted employment; the term “employer” includes a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing; the term “tax” or “tax imposed by section 3101(a)” includes, in the case of services covered by an agreement made pursuant to section 218 of the Social Security Act, an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of this subsection shall apply whether or not any amount deducted from the employee’s remuneration as a result of an agreement made pursuant to section 218 of the Social Security Act has been paid to the Secretary.
+
+
+
+
+
+
+(C)
+ Employees of certain foreign affiliates
+For purposes of paragraph (1) of this subsection, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 3121(
+l
+) as would be wages if such services constituted employment; the term “employer” includes any American employer which has entered into an agreement pursuant to section 3121(
+l
+); the term “tax” or “tax imposed by section 3101(a),” includes, in the case of services covered by an agreement entered into pursuant to section 3121(
+l
+), an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of paragraph (1) of this subsection shall apply whether or not any amount deducted from the employee’s remuneration as a result of the agreement entered into pursuant to section 3121(
+l
+) has been paid to the Secretary.
+
+
+
+
+
+
+(D)
+ Governmental employees in Guam
+In the case of remuneration received from the Government of Guam or any political subdivision thereof or from any instrumentality of any one or more of the foregoing which is wholly owned thereby, during any calendar year, the Governor of Guam and each agent designated by him who makes a return pursuant to section 3125(b) shall, for purposes of this subsection, be deemed a separate employer.
+
+
+
+
+
+
+(E)
+ Governmental employees in American Samoa
+In the case of remuneration received from the Government of American Samoa or any political subdivision thereof or from any instrumentality of any one or more of the foregoing which is wholly owned thereby, during any calendar year, the Governor of American Samoa and each agent designated by him who makes a return pursuant to section 3125(c) shall, for purposes of this subsection, be deemed a separate employer.
+
+
+
+
+
+
+(F)
+ Governmental employees in the District of Columbia
+In the case of remuneration received from the District of Columbia or any instrumentality wholly owned thereby, during any calendar year, the Mayor of the District of Columbia and each agent designated by him who makes a return pursuant to section 3125(d) shall, for purposes of this subsection, be deemed a separate employer.
+
+
+
+
+
+
+(G)
+ Employees of States and political subdivisions
+In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
+
+
+
+
+
+
+
+
+(d)
+ Refund or credit of Federal unemployment tax
+Any credit allowable under section 3302, to the extent not previously allowed, shall be considered an overpayment, but no interest shall be allowed or paid with respect to such overpayment.
+
+
+
+
+ Income tax withheld
+In the case of an overpayment of tax imposed by chapter 24, or by chapter 3 or 4, refund or credit shall be made to the employer or to the withholding agent, as the case may be, only to the extent that the amount of such overpayment was not deducted and withheld by the employer or withholding agent.
+ Credits or refunds to persons who collected certain taxes
+(a)
+ Allowance of credits or refunds
+Credit or refund of any overpayment of tax imposed by section 4251, 4261, or 4271 may be allowed to the person who collected the tax and paid it to the Secretary if such person establishes, under such regulations as the Secretary may prescribe, that he has repaid the amount of such tax to the person from whom he collected it, or obtains the consent of such person to the allowance of such credit or refund.
+
+
+
+
+(b)
+ Credit on returns
+Any person entitled to a refund of tax imposed by section 4251, 4261, or 4271 paid, or collected and paid, to the Secretary by him may, instead of filing a claim for refund, take credit therefor against taxes imposed by such section due upon any subsequent return.
+
+
+
+
+(c)
+ Refund of overcollections
+In case any person required under section 4251, 4261, or 4271 to collect any tax shall make an overcollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
+
+
+
+
+(d)
+ Refund of taxable payment
+Any person making a refund of any payment on which tax imposed by section 4251, 4261, or 4271 has been collected may repay therewith the amount of tax collected on such payment.
+
+
+
+
+ Certain taxes on sales and services
+(a)
+ Condition to allowance
+(1)
+ General rule
+No credit or refund of any overpayment of tax imposed by chapter 31 (relating to retail excise taxes), or chapter 32 (manufacturers taxes), shall be allowed or made unless the person who paid the tax establishes, under regulations prescribed by the Secretary, that he—
+(A)
+ has not included the tax in the price of the article with respect to which it was imposed and has not collected the amount of the tax from the person who purchased such article;
+
+
+
+
+(B)
+ has repaid the amount of the tax to the ultimate purchaser of the article;
+
+
+
+
+(C)
+ in the case of an overpayment under subsection (b)(2) of this section—
+(i)
+ has repaid or agreed to repay the amount of the tax to the ultimate vendor of the article, or
+
+
+
+
+(ii)
+ has obtained the written consent of such ultimate vendor to the allowance of the credit or the making of the refund; or
+
+
+
+
+
+
+(D)
+ has filed with the Secretary the written consent of the person referred to in subparagraph (B) to the allowance of the credit or the making of the refund.
+
+
+
+
+
+
+(2)
+ Exceptions
+This subsection shall not apply to—
+(A)
+ the tax imposed by section 4041 (relating to tax on special fuels) on the use of any liquid, and
+
+
+
+
+(B)
+ an overpayment of tax under paragraph (1), (3)(A), (4), (5), or (6) of subsection (b) of this section.
+
+
+
+
+
+
+(3)
+ Special rule
+For purposes of this subsection, in any case in which the Secretary determines that an article is not taxable, the term “ultimate purchaser” (when used in paragraph (1)(B) of this subsection) includes a wholesaler, jobber, distributor, or retailer who, on the 15th day after the date of such determination, holds such article for sale; but only if claim for credit or refund by reason of this paragraph is filed on or before the date for filing the return with respect to the taxes imposed under chapter 32 for the first period which begins more than 60 days after the date on such determination.
+
+
+
+
+
+
+(4)
+ Registered ultimate vendor or credit card issuer to administer credits and refunds of gasoline tax
+(A)
+ In general
+For purposes of this subsection, except as provided in subparagraph (B), if an ultimate vendor purchases any gasoline on which tax imposed by section 4081 has been paid and sells such gasoline to an ultimate purchaser described in subparagraph (C) or (D) of subsection (b)(2) (and such gasoline is for a use described in such subparagraph), such ultimate vendor shall be treated as the person (and the only person) who paid such tax, but only if such ultimate vendor is registered under section 4101.
+
+
+
+
+
+
+(B)
+ Credit card issuer
+For purposes of this subsection, if the purchase of gasoline described in subparagraph (A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, paragraph (1) shall not apply and the person extending the credit to the ultimate purchaser shall be treated as the person (and the only person) who paid the tax, but only if such person—
+(i)
+ is registered under section 4101,
+
+
+
+
+(ii)
+ has established, under regulations prescribed by the Secretary, that such person—
+(I)
+ has not collected the amount of the tax from the person who purchased such article, or
+
+
+
+
+(II)
+ has obtained the written consent from the ultimate purchaser to the allowance of the credit or refund, and
+
+
+
+
+
+
+(iii)
+ has so established that such person—
+(I)
+ has repaid or agreed to repay the amount of the tax to the ultimate vendor,
+
+
+
+
+(II)
+ has obtained the written consent of the ultimate vendor to the allowance of the credit or refund, or
+
+
+
+
+(III)
+ has otherwise made arrangements which directly or indirectly provides the ultimate vendor with reimbursement of such tax.
+
+
+
+
+
+
+
+If clause (i), (ii), or (iii) is not met by such person extending the credit to the ultimate purchaser, then such person shall collect an amount equal to the tax from the ultimate purchaser and only such ultimate purchaser may claim such credit or payment.
+
+
+
+
+(C)
+ Timing of claims
+The procedure and timing of any claim under subparagraph (A) or (B) shall be the same as for claims under section 6427(i)(4), except that the rules of section 6427(i)(3)(B) regarding electronic claims shall not apply unless the ultimate vendor or credit card issuer has certified to the Secretary for the most recent quarter of the taxable year that all ultimate purchasers of the vendor or credit card issuer are certified and entitled to a refund under subparagraph (C) or (D) of subsection (b)(2).
+
+
+
+
+
+
+
+
+(b)
+ Special cases in which tax payments considered overpayments
+Under regulations prescribed by the Secretary, credit or refund (without interest) shall be allowed or made in respect of the overpayments determined under the following paragraphs:
+(1)
+ Price readjustments
+(A)
+ In general
+Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
+
+
+
+
+
+
+(B)
+ Further manufacture
+Subparagraph (A) shall not apply in the case of an article in respect of which tax was computed under section 4223(b)(2); but if the price for which such article was sold is readjusted by reason of the return or repossession of the article, the part of the tax proportionate to the part of such price repaid or credited to the purchaser shall be deemed to be an overpayment.
+
+
+
+
+
+
+(C)
+ Adjustment of tire price
+No credit or refund of any tax imposed by subsection (a) or (b) of section 4071 shall be allowed or made by reason of an adjustment of a tire pursuant to a warranty or guarantee.
+
+
+
+
+
+
+
+
+(2)
+ Specified uses and resales
+The tax paid under chapter 32 (or under subsection (a) or (d) of section 4041 in respect of sales or under section 4051) in respect of any article shall be deemed to be an overpayment if such article was, by any person—
+(A)
+ exported;
+
+
+
+
+(B)
+ used or sold for use as supplies for vessels or aircraft;
+
+
+
+
+(C)
+ sold to a State or local government for the exclusive use of a State or local government;
+
+
+
+
+(D)
+ sold to a nonprofit educational organization for its exclusive use;
+
+
+
+
+(E)
+ sold to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood;
+
+
+
+
+(F)
+ in the case of any tire taxable under section 4071(a), sold to any person for use as described in section 4221(e)(3); or
+
+
+
+
+(G)
+ in the case of gasoline, used or sold for use in the production of special fuels referred to in section 4041.
+
+
+
+
+
+Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply. In the case of the tax imposed by section 4191, subparagraphs (B), (C), (D), and (E) shall not apply.
+
+
+
+
+(3)
+ Tax-paid articles used for further manufacture, etc.
+If the tax imposed by chapter 32 has been paid with respect to the sale of any article (other than coal taxable under section 4121) by the manufacturer, producer, or importer thereof and such article is sold to a subsequent manufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequent manufacturer or producer if—
+(A)
+ in the case of any article other than any fuel taxable under section 4081, such article is used by the subsequent manufacturer or producer as material in the manufacture or production of, or as a component part of—
+(i)
+ another article taxable under chapter 32, or
+
+
+
+
+(ii)
+ an automobile bus chassis or an automobile bus body,
+
+
+
+
+
+manufactured or produced by him; or
+
+
+
+
+(B)
+ in the case of any fuel taxable under section 4081, such fuel is used by the subsequent manufacturer or producer, for nonfuel purposes, as a material in the manufacture or production of any other article manufactured or produced by him.
+
+
+
+
+
+
+(4)
+ Tires
+If—
+(A)
+ the tax imposed by section 4071 has been paid with respect to the sale of any tire by the manufacturer, producer, or importer thereof, and
+
+
+
+
+(B)
+ such tire is sold by any person on or in connection with, or with the sale of, any other article, such tax shall be deemed to be an overpayment by such person if such other article is—
+(i)
+ an automobile bus chassis or an automobile bus body,
+
+
+
+
+(ii)
+ by such person exported, sold to a State or local government for the exclusive use of a State or local government, sold to a nonprofit educational organization for its exclusive use, or used or sold for use as supplies for vessels or aircraft, or
+
+
+
+
+(iii)
+ sold to a qualified blood collector organization for its exclusive use in connection with a vehicle the organization certifies will be primarily used in the collection, storage, or transportation of blood.
+
+
+
+
+
+
+
+
+(5)
+ Return of certain installment accounts
+If—
+(A)
+ tax was paid under section 4216(d)(1) in respect of any installment account,
+
+
+
+
+(B)
+ such account is, under the agreement under which the account was sold, returned to the person who sold such account, and
+
+
+
+
+(C)
+ the consideration is readjusted as provided in such agreement,
+
+
+
+
+
+the part of the tax paid under section 4216(d)(1) allocable to the part of the consideration repaid or credited to the purchaser of such account shall be deemed to be an overpayment.
+
+
+
+
+(6)
+ Truck chassis, bodies, and semitrailers used for further manufacture
+If—
+(A)
+ the tax imposed by section 4051 has been paid with respect to the sale of any article, and
+
+
+
+
+(B)
+ before any other use, such article is by any person used as a component part of another article taxable under section 4051 manufactured or produced by him,
+
+
+
+
+
+such tax shall be deemed to be an overpayment by such person. For purposes of the preceding sentence, an article shall be treated as having been used as a component part of another article if, had it not been broken or rendered useless in the manufacture or production of such other article, it would have been so used.
+
+
+
+
+
+This subsection shall apply in respect of an article only if the exportation or use referred to in the applicable provision of this subsection occurs before any other use, or, in the case of a sale or resale, the use referred to in the applicable provision of this subsection is to occur before any other use.
+
+
+(c)
+ Refund to exporter or shipper
+Under regulations prescribed by the Secretary the amount of any tax imposed by chapter 31, or chapter 32 erroneously or illegally collected in respect of any article exported to a foreign country or shipped to a possession of the United States may be refunded to the exporter or shipper thereof, if the person who paid such tax waives his claim to such amount.
+
+
+
+
+(d)
+ Credit on returns
+Any person entitled to a refund of tax imposed by chapter 31 or 32, paid to the Secretary may, instead of filing a claim for refund, take credit therefor against taxes imposed by such chapter due on any subsequent return. The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e).
+
+
+
+
+(e)
+ Accounting procedures for like articles
+Under regulations prescribed by the Secretary, if any person uses or resells like articles, then for purposes of this section the manufacturer, producer, or importer of any such article may be identified, and the amount of tax paid under chapter 32 in respect of such article may be determined—
+(1)
+ on a first-in-first-out basis,
+
+
+
+
+(2)
+ on a last-in-first-out basis, or
+
+
+
+
+(3)
+ in accordance with any other consistent method approved by the Secretary.
+
+
+
+
+(f)
+ Meaning of terms
+For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
+
+
+
+
+ Repealed. 
+ Repealed. 
+ Excise tax on wagering
+(a)
+ Credit or refund generally
+No overpayment of tax imposed by chapter 35 shall be credited or refunded (otherwise than under subsection (b)), in pursuance of a court decision or otherwise, unless the person who paid the tax establishes, in accordance with regulations prescribed by the Secretary, (1) that he has not collected (whether as a separate charge or otherwise) the amount of the tax from the person who placed the wager on which the tax was imposed, or (2) that he has repaid the amount of the tax to the person who placed such wager, or unless he files with the Secretary written consent of the person who placed such wager to the allowance of the credit or the making of the refund. In the case of any laid-off wager, no overpayment of tax imposed by chapter 35 shall be so credited or refunded to the person with whom such laid-off wager was placed unless he establishes, in accordance with regulations prescribed by the Secretary, that the provisions of the preceding sentence have been complied with both with respect to the person who placed the laid-off wager with him and with respect to the person who placed the original wager.
+
+
+
+
+(b)
+ Credit or refund on wagers laid-off by taxpayer
+Where any taxpayer lays off part or all of a wager with another person who is liable for tax imposed by chapter 35 on the amount so laid off, a credit against such tax shall be allowed, or a refund shall be made to, the taxpayer laying off such amount. Such credit or refund shall be in an amount which bears the same ratio to the amount of tax which such taxpayer paid on the original wager as the amount so laid off bears to the amount of the original wager. Credit or refund under this subsection shall be allowed or made only in accordance with regulations prescribed by the Secretary, and no interest shall be allowed with respect to any amount so credited or refunded.
+
+
+
+
+ Gasoline used on farms
+(a)
+ Gasoline
+Except as provided in subsection (g), if gasoline is used on a farm for farming purposes, the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline the amount determined by multiplying—
+(1)
+ the number of gallons so used, by
+
+
+
+
+(2)
+ the rate of tax on gasoline under section 4081 which applied on the date he purchased such gasoline.
+
+
+
+
+(b)
+ Time for filing claims; period covered
+Not more than one claim may be filed under this section by any person with respect to gasoline used during his taxable year, and no claim shall be allowed under this section with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person’s taxable year shall be his taxable year for purposes of subtitle A.
+
+
+
+
+(c)
+ Meaning of terms
+For purposes of this section—
+(1)
+ Use on a farm for farming purposes
+Gasoline shall be treated as used on a farm for farming purposes only if used (A) in carrying on a trade or business, (B) on a farm situated in the United States, and (C) for farming purposes.
+
+
+
+
+
+
+(2)
+ Farm
+The term “farm” includes stock, dairy, poultry, fruit, fur-bearing animal, and truck farms, plantations, ranches, nurseries, ranges, greenhouses or other similar structures used primarily for the raising of agricultural or horticultural commodities, and orchards.
+
+
+
+
+
+
+(3)
+ Farming purposes
+Gasoline shall be treated as used for farming purposes only if used—
+(A)
+ by the owner, tenant, or operator of a farm, in connection with cultivating the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including the raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and fur-bearing animals and wildlife, on a farm of which he is the owner, tenant, or operator;
+
+
+
+
+(B)
+ by the owner, tenant, or operator of a farm, in handling, drying, packing, grading, or storing any agricultural or horticultural commodity in its unmanufactured state; but only if such owner, tenant or operator produced more than one-half of the commodity which he so treated during the period with respect to which claim is filed;
+
+
+
+
+(C)
+ by the owner, tenant, or operator of a farm, in connection with—
+(i)
+ the planting, cultivating, caring for, or cutting of trees, or
+
+
+
+
+(ii)
+ the preparation (other than milling) of trees for market,
+
+
+
+
+
+incidental to farming operations; or
+
+
+
+
+(D)
+ by the owner, tenant, or operator of a farm, in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment.
+
+
+
+
+
+
+(4)
+ Certain farming use other than by owner, etc.
+In applying paragraph (3)(A) to a use on a farm for any purpose described in paragraph (3)(A) by any person other than the owner, tenant, or operator of such farm—
+(A)
+ the owner, tenant, or operator of such farm shall be treated as the user and ultimate purchaser of the gasoline, except that
+
+
+
+
+(B)
+ if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes.
+
+
+
+
+
+In the case of an aerial applicator, gasoline shall be treated as used on a farm for farming purposes if the gasoline is used for the direct flight between the airfield and one or more farms.
+
+
+
+
+(5)
+ Gasoline
+The term “gasoline” has the meaning given to such term by section 4083(a).
+
+
+
+
+
+
+(d)
+ Exempt sales; other payments or refunds available
+No amount shall be payable under this section with respect to any gasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amount which (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundable under any provision of this title, to any person with respect to such gasoline.
+
+
+
+
+(e)
+ Applicable laws
+(1)
+ In general
+All provisions of law, including penalties, applicable in respect of the tax imposed by section 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+
+
+
+
+
+
+(2)
+ Examination of books and witnesses
+For the purpose of ascertaining the correctness of any claim made under this section, or the correctness of any payment made in respect of any such claim, the Secretary shall have the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
+
+
+
+
+
+
+(3)
+ Fractional parts of a dollar
+Section 7504 (granting the Secretary discretion with respect to fractional parts of a dollar) shall not apply.
+
+
+
+
+
+
+(f)
+ Regulations
+The Secretary may by regulations prescribe the conditions, not inconsistent with the provisions of this section, under which payments may by made under this section.
+
+
+
+
+(g)
+ Income tax credit in lieu of payment
+(1)
+ Persons not subject to income tax
+Payment shall be made under subsection (a), only to—
+(A)
+ the United States or an agency or instrumentality thereof, a State, a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions, or
+
+
+
+
+(B)
+ an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
+
+
+
+
+
+
+(2)
+ Allowance of credit against income tax
+For allowance of credit against the tax imposed by subtitle A, see section 34.
+
+
+
+
+
+
+[(h)
+ Repealed. 
+Pub. L. 103–66, title XIII, § 13241(f)(5)
+, 
+Aug. 10, 1993
+, 
+107 Stat. 512
+]
+
+
+(i)
+ Cross references
+(1)
+ For exemption from tax in case of special fuels used on a farm for farming purposes, see section 4041(f).
+
+
+
+
+(2)
+ For civil penalty for excessive claim under this section, see section 6675.
+
+
+
+
+(3)
+ For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
+
+
+
+
+(4)
+ For treatment of an Indian tribal government as a State and 
+1
+1
+ So in original. Probably should be “(and”.
+ a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+
+
+
+
+ Gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes
+(a)
+ Nonhighway uses
+Except as provided in subsection (i), if gasoline is used in an off-highway business use, the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons so used by the rate at which tax was imposed on such gasoline under section 4081. Except as provided in paragraph (2) of subsection (f) of this section, in the case of gasoline used as a fuel in an aircraft, the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons of gasoline so used by the rate at which tax was imposed on such gasoline under section 4081.
+
+
+
+
+(b)
+ Intercity, local, or school buses
+(1)
+ Allowance
+Except as provided in paragraph (2) and subsection (i), if gasoline is used in an automobile bus while engaged in—
+(A)
+ furnishing (for compensation) passenger land transportation available to the general public, or
+
+
+
+
+(B)
+ the transportation of students and employees of schools (as defined in the last sentence of section 4221(d)(7)(C)),
+
+
+
+
+
+the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the product of the number of gallons of gasoline so used multiplied by the rate at which tax was imposed on such gasoline by section 4081.
+
+
+
+
+(2)
+ Limitation in case of nonscheduled intercity or local buses
+Paragraph (1)(A) shall not apply in respect of gasoline used in any automobile bus while engaged in furnishing transportation which is not scheduled and not along regular routes unless the seating capacity of such bus is at least 20 adults (not including the driver).
+
+
+
+
+
+
+(c)
+ Exempt purposes
+If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) 
+1
+1
+ So in original. Probably should be followed by a comma.
+ (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+
+
+
+
+(d)
+ Time for filing claims; period covered
+(1)
+ In general
+Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person’s taxable year shall be his taxable year for purposes of subtitle A.
+
+
+
+
+
+
+(2)
+ Exception
+For payments per quarter based on aggregate amounts payable under this section and section 6427, see section 6427(i)(2).
+
+
+
+
+
+
+(3)
+ Application to sales under subsection (c)
+For purposes of this subsection, gasoline shall be treated as used for a purpose referred to in subsection (c) when it is sold for such a purpose.
+
+
+
+
+
+
+(e)
+ Definitions
+For purposes of this section—
+(1)
+ Gasoline
+The term “gasoline” has the meaning given to such term by section 4083(a).
+
+
+
+
+
+
+(2)
+ Off-highway business use
+(A)
+ In general
+The term “off-highway business use” means any use by a person in a trade or business of such person or in an activity of such person described in section 212 (relating to production of income) otherwise than as a fuel in a highway vehicle—
+(i)
+ which (at the time of such use), is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or
+
+
+
+
+(ii)
+ which, in the case of a highway vehicle owned by the United States, is used on the highway.
+
+
+
+
+
+
+(B)
+ Uses in boats
+(i)
+ In general
+Except as otherwise provided in this subparagraph, the term “off-highway business use” does not include any use in a motorboat.
+
+
+
+
+
+
+(ii)
+ Fisheries and whaling
+The term “off-highway business use” shall include any use in a vessel employed in the fisheries or in the whaling business.
+
+
+
+
+
+
+
+
+(C)
+ Uses in mobile machinery
+(i)
+ In general
+The term “off-highway business use” shall include any use in a vehicle which meets the requirements described in clause (ii).
+
+
+
+
+
+
+(ii)
+ Requirements for mobile machinery
+The requirements described in this clause are—
+(I)
+ the design-based test, and
+
+
+
+
+(II)
+ the use-based test.
+
+
+
+
+
+
+(iii)
+ Design-based test
+For purposes of clause (ii)(I), the design-based test is met if the vehicle consists of a chassis—
+(I)
+ to which there has been permanently mounted (by welding, bolting, riveting, or other means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
+
+
+
+
+(II)
+ which has been specially designed to serve only as a mobile carriage and mount (and a power source, where applicable) for the particular machinery or equipment involved, whether or not such machinery or equipment is in operation, and
+
+
+
+
+(III)
+ which, by reason of such special design, could not, without substantial structural modification, be used as a component of a vehicle designed to perform a function of transporting any load other than that particular machinery or equipment or similar machinery or equipment requiring such a specially designed chassis.
+
+
+
+
+
+
+(iv)
+ Use-based test
+For purposes of clause (ii)(II), the use-based test is met if the use of the vehicle on public highways was less than 7,500 miles during the taxpayer’s taxable year. This clause shall be applied without regard to use of the vehicle by any organization which is described in section 501(c) and exempt from tax under section 501(a).
+
+
+
+
+
+
+
+
+
+
+(f)
+ Exempt sales; other payments or refunds available
+(1)
+ Gasoline used on farms
+This section shall not apply in respect of gasoline which was (within the meaning of paragraphs (1), (2), and (3) of section 6420(c)) used on a farm for farming purposes.
+
+
+
+
+
+
+(2)
+ Gasoline used in aviation
+This section shall not apply in respect of gasoline which is used as a fuel in an aircraft—
+(A)
+ in aviation which is not commercial aviation (as defined in section 4083(b)), or
+
+
+
+
+(B)
+ in commercial aviation (as so defined) with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate and, in the case of fuel purchased after 
+September 30, 1995
+, at so much of the rate specified in section 4081(a)(2)(A) as does not exceed 4.3 cents per gallon.
+
+
+
+
+
+
+(3)
+ Gasoline used in trains
+In the case of gasoline used as a fuel in a train, this section shall not apply with respect to—
+(A)
+ the Leaking Underground Storage Tank Trust Fund financing rate under section 4081, and
+
+
+
+
+(B)
+ so much of the rate specified in section 4081(a)(2)(A) as does not exceed the rate applicable under section 4041(a)(1)(C)(ii).
+
+
+
+
+
+
+(g)
+ Applicable laws
+(1)
+ In general
+All provisions of law, including penalties, applicable in respect to the tax imposed by section 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+
+
+
+
+
+
+(2)
+ Examination of books and witnesses
+For the purpose of ascertaining the correctness of any claim made under this section, or the correctness of any payment made in respect of any such claim, the Secretary shall have the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
+
+
+
+
+
+
+(h)
+ Regulations
+The Secretary may by regulations prescribe the conditions, not inconsistent with the provisions of this section, under which payments may be made under this section.
+
+
+
+
+(i)
+ Income tax credit in lieu of payment
+(1)
+ Persons not subject to income tax
+Payment shall be made under subsections (a) and (b) only to—
+(A)
+ the United States or any agency or instrumentality thereof, a State, a political subdivision of a State, or any agency or instrumentality of one or more States or political subdivisions, or
+
+
+
+
+(B)
+ an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
+
+
+
+
+
+
+(2)
+ Exception
+Paragraph (1) shall not apply to a payment of a claim filed under subsection (d)(2).
+
+
+
+
+
+
+(3)
+ Allowance of credit against income tax
+For allowance of credit against the tax imposed by subtitle A, see section 34.
+
+
+
+
+
+
+(j)
+ Cross references
+(1)
+ For civil penalty for excessive claims under this section, see section 6675.
+
+
+
+
+(2)
+ For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
+
+
+
+
+(3)
+ For treatment of an Indian tribal government as a State and 
+2
+2
+ So in original. Probably should be “(and”.
+ a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+
+
+
+
+ Cross references
+ Conditions to allowance in the case of alcohol and tobacco taxes
+(a)
+ Conditions
+No credit or refund shall be allowed or made, in pursuance of a court decision or otherwise, of any amount paid or collected as an alcohol or tobacco tax unless the claimant establishes (under regulations prescribed by the Secretary)—
+(1)
+ that he bore the ultimate burden of the amount claimed; or
+
+
+
+
+(2)
+ that he has unconditionally repaid the amount claimed to the person who bore the ultimate burden of such amount; or
+
+
+
+
+(3)
+ that (A) the owner of the commodity furnished him the amount claimed for payment of the tax, (B) he has filed with the Secretary the written consent of such owner to the allowance to the claimant of the credit or refund, and (C) such owner satisfies the requirements of paragraph (1) or (2).
+
+
+
+
+(b)
+ Filing of claims
+No credit or refund of any amount to which subsection (a) applies shall be allowed or made unless a claim therefor has been filed by the person who paid the amount claimed, and unless such claim is filed within the time prescribed by law and in accordance with regulations prescribed by the Secretary. All evidence relied upon in support of such claim shall be clearly set forth and submitted with the claim.
+
+
+
+
+(c)
+ Application of section
+This section shall apply only if the credit or refund is claimed on the grounds that an amount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
+(1)
+ any claim for drawback, and
+
+
+
+
+(2)
+ any claim made in accordance with any law expressly providing for credit or refund where a commodity is withdrawn from the market, returned to bond, or lost or destroyed.
+
+
+
+
+(d)
+ Meaning of terms
+For purposes of this section—
+(1)
+ Alcohol or tobacco tax
+The term “alcohol or tobacco tax” means—
+(A)
+ any tax imposed by chapter 51 (other than part II of subchapter A, relating to occupational taxes) or by chapter 52 or by any corresponding provision of prior internal revenue laws, and
+
+
+
+
+(B)
+ in the case of any commodity of a kind subject to a tax described in subparagraph (A), any tax equal to any such tax, any additional tax, or any floor stocks tax.
+
+
+
+
+
+
+(2)
+ Tax
+The term “tax” includes a tax and an exaction denominated a “tax”, and any penalty, addition to tax, additional amount, or interest applicable to any such tax.
+
+
+
+
+
+
+(3)
+ Ultimate burden
+The claimant shall be treated as having borne the ultimate burden of an amount of an alcohol or tobacco tax for purposes of subsection (a)(1), and the owner referred to in subsection (a)(3) shall be treated as having borne such burden for purposes of such subsection, only if—
+(A)
+ he has not, directly or indirectly, been relieved of such burden or shifted such burden to any other person,
+
+
+
+
+(B)
+ no understanding or agreement exists for any such relief or shifting, and
+
+
+
+
+(C)
+ if he has neither sold nor contracted to sell the commodities involved in such claim, he agrees that there will be no such relief or shifting, and furnishes such bond as the Secretary may require to insure faithful compliance with his agreement.
+
+
+
+
+
+
+ Repealed. 
+ Adjustment of overpayment of estimated income tax by corporation
+(a)
+ Application of adjustment
+(1)
+ Time for filing
+A corporation may, after the close of the taxable year and on or before the 15th day of the third month thereafter, and before the day on which it files a return for such taxable year, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
+
+
+
+
+
+
+(2)
+ Form of application, etc.
+An application under this subsection shall be verified in the manner prescribed by section 6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
+(A)
+ the estimated income tax paid by the corporation during the taxable year,
+
+
+
+
+(B)
+ the amount which, at the time of filing the application, the corporation estimates as its income tax liability for the taxable year,
+
+
+
+
+(C)
+ the amount of the adjustment, and
+
+
+
+
+(D)
+ such other information for purposes of carrying out the provisions of this section as may be required by such regulations.
+
+
+
+
+
+
+(b)
+ Allowance of adjustment
+(1)
+ Limited examination of application
+Within a period of 45 days from the date on which an application for an adjustment is filed under subsection (a), the Secretary shall make, to the extent he deems practicable in such period, a limited examination of the application to discover omissions and errors therein, and shall determine the amount of the adjustment upon the basis of the application and the examination; except that the Secretary may disallow, without further action, any application which he finds contains material omissions or errors which he deems cannot be corrected within such 45 days.
+
+
+
+
+
+
+(2)
+ Adjustment credited or refunded
+The Secretary, within the 45-day period referred to in paragraph (1), may credit the amount of the adjustment against any liability in respect of an internal revenue tax on the part of the corporation and shall refund the remainder to the corporation.
+
+
+
+
+
+
+(3)
+ Limitation
+No application under this section shall be allowed unless the amount of the adjustment equals or exceeds (A) 10 percent of the amount estimated by the corporation on its application as its income tax liability for the taxable year, and (B) $500.
+
+
+
+
+
+
+(4)
+ Effect of adjustment
+For purposes of this title (other than section 6655), any adjustment under this section shall be treated as a reduction, in the estimated income tax paid, made on the day the credit is allowed or the refund is paid.
+
+
+
+
+
+
+(c)
+ Definitions
+For purposes of this section and section 6655(h) (relating to excessive adjustment)—
+(1)
+ The term “income tax liability” means the excess of—
+(A)
+ The 
+1
+1
+ So in original. Probably should not be capitalized.
+ sum of—
+(i)
+ the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
+
+
+
+
+(ii)
+ the tax imposed by section 55, plus
+
+
+
+
+(iii)
+ the tax imposed by section 59A, over
+
+
+
+
+
+
+(B)
+ the credits against tax provided by part IV of subchapter A of chapter 1.
+
+
+
+
+
+
+(2)
+ The amount of an adjustment under this section is equal to the excess of—
+(A)
+ the estimated income tax paid by the corporation during the taxable year, over
+
+
+
+
+(B)
+ the amount which, at the time of filing the application, the corporation estimates as its income tax liability for the taxable year.
+
+
+
+
+
+
+(d)
+ Consolidated returns
+If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
+
+
+
+
+ Credit for alcohol fuel, biodiesel, and alternative fuel mixtures
+(a)
+ Allowance of credits
+There shall be allowed as a credit—
+(1)
+ against the tax imposed by section 4081 an amount equal to the sum of the credits described in subsections (b), (c), and (e), and
+
+
+
+
+(2)
+ against the tax imposed by section 4041 an amount equal to the sum of the credits described in subsection (d).
+
+
+
+
+
+No credit shall be allowed in the case of the credits described in subsections (d) and (e) unless the taxpayer is registered under section 4101.
+
+
+(b)
+ Alcohol fuel mixture credit
+(1)
+ In general
+For purposes of this section, the alcohol fuel mixture credit is the product of the applicable amount and the number of gallons of alcohol used by the taxpayer in producing any alcohol fuel mixture for sale or use in a trade or business of the taxpayer.
+
+
+
+
+
+
+(2)
+ Applicable amount
+For purposes of this subsection—
+(A)
+ In general
+Except as provided in subparagraphs (B) and (C), the applicable amount is—
+(i)
+ in the case of calendar years beginning before 2009, 51 cents, and
+
+
+
+
+(ii)
+ in the case of calendar years beginning after 2008, 45 cents..
+1
+1
+ So in original.
+
+
+
+
+
+
+(B)
+ Mixtures not containing ethanol
+In the case of an alcohol fuel mixture in which none of the alcohol consists of ethanol, the applicable amount is 60 cents.
+
+
+
+
+
+
+(C)
+ Reduction delayed until annual production or importation of 7,500,000,000 gallons
+In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting “51 cents” for “45 cents”.
+
+
+
+
+
+
+
+
+(3)
+ Alcohol fuel mixture
+For purposes of this subsection, the term “alcohol fuel mixture” means a mixture of alcohol and a taxable fuel which—
+(A)
+ is sold by the taxpayer producing such mixture to any person for use as a fuel, or
+
+
+
+
+(B)
+ is used as a fuel by the taxpayer producing such mixture.
+
+
+
+
+
+For purposes of subparagraph (A), a mixture produced by any person at a refinery prior to a taxable event which includes ethyl tertiary butyl ether or other ethers produced from alcohol shall be treated as sold at the time of its removal from the refinery (and only at such time) to another person for use as a fuel.
+
+
+
+
+(4)
+ Other definitions
+For purposes of this subsection—
+(A)
+ Alcohol
+The term “alcohol” includes methanol and ethanol but does not include—
+(i)
+ alcohol produced from petroleum, natural gas, or coal (including peat), or
+
+
+
+
+(ii)
+ alcohol with a proof of less than 190 (determined without regard to any added denaturants).
+
+
+
+
+
+Such term also includes an alcohol gallon equivalent of ethyl tertiary butyl ether or other ethers produced from such alcohol.
+
+
+
+
+(B)
+ Taxable fuel
+The term “taxable fuel” has the meaning given such term by section 4083(a)(1).
+
+
+
+
+
+
+
+
+(5)
+ Volume of alcohol
+For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
+
+
+
+
+
+
+(6)
+ Termination
+This subsection shall not apply to any sale, use, or removal for any period after 
+December 31, 2011
+.
+
+
+
+
+
+
+(c)
+ Biodiesel mixture credit
+(1)
+ In general
+For purposes of this section, the biodiesel mixture credit is the product of the applicable amount and the number of gallons of biodiesel used by the taxpayer in producing any biodiesel mixture for sale or use in a trade or business of the taxpayer.
+
+
+
+
+
+
+(2)
+ Applicable amount
+For purposes of this subsection, the applicable amount is $1.00.
+
+
+
+
+
+
+(3)
+ Biodiesel mixture
+For purposes of this section, the term “biodiesel mixture” means a mixture of biodiesel and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene, which—
+(A)
+ is sold by the taxpayer producing such mixture to any person for use as a fuel, or
+
+
+
+
+(B)
+ is used as a fuel by the taxpayer producing such mixture.
+
+
+
+
+
+
+(4)
+ Certification for biodiesel
+No credit shall be allowed under this subsection unless the taxpayer obtains a certification (in such form and manner as prescribed by the Secretary) from the producer of the biodiesel which identifies the product produced and the percentage of biodiesel and agri-biodiesel in the product.
+
+
+
+
+
+
+(5)
+ Other definitions
+Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
+
+
+
+
+
+
+(6)
+ Termination
+This subsection shall not apply to any sale, use, or removal for any period after 
+December 31, 2013
+.
+
+
+
+
+
+
+(d)
+ Alternative fuel credit
+(1)
+ In general
+For purposes of this section, the alternative fuel credit is the product of 50 cents and the number of gallons of an alternative fuel or gasoline gallon equivalents of a nonliquid alternative fuel sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, sold by the taxpayer for use as a fuel in aviation, or so used by the taxpayer.
+
+
+
+
+
+
+(2)
+ Alternative fuel
+For purposes of this section, the term “alternative fuel” means—
+(A)
+ liquefied petroleum gas,
+
+
+
+
+(B)
+ P Series Fuels (as defined by the Secretary of Energy under 
+section 13211(2) of title 42
+, United States Code),
+
+
+
+
+(C)
+ compressed or liquefied natural gas,
+
+
+
+
+(D)
+ liquefied hydrogen,
+
+
+
+
+(E)
+ any liquid fuel which meets the requirements of paragraph (4) and which is derived from coal (including peat) through the Fischer-Tropsch process,
+
+
+
+
+(F)
+ compressed or liquefied gas derived from biomass (as defined in section 45K(c)(3)), and
+
+
+
+
+(G)
+ liquid fuel derived from biomass (as defined in section 45K(c)(3)).
+
+
+
+
+
+Such term does not include ethanol, methanol, biodiesel, or any fuel (including lignin, wood residues, or spent pulping liquors) derived from the production of paper or pulp.
+
+
+
+
+(3)
+ Gasoline gallon equivalent
+For purposes of this subsection, the term “gasoline gallon equivalent” means, with respect to any nonliquid alternative fuel, the amount of such fuel having a Btu content of 124,800 (higher heating value).
+
+
+
+
+
+
+(4)
+ Carbon capture requirement
+(A)
+ In general
+The requirements of this paragraph are met if the fuel is certified, under such procedures as required by the Secretary, as having been derived from coal produced at a gasification facility which separates and sequesters not less than the applicable percentage of such facility’s total carbon dioxide emissions.
+
+
+
+
+
+
+(B)
+ Applicable percentage
+For purposes of subparagraph (A), the applicable percentage is—
+(i)
+ 50 percent in the case of fuel produced after 
+September 30, 2009
+, and on or before 
+December 30, 2009
+, and
+
+
+
+
+(ii)
+ 75 percent in the case of fuel produced after 
+December 30, 2009
+.
+
+
+
+
+
+
+
+
+(5)
+ Termination
+This subsection shall not apply to any sale or use for any period after 
+December 31, 2013
+ (
+September 30, 2014
+, in the case of any sale or use involving liquefied hydrogen).
+
+
+
+
+
+
+(e)
+ Alternative fuel mixture credit
+(1)
+ In general
+For purposes of this section, the alternative fuel mixture credit is the product of 50 cents and the number of gallons of alternative fuel used by the taxpayer in producing any alternative fuel mixture for sale or use in a trade or business of the taxpayer.
+
+
+
+
+
+
+(2)
+ Alternative fuel mixture
+For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
+(A)
+ is sold by the taxpayer producing such mixture to any person for use as fuel, or
+
+
+
+
+(B)
+ is used as a fuel by the taxpayer producing such mixture.
+
+
+
+
+
+
+(3)
+ Termination
+This subsection shall not apply to any sale or use for any period after 
+December 31, 2013
+ (
+September 30, 2014
+, in the case of any sale or use involving liquefied hydrogen).
+
+
+
+
+
+
+(f)
+ Mixture not used as a fuel, etc.
+(1)
+ Imposition of tax
+If—
+(A)
+ any credit was determined under this section with respect to alcohol or biodiesel used in the production of any alcohol fuel mixture or biodiesel mixture, respectively, and
+
+
+
+
+(B)
+ any person—
+(i)
+ separates the alcohol or biodiesel from the mixture, or
+
+
+
+
+(ii)
+ without separation, uses the mixture other than as a fuel,
+
+
+
+
+
+then there is hereby imposed on such person a tax equal to the product of the applicable amount and the number of gallons of such alcohol or biodiesel.
+
+
+
+
+
+
+(2)
+ Applicable laws
+All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under paragraph (1) as if such tax were imposed by section 4081 and not by this section.
+
+
+
+
+
+
+(g)
+ Coordination with exemption from excise tax
+Rules similar to the rules under section 40(c) shall apply for purposes of this section.
+
+
+
+
+(h)
+ Denial of double benefit
+No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40 or 40A.
+
+
+
+
+(i)
+ Limitation to fuels with connection to the United States
+(1)
+ Alcohol
+No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States.
+
+
+
+
+
+
+(2)
+ Biodiesel and alternative fuels
+No credit shall be determined under this section with respect to any biodiesel or alternative fuel which is produced outside the United States for use as a fuel outside the United States.
+
+
+
+
+
+
+
+For purposes of this subsection, the term “United States” includes any possession of the United States.
+
+
+ Fuels not used for taxable purposes
+(a)
+ Nontaxable uses
+Except as provided in subsection (k), if tax has been imposed under paragraph (2) or (3) of section 4041(a) or section 4041(c) on the sale of any fuel and the purchaser uses such fuel other than for the use for which sold, or resells such fuel, the Secretary shall pay (without interest) to him an amount equal to—
+(1)
+ the amount of tax imposed on the sale of the fuel to him, reduced by
+
+
+
+
+(2)
+ if he uses the fuel, the amount of tax which would have been imposed under section 4041 on such use if no tax under section 4041 had been imposed on the sale of the fuel.
+
+
+
+
+(b)
+ Intercity, local, or school buses
+(1)
+ Allowance
+Except as otherwise provided in this subsection and subsection (k), if any fuel other than gasoline (as defined in section 4083(a)) on the sale of which tax was imposed by section 4041(a) or 4081 is used in an automobile bus while engaged in—
+(A)
+ furnishing (for compensation) passenger land transportation available to the general public, or
+
+
+
+
+(B)
+ the transportation of students and employees of schools (as defined in the last sentence of section 4221(d)(7)(C)),
+
+
+
+
+
+the Secretary shall pay (without interest) to the ultimate purchaser of such fuel an amount equal to the product of the number of gallons of such fuel so used multiplied by the rate at which tax was imposed on such fuel by section 4041(a) or 4081, as the case may be.
+
+
+
+
+(2)
+ Reduction in refund in certain cases
+(A)
+ In general
+Except as provided in subparagraphs (B) and (C), the rate of tax taken into account under paragraph (1) shall be 7.4 cents per gallon less than the aggregate rate at which tax was imposed on such fuel by section 4041(a) or 4081, as the case may be.
+
+
+
+
+
+
+(B)
+ Exception for school bus transportation
+Subparagraph (A) shall not apply to fuel used in an automobile bus while engaged in the transportation described in paragraph (1)(B).
+
+
+
+
+
+
+(C)
+ Exception for certain intracity transportation
+Subparagraph (A) shall not apply to fuel used in any automobile bus while engaged in furnishing (for compensation) intracity passenger land transportation—
+(i)
+ which is available to the general public, and
+
+
+
+
+(ii)
+ which is scheduled and along regular routes,
+
+
+
+
+
+but only if such bus is a qualified local bus.
+
+
+
+
+(D)
+ Qualified local bus
+For purposes of this paragraph, the term “qualified local bus” means any local bus—
+(i)
+ which has a seating capacity of at least 20 adults (not including the driver), and
+
+
+
+
+(ii)
+ which is under contract (or is receiving more than a nominal subsidy) from any State or local government (as defined in section 4221(d)) to furnish such transportation.
+
+
+
+
+
+
+
+
+(3)
+ Limitation in case of nonscheduled intercity or local buses
+Paragraph (1)(A) shall not apply in respect of fuel used in any automobile bus while engaged in furnishing transportation which is not scheduled and not along regular routes unless the seating capacity of such bus is at least 20 adults (not including the driver).
+
+
+
+
+
+
+(4)
+ Refunds for use of diesel fuel in certain intercity buses
+With respect to any fuel to which paragraph (2)(A) applies, if the ultimate purchaser of such fuel waives (at such time and in such form and manner as the Secretary shall prescribe) the right to payment under paragraph (1) and assigns such right to the ultimate vendor, then the Secretary shall pay the amount which would be paid under paragraph (1) to such ultimate vendor, but only if such ultimate vendor—
+(A)
+ is registered under section 4101, and
+
+
+
+
+(B)
+ meets the requirements of subparagraph (A), (B), or (D) of section 6416(a)(1).
+
+
+
+
+
+
+(c)
+ Use for farming purposes
+Except as provided in subsection (k), if any fuel on the sale of which tax was imposed under paragraph (2) or (3) of section 4041(a) or section 4041(c) is used on a farm for farming purposes (within the meaning of section 6420(c)), the Secretary shall pay (without interest) to the purchaser an amount equal to the amount of the tax imposed on the sale of the fuel. For purposes of this subsection, if fuel is used on a farm by any person other than the owner, tenant, or operator of such farm, the rules of paragraph (4) of section 6420(c) shall be applied (except that “liquid taxable under section 4041” shall be substituted for “gasoline” each place it appears in such paragraph (4)).
+
+
+
+
+(d)
+ Use by certain aircraft museums or in certain other aircraft uses
+Except as provided in subsection (k), if—
+(1)
+ any gasoline on which tax was imposed by section 4081, or
+
+
+
+
+(2)
+ any fuel on the sale of which tax was imposed under section 4041,
+
+
+
+
+
+is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft or vehicle owned by such museum and used exclusively for purposes set forth in section 4041(h)(2)(C), or is used in a helicopter or a fixed-wing aircraft for a purpose described in section 4041(
+l
+), the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline or fuel an amount equal to the aggregate amount of the tax imposed on such gasoline or fuel.
+
+
+(e)
+ Alcohol, biodiesel, or alternative fuel
+Except as provided in subsection (k)—
+(1)
+ Used to produce a mixture
+If any person produces a mixture described in section 6426 in such person’s trade or business, the Secretary shall pay (without interest) to such person an amount equal to the alcohol fuel mixture credit or the biodiesel mixture credit or the alternative fuel mixture credit with respect to such mixture.
+
+
+
+
+
+
+(2)
+ Alternative fuel
+If any person sells or uses an alternative fuel (as defined in section 6426(d)(2)) for a purpose described in section 6426(d)(1) in such person’s trade or business, the Secretary shall pay (without interest) to such person an amount equal to the alternative fuel credit with respect to such fuel.
+
+
+
+
+
+
+(3)
+ Coordination with other repayment provisions
+No amount shall be payable under paragraph (1) or (2) with respect to any mixture or alternative fuel with respect to which an amount is allowed as a credit under section 6426.
+
+
+
+
+
+
+(4)
+ Registration requirement for alternative fuels
+The Secretary shall not make any payment under this subsection to any person with respect to any alternative fuel credit or alternative fuel mixture credit unless the person is registered under section 4101.
+
+
+
+
+
+
+(5)
+ Limitation to fuels with connection to the United States
+No amount shall be payable under paragraph (1) or (2) with respect to any mixture or alternative fuel if credit is not allowed with respect to such mixture or alternative fuel by reason of section 6426(i).
+
+
+
+
+
+
+(6)
+ Termination
+This subsection shall not apply with respect to—
+(A)
+ any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after 
+December 31, 2011
+,
+
+
+
+
+(B)
+ any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after 
+December 31, 2013
+,
+
+
+
+
+(C)
+ except as provided in subparagraph (D), any alternative fuel (as defined in section 6426(d)(2)) sold or used after 
+December 31, 2013
+,
+
+
+
+
+(D)
+ any alternative fuel (as so defined) involving liquefied hydrogen sold or used after 
+September 30, 2014
+, and
+
+
+
+
+(E)
+ any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after 
+December 31, 2011
+.
+
+
+
+
+
+
+[(f)
+ Repealed. 
+Pub. L. 109–59, title XI, § 11151(a)(1)
+, 
+Aug. 10, 2005
+, 
+119 Stat. 1968
+]
+
+
+[(g)
+ Repealed. 
+Pub. L. 104–188, title I, § 1606(a)
+, 
+Aug. 20, 1996
+, 
+110 Stat. 1839
+]
+
+
+(h)
+ Blend stocks not used for producing taxable fuel
+(1)
+ Gasoline blend stocks or additives not used for producing gasoline
+Except as provided in subsection (k), if any gasoline blend stock or additive (within the meaning of section 4083(a)(2)) is not used by any person to produce gasoline and such person establishes that the ultimate use of such gasoline blend stock or additive is not to produce gasoline, the Secretary shall pay (without interest) to such person an amount equal to the aggregate amount of the tax imposed on such person with respect to such gasoline blend stock or additive.
+
+
+
+
+
+
+(2)
+ Diesel fuel blend stocks or additives not used for producing diesel
+Except as provided in subsection (k), if any diesel fuel blend stock is not used by any person to produce diesel fuel and such person establishes that the ultimate use of such diesel fuel blend stock is not to produce diesel fuel, the Secretary shall pay (without interest) to such person an amount equal to the aggregate amount of the tax imposed on such person with respect to such diesel fuel blend stock.
+
+
+
+
+
+
+(i)
+ Time for filing claims; period covered
+(1)
+ General rule
+Except as otherwise provided in this subsection, not more than one claim may be filed under subsection (a), (b), (c), (d), (h), (
+l
+), (m), or (
+o
+) by any person with respect to fuel used during his taxable year; and no claim shall be allowed under this paragraph with respect to fuel used during any taxable year unless filed by the purchaser not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this paragraph, a person’s taxable year shall be his taxable year for purposes of subtitle A.
+
+
+
+
+
+
+(2)
+ Exceptions
+(A)
+ In general
+If, at the close of any quarter of the taxable year of any person, at least $750 is payable in the aggregate under subsections (a), (b), (d), (h), (
+l
+), (m), and (
+o
+) of this section and section 6421 to such person with respect to fuel used during—
+(i)
+ such quarter, or
+
+
+
+
+(ii)
+ any prior quarter (for which no other claim has been filed) during such taxable year,
+
+
+
+
+
+a claim may be filed under this section with respect to such fuel.
+
+
+
+
+(B)
+ Time for filing claim
+No claim filed under this paragraph shall be allowed unless filed during the first quarter following the last quarter included in the claim.
+
+
+
+
+
+
+(C)
+ Nonapplication of paragraph
+This paragraph shall not apply to any fuel used solely in any off-highway business use described in section 6421(e)(2)(C).
+
+
+
+
+
+
+
+
+(3)
+ Special rule for mixture credits and the alternative fuel credit
+(A)
+ In general
+A claim may be filed under subsection (e)(1) by any person with respect to a mixture described in section 6426 or under subsection (e)(2) by any person with respect to an alternative fuel (as defined in section 6426(d)(2)) for any period—
+(i)
+ for which $200 or more is payable under such subsection (e)(1) or (e)(2), and
+
+
+
+
+(ii)
+ which is not less than 1 week.
+
+
+
+
+
+In the case of an electronic claim, this subparagraph shall be applied without regard to clause (i).
+
+
+
+
+(B)
+ Payment of claim
+Notwithstanding subsection (e)(1) or (e)(2), if the Secretary has not paid pursuant to a claim filed under this section within 45 days of the date of the filing of such claim (20 days in the case of an electronic claim), the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621.
+
+
+
+
+
+
+(C)
+ Time for filing claim
+No claim filed under this paragraph shall be allowed unless filed on or before the last day of the first quarter following the earliest quarter included in the claim.
+
+
+
+
+
+
+
+
+(4)
+ Special rule for vendor refunds
+(A)
+ In general
+A claim may be filed under paragraph (4)(C) or (5) of subsection (
+l
+) by any person with respect to fuel sold by such person for any period—
+(i)
+ for which $200 or more ($100 or more in the case of kerosene) is payable under paragraph (4)(C) or (5) of subsection (
+l
+), and
+
+
+
+
+(ii)
+ which is not less than 1 week.
+
+
+
+
+
+Notwithstanding subsection (
+l
+)(1), paragraph (3)(B) shall apply to claims filed under subsections (b)(4), (
+l
+)(4)(C)(ii), and (
+l
+)(5).
+
+
+
+
+(B)
+ Time for filing claim
+No claim filed under this paragraph shall be allowed unless filed on or before the last day of the first quarter following the earliest quarter included in the claim.
+
+
+
+
+
+
+
+
+(j)
+ Applicable laws
+(1)
+ In general
+All provisions of law, including penalties, applicable in respect of the taxes imposed by sections 4041 and 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+
+
+
+
+
+
+(2)
+ Examination of books and witnesses
+For the purpose of ascertaining the correctness of any claim made under this section, or the correctness of any payment made in respect of any such claim, the Secretary shall have the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
+
+
+
+
+
+
+(k)
+ Income tax credit in lieu of payment
+(1)
+ Persons not subject to income tax
+Payment shall be made under this section only to—
+(A)
+ the United States or an agency or instrumentality thereof, a State, a political subdivision of a State, or any agency or instrumentality of one or more States or political subdivisions, or
+
+
+
+
+(B)
+ an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
+
+
+
+
+
+
+(2)
+ Exception
+Paragraph (1) shall not apply to a payment of a claim filed under paragraph (2), (3), or (4) of subsection (i).
+
+
+
+
+
+
+(3)
+ Allowance of credit against income tax
+For allowances of credit against the income tax imposed by subtitle A for fuel used or resold by the purchaser, see section 34.
+
+
+
+
+
+
+(l)
+ Nontaxable uses of diesel fuel and kerosene
+(1)
+ In general
+Except as otherwise provided in this subsection and in subsection (k), if any diesel fuel or kerosene on which tax has been imposed by section 4041 or 4081 is used by any person in a nontaxable use, the Secretary shall pay (without interest) to the ultimate purchaser of such fuel an amount equal to the aggregate amount of tax imposed on such fuel under section 4041 or 4081, as the case may be, reduced by any payment made to the ultimate vendor under paragraph (4)(C)(i).
+
+
+
+
+
+
+(2)
+ Nontaxable use
+For purposes of this subsection, the term “nontaxable use” means any use which is exempt from the tax imposed by section 4041(a)(1) other than by reason of a prior imposition of tax.
+
+
+
+
+
+
+(3)
+ Refund of certain taxes on fuel used in diesel-powered trains
+For purposes of this subsection, the term “nontaxable use” includes fuel used in a diesel-powered train. The preceding sentence shall not apply with respect to—
+(A)
+ the Leaking Underground Storage Tank Trust Fund financing rate under sections 4041 and 4081, and
+
+
+
+
+(B)
+ so much of the rate specified in section 4081(a)(2)(A) as does not exceed the rate applicable under section 4041(a)(1)(C)(ii).
+
+
+
+
+
+The preceding sentence shall not apply in the case of fuel sold for exclusive use by a State or any political subdivision thereof.
+
+
+
+
+(4)
+ Refunds for kerosene used in aviation
+(A)
+ Kerosene used in commercial aviation
+In the case of kerosene used in commercial aviation (as defined in section 4083(b)) (other than supplies for vessels or aircraft within the meaning of section 4221(d)(3)), paragraph (1) shall not apply to so much of the tax imposed by section 4041 or 4081, as the case may be, as is attributable to—
+(i)
+ the Leaking Underground Storage Tank Trust Fund financing rate imposed by such section, and
+
+
+
+
+(ii)
+ so much of the rate of tax specified in section 4041(c) or 4081(a)(2)(A)(iii), as the case may be, as does not exceed 4.3 cents per gallon.
+
+
+
+
+
+
+(B)
+ Kerosene used in noncommercial aviation
+In the case of kerosene used in aviation that is not commercial aviation (as so defined) (other than any use which is exempt from the tax imposed by section 4041(c) other than by reason of a prior imposition of tax), paragraph (1) shall not apply to—
+(i)
+ any tax imposed by subsection (c) or (d)(2) of section 4041, and
+
+
+
+
+(ii)
+ so much of the tax imposed by section 4081 as is attributable to—
+(I)
+ the Leaking Underground Storage Tank Trust Fund financing rate imposed by such section, and
+
+
+
+
+(II)
+ so much of the rate of tax specified in section 4081(a)(2)(A)(iii) as does not exceed the rate specified in section 4081(a)(2)(C)(ii).
+
+
+
+
+
+
+
+
+(C)
+ Payments to ultimate, registered vendor
+(i)
+ In general
+With respect to any kerosene used in aviation (other than kerosene described in clause (ii) or kerosene to which paragraph (5) applies), if the ultimate purchaser of such kerosene waives (at such time and in such form and manner as the Secretary shall prescribe) the right to payment under paragraph (1) and assigns such right to the ultimate vendor, then the Secretary shall pay the amount which would be paid under paragraph (1) to such ultimate vendor, but only if such ultimate vendor—
+(I)
+ is registered under section 4101, and
+
+
+
+
+(II)
+ meets the requirements of subparagraph (A), (B), or (D) of section 6416(a)(1).
+
+
+
+
+
+
+(ii)
+ Payments for kerosene used in noncommercial aviation
+The amount which would be paid under paragraph (1) with respect to any kerosene to which subparagraph (B) applies shall be paid only to the ultimate vendor of such kerosene. A payment shall be made to such vendor if such vendor—
+(I)
+ is registered under section 4101, and
+
+
+
+
+(II)
+ meets the requirements of subparagraph (A), (B), or (D) of section 6416(a)(1).
+
+
+
+
+
+
+
+
+
+
+(5)
+ Registered vendors to administer claims for refund of diesel fuel or kerosene sold to State and local governments
+(A)
+ In general
+Paragraph (1) shall not apply to diesel fuel or kerosene used by a State or local government.
+
+
+
+
+
+
+(B)
+ Sales of kerosene not for use in motor fuel
+Paragraph (1) shall not apply to kerosene (other than kerosene used in aviation) sold by a vendor—
+(i)
+ for any use if such sale is from a pump which (as determined under regulations prescribed by the Secretary) is not suitable for use in fueling any diesel-powered highway vehicle or train, or
+
+
+
+
+(ii)
+ to the extent provided by the Secretary, for blending with heating oil to be used during periods of extreme or unseasonable cold.
+
+
+
+
+
+
+(C)
+ Payment to ultimate, registered vendor
+Except as provided in subparagraph (D), the amount which would (but for subparagraph (A) or (B)) have been paid under paragraph (1) with respect to any fuel shall be paid to the ultimate vendor of such fuel, if such vendor—
+(i)
+ is registered under section 4101, and
+
+
+
+
+(ii)
+ meets the requirements of subparagraph (A), (B), or (D) of section 6416(a)(1).
+
+
+
+
+
+
+(D)
+ Credit card issuer
+For purposes of this paragraph, if the purchase of any fuel described in subparagraph (A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, the Secretary shall pay to the person extending the credit to the ultimate purchaser the amount which would have been paid under paragraph (1) (but for subparagraph (A)), but only if such person meets the requirements of clauses (i), (ii), and (iii) of section 6416(a)(4)(B). If such clause (i), (ii), or (iii) is not met by such person extending the credit to the ultimate purchaser, then such person shall collect an amount equal to the tax from the ultimate purchaser and only such ultimate purchaser may claim such amount.
+
+
+
+
+
+
+
+
+(m)
+ Diesel fuel used to produce emulsion
+(1)
+ In general
+Except as provided in subsection (k), if any diesel fuel on which tax was imposed by section 4081 at the regular tax rate is used by any person in producing an emulsion described in section 4081(a)(2)(D) which is sold or used in such person’s trade or business, the Secretary shall pay (without interest) to such person an amount equal to the excess of the regular tax rate over the incentive tax rate with respect to such fuel.
+
+
+
+
+
+
+(2)
+ Definitions
+For purposes of paragraph (1)—
+(A)
+ Regular tax rate
+The term “regular tax rate” means the aggregate rate of tax imposed by section 4081 determined without regard to section 4081(a)(2)(D).
+
+
+
+
+
+
+(B)
+ Incentive tax rate
+The term “incentive tax rate” means the aggregate rate of tax imposed by section 4081 determined with regard to section 4081(a)(2)(D).
+
+
+
+
+
+
+
+
+(n)
+ Regulations
+The Secretary may by regulations prescribe the conditions, not inconsistent with the provisions of this section, under which payments may be made under this section.
+
+
+
+
+(o)
+ Payments for taxes imposed by section 4041(d)
+For purposes of subsections (a), (b), and (c), the taxes imposed by section 4041(d) shall be treated as imposed by section 4041(a).
+
+
+
+
+(p)
+ Cross references
+(1)
+ For civil penalty for excessive claims under this section, see section 6675.
+
+
+
+
+(2)
+ For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
+
+
+
+
+(3)
+ For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+
+
+
+
+ 2008 recovery rebates for individuals
+(a)
+ In general
+In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2008 an amount equal to the lesser of—
+(1)
+ net income tax liability, or
+
+
+
+
+(2)
+ $600 ($1,200 in the case of a joint return).
+
+
+
+
+(b)
+ Special rules
+(1)
+ In general
+In the case of a taxpayer described in paragraph (2)—
+(A)
+ the amount determined under subsection (a) shall not be less than $300 ($600 in the case of a joint return), and
+
+
+
+
+(B)
+ the amount determined under subsection (a) (after the application of subparagraph (A)) shall be increased by the product of $300 multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.
+
+
+
+
+
+
+(2)
+ Taxpayer described
+A taxpayer is described in this paragraph if the taxpayer—
+(A)
+ has qualifying income of at least $3,000, or
+
+
+
+
+(B)
+ has—
+(i)
+ net income tax liability which is greater than zero, and
+
+
+
+
+(ii)
+ gross income which is greater than the sum of the basic standard deduction plus the exemption amount (twice the exemption amount in the case of a joint return).
+
+
+
+
+
+
+
+
+(c)
+ Treatment of credit
+The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+
+
+
+
+(d)
+ Limitation based on adjusted gross income
+The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (f)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer’s adjusted gross income as exceeds $75,000 ($150,000 in the case of a joint return).
+
+
+
+
+(e)
+ Definitions
+For purposes of this section—
+(1)
+ Qualifying income
+The term “qualifying income” means—
+(A)
+ earned income,
+
+
+
+
+(B)
+ social security benefits (within the meaning of section 86(d)), and
+
+
+
+
+(C)
+ any compensation or pension received under chapter 11, chapter 13, or chapter 15 of title 38, United States Code.
+
+
+
+
+
+
+(2)
+ Net income tax liability
+The term “net income tax liability” means the excess of—
+(A)
+ the sum of the taxpayer’s regular tax liability (within the meaning of section 26(b)) and the tax imposed by section 55 for the taxable year, over
+
+
+
+
+(B)
+ the credits allowed by part IV (other than section 24 and subpart C thereof) of subchapter A of chapter 1.
+
+
+
+
+
+
+(3)
+ Eligible individual
+The term “eligible individual” means any individual other than—
+(A)
+ any nonresident alien individual,
+
+
+
+
+(B)
+ any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and
+
+
+
+
+(C)
+ an estate or trust.
+
+
+
+
+
+
+(4)
+ Earned income
+The term “earned income” has the meaning set forth in section 32(c)(2) except that such term shall not include net earnings from self-employment which are not taken into account in computing taxable income.
+
+
+
+
+
+
+(5)
+ Basic standard deduction; exemption amount
+The terms “basic standard deduction” and “exemption amount” shall have the same respective meanings as when used in section 6012(a).
+
+
+
+
+
+
+(f)
+ Coordination with advance refunds of credit
+(1)
+ In general
+The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (g). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+
+
+
+
+
+(2)
+ Joint returns
+In the case of a refund or credit made or allowed under subsection (g) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+
+
+
+
+
+
+(g)
+ Advance refunds and credits
+(1)
+ In general
+Each individual who was an eligible individual for such individual’s first taxable year beginning in 2007 shall be treated as having made a payment against the tax imposed by chapter 1 for such first taxable year in an amount equal to the advance refund amount for such taxable year.
+
+
+
+
+
+
+(2)
+ Advance refund amount
+For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (f) and this subsection) had applied to such taxable year.
+
+
+
+
+
+
+(3)
+ Timing of payments
+The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this section as rapidly as possible. No refund or credit shall be made or allowed under this subsection after 
+December 31, 2008
+.
+
+
+
+
+
+
+(4)
+ No interest
+No interest shall be allowed on any overpayment attributable to this section.
+
+
+
+
+
+
+(h)
+ Identification number requirement
+(1)
+ In general
+No credit shall be allowed under subsection (a) to an eligible individual who does not include on the return of tax for the taxable year—
+(A)
+ such individual’s valid identification number,
+
+
+
+
+(B)
+ in the case of a joint return, the valid identification number of such individual’s spouse, and
+
+
+
+
+(C)
+ in the case of any qualifying child taken into account under subsection (b)(1)(B), the valid identification number of such qualifying child.
+
+
+
+
+
+
+(2)
+ Valid identification number
+For purposes of paragraph (1), the term “valid identification number” means a social security number issued to an individual by the Social Security Administration. Such term shall not include a TIN issued by the Internal Revenue Service.
+
+
+
+
+
+
+(3)
+ Special rule for members of the Armed Forces
+Paragraph (1) shall not apply to a joint return where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year.
+
+
+
+
+
+
+“(a)
+ Authority to Make Payments.—
+“(1)
+ Eligibility.—
+“(A)
+ 
+In general
+.—
+Subject to paragraph (5)(B), the Secretary of the Treasury shall disburse a $250 payment to each individual who, for any month during the 3-month period ending with the month which ends prior to the month that includes the date of the enactment of this Act [
+Feb. 17, 2009
+], is entitled to a benefit payment described in clause (i), (ii), or (iii) of subparagraph (B) or is eligible for a SSI cash benefit described in subparagraph (C).
+
+
+
+
+“(B)
+ 
+Benefit payment described
+.—
+For purposes of subparagraph (A):
+“(i)
+ 
+Title ii benefit
+.—
+A benefit payment described in this clause is a monthly insurance benefit payable (without regard to sections 202(j)(1) and 223(b) of the Social Security Act (
+42 U.S.C. 402(j)(1)
+, 423(b))[)] under—
+     “(I)
+ section 202(a) of such Act (
+42 U.S.C. 402(a)
+);
+
+
+
+
+     “(II)
+ section 202(b) of such Act (
+42 U.S.C. 402(b)
+);
+
+
+
+
+     “(III)
+ section 202(c) of such Act (
+42 U.S.C. 402(c)
+);
+
+
+
+
+     “(IV)
+ section 202(d)(1)(B)(ii) of such Act (
+42 U.S.C. 402(d)(1)(B)(ii)
+);
+
+
+
+
+     “(V)
+ section 202(e) of such Act (
+42 U.S.C. 402(e)
+);
+
+
+
+
+     “(VI)
+ section 202(f) of such Act (
+42 U.S.C. 402(f)
+);
+
+
+
+
+     “(VII)
+ section 202(g) of such Act (
+42 U.S.C. 402(g)
+);
+
+
+
+
+     “(VIII)
+ section 202(h) of such Act (
+42 U.S.C. 402(h)
+);
+
+
+
+
+     “(IX)
+ section 223(a) of such Act (
+42 U.S.C. 423(a)
+);
+
+
+
+
+     “(X)
+ section 227 of such Act (
+42 U.S.C. 427
+); or
+
+
+
+
+     “(XI)
+ section 228 of such Act (
+42 U.S.C. 428
+).
+
+
+
+
+
+
+“(ii)
+ 
+Railroad retirement benefit
+.—
+A benefit payment described in this clause is a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 (
+45 U.S.C. 231d(a)(ii)
+)) under—
+     “(I)
+ section 2(a)(1) of such Act (
+45 U.S.C. 231a(a)(1)
+);
+
+
+
+
+     “(II)
+ section 2(c) of such Act (
+45 U.S.C. 231a(c)
+);
+
+
+
+
+     “(III)
+ section 2(d)(1)(i) of such Act (
+45 U.S.C. 231a(d)(1)(i)
+);
+
+
+
+
+     “(IV)
+ section 2(d)(1)(ii) of such Act (
+45 U.S.C. 231a(d)(1)(ii)
+);
+
+
+
+
+     “(V)
+ section 2(d)(1)(iii)(C) of such Act to an adult disabled child (
+45 U.S.C. 231a(d)(1)(iii)(C)
+);
+
+
+
+
+     “(VI)
+ section 2(d)(1)(iv) of such Act (
+45 U.S.C. 231a(d)(1)(iv)
+);
+
+
+
+
+     “(VII)
+ section 2(d)(1)(v) of such Act (
+45 U.S.C. 231a(d)(1)(v)
+); or
+
+
+
+
+     “(VIII)
+ section 7(b)(2) of such Act (
+45 U.S.C. 231f(b)(2)
+) with respect to any of the benefit payments described in clause (i) of this subparagraph.
+
+
+
+
+
+
+“(iii)
+ 
+Veterans benefit
+.—
+A benefit payment described in this clause is a compensation or pension payment payable under—
+     “(I)
+ section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code;
+
+
+
+
+     “(II)
+ section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code;
+
+
+
+
+     “(III)
+ section 1513, 1521, 1533, 1536, 1537, 1541, 1542, or 1562 of title 38, United States Code; or
+
+
+
+
+     “(IV)
+ section 1805, 1815, or 1821 of title 38, United States Code,
+
+
+
+
+
+
+
+ to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code, who received that benefit during any month within the 3 month period ending with the month which ends prior to the month that includes the date of the enactment of this Act [
+Feb. 17, 2009
+].
+
+
+
+
+“(C)
+ 
+Ssi cash benefit described
+.—
+A SSI cash benefit described in this subparagraph is a cash benefit payable under section 1611 (other than under subsection (e)(1)(B) of such section) or 1619(a) of the Social Security Act (
+42 U.S.C. 1382
+, 1382h[(a)]).
+
+
+
+
+
+
+“(2)
+ 
+Requirement
+.—
+A payment shall be made under paragraph (1) only to individuals who reside in 1 of the 50 States, the District of Columbia, Puerto Rico, Guam, the United States Virgin Islands, American Samoa, or the Northern Mariana Islands. For purposes of the preceding sentence, the determination of the individual’s residence shall be based on the current address of record under a program specified in paragraph (1).
+
+
+
+
+“(3)
+ 
+No double payments
+.—
+An individual shall be paid only 1 payment under this section, regardless of whether the individual is entitled to, or eligible for, more than 1 benefit or cash payment described in paragraph (1).
+
+
+
+
+“(4)
+ 
+Limitation
+.—
+A payment under this section shall not be made—
+“(A)
+ in the case of an individual entitled to a benefit specified in paragraph (1)(B)(i) or paragraph (1)(B)(ii)(VIII) if, for the most recent month of such individual’s entitlement in the 3-month period described in paragraph (1), such individual’s benefit under such paragraph was not payable by reason of subsection (x) or (y) of section 202 [of] the Social Security Act (
+42 U.S.C. 402
+) or section 1129A of such Act (
+42 U.S.C. 1320a–8a
+);
+
+
+
+
+“(B)
+ in the case of an individual entitled to a benefit specified in paragraph (1)(B)(iii) if, for the most recent month of such individual’s entitlement in the 3 month period described in paragraph (1), such individual’s benefit under such paragraph was not payable, or was reduced, by reason of section 1505, 5313, or 5313B of title 38, United States Code;
+
+
+
+
+“(C)
+ in the case of an individual entitled to a benefit specified in paragraph (1)(C) if, for such most recent month, such individual’s benefit under such paragraph was not payable by reason of subsection (e)(1)(A) or (e)(4) of section 1611 (
+42 U.S.C. 1382
+) or section 1129A of such Act (
+42 U.S.C. 1320a–8a
+); or
+
+
+
+
+“(D)
+ in the case of any individual whose date of death occurs before the date on which the individual is certified under subsection (b) to receive a payment under this section.
+
+
+
+
+
+
+“(5)
+ Timing and manner of payments.—
+“(A)
+ 
+In general
+.—
+The Secretary of the Treasury shall commence disbursing payments under this section at the earliest practicable date but in no event later than 120 days after the date of enactment of this Act [
+Feb. 17, 2009
+]. The Secretary of the Treasury may disburse any payment electronically to an individual in such manner as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of paragraph (1).
+
+
+
+
+“(B)
+ 
+Deadline
+.—
+No payments shall be disbursed under this section after 
+December 31, 2010
+, regardless of any determinations of entitlement to, or eligibility for, such payments made after such date.
+
+
+
+
+
+
+“(b)
+ 
+Identification of Recipients
+.—
+The Commissioner of Social Security, the Railroad Retirement Board, and the Secretary of Veterans Affairs shall certify the individuals entitled to receive payments under this section and provide the Secretary of the Treasury with the information needed to disburse such payments. A certification of an individual shall be unaffected by any subsequent determination or redetermination of the individual’s entitlement to, or eligibility for, a benefit specified in subparagraph (B) or (C) of subsection (a)(1).
+
+
+“(c)
+ Treatment of Payments.—
+“(1)
+ 
+Payment to be disregarded for purposes of all federal and federally assisted programs
+.—
+A payment under subsection (a) shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for purposes of determining the eligibility of the recipient (or the recipient’s spouse or family) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
+
+
+
+
+“(2)
+ 
+Payment not considered income for purposes of taxation
+.—
+A payment under subsection (a) shall not be considered as gross income for purposes of the Internal Revenue Code of 1986.
+
+
+
+
+“(3)
+ 
+Payments protected from assignment
+.—
+The provisions of sections 207 and 1631(d)(1) of the Social Security Act (
+42 U.S.C. 407
+, 1383(d)(1)), section 14(a) of the Railroad Retirement Act of 1974 (
+45 U.S.C. 231m(a)
+), and 
+section 5301 of title 38
+, United States Code, shall apply to any payment made under subsection (a) as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of subsection (a)(1).
+
+
+
+
+“(4)
+ 
+Payments subject to offset
+.—
+Notwithstanding paragraph (3), for purposes of 
+section 3716 of title 31
+, United States Code, any payment made under this section shall not be considered a benefit payment or cash benefit made under the applicable program described in subparagraph (B) or (C) of subsection (a)(1) and all amounts paid shall be subject to offset to collect delinquent debts.
+
+
+
+
+“(d)
+ Payment to Representative Payees and Fiduciaries.—
+“(1)
+ 
+In general
+.—
+In any case in which an individual who is entitled to a payment under subsection (a) and whose benefit payment or cash benefit described in paragraph (1) of that subsection is paid to a representative payee or fiduciary, the payment under subsection (a) shall be made to the individual’s representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.
+
+
+
+
+“(2)
+ Applicability.—
+“(A)
+ 
+Payment on the basis of a title ii or ssi benefit
+.—
+Section 1129(a)(3) of the Social Security Act (
+42 U.S.C. 1320a–8(a)(3)
+) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(i) or (1)(C) of subsection (a) in the same manner as such section applies to a payment under title II or XVI of such Act [
+42 U.S.C. 401
+ et seq., 1381 et seq.].
+
+
+
+
+“(B)
+ 
+Payment on the basis of a railroad retirement benefit
+.—
+Section 13 of the Railroad Retirement Act [of 1974] (
+45 U.S.C. 231
+l
+) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act [
+45 U.S.C. 231
+ et seq.].
+
+
+
+
+“(C)
+ 
+Payment on the basis of a veterans benefit
+.—
+Sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(iii) of subsection (a) in the same manner as those sections apply to a payment under that title.
+
+
+
+
+
+
+“(e)
+ 
+Appropriation
+.—
+Out of any sums in the Treasury of the United States not otherwise appropriated, the following sums are appropriated for the period of fiscal years 2009 through 2011, to remain available until expended, to carry out this section:
+“(1)
+ For the Secretary of the Treasury, $131,000,000 for administrative costs incurred in carrying out this section, section 2202 [set out below], section 36A of the Internal Revenue Code of 1986 (as added by this Act), and other provisions of this Act [see Tables for classification] or the amendments made by this Act relating to the Internal Revenue Code of 1986.
+
+
+
+
+“(2)
+ For the Commissioner of Social Security—
+“(A)
+ such sums as may be necessary for payments to individuals certified by the Commissioner of Social Security as entitled to receive a payment under this section; and
+
+
+
+
+“(B)
+ $90,000,000 for the Social Security Administration’s Limitation on Administrative Expenses for costs incurred in carrying out this section.
+
+
+
+
+
+
+“(3)
+ For the Railroad Retirement Board—
+“(A)
+ such sums as may be necessary for payments to individuals certified by the Railroad Retirement Board as entitled to receive a payment under this section; and
+
+
+
+
+“(B)
+ $1,400,000 to the Railroad Retirement Board’s Limitation on Administration for administrative costs incurred in carrying out this section.
+
+
+
+
+
+
+“(4)
+(A)
+ For the Secretary of Veterans Affairs—
+“(i)
+ such sums as may be necessary for the Compensation and Pensions account, for payments to individuals certified by the Secretary of Veterans Affairs as entitled to receive a payment under this section; and
+
+
+
+
+“(ii)
+ $100,000 for the Information Systems Technology account and $7,100,000 for the General Operating Expenses account for administrative costs incurred in carrying out this section.
+
+
+
+
+
+
+“(B)
+ The Department of Veterans Affairs Compensation and Pensions account shall hereinafter be available for payments authorized under subsection (a)(1)(A) to individuals entitled to a benefit payment described in subsection (a)(1)(B)(iii).”
+
+
+
+
+
+
+“(a)
+ 
+In General
+.—
+In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for the first taxable year beginning in 2009 an amount equal [to] $250 ($500 in the case of a joint return where both spouses are eligible individuals).
+
+
+“(b)
+ 
+Eligible Individual
+.—
+For purposes of this section—
+“(1)
+ 
+In general
+.—
+The term ‘eligible individual’ means any individual—
+“(A)
+ who receives during the first taxable year beginning in 2009 any amount as a pension or annuity for service performed in the employ of the United States or any State, or any instrumentality thereof, which is not considered employment for purposes of chapter 21 of the Internal Revenue Code of 1986, and
+
+
+
+
+“(B)
+ who does not receive a payment under section 2201 [set out above] during such taxable year.
+
+
+
+
+
+
+“(2)
+ 
+Identification number requirement
+.—
+Such term shall not include any individual who does not include on the return of tax for the taxable year—
+“(A)
+ such individual’s social security account number, and
+
+
+
+
+“(B)
+ in the case of a joint return, the social security account number of one of the taxpayers on such return.
+
+
+
+
+
+For purposes of the preceding sentence, the social security account number shall not include a TIN (as defined in section 7701(a)(41) of the Internal Revenue Code of 1986) issued by the Internal Revenue Service. Any omission of a correct social security account number required under this subparagraph [probably should be “this paragraph”] shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) of such Code to such omission.
+
+
+
+
+“(c)
+ Treatment of Credit.—
+“(1)
+ Refundable credit.—
+“(A)
+ 
+In general
+.—
+The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986.
+
+
+
+
+“(B)
+ 
+Appropriations
+.—
+For purposes of 
+section 1324(b)(2) of title 31
+, United States Code, the credit allowed by subsection (a) shall be treated in the same manner [as] a refund from the credit allowed under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+
+
+
+
+
+
+“(2)
+ 
+Deficiency rules
+.—
+For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+
+
+
+
+“(d)
+ 
+Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs
+.—
+Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
+
+
+ Advance payment of portion of increased child credit for 2003
+(a)
+ In general
+Each taxpayer who was allowed a credit under section 24 on the return for the taxpayer’s first taxable year beginning in 2002 shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the child tax credit refund amount (if any) for such taxable year.
+
+
+
+
+(b)
+ Child tax credit refund amount
+For purposes of this section, the child tax credit refund amount is the amount by which the aggregate credits allowed under part IV of subchapter A of chapter 1 for such first taxable year would have been increased if—
+(1)
+ the per child amount under section 24(a)(2) for such year were $1,000,
+
+
+
+
+(2)
+ only qualifying children (as defined in section 24(c)) of the taxpayer for such year who had not attained age 17 as of 
+December 31, 2003
+, were taken into account, and
+
+
+
+
+(3)
+ section 24(d)(1)(B)(ii) did not apply.
+
+
+
+
+(c)
+ Timing of payments
+In the case of any overpayment attributable to this section, the Secretary shall, subject to the provisions of this title, refund or credit such overpayment as rapidly as possible and, to the extent practicable, before 
+October 1, 2003
+. No refund or credit shall be made or allowed under this section after 
+December 31, 2003
+.
+
+
+
+
+(d)
+ Coordination with child tax credit
+(1)
+ In general
+The amount of credit which would (but for this subsection and section 26) be allowed under section 24 for the taxpayer’s first taxable year beginning in 2003 shall be reduced (but not below zero) by the payments made to the taxpayer under this section. Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+
+
+
+
+
+(2)
+ Joint returns
+In the case of a payment under this section with respect to a joint return, half of such payment shall be treated as having been made to each individual filing such return.
+
+
+
+
+
+
+(e)
+ No interest
+No interest shall be allowed on any overpayment attributable to this section.
+
+
+
+
+ Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate
+ Credit for qualified bonds allowed to issuer
+(a)
+ In general
+In the case of a qualified bond issued before 
+January 1, 2011
+, the issuer of such bond shall be allowed a credit with respect to each interest payment under such bond which shall be payable by the Secretary as provided in subsection (b).
+
+
+
+
+(b)
+ Payment of credit
+The Secretary shall pay (contemporaneously with each interest payment date under such bond) to the issuer of such bond (or to any person who makes such interest payments on behalf of the issuer) 35 percent of the interest payable under such bond on such date.
+
+
+
+
+(c)
+ Application of arbitrage rules
+For purposes of section 148, the yield on a qualified bond shall be reduced by the credit allowed under this section.
+
+
+
+
+(d)
+ Interest payment date
+For purposes of this subsection, the term “interest payment date” means each date on which interest is payable by the issuer under the terms of the bond.
+
+
+
+
+(e)
+ Qualified bond
+For purposes of this subsection, the term “qualified bond” has the meaning given such term in section 54AA(g).
+
+
+
+
+(f)
+ Application of section to certain qualified tax credit bonds
+(1)
+ In general
+In the case of any specified tax credit bond—
+(A)
+ such bond shall be treated as a qualified bond for purposes of this section,
+
+
+
+
+(B)
+ subsection (a) shall be applied without regard to the requirement that the qualified bond be issued before 
+January 1, 2011
+,
+
+
+
+
+(C)
+ the amount of the payment determined under subsection (b) with respect to any interest payment due under such bond shall be equal to the lesser of—
+(i)
+ the amount of interest payable under such bond on such date, or
+
+
+
+
+(ii)
+ the amount of interest which would have been payable under such bond on such date if such interest were determined at the applicable credit rate determined under section 54A(b)(3),
+
+
+
+
+
+
+(D)
+ interest on any such bond shall be includible in gross income for purposes of this title,
+
+
+
+
+(E)
+ no credit shall be allowed under section 54A with respect to such bond,
+
+
+
+
+(F)
+ any payment made under subsection (b) shall not be includible as income for purposes of this title, and
+
+
+
+
+(G)
+ the deduction otherwise allowed under this title to the issuer of such bond with respect to interest paid under such bond shall be reduced by the amount of the payment made under this section with respect to such interest.
+
+
+
+
+
+
+(2)
+ Special rule for new clean renewable energy bonds and qualified energy conservation bonds
+In the case of any specified tax credit bond described in clause (i) or (ii) of paragraph (3)(A), the amount determined under paragraph (1)(C)(ii) shall be 70 percent of the amount so determined without regard to this paragraph and sections 54C(b) and 54D(b).
+
+
+
+
+
+
+(3)
+ Specified tax credit bond
+For purposes of this subsection, the term “specified tax credit bond” means any qualified tax credit bond (as defined in section 54A(d)) if—
+(A)
+ such bond is—
+(i)
+ a new clean renewable energy bond (as defined in section 54C),
+
+
+
+
+(ii)
+ a qualified energy conservation bond (as defined in section 54D),
+
+
+
+
+(iii)
+ a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation, or
+
+
+
+
+(iv)
+ a qualified school construction bond (as defined in section 54F), and
+
+
+
+
+
+
+(B)
+ the issuer of such bond makes an irrevocable election to have this subsection apply.
+
+
+
+
+
+
+ COBRA premium assistance
+(a)
+ In general
+The person to whom premiums are payable under COBRA continuation coverage shall be reimbursed as provided in subsection (c) for the amount of premiums not paid by assistance eligible individuals by reason of section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009.
+
+
+
+
+(b)
+ Person entitled to reimbursement
+For purposes of subsection (a), except as otherwise provided by the Secretary, the person to whom premiums are payable under COBRA continuation coverage shall be treated as being—
+(1)
+ in the case of any group health plan which is a multiemployer plan (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974), the plan,
+
+
+
+
+(2)
+ in the case of any group health plan not described in paragraph (1)—
+(A)
+ which is subject to the COBRA continuation provisions contained in—
+(i)
+ the Internal Revenue Code of 1986,
+
+
+
+
+(ii)
+ the Employee Retirement Income Security Act of 1974,
+
+
+
+
+(iii)
+ the Public Health Service Act, or
+
+
+
+
+(iv)
+ title 5, United States Code, or
+
+
+
+
+
+
+(B)
+ under which some or all of the coverage is not provided by insurance,
+
+
+
+
+
+the employer maintaining the plan, and
+
+
+
+
+(3)
+ in the case of any group health plan not described in paragraph (1) or (2), the insurer providing the coverage under the group health plan.
+
+
+
+
+(c)
+ Method of reimbursement
+Except as otherwise provided by the Secretary—
+(1)
+ Treatment as payment of payroll taxes
+Each person entitled to reimbursement under subsection (a) (and filing a claim for such reimbursement at such time and in such manner as the Secretary may require) shall be treated for purposes of this title and 
+section 1324(b)(2) of title 31
+, United States Code, as having paid to the Secretary, on the date that the assistance eligible individual’s premium payment is received, payroll taxes in an amount equal to the portion of such reimbursement which relates to such premium. To the extent that the amount treated as paid under the preceding sentence exceeds the amount of such person’s liability for such taxes, the Secretary shall credit or refund such excess in the same manner as if it were an overpayment of such taxes.
+
+
+
+
+
+
+(2)
+ Overstatements
+Any overstatement of the reimbursement to which a person is entitled under this section (and any amount paid by the Secretary as a result of such overstatement) shall be treated as an underpayment of payroll taxes by such person and may be assessed and collected by the Secretary in the same manner as payroll taxes.
+
+
+
+
+
+
+(3)
+ Reimbursement contingent on payment of remaining premium
+No reimbursement may be made under this section to a person with respect to any assistance eligible individual until after the reduced premium required under section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009 with respect to such individual has been received.
+
+
+
+
+
+
+(d)
+ Definitions
+For purposes of this section—
+(1)
+ Payroll taxes
+The term “payroll taxes” means—
+(A)
+ amounts required to be deducted and withheld for the payroll period under section 3402 (relating to wage withholding),
+
+
+
+
+(B)
+ amounts required to be deducted for the payroll period under section 3102 (relating to FICA employee taxes), and
+
+
+
+
+(C)
+ amounts of the taxes imposed for the payroll period under section 3111 (relating to FICA employer taxes).
+
+
+
+
+
+
+(2)
+ Person
+The term “person” includes any governmental entity.
+
+
+
+
+
+
+(e)
+ Employer determination of qualifying event as involuntary termination
+For purposes of this section, in any case in which—
+(1)
+ based on a reasonable interpretation of section 3001(a)(3)(C) of division B of the American Recovery and Reinvestment Act of 2009 and administrative guidance thereunder, an employer determines that the qualifying event with respect to COBRA continuation coverage for an individual was involuntary termination of a covered employee’s employment, and
+
+
+
+
+(2)
+ the employer maintains supporting documentation of the determination, including an attestation by the employer of involuntary termination with respect to the covered employee,
+
+
+
+
+
+the qualifying event for the individual shall be deemed to be involuntary termination of the covered employee’s employment.
+
+
+(f)
+ Reporting
+Each person entitled to reimbursement under subsection (a) for any period shall submit such reports (at such time and in such manner) as the Secretary may require, including—
+(1)
+ an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
+
+
+
+
+(2)
+ a report of the amount of payroll taxes offset under subsection (a) for the reporting period and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
+
+
+
+
+(3)
+ a report containing the TINs of all covered employees, the amount of subsidy reimbursed with respect to each covered employee and qualified beneficiaries, and a designation with respect to each covered employee as to whether the subsidy reimbursement is for coverage of 1 individual or 2 or more individuals.
+
+
+
+
+(g)
+ Regulations
+The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out this section, including—
+(1)
+ the requirement to report information or the establishment of other methods for verifying the correct amounts of reimbursements under this section, and
+
+
+
+
+(2)
+ the application of this section to group health plans that are multiemployer plans (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974).
+
+
+
+
+“(a)
+ Premium Assistance for COBRA Continuation Coverage for Individuals and Their Families.—
+“(1)
+ Provision of premium assistance.—
+“(A)
+ 
+Reduction of premiums payable
+.—
+In the case of any premium for a period of coverage beginning on or after the date of the enactment of this Act [
+Feb. 17, 2009
+] for COBRA continuation coverage with respect to any assistance eligible individual, such individual shall be treated for purposes of any COBRA continuation provision as having paid the amount of such premium if such individual pays (or a person other than such individual’s employer pays on behalf of such individual) 35 percent of the amount of such premium (as determined without regard to this subsection).
+
+
+
+
+“(B)
+ Plan enrollment option.—
+“(i)
+ 
+In general
+.—
+Notwithstanding the COBRA continuation provisions, an assistance eligible individual may, not later than 90 days after the date of notice of the plan enrollment option described in this subparagraph, elect to enroll in coverage under a plan offered by the employer involved, or the employee organization involved (including, for this purpose, a joint board of trustees of a multiemployer trust affiliated with one or more multiemployer plans), that is different than coverage under the plan in which such individual was enrolled at the time the qualifying event occurred, and such coverage shall be treated as COBRA continuation coverage for purposes of the applicable COBRA continuation coverage provision.
+
+
+
+
+“(ii)
+ 
+Requirements
+.—
+An assistance eligible individual may elect to enroll in different coverage as described in clause (i) only if—
+     “(I)
+ the employer involved has made a determination that such employer will permit assistance eligible individuals to enroll in different coverage as provided for this subparagraph;
+
+
+
+
+     “(II)
+ the premium for such different coverage does not exceed the premium for coverage in which the individual was enrolled at the time the qualifying event occurred;
+
+
+
+
+     “(III)
+ the different coverage in which the individual elects to enroll is coverage that is also offered to the active employees of the employer at the time at which such election is made; and
+
+
+
+
+     “(IV)
+ the different coverage is not—
+“(aa)
+ coverage that provides only dental, vision, counseling, or referral services (or a combination of such services);
+
+
+
+
+“(bb)
+ a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986); or
+
+
+
+
+“(cc)
+ coverage that provides coverage for services or treatments furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination of such care).
+
+
+
+
+
+
+
+
+
+
+“(C)
+ 
+Premium reimbursement
+.—
+For provisions providing the balance of such premium, see section 6432 of the Internal Revenue Code of 1986, as added by paragraph (12).
+
+
+
+
+
+
+“(2)
+ Limitation of period of premium assistance.—
+“(A)
+ 
+In general
+.—
+Paragraph (1)(A) shall not apply with respect to any assistance eligible individual for months of coverage beginning on or after the earlier of—
+“(i)
+ the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only dental, vision, counseling, or referral services (or a combination thereof), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), or coverage of treatment that is furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination thereof)) or is eligible for benefits under title XVIII of the Social Security Act [
+42 U.S.C. 1395
+ et seq.], or
+
+
+
+
+“(ii)
+ the earliest of—
+     “(I)
+ the date which is 15 months after the first day that paragraph (1)(A) applies with respect to such individual,
+
+
+
+
+     “(II)
+ the date following the expiration of the maximum period of continuation coverage required under the applicable COBRA continuation coverage provision, or
+
+
+
+
+     “(III)
+ the date following the expiration of the period of continuation coverage allowed under paragraph (4)(B)(ii).
+
+
+
+
+
+
+
+
+“(B)
+ 
+Timing of eligibility for additional coverage
+.—
+For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverage under a group health plan before the first date on which such individual could be covered under such plan.
+
+
+
+
+“(C)
+ 
+Notification requirement
+.—
+An assistance eligible individual shall notify in writing the group health plan with respect to which paragraph (1)(A) applies if such paragraph ceases to apply by reason of subparagraph (A)(i). Such notice shall be provided to the group health plan in such time and manner as may be specified by the Secretary of Labor.
+
+
+
+
+
+
+“(3)
+ 
+Assistance eligible individual
+.—
+For purposes of this section, the term ‘assistance eligible individual’ means any qualified beneficiary if—
+“(A)
+ such qualified beneficiary is eligible for COBRA continuation coverage related to a qualifying event occurring during the period that begins with 
+September 1, 2008
+, and ends with 
+May 31, 2010
+,
+
+
+
+
+“(B)
+ such qualified beneficiary elects such coverage, and
+
+
+
+
+“(C)
+ the qualifying event with respect to the COBRA continuation coverage consists of the involuntary termination of the covered employee’s employment and occurred during such period or consists of a reduction of hours followed by such an involuntary termination of employment during such period (as described in paragraph (17)(C)).
+
+
+
+
+
+
+“(4)
+ Extension of election period and effect on coverage.—
+“(A)
+ 
+In general
+.—
+For purposes of applying section 605(a) of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1165(a)
+], section 4980B(f)(5)(A) of the Internal Revenue Code of 1986, section 2205(a) of the Public Health Service Act [
+42 U.S.C. 300bb–5(a)
+], and 
+section 8905a(c)(2) of title 5
+, United States Code, in the case of an individual who does not have an election of COBRA continuation coverage in effect on the date of the enactment of this Act [
+Feb. 17, 2009
+] but who would be an assistance eligible individual if such election were so in effect, such individual may elect the COBRA continuation coverage under the COBRA continuation coverage provisions containing such sections during the period beginning on the date of the enactment of this Act and ending 60 days after the date on which the notification required under paragraph (7)(C) is provided to such individual.
+
+
+
+
+“(B)
+ 
+Commencement of coverage; no reach-back
+.—
+Any COBRA continuation coverage elected by a qualified beneficiary during an extended election period under subparagraph (A)—
+“(i)
+ shall commence with the first period of coverage beginning on or after the date of the enactment of this Act [
+Feb. 17, 2009
+], and
+
+
+
+
+“(ii)
+ shall not extend beyond the period of COBRA continuation coverage that would have been required under the applicable COBRA continuation coverage provision if the coverage had been elected as required under such provision.
+
+
+
+
+
+
+“(C)
+ 
+Preexisting conditions
+.—
+With respect to a qualified beneficiary who elects COBRA continuation coverage pursuant to subparagraph (A), the period—
+“(i)
+ beginning on the date of the qualifying event, and
+
+
+
+
+“(ii)
+ ending with the beginning of the period described in subparagraph (B)(i),
+
+
+
+
+
+  shall be disregarded for purposes of determining the 63-day periods referred to in section 701(c)(2) of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1181(c)(2)
+], section 9801(c)(2) of the Internal Revenue Code of 1986, and section 2701(c)(2) of the Public Health Service Act [former 
+42 U.S.C. 300gg(c)(2)
+; now 
+42 U.S.C. 300gg–3(c)(2)
+].
+
+
+
+
+
+
+“(5)
+ 
+Expedited review of denials of premium assistance
+.—
+In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1161
+ et seq.]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual’s eligibility within 15 business days after receipt of such individual’s application for review under this paragraph. Either Secretary’s determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary’s determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1001
+ et seq.] for purposes of part 5 of subtitle B of such title [
+29 U.S.C. 1131
+ et seq.]. In addition to civil actions that may be brought to enforce applicable provisions of such Act [
+29 U.S.C. 1001
+ et seq.] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor’s or issuer’s receipt of the determination.
+
+
+
+
+“(6)
+ 
+Disregard of subsidies for purposes of federal and state programs
+.—
+Notwithstanding any other provision of law, any premium reduction with respect to an assistance eligible individual under this subsection shall not be considered income or resources in determining eligibility for, or the amount of assistance or benefits provided under, any other public benefit provided under Federal law or the law of any State or political subdivision thereof.
+
+
+
+
+“(7)
+ Notices to individuals.—
+“(A)
+ General notice.—
+“(i)
+ 
+In general
+.—
+In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 (
+29 U.S.C. 1166
+[(a)](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act (
+42 U.S.C. 300bb–6(4)
+), or 
+section 8905a(f)(2)(A) of title 5
+, United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not be treated as met unless such notices include an additional notification to the recipient of—
+     “(I)
+ the availability of premium reduction with respect to such coverage under this subsection, and
+
+
+
+
+     “(II)
+ the option to enroll in different coverage if the employer permits assistance eligible individuals to elect enrollment in different coverage (as described in paragraph (1)(B)).
+
+
+
+
+
+
+“(ii)
+ 
+Alternative notice
+.—
+In the case of COBRA continuation coverage to which the notice provision under such sections does not apply, the Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall, in consultation with administrators of the group health plans (or other entities) that provide or administer the COBRA continuation coverage involved, provide rules requiring the provision of such notice.
+
+
+
+
+“(iii)
+ 
+Form
+.—
+The requirement of the additional notification under this subparagraph may be met by amendment of existing notice forms or by inclusion of a separate document with the notice otherwise required.
+
+
+
+
+
+
+“(B)
+ 
+Specific requirements
+.—
+Each additional notification under subparagraph (A) shall include—
+“(i)
+ the forms necessary for establishing eligibility for premium reduction under this subsection,
+
+
+
+
+“(ii)
+ the name, address, and telephone number necessary to contact the plan administrator and any other person maintaining relevant information in connection with such premium reduction,
+
+
+
+
+“(iii)
+ a description of the extended election period provided for in paragraph (4)(A),
+
+
+
+
+“(iv)
+ a description of the obligation of the qualified beneficiary under paragraph (2)(C) to notify the plan providing continuation coverage of eligibility for subsequent coverage under another group health plan or eligibility for benefits under title XVIII of the Social Security Act [
+42 U.S.C. 1395
+ et seq.] and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to so notify the plan,
+
+
+
+
+“(v)
+ a description, displayed in a prominent manner, of the qualified beneficiary’s right to a reduced premium and any conditions on entitlement to the reduced premium, and
+
+
+
+
+“(vi)
+ a description of the option of the qualified beneficiary to enroll in different coverage if the employer permits such beneficiary to elect to enroll in such different coverage under paragraph (1)(B).
+
+
+
+
+
+
+“(C)
+ 
+Notice in connection with extended election periods
+.—
+In the case of any assistance eligible individual (or any individual described in paragraph (4)(A)) who became entitled to elect COBRA continuation coverage before the date of the enactment of this Act [
+Feb. 17, 2009
+], the administrator of the group health plan (or other entity) involved shall provide (within 60 days after the date of enactment of this Act) for the additional notification required to be provided under subparagraph (A) and failure to provide such notice shall be treated as a failure to meet the notice requirements under the applicable COBRA continuation provision.
+
+
+
+
+“(D)
+ 
+Model notices
+.—
+Not later than 30 days after the date of enactment of this Act [
+Feb. 17, 2009
+]—
+“(i)
+ the Secretary of the [sic] Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall prescribe models for the additional notification required under this paragraph (other than the additional notification described in clause (ii)), and
+
+
+
+
+“(ii)
+ in the case of any additional notification provided pursuant to subparagraph (A) under 
+section 8905a(f)(2)(A) of title 5
+, United States Code, the Office of Personnel Management shall prescribe a model for such additional notification.
+
+
+
+
+
+
+
+
+“(8)
+ 
+Regulations
+.—
+The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this subsection, including the prevention of fraud and abuse under this subsection, except that the Secretary of Labor and the Secretary of Health and Human Services may prescribe such regulations (including interim final regulations) or other guidance as may be necessary or appropriate to carry out the provisions of paragraphs (5), (7), and (9).
+
+
+
+
+“(9)
+ 
+Outreach
+.—
+The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium reduction provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coverage who are referred to in paragraph (7)(C). Information on such premium reduction, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
+
+
+
+
+“(10)
+ 
+Definitions
+.—
+For purposes of this section—
+“(A)
+ 
+Administrator
+.—
+The term ‘administrator’ has the meaning given such term in section 3(16)(A) of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1002(16)(A)
+].
+
+
+
+
+“(B)
+ COBRA 
+continuation coverage
+.—
+The term ‘COBRA continuation coverage’ means continuation coverage provided pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1161
+ et seq.] (other than under section 609 [
+29 U.S.C. 1169
+]), title XXII of the Public Health Service Act [
+42 U.S.C. 300bb–1
+ et seq.], section 4980B of the Internal Revenue Code of 1986 (other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines), or 
+section 8905a of title 5
+, United States Code, or under a State program that provides comparable continuation coverage. Such term does not include coverage under a health flexible spending arrangement under a cafeteria plan within the meaning of section 125 of the Internal Revenue Code of 1986.
+
+
+
+
+“(C)
+ COBRA 
+continuation provision
+.—
+The term ‘COBRA continuation provision’ means the provisions of law described in subparagraph (B).
+
+
+
+
+“(D)
+ 
+Covered employee
+.—
+The term ‘covered employee’ has the meaning given such term in section 607(2) of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1167(2)
+].
+
+
+
+
+“(E)
+ 
+Qualified beneficiary
+.—
+The term ‘qualified beneficiary’ has the meaning given such term in section 607(3) of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1167(3)
+].
+
+
+
+
+“(F)
+ 
+Group health plan
+.—
+The term ‘group health plan’ has the meaning given such term in section 607(1) of the Employee Retirement Income Security Act of 1974 [
+29 U.S.C. 1167(1)
+].
+
+
+
+
+“(G)
+ 
+State
+.—
+The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+
+
+
+“(H)
+ 
+Period of coverage
+.—
+Any reference in this subsection to a period of coverage shall be treated as a reference to a monthly or shorter period of coverage with respect to which premiums are charged with respect to such coverage.
+
+
+
+
+
+
+“(11)
+ Reports.—
+“(A)
+ 
+Interim report
+.—
+The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor [now Committee on Education and the Workforce], the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—
+“(i)
+ the number of individuals provided such assistance as of the date of the report; and
+
+
+
+
+“(ii)
+ the total amount of expenditures incurred (with administrative expenditures noted separately) in connection with such assistance as of the date of the report.
+
+
+
+
+
+
+“(B)
+ 
+Final report
+.—
+As soon as practicable after the last period of COBRA continuation coverage for which premium reduction is provided under this section, the Secretary of the Treasury shall submit a final report to each Committee referred to in subparagraph (A) that includes—
+“(i)
+ the number of individuals provided premium reduction under this section;
+
+
+
+
+“(ii)
+ the average dollar amount (monthly and annually) of premium reductions provided to such individuals; and
+
+
+
+
+“(iii)
+ the total amount of expenditures incurred (with administrative expenditures noted separately) in connection with premium reduction under this section.
+
+
+
+
+
+
+
+
+“(12)
+ COBRA premium assistance.—
+“(A)
+ 
+In general
+.—
+[Enacted this section.]
+
+
+
+
+“(B)
+ 
+Social security trust funds held harmless
+.—
+In determining any amount transferred or appropriated to any fund under the Social Security Act [
+42 U.S.C. 301
+ et seq.], section 6432 of the Internal Revenue Code of 1986 shall not be taken into account.
+
+
+
+
+“(C)
+ 
+Clerical amendment
+.—
+[Amended analysis of this subchapter.]
+
+
+
+
+“(D)
+ 
+Effective date
+.—
+The amendments made by this paragraph shall apply to premiums to which subsection (a)(1)(A) applies.
+
+
+
+
+“(E)
+ Special rule.—
+“(i)
+ 
+In general
+.—
+In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
+     “(I)
+ make a reimbursement payment to such individual for the amount of such premium paid in excess of the amount required to be paid under subsection (a)(1)(A); or
+
+
+
+
+     “(II)
+ provide credit to the individual for such amount in a manner that reduces one or more subsequent premium payments that the individual is required to pay under such subsection for the coverage involved.
+
+
+
+
+
+
+“(ii)
+ 
+Reimbursing employer
+.—
+A person to which clause (i) applies shall be reimbursed as provided for in section 6432 of the Internal Revenue Code of 1986 for any payment made, or credit provided, to the employee under such clause.
+
+
+
+
+“(iii)
+ 
+Payment or credits
+.—
+Unless it is reasonable to believe that the credit for the excess payment in clause (i)(II) will be used by the assistance eligible individual within 180 days of the date on which the person receives from the individual the payment of the full premium amount, a person to which clause (i) applies shall make the payment required under such clause to the individual within 60 days of such payment of the full premium amount. If, as of any day within the 180-day period, it is no longer reasonable to believe that the credit will be used during that period, payment equal to the remainder of the credit outstanding shall be made to the individual within 60 days of such day.
+
+
+
+
+
+
+
+
+“(13)
+ Penalty for failure to notify health plan of cessation of eligibility for premium assistance.—
+“(A)
+ 
+In general
+.—
+[Enacted 
+section 6720C of this title
+.]
+
+
+
+
+“(B)
+ 
+Clerical amendment
+.—
+[Amended analysis of part I of subchapter B of chapter 68 of this title.]
+
+
+
+
+“(C)
+ 
+Effective date
+.—
+The amendments made by this paragraph shall apply to failures occurring after the date of the enactment of this Act [
+Feb. 17, 2009
+].
+
+
+
+
+
+
+“(14)
+ Coordination with hctc.—
+“(A)
+ 
+In general
+.—
+[Amended 
+section 35 of this title
+.]
+
+
+
+
+“(B)
+ 
+Effective date
+.—
+The amendment made by subparagraph (A) shall apply to taxable years ending after the date of the enactment of this Act [
+Feb. 17, 2009
+].
+
+
+
+
+
+
+“(15)
+ Exclusion of cobra premium assistance from gross income.—
+“(A)
+ 
+In general
+.—
+[Enacted 
+section 139C of this title
+.]
+
+
+
+
+“(B)
+ 
+Clerical amendment
+.—
+[Amended analysis of part III of subchapter B of chapter 1 of this title.]
+
+
+
+
+“(C)
+ 
+Effective date
+.—
+The amendments made by this paragraph shall apply to taxable years ending after the date of the enactment of this Act [
+Feb. 17, 2009
+].
+
+
+
+
+
+
+“(16)
+ Rules related to 2009 extension.—
+“(A)
+ 
+Election to pay premiums retroactively and maintain cobra coverage
+.—
+In the case of any premium for a period of coverage during an assistance eligible individual’s transition period, such individual shall be treated for purposes of any COBRA continuation provision as having timely paid the amount of such premium if—
+“(i)
+ such individual was covered under the COBRA continuation coverage to which such premium relates for the period of coverage immediately preceding such transition period, and
+
+
+
+
+“(ii)
+ such individual pays, the amount of such premium, after the application of paragraph (1)(A), by the latest of—
+     “(I)
+ 60 days after the date of the enactment of this paragraph [
+Dec. 19, 2009
+],
+
+
+
+
+     “(II)
+ 30 days after the date of provision of the notification required under subparagraph (D)(ii), or
+
+
+
+
+     “(III)
+ the end of the period described in section 4980B(f)(2)(B)(iii) of the Internal Revenue Code of 1986.
+
+
+
+
+
+
+
+
+“(B)
+ 
+Refunds and credits for retroactive premium assistance eligibility
+.—
+In the case of an assistance eligible individual who pays, with respect to any period of COBRA continuation coverage during such individual’s transition period, the premium amount for such coverage without regard to paragraph (1)(A), rules similar to the rules of paragraph (12)(E) shall apply.
+
+
+
+
+“(C)
+ Transition period.—
+“(i)
+ 
+In general
+.—
+For purposes of this paragraph, the term ‘transition period’ means, with respect to any assistance eligible individual, any period of coverage if—
+     “(I)
+ such assistance eligible individual experienced an involuntary termination that was a qualifying event prior to the date of enactment of the Department of Defense Appropriations Act, 2010 [
+Dec. 19, 2009
+]; and
+
+
+
+
+     “(II)
+ paragraph (1)(A) applies to such period by reason of the amendment made by section 1010(b) of the Department of Defense Appropriations Act, 2010 [
+Pub. L. 111–118
+].
+
+
+
+
+
+
+“(ii)
+ 
+Construction
+.—
+Any period during the period described in subclauses (I) and (II) of clause (i) for which the applicable premium has been paid pursuant to subparagraph (A) shall be treated as a period of coverage referred to in such paragraph [probably should be “subparagraph”], irrespective of any failure to timely pay the applicable premium (other than pursuant to subparagraph (A)) for such period.
+
+
+
+
+
+
+“(D)
+ Notification.—
+“(i)
+ 
+In general
+.—
+In the case of an individual who was an assistance eligible individual at any time on or after 
+October 31, 2009
+, or experiences a qualifying event (consisting of termination of employment) relating to COBRA continuation coverage on or after such date, the administrator of the group health plan (or other entity) involved shall provide an additional notification with information regarding the amendments made by section 1010 of the Department of Defense Appropriations Act, 2010 [
+Pub. L. 111–118
+], within 60 days after the date of the enactment of such Act [
+Dec. 19, 2009
+] or, in the case of a qualifying event occurring after such date of enactment, consistent with the timing of notifications under paragraph (7)(A).
+
+
+
+
+“(ii)
+ 
+To individuals who lost assistance
+.—
+In the case of an assistance eligible individual described in subparagraph (A)(i) who did not timely pay the premium for any period of coverage during such individual’s transition period or paid the premium for such period without regard to paragraph (1)(A), the administrator of the group health plan (or other entity) involved shall provide to such individual, within the first 60 days of such individual’s transition period, an additional notification with information regarding the amendments made by section 1010 of the Department of Defense Appropriations Act, 2010, including information on the ability under subparagraph (A) to make retroactive premium payments with respect to the transition period of the individual in order to maintain COBRA continuation coverage.
+
+
+
+
+“(iii)
+ 
+Application of rules
+.—
+Rules similar to the rules of paragraph (7) shall apply with respect to notifications under this subparagraph.
+
+
+
+
+
+
+
+
+“(17)
+ Special rules in case of individuals losing coverage because of a reduction of hours.—
+“(A)
+ New election period.—
+“(i)
+ 
+In general
+.—
+For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on the basis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph [
+Mar. 2, 2010
+] shall be treated as a qualifying event.
+
+
+
+
+“(ii)
+ 
+Counting cobra duration period from previous qualifying event
+.—
+In any case of an individual referred to in clause (i), the period of such individual’s continuation coverage shall be determined as though the qualifying event were the reduction of hours of employment.
+
+
+
+
+“(iii)
+ 
+Construction
+.—
+Nothing in this paragraph shall be construed as requiring an individual referred to in clause (i) to make a payment for COBRA continuation coverage between the reduction of hours and the involuntary termination of employment.
+
+
+
+
+“(iv)
+ 
+Preexisting conditions
+.—
+With respect to an individual referred to in clause (i) who elects COBRA continuation coverage pursuant to such clause, rules similar to the rules in paragraph (4)(C) shall apply.
+
+
+
+
+
+
+“(B)
+ 
+Notices
+.—
+In the case of an individual described in subparagraph (C), the administrator of the group health plan (or other entity) involved shall provide, during the 60-day period beginning on the date of such individual’s involuntary termination of employment, an additional notification described in paragraph (7)(A), including information on the provisions of this paragraph. Rules similar to the rules of paragraph (7) shall apply with respect to such notification.
+
+
+
+
+“(C)
+ 
+Individuals described
+.—
+Individuals described in this subparagraph are individuals who are assistance eligible individuals on the basis of a qualifying event consisting of a reduction of hours occurring during the period described in paragraph (3)(A) followed by an involuntary termination of employment insofar as such involuntary termination of employment occurred on or after the date of the enactment of this paragraph.
+
+
+
+
+
+
+“(18)
+ 
+Rules related to april and may 2010 extension
+.—
+In the case of an individual who, with regard to coverage described in paragraph (10)(B), experiences a qualifying event related to a termination of employment on or after 
+April 1, 2010
+ and prior to the date of the enactment of this paragraph [
+Apr. 15, 2010
+], rules similar to those in paragraphs (4)(A) and (7)(C) shall apply with respect to all continuation coverage, including State continuation coverage programs.
+
+
+
+
+“(b)
+ Elimination of Premium Subsidy for High-Income Individuals.—
+“(1)
+ 
+Recapture of subsidy for high-income individuals
+.—
+If—
+“(A)
+ premium assistance is provided under this section with respect to any COBRA continuation coverage which covers the taxpayer, the taxpayer’s spouse, or any dependent (within the meaning of section 152 of the Internal Revenue Code of 1986, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of the taxpayer during any portion of the taxable year, and
+
+
+
+
+“(B)
+ the taxpayer’s modified adjusted gross income for such taxable year exceeds $125,000 ($250,000 in the case of a joint return),
+
+
+
+
+
+then the tax imposed by chapter 1 of such Code with respect to the taxpayer for such taxable year shall be increased by the amount of such assistance.
+
+
+
+
+“(2)
+ Phase-in of recapture.—
+“(A)
+ 
+In general
+.—
+In the case of a taxpayer whose modified adjusted gross income for the taxable year does not exceed $145,000 ($290,000 in the case of a joint return), the increase in the tax imposed under paragraph (1) shall not exceed the phase-in percentage of such increase (determined without regard to this paragraph).
+
+
+
+
+“(B)
+ 
+Phase-in percentage
+.—
+For purposes of this subsection, the term ‘phase-in percentage’ means the ratio (expressed as a percentage) obtained by dividing—
+“(i)
+ the excess of [sic] described in subparagraph (B) of paragraph (1), by
+
+
+
+
+“(ii)
+ $20,000 ($40,000 in the case of a joint return).
+
+
+
+
+
+
+
+
+“(3)
+ 
+Option for high-income individuals to waive assistance and avoid recapture
+.—
+Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
+“(A)
+ makes a permanent election (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
+
+
+
+
+“(B)
+ notifies the entity to whom premiums are reimbursed under section 6432(a) of such Code of such election.
+
+
+
+
+
+
+“(4)
+ 
+Modified adjusted gross income
+.—
+For purposes of this subsection, the term ‘modified adjusted gross income’ means the adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933 of such Code.
+
+
+
+
+“(5)
+ 
+Credits not allowed against tax, etc
+.—
+For purposes determining regular tax liability under section 26(b) of such Code, the increase in tax under this subsection shall not be treated as a tax imposed under chapter 1 of such Code.
+
+
+
+
+“(6)
+ 
+Regulations
+.—
+The Secretary of the Treasury shall issue such regulations or other guidance as are necessary or appropriate to carry out this subsection, including requirements that the entity to whom premiums are reimbursed under section 6432(a) of the Internal Revenue Code of 1986 report to the Secretary, and to each assistance eligible individual, the amount of premium assistance provided under subsection (a) with respect to each such individual.
+
+
+
+
+“(7)
+ 
+Effective date
+.—
+The provisions of this subsection shall apply to taxable years ending after the date of the enactment of this Act [
+Feb. 17, 2009
+].”
+
+
+
+

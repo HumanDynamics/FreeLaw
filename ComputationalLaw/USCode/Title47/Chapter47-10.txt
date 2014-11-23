@@ -1,0 +1,1323 @@
+
+Chapter 10
+LOCAL TV
+ Purpose
+The purpose of this chapter is to facilitate access, on a technologically neutral basis and by 
+ LOCAL Television Loan Guarantee Board
+(a)
+ Establishment
+There is established the LOCAL Television Loan Guarantee Board (in this chapter referred to as the “Board”).
+
+
+
+
+(b)
+ Members
+(1)
+ In general
+Subject to paragraph (2), the Board shall consist of the following members:
+(A)
+ The Secretary of the Treasury, or the designee of the Secretary.
+
+
+
+
+(B)
+ The Chairman of the Board of Governors of the Federal Reserve System, or the designee of the Chairman.
+
+
+
+
+(C)
+ The Secretary of Agriculture, or the designee of the Secretary.
+
+
+
+
+(D)
+ The Secretary of Commerce, or the designee of the Secretary.
+
+
+
+
+
+
+(2)
+ Requirement as to designees
+An individual may not be designated a member of the Board under paragraph (1) unless the individual is an officer of the United States pursuant to an appointment by the President, by and with the advice and consent of the Senate.
+
+
+
+
+
+
+(c)
+ Functions of the Board
+(1)
+ In general
+The Board shall determine whether or not to approve loan guarantees under this chapter. The Board shall make such determinations consistent with the purpose of this chapter and in accordance with this subsection and section 1103 
+1
+1
+ See References in Text note below.
+ of this title.
+
+
+
+
+
+
+(2)
+ Consultation authorized
+(A)
+ In general
+In carrying out its functions under this chapter, the Board shall consult with such departments and agencies of the Federal Government as the Board considers appropriate, including the Department of Commerce, the Department of Agriculture, the Department of the Treasury, the Department of Justice, the Department of the Interior, the Board of Governors of the Federal Reserve System, the Federal Communications Commission, the Federal Trade Commission, and the National Aeronautics and Space Administration.
+
+
+
+
+
+
+(B)
+ Response
+A department or agency consulted by the Board under subparagraph (A) shall provide the Board such expertise and assistance as the Board requires to carry out its functions under this chapter.
+
+
+
+
+
+
+
+
+(3)
+ Approval by majority vote
+The determination of the Board to approve a loan guarantee under this chapter shall be by an affirmative vote of not less than 3 members of the Board.
+
+
+
+
+
+
+ Approval of loan guarantees
+(a)
+ Authority to approve loan guarantees
+Subject to the provisions of this section and consistent with the purpose of this chapter, the Board may approve loan guarantees under this chapter.
+
+
+
+
+(b)
+ Regulations
+(1)
+ Requirements
+The Administrator (as defined in 
+section 1104 of this title
+), under the direction of and for approval by the Board, shall prescribe regulations to implement the provisions of this chapter and shall do so not later than 120 days after funds authorized to be appropriated under 
+section 1109 of this title
+ have been appropriated in a bill signed into law.
+
+
+
+
+
+
+(2)
+ Elements
+The regulations prescribed under paragraph (1) shall—
+(A)
+ set forth the form of any application to be submitted to the Board under this chapter;
+
+
+
+
+(B)
+ set forth time periods for the review and consideration by the Board of applications to be submitted to the Board under this chapter, and for any other action to be taken by the Board with respect to such applications;
+
+
+
+
+(C)
+ provide appropriate safeguards against the evasion of the provisions of this chapter;
+
+
+
+
+(D)
+ set forth the circumstances in which an applicant, together with any affiliate of an applicant, shall be treated as an applicant for a loan guarantee under this chapter;
+
+
+
+
+(E)
+ include requirements that appropriate parties submit to the Board any documents and assurances that are required for the administration of the provisions of this chapter; and
+
+
+
+
+(F)
+ include such other provisions consistent with the purpose of this chapter as the Board considers appropriate.
+
+
+
+
+
+
+(3)
+ Construction
+(A)
+ Nothing in this chapter shall be construed to prohibit the Board from requiring, to the extent and under circumstances considered appropriate by the Board, that affiliates of an applicant be subject to certain obligations of the applicant as a condition to the approval or maintenance of a loan guarantee under this chapter.
+
+
+
+
+(B)
+ If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
+
+
+
+
+
+
+(c)
+ Authority limited by appropriations acts
+The Board may approve loan guarantees under this chapter only to the extent provided for in advance in appropriations Acts, and the Board may accept credit risk premiums from a non-Federal source in order to cover the cost of a loan guarantee under this chapter, to the extent that appropriations of budget authority are insufficient to cover such costs.
+
+
+
+
+(d)
+ Requirements and criteria applicable to approval
+(1)
+ In general
+The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under 
+section 1102 of this title
+, to determine which loans may be eligible for a loan guarantee under this chapter.
+
+
+
+
+
+
+(2)
+ Prerequisites
+In addition to meeting the underwriting criteria under paragraph (1), a loan may not be guaranteed under this chapter unless—
+(A)
+ the loan is made to finance the acquisition, improvement, enhancement, construction, deployment, launch, or rehabilitation of the means by which local television broadcast signals will be delivered to a nonserved area or underserved area;
+
+
+
+
+(B)
+ the proceeds of the loan will not be used for operating, advertising, or promotion expenses, or for the acquisition of licenses for the use of spectrum in any competitive bidding under 
+section 309(j) of this title
+;
+
+
+
+
+(C)
+ the proposed project, as determined by the Board in consultation with the National Telecommunications and Information Administration, is not likely to have a substantial adverse impact on competition that outweighs the benefits of improving access to the signals of a local television station in a nonserved area or underserved area and is commercially viable;
+
+
+
+
+(D)
+(i)
+ the loan—
+(I)
+ is provided by any entity engaged in the business of commercial lending—
+(aa)
+ if the loan is made in accordance with loan-to-one-borrower and affiliate transaction restrictions to which the entity is subject under applicable law; or
+
+
+
+
+(bb)
+ if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed 10 percent of the net equity of the entity; or
+
+
+
+
+
+
+(II)
+ is provided by a nonprofit corporation, including the National Rural Utilities Cooperative Finance Corporation, engaged primarily in commercial lending, if the Board determines that such nonprofit corporation has one or more issues of outstanding long-term debt that is rated within the highest 3 rating categories of a nationally recognized statistical rating organization;
+
+
+
+
+
+
+(ii)
+ if the loan is provided by a lender described in clause (i)(II) and the Board determines that the making of the loan by such lender will cause a decline in such lender’s debt rating as described in that clause, the Board at its discretion may disapprove the loan guarantee on this basis;
+
+
+
+
+(iii)
+ no loan may be made for purposes of this chapter by a governmental entity or affiliate thereof, or by the Federal Agricultural Mortgage Corporation, or any institution supervised by the Federal Housing Finance Agency, or any affiliate of such entities;
+
+
+
+
+(iv)
+ any loan must have terms, in the judgment of the Board, that are consistent in material respects with the terms of similar obligations in the private capital market;
+
+
+
+
+(v)
+ for purposes of clause (i)(I)(bb), the term “net equity” means the value of the total assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
+
+
+
+
+
+
+(E)
+ repayment of the loan is required to be made within a term of the lesser of—
+(i)
+ 25 years from the date of the execution of the loan; or
+
+
+
+
+(ii)
+ the economically useful life, as determined by the Board or in consultation with persons or entities deemed appropriate by the Board, of the primary assets to be used in the delivery of the signals concerned; and
+
+
+
+
+
+
+(F)
+ the loan meets any additional criteria developed under subsection (g) of this section.
+
+
+
+
+
+
+(3)
+ Protection of United States financial interests
+The Board may not approve the guarantee of a loan under this chapter unless—
+(A)
+ the Board has been given documentation, assurances, and access to information, persons, and entities necessary, as determined by the Board, to address issues relevant to the review of the loan by the Board for purposes of this chapter; and
+
+
+
+
+(B)
+ the Board makes a determination in writing that—
+(i)
+ to the best of its knowledge upon due inquiry, the assets, facilities, or equipment covered by the loan will be utilized economically and efficiently;
+
+
+
+
+(ii)
+ the terms, conditions, security, and schedule and amount of repayments of principal and the payment of interest with respect to the loan protect the financial interests of the United States and are reasonable;
+
+
+
+
+(iii)
+ the value of collateral provided by an applicant is at least equal to the unpaid balance of the loan amount covered by the loan guarantee (the “Amount” for purposes of this clause); and if the value of collateral provided by an applicant is less than the Amount, the additional required collateral is provided by any affiliate of the applicant;
+
+
+
+
+(iv)
+ all necessary and required regulatory and other approvals, spectrum licenses, and delivery permissions have been received for the loan and the project under the loan;
+
+
+
+
+(v)
+ the loan would not be available on reasonable terms and conditions without a loan guarantee under this chapter; and
+
+
+
+
+(vi)
+ repayment of the loan can reasonably be expected.
+
+
+
+
+
+
+
+
+(e)
+ Considerations
+(1)
+ Type of market
+(A)
+ Priority considerations
+To the maximum extent practicable, the Board shall give priority in the approval of loan guarantees under this chapter in the following order:
+(i)
+ First, to projects that will serve households in nonserved areas. In considering such projects, the Board shall balance projects that will serve the largest number of households with projects that will serve remote, isolated communities (including noncontiguous States) in areas that are unlikely to be served through market mechanisms.
+
+
+
+
+(ii)
+ Second, to projects that will serve households in underserved areas. In considering such projects, the Board shall balance projects that will serve the largest number of households with projects that will serve remote, isolated communities (including noncontiguous States) in areas that are unlikely to be served through market mechanisms.
+
+
+
+
+
+Within each category, the Board shall consider the project’s estimated cost per household and shall give priority to those projects that provide the highest quality service at the lowest cost per household.
+
+
+
+
+(B)
+ Additional consideration
+The Board should give additional consideration to projects that also provide high-speed Internet service.
+
+
+
+
+
+
+(C)
+ Prohibitions
+The Board may not approve a loan guarantee under this chapter for a project that—
+(i)
+ is designed primarily to serve 1 or more of the top 40 designated market areas (as that term is defined in 
+section 122(j) of title 17
+); or
+
+
+
+
+(ii)
+ would alter or remove National Weather Service warnings from local broadcast signals.
+
+
+
+
+
+
+
+
+(2)
+ Other considerations
+The Board shall consider other factors, which shall include projects that would—
+(A)
+ offer a separate tier of local broadcast signals, but for applicable Federal, State, or local laws or regulations;
+
+
+
+
+(B)
+ provide lower projected costs to consumers of such separate tier; and
+
+
+
+
+(C)
+ enable the delivery of local broadcast signals consistent with the purpose of this chapter by a means reasonably compatible with existing systems or devices predominantly in use.
+
+
+
+
+
+
+(3)
+ Further consideration
+In implementing this chapter, the Board shall support the use of loan guarantees for projects that would serve households not likely to be served in the absence of loan guarantees under this chapter.
+
+
+
+
+
+
+(f)
+ Guarantee limits
+(1)
+ Limitation on aggregate value of loans
+The aggregate value of all loans for which loan guarantees are issued under this chapter (including the unguaranteed portion of such loans) may not exceed $1,250,000,000.
+
+
+
+
+
+
+(2)
+ Guarantee level
+A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
+
+
+
+
+
+
+(g)
+ Underwriting criteria
+Within the period provided for under subsection (b)(1) of this section, the Board shall, in consultation with the Director of the Office of Management and Budget and an independent public accounting firm, develop underwriting criteria relating to the guarantee of loans that are consistent with the purpose of this chapter, including appropriate collateral and cash flow levels for loans guaranteed under this chapter, and such other matters as the Board considers appropriate.
+
+
+
+
+(h)
+ Credit risk premiums
+(1)
+ Establishment and acceptance
+(A)
+ In general
+The Board may establish and approve the acceptance of credit risk premiums with respect to a loan guarantee under this chapter in order to cover the cost, as defined in 
+section 661a(5) of title 2
+, of the loan guarantee. To the extent that appropriations of budget authority are insufficient to cover the cost, as so determined, of a loan guarantee under this chapter, credit risk premiums shall be accepted from a non-Federal source under this subsection on behalf of the applicant for the loan guarantee.
+
+
+
+
+
+
+(B)
+ Authority limited by appropriations Acts
+Credit risk premiums under this subsection shall be imposed only to the extent provided for in advance in appropriations Acts.
+
+
+
+
+
+
+
+
+(2)
+ Credit risk premium amount
+(A)
+ In general
+The Board shall determine the amount of any credit risk premium to be accepted with respect to a loan guarantee under this chapter on the basis of—
+(i)
+ the financial and economic circumstances of the applicant for the loan guarantee, including the amount of collateral offered;
+
+
+
+
+(ii)
+ the proposed schedule of loan disbursements;
+
+
+
+
+(iii)
+ the business plans of the applicant for providing service;
+
+
+
+
+(iv)
+ any financial commitment from a broadcast signal provider; and
+
+
+
+
+(v)
+ the concurrence of the Director of the Office of Management and Budget as to the amount of the credit risk premium.
+
+
+
+
+
+
+(B)
+ Proportionality
+To the extent that appropriations of budget authority are sufficient to cover the cost, as determined under 
+section 661a(5) of title 2
+, of loan guarantees under this chapter, the credit risk premium with respect to each loan guarantee shall be reduced proportionately.
+
+
+
+
+
+
+(C)
+ Payment of premiums
+Credit risk premiums under this subsection shall be paid to an account (the “Escrow Account”) established in the Treasury which shall accrue interest and such interest shall be retained by the account, subject to subparagraph (D).
+
+
+
+
+
+
+(D)
+ Deductions from Escrow Account
+If a default occurs with respect to any loan guaranteed under this chapter and the default is not cured in accordance with the terms of the underlying loan or loan guarantee agreement, the Administrator, in accordance with subsections (i) and (j) of 
+section 1104 of this title
+, shall liquidate, or shall cause to be liquidated, all assets collateralizing such loan as to which it has a lien or security interest. Any shortfall between the proceeds of the liquidation net of costs and expenses relating to the liquidation, and the guarantee amount paid pursuant to this chapter shall be deducted from funds in the Escrow Account and credited to the Administrator for payment of such shortfall. At such time as determined under subsection (d)(2)(E) of this section when all loans guaranteed under this chapter have been repaid or otherwise satisfied in accordance with this chapter and the regulations promulgated hereunder, remaining funds in the Escrow Account, if any, shall be refunded, on a pro rata basis, to applicants whose loans guaranteed under this chapter were not in default, or where any default was cured in accordance with the terms of the underlying loan or loan guarantee agreement.
+
+
+
+
+
+
+
+
+(i)
+ Limitations on guarantees for certain cable operators
+Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of 
+December 21, 2000
+, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
+
+
+
+
+(j)
+ Judicial review
+The decision of the Board to approve or disapprove the making of a loan guarantee under this chapter shall not be subject to judicial review.
+
+
+
+
+(k)
+ Applicability of APA
+Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
+
+
+
+
+ Administration of loan guarantees
+(a)
+ In general
+The Administrator of the Rural Utilities Service (in this chapter referred to as the “Administrator”) shall issue and otherwise administer loan guarantees that have been approved by the Board in accordance with sections 1102 and 1103 of this title.
+
+
+
+
+(b)
+ Security for protection of United States financial interests
+(1)
+ Terms and conditions
+An applicant shall agree to such terms and conditions as are satisfactory, in the judgment of the Board, to ensure that, as long as any principal or interest is due and payable on a loan guaranteed under this chapter, the applicant—
+(A)
+ shall maintain assets, equipment, facilities, and operations on a continuing basis;
+
+
+
+
+(B)
+ shall not make any discretionary dividend payments that impair its ability to repay obligations guaranteed under this chapter;
+
+
+
+
+(C)
+ shall remain sufficiently capitalized; and
+
+
+
+
+(D)
+ shall submit to, and cooperate fully with, any audit of the applicant under 
+section 1105(a)(2) of this title
+.
+
+
+
+
+
+
+(2)
+ Collateral
+(A)
+ Existence of adequate collateral
+An applicant shall provide the Board such documentation as is necessary, in the judgment of the Board, to provide satisfactory evidence that appropriate and adequate collateral secures a loan guaranteed under this chapter.
+
+
+
+
+
+
+(B)
+ Form of collateral
+Collateral required by subparagraph (A) shall consist solely of assets of the applicant, any affiliate of the applicant, or both (whichever the Board considers appropriate), including primary assets to be used in the delivery of signals for which the loan is guaranteed.
+
+
+
+
+
+
+(C)
+ Review of valuation
+The value of collateral securing a loan guaranteed under this chapter may be reviewed by the Board, and may be adjusted downward by the Board if the Board reasonably believes such adjustment is appropriate.
+
+
+
+
+
+
+
+
+(3)
+ Lien on interests in assets
+Upon the Board’s approval of a loan guarantee under this chapter, the Administrator shall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under 
+section 1103(d)(3)(B)(iii) of this title
+.
+
+
+
+
+
+
+(4)
+ Perfected security interest
+With respect to a loan guaranteed under this chapter, the Administrator and the lender shall have a perfected security interest in assets securing the loan that are fully sufficient to protect the financial interests of the United States and the lender.
+
+
+
+
+
+
+(5)
+ Insurance
+In accordance with practices in the private capital market, as determined by the Board, the applicant for a loan guarantee under this chapter shall obtain, at its expense, insurance sufficient to protect the financial interests of the United States, as determined by the Board.
+
+
+
+
+
+
+(c)
+ Assignment of loan guarantees
+The holder of a loan guarantee under this chapter may assign the loan guaranteed under this chapter in whole or in part, subject to such requirements as the Board may prescribe.
+
+
+
+
+(d)
+ Expiration of loan guarantee upon stripping
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+
+
+
+
+(e)
+ Adjustment
+The Board may approve the adjustment of any term or condition of a loan guarantee or a loan guaranteed under this chapter, including the rate of interest, time of payment of principal or interest, or security requirements only if—
+(1)
+ the adjustment is consistent with the financial interests of the United States;
+
+
+
+
+(2)
+ consent has been obtained from the parties to the loan agreement;
+
+
+
+
+(3)
+ the adjustment is consistent with the underwriting criteria developed under 
+section 1103(g) of this title
+;
+
+
+
+
+(4)
+ the adjustment does not adversely affect the interest of the Federal Government in the assets or collateral of the applicant;
+
+
+
+
+(5)
+ the adjustment does not adversely affect the ability of the applicant to repay the loan; and
+
+
+
+
+(6)
+ the National Telecommunications and Information Administration has been consulted by the Board regarding the adjustment.
+
+
+
+
+(f)
+ Performance schedules
+(1)
+ Performance schedules
+An applicant for a loan guarantee under this chapter for a project covered by section 1103(e)(1) 
+1
+1
+ See References in Text note below.
+ of this title shall enter into stipulated performance schedules with the Administrator with respect to the signals to be provided through the project.
+
+
+
+
+
+
+(2)
+ Penalty
+The Administrator may assess against and collect from an applicant described in paragraph (1) a penalty not to exceed 3 times the interest due on the guaranteed loan of the applicant under this chapter if the applicant fails to meet its stipulated performance schedule under that paragraph.
+
+
+
+
+
+
+(g)
+ Compliance
+The Administrator, in cooperation with the Board and as the regulations of the Board may provide, shall enforce compliance by an applicant, and any other party to a loan guarantee for whose benefit assistance under this chapter is intended, with the provisions of this chapter, any regulations under this chapter, and the terms and conditions of the loan guarantee, including through the submittal of such reports and documents as the Board may require in regulations prescribed by the Board and through regular periodic inspections and audits.
+
+
+
+
+(h)
+ Commercial validity
+A loan guarantee under this chapter shall be incontestable—
+(1)
+ in the hands of an applicant on whose behalf the loan guarantee is made, unless the applicant engaged in fraud or misrepresentation in securing the loan guarantee; and
+
+
+
+
+(2)
+ as to any person or entity (or their respective successor in interest) who makes or contracts to make a loan to the applicant for the loan guarantee in reliance thereon, unless such person or entity (or respective successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
+
+
+
+
+(i)
+ Defaults
+The Board shall prescribe regulations governing defaults on loans guaranteed under this chapter, including the administration of the payment of guaranteed amounts upon default.
+
+
+
+
+(j)
+ Recovery of payments
+(1)
+ In general
+The Administrator shall be entitled to recover from an applicant for a loan guarantee under this chapter the amount of any payment made to the holder of the guarantee with respect to the loan.
+
+
+
+
+
+
+(2)
+ Subrogation
+Upon making a payment described in paragraph (1), the Administrator shall be subrogated to all rights of the party to whom the payment is made with respect to the guarantee which was the basis for the payment.
+
+
+
+
+
+
+(3)
+ Disposition of property
+(A)
+ Sale or disposal
+The Administrator shall, in an orderly and efficient manner, sell or otherwise dispose of any property or other interests obtained under this chapter in a manner that maximizes taxpayer return and is consistent with the financial interests of the United States.
+
+
+
+
+
+
+(B)
+ Maintenance
+The Administrator shall maintain in a cost-effective and reasonable manner any property or other interests pending sale or disposal of such property or other interests under subparagraph (A).
+
+
+
+
+
+
+
+
+(k)
+ Action against obligor
+(1)
+ Authority to bring civil action
+The Administrator may bring a civil action in an appropriate district court of the United States in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under this chapter. The holder of a loan guarantee shall make available to the Administrator all records and evidence necessary to prosecute the civil action.
+
+
+
+
+
+
+(2)
+ Fully satisfying obligations owed the United States
+The Administrator may accept property in satisfaction of any sums owed the United States as a result of a default on a loan guaranteed under this chapter, but only to the extent that any cash accepted by the Administrator is not sufficient to satisfy fully the sums owed as a result of the default.
+
+
+
+
+
+
+(l)
+ Breach of conditions
+The Administrator shall commence a civil action in a court of appropriate jurisdiction to enjoin any activity which the Board finds is in violation of this chapter, the regulations under this chapter, or any conditions which were duly agreed to, and to secure any other appropriate relief, including relief against any affiliate of the applicant.
+
+
+
+
+(m)
+ Attachment
+No attachment or execution may be issued against the Administrator or any property in the control of the Administrator pursuant to this chapter before the entry of a final judgment (as to which all rights of appeal have expired) by a Federal, State, or other court of competent jurisdiction against the Administrator in a proceeding for such action.
+
+
+
+
+(n)
+ Fees
+(1)
+ Application fee
+The Board shall charge and collect from an applicant for a loan guarantee under this chapter a fee to cover the cost of the Board in making necessary determinations and findings with respect to the loan guarantee application under this chapter. The amount of the fee shall be reasonable.
+
+
+
+
+
+
+(2)
+ Loan guarantee origination fee
+The Board shall charge, and the Administrator may collect, a loan guarantee origination fee with respect to the issuance of a loan guarantee under this chapter.
+
+
+
+
+
+
+(3)
+ Use of fees collected
+(A)
+ In general
+Any fee collected under this subsection shall be used, subject to subparagraph (B), to offset administrative costs under this chapter, including costs of the Board and of the Administrator.
+
+
+
+
+
+
+(B)
+ Subject to appropriations
+The authority provided by this subsection shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+
+
+
+
+
+(C)
+ Limitation on fees
+The aggregate amount of fees imposed by this subsection shall not exceed the actual amount of administrative costs under this chapter.
+
+
+
+
+
+
+
+
+(o)
+ Requirements relating to affiliates
+(1)
+ Indemnification
+The United States shall be indemnified by any affiliate (acceptable to the Board) of an applicant for a loan guarantee under this chapter for any losses that the United States incurs as a result of—
+(A)
+ a judgment against the applicant or any of its affiliates;
+
+
+
+
+(B)
+ any breach by the applicant or any of its affiliates of their obligations under the loan guarantee agreement;
+
+
+
+
+(C)
+ any violation of the provisions of this chapter, and the regulations prescribed under this chapter, by the applicant or any of its affiliates;
+
+
+
+
+(D)
+ any penalties incurred by the applicant or any of its affiliates for any reason, including violation of a stipulated performance schedule under subsection (f) of this section; and
+
+
+
+
+(E)
+ any other circumstances that the Board considers appropriate.
+
+
+
+
+
+
+(2)
+ Limitation on transfer of loan proceeds
+An applicant for a loan guarantee under this chapter may not transfer any part of the proceeds of the loan to an affiliate.
+
+
+
+
+
+
+(p)
+ Effect of bankruptcy
+(1)
+ Notwithstanding any other provision of law, whenever any person or entity is indebted to the United States as a result of any loan guarantee issued under this chapter and such person or entity is insolvent or is a debtor in a case under title 11, the debts due to the United States shall be satisfied first.
+
+
+
+
+(2)
+ A discharge in bankruptcy under title 11 shall not release a person or entity from an obligation to the United States in connection with a loan guarantee under this chapter.
+
+
+
+
+ Annual audit
+(a)
+ Requirement
+The Comptroller General of the United States shall conduct on an annual basis an audit of—
+(1)
+ the administration of the provisions of this chapter; and
+
+
+
+
+(2)
+ the financial position of each applicant who receives a loan guarantee under this chapter, including the nature, amount, and purpose of investments made by the applicant.
+
+
+
+
+(b)
+ Report
+The Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives a report on each audit conducted under subsection (a) of this section.
+
+
+
+
+ Improved cellular service in rural areas
+(a)
+ Reinstatement of applicants as tentative selectees
+(1)
+ In general
+Notwithstanding the order of the Federal Communications Commission in the proceeding described in paragraph (3), the Commission shall—
+(A)
+ reinstate each applicant as a tentative selectee under the covered rural service area licensing proceeding; and
+
+
+
+
+(B)
+ permit each applicant to amend its application, to the extent necessary to update factual information and to comply with the rules of the Commission, at any time before the Commission’s final licensing action in the covered rural service area licensing proceeding.
+
+
+
+
+
+
+(2)
+ Exemption from petitions to deny
+For purposes of the amended applications filed pursuant to paragraph (1)(B), the provisions of 
+section 309(d)(1) of this title
+ shall not apply.
+
+
+
+
+
+
+(3)
+ Proceeding
+The proceeding described in this paragraph is the proceeding of the Commission In re Applications of Cellwave Telephone Services L.P., Futurewave General Partners L.P., and Great Western Cellular Partners, 7 FCC Rcd No. 19 (1992).
+
+
+
+
+
+
+(b)
+ Continuation of license proceeding; fee assessment
+(1)
+ Award of licenses
+The Commission shall award licenses under the covered rural service area licensing proceeding within 90 days after 
+December 21, 2000
+.
+
+
+
+
+
+
+(2)
+ Service requirements
+The Commission shall provide that, as a condition of an applicant receiving a license pursuant to the covered rural service area licensing proceeding, the applicant shall provide cellular radiotelephone service to subscribers in accordance with sections 22.946 and 22.947 of the Commission’s rules (47 CFR 22.946, 22.947); except that the time period applicable under section 22.947 of the Commission’s rules (or any successor rule) to the applicants identified in subparagraphs (A) and (B) of subsection (d)(1) of this section shall be 3 years rather than 5 years and the waiver authority of the Commission shall apply to such 3-year period.
+
+
+
+
+
+
+(3)
+ Calculation of license fee
+(A)
+ Fee required
+The Commission shall establish a fee for each of the licenses under the covered rural service area licensing proceeding. In determining the amount of the fee, the Commission shall consider—
+(i)
+ the average price paid per person served in the Commission’s Cellular Unserved Auction (Auction No. 12); and
+
+
+
+
+(ii)
+ the settlement payments required to be paid by the permittees pursuant to the consent decree set forth in the Commission’s order, In re the Tellesis Partners (7 FCC Rcd 3168 (1992)), multiplying such payments by two.
+
+
+
+
+
+
+(B)
+ Notice of fee
+Within 30 days after the date an applicant files the amended application permitted by subsection (a)(1)(B) of this section, the Commission shall notify each applicant of the fee established for the license associated with its application.
+
+
+
+
+
+
+
+
+(4)
+ Payment for licenses
+No later than 18 months after the date that an applicant is granted a license, each applicant shall pay to the Commission the fee established pursuant to paragraph (3) for the license granted to the applicant under paragraph (1).
+
+
+
+
+
+
+(5)
+ Auction authority
+If, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a rural service area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee ( 
+1
+1
+ So in original. No closing parenthesis was enacted.
+ pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to 
+section 309(j) of this title
+.
+
+
+
+
+
+
+(c)
+ Prohibition of transfer
+During the 5-year period that begins on the date that an applicant is granted any license pursuant to subsection (a) of this section, the Commission may not authorize the transfer or assignment of that license under 
+section 310 of this title
+. Nothing in this chapter may be construed to prohibit any applicant granted a license pursuant to subsection (a) of this section from contracting with other licensees to improve cellular telephone service.
+
+
+
+
+(d)
+ Definitions
+For the purposes of this section, the following definitions shall apply:
+(1)
+ Applicant
+The term “applicant” means—
+(A)
+ Great Western Cellular Partners, a California general partnership chosen by the Commission as tentative selectee for RSA #492 on 
+May 4, 1989
+;
+
+
+
+
+(B)
+ Monroe Telephone Services L.P., a Delaware limited partnership chosen by the Commission as tentative selectee for RSA #370 on 
+August 24, 1989
+ (formerly Cellwave Telephone Services L.P.); and
+
+
+
+
+(C)
+ FutureWave General Partners L.P., a Delaware limited partnership chosen by the Commission as tentative selectee for RSA #615 on 
+May 25, 1990
+.
+
+
+
+
+
+
+(2)
+ Commission
+The term “Commission” means the Federal Communications Commission.
+
+
+
+
+
+
+(3)
+ Covered rural service area licensing proceeding
+The term “covered rural service area licensing proceeding” means the proceeding of the Commission for the grant of cellular radiotelephone licenses for rural service areas #492 (Minnesota 11), #370 (Florida 11), and #615 (Pennsylvania 4).
+
+
+
+
+
+
+(4)
+ Tentative selectee
+The term “tentative selectee” means a party that has been selected by the Commission under a licensing proceeding for grant of a license, but has not yet been granted the license because the Commission has not yet determined whether the party is qualified under the Commission’s rules for grant of the license.
+
+
+
+
+
+
+ Sunset
+No loan guarantee may be approved under this chapter after 
+ Definitions
+ Authorizations of appropriations
+(a)
+ Cost of loan guarantees
+(1)
+ Authorization of appropriations
+For the cost of the loans guaranteed under this chapter, including the cost of modifying the loans, as defined in 
+section 661a of title 2
+, there are authorized to be appropriated for fiscal years 2001 through 2006, such amounts as may be necessary.
+
+
+
+
+
+
+(2)
+ Commodity Credit Corporation funds
+(A)
+ In general
+Notwithstanding any other provision of law, subject to subparagraph (B), in addition to amounts made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available for loan guarantees to carry out this chapter $80,000,000 for the period beginning on 
+May 13, 2002
+, and ending on 
+December 31, 2006
+, to remain available until expended.
+
+
+
+
+
+
+(B)
+ Broadband loans and loan guarantees
+(i)
+ In general
+Amounts made available under subparagraph (A) that are not obligated as of the release date described in clause (ii) shall be available to the Secretary to make loans and loan guarantees under 
+section 950bb of title 7
+.
+
+
+
+
+
+
+(ii)
+ Release date
+For purposes of clause (i), the release date is the date that is the earlier of—
+(I)
+ the date the Secretary determines that at least 75 percent of the designated market areas (as defined in 
+section 122(j) of title 17
+) not in the top 40 designated market areas described in 
+section 1103(e)(1)(C)(i) of this title
+ have access to local television broadcast signals for virtually all households (as determined by the Secretary); or
+
+
+
+
+(II)
+ 
+December 31, 2006
+.
+
+
+
+
+
+
+
+
+(C)
+ Advanced appropriations
+Subsections (c) and (h)(1)(B) of 
+section 1103 of this title
+ and 
+section 1104(n)(3)(B) of this title
+ shall not apply to amounts made available under this paragraph.
+
+
+
+
+
+
+
+
+(b)
+ Cost of administration
+There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, other than to cover costs under subsection (a) of this section.
+
+
+
+
+(c)
+ Availability
+Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) of this section shall remain available until expended.
+
+
+
+
+ Prevention of interference to direct broadcast satellite services
+(a)
+ Testing for harmful interference
+The Federal Communications Commission shall provide for an independent technical demonstration of any terrestrial service technology proposed by any entity that has filed an application to provide terrestrial service in the direct broadcast satellite frequency band to determine whether the terrestrial service technology proposed to be provided by that entity will cause harmful interference to any direct broadcast satellite service.
+
+
+
+
+(b)
+ Technical demonstration
+In order to satisfy the requirement of subsection (a) of this section for any pending application, the Commission shall select an engineering firm or other qualified entity independent of any interested party based on a recommendation made by the Institute of Electrical and Electronics Engineers (IEEE), or a similar independent professional organization, to perform the technical demonstration or analysis. The demonstration shall be concluded within 60 days after 
+December 21, 2000
+, and shall be subject to public notice and comment for not more than 30 days thereafter.
+
+
+
+
+(c)
+ Definitions
+As used in this section:
+(1)
+ Direct broadcast satellite frequency band
+The term “direct broadcast satellite frequency band” means the band of frequencies at 12.2 to 12.7 gigahertz.
+
+
+
+
+
+
+(2)
+ Direct broadcast satellite service
+The term “direct broadcast satellite service” means any direct broadcast satellite system operating in the direct broadcast satellite frequency band.
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+
+Chapter 1
+DEFINITIONS
+ Administrator
+In this subtitle, the term “Administrator” means the Administrator for Federal Procurement Policy appointed under 
+ Commercial component
+In this subtitle, the term “commercial component” means a component that is a commercial item.
+ Commercial item
+ Commercially available off-the-shelf item
+ Component
+In this subtitle, the term “component” means an item supplied to the Federal Government as part of an end item or of another component.
+ Federal Acquisition Regulation
+In this subtitle, the term “Federal Acquisition Regulation” means the regulation issued under 
+ Full and open competition
+In this subtitle, the term “full and open competition”, when used with respect to a procurement, means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
+ Item and item of supply
+ Major system
+(a)
+ 
+In General
+.—
+In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not include construction or other improvements to real property.
+
+
+(b)
+ 
+System Deemed To Be Major System
+.—
+A system is deemed to be a major system if—
+(1)
+ the Department of Defense is responsible for the system and the total expenditures for research, development, testing, and evaluation for the system are estimated to exceed $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement exceeds $300,000,000 (based on fiscal year 1980 constant dollars);
+
+
+
+
+(2)
+ a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed the greater of $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a major system established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”; or
+
+
+
+
+(3)
+ the head of the agency responsible for the system designates the system a major system.
+
+
+
+
+ Nondevelopmental item
+ Procurement
+In this subtitle, the term “procurement” includes all stages of the process of acquiring property or services, beginning with the process for determining a need for property or services and ending with contract completion and closeout.
+ Procurement system
+In this subtitle, the term “procurement system” means the integration of the procurement process, the professional development of procurement personnel, and the management structure for carrying out the procurement function.
+ Responsible source
+ Standards
+In this subtitle, the term “standards” means the criteria for determining the effectiveness of the procurement system by measuring the performance of the various elements of the system.
+ Supplies
+In this subtitle, the term “supplies” has the same meaning as the terms “item” and “item of supply”.
+ Technical data
+ Acquisition
+ Competitive procedures
+In division B, the term “competitive procedures” means procedures under which an agency enters into a contract pursuant to full and open competition.
+ Executive agency
+ Simplified acquisition threshold
+In division B, the term “simplified acquisition threshold” means $100,000.
+ Agency head
+In division C, the term “agency head” means the head or any assistant head of an executive agency, and may at the option of the Administrator of General Services include the chief official of any principal organizational unit of the General Services Administration.
+ Competitive procedures
+ Simplified acquisition threshold for contract in support of humanitarian or peacekeeping operation

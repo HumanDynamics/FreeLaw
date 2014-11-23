@@ -1,0 +1,350 @@
+
+Chapter 114
+CLASS ACTIONS
+ Definitions
+“(a)
+ 
+Findings
+.—
+Congress finds the following:
+“(1)
+ Class action lawsuits are an important and valuable part of the legal system when they permit the fair and efficient resolution of legitimate claims of numerous parties by allowing the claims to be aggregated into a single action against a defendant that has allegedly caused harm.
+
+
+
+
+“(2)
+ Over the past decade, there have been abuses of the class action device that have—
+“(A)
+ harmed class members with legitimate claims and defendants that have acted responsibly;
+
+
+
+
+“(B)
+ adversely affected interstate commerce; and
+
+
+
+
+“(C)
+ undermined public respect for our judicial system.
+
+
+
+
+
+
+“(3)
+ Class members often receive little or no benefit from class actions, and are sometimes harmed, such as where—
+“(A)
+ counsel are awarded large fees, while leaving class members with coupons or other awards of little or no value;
+
+
+
+
+“(B)
+ unjustified awards are made to certain plaintiffs at the expense of other class members; and
+
+
+
+
+“(C)
+ confusing notices are published that prevent class members from being able to fully understand and effectively exercise their rights.
+
+
+
+
+
+
+“(4)
+ Abuses in class actions undermine the national judicial system, the free flow of interstate commerce, and the concept of diversity jurisdiction as intended by the framers of the United States Constitution, in that State and local courts are—
+“(A)
+ keeping cases of national importance out of Federal court;
+
+
+
+
+“(B)
+ sometimes acting in ways that demonstrate bias against out-of-State defendants; and
+
+
+
+
+“(C)
+ making judgments that impose their view of the law on other States and bind the rights of the residents of those States.
+
+
+
+
+
+
+“(b)
+ 
+Purposes
+.—
+The purposes of this Act [see Short Title of 2005 Amendments note set out under 
+section 1 of this title
+] are to—
+“(1)
+ assure fair and prompt recoveries for class members with legitimate claims;
+
+
+
+
+“(2)
+ restore the intent of the framers of the United States Constitution by providing for Federal court consideration of interstate cases of national importance under diversity jurisdiction; and
+
+
+
+
+“(3)
+ benefit society by encouraging innovation and lowering consumer prices.”
+
+
+
+
+ Coupon settlements
+(a)
+ 
+Contingent Fees in Coupon Settlements
+.—
+If a proposed settlement in a class action provides for a recovery of coupons to a class member, the portion of any attorney’s fee award to class counsel that is attributable to the award of the coupons shall be based on the value to class members of the coupons that are redeemed.
+
+
+(b)
+ Other Attorney’s Fee Awards in Coupon Settlements.—
+(1)
+ 
+In general
+.—
+If a proposed settlement in a class action provides for a recovery of coupons to class members, and a portion of the recovery of the coupons is not used to determine the attorney’s fee to be paid to class counsel, any attorney’s fee award shall be based upon the amount of time class counsel reasonably expended working on the action.
+
+
+
+
+(2)
+ 
+Court approval
+.—
+Any attorney’s fee under this subsection shall be subject to approval by the court and shall include an appropriate attorney’s fee, if any, for obtaining equitable relief, including an injunction, if applicable. Nothing in this subsection shall be construed to prohibit application of a lodestar with a multiplier method of determining attorney’s fees.
+
+
+
+
+(c)
+ 
+Attorney’s Fee Awards Calculated on a Mixed Basis in Coupon Settlements
+.—
+If a proposed settlement in a class action provides for an award of coupons to class members and also provides for equitable relief, including injunctive relief—
+(1)
+ that portion of the attorney’s fee to be paid to class counsel that is based upon a portion of the recovery of the coupons shall be calculated in accordance with subsection (a); and
+
+
+
+
+(2)
+ that portion of the attorney’s fee to be paid to class counsel that is not based upon a portion of the recovery of the coupons shall be calculated in accordance with subsection (b).
+
+
+
+
+(d)
+ 
+Settlement Valuation Expertise
+.—
+In a class action involving the awarding of coupons, the court may, in its discretion upon the motion of a party, receive expert testimony from a witness qualified to provide information on the actual value to the class members of the coupons that are redeemed.
+
+
+(e)
+ 
+Judicial Scrutiny of Coupon Settlements
+.—
+In a proposed settlement under which class members would be awarded coupons, the court may approve the proposed settlement only after a hearing to determine whether, and making a written finding that, the settlement is fair, reasonable, and adequate for class members. The court, in its discretion, may also require that a proposed settlement agreement provide for the distribution of a portion of the value of unclaimed coupons to 1 or more charitable or governmental organizations, as agreed to by the parties. The distribution and redemption of any proceeds under this subsection shall not be used to calculate attorneys’ fees under this section.
+
+
+ Protection against loss by class members
+The court may approve a proposed settlement under which any class member is obligated to pay sums to class counsel that would result in a net loss to the class member only if the court makes a written finding that nonmonetary benefits to the class member substantially outweigh the monetary loss.
+ Protection against discrimination based on geographic location
+The court may not approve a proposed settlement that provides for the payment of greater sums to some class members than to others solely on the basis that the class members to whom the greater sums are to be paid are located in closer geographic proximity to the court.
+ Notifications to appropriate Federal and State officials
+(a)
+ Definitions.—
+(1)
+ 
+Appropriate federal official
+.—
+In this section, the term “appropriate Federal official” means—
+(A)
+ the Attorney General of the United States; or
+
+
+
+
+(B)
+ in any case in which the defendant is a Federal depository institution, a State depository institution, a depository institution holding company, a foreign bank, or a nondepository institution subsidiary of the foregoing (as such terms are defined in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+)), the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
+
+
+
+
+
+
+(2)
+ 
+Appropriate state official
+.—
+In this section, the term “appropriate State official” means the person in the State who has the primary regulatory or supervisory responsibility with respect to the defendant, or who licenses or otherwise authorizes the defendant to conduct business in the State, if some or all of the matters alleged in the class action are subject to regulation by that person. If there is no primary regulator, supervisor, or licensing authority, or the matters alleged in the class action are not subject to regulation or supervision by that person, then the appropriate State official shall be the State attorney general.
+
+
+
+
+(b)
+ 
+In General
+.—
+Not later than 10 days after a proposed settlement of a class action is filed in court, each defendant that is participating in the proposed settlement shall serve upon the appropriate State official of each State in which a class member resides and the appropriate Federal official, a notice of the proposed settlement consisting of—
+(1)
+ a copy of the complaint and any materials filed with the complaint and any amended complaints (except such materials shall not be required to be served if such materials are made electronically available through the Internet and such service includes notice of how to electronically access such material);
+
+
+
+
+(2)
+ notice of any scheduled judicial hearing in the class action;
+
+
+
+
+(3)
+ any proposed or final notification to class members of—
+(A)
+(i)
+ the members’ rights to request exclusion from the class action; or
+
+
+
+
+(ii)
+ if no right to request exclusion exists, a statement that no such right exists; and
+
+
+
+
+
+
+(B)
+ a proposed settlement of a class action;
+
+
+
+
+
+
+(4)
+ any proposed or final class action settlement;
+
+
+
+
+(5)
+ any settlement or other agreement contemporaneously made between class counsel and counsel for the defendants;
+
+
+
+
+(6)
+ any final judgment or notice of dismissal;
+
+
+
+
+(7)
+(A)
+ if feasible, the names of class members who reside in each State and the estimated proportionate share of the claims of such members to the entire settlement to that State’s appropriate State official; or
+
+
+
+
+(B)
+ if the provision of information under subparagraph (A) is not feasible, a reasonable estimate of the number of class members residing in each State and the estimated proportionate share of the claims of such members to the entire settlement; and
+
+
+
+
+
+
+(8)
+ any written judicial opinion relating to the materials described under subparagraphs (3) through (6).
+
+
+
+
+(c)
+ Depository Institutions Notification.—
+(1)
+ 
+Federal and other depository institutions
+.—
+In any case in which the defendant is a Federal depository institution, a depository institution holding company, a foreign bank, or a non-depository institution subsidiary of the foregoing, the notice requirements of this section are satisfied by serving the notice required under subsection (b) upon the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
+
+
+
+
+(2)
+ 
+State depository institutions
+.—
+In any case in which the defendant is a State depository institution (as that term is defined in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+)), the notice requirements of this section are satisfied by serving the notice required under subsection (b) upon the State bank supervisor (as that term is defined in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+)) of the State in which the defendant is incorporated or chartered, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person, and upon the appropriate Federal official.
+
+
+
+
+(d)
+ 
+Final Approval
+.—
+An order giving final approval of a proposed settlement may not be issued earlier than 90 days after the later of the dates on which the appropriate Federal official and the appropriate State official are served with the notice required under subsection (b).
+
+
+(e)
+ Noncompliance if Notice Not Provided.—
+(1)
+ 
+In general
+.—
+A class member may refuse to comply with and may choose not to be bound by a settlement agreement or consent decree in a class action if the class member demonstrates that the notice required under subsection (b) has not been provided.
+
+
+
+
+(2)
+ 
+Limitation
+.—
+A class member may not refuse to comply with or to be bound by a settlement agreement or consent decree under paragraph (1) if the notice required under subsection (b) was directed to the appropriate Federal official and to either the State attorney general or the person that has primary regulatory, supervisory, or licensing authority over the defendant.
+
+
+
+
+(3)
+ 
+Application of rights
+.—
+The rights created by this subsection shall apply only to class members or any person acting on a class member’s behalf, and shall not be construed to limit any other rights affecting a class member’s participation in the settlement.
+
+
+
+
+(f)
+ 
+Rule of Construction
+.—
+Nothing in this section shall be construed to expand the authority of, or impose any obligations, duties, or responsibilities upon, Federal or State officials.
+
+

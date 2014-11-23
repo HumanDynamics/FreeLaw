@@ -1,0 +1,230 @@
+
+Chapter 6
+COMMUNICATIONS SATELLITE SYSTEM
+ Omitted
+“(a)
+ 
+Policy
+.—
+The Congress declares that it is the policy of the United States—
+“(1)
+ as a party to the International Telecommunications Satellite Organization (hereafter in this section referred to as ‘Intelsat’), to foster and support the global commercial communications satellite system owned and operated by Intelsat;
+
+
+
+
+“(2)
+ to make available to consumers a variety of communications satellite services utilizing the space segment facilities of Intelsat and any additional such facilities which are found to be in the national interest and which—
+“(A)
+ are technically compatible with the use of the radio frequency spectrum and orbital space by the existing or planned Intelsat space segment, and
+
+
+
+
+“(B)
+ avoid significant economic harm to the global system of Intelsat; and
+
+
+
+
+
+
+“(3)
+ to authorize use and operation of any additional space segment facilities only if the obligations of the United States under article XIV(d) of the Intelsat Agreement have been met.
+
+
+
+
+“(b)
+ 
+Preconditions for Intelsat Consultation
+.—
+Before consulting with Intelsat for purposes of coordination of any separate international telecommunications satellite system under article XIV(d) of the Intelsat Agreement, the Secretary of State shall—
+“(1)
+ in coordination with the Secretary of Commerce, ensure that any proposed separate international satellite telecommunications system comply with the Executive Branch conditions established pursuant to the Presidential Determination No. 85–2 [49 F.R. 46987]; and
+
+
+
+
+“(2)
+ ensure that one or more foreign authorities have authorized the use of such system consistent with such conditions.
+
+
+
+
+“(c)
+ 
+Amendment of Intelsat Agreement
+.—
+(1)
+ The Secretary of State shall consult with the United States signatory to Intelsat and the Secretary of Commerce regarding the appropriate scope and character of a modification to article V(d) of the Intelsat Agreement which would permit Intelsat to establish cost-based rates for individual traffic routes, as exceptional circumstances warrant, paying particular attention to the need for avoiding significant economic harm to the global system of Intelsat as well as United States national and foreign policy interests.
+
+
+
+
+“(2)
+(A)
+ To ensure that rates established by Intelsat for such routes are cost-based, the Secretary of State, in consultation with the Secretary of Commerce and the Chairman of the Federal Communications Commission, shall instruct the United States signatory to Intelsat to ensure that sufficient documentation, including documentation regarding revenues and costs, is provided by Intelsat so as to verify that such rates are in fact cost-based.
+
+
+
+
+“(B)
+ To the maximum extent possible, such documenation [documentation] will be made available to interested parties on a timely basis.
+
+
+
+
+
+
+“(3)
+ Pursuant to the consultation under paragraph (1) and taking the steps prescribed in paragraph (2) to provide documentation, the United States shall support an appropriate modification to article V(d) of the Intelsat Agreement to accomplish the purpose described in paragraph (1).
+
+
+
+
+“(d)
+ 
+Congressional Consultation
+.—
+In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly’s failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
+“(1)
+ the foreign policy reasons for the President’s determination, and
+
+
+
+
+“(2)
+ a plan for minimizing any negative effects of the President’s action on Intelsat and on United States foreign policy interests.
+
+
+
+
+“(e)
+ 
+Notification to Federal Communications Commission
+.—
+In the event the Secretary of State submits a report under subsection (d), the Secretary, 60 calendar days after the receipt by the Congress of such report, shall notify the Federal Communications Commission as to whether the United States obligations under article XIV(d) of the Intelsat Agreement have been met.
+
+
+“(f)
+ 
+Implementation
+.—
+In implementing the provisions of this section, the Secretary of State shall act in accordance with Executive order 12046 [set out under 
+section 305 of this title
+].
+
+
+“(g)
+ 
+Definition
+.—
+For the purposes of this section, the term ‘separate international telecommunications satellite system’ or ‘separate system’ means a system of one or more telecommunications satellites separate from the Intelsat space segment which is established to provide international telecommunications services between points within the United States and points outside the United States, except that such term shall not include any satellite or system of satellites established—
+“(1)
+ primarily for domestic telecommunications purposes and which incidentally provides services on an ancillary basis to points outside the jurisdiction of the United States but within the western hemisphere, or
+
+
+
+
+“(2)
+ solely for unique governmental purposes.”
+
+
+
+
+ Definitions
+ Satellite service report
+(a)
+ Annual report
+The Federal Communications Commission shall review competitive market conditions with respect to domestic and international satellite communications services and shall include in an annual report an analysis of those conditions. The Commission shall transmit a copy of the report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
+
+
+
+
+(b)
+ Content
+The Commission shall include in the report—
+(1)
+ an identification of the number and market share of competitors in domestic and international satellite markets;
+
+
+
+
+(2)
+ an analysis of whether there is effective competition in the market for domestic and international satellite services; and
+
+
+
+
+(3)
+ a list of any foreign nations in which legal or regulatory practices restrict access to the market for satellite services in such nation in a manner that undermines competition or favors a particular competitor or set of competitors.
+
+
+
+
+ Implementation of policy
+(a)
+ the President shall—
+(1)
+ to (7) omitted.
+
+
+
+
+(b)
+ omitted.
+
+
+(c)
+ the Federal Communications Commission, in its administration of the provisions of the Communications Act of 1934, as amended [
+47 U.S.C. 151
+ et seq.], and as supplemented by this chapter, shall—
+(1)
+ to (10) omitted;
+
+
+
+
+(11)
+ make rules and regulations to carry out the provisions of this chapter.
+
+
+
+
+ Omitted
+ Omitted
+ Omitted
+ Implementation of policy
+(a)
+ The Secretary of Commerce shall—
+(1)
+ coordinate the activities of Federal agencies with responsibilities in the field of telecommunications (other than the Commission), so as to ensure that there is full and effective compliance with the provisions of this subchapter;
+
+
+
+
+(2)
+ omitted;
+
+
+
+
+(3)
+ exercise his authority in a manner which seeks to obtain coordinated and efficient use of the electromagnetic spectrum and orbital space, and to ensure the technical compatibility of the space segment with existing communications facilities in the United States and in foreign countries; and
+
+
+
+
+(4)
+ omitted.
+
+
+
+
+(b)
+ to (d) Omitted.
+
+
+ Repealed. 
+ Definitions

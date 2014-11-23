@@ -1,0 +1,3757 @@
+
+Chapter 71
+COMPUTATION OF RETIRED PAY
+ Computation of retired pay
+(a)
+ 
+Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement
+.—
+The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, and 3, as modified by the applicable footnotes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Formula No.
+For sections
+Column 1
+ 
+Take
+Column 2
+ 
+Multiply by
+Column 3
+ 
+Add
+
+
+
+
+
+
+1
+ Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+
+
+
+
+
+
+
+
+1
+1201
+1204
+Retired pay base as computed under section 1406(b) or 1407.
+As member elects—
+  (1) 2½% of years of service credited to him under section 1208; 
+1
+ or
+  (2) the percentage of disability, not to exceed 75%, on date when retired.
+ 
+
+
+2
+1202
+1205
+Retired pay base as computed under section 1406(b) or 1407.
+As member elects—
+  (1) 2½% of years of service credited to him under section 1208; 
+1
+ or
+  (2) the percentage of disability, not to exceed 75%, on date when his name was placed on temporary disability retired list.
+Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based.
+
+
+4
+580
+1263
+1293
+1305
+Retired pay base as computed under section 1406(b) or 1407.
+The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405.
+ 
+
+
+5
+633
+634
+635
+636
+1251
+1252
+1253
+Retired pay base as computed under section 1406(b) or 1407.
+The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405.
+ 
+
+
+
+
+
+
+
+
+(b)
+ 
+Use of Most Favorable Formula
+.—
+If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
+
+
+“(a)
+ 
+In General
+.—
+Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 (
+Public Law 106–259
+; 
+114 Stat. 705
+) [amending 
+section 106 of Title 38
+, Veterans’ Benefits, and enacting provisions set out as a note under 
+section 106 of Title 38
+] shall be treated as active service for purposes of the computation under chapter 61, 71, 371, 571, 871, or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code.
+
+
+“(b)
+ 
+Applicability
+.—
+Subsection (a) shall apply with respect to amounts of retired pay payable under title 10, United States Code, for months beginning on or after the date of the enactment of this Act [
+Oct. 28, 2009
+]. No retired pay shall be paid to any individual by reason of subsection (a) for any period before that date.
+
+
+“(c)
+ 
+World War II Defined
+.—
+In this section, the term ‘World War II’ has the meaning given that term in 
+section 101(8) of title 38
+, United States Code.”
+
+
+“(a)
+ Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day before the effective date of this Act [
+June 1, 1958
+], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
+
+
+“(b)
+ Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act [
+June 1, 1958
+] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
+
+
+“(c)
+ Section 5 of the Career Incentive Act of 1955 (
+69 Stat. 22
+) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act [
+June 1, 1958
+]”.
+
+
+ Adjustment of retired pay and retainer pay to reflect changes in Consumer Price Index
+(a)
+ 
+Prohibition on Recomputation To Reflect Increases in Basic Pay
+.—
+Unless otherwise specifically provided by law, the retired pay of a member or former member of an armed force may not be recomputed to reflect any increase in the rates of basic pay for members of the armed forces.
+
+
+(b)
+ Cost-of-Living Adjustments Based on CPI Increases.—
+(1)
+ 
+Increase required
+.—
+Effective on December 1 of each year, the Secretary of Defense shall increase the retired pay of members and former members entitled to that pay in accordance with paragraphs (2) and (3).
+
+
+
+
+(2)
+ 
+Percentage increase
+.—
+Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+(A)
+ the price index for the base quarter of that year, exceeds
+
+
+
+
+(B)
+ the base index.
+
+
+
+
+
+
+(3)
+ 
+Reduced percentage for certain post-
+august 1, 1986
+ members
+.—
+If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member who first became a member on or after 
+August 1, 1986
+, and has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or 
+section 354 of title 37
+, by the difference between—
+(A)
+ the percent determined under paragraph (2); and
+
+
+
+
+(B)
+ 1 percent.
+
+
+
+
+
+
+(4)
+ 
+Special rule for paragraph (3)
+.—
+If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
+
+
+
+
+(5)
+ 
+Regulations
+.—
+Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
+
+
+
+
+(c)
+ First COLA Adjustment for Members With Retired Pay Computed Using Final Basic Pay.—
+(1)
+ 
+First adjustment with intervening increase in basic pay
+.—
+Notwithstanding subsection (b) but subject to subsection (f)(3), if a person described in paragraph (3) becomes entitled to retired pay based on rates of monthly basic pay that became effective after the last day of the calendar quarter of the base index, the retired pay of the member or former member shall be increased on the effective date of the next adjustment of retired pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+(A)
+ the price index for the base quarter of that year, exceeds
+
+
+
+
+(B)
+ the price index for the calendar quarter immediately before the calendar quarter in which the rates of monthly basic pay on which the retired pay is based became effective.
+
+
+
+
+
+
+(2)
+ 
+First adjustment with no intervening increase in basic pay
+.—
+If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall be increased (subject to subsection (f)(3) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section), effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+(A)
+ the base index, exceeds
+
+
+
+
+(B)
+ the price index for the calendar quarter immediately before the calendar quarter in which the rates of monthly basic pay on which the retired pay is based became effective.
+
+
+
+
+
+
+(3)
+ 
+Members covered
+.—
+Paragraphs (1) and (2) apply to a member or former member of an armed force who first became a member of a uniformed service before 
+August 1, 1986
+, and whose retired pay base is determined under 
+section 1406 of this title
+.
+
+
+
+
+(d)
+ 
+First COLA Adjustment for Members With Retired Pay Computed Using High-Three
+.—
+Notwithstanding subsection (b) but subject to subsection (f)(3), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before 
+August 1, 1986
+, or on or after 
+August 1, 1986
+, if the member or former member did not elect to receive a bonus under section 322 (as in effect before 
+January 28, 2008
+) or 
+section 354 of title 37
+ and whose retired pay base is determined under 
+section 1407 of this title
+ shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
+(1)
+ the price index for the base quarter of that year, exceeds
+
+
+
+
+(2)
+ the price index for the calendar quarter immediately before the calendar quarter during which the member became entitled to retired pay.
+
+
+
+
+(e)
+ 
+Pro Rating of Initial Adjustment
+.—
+Notwithstanding subsection (b) but subject to subsection (f)(3), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after 
+August 1, 1986
+, and elected to receive a bonus under section 322 (as in effect before 
+January 28, 2008
+) or 
+section 354 of title 37
+ shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
+(1)
+ the percent by which—
+(A)
+ the price index for the base quarter of that year, exceeds
+
+
+
+
+(B)
+ the price index for the calendar quarter immediately before the calendar quarter during which the member became entitled to retired pay; and
+
+
+
+
+
+
+(2)
+ one-fourth of 1 percent for each calendar quarter from the quarter described in paragraph (1)(B) to the quarter described in paragraph (1)(A).
+
+
+
+
+
+If in any case the percent described in paragraph (2) exceeds the percent determined under paragraph (1), such an increase shall not be made.
+
+
+(f)
+ Prevention of Pay Inversions.—
+(1)
+ 
+Prevention of retired pay inversions for members with retired pay computed using final basic pay
+.—
+The monthly retired pay of a member or a former member of an armed force who first became a member of a uniformed service before 
+September 8, 1980
+, and who initially became entitled to that pay on or after 
+January 1, 1971
+, may not be less than the monthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before 
+October 7, 1975
+.
+
+
+
+
+(2)
+ 
+Prevention of retired pay inversions for members with retired pay computed using high-three
+.—
+Subject to subsections (d) and (e), the monthly retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after 
+September 8, 1980
+, may not be less, on the date on which the member or former member initially becomes entitled to such pay, than the monthly retired pay to which the member or former member would be entitled on that date if the member or former member had become entitled to retired pay on an earlier date, adjusted to reflect any applicable increases in such pay under this section. However, in the case of a member or former member whose retired pay is computed subject to 
+section 1407(f) of this title
+, paragraph (1) (rather than the preceding sentence) shall apply in the same manner as if the member or former member first became a member of a uniformed service before 
+September 8, 1980
+, but only with respect to a calculation as of the date on which the member or former member first became entitled to retired pay.
+
+
+
+
+(3)
+ 
+Prevention of cola inversions
+.—
+The percentage of the first adjustment under this section in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
+
+
+
+
+(g)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “price index” means the Consumer Price Index (all items, United States city average) published by the Bureau of Labor Statistics.
+
+
+
+
+(2)
+ The term “base quarter” means the calendar quarter ending on September 30 of each year.
+
+
+
+
+(3)
+ The term “base index” means the price index for the base quarter for the most recent adjustment under subsection (b).
+
+
+
+
+(4)
+ The term “retired pay” includes retainer pay.
+
+
+
+
+(h)
+ 
+Price Index for a Quarter
+.—
+For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
+
+
+“(a)
+ 
+In General
+.—
+The fiscal year 1995 increase in military retired pay shall (notwithstanding subparagraph (B) of 
+section 1401a(b)(2) of title 10
+, United States Code) first be payable as part of such retired pay for the month of March 1995.
+
+
+“(b)
+ 
+Definitions
+.—
+For the purposes of subsection (a):
+“(1)
+ The term ‘fiscal year 1995 increase in military retired pay’ means the increase in retired pay that, pursuant to paragraph (1) of 
+section 1401a(b) of title 10
+, United States Code, becomes effective on 
+December 1, 1994
+.
+
+
+
+
+“(2)
+ The term ‘retired pay’ includes retainer pay.
+
+
+
+
+“(c)
+ 
+Limitation
+.—
+Subsection (a) shall be effective only if there is appropriated to the Department of Defense Military Retirement Fund (in an Act making appropriations for the Department of Defense for fiscal year 1995 that is enacted before 
+March 1, 1995
+) such amount as is necessary to offset increased outlays to be made from that fund during fiscal year 1995 by reason of the provisions of subsection (a).
+
+
+“(d)
+ 
+Authorization of Appropriations
+.—
+There is authorized to be appropriated for fiscal year 1995 to the Department of Defense Military Retirement Fund the sum of $376,000,000 to offset increased outlays to be made from that fund during fiscal year 1995 by reason of the provisions of subsection (a).”
+
+
+“(a)
+ 
+Findings
+.—
+Congress makes the following findings:
+“(1)
+ Congress, in the Omnibus Budget Reconciliation Act of 1993 [
+Pub. L. 103–66
+, see Tables for classification], changed the effective dates for future cost-of-living adjustments for military retired pay and for Federal civilian retirement annuities, which (before that Act) were provided by law to be made effective on December 1 each year.
+
+
+
+
+“(2)
+ The timing, and the percentage of increase, of military and Federal civilian retirees’ cost-of-living adjustments have been linked for decades.
+
+
+
+
+“(3)
+ The effect of the enactment of the Omnibus Budget Reconciliation Act of 1993 was to abandon the longstanding congressional practice of treating military and Federal civilian retirees identically in matters related to cost-of-living adjustments.
+
+
+
+
+“(b)
+ 
+Sense of Congress
+.—
+In light of the findings in subsection (a), it is the sense of Congress that—
+“(1)
+ as a matter of simple equity and fairness, it is imperative that cost-of-living adjustments in retirement benefits for military and Federal civilian retirees be returned to an identical schedule as soon as possible, but not later than 
+January 1, 1999
+;
+
+
+
+
+“(2)
+ if after 
+October 1, 1998
+, there is, by law, a difference between the date on which a cost-of-living adjustment for Federal civilian retirees takes effect and the date on which a cost-of-living adjustment for military retirees takes effect, then the difference in those effective dates should be eliminated by requiring that cost-of-living adjustments for both classes of retirees become effective on the earlier of the two dates; and
+
+
+
+
+“(3)
+ if after 
+October 1, 1998
+, there is, by law, a difference between the first month for which a cost-of-living adjustment for civilian retirees is payable and the first month for which a cost-of-living adjustment for military retirees is payable, then the difference in the months for which those adjustments are first payable should be eliminated by requiring that the cost-of-living adjustments for both classes of retirees first become payable for the earlier of the two months.”
+
+
+
+
+“(a)
+ 
+Authority
+.—
+The Secretary concerned may, for purposes of the computation under 
+section 1401a(f) of title 10
+, United States Code, of the retired pay of military retirees described in subsection (b), waive any administrative time-in-grade regulation (as described in subsection (d)) that would otherwise apply to such computation. Any such waiver may be made retroactive, in the case of any such retiree, to the date on which that retiree initially became entitled to retired pay.
+
+
+“(b)
+ 
+Covered Retirees
+.—
+This section applies to any military retiree—
+“(1)
+ who initially became entitled to retired pay on or after 
+January 1, 1971
+, and before the date of the enactment of this Act [
+Oct. 5, 1994
+];
+
+
+
+
+“(2)
+ whose retired pay, by reason of the provisions of 
+section 1401a(f) of title 10
+, United States Code (the so-called ‘Tower amendment’), was initially computed as an amount greater than would have been the case but for that section; and
+
+
+
+
+“(3)
+ who, as of the earlier computation date applicable to that retiree—
+“(A)
+ in the case of an individual retired in an enlisted grade, had served in the grade in which the retiree retired for a period that was less than the period prescribed by the applicable administrative time-in-grade requirement described in subsection (d); and
+
+
+
+
+“(B)
+ in the case of an individual retired in an officer grade—
+“(i)
+ was subject to an administrative time-in-grade requirement described in subsection (d) that established a time-in-grade requirement that was longer than the statutory time-in-grade requirement applicable to that member; and
+
+
+
+
+“(ii)
+ had served in the grade in which the retiree retired for a period that was less than the period prescribed by such administrative time-in-grade requirement but not less than the statutory time-in-grade requirement applicable to that member.
+
+
+
+
+
+
+
+
+“(c)
+ 
+Earlier Computation Date
+.—
+For purposes of subsection (b)(3), the earlier computation date applicable to a military retiree is the date that (under such section 1401a(f) as in effect on the date of the member’s retirement) was the ‘earlier date’ that was used as the basis for the computation of the retiree’s retired pay.
+
+
+“(d)
+ 
+Regulations Subject to Waiver
+.—
+A regulation that may be waived under subsection (a) is any regulation (not required by law) that establishes a minimum period of time that a member of the Armed Forces must have served in a grade on active duty in order to be eligible to retire in that grade.
+
+
+“(e)
+ 
+Scope of Waiver Authority
+.—
+The Secretary concerned may exercise the authority provided in subsection (a) in the case of an individual military retiree or for any group of military retirees.
+
+
+“(f)
+ 
+Military Retiree Defined
+.—
+For purposes of this section, the term ‘military retiree’ means a member or former member of the Armed Forces who is entitled to retired pay.
+
+
+“(g)
+ 
+Secretary Concerned
+.—
+For purposes of this section, the term ‘Secretary concerned’ has the meaning given such term in 
+section 101 of title 10
+, United States Code.”
+
+
+“(a)
+ 
+Fiscal Year
+ 1995 
+Cost-of-Living Adjustment for Military Retirees
+.—
+(1)
+ The fiscal year 1995 increase in military retired pay shall (notwithstanding subparagraph (B) of 
+section 1401a(b)(2) of title 10
+, United States Code) first be payable as part of such retired pay for the month of March 1995.
+
+
+
+
+“(2)
+ For the purposes of subsection (a):
+“(A)
+ The term ‘fiscal year 1995 increase in military retired pay’ means the increase in retired pay that, pursuant to paragraph (1) of 
+section 1401a(b) of title 10
+, United States Code, becomes effective on 
+December 1, 1994
+.
+
+
+
+
+“(B)
+ The term ‘retired pay’ includes retainer pay.
+
+
+
+
+
+
+“(b)
+ [Repealed. 
+Pub. L. 104–106, div. A, title VI, § 631(c)
+, 
+Feb. 10, 1996
+, 
+110 Stat. 365
+.]
+”
+
+
+“(a)
+(1)
+ The increase in the retired and retainer pay of members and former members of the uniformed services which but for this section would be made effective 
+September 1, 1980
+, under the provisions of paragraph (2)(B) of 
+section 1401a(b) of title 10
+, United States Code, shall not be made.
+
+
+
+
+“(2)
+(A)
+ In making the determination required by the provisions of paragraph (1)(A) of 
+section 1401a(b) of title 10
+, United States Code, to be made on 
+January 1, 1981
+, or within a reasonable time thereafter, the Secretary of Defense shall determine the percent change in the index (as such term is defined in 
+section 1401a(a) of title 10
+, United States Code) published for December 1980 over the index published for December 1979 (rather than over the index published for June 1980).
+
+
+
+
+“(B)
+ The increase in the retired and retainer pay of members and former members of the uniformed services to be made effective 
+March 1, 1981
+, under the provisions of paragraph (2)(A) of such section shall, in lieu of the increase prescribed by such paragraph, be the percent change computed under subparagraph (A), adjusted to the nearest ⅒ of one percent.
+
+
+
+
+
+
+“(3)
+ The President shall by Executive order provide for only one cost-of-living adjustment in the annuities paid under the Central Intelligence Agency [Retirement] Act of 1964 for Certain Employees ([former] 
+50 U.S.C. 403
+ note) during the period beginning on 
+September 1, 1980
+, and ending on 
+August 31, 1981
+. Such adjustment shall be effective 
+March 1, 1981
+, and shall be made in the same manner and percentage as the adjustment provided for in paragraphs (1) and (2) for the retired and retainer pay of members and former members of the uniformed services.
+
+
+
+
+“(4)
+ Paragraphs (1), (2), and (3) shall not take effect unless similar legislation is enacted which provides for only one cost-of-living increase in annuities paid under subchapter III of chapter 83 of title 5, United States Code, during the period beginning on 
+September 1, 1980
+, and ending on 
+August 31, 1981
+.
+
+
+
+
+“(b)
+(1)
+ Effective 
+August 31, 1981
+, but subject to paragraph (2), section 1401a(b), of title 10, United States Code, relating to adjustment of retired pay and retainer pay to reflect changes in the Consumer Price Index, is amended to read as follows:
+“ ‘(b) Each time that an increase is made under 
+section 8340(b) of title 5
+ in annuities paid under subchapter III of chapter 83 of such title, the Secretary of Defense shall at the same time increase the retired and retainer pay of members and former members of the armed forces by the same percent as the percentage by which annuities are increased under such section.’.
+
+
+
+
+
+
+“(2)
+ The amendment made by paragraph (1) shall not take effect unless legislation is enacted which provides for the adjustment of annuities paid under subchapter III of chapter 83 of title 5, United States Code, on a once-a-year basis. In the event such legislation is enacted, such amendment shall become effective with respect to adjustments in the retired pay and retainer pay of members and former members of the uniformed services at the same time that the legislation providing for such a once-a-year adjustment of annuities paid under subchapter III of chapter 83 of title 5, United States Code, becomes effective.
+
+
+
+
+“(3)
+ If legislation described in paragraph (2) is enacted to provide for the adjustment of annuities paid under subchapter III of chapter 83 of title 5, United States Code, on a once-a-year basis, the President shall exercise the authority vested in him under section 292 of the Central Intelligence Agency [Retirement] Act of 1964 for Certain Employees ([former] 
+50 U.S.C. 403
+ note) to provide for cost-of-living adjustments in the annuities paid under such Act on an identical basis.
+
+
+
+
+“(4)
+ If at the time the first adjustment in retired and retainer pay is made under 
+section 1401a(b) of title 10
+, United States Code, as amended by paragraph (1) of this subsection, the period upon which the most recent adjustment in such retired and retainer pay was computed is not identical to the period upon which the most recent adjustment in annuities under subchapter III of chapter 83 of title 5, United States Code, was computed, then the percentage increase to be made under such section 1401a(b) at the time of the first such adjustment shall be computed in the same manner as the percentage increase made at the same time in annuities under subchapter III of chapter 83 of title 5, United States Code, is computed, but shall be based on the period beginning on the last day of the period upon which the most recent adjustment in such retired and retainer pay was computed and ending on the last day of the period upon which the adjustment being made at the same time in annuities under such subchapter III is computed. The President shall by Executive order provide for a similar computation of the adjustment in annuities paid under the Central Intelligence Agency [Retirement] Act of 1964 for Certain Employees ([former] 
+50 U.S.C. 403
+ note) which is made at the same time as the increase in retired and retainer pay to which the preceeding [preceding] sentence is applicable.
+
+
+
+
+“(c)
+ For the purposes of this section, the term ‘uniformed services’ means—
+“(1)
+ the Armed Forces; and
+
+
+
+
+“(2)
+ the commissioned corps of the National Oceanic and Atmospheric Administration and of the Public Health Service.”
+
+
+
+
+(a)
+ the retired pay of any individual who served as sergeant major of the Marine Corps and who completed such service before 
+December 16, 1967
+, shall be computed based upon a rate of basic pay of the sum of (1) the highest rate of basic pay to which such individual was entitled while so serving, and (2) $150.
+
+
+“(b)
+ For the purpose of computing any adjustment under 
+section 1401a of title 10
+, United States Code, in the retired pay of any individual whose retired pay is affected by subsection (a), the rate of basic pay provided under such subsection for the purpose of computing the retired pay of such individual shall be considered to have been the rate of basic pay applicable to such individual at the time of his retirement, and any adjustment under such section 1401a in the retired pay of such individual before 
+September 30, 1978
+, shall be readjusted to reflect such rate of basic pay.
+
+
+ (a)
+ Any change in the retired pay of any individual by reason of the enactment of this Act shall be effective for months beginning after 
+September 30, 1978
+.
+
+
+“(b)
+ The enactment of this Act shall not reduce the retired pay of any individual.”
+
+
+“(a)
+ Notwithstanding any other provision of law, effective on the date of enactment of this Act [
+Dec. 28, 1973
+], the pay and allowances of members of the Armed Forces to whom this Act applies shall be increased to amounts equal to the amounts such pay and allowances would have been increased if the pay and allowances of such members had been increased, under 
+section 1401a(b) of title 10
+, United States Code, by the same percentage rates, consecutively compounded, that the retired pay or retainer pay of members and former members of the Armed Forces entitled to retired pay or retainer pay since 
+October 1, 1967
+, has been increased, and such member shall, on and after the date of enactment of this Act [
+Dec. 28, 1973
+], have his pay and allowances increased effective the same day and by the same percentage rate that the retired pay or retainer pay of members and former members of the Armed Forces is increased under such section 1401a(b).
+
+
+“(b)
+ This section applies to members of the Armed Forces entitled to pay and allowances under either of the following provisions of law:
+“(1)
+ The Act of 
+June 26, 1948
+, chapter 677 (
+62 Stat. 1052
+) [which authorized the appointment of one officer in the Regular Army in the permanent grade of general, one officer in the Regular Air Force in the permanent grade of general, and one officer in the Regular Navy in the permanent grade of admiral].
+
+
+
+
+“(2)
+ The Act of 
+September 18, 1950
+, chapter 952 (64 Stat. A224) [which authorized the appointment of Omar N. Bradley to the permanent grade of General of the Army].
+
+
+
+
+“(c)
+ No amounts shall be paid, as the result of the enactment of this section, for any period prior to the date of enactment of this section [
+Dec. 28, 1973
+].”
+
+
+ Recomputation of retired or retainer pay to reflect later active duty of members who first became members before 
+(a)
+ A member of an armed force who first became a member of a uniformed service before 
+September 8, 1980
+, and who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column 1
+ 
+Take
+Column 2
+ 
+Multiply by
+
+
+
+
+
+
+1
+ For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member’s retired pay or retainer pay was computed when he entered on that active duty.
+
+
+
+
+
+
+2
+ Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+
+
+
+
+
+
+
+
+Monthly basic pay 
+1
+ of the grade in which he would be eligible—
+  (1) to retire if he were retiring upon that release from active duty; or
+  (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty.
+2½ percent of the sum of—
+  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and
+  (2) his years of active service after becoming entitled to retired pay or retainer pay.
+2
+
+
+
+
+
+
+However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former 
+section 6150 of this title
+, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
+
+
+
+
+(b)
+ A member of an armed force who first became a member of a uniformed service before 
+September 8, 1980
+, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+
+(c)
+ A member of an armed force who first became a member of a uniformed service before 
+September 8, 1980
+, and who—
+(1)
+ was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
+
+
+
+
+(2)
+ incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on the temporary disability retired list; and
+
+
+
+
+(3)
+ is qualified under section 1201, 1202, 1204, or 1205 of this title;
+
+
+
+
+
+is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+
+(d)
+ A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under 
+section 1401a of this title
+ after he initially became entitled to that pay, or (2) retired pay computed according to the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column 1
+ 
+Take
+Column 2
+ 
+Multiply by
+Column 3
+ 
+Add
+
+
+
+
+
+
+1
+ Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+
+
+
+
+
+
+
+
+Highest monthly basic pay that member received while on active duty after retirement or after date when his name was placed on temporary disability retired list, as the case may be.
+As member elects—
+  (1) 2½% of years of service credited under 
+section 1208 of this title
+; 
+1
+ or
+  (2) the highest percentage of disability, not to exceed 75%, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be.
+1
+Add amount necessary to increase product of columns 1 and 2 to 50% of pay upon which computation is based, if member is on temporary disability retired list.
+
+
+
+
+
+
+If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retired pay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
+
+
+
+
+(e)
+ Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from active duty, to have his retired pay or retainer pay—
+(1)
+ computed according to the formula set forth in subsection (a) but using the rate of basic pay under which his retired pay or retainer pay was computed when he entered on active duty; and
+
+
+
+
+(2)
+ increased by any applicable adjustments in that pay under 
+section 1401a of this title
+ after he initially became entitled to that pay.
+
+
+
+
+(f)
+(1)
+ In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
+
+
+
+
+(2)
+ The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the monthly rate of basic pay upon which the recomputation of such retired pay is based.
+
+
+
+
+(3)
+ The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
+
+
+
+
+“(a)
+ Notwithstanding the second sentence of footnote 1 of the table contained in 
+section 1402(a) of title 10
+, United States Code (relating to recomputation of retired pay to reflect later active duty), in the case of a member of the Armed Forces who—
+“(1)
+ was voluntarily called or ordered to active duty during the period beginning on 
+October 1, 1963
+, and ending on 
+September 30, 1971
+;
+
+
+
+
+“(2)
+ was at the time of such call or order entitled to retired pay or retainer pay;
+
+
+
+
+“(3)
+ served on such active duty under such call or order for a continuous period of at least two years; and
+
+
+
+
+“(4)
+ was released from such active duty before 
+October 1, 1973
+,
+
+
+
+
+
+the retired or retainer pay of such member shall be recomputed, as provided in subsection (b), under the rates of basic pay in effect at the time of that release from active duty.
+
+
+“(b)
+ The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under 
+section 1402(a) of title 10
+, United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member’s retired or retainer pay would have been increased during the period beginning on the date of the member’s release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
+
+
+“(c)
+ This section shall apply only with respect to retired pay and retainer pay payable for months beginning after 
+September 30, 1984
+, or on or after the date of the enactment of this Act [
+Oct. 19, 1984
+], whichever is later.”
+
+
+“(a)
+ Except as provided in 
+section 1402 of title 10
+, United States Code, the changes made by this Act [see Short Title note under 
+section 201 of Title 37
+] in the rates of basic pay of members of the uniformed services do not increase the retired pay or retainer pay to which a member or former member of the uniformed services was entitled on the day before the effective date of this Act [
+Oct. 1, 1963
+]. However, except for a member covered by 
+section 6331 of title 10
+, United States Code who became entitled to retainer pay before 
+April 1, 1963
+, and subject to subsection (j) of this section [set out as a note below], a member or former member of a uniformed service who became entitled to retired pay or retainer pay after 
+March 31, 1963
+, but before the effective date of this Act [
+Oct. 1, 1963
+], is entitled—
+“(1)
+ to have the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [
+Oct. 1, 1963
+] recomputed under the rates of basic pay prescribed by section 2 of this Act [amending 
+section 203 of Title 37
+]; or
+
+
+
+
+“(2)
+ to continue to have that pay computed under the rates of basic pay that were in effect under 
+section 203 of title 37
+, United States Code, on the day before the effective date of this Act [
+Oct. 1, 1963
+], plus the percentage increase provided by subsection (e) of this section;
+
+
+
+
+
+whichever pay is the greater. For the purposes of the preceding sentence, a member or former member who became entitled to retired pay on 
+April 1, 1963
+, by virtue of 
+section 1 of the Act of April 23, 1930, ch. 209
+, as amended (
+5 U.S.C. 47a
+) [
+section 8301 of Title 5
+], shall be considered as having become entitled to that pay before 
+April 1, 1963
+.
+
+
+“(b)
+ A member or former member of a uniformed service who was retired other than for physical disability and who, in accordance with section 511 of the Career Compensation Act of 1949 (
+63 Stat. 829
+) [act 
+Oct. 12, 1949
+, former 
+10 U.S.C. 580
+ note], is entitled to retired pay or retainer pay computed by ‘method’ (a) of that section using rates of basic pay that were in effect before 
+October 1, 1949
+, is entitled—
+“(1)
+ to have pay recomputed by ‘method’ (b) of that section using the rates of basic pay that were in effect under that Act on the day before the effective date of this Act [
+Oct. 1, 1963
+]; or
+
+
+
+
+“(2)
+ to an increase of 5 percent in the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [
+Oct. 1, 1963
+];
+
+
+
+
+
+whichever pay is the greater.
+
+
+“(c)
+ A member or former member of a uniformed service who is entitled to retired pay or retainer pay computed under the rates of basic pay that were in effect under the Career Compensation Act of 1949 before 
+June 1, 1958
+, including a member or former member who is entitled to retired pay under section 7 (b) or (c) of the Act of 
+May 20, 1958
+, 
+Public Law 85–422
+ (
+72 Stat. 130
+), is entitled—
+“(1)
+ to have that pay recomputed under the rates of basic pay that were in effect under that Act on the day before the effective date of this Act [
+Oct. 1, 1963
+]; or
+
+
+
+
+“(2)
+ to an increase of 5 percent in the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [
+Oct. 1, 1963
+];
+
+
+
+
+
+whichever pay is the greater.
+
+
+“(d)
+ A member or former member of a uniformed service who was entitled to retired pay on the day before the effective date of this Act [
+Oct. 1, 1963
+] and who served as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps is entitled—
+“(1)
+ to have his retired pay recomputed under the formula for computing retired pay applicable to him—
+“(A)
+ when he retired; or
+
+
+
+
+“(B)
+ if he served on active duty after he retired and his retired pay was recomputed by reason of that service, when his retired pay was so recomputed;
+
+
+
+
+
+using as his rate of basic pay the rate of basic pay prescribed for officers serving on active duty in those positions on 
+June 1, 1958
+, by footnote 1 to table for commissioned officers in section 201(a) of the Career Compensation Act of 1949, as amended (
+72 Stat. 122
+) [see 
+section 203 of Title 37
+]; or
+
+
+
+
+“(2)
+ to an increase of 5 percent in the retired pay to which he was entitled on the day before the effective date of this Act [
+Oct. 1, 1963
+];
+
+
+
+
+
+whichever pay is the greater.
+
+
+“(e)
+ A member or former member of a uniformed service who was entitled to retired pay or retainer pay on the day before the effective date of this Act [
+Oct. 1, 1963
+], other than a member or former member who is covered by subsection (b), (c), or (d) of this section, is entitled to an increase of 5 percent in the retired or retainer pay to which he was entitled on the day before the effective date of this Act [
+Oct. 1, 1963
+].
+
+
+“(f)
+ Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act [
+Oct. 1, 1963
+] shall continue to receive the pay and allowances to which he was entitled on that day:
+“(1)
+ The Act of 
+March 23, 1946
+, chapter 112 (
+60 Stat. 59
+).
+
+
+
+
+“(2)
+ The Act of 
+June 26, 1948
+, chapter 677 (
+62 Stat. 1052
+).
+
+
+
+
+“(3)
+ The Act of 
+September 18, 1950
+, chapter 952 (64 Stat. A224).”
+
+
+
+
+ Recomputation of retired or retainer pay to reflect later active duty of members who first became members after 
+(a)
+ 
+In General
+.—
+A member of an armed force—
+(1)
+ who first became a member of a uniformed service after 
+September 7, 1980
+;
+
+
+
+
+(2)
+ who has become entitled to retired pay or retainer pay; and
+
+
+
+
+(3)
+ who thereafter serves on active duty (other than for training),
+
+
+
+
+
+is entitled to recompute his retired pay or retainer pay upon release from that duty according to the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column 1
+Take
+Column 2
+Multiply by
+
+
+
+
+
+
+Retired pay base or retainer pay base under section 1407 which he would be entitled to use if—
+The retired pay multiplier or retainer pay multiplier prescribed in section 1409 for the sum of—
+
+
+  (1) he were retiring upon release from that active duty; or
+ 
+  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and
+
+
+  (2) he were transferring to the Fleet Reserve or Fleet Marine Corps Reserve upon that release from active duty.
+  (2) his years of active service after becoming entitled to retired pay or retainer pay.
+
+
+
+
+
+
+
+
+(b)
+ 
+New Disability Incurred During Later Active Duty
+.—
+A member of an armed force who first became a member of a uniformed service after 
+September 7, 1980
+, who has been retired other than for physical disability and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+
+(c)
+ 
+Additional or Aggravated Disability Incurred During Later Active Duty
+.—
+A member of an armed force who first became a member of a uniformed service after 
+September 7, 1980
+, and who—
+(1)
+ was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
+
+
+
+
+(2)
+ incurs, while on active duty after retirement or after his name was placed on the temporary disability retired list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on that list; and
+
+
+
+
+(3)
+ is qualified under section 1201, 1202, 1204, or 1205 of this title;
+
+
+
+
+
+is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+
+(d)
+ 
+Computation for Later Disability
+.—
+A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under 
+section 1401a of this title
+ after he initially became entitled to that pay, or (2) retired pay computed according to the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column 1
+ 
+Take
+Column 2
+ 
+Multiply by
+Column 3
+ 
+Add
+
+
+
+
+
+
+1
+ Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+
+
+
+
+
+
+
+
+The retired pay base computed under 
+section 1407(b) of this title
+.
+As member elects—
+  (1) 2½ percent of years of service credited under 
+section 1208 of this title
+; 
+1
+ or
+  (2) the highest percentage of disability, not to exceed 75 percent, attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be.
+Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list.
+
+
+
+
+
+
+
+
+(e)
+ 
+Alternative Recomputation to Subsection
+ (a) 
+Formula
+.—
+Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from that active duty, to have his retired pay or retainer pay—
+(1)
+ computed according to the formula set forth in subsection (a) but using the monthly retired pay base under which his retired pay or retainer pay was computed when he entered on that active duty; and
+
+
+
+
+(2)
+ increased by any applicable adjustments in that pay under 
+section 1401a of this title
+ after he initially became entitled to that pay.
+
+
+
+
+(f)
+ 
+Additional
+ 10 
+Percent for Certain Enlisted Members Credited With Extraordinary Heroism
+.—
+(1)
+ In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
+
+
+
+
+(2)
+ The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the retired pay base upon which the recomputation of such retired pay is based.
+
+
+
+
+(3)
+ The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
+
+
+
+
+ Disability retired pay: treatment under Internal Revenue Code of 1986
+That part of the retired pay of a member of an armed force, computed under formula No. 1 or 2 of section 1401, or under section 1402(d) or 1402a(d) of this title on the basis of years of service, which exceeds the retired pay that he would receive if it were computed on the basis of percentage of disability is not considered as a pension, annuity, or similar allowance for personal injury, or sickness, resulting from active service in the armed forces, under section 104(a) of the Internal Revenue Code of 1986.
+ Applicability of 
+The retirement provisions of this title are subject to 
+ Years of service
+(a)
+ 
+In General
+.—
+For the purposes of the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
+(1)
+ his years of active service;
+
+
+
+
+(2)
+ the years of service, not included in clause (1), with which he was entitled to be credited on 
+May 31, 1958
+, in computing his basic pay; and
+
+
+
+
+(3)
+ the years of service, not included in clause (1) or (2), with which he would be entitled to be credited under 
+section 12733 of this title
+ if he were entitled to retired pay under 
+section 12731 of this title
+.
+
+
+
+
+(b)
+ 
+Fractional Years of Service
+.—
+In determining a member’s years of service under subsection (a)—
+(1)
+ each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 
+1
+⁄
+12
+ of a year; and
+
+
+
+
+(2)
+ any remaining fractional part of a month shall be disregarded.
+
+
+
+
+(c)
+ 
+Exclusion of Time Required To Be Made Up or Excluded
+.—
+(1)
+ Time required to be made up by an enlisted member of the Army or Air Force under 
+section 972(a) of this title
+, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after 
+October 5, 1994
+, may not be counted in determining years of service under subsection (a).
+
+
+
+
+(2)
+ 
+Section 972(b) of this title
+ excludes from computation of an officer’s years of service for purposes of this section any time identified with respect to that officer under that section.
+
+
+
+
+ Retired pay base for members who first became members before 
+(a)
+ Use of Retired Pay Base in Computing Retired Pay.—
+(1)
+ 
+General rule
+.—
+The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service before 
+September 8, 1980
+, is computed using the retired pay base or retainer pay base determined under this section.
+
+
+
+
+(2)
+ 
+Exception for recomputation
+.—
+Recomputation of retired or retainer pay to reflect later active duty is provided for under 
+section 1402 of this title
+ without reference to a retired pay base or retainer pay base.
+
+
+
+
+(b)
+ Retirement Under Subtitle A or E.—
+(1)
+ 
+Disability, warrant officer, and dopma retirement
+.—
+In the case of a person whose retired pay is computed under this subtitle, the retired pay base is determined in accordance with the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For a member entitled to
+retired pay under section:
+The retired pay base is:
+
+
+
+
+
+
+1
+ Compute at rates applicable on date of retirement or date when member’s name was placed on temporary disability retired list, as the case may be.
+
+
+
+
+
+
+2
+ Compute at rates applicable on date of retirement.
+
+
+
+
+
+
+3
+ For the purposes of this subsection, determine member’s retired grade as if sections 3962 and 8962 did not apply.
+
+
+
+
+
+
+
+
+1201
+1202
+1204
+1205
+Monthly basic pay 
+1
+ of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher.
+
+
+ 580
+1263
+1293
+1305
+Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade.
+
+
+ 633
+ 634
+ 635
+ 636
+1251
+1252
+1253
+Monthly basic pay 
+2
+ of member’s retired grade.
+3
+
+
+
+
+
+
+
+
+
+
+(2)
+ 
+Non-regular service retirement
+.—
+In the case of a person who is entitled to retired pay under 
+section 12731 of this title
+, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under 
+section 12741(a) of this title
+, at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with 
+section 1370(d) of this title
+.
+
+
+
+
+(c)
+ Voluntary Retirement for Members of the Army.—
+(1)
+ 
+In general
+.—
+In the case of a member whose retired pay is computed under 
+section 3991 of this title
+ or who is entitled to retired pay computed under 
+section 3992 of this title
+, the retired pay base is determined in accordance with the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For a member entitled to
+retired pay under section:
+The retired pay base is:
+
+
+
+
+
+
+1
+ For the purposes of this subsection, determine member’s retired grade as if section 3962 did not apply.
+
+
+
+
+
+
+
+
+3911
+3918
+3920
+3924
+Monthly basic pay of member’s retired grade.
+1
+
+
+3914
+3917
+Monthly basic pay to which member was entitled on day before he retired.
+
+
+3992
+Monthly basic pay of grade to which member is advanced on retired list.
+
+
+
+
+
+
+
+
+
+
+(2)
+ 
+Rate of basic pay to be used
+.—
+The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
+
+
+
+
+(d)
+ 
+Retirement for Members of the Navy and Marine Corps
+.—
+In the case of a member whose retired pay is computed under 
+section 6333 of this title
+, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under 
+section 6330 of this title
+, the retired pay base or retainer pay base is determined in accordance with the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For a member entitled to
+retired or retainer pay under section:
+The retired pay base or
+retainer pay base is:
+
+
+
+
+
+
+1
+ If the rate specified is less than the pay of any warrant officer grade satisfactorily held by the member on active duty, use the monthly basic pay of that warrant officer grade.
+
+
+
+
+
+
+
+
+6323  
+6325(a)
+6383  
+Basic pay of the grade in which the member retired.
+1
+
+
+6325(b)
+Basic pay of the grade the officer would hold if he had not received an appointment described in section 6325(b).
+
+
+6326  
+Basic pay of the pay grade in which the member was serving on the day before retirement.
+
+
+6330  
+Basic pay that the member received at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
+
+
+6151  
+Basic pay of the grade to which the member is advanced under section 6151.
+
+
+6334 
+Basic pay of the grade to which the member is advanced under section 6334.
+
+
+
+
+
+
+
+
+(e)
+ Voluntary Retirement for Members of the Air Force.—
+(1)
+ 
+In general
+.—
+In the case of a member whose retired pay is computed under 
+section 8991 of this title
+ or who is entitled to retired pay computed under 
+section 8992 of this title
+, the retired pay base is determined in accordance with the following table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For a member entitled to
+retired pay under section:
+The retired pay base is:
+
+
+
+
+
+
+1
+ For the purposes of this subsection, determine member’s retired grade as if section 8962 did not apply.
+
+
+
+
+
+
+
+
+8911
+8918
+8920
+8924
+Monthly basic pay of member’s retired grade.
+1
+
+
+8914
+8917
+Monthly basic pay to which member was entitled on day before he retired.
+
+
+8992
+Monthly basic pay of grade to which member is advanced on retired list.
+
+
+
+
+
+
+
+
+
+
+(2)
+ 
+Rate of basic pay to be used
+.—
+The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
+
+
+
+
+(f)
+ 
+Coast Guard
+.—
+In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under 
+section 423(a) of title 14
+ in the manner provided in that section.
+
+
+(g)
+ 
+Commissioned Corps of National Oceanic and Atmospheric Administration
+.—
+In the case of an officer whose retired pay is computed under section 245 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (
+33 U.S.C. 3045
+), the retired pay base is the basic pay of the rank with which the officer retired.
+
+
+(h)
+ 
+Commissioned Corps of Public Health Service
+.—
+In the case of an officer who is retired under section 210(g) or 211(a) of the Public Health Service Act (
+42 U.S.C. 211(g)
+, 212(a)), the retired pay base is determined as follows:
+(1)
+ 
+Mandatory retirement
+.—
+If the officer is retired under section 210(g) of such Act, the retired pay base is the basic pay of the permanent grade held by the officer at the time of retirement.
+
+
+
+
+(2)
+ 
+Voluntary retirement
+.—
+If the officer is retired under section 211(a) of such Act, the retired pay base is the basic pay of the highest grade held by the officer and in which, in the case of a temporary promotion to such grade, the officer has performed active duty for not less than six months.
+
+
+
+
+(i)
+ Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, Commanders of Combatant Commands, and Senior Enlisted Members.—
+(1)
+ 
+In general
+.—
+For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as a commander of a unified or specified combatant command (as defined in 
+section 161(c) of this title
+), or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
+
+
+
+
+(2)
+ 
+Exception for members reduced in grade or who do not serve satisfactorily
+.—
+Paragraph (1) does not apply in the case of a member who, while or after serving in a position specified in that paragraph and by reason of conduct occurring after 
+October 16, 1998
+—
+(A)
+ in the case of an enlisted member, is reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or other administrative process; or
+
+
+
+
+(B)
+ in the case an officer, is not certified by the Secretary of Defense under 
+section 1370(c) of this title
+ as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
+
+
+
+
+
+
+(3)
+ 
+Definitions
+.—
+In this subsection:
+(A)
+ The term “Chief of Service” means any of the following:
+(i)
+ Chief of Staff of the Army.
+
+
+
+
+(ii)
+ Chief of Naval Operations.
+
+
+
+
+(iii)
+ Chief of Staff of the Air Force.
+
+
+
+
+(iv)
+ Commandant of the Marine Corps.
+
+
+
+
+(v)
+ Commandant of the Coast Guard.
+
+
+
+
+
+
+(B)
+ The term “senior enlisted member” means any of the following:
+(i)
+ Sergeant Major of the Army.
+
+
+
+
+(ii)
+ Master Chief Petty Officer of the Navy.
+
+
+
+
+(iii)
+ Chief Master Sergeant of the Air Force.
+
+
+
+
+(iv)
+ Sergeant Major of the Marine Corps.
+
+
+
+
+(v)
+ Master Chief Petty Officer of the Coast Guard.
+
+
+
+
+(vi)
+ Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
+
+
+
+
+
+
+
+
+ Retired pay base for members who first became members after 
+(a)
+ 
+Use of Retired Pay Base in Computing Retired Pay
+.—
+The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service after 
+September 7, 1980
+, is computed using the retired pay base or retainer pay base determined under this section.
+
+
+(b)
+ 
+High-Three Average
+.—
+Except as provided in subsection (f), the retired pay base or retainer pay base of a person under this section is the person’s high-three average determined under subsection (c) or (d).
+
+
+(c)
+ Computation of High-Three Average for Members Entitled to Retired or Retainer Pay for Regular Service.—
+(1)
+ 
+General rule
+.—
+The high-three average of a member entitled to retired or retainer pay under any provision of law other than section 1204 or 1205 or 
+section 12731 of this title
+ is the amount equal to—
+(A)
+ the total amount of monthly basic pay to which the member was entitled for the 36 months (whether or not consecutive) out of all the months of active service of the member for which the monthly basic pay to which the member was entitled was the highest, divided by
+
+
+
+
+(B)
+ 36.
+
+
+
+
+
+
+(2)
+ 
+Special rule for short-term disability retirees
+.—
+In the case of a member who is entitled to retired pay under section 1201 or 1202 of this title and who has completed less than 36 months of active service, the member’s high-three average (notwithstanding paragraph (1)) is the amount equal to—
+(A)
+ the total amount of basic pay to which the member was entitled during the period of the member’s active service, divided by
+
+
+
+
+(B)
+ the number of months (including any fraction thereof) of the member’s active service.
+
+
+
+
+
+
+(3)
+ 
+Special Rule for Reserve Component Members
+.—
+In the case of a member of a reserve component who is entitled to retired pay under section 1201 or 1202 of this title, the member’s high-three average (notwithstanding paragraphs (1) and (2)) is computed in the same manner as prescribed in paragraphs (2) and (3) of subsection (d) for a member entitled to retired pay under section 1204 or 1205 of this title.
+
+
+
+
+(d)
+ Computation of High-Three Average for Members and Former Members Entitled to Retired Pay for Nonregular Service.—
+(1)
+ 
+Retired pay under chapter 1223
+.—
+The high-three average of a member or former member entitled to retired pay under 
+section 12731 of this title
+ is the amount equal to—
+(A)
+ the total amount of monthly basic pay to which the member or former member was entitled during the member or former member’s high-36 months (or to which the member or former member would have been entitled if the member or former member had served on active duty during the entire period of the member or former member’s high-36 months), divided by
+
+
+
+
+(B)
+ 36.
+
+
+
+
+
+
+(2)
+ 
+Nonregular service disability retired pay
+.—
+The high-three average of a member entitled to retired pay under section 1204 or 1205 of this title is the amount equal to—
+(A)
+ the total amount of monthly basic pay to which the member was entitled during the member’s high-36 months (or to which the member would have been entitled if the member had served on active duty during the entire period of the member’s high-36 months), divided by
+
+
+
+
+(B)
+ 36.
+
+
+
+
+
+
+(3)
+ 
+Special rule for short-term disability retirees
+.—
+In the case of a member who is entitled to retired pay under section 1204 or 1205 of this title and who was a member for less than 36 months before being retired under that section, the member’s high-three average (notwithstanding paragraph (2)) is the amount equal to—
+(A)
+ the total amount of basic pay to which the member was entitled during the entire period the member was a member of a uniformed service before being so retired (or to which the member would have been entitled if the member had served on active duty during the entire period the member was a member of a uniformed service before being so retired), divided by
+
+
+
+
+(B)
+ the number of months (including any fraction thereof) which the member was a member before being so retired.
+
+
+
+
+
+
+(4)
+ 
+High-36 months
+.—
+The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under 
+section 12741(a) of this title
+, before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
+
+
+
+
+(e)
+ 
+Limitation for Enlisted Members Retiring With Less Than
+ 30 
+Years’ Service
+.—
+In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under 
+section 6330 of this title
+, the member’s high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
+
+
+(f)
+ 
+Exception for Enlisted Members Reduced in Grade and Officers Who Do Not Serve Satisfactorily in Highest Grade Held
+.—
+(1)
+ 
+Computation based on pre-high-three rules
+.—
+In the case of a member or former member described in paragraph (2), the retired pay base or retainer pay base is determined under 
+section 1406 of this title
+ in the same manner as if the member or former member first became a member of a uniformed service before 
+September 8, 1980
+.
+
+
+
+
+(2)
+ 
+Affected members
+.—
+A member or former member referred to in paragraph (1) is a member or former member who by reason of conduct occurring after 
+October 30, 2000
+—
+(A)
+ in the case of a member retired in an enlisted grade or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
+
+
+
+
+(B)
+ in the case of an officer, is retired in a grade lower than the highest grade in which served by reason of denial of a determination or certification under 
+section 1370 of this title
+ that the officer served on active duty satisfactorily in that grade.
+
+
+
+
+
+
+(3)
+ 
+Special rule for enlisted members
+.—
+In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member’s high-36 average for the period of the member’s service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
+
+
+
+
+ Retired pay base: officers retired in general or flag officer grades
+(a)
+ 
+Rates of Basic Pay to Be Used in Determination
+.—
+In a case in which the determination under section 1406 or 1407 of this title of the retired pay base applicable to the computation of the retired pay of a covered general or flag officer involves a rate of basic pay payable to that officer for any period that was subject to a reduction under 
+section 203(a)(2) of title 37
+ for such period, such retired-pay-base determination shall be made using the rate of basic pay for such period provided by law, rather than such rate as so reduced.
+
+
+(b)
+ 
+Covered General and Flag Officers
+.—
+In this section, the term “covered general or flag officer” means a member or former member who after 
+September 30, 2006
+, is retired in a general officer grade or flag officer grade.
+
+
+ Payment of retired or retainer pay in compliance with court orders
+(a)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “court” means—
+(A)
+ any court of competent jurisdiction of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;
+
+
+
+
+(B)
+ any court of the United States (as defined in 
+section 451 of title 28
+) having competent jurisdiction;
+
+
+
+
+(C)
+ any court of competent jurisdiction of a foreign country with which the United States has an agreement requiring the United States to honor any court order of such country; and
+
+
+
+
+(D)
+ any administrative or judicial tribunal of a State competent to enter orders for support or maintenance (including a State agency administering a program under a State plan approved under part D of title IV of the Social Security Act), and, for purposes of this subparagraph, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+
+
+
+
+
+
+(2)
+ The term “court order” means a final decree of divorce, dissolution, annulment, or legal separation issued by a court, or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution, annulment, or legal separation, or a court ordered, ratified, or approved property settlement incident to such previously issued decree), or a support order, as defined in section 453(p) of the Social Security Act (
+42 U.S.C. 653(p)
+), which—
+(A)
+ is issued in accordance with the laws of the jurisdiction of that court;
+
+
+
+
+(B)
+ provides for—
+(i)
+ payment of child support (as defined in section 459(i)(2) of the Social Security Act (
+42 U.S.C. 659(i)(2)
+));
+
+
+
+
+(ii)
+ payment of alimony (as defined in section 459(i)(3) of the Social Security Act (
+42 U.S.C. 659(i)(3)
+)); or
+
+
+
+
+(iii)
+ division of property (including a division of community property); and
+
+
+
+
+
+
+(C)
+ in the case of a division of property, specifically provides for the payment of an amount, expressed in dollars or as a percentage of disposable retired pay, from the disposable retired pay of a member to the spouse or former spouse of that member.
+
+
+
+
+
+
+(3)
+ The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for taking such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
+
+
+
+
+(4)
+ The term “disposable retired pay” means the total monthly retired pay to which a member is entitled less amounts which—
+(A)
+ are owed by that member to the United States for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay;
+
+
+
+
+(B)
+ are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required by law in order to receive compensation under title 5 or title 38;
+
+
+
+
+(C)
+ in the case of a member entitled to retired pay under chapter 61 of this title, are equal to the amount of retired pay of the member under that chapter computed using the percentage of the member’s disability on the date when the member was retired (or the date on which the member’s name was placed on the temporary disability retired list); or
+
+
+
+
+(D)
+ are deducted because of an election under chapter 73 of this title to provide an annuity to a spouse or former spouse to whom payment of a portion of such member’s retired pay is being made pursuant to a court order under this section.
+
+
+
+
+
+
+(5)
+ The term “member” includes a former member entitled to retired pay under 
+section 12731 of this title
+.
+
+
+
+
+(6)
+ The term “spouse or former spouse” means the husband or wife, or former husband or wife, respectively, of a member who, on or before the date of a court order, was married to that member.
+
+
+
+
+(7)
+ The term “retired pay” includes retainer pay.
+
+
+
+
+(b)
+ 
+Effective Service of Process
+.—
+For the purposes of this section—
+(1)
+ service of a court order is effective if—
+(A)
+ an appropriate agent of the Secretary concerned designated for receipt of service of court orders under regulations prescribed pursuant to subsection (i) or, if no agent has been so designated, the Secretary concerned, is personally served or is served by facsimile or electronic transmission or by mail;
+
+
+
+
+(B)
+ the court order is regular on its face;
+
+
+
+
+(C)
+ the court order or other documents served with the court order identify the member concerned and include, if possible, the social security number of such member; and
+
+
+
+
+(D)
+ the court order or other documents served with the court order certify that the rights of the member under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.) were observed; and
+
+
+
+
+
+
+(2)
+ a court order is regular on its face if the order—
+(A)
+ is issued by a court of competent jurisdiction;
+
+
+
+
+(B)
+ is legal in form; and
+
+
+
+
+(C)
+ includes nothing on its face that provides reasonable notice that it is issued without authority of law.
+
+
+
+
+
+
+(c)
+ 
+Authority for Court To Treat Retired Pay as Property of the Member and Spouse
+.—
+(1)
+ Subject to the limitations of this section, a court may treat disposable retired pay payable to a member for pay periods beginning after 
+June 25, 1981
+, either as property solely of the member or as property of the member and his spouse in accordance with the law of the jurisdiction of such court. A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member’s spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member’s spouse or former spouse (A) was issued before 
+June 25, 1981
+, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member’s spouse or former spouse.
+
+
+
+
+(2)
+ Notwithstanding any other provision of law, this section does not create any right, title, or interest which can be sold, assigned, transferred, or otherwise disposed of (including by inheritance) by a spouse or former spouse. Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member’s spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services.
+
+
+
+
+(3)
+ This section does not authorize any court to order a member to apply for retirement or retire at a particular time in order to effectuate any payment under this section.
+
+
+
+
+(4)
+ A court may not treat the disposable retired pay of a member in the manner described in paragraph (1) unless the court has jurisdiction over the member by reason of (A) his residence, other than because of military assignment, in the territorial jurisdiction of the court, (B) his domicile in the territorial jurisdiction of the court, or (C) his consent to the jurisdiction of the court.
+
+
+
+
+(d)
+ 
+Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse
+.—
+(1)
+ After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (
+42 U.S.C. 608(a)(4)
+),
+1
+1
+ See References in Text note below.
+ assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
+
+
+
+
+(2)
+ If the spouse or former spouse to whom payments are to be made under this section was not married to the member for a period of 10 years or more during which the member performed at least 10 years of service creditable in determining the member’s eligibility for retired pay, payments may not be made under this section to the extent that they include an amount resulting from the treatment by the court under subsection (c) of disposable retired pay of the member as property of the member or property of the member and his spouse.
+
+
+
+
+(3)
+ Payments under this section shall not be made more frequently than once each month, and the Secretary concerned shall not be required to vary normal pay and disbursement cycles for retired pay in order to comply with a court order.
+
+
+
+
+(4)
+ Payments from the disposable retired pay of a member pursuant to this section shall terminate in accordance with the terms of the applicable court order, but not later than the date of the death of the member or the date of the death of the spouse or former spouse to whom payments are being made, whichever occurs first.
+
+
+
+
+(5)
+ If a court order described in paragraph (1) provides for a division of property (including a division of community property) in addition to an amount of child support or alimony or the payment of an amount of disposable retired pay as the result of the court’s treatment of such pay under subsection (c) as property of the member and his spouse, the Secretary concerned shall pay (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse of the member, any part of the amount payable to the spouse or former spouse under the division of property upon effective service of a final court order of garnishment of such amount from such retired pay.
+
+
+
+
+(6)
+ In the case of a court order for which effective service is made on the Secretary concerned on or after 
+August 22, 1996
+, and which provides for payments from the disposable retired pay of a member to satisfy the amount of child support set forth in the order, the authority provided in paragraph (1) to make payments from the disposable retired pay of a member to satisfy the amount of child support set forth in a court order shall apply to payment of any amount of child support arrearages set forth in that order as well as to amounts of child support that currently become due.
+
+
+
+
+(7)
+(A)
+ The Secretary concerned may not accept service of a court order that is an out-of-State modification, or comply with the provisions of such a court order, unless the court issuing that order has jurisdiction in the manner specified in subsection (c)(4) over both the member and the spouse or former spouse involved.
+
+
+
+
+(B)
+ A court order shall be considered to be an out-of-State modification for purposes of this paragraph if the order—
+(i)
+ modifies a previous court order under this section upon which payments under this subsection are based; and
+
+
+
+
+(ii)
+ is issued by a court of a State other than the State of the court that issued the previous court order.
+
+
+
+
+
+
+
+
+(e)
+ 
+Limitations
+.—
+(1)
+ The total amount of the disposable retired pay of a member payable under all court orders pursuant to subsection (c) may not exceed 50 percent of such disposable retired pay.
+
+
+
+
+(2)
+ In the event of effective service of more than one court order which provide for payment to a spouse and one or more former spouses or to more than one former spouse, the disposable retired pay of the member shall be used to satisfy (subject to the limitations of paragraph (1)) such court orders on a first-come, first-served basis. Such court orders shall be satisfied (subject to the limitations of paragraph (1)) out of that amount of disposable retired pay which remains after the satisfaction of all court orders which have been previously served.
+
+
+
+
+(3)
+(A)
+ In the event of effective service of conflicting court orders under this section which assert to direct that different amounts be paid during a month to the same spouse or former spouse of the same member, the Secretary concerned shall—
+(i)
+ pay to that spouse from the member’s disposable retired pay the least amount directed to be paid during that month by any such conflicting court order, but not more than the amount of disposable retired pay which remains available for payment of such court orders based on when such court orders were effectively served and the limitations of paragraph (1) and subparagraph (B) of paragraph (4);
+
+
+
+
+(ii)
+ retain an amount of disposable retired pay that is equal to the lesser of—
+(I)
+ the difference between the largest amount required by any conflicting court order to be paid to the spouse or former spouse and the amount payable to the spouse or former spouse under clause (i); and
+
+
+
+
+(II)
+ the amount of disposable retired pay which remains available for payment of any conflicting court order based on when such court order was effectively served and the limitations of paragraph (1) and subparagraph (B) of paragraph (4); and
+
+
+
+
+
+
+(iii)
+ pay to that member the amount which is equal to the amount of that member’s disposable retired pay (less any amount paid during such month pursuant to legal process served under section 459 of the Social Security Act (
+42 U.S.C. 659
+) and any amount paid during such month pursuant to court orders effectively served under this section, other than such conflicting court orders) minus—
+(I)
+ the amount of disposable retired pay paid under clause (i); and
+
+
+
+
+(II)
+ the amount of disposable retired pay retained under clause (ii).
+
+
+
+
+
+
+
+
+(B)
+ The Secretary concerned shall hold the amount retained under clause (ii) of subparagraph (A) until such time as that Secretary is provided with a court order which has been certified by the member and the spouse or former spouse to be valid and applicable to the retained amount. Upon being provided with such an order, the Secretary shall pay the retained amount in accordance with the order.
+
+
+
+
+
+
+(4)
+(A)
+ In the event of effective service of a court order under this section and the service of legal process pursuant to section 459 of the Social Security Act (
+42 U.S.C. 659
+), both of which provide for payments during a month from the same member, satisfaction of such court orders and legal process from the retired pay of the member shall be on a first-come, first-served basis. Such court orders and legal process shall be satisfied out of moneys which are subject to such orders and legal process and which remain available in accordance with the limitations of paragraph (1) and subparagraph (B) of this paragraph during such month after the satisfaction of all court orders or legal process which have been previously served.
+
+
+
+
+(B)
+ Notwithstanding any other provision of law, the total amount of the disposable retired pay of a member payable by the Secretary concerned under all court orders pursuant to this section and all legal processes pursuant to section 459 of the Social Security Act (
+42 U.S.C. 659
+) with respect to a member may not exceed 65 percent of the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act (
+42 U.S.C. 662
+) to be remuneration for employment that is payable by the United States.
+
+
+
+
+
+
+(5)
+ A court order which itself or because of previously served court orders provides for the payment of an amount which exceeds the amount of disposable retired pay available for payment because of the limit set forth in paragraph (1), or which, because of previously served court orders or legal process previously served under section 459 of the Social Security Act (
+42 U.S.C. 659
+), provides for payment of an amount that exceeds the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4), shall not be considered to be irregular on its face solely for that reason. However, such order shall be considered to be fully satisfied for purposes of this section by the payment to the spouse or former spouse of the maximum amount of disposable retired pay permitted under paragraph (1) and subparagraph (B) of paragraph (4).
+
+
+
+
+(6)
+ Nothing in this section shall be construed to relieve a member of liability for the payment of alimony, child support, or other payments required by a court order on the grounds that payments made out of disposable retired pay under this section have been made in the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4). Any such unsatisfied obligation of a member may be enforced by any means available under law other than the means provided under this section in any case in which the maximum amount permitted under paragraph (1) has been paid and under section 459 of the Social Security Act (
+42 U.S.C. 659
+) in any case in which the maximum amount permitted under subparagraph (B) of paragraph (4) has been paid.
+
+
+
+
+(f)
+ 
+Immunity of Officers and Employees of United States
+.—
+(1)
+ The United States and any officer or employee of the United States shall not be liable with respect to any payment made from retired pay to any member, spouse, or former spouse pursuant to a court order that is regular on its face if such payment is made in accordance with this section and the regulations prescribed pursuant to subsection (i).
+
+
+
+
+(2)
+ An officer or employee of the United States who, under regulations prescribed pursuant to subsection (i), has the duty to respond to interrogatories shall not be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or because of, any disclosure of information made by him in carrying out any of his duties which directly or indirectly pertain to answering such interrogatories.
+
+
+
+
+(g)
+ 
+Notice to Member of Service of Court Order on Secretary Concerned
+.—
+A person receiving effective service of a court order under this section shall, as soon as possible, but not later than 30 days after the date on which effective service is made, send a written notice of such court order (together with a copy of such order) to the member affected by the court order at his last known address.
+
+
+(h)
+ 
+Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Retired Pay
+.—
+(1)
+(A)
+ If, in the case of a member or former member of the armed forces referred to in paragraph (2)(A), a court order provides (in the manner applicable to a division of property) for the payment of an amount from the disposable retired pay of that member or former member (as certified under paragraph (4)) to an eligible spouse or former spouse of that member or former member, the Secretary concerned, beginning upon effective service of such court order, shall pay that amount in accordance with this subsection to such spouse or former spouse.
+
+
+
+
+(B)
+ If, in the case of a member or former member of the armed forces referred to in paragraph (2)(A), a court order provides for the payment as child support of an amount from the disposable retired pay of that member or former member (as certified under paragraph (4)) to an eligible dependent child of the member or former member, the Secretary concerned, beginning upon effective service of such court order, shall pay that amount in accordance with this subsection to such dependent child.
+
+
+
+
+
+
+(2)
+ A spouse or former spouse, or a dependent child, of a member or former member of the armed forces is eligible to receive payment under this subsection if—
+(A)
+ the member or former member, while a member of the armed forces and after becoming eligible to be retired from the armed forces on the basis of years of service, has eligibility to receive retired pay terminated as a result of misconduct while a member involving abuse of a spouse or dependent child (as defined in regulations prescribed by the Secretary of Defense or, for the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Security);
+
+
+
+
+(B)
+ in the case of eligibility of a spouse or former spouse under paragraph (1)(A), the spouse or former spouse—
+(i)
+ was the victim of the abuse and was married to the member or former member at the time of that abuse; or
+
+
+
+
+(ii)
+ is a natural or adopted parent of a dependent child of the member or former member who was the victim of the abuse; and
+
+
+
+
+
+
+(C)
+ in the case of eligibility of a dependent child under paragraph (1)(B), the other parent of the child died as a result of the misconduct that resulted in the termination of retired pay.
+
+
+
+
+
+
+(3)
+ The amount certified by the Secretary concerned under paragraph (4) with respect to a member or former member of the armed forces referred to in paragraph (2)(A) shall be deemed to be the disposable retired pay of that member or former member for the purposes of this subsection.
+
+
+
+
+(4)
+ Upon the request of a court or an eligible spouse or former spouse, or an eligible dependent child, of a member or former member of the armed forces referred to in paragraph (2)(A) in connection with a civil action for the issuance of a court order in the case of that member or former member, the Secretary concerned shall determine and certify the amount of the monthly retired pay that the member or former member would have been entitled to receive as of the date of the certification—
+(A)
+ if the member or former member’s eligibility for retired pay had not been terminated as described in paragraph (2)(A); and
+
+
+
+
+(B)
+ if, in the case of a member or former member not in receipt of retired pay immediately before that termination of eligibility for retired pay, the member or former member had retired on the effective date of that termination of eligibility.
+
+
+
+
+
+
+(5)
+ A court order under this subsection may provide that whenever retired pay is increased under 
+section 1401a of this title
+ (or any other provision of law), the amount payable under the court order to the spouse or former spouse, or the dependent child, of a member or former member described in paragraph (2)(A) shall be increased at the same time by the percent by which the retired pay of the member or former member would have been increased if the member or former member were receiving retired pay.
+
+
+
+
+(6)
+ Notwithstanding any other provision of law, a member or former member of the armed forces referred to in paragraph (2)(A) shall have no ownership interest in, or claim against, any amount payable under this section to a spouse or former spouse, or to a dependent child, of the member or former member.
+
+
+
+
+(7)
+(A)
+ If a former spouse receiving payments under this subsection with respect to a member or former member referred to in paragraph (2)(A) marries again after such payments begin, the eligibility of the former spouse to receive further payments under this subsection shall terminate on the date of such marriage.
+
+
+
+
+(B)
+ A person’s eligibility to receive payments under this subsection that is terminated under subparagraph (A) by reason of remarriage shall be resumed in the event of the termination of that marriage by the death of that person’s spouse or by annulment or divorce. The resumption of payments shall begin as of the first day of the month in which that marriage is so terminated. The monthly amount of the payments shall be the amount that would have been paid if the continuity of the payments had not been interrupted by the marriage.
+
+
+
+
+
+
+(8)
+ Payments in accordance with this subsection shall be made out of funds in the Department of Defense Military Retirement Fund established by 
+section 1461 of this title
+ or, in the case of the Coast Guard, out of funds appropriated to the Department of Homeland Security for payment of retired pay for the Coast Guard.
+
+
+
+
+(9)
+(A)
+ A spouse or former spouse of a member or former member of the armed forces referred to in paragraph (2)(A), while receiving payments in accordance with this subsection, shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to receive any other benefit that a spouse or a former spouse of a retired member of the armed forces is entitled to receive on the basis of being a spouse or former spouse, as the case may be, of a retired member of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
+
+
+
+
+(B)
+ A dependent child of a member or former member referred to in paragraph (2)(A) who was a member of the household of the member or former member at the time of the misconduct described in paragraph (2)(A) shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to have other benefits provided to dependents of retired members of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
+
+
+
+
+(C)
+ If a spouse or former spouse or a dependent child eligible or entitled to receive a particular benefit under this paragraph is eligible or entitled to receive that benefit under another provision of law, the eligibility or entitlement of that spouse or former spouse or dependent child to such benefit shall be determined under such other provision of law instead of this paragraph.
+
+
+
+
+
+
+(10)
+(A)
+ For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effective upon the approval of that sentence by the person acting under 
+section 860(c) of this title
+ (article 60(c) of the Uniform Code of Military Justice).
+
+
+
+
+(B)
+ If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
+
+
+
+
+
+
+(11)
+ In this subsection, the term “dependent child”, with respect to a member or former member of the armed forces referred to in paragraph (2)(A), means an unmarried legitimate child, including an adopted child or a stepchild of the member or former member, who—
+(A)
+ is under 18 years of age;
+
+
+
+
+(B)
+ is incapable of self-support because of a mental or physical incapacity that existed before becoming 18 years of age and is dependent on the member or former member for over one-half of the child’s support; or
+
+
+
+
+(C)
+ if enrolled in a full-time course of study in an institution of higher education recognized by the Secretary of Defense for the purposes of this subparagraph, is under 23 years of age and is dependent on the member or former member for over one-half of the child’s support.
+
+
+
+
+
+
+(i)
+ 
+Certification Date
+.—
+It is not necessary that the date of a certification of the authenticity or completeness of a copy of a court order for child support received by the Secretary concerned for the purposes of this section be recent in relation to the date of receipt by the Secretary.
+
+
+(j)
+ 
+Regulations
+.—
+The Secretaries concerned shall prescribe uniform regulations for the administration of this section.
+
+
+(k)
+ 
+Relationship to Other Laws
+.—
+In any case involving an order providing for payment of child support (as defined in section 459(i)(2) of the Social Security Act) by a member who has never been married to the other parent of the child, the provisions of this section shall not apply, and the case shall be subject to the provisions of section 459 of such Act.
+
+
+“(a)
+ The amendments made by this title [amending this section and sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title and enacting provisions set out as notes under this section and 
+section 1401 of this title
+] shall take effect on the first day of the first month [February 1983] which begins more than one hundred and twenty days after the date of the enactment of this title [
+Sept. 8, 1982
+].
+
+
+“(b)
+ Subsection (d) of 
+section 1408 of title 10
+, United States Code, as added by section 1002(a), shall apply only with respect to payments of retired or retainer pay for periods beginning on or after the effective date of this title [
+Feb. 1, 1983
+, provided in subsec. (a)], but without regard to the date of any court order. However, in the case of a court order that became final before 
+June 26, 1981
+, payments under such subsection may only be made in accordance with such order as in effect on such date and without regard to any subsequent modifications.
+
+
+“(c)
+ The amendments made by 
+section 1003 of this title
+ [amending sections 1447, 1448, and 1450 of this title] shall apply to persons who become eligible to participate in the Survivor Benefit Plan provided for in subchapter II of chapter 73 of title 10, United States Code [section 1447 et seq. of this title], before, on, or after the effective date of such amendments.
+
+
+“(d)
+ The amendments made by 
+section 1004 of this title
+ [amending sections 1072, 1076, and 1086 of this title] and the provisions of 
+section 1005 of this title
+ [formerly set out as a note under this section] shall apply in the case of any former spouse of a member or former member of the uniformed services whether the final decree of divorce, dissolution, or annulment of the marriage of the former spouse and such member or former member is dated before, on, or after 
+February 1, 1983
+.
+
+
+“(e)
+ For the purposes of this section—
+“(1)
+ the term ‘court order’ has the same meaning as provided in 
+section 1408(a)(2) of title 10
+, United States Code (as added by 
+section 1002 of this title
+);
+
+
+
+
+“(2)
+ the term ‘former spouse’ has the same meaning as provided in section 1408(a)(6) of such title (as added by 
+section 1002 of this title
+); and
+
+
+
+
+“(3)
+ the term ‘uniformed services’ has the same meaning as provided in 
+section 1072 of title 10
+, United States Code.”
+
+
+
+
+ Retired pay multiplier
+(a)
+ 
+Retired Pay Multiplier for Regular-Service Nondisability Retirement
+.—
+In computing—
+(1)
+ the retired pay of a member of a uniformed service who is entitled to that pay under any provision of law other than—
+(A)
+ chapter 61 of this title (relating to retirement or separation for physical disability); or
+
+
+
+
+(B)
+ chapter 1223 of this title (relating to retirement for non-regular service); or
+
+
+
+
+
+
+(2)
+ the retainer pay of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under 
+section 6330 of this title
+,
+
+
+
+
+
+the retired pay multiplier (or retainer pay multiplier) is the percentage determined under subsection (b).
+
+
+(b)
+ Percentage.—
+(1)
+ 
+General rule
+.—
+Subject to paragraphs (2) and (3), the percentage to be used under subsection (a) is the product (stated as a percentage) of—
+(A)
+ 2½, and
+
+
+
+
+(B)
+ the member’s years of creditable service (as defined in subsection (c)).
+
+
+
+
+
+
+(2)
+ 
+Reduction applicable to certain new-retirement members with less than 30 years of service
+.—
+In the case of a member who first became a member of a uniformed service after 
+July 31, 1986
+, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or 
+section 354 of title 37
+, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
+(A)
+ 1 percentage point for each full year that the member’s years of creditable service are less than 30; and
+
+
+
+
+(B)
+ 
+1
+⁄
+12
+ of 1 percentage point for each month by which the member’s years of creditable service (after counting all full years of such service) are less than a full year.
+
+
+
+
+
+
+(3)
+ 30 years of service.—
+(A)
+ 
+Retirement before 
+january 1, 2007
+.—
+In the case of a member who retires before 
+January 1, 2007
+, with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.
+
+
+
+
+(B)
+ 
+Retirement after 
+december 31, 2006
+.—
+In the case of a member who retires after 
+December 31, 2006
+, with more than 30 years of creditable service, the percentage to be used under subsection (a) is the sum of—
+(i)
+ 75 percent; and
+
+
+
+
+(ii)
+ the product (stated as a percentage) of—
+(I)
+ 2½; and
+
+
+
+
+(II)
+ the member’s years of creditable service (as defined in subsection (c)) in excess of 30 years of creditable service, under conditions authorized for purposes of this subparagraph during a period designated by the Secretary of Defense for purposes of this subparagraph.
+
+
+
+
+
+
+
+
+
+
+(c)
+ 
+Years of Creditable Service Defined
+.—
+In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member’s retired or retainer pay (including 
+1
+⁄
+12
+ of a year for each full month of service that is in addition to the number of full years of service of the member).
+
+
+ Restoral of full retirement amount at age 62 for certain members entering on or after 
+ Rules of construction
+(a)
+ 
+Construction of “First Became a Member”
+.—
+For purposes of this chapter and other provisions of law providing for computation of retired or retainer pay of members of the uniformed services, a person shall be considered to first become a member of a uniformed service on the date the person is first enlisted, inducted, or appointed in a uniformed service.
+
+
+(b)
+ 
+References in Tables
+.—
+Section references in tables in this chapter are to sections of this title.
+
+
+ Administrative provisions
+(a)
+ 
+Rounding
+.—
+Amounts computed under this chapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+
+
+(b)
+ 
+Payment Date
+.—
+Amounts of retired pay and retainer pay due a retired member of the uniformed services shall be paid on the first day of each month beginning after the month in which the right to such pay accrues.
+
+
+ Repealed. 
+ Combat-related special compensation
+(a)
+ 
+Authority
+.—
+The Secretary concerned shall pay to each eligible combat-related disabled uniformed services retiree who elects benefits under this section a monthly amount for the combat-related disability of the retiree determined under subsection (b).
+
+
+(b)
+ Amount.—
+(1)
+ 
+Determination of monthly amount
+.—
+Subject to paragraphs (2) and (3), the monthly amount to be paid an eligible combat-related disabled uniformed services retiree under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.
+
+
+
+
+(2)
+ 
+Maximum amount
+.—
+The amount paid to an eligible combat-related disabled uniformed services retiree for any month under paragraph (1) may not exceed the amount of the reduction in retired pay that is applicable to the retiree for that month under sections 5304 and 5305 of title 38.
+
+
+
+
+(3)
+ 
+Special rules for chapter
+ 61 
+disability retirees
+.—
+(A)
+ 
+General rule
+.—
+In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
+
+
+
+
+(B)
+ 
+Special rule for retirees with fewer than 20 years of service
+.—
+In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+
+
+
+
+
+
+(c)
+ 
+Eligible Retirees
+.—
+For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services who—
+(1)
+ is entitled to retired pay (other than by reason of 
+section 12731b of this title
+); and
+
+
+
+
+(2)
+ has a combat-related disability.
+
+
+
+
+(d)
+ 
+Procedures
+.—
+The Secretary of Defense shall prescribe procedures and criteria under which a disabled uniformed services retiree may apply to the Secretary of a military department to be considered to be an eligible combat-related disabled uniformed services retiree. Such procedures shall apply uniformly throughout the Department of Defense.
+
+
+(e)
+ 
+Combat-Related Disability
+.—
+In this section, the term “combat-related disability” means a disability that is compensable under the laws administered by the Secretary of Veterans Affairs and that—
+(1)
+ is attributable to an injury for which the member was awarded the Purple Heart; or
+
+
+
+
+(2)
+ was incurred (as determined under criteria prescribed by the Secretary of Defense)—
+(A)
+ as a direct result of armed conflict;
+
+
+
+
+(B)
+ while engaged in hazardous service;
+
+
+
+
+(C)
+ in the performance of duty under conditions simulating war; or
+
+
+
+
+(D)
+ through an instrumentality of war.
+
+
+
+
+
+
+(f)
+ 
+Coordination With Concurrent Receipt Provision
+.—
+Subsection (d) of 
+section 1414 of this title
+ provides for coordination between benefits under that section and under this section.
+
+
+(g)
+ 
+Status of Payments
+.—
+Payments under this section are not retired pay.
+
+
+(h)
+ 
+Source of Payments
+.—
+Payments under this section for a member of the Army, Navy, Air Force, or Marine Corps shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
+
+
+(i)
+ 
+Other Definitions
+.—
+In this section:
+(1)
+ The term “service-connected” has the meaning given such term in 
+section 101 of title 38
+.
+
+
+
+
+(2)
+ The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
+
+
+
+
+ Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation
+(a)
+ Payment of Both Retired Pay and Compensation.—
+(1)
+ 
+In general
+.—
+Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans’ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a “qualified retiree”) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on 
+January 1, 2004
+, and ending on 
+December 31, 2013
+, payment of retired pay to such a qualified retiree is subject to subsection (c), except that payment of retired pay is subject to subsection (c) only during the period beginning on 
+January 1, 2004
+, and ending on 
+December 31, 2004
+, in the case of the following:
+(A)
+ A qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent.
+
+
+
+
+(B)
+ A qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability.
+
+
+
+
+
+
+(2)
+ 
+Qualifying service-connected disability
+.—
+In this section, the term “qualifying service-connected disability” means a service-connected disability or combination of service-connected disabilities that is rated as not less than 50 percent disabling by the Secretary of Veterans Affairs.
+
+
+
+
+(b)
+ 
+Special Rules for Chapter
+ 61 Disability Retirees.—
+(1)
+ 
+Career retirees
+.—
+The retired pay of a member retired under chapter 61 of this title with 20 years or more of service otherwise creditable under 
+section 1405 of this title
+, or at least 20 years of service computed under 
+section 12732 of this title
+, at the time of the member’s retirement is subject to reduction under sections 5304 and 5305 of title 38, but only to the extent that the amount of the member’s retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
+
+
+
+
+(2)
+ 
+Disability retirees with less than 20 years of service
+.—
+Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of service otherwise creditable under 
+section 1405 of this title
+, or with less than 20 years of service computed under 
+section 12732 of this title
+, at the time of the member’s retirement.
+
+
+
+
+(c)
+ 
+Phase-in of Full Concurrent Receipt
+.—
+During the period beginning on 
+January 1, 2004
+, and ending on 
+December 31, 2013
+, retired pay payable to a qualified retiree that pursuant to the second sentence of subsection (a)(1) is subject to this subsection shall be determined as follows:
+(1)
+ 
+Calendar year 2004
+.—
+For a month during 2004, the amount of retired pay payable to a qualified retiree is the amount (if any) of retired pay in excess of the current baseline offset plus the following:
+(A)
+ For a month for which the retiree receives veterans’ disability compensation for a disability rated as total, $750.
+
+
+
+
+(B)
+ For a month for which the retiree receives veterans’ disability compensation for a disability rated as 90 percent, $500.
+
+
+
+
+(C)
+ For a month for which the retiree receives veterans’ disability compensation for a disability rated as 80 percent, $350.
+
+
+
+
+(D)
+ For a month for which the retiree receives veterans’ disability compensation for a disability rated as 70 percent, $250.
+
+
+
+
+(E)
+ For a month for which the retiree receives veterans’ disability compensation for a disability rated as 60 percent, $125.
+
+
+
+
+(F)
+ For a month for which the retiree receives veterans’ disability compensation for a disability rated as 50 percent, $100.
+
+
+
+
+
+
+(2)
+ 
+Calendar year 2005
+.—
+For a month during 2005, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount specified in paragraph (1) for that qualified retiree; and
+
+
+
+
+(B)
+ 10 percent of the difference between (i) the current baseline offset, and (ii) the amount specified in paragraph (1) for that member’s disability.
+
+
+
+
+
+
+(3)
+ 
+Calendar year 2006
+.—
+For a month during 2006, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (2) for that qualified retiree; and
+
+
+
+
+(B)
+ 20 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (2) for that qualified retiree.
+
+
+
+
+
+
+(4)
+ 
+Calendar year 2007
+.—
+For a month during 2007, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (3) for that qualified retiree; and
+
+
+
+
+(B)
+ 30 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (3) for that qualified retiree.
+
+
+
+
+
+
+(5)
+ 
+Calendar year 2008
+.—
+For a month during 2008, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (4) for that qualified retiree; and
+
+
+
+
+(B)
+ 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
+
+
+
+
+
+
+(6)
+ 
+Calendar year 2009
+.—
+For a month during 2009, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (5) for that qualified retiree; and
+
+
+
+
+(B)
+ 50 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (5) for that qualified retiree.
+
+
+
+
+
+
+(7)
+ 
+Calendar year 2010
+.—
+For a month during 2010, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (6) for that qualified retiree; and
+
+
+
+
+(B)
+ 60 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (6) for that qualified retiree.
+
+
+
+
+
+
+(8)
+ 
+Calendar year 2011
+.—
+For a month during 2011, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (7) for that qualified retiree; and
+
+
+
+
+(B)
+ 70 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (7) for that qualified retiree.
+
+
+
+
+
+
+(9)
+ 
+Calendar year 2012
+.—
+For a month during 2012, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (8) for that qualified retiree; and
+
+
+
+
+(B)
+ 80 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (8) for that qualified retiree.
+
+
+
+
+
+
+(10)
+ 
+Calendar year 2013
+.—
+For a month during 2013, the amount of retired pay payable to a qualified retiree is the sum of—
+(A)
+ the amount determined under paragraph (9) for that qualified retiree; and
+
+
+
+
+(B)
+ 90 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (9) for that qualified retiree.
+
+
+
+
+
+
+(11)
+ 
+General limitation
+.—
+Retired pay determined under this subsection for a qualified retiree, if greater than the amount of retired pay otherwise applicable to that qualified retiree, shall be reduced to the amount of retired pay otherwise applicable to that qualified retiree.
+
+
+
+
+(d)
+ Coordination With Combat-Related Special Compensation Program.—
+(1)
+ 
+In general
+.—
+A person who is a qualified retiree under this section and is also an eligible combat-related disabled uniformed services retiree under 
+section 1413a of this title
+ may receive special compensation in accordance with that section or retired pay in accordance with this section, but not both.
+
+
+
+
+(2)
+ 
+Annual open season
+.—
+The Secretary concerned shall provide for an annual period (referred to as an “open season”) during which a person described in paragraph (1) shall have the right to make an election to change from receipt of special compensation in accordance with 
+section 1413a of this title
+ to receipt of retired pay in accordance with this section, or the reverse, as the case may be. Any such election shall be made under regulations prescribed by the Secretary concerned. Such regulations shall provide for the form and manner for making such an election and shall provide for the date as of when such an election shall become effective. In the case of the Secretary of a military department, such regulations shall be subject to approval by the Secretary of Defense.
+
+
+
+
+(e)
+ 
+Definitions
+.—
+In this section:
+(1)
+ 
+Retired pay
+.—
+The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
+
+
+
+
+(2)
+ 
+Veterans’ disability compensation
+.—
+The term “veterans’ disability compensation” has the meaning given the term “compensation” in 
+section 101(13) of title 38
+.
+
+
+
+
+(3)
+ 
+Disability rated as total
+.—
+The term “disability rated as total” means—
+(A)
+ a disability, or combination of disabilities, that is rated as total under the standard schedule of rating disabilities in use by the Department of Veterans Affairs; or
+
+
+
+
+(B)
+ a disability, or combination of disabilities, for which the scheduled rating is less than total but for which a rating of total is assigned by reason of inability of the disabled person concerned to secure or follow a substantially gainful occupation as a result of disabilities for which veterans’ disability compensation may be paid.
+
+
+
+
+
+
+(4)
+ Current baseline offset.—
+(A)
+ 
+In general
+.—
+The term “current baseline offset” for any qualified retiree means the amount for any month that is the lesser of—
+(i)
+ the amount of the applicable monthly retired pay of the qualified retiree for that month; and
+
+
+
+
+(ii)
+ the amount of monthly veterans’ disability compensation to which the qualified retiree is entitled for that month.
+
+
+
+
+
+
+(B)
+ 
+Applicable retired pay
+.—
+In subparagraph (A), the term “applicable retired pay” for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
+
+
+
+
+
+

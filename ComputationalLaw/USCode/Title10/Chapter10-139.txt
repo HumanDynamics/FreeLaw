@@ -1,0 +1,5505 @@
+
+Chapter 139
+RESEARCH AND DEVELOPMENT
+ Availability of appropriations
+(a)
+ Funds appropriated to the Department of Defense for research and development remain available for obligation for a period of two consecutive years.
+
+
+(b)
+ Funds appropriated to the Department of Defense for research and development may be used—
+(1)
+ for the purposes of 
+section 2353 of this title
+; and
+
+
+
+
+(2)
+ for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Department of Defense.
+
+
+
+
+ Defense Advanced Research Projects Agency: biennial strategic plan
+(a)
+ 
+Requirement for Strategic Plan
+.—
+Every other year, and in time for submission to Congress under subsection (c), the Director of the Defense Advanced Research Projects Agency shall prepare a strategic plan for the activities of that agency.
+
+
+(b)
+ 
+Contents
+.—
+The strategic plan required by subsection (a) shall include the following matters:
+(1)
+ The strategic objectives of that agency, and the linkage between such objectives and the missions of the armed forces.
+
+
+
+
+(2)
+ Identification of the research programs of that agency that support—
+(A)
+ achievement of those strategic objectives; and
+
+
+
+
+(B)
+ exploitation of opportunities that hold the potential for yielding significant military benefits.
+
+
+
+
+
+
+(3)
+ A technology transition strategy for programs demonstrating military systems to one or more of the armed forces.
+
+
+
+
+(4)
+ A description of the policies of that agency on the management, organization, and personnel of that agency.
+
+
+
+
+(c)
+ 
+Submission of Plan to Congress
+.—
+The Director shall, in coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics, submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under 
+section 1105(a) of title 31
+.
+
+
+ Contracts: acquisition, construction, or furnishing of test facilities and equipment
+(a)
+ A contract of a military department for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility.
+
+
+(b)
+ Facilities that would not be readily removable or separable without unreasonable expense or unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
+(1)
+ a provision for reimbursing the United States for the fair value of the facilities at the completion or termination of the contract or within a reasonable time thereafter;
+
+
+
+
+(2)
+ an option in the United States to acquire the underlying land; or
+
+
+
+
+(3)
+ an alternative provision that the Secretary concerned considers to be adequate to protect the interests of the United States in the facilities.
+
+
+
+
+(c)
+ Proceeds of sales or reimbursements under this section shall be paid into the Treasury as miscellaneous receipts, except to the extent otherwise authorized by law with respect to property acquired by the contractor.
+
+
+“(a)
+ 
+Limitation
+.—
+An article of military equipment that is an end item of a major weapon system may not be furnished or transferred to a private entity for the conduct of research, development, test and evaluation under contractual agreement with the Department of Defense, if such research, development, test, and evaluation necessitates significantly modifying the military equipment, until the senior acquisition official of a military department, or his designee, submits to the congressional defense committees certification in writing—
+“(1)
+ that the modification of such article of military equipment is necessary to execute the contractual scope of work and there is no suitable alternative to modifying such article;
+
+
+
+
+“(2)
+ that the research, development, test, and evaluation effort is of sufficient interest to the military department to warrant the modification of such article of military equipment;
+
+
+
+
+“(3)
+ that—
+“(A)
+ prior to the end of the period of performance of such a contractual agreement, the article of military equipment will be restored to its original condition; or
+
+
+
+
+“(B)
+ it is not necessary to restore the article of military equipment to its original condition because the military department intends to dispose of the equipment or operate the equipment in its modified form.
+
+
+
+
+
+
+“(4)
+ that the private entity has sufficient resources and capability to fully perform the contractual research, development, test, and evaluation; and
+
+
+
+
+“(5)
+ that the military department has—
+“(A)
+ identified the scope of future test and evaluation likely to be required prior to transition of the associated technology to a program of record; and
+
+
+
+
+“(B)
+ a plan for the conduct of such future test and evaluation, including the anticipated roles and responsibilities of government and the private entity, as applicable.
+
+
+
+
+
+
+“(b)
+ 
+Certification
+.—
+No military equipment that is an end item of a major weapons system may be transferred or furnished to a private entity for purposes of research and development as authorized under subsection (a) unless the senior officer of the military service concerned certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that such equipment is not essential to the defense of the United States.
+
+
+“(c)
+ 
+One-time Authority to Transfer
+.—
+The Secretary of the Navy may transfer, to Piasecki Aircraft Corporation of Essington, Pennsylvania (in this section referred to as ‘transferee’), all right, title, and interest of the United States, except as otherwise provided in this subsection, in and to Navy aircraft N40VT (Bureau Number 163283), also known as the X–49A aircraft, and associated components and test equipment, previously specified as Government-furnished equipment in contract N00019–00–C–0284. The transferee shall provide consideration for the transfer of such military equipment to the transferor of an amount not to exceed fair value, as determined, on a non-delegable basis, by the Secretary.
+
+
+“(d)
+ 
+Applicable Law
+.—
+The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act [
+22 U.S.C. 2751
+ et seq.], the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.], continued under Executive Order 12924 [listed in a table under 
+50 U.S.C. 1701
+], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act [
+act June 15, 1917, ch. 30
+, 
+40 Stat. 217
+, see Tables for classification].
+
+
+“(e)
+ Condition of Equipment to Be Transferred.—
+“(1)
+ 
+As-is condition
+.—
+The military equipment transferred under subsection (c) shall be transferred in its current ‘as-is’ condition. The Secretary is not required to repair or alter the condition of any military equipment before transferring any interest in such equipment under subsection (c).
+
+
+
+
+“(2)
+ 
+Spare parts or equipment
+.—
+The Secretary of the Navy is not required to provide spare parts or equipment as a result of the transfer authorized under subsection (c).
+
+
+
+
+“(f)
+ 
+Transfer at No Cost to the United States
+.—
+The transfer of military equipment under subsection (c) shall be made at no cost to the United States. Any costs associated with the transfer shall be borne by the transferee.
+
+
+“(g)
+ 
+Additional Terms and Conditions
+.—
+The Secretary shall require that the transfer authorized by section (c) be carried out by means of a written agreement and shall require, at a minimum, the following conditions to the transfer:
+“(1)
+ A condition stipulating that the transfer of the X-49A aircraft is for the sole purpose of further development, test, and evaluation of vectored thrust ducted propeller (hereinafter in this section referred to as ‘VTDP’) technology.
+
+
+
+
+“(2)
+ A condition providing the Government the right to procure the VTDP technology demonstrated under this program at a discounted cost based on the value of the X-49A aircraft and associated equipment at the time of transfer, with such valuation and terms determined by the Secretary.
+
+
+
+
+“(3)
+ A condition that the transferee not transfer any interest in, or transfer possession of, the military equipment transferred under subsection (b) to any other party without the prior written approval of the Secretary.
+
+
+
+
+“(4)
+ A condition that if the Secretary determines at any time that the transferee has failed to comply with a condition set forth in paragraphs (1) through (3), all items referred to in subsection (b) shall be transferred back to the Navy, at no cost to the United States.
+
+
+
+
+“(5)
+ A condition that the transferee acknowledges sole responsibility of the X-49A aircraft and associated equipment and assumes all liability for operation of the X-49A aircraft and associated equipment.
+
+
+
+
+“(h)
+ 
+No Liability for the United States
+.—
+Upon the transfer of military equipment under subsection (b), the United States shall not be liable for any death, injury, loss, or damage that results from the use of such military equipment by any person other than the United States.
+
+
+“(i)
+ 
+Additional Terms and Conditions
+.—
+The Secretary may require such additional terms and conditions in connection with a transfer under subsection (b) as the Secretary considers appropriate to protect the interests of the United States.
+
+
+“(j)
+ 
+Definitions
+.—
+In this subsection:
+“(1)
+ The term ‘major system’ has the meaning provided in 
+section 2302 of title 10
+, United States Code.
+
+
+
+
+“(2)
+ The term ‘contractual agreement’ includes contracts, grants, cooperative agreements, and other transactions.”
+
+
+
+
+ Contracts: indemnification provisions
+(a)
+ With the approval of the Secretary of the military department concerned, any contract of a military department for research or development, or both, may provide that the United States will indemnify the contractor against either or both of the following, but only to the extent that they arise out of the direct performance of the contract and to the extent not compensated by insurance or otherwise:
+(1)
+ Claims (including reasonable expenses of litigation or settlement) by third persons, including employees of the contractor, for death, bodily injury, or loss of or damage to property, from a risk that the contract defines as unusually hazardous.
+
+
+
+
+(2)
+ Loss of or damage to property of the contractor from a risk that the contract defines as unusually hazardous.
+
+
+
+
+(b)
+ A contract, made under subsection (a), that provides for indemnification must also provide for—
+(1)
+ notice to the United States of any claim or suit against the contractor for the death, bodily injury, or loss of or damage to property; and
+
+
+
+
+(2)
+ control of or assistance in the defense by the United States, at its election, of that suit or claim.
+
+
+
+
+(c)
+ No payment may be made under subsection (a) unless the Secretary of the department concerned, or an officer or official of his department designated by him, certifies that the amount is just and reasonable.
+
+
+(d)
+ Upon approval by the Secretary concerned, payments under subsection (a) may be made from—
+(1)
+ funds obligated for the performance of the contract concerned;
+
+
+
+
+(2)
+ funds available for research or development, or both, and not otherwise obligated; or
+
+
+
+
+(3)
+ funds appropriated for those payments.
+
+
+
+
+ Repealed. 
+ Repealed. 
+ Repealed. 
+ Research and development projects
+(a)
+ 
+Authority
+.—
+The Secretary of Defense or the Secretary of a military department may engage in basic research, applied research, advanced research, and development projects that—
+(1)
+ are necessary to the responsibilities of such Secretary’s department in the field of research and development; and
+
+
+
+
+(2)
+ either—
+(A)
+ relate to weapon systems and other military needs; or
+
+
+
+
+(B)
+ are of potential interest to the Department of Defense.
+
+
+
+
+
+
+(b)
+ 
+Authorized Means
+.—
+The Secretary of Defense or the Secretary of a military department may perform research and development projects—
+(1)
+ by contract, cooperative agreement, or grant, in accordance with chapter 63 of title 31;
+
+
+
+
+(2)
+ through one or more military departments;
+
+
+
+
+(3)
+ by using employees and consultants of the Department of Defense; or
+
+
+
+
+(4)
+ by mutual agreement with the head of any other department or agency of the Federal Government.
+
+
+
+
+(c)
+ 
+Requirement of Potential Department of Defense Interest
+.—
+Funds appropriated to the Department of Defense or to a military department may not be used to finance any research project or study unless the project or study is, in the opinion of the Secretary of Defense or the Secretary of that military department, respectively, of potential interest to the Department of Defense or to such military department, respectively.
+
+
+(d)
+ 
+Additional Provisions Applicable to Cooperative Agreements
+.—
+Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 2371 and 2371a of this title.
+
+
+“(a)
+ Authority To Make Direct Appointments.—
+“(1)
+ 
+Candidates for scientific and engineering positions at science and technology reinvention laboratories
+.—
+The director of any Science and Technology Reinvention Laboratory (hereinafter in this section referred to as an ‘STRL’) may appoint qualified candidates possessing a bachelor’s degree to positions described in paragraph (1) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title).
+
+
+
+
+“(2)
+ 
+Veteran candidates for similar positions at research and engineering facilities
+.—
+The director of any STRL may appoint qualified veteran candidates to positions described in paragraph (2) of subsection (b) as an employee at a laboratory, agency, or organization specified in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+
+
+
+
+“(b)
+ Covered Positions.—
+“(1)
+ 
+Candidates for scientific and engineering positions
+.—
+The positions described in this paragraph are scientific and engineering positions that may be temporary, term, or permanent in any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (
+Public Law 111–84
+; 
+123 Stat. 2486
+; 
+10 U.S.C. 2358
+ note) as a Department of Defense science and technology reinvention laboratory.
+
+
+
+
+“(2)
+ 
+Qualified veteran candidates
+.—
+The positions described in this paragraph are scientific, technical, engineering, and mathematics positions, including technicians, in the following:
+“(A)
+ Any laboratory referred to in paragraph (1).
+
+
+
+
+“(B)
+ Any other Department of Defense research and engineering agency or organization designated by the Secretary for purposes of subsection (a)(2).
+
+
+
+
+
+
+“(c)
+ 
+Limitation on Number of Appointments Allowable in a Calendar Year
+.—
+The authority under subsection (a) may not, in any calendar year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
+“(1)
+ In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+
+
+
+“(2)
+ In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 1 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+
+
+
+“(d)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘employee’ has the meaning given that term in 
+section 2105 of title 5
+, United States Code.
+
+
+
+
+“(2)
+ The term ‘veteran’ has the meaning given that term in 
+section 101 of title 38
+, United States Code.
+
+
+
+
+“(e)
+ 
+Sunset
+.—
+Appointments under subsection (a) may not be made after 
+December 31, 2019
+.
+
+
+“(f)
+ Senior Scientific Technical Managers.—
+“(1)
+ 
+Establishment
+.—
+There is hereby established in each STRL a category of senior professional scientific and technical positions, the incumbents of which shall be designated as ‘senior scientific technical managers’ and which shall be positions classified above GS–15 of the General Schedule, notwithstanding 
+section 5108(a) of title 5
+, United States Code. The primary functions of such positions shall be—
+“(A)
+ to engage in research and development in the physical, biological, medical, or engineering sciences, or another field closely related to the mission of such STRL; and
+
+
+
+
+“(B)
+ to carry out technical supervisory responsibilities.
+
+
+
+
+
+
+“(2)
+ 
+Appointments
+.—
+The positions described in paragraph (1) may be filled, and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (
+Public Law 103–337
+; 
+108 Stat. 2721
+) [set out below], relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 1 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in which any appointments subject to that numerical limitation are made.
+
+
+
+
+“(3)
+ 
+Sunset
+.—
+Appointments under this subsection may not be made after 
+December 31, 2019
+.
+
+
+
+
+“(g)
+ 
+Reporting Requirement
+.—
+The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an annual report on the operation of this section. Each such report shall include, for the period covered by such report—
+“(1)
+ the total number of individuals appointed under subsection (a)(1) during such period;
+
+
+
+
+“(2)
+ the total number of individuals appointed under subsection (a)(2) during such period; and
+
+
+
+
+“(3)
+ the total number of senior scientific technical managers at each STRL as of the end of such period.
+
+
+
+
+“(h)
+ Exclusion From Personnel Limitations.—
+“(1)
+ 
+In general
+.—
+The director of an STRL shall manage the workforce strength, structure, positions, and compensation of such STRL—
+“(A)
+ without regard to any limitation on appointments, positions, or funding with respect to such STRL, subject to subparagraph (B); and
+
+
+
+
+“(B)
+ in a manner consistent with the budget available with respect to such STRL.
+
+
+
+
+
+
+“(2)
+ 
+Exceptions
+.—
+Paragraph (1) shall not apply to Senior Executive Service positions (as defined in 
+section 3132(a) of title 5
+, United States Code) or scientific and professional positions authorized under section 3104 of such title.”
+
+
+
+
+“(a)
+ 
+Development of Innovative Advanced Technologies
+.—
+The Secretary of Defense may use the research and engineering network of the Department of Defense, including the organic industrial base, to support regional advanced technology clusters established by the Secretary of Commerce to encourage the development of innovative advanced technologies to address national security and homeland defense challenges.
+
+
+“(b)
+ 
+Report
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Jan. 2, 2013
+], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the appropriate congressional committees a report describing—
+“(1)
+ the participation of the Department of Defense in regional advanced technology clusters, including the number of—
+“(A)
+ clusters supported;
+
+
+
+
+“(B)
+ technologies developed and transitioned to acquisition programs;
+
+
+
+
+“(C)
+ products commercialized;
+
+
+
+
+“(D)
+ small businesses trained;
+
+
+
+
+“(E)
+ companies started; and
+
+
+
+
+“(F)
+ research and development facilities shared;
+
+
+
+
+
+
+“(2)
+ implementation by the Department of processes and tools to facilitate collaboration with the clusters;
+
+
+
+
+“(3)
+ agreements established by the Department with the Department of Commerce to jointly support the continued growth of the clusters;
+
+
+
+
+“(4)
+ methods to evaluate the effectiveness of technology cluster policies;
+
+
+
+
+“(5)
+ any additional required authorities and any impediments to supporting regional advanced technology clusters; and
+
+
+
+
+“(6)
+ the use of any agreements entered into under the Intergovernmental Personnel Act of 1970 (
+42 U.S.C. 4701
+ et seq.) and any access granted to facilities of the Department of Defense for research and development purposes.
+
+
+
+
+“(c)
+ 
+Collaboration
+.—
+The Secretary of Defense may meet, collaborate, and share resources with other Federal agencies for purposes of assisting in the use and appropriate growth of regional advanced technology clusters under this section.
+
+
+“(d)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘appropriate congressional committees’ means—
+“(A)
+ the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives];
+
+
+
+
+“(B)
+ the Committee on Commerce, Science, and Transportation of the Senate; and
+
+
+
+
+“(C)
+ the Committee on Energy and Commerce of the House of Representatives.
+
+
+
+
+
+
+“(2)
+ The term ‘regional advanced technology clusters’ means geographic centers focused on building science and technology-based innovation capacity in areas of local and regional strength to foster economic growth and improve quality of life.”
+
+
+
+
+“(a)
+ 
+Program Authorized
+.—
+The Secretary of the Army may conduct a program for flight research and demonstration of advanced rotorcraft technology.
+
+
+“(b)
+ 
+Goals and Objectives
+.—
+The goals and objectives of the program authorized by subsection (a) are as follows:
+“(1)
+ To flight demonstrate the ability of advanced rotorcraft technology to expand the flight envelope and improve the speed, range, payload, ceiling, survivability, reliability, and affordability of current and future rotorcraft of the Department of Defense.
+
+
+
+
+“(2)
+ To mature advanced rotorcraft technology and obtain flight-test data to—
+“(A)
+ support the assessment of such technology for future rotorcraft platform development programs of the Department; and
+
+
+
+
+“(B)
+ have the ability to add such technology to the existing rotorcraft of the Department to extend the capability and life of such rotorcraft until next-generation platforms are fielded.
+
+
+
+
+
+
+“(c)
+ 
+Elements of Program
+.—
+The program authorized by subsection (a) may include—
+“(1)
+ integration and demonstration of advanced rotorcraft technology to meet the goals and objectives described in subsection (b); and
+
+
+
+
+“(2)
+ flight demonstration of the advanced rotorcraft technology test bed under the experimental airworthiness process of the Federal Aviation Administration or other appropriate airworthiness process approved by the Secretary of Defense.
+
+
+
+
+“(d)
+ 
+Competition
+.—
+In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of 
+section 2304 of title 10
+, United States Code, and shall consider a timely offer submitted by a small business concern (as defined in section 2225(f)(3) of such title) in accordance with the specifications and evaluation factors specified in the solicitation.”
+
+
+“(a)
+ 
+Program Authorized
+.—
+The Secretary of Defense may carry out a program for research and development on, and deployment of, advanced technology ground vehicles, ground vehicle systems, and components within the Department of Defense.
+
+
+“(b)
+ 
+Goals and Objectives
+.—
+The goals and objectives of the program authorized by subsection (a) are as follows:
+“(1)
+ To identify and support technological advances that are necessary for the development of advanced technologies for use in ground vehicles of types to be used by the Department of Defense.
+
+
+
+
+“(2)
+ To procure and deploy significant quantities of advanced technology ground vehicles for use by the Department.
+
+
+
+
+“(3)
+ To maximize the leverage of Federal and nongovernment funds used for the development and deployment of advanced technology ground vehicles, ground vehicle systems, and components.
+
+
+
+
+“(c)
+ 
+Elements of Program
+.—
+The program authorized by subsection (a) may include—
+“(1)
+ enhanced research and development activities for advanced technology ground vehicles, ground vehicle systems, and components, including—
+“(A)
+ increased investments in research and development of batteries, advanced materials, power electronics, fuel cells and fuel cell systems, hybrid systems, and advanced engines;
+
+
+
+
+“(B)
+ pilot projects for the demonstration of advanced technologies in ground vehicles for use by the Department of Defense; and
+
+
+
+
+“(C)
+ the establishment of public-private partnerships, including research centers, manufacturing and prototyping facilities, and test beds, to speed the development, deployment, and transition to use of advanced technology ground vehicles, ground vehicle systems, and components; and
+
+
+
+
+
+
+“(2)
+ enhanced activities to procure and deploy advanced technology ground vehicles in the Department, including—
+“(A)
+ preferences for the purchase of advanced technology ground vehicles;
+
+
+
+
+“(B)
+ the use of authorities available to the Secretary of Defense to stimulate the development and production of advanced technology systems and ground vehicles through purchases, loan guarantees, and other mechanisms;
+
+
+
+
+“(C)
+ pilot programs to demonstrate advanced technology ground vehicles and associated infrastructure at select defense installations;
+
+
+
+
+“(D)
+ metrics to evaluate environmental and other benefits, life cycle costs, and greenhouse gas emissions associated with the deployment of advanced technology ground vehicles; and
+
+
+
+
+“(E)
+ schedules and objectives for the conversion of the ground vehicle fleet of the Department to advanced technology ground vehicles.
+
+
+
+
+
+
+“(d)
+ Cooperation With Industry and Academia.—
+“(1)
+ 
+In general
+.—
+The Secretary may carry out the program authorized by subsection (a) through partnerships and other cooperative agreements with private sector entities, including—
+“(A)
+ universities and other academic institutions;
+
+
+
+
+“(B)
+ companies in the automobile and truck manufacturing industry;
+
+
+
+
+“(C)
+ companies that supply systems and components to the automobile and truck manufacturing industry; and
+
+
+
+
+“(D)
+ any other companies or private sector entities that the Secretary considers appropriate.
+
+
+
+
+
+
+“(2)
+ 
+Nature of cooperation
+.—
+The Secretary shall ensure that any partnership or cooperative agreement under paragraph (1) provides for private sector participants to collectively contribute, in cash or in kind, not less than one-half of the total cost of the activities carried out under such partnership or cooperative agreement.
+
+
+
+
+“(e)
+ 
+Coordination With Other Federal Agencies
+.—
+The program authorized by subsection (a) shall be carried out, to the maximum extent practicable, in coordination with the Department of Energy and other appropriate departments and agencies of the Federal Government.”
+
+
+“(a)
+ 
+Pilot Program
+.—
+The Secretary of Defense shall carry out a pilot program to develop and incorporate technology protection features in a designated system during the research and development phase of such system.
+
+
+“(b)
+ 
+Cost-sharing
+.—
+Any contract for the design or development of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system either—
+“(1)
+ for the development of program protection strategies for the system; or
+
+
+
+
+“(2)
+ for the design and incorporation of exportability features into the system,
+
+
+
+
+
+shall include a cost-sharing provision that requires the contractor to bear at least one-half of the cost of such activities.
+
+
+“(c)
+ 
+Annual Reports
+.—
+Not later than December 31 of each year in which the Secretary carries out the pilot program established under this section, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the pilot program, including a list of each designated system included in the program.
+
+
+“(d)
+ 
+Termination
+.—
+The pilot program established under this section shall terminate on 
+October 1, 2020
+.
+
+
+“(e)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘designated system’ means any system (including a major system, as defined in 
+section 2302(5) of title 10
+, United States Code) that the Under Secretary of Defense for Acquisition, Technology, and Logistics designates as being included in the pilot program established under this section.
+
+
+
+
+“(2)
+ The term ‘technology protection features’ means the technical modifications necessary to protect critical program information, including anti-tamper technologies and other systems engineering activities intended to prevent or delay exploitation of critical technologies in a designated system.”
+
+
+
+
+“(a)
+ 
+Sense of Congress
+.—
+It is the sense of Congress that the Secretary of Defense should support the research, development, test, and evaluation, procurement, and fielding of effective non-lethal weapons and technologies explicitly designed to, with respect to counterinsurgency operations, reduce military casualties and fatalities, improve military mission accomplishment and operational effectiveness, reduce civilian casualties and fatalities, and minimize undesired damage to property and the environment.
+
+
+“(b)
+ Program Required.—
+“(1)
+ 
+Demonstration and assessment
+.—
+The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments and the combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
+
+
+
+
+“(2)
+ 
+Non-lethal weapons evaluated
+.—
+In evaluating non-lethal weapons under the program under this subsection, the Secretary shall include non-lethal weapons designed for counter-personnel and counter-materiel missions.
+
+
+
+
+“(c)
+ Report.—
+“(1)
+ 
+Report required
+.—
+Not later than 
+October 1, 2011
+, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the role and utility of non-lethal weapons and technologies in counterinsurgency operations.
+
+
+
+
+“(2)
+ 
+Elements
+.—
+The report under paragraph (1) shall include the following:
+“(A)
+ A description of the results of any demonstrations and assessments of non-lethal weapons conducted during fiscal year 2011.
+
+
+
+
+“(B)
+ A description of the Secretary’s plans for any demonstrations and assessments of non-lethal weapons to be conducted during fiscal years 2012 and 2013.
+
+
+
+
+“(C)
+ A description of the extent to which non-lethal weapons doctrine, training, and employment include the use of strategic communications strategies to enable the effective employment of non-lethal weapons.
+
+
+
+
+“(D)
+ A description of the input of the military departments in developing concepts of operations and tactics, techniques, and procedures for incorporating non-lethal weapons into the current escalation of force procedures of each department.
+
+
+
+
+“(E)
+ A description of the extent to which non-lethal weapons and technologies are integrated into the standard equipment and training of military units.”
+
+
+
+
+
+
+“(a)
+ Mechanisms to Provide Funds.—
+“(1)
+ 
+In general
+.—
+The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory may use an amount of funds equal to not more than three percent of all funds available to the defense laboratory for the following purposes:
+“(A)
+ To fund innovative basic and applied research that is conducted at the defense laboratory and supports military missions.
+
+
+
+
+“(B)
+ To fund development programs that support the transition of technologies developed by the defense laboratory into operational use.
+
+
+
+
+“(C)
+ To fund workforce development activities that improve the capacity of the defense laboratory to recruit and retain personnel with needed scientific and engineering expertise.
+
+
+
+
+“(D)
+ To fund the revitalization[,] recapitalization, or minor military construction of the laboratory infrastructure, in accordance with subsection (b).
+
+
+
+
+
+
+“(2)
+ 
+Consultation required
+.—
+The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
+
+
+
+
+“(b)
+ Availability of Funds for Infrastructure Projects.—
+“(1)
+ 
+In general
+.—
+Subject to the provisions of this subsection, funds available under a mechanism under subsection (a)(1)(D) that are solely intended to carry out a laboratory infrastructure project shall be available for such project until expended.
+
+
+
+
+“(2)
+ 
+Prior notice of costs of projects
+.—
+Funds shall be available in accordance with paragraph (1) for a project referred to in such paragraph only if the Secretary notifies the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the total cost of the project before the date on which the Secretary uses a mechanism under subsection (a)(1)(D) for such project.
+
+
+
+
+“(3)
+ 
+Accumulation of funds for projects
+.—
+Funds may accumulate under a mechanism under subsection (a) for a project referred to in paragraph (1) for not more than five years.
+
+
+
+
+“(4)
+ 
+Cost limit compliance
+.—
+The Secretary shall ensure that a project referred to in paragraph (1) for which funds are made available in accordance with such paragraph complies with the applicable cost limitations in the following provisions of law:
+“(A)
+ 
+Section 2805(d) of title 10
+, United States Code, with respect to revitalization and recapitalization projects.
+
+
+
+
+“(B)
+ Section 2811 of such title, with respect to repair projects.
+
+
+
+
+
+
+“(c)
+ 
+Annual Report on Use of Authority
+.—
+Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under subsection (a) during the preceding year.
+
+
+“(d)
+ 
+Sunset
+.—
+The authority under subsection (a) shall expire on 
+September 30, 2020
+.”
+
+
+“(a)
+ 
+Strategy Required
+.—
+The Director of the Joint Improvised Explosive Device Defeat Organization (JIEDDO), jointly with the Assistant Secretary of Defense for Research and Engineering, shall develop a comprehensive science and technology investment strategy for countering the threat of improvised explosive devices (IEDs).
+
+
+“(b)
+ 
+Elements
+.—
+The strategy developed under subsection (a) shall include the following:
+“(1)
+ Identification of counter-IED capability gaps.
+
+
+
+
+“(2)
+ A taxonomy describing the major technical areas for the Department of Defense to address the counter-IED capability gaps and in which science and technology funding investments should be made.
+
+
+
+
+“(3)
+ Identification of funded programs to develop or mature technologies from or to the level of system or subsystem model or prototype demonstration in a relevant environment, and investment levels for those initiatives.
+
+
+
+
+“(4)
+ Identification of JIEDDO’s mechanisms for coordinating Department of Defense and Federal Government science and technology activities in areas covered by the strategy.
+
+
+
+
+“(5)
+ Identification of technology transition mechanisms developed or utilized to efficiently transition technologies to acquisition programs of the Department of Defense or into operational use, including a summary of counter-IED technologies transitioned from JIEDDO, the military departments, and other Defense Agencies to the acquisition programs or into operational use.
+
+
+
+
+“(6)
+ Identification of high priority basic research efforts that should be addressed through JIEDDO or other Department of Defense activities to support development of next generation IED defeat capabilities.
+
+
+
+
+“(7)
+ Identification of barriers or issues, such as industrial base, workforce, or statutory or regulatory barriers, that could hinder the efficient and effective development and operational use of advanced IED defeat capabilities, and discussion of activities undertaken to address them.
+
+
+
+
+“(8)
+ Identification of the measures of effectiveness for the overall Department of Defense science and technology counter-IED effort.
+
+
+
+
+“(9)
+ Such other matters as the Director and the Assistant Secretary consider appropriate.”
+
+
+
+
+“(a)
+ 
+Establishment of Joint Technology Office on Hypersonics
+.—
+The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carry out the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
+
+
+“(b)
+ 
+Program on Hypersonics
+.—
+The joint technology office established under subsection (a) shall carry out a program for the development of hypersonics for defense purposes.
+
+
+“(c)
+ 
+Responsibilities
+.—
+In carrying out the program required by subsection (b), the joint technology office established under subsection (a) shall do the following:
+“(1)
+ Coordinate and integrate current and future research, development, test, and evaluation programs and system demonstration programs of the Department of Defense on hypersonics.
+
+
+
+
+“(2)
+ Undertake appropriate actions to ensure—
+“(A)
+ close and continuous integration of the programs on hypersonics of the military departments with the programs on hypersonics of the Defense Agencies;
+
+
+
+
+“(B)
+ coordination of the programs referred to in subparagraph (A) with the programs on hypersonics of the National Aeronautics and Space Administration; and
+
+
+
+
+“(C)
+ that developmental testing resources are adequate and facilities are made available in a timely manner to support hypersonics research, demonstration programs, and system development.
+
+
+
+
+
+
+“(3)
+ Approve demonstration programs on hypersonic systems.
+
+
+
+
+“(4)
+ Ensure that any demonstration program on hypersonic systems that is carried out in any year after its approval under paragraph (3) is carried out only if certified under subsection (e) as being consistent with the roadmap under subsection (d).
+
+
+
+
+“(d)
+ Roadmap.—
+“(1)
+ 
+Roadmap required
+.—
+The joint technology office established under subsection (a) shall develop, and every two years revise, a roadmap for the hypersonics programs of the Department of Defense.
+
+
+
+
+“(2)
+ 
+Coordination
+.—
+The roadmap shall be developed and revised under paragraph (1) in coordination with the Joint Staff and in consultation with the National Aeronautics and Space Administration.
+
+
+
+
+“(3)
+ 
+Elements
+.—
+The roadmap shall include the following matters:
+“(A)
+ Anticipated or potential mission requirements for hypersonics.
+
+
+
+
+“(B)
+ Short-term, mid-term, and long-term goals for the Department of Defense on hypersonics, which shall be consistent with the missions and anticipated requirements of the Department over the applicable period.
+
+
+
+
+“(C)
+ A schedule for meeting such goals, including—
+“(i)
+ the activities and funding anticipated to be required for meeting such goals; and
+
+
+
+
+“(ii)
+ the activities of the National Aeronautics and Space Administration to be leveraged by the Department to meet such goals.
+
+
+
+
+
+
+“(D)
+ The test and evaluation facilities required to support the activities identified in subparagraph (C), along with the schedule and funding required to upgrade those facilities, as necessary.
+
+
+
+
+“(E)
+ Acquisition transition plans for hypersonics.
+
+
+
+
+
+
+“(4)
+ 
+Submittal to congress
+.—
+The Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]—
+“(A)
+ at the same time as the submittal to Congress of the budget for fiscal year 2008 (as submitted pursuant to 
+section 1105 of title 31
+, United States Code), the roadmap developed under paragraph (1); and
+
+
+
+
+“(B)
+ at the same time as the submittal to Congress of the budget for each even-numbered fiscal year after 2008, the roadmap revised under paragraph (1).
+
+
+
+
+
+
+“(e)
+ Annual Review and Certification of Funding.—
+“(1)
+ 
+Annual review
+.—
+The joint technology office established under subsection (a) shall conduct on an annual basis a review of—
+“(A)
+ the funding available for research, development, test, and evaluation and demonstration programs within the Department of Defense for hypersonics, in order to determine whether or not such funding is consistent with the roadmap developed under subsection (d); and
+
+
+
+
+“(B)
+ the hypersonics demonstration programs of the Department, in order to determine whether or not such programs avoid duplication of effort and support the goals of the Department in a manner consistent with the roadmap developed under subsection (d).
+
+
+
+
+
+
+“(2)
+ 
+Certification
+.—
+The joint technology office shall, as a result of each review under paragraph (1), certify to the Secretary whether or not the funding and programs subject to such review are consistent with the roadmap developed under subsection (d).
+
+
+
+
+“(3)
+ 
+Termination
+.—
+The requirements of this subsection shall terminate after the submittal to Congress of the budget for fiscal year 2016 pursuant to 
+section 1105 of title 31
+, United States Code.
+
+
+
+
+“(f)
+ 
+Reports to Congress
+.—
+If, as a result of a review under subsection (e), funding or a program on hypersonics is certified under that subsection not to be consistent with the roadmap developed under subsection (d), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], at the same time as the submittal to Congress of the budget (as submitted pursuant to 
+section 1105 of title 31
+, United States Code), a report on such funding or program, as the case may be, describing how such funding or program is not consistent with the roadmap, together with a statement of the actions to be taken by the Department.”
+
+
+“(a)
+ 
+Program Required
+.—
+The Secretary of Defense shall establish a program for research and development in advanced vacuum electronics to meet the requirements of Department of Defense systems.
+
+
+“(b)
+ 
+Description of Program
+.—
+The program under subsection (a) shall be carried out collaboratively by the Assistant Secretary of Defense for Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
+“(1)
+ Activities needed for development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
+
+
+
+
+“(2)
+ Identification of legacy and developmental Department of Defense systems which may make use of advanced vacuum electronics under the program.
+
+
+
+
+“(c)
+ 
+Report
+.—
+Not later than 
+January 31, 2005
+, the Assistant Secretary of Defense for Research and Engineering shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report on the implementation of the program under subsection (a). The report shall include the following:
+“(1)
+ Identification of the organization to have lead responsibility for carrying out the program.
+
+
+
+
+“(2)
+ Assessment of the role of investing in vacuum electronics technologies as part of the overall strategy of the Department of Defense for investing in electronics technologies to meet the requirements of the Department.
+
+
+
+
+“(3)
+ The management plan and schedule for the program and any agreements relating to that plan.
+
+
+
+
+“(4)
+ Identification of the funding required for fiscal year 2006 and for the future-years defense program to carry out the program.
+
+
+
+
+“(5)
+ A list of program capability goals and objectives.
+
+
+
+
+“(6)
+ An outline of the role of basic and applied research in support of the development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
+
+
+
+
+“(7)
+ Assessment of global capabilities in vacuum electronics technologies and the effect of those capabilities on the national security and economic competitiveness of the United States.”
+
+
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of Defense shall carry out a program of research and development to promote the development of high-speed, high-bandwidth communications capabilities for support of network-centric operations by the Armed Forces.
+
+
+“(b)
+ 
+Purposes
+.—
+The purposes of the program required by subsection (a) are as follows:
+“(1)
+ To accelerate the development and fielding by the Armed Forces of network-centric operational capabilities (including expanded use of unmanned vehicles, satellite communications, and sensors) through the promotion of research and development, and the focused coordination of programs, to achieve high-speed, high-bandwidth connectivity to military assets.
+
+
+
+
+“(2)
+ To provide for the development of equipment and technologies for military high-speed, high-bandwidth communications capabilities for support of network-centric operations.
+
+
+
+
+“(c)
+ 
+Description of Program
+.—
+In carrying out the program of research and development required by subsection (a), the Secretary shall—
+“(1)
+ identify areas of advanced wireless communications in which research and development, or the use of emerging technologies, has significant potential to improve the performance, efficiency, cost, and flexibility of advanced communications systems for support of network-centric operations;
+
+
+
+
+“(2)
+ develop a coordinated plan for research and development on—
+“(A)
+ improved spectrum access through spectrum-efficient communications for support of network-centric operations;
+
+
+
+
+“(B)
+ high-speed, high-bandwidth communications;
+
+
+
+
+“(C)
+ networks, including complex ad hoc adaptive network structures;
+
+
+
+
+“(D)
+ communications devices, including efficient receivers and transmitters;
+
+
+
+
+“(E)
+ computer software and wireless communication applications, including robust security and encryption; and
+
+
+
+
+“(F)
+ any other matters that the Secretary considers appropriate for the purposes described in subsection (b);
+
+
+
+
+
+
+“(3)
+ ensure joint research and development, and promote joint systems acquisition and deployment, among the military departments and defense agencies, including the development of common cross-service technology requirements and doctrine, so as to enhance interoperability among the military services and defense agencies;
+
+
+
+
+“(4)
+ conduct joint experimentation among the Armed Forces, and coordinate with the Joint Forces Command, on experimentation to support the development of network-centric warfare capabilities from the operational to the small unit level in the Armed Forces;
+
+
+
+
+“(5)
+ consult with other Federal entities and with private industry to develop cooperative research and development efforts, to the extent that such efforts are practicable.
+
+
+
+
+“(d)
+ 
+Report
+.—
+(1)
+ The Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives], together with the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2006 (as submitted with the budget of the President under 
+section 1105(a) of title 31
+, United States Code), a report on the activities carried out under this section through the date on which the report is submitted.
+
+
+
+
+“(2)
+ The report under paragraph (1) shall include the following:
+“(A)
+ A description of the research and development activities carried out under subsection (a), including the particular activities carried out under the plan required by subsection (c)(2).
+
+
+
+
+“(B)
+ Current and proposed funding for the particular activities carried out under that plan, as set forth in each of subparagraphs (A) through (F) of subsection (c)(2).
+
+
+
+
+“(C)
+ A description of the joint research and development activities required by subsection (c)(3).
+
+
+
+
+“(D)
+ A description of the joint experimentation activities required by subsection (c)(4).
+
+
+
+
+“(E)
+ An analysis of the effects on recent military operations of limitations on communications bandwidth and access to radio frequency spectrum.
+
+
+
+
+“(F)
+ An assessment of the effect of additional resources on the ability to achieve the purposes described in subsection (b).
+
+
+
+
+“(G)
+ Such recommendations for additional activities under this section as the Secretary considers appropriate to meet the purposes described in subsection (b).”
+
+
+
+
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of Defense (in this section referred to as the ‘Secretary’) shall carry out a program to accelerate the research, development and procurement of biomedical countermeasures, including but not limited to therapeutics and vaccines, for the protection of the Armed Forces from attack by one or more biological, chemical, radiological, or nuclear agents.
+
+
+“(b)
+ 
+Interagency Cooperation
+.—
+(1)
+ In carrying out the program under subsection (a), the Secretary may enter into interagency agreements and other collaborative undertakings with other Federal agencies.
+
+
+
+
+“(2)
+ The Secretary, through regular, structured, and close consultation with the Secretary of Health and Human Services and the Secretary of Homeland Security, shall ensure that the activities of the Department of Defense in carrying out the program are coordinated with, complement, and do not unnecessarily duplicate activities of the Department of Health and Human Services or the Department of Homeland Security.
+
+
+
+
+“(c)
+ 
+Expedited Procurement Authority
+.—
+(1)
+ For any procurement of property or services for use (as determined by the Secretary) in performing, administering, or supporting biomedical countermeasures research and development, the Secretary may, when appropriate, use streamlined acquisition procedures and other expedited procurement procedures authorized in—
+“(A)
+ section 32A of the Office of Federal Procurement Policy Act, as added by section 1443 of this Act [now 
+41 U.S.C. 1903
+]; and
+
+
+
+
+“(B)
+ 
+section 2371 of title 10
+, United States Code, and section 845 of the National Defense Authorization Act for Fiscal Year 1994 (
+Public Law 103–160
+; 
+10 U.S.C. 2371
+ note).
+
+
+
+
+
+
+“(2)
+ Notwithstanding paragraph (1) and the provisions of law referred to in such paragraph, each of the following provisions shall apply to the procurements described in this subsection to the same extent that such provisions would apply to such procurements in the absence of paragraph (1):
+“(A)
+ Chapter 37 of title 40, United States Code (relating to contract work hours and safety standards).
+
+
+
+
+“(B)
+ Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 ([former] 
+41 U.S.C. 57(a)
+ and (b)) [now 
+41 U.S.C. 8703(a)
+].
+
+
+
+
+“(C)
+ 
+Section 2313 of title 10
+, United States Code (relating to the examination of contractor records).
+
+
+
+
+
+
+“(3)
+ The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
+
+
+
+
+“(d)
+ 
+Department of Defense Facilities Authority
+.—
+(1)
+ If the Secretary determines that it is necessary to acquire, lease, construct, or improve laboratories, research facilities, and other real property of the Department of Defense in order to carry out the program under this section, the Secretary may do so using the procedures set forth in paragraphs (2), (3), (4), and (5).
+
+
+
+
+“(2)
+ The Secretary shall use existing construction authorities provided by subchapter I of chapter 169 of title 10, United States Code, to the maximum extent possible.
+
+
+
+
+“(3)
+(A)
+ If the Secretary determines that use of authorities in paragraph (2) would prevent the Department from meeting a specific facility requirement for the program, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] advance notification, which shall include the following:
+“(i)
+ Certification by the Secretary that use of existing construction authorities would prevent the Department from meeting the specific facility requirement.
+
+
+
+
+“(ii)
+ A detailed explanation of the reasons why existing authorities cannot be used.
+
+
+
+
+“(iii)
+ A justification of the facility requirement.
+
+
+
+
+“(iv)
+ Construction project data and estimated cost.
+
+
+
+
+“(v)
+ Identification of the source or sources of the funds proposed to be expended.
+
+
+
+
+
+
+“(B)
+ The facility project may be carried out only after the end of the 21-day period beginning on the date the notification is received by the congressional defense committees.
+
+
+
+
+
+
+“(4)
+ If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
+
+
+
+
+“(5)
+ Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
+
+
+
+
+“(6)
+ In this subsection, the term ‘facility’ has the meaning given the term in 
+section 2801(c) of title 10
+, United States Code.
+
+
+
+
+“(e)
+ 
+Authority for Personal Services Contracts
+.—
+(1)
+ Subject to paragraph (2), the authority provided by 
+section 1091 of title 10
+, United States Code, for personal services contracts to carry out health care responsibilities in medical treatment facilities of the Department of Defense shall also be available, subject to the same terms and conditions, for personal services contracts to carry out research and development activities under this section. The number of individuals whose personal services are obtained under this subsection may not exceed 30 at any time.
+
+
+
+
+“(2)
+ The authority provided by such section 1091 may not be used for a personal services contract unless the contracting officer for the contract ensures that—
+“(A)
+ the services to be procured are urgent or unique; and
+
+
+
+
+“(B)
+ it would not be practicable for the Department of Defense to obtain such services by other measures.
+
+
+
+
+
+
+“(f)
+ 
+Streamlined Personnel Authority
+.—
+(1)
+ The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (
+Public Law 103–337
+; 
+108 Stat. 2721
+), section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (
+Public Law 105–261
+ [
+5 U.S.C. 3104
+ note]), and section 1101 of this Act [enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under 
+section 9901 of Title 5
+].
+
+
+
+
+“(2)
+ The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
+
+
+
+
+“(3)
+ The Secretary shall institute appropriate internal controls for each use of the authority under paragraph (1).”
+
+
+
+
+“(a)
+ 
+Program Required
+.—
+The Secretary of Defense shall carry out a program for the development of vehicle fuel cell technology.
+
+
+“(b)
+ 
+Goals and Objectives
+.—
+The goals and objectives of the program shall be as follows:
+“(1)
+ To identify and support technological advances that are necessary for the development of fuel cell technology for use in vehicles of types to be used by the Department of Defense.
+
+
+
+
+“(2)
+ To ensure that critical technology advances are shared among the various fuel cell technology programs within the Federal Government.
+
+
+
+
+“(3)
+ To maximize the leverage of Federal funds that are used for the development of fuel cell technology.
+
+
+
+
+“(c)
+ 
+Content of Program
+.—
+The program shall include—
+“(1)
+ development of vehicle propulsion technologies and fuel cell auxiliary power units, together with pilot projects for the demonstration of such technologies, as appropriate; and
+
+
+
+
+“(2)
+ development of technologies necessary to address critical issues with respect to vehicle fuel cells, such as issues relating to hydrogen storage and hydrogen fuel infrastructure.
+
+
+
+
+“(d)
+ 
+Cooperation With Industry
+.—
+(1)
+ The Secretary shall carry out the program in cooperation with companies selected by the Secretary. The Secretary shall select such companies from among—
+“(A)
+ companies in the automobile and truck manufacturing industry;
+
+
+
+
+“(B)
+ companies in the business of supplying systems and components to that industry; and
+
+
+
+
+“(C)
+ companies in any other industries that the Secretary considers appropriate.
+
+
+
+
+
+
+“(2)
+ The Secretary may enter into a cooperative agreement with one or more companies selected under paragraph (1) to establish an entity for carrying out activities required by subsection (c).
+
+
+
+
+“(3)
+ The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, in cash or in kind, not less than one-half of the total cost of carrying out the program under this section.
+
+
+
+
+“(e)
+ 
+Coordination With Other Federal Agencies
+.—
+The Secretary shall carry out the program using a coordinating mechanism for sharing information and resources with the Department of Energy and other Federal agencies.
+
+
+“(f)
+ 
+Intial [sic] Funding
+.—
+Of the funds authorized to be appropriated by section 201(4) [
+116 Stat. 2479
+], $10,000,000 shall be available for the program required by this section.”
+
+
+“(a)
+ 
+Establishment
+.—
+The Secretary of Defense shall carry out a defense nanotechnology research and development program.
+
+
+“(b)
+ 
+Purposes
+.—
+The purposes of the program are as follows:
+“(1)
+ To ensure United States global superiority in nanotechnology necessary for meeting national security requirements.
+
+
+
+
+“(2)
+ To coordinate all nanoscale research and development within the Department of Defense, and to provide for interagency cooperation and collaboration on nanoscale research and development between the Department of Defense and other departments and agencies of the United States that are involved in the National Nanotechnology Initiative and with the National Nanotechnology Coordination Office under section 3 of the 21st Century Nanotechnology Research and Development Act (
+15 U.S.C. 7502
+).
+
+
+
+
+“(3)
+ To develop and manage a portfolio of nanotechnology research and development initiatives that is stable, consistent, and balanced across scientific disciplines.
+
+
+
+
+“(4)
+ To accelerate the transition and deployment of technologies and concepts derived from nanoscale research and development into the Armed Forces, and to establish policies, procedures, and standards for measuring the success of such efforts.
+
+
+
+
+“(5)
+ To collect, synthesize, and disseminate critical information on nanoscale research and development.
+
+
+
+
+“(c)
+ 
+Administration
+.—
+In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall supervise the planning, management, and coordination of the program. The Under Secretary, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
+“(1)
+ prescribe a set of long-term challenges and a set of specific technical goals for the program;
+
+
+
+
+“(2)
+ develop a coordinated and integrated research and investment plan for meeting the long-term challenges and achieving the specific technical goals that builds upon investments by the Department and other departments and agencies participating in the National Nanotechnology Initiative in nanotechnology research and development;
+
+
+
+
+“(3)
+ develop memoranda of agreement, joint funding agreements, and other cooperative arrangements necessary for meeting the long-term challenges and achieving the specific technical goals; and
+
+
+
+
+“(4)
+ oversee Department of Defense participation in interagency coordination of the program with other departments and agencies participating in the National Nanotechnology Initiative.
+
+
+
+
+“(d)
+ 
+Strategic Plan
+.—
+The Under Secretary shall develop and maintain a strategic plan for defense nanotechnology research and development that—
+“(1)
+ is integrated with the strategic plan for the National Nanotechnology Initiative and the strategic plans of the Assistant Secretary of Defense for Research and Engineering, the military departments, and the Defense Agencies; and
+
+
+
+
+“(2)
+ includes a clear strategy for transitioning the research into products needed by the Department.
+
+
+
+
+“(e)
+ 
+Reports
+.—
+The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the National Science and Technology Council information on the program that covers the information described in paragraphs (1) through (5) of section 2(d) of the 21st Century Nanotechnology Research and Development Act (
+15 U.S.C. 7501(d)
+) to be included in the annual report submitted by the Council under that section.”
+
+
+“(a)
+ 
+Report
+.—
+Not later than 
+March 1, 2009
+, and every two years thereafter, the Secretary of Defense, the Secretary of Energy, and the Director of National Intelligence shall jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding two fiscal years and planned for the current fiscal year and the next fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons and capabilities to defeat hardened and deeply buried targets.
+
+
+“(b)
+ 
+Report Elements
+.—
+A report submitted under subsection (a) shall—
+“(1)
+ include a discussion of the integration and interoperability of the activities referred to in that subsection that were or will be undertaken during the four-fiscal-year period covered by the report, including a discussion of the relevance of such activities to applicable recommendations by the Chairman of the Joint Chiefs of Staff, assisted under 
+section 181(b) of title 10
+, United States Code, by the Joint Requirements Oversight Council; and
+
+
+
+
+“(2)
+ set forth separately a description of the activities referred to in that subsection, if any, that were or will be undertaken during the four-fiscal-year period covered by the report by each element of—
+“(A)
+ the Department of Defense;
+
+
+
+
+“(B)
+ the Department of Energy; and
+
+
+
+
+“(C)
+ the intelligence community.
+
+
+
+
+
+
+“(c)
+ 
+Definition
+.—
+In this section, the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 (
+50 U.S.C. 401a(4)
+) [now 
+50 U.S.C. 3003(4)
+].
+
+
+“(d)
+ 
+Termination
+.—
+No report is required under this section after the submission of the report that is due on 
+March 1, 2013
+.
+
+
+“(e)
+ 
+Integration Activities in Fiscal Year
+ 2003 
+With Respect to
+ RNEP.—
+The report under subsection (a) that is due on 
+April 1, 2004
+, shall include, in addition to the elements specified in subsection (b), a description of the integration and interoperability of the research and development, procurement, and other activities undertaken during fiscal year 2003 by the Department of Defense and the Department of Energy with respect to the Robust Nuclear Earth Penetrator.”
+
+
+“(a)
+ 
+Additional Pilot Program
+.—
+(1)
+ The Secretary of Defense may carry out a pilot program to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense.
+
+
+
+
+“(2)
+ Under the pilot program, the Secretary of Defense shall provide the director of one science and technology laboratory, and the director of one test and evaluation laboratory, of each military department with authority for the following:
+“(A)
+ To use innovative methods of personnel management appropriate for ensuring that the selected laboratories can—
+“(i)
+ employ and retain a workforce appropriately balanced between permanent and temporary personnel and among workers with appropriate levels of skills and experience; and
+
+
+
+
+“(ii)
+ effectively shape workforces to ensure that the workforces have the necessary sets of skills and experience to fulfill their organizational missions.
+
+
+
+
+
+
+“(B)
+ To develop or expand innovative methods of entering into and expanding cooperative relationships and arrangements with private sector organizations, educational institutions (including primary and secondary schools), and State and local governments to facilitate the training of a future scientific and technical workforce that will contribute significantly to the accomplishment of organizational missions.
+
+
+
+
+“(C)
+ To develop or expand innovative methods of establishing cooperative relationships and arrangements with private sector organizations and educational institutions to promote the establishment of the technological industrial base in areas critical for Department of Defense technological requirements.
+
+
+
+
+“(D)
+ To waive any restrictions not required by law that apply to the demonstration and implementation of methods for achieving the objectives set forth in subparagraphs (A), (B), and (C).
+
+
+
+
+
+
+“(3)
+ The Secretary may carry out the pilot program under this subsection at each selected laboratory for a period of three years beginning not later than 
+March 1, 2003
+.
+
+
+
+
+“(b)
+ 
+Relationship to Fiscal Years
+ 1999 
+and
+ 2000 
+Revitalization Pilot Programs
+.—
+The pilot program under this section is in addition to, but may be carried out in conjunction with, the fiscal years 1999 and 2000 revitalization pilot programs.
+
+
+“(c)
+ 
+Reports
+.—
+(1)
+ Not later than 
+January 1, 2003
+, the Secretary shall submit to Congress a report on the experience under the fiscal years 1999 and 2000 revitalization pilot programs in exercising the authorities provided for the administration of those programs. The report shall include a description of—
+“(A)
+ barriers to the exercise of the authorities that have been encountered;
+
+
+
+
+“(B)
+ the proposed solutions for overcoming the barriers; and
+
+
+
+
+“(C)
+ the progress made in overcoming the barriers.
+
+
+
+
+
+
+“(2)
+ Not later than 
+September 1, 2003
+, the Secretary of Defense shall submit to Congress a report on the implementation of the pilot program under subsection (a) and the fiscal years 1999 and 2000 revitalization pilot programs. The report shall include, for each such pilot program, the following:
+“(A)
+ Each laboratory selected for the pilot program.
+
+
+
+
+“(B)
+ To the extent practicable, a description of the innovative methods that are to be tested at each laboratory.
+
+
+
+
+“(C)
+ The criteria to be used for measuring the success of each method to be tested.
+
+
+
+
+
+
+“(3)
+ Not later than 90 days after the expiration of the period for the participation of a laboratory in a pilot program referred to in paragraph (2), the Secretary of Defense shall submit to Congress a final report on the participation of that laboratory in the pilot program. The report shall include the following:
+“(A)
+ A description of the methods tested.
+
+
+
+
+“(B)
+ The results of the testing.
+
+
+
+
+“(C)
+ The lessons learned.
+
+
+
+
+“(D)
+ Any proposal for legislation that the Secretary recommends on the basis of the experience at that laboratory under the pilot program.
+
+
+
+
+
+
+“(d)
+ 
+Extension of Authority for Other Revitalization Pilot Programs
+.—
+(1)
+ [Amended 
+section 246(a)(4) of Pub. L. 105–261
+, formerly set out as a note below.]
+
+
+
+
+“(2)
+ [Amended 
+section 245(a)(4) of Pub. L. 106–65
+, formerly set out as a note below.]
+
+
+
+
+“(e)
+ 
+Partnerships Under Pilot Program
+.—
+(1)
+ The Secretary of Defense may authorize one or more laboratories and test centers participating in the pilot program under subsection (a) or in one of the fiscal years 1999 and 2000 revitalization pilot programs to enter into a cooperative arrangement (in this subsection referred to as a ‘public-private partnership’) with entities in the private sector and institutions of higher education for the performance of work.
+
+
+
+
+“(2)
+ A competitive process shall be used for the selection of entities outside the Government to participate in a public-private partnership.
+
+
+
+
+“(3)
+(A)
+ Not more than one public-private partnership may be established as a limited liability company.
+
+
+
+
+“(B)
+ An entity participating in a limited liability company as a party to a public-private partnership under the pilot program may contribute funds to the company, accept contributions of funds for the company, and provide materials, services, and use of facilities for research, technology, and infrastructure of the company, if it is determined under regulations prescribed by the Secretary of Defense that doing so will improve the efficiency of the performance of research, test, and evaluation functions of the Department of Defense.
+
+
+
+
+
+
+“(f)
+ 
+Fiscal Years
+ 1999 
+and
+ 2000 
+Revitalization Pilot Programs Defined
+.—
+In this section, the term ‘fiscal years 1999 and 2000 revitalization pilot programs’ means—
+“(1)
+ the pilot programs authorized by section 246 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (
+Public Law 105–261
+; 
+112 Stat. 1955
+; [former] 
+10 U.S.C. 2358
+ note); and
+
+
+
+
+“(2)
+ the pilot programs authorized by section 245 of the National Defense Authorization Act for Fiscal Year 2000 (
+Public Law 106–65
+; 
+113 Stat. 552
+; [former] 
+10 U.S.C. 2358
+ note).”
+
+
+
+
+“(a)
+ 
+Program Required
+.—
+The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
+
+
+“(b)
+ 
+Program Objectives
+.—
+The objectives of the program are as follows:
+“(1)
+ To enhance the capabilities of institutions of higher education in eligible States to develop, plan, and execute science and engineering research that is competitive under the peer-review systems used for awarding Federal research assistance.
+
+
+
+
+“(2)
+ To increase the probability of long-term growth in the competitively awarded financial assistance that institutions of higher education in eligible States receive from the Federal Government for science and engineering research.
+
+
+
+
+“(c)
+ 
+Program Activities
+.—
+In order to achieve the program objectives, the following activities are authorized under the program:
+“(1)
+ Competitive award of grants for research and instrumentation to support such research.
+
+
+
+
+“(2)
+ Competitive award of financial assistance for graduate students.
+
+
+
+
+“(3)
+ Any other activities that are determined necessary to further the achievement of the objectives of the program.
+
+
+
+
+“(d)
+ 
+Eligible States
+.—
+(1)
+ The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate which States are eligible States for the purposes of this section.
+
+
+
+
+“(2)
+ The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as an eligible State if, as determined by the Under Secretary—
+“(A)
+ the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 
+1
+⁄
+50
+ of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
+
+
+
+
+“(B)
+ the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
+
+
+
+
+
+
+“(e)
+ 
+Coordination With Similar Federal Programs
+.—
+(1)
+ The Secretary shall consult with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy in the planning, development, and execution of the program and shall coordinate the program with the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation and with similar programs sponsored by other departments and agencies of the Federal Government.
+
+
+
+
+“(2)
+ All solicitations under the Defense Experimental Program to Stimulate Competitive Research may be made to, and all awards may be made through, the State committees established for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
+
+
+
+
+“(3)
+ A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Experimental Program to Stimulate Competitive Research are coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.
+
+
+
+
+“(f)
+ 
+State Defined
+.—
+In this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.”
+
+
+“(a)
+ 
+Designation of Laboratories
+.—
+Each of the following is hereby designated as a Department of Defense science and technology reinvention laboratory (as described in section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (
+Public Law 103–337
+; 
+108 Stat. 2721
+) [set out below], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001):
+“(1)
+ The Aviation and Missile Research Development and Engineering Center.
+
+
+
+
+“(2)
+ The Army Research Laboratory.
+
+
+
+
+“(3)
+ The Medical Research and Materiel Command.
+
+
+
+
+“(4)
+ The Engineer Research and Development Command.
+
+
+
+
+“(5)
+ The Communications-Electronics Command.
+
+
+
+
+“(6)
+ The Soldier and Biological Chemical Command.
+
+
+
+
+“(7)
+ The Naval Sea Systems Command Centers.
+
+
+
+
+“(8)
+ The Naval Research Laboratory.
+
+
+
+
+“(9)
+ The Office of Naval Research.
+
+
+
+
+“(10)
+ The Air Force Research Laboratory.
+
+
+
+
+“(11)
+ The Tank and Automotive Research Development and Engineering Center.
+
+
+
+
+“(12)
+ The Armament Research Development and Engineering Center.
+
+
+
+
+“(13)
+ The Naval Air Warfare Center, Weapons Division.
+
+
+
+
+“(14)
+ The Naval Air Warfare Center, Aircraft Division.
+
+
+
+
+“(15)
+ The Space and Naval Warfare Systems Center, Pacific.
+
+
+
+
+“(16)
+ The Space and Naval Warfare Systems Center, Atlantic.
+
+
+
+
+“(17)
+ The laboratories within the Army Research Development and Engineering Command.
+
+
+
+
+“(b)
+ 
+Conversion Procedures
+.—
+The Secretary of Defense shall implement procedures to convert the civilian personnel of each Department of Defense science and technology reinvention laboratory, as so designated by subsection (a), from the personnel system which applies as of the date of the enactment of this Act [
+Oct. 28, 2009
+] to the personnel system under an appropriate demonstration project (as referred to in such section 342(b)). Any conversion under this subsection—
+“(1)
+ shall not adversely affect any employee with respect to pay or any other term or condition of employment;
+
+
+
+
+“(2)
+ shall be consistent with 
+section 4703(f) of title 5
+, United States Code;
+
+
+
+
+“(3)
+ shall be completed within 18 months after the date of the enactment of this Act; and
+
+
+
+
+“(4)
+ shall not apply to prevailing rate employees (as defined by 
+section 5342(a)(2) of title 5
+, United States Code) or senior executives (as defined by section 3132(a)(3) of such title).
+
+
+
+
+“(c)
+ 
+Limitation
+.—
+The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to in such section 342(b) [set out below]), without prior congressional authorization.”
+
+
+“(a)
+ 
+Requirement
+.—
+The Secretary of Defense shall take all necessary actions to fully implement and use the authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (
+Public Law 103–337
+; 
+108 Stat. 2721
+) [set out below], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by 
+Public Law 106–398
+; 
+114 Stat. 1654
+A–315), to carry out personnel management demonstration projects at Department of Defense laboratories designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (
+Public Law 111–84
+; 
+123 Stat. 2486
+; 
+10 U.S.C. 2358
+ note) as Department of Defense science and technology reinvention laboratories.
+
+
+“(b)
+ 
+Process for Full Implementation
+.—
+The Secretary of Defense shall also implement a process and implementation plan to fully utilize the authorities described in subsection (a) to enhance the performance of the missions of the laboratories.
+
+
+“(c)
+ 
+Other Laboratories
+.—
+Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (
+Public Law 111–84
+; 
+123 Stat. 2486
+) as a Department of Defense science and technology reinvention laboratory.
+
+
+“(d)
+ 
+Submission of List and Description
+.—
+Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report containing a list and description of the demonstration project notices, amendments, and changes requested by the laboratories during the preceding calendar year. The list shall include all approved and disapproved notices, amendments, and changes, and the reasons for disapproval or delay in approval.
+
+
+“(e)
+ Status Reports.—
+“(1)
+ 
+In general
+.—
+The Secretary shall include in each report under subsection (d) the information described in paragraph (2).
+
+
+
+
+“(2)
+ 
+Information required
+.—
+Each report under subsection (d) shall describe the following:
+“(A)
+ The actions taken by the Secretary of Defense under subsection (a) during the year covered by the report.
+
+
+
+
+“(B)
+ The progress made by the Secretary of Defense during such year in developing and implementing the plan required by subsection (b), including the anticipated date for completion of such plan and a list and description of any issues relating to the development or implementation of such plan.
+
+
+
+
+“(C)
+ With respect to any applications by any Department of Defense laboratories seeking to be designated as a demonstration laboratory or to otherwise obtain any of the personnel flexibilities available to a demonstration laboratory—
+“(i)
+ the number of applications that were received, pending, or acted on during such year;
+
+
+
+
+“(ii)
+ the status or disposition of any applications under clause (i), including, in the case of any application on which a final decision was rendered, the laboratory involved, what the laboratory had requested, the decision reached, and the reasons for the decision; and
+
+
+
+
+“(iii)
+ in the case of any applications under clause (i) on which a final decision was not rendered, the date by which a final decision is anticipated.
+
+
+
+
+
+
+
+
+“(3)
+ 
+Definition
+.—
+For purposes of this subsection, the term ‘demonstration laboratory’ means a laboratory designated by the Secretary of Defense under the provisions of section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 [
+Pub. L. 103–337
+, set out below] (as cited in subsection (a)).”
+
+
+
+
+“(a)
+ 
+General Rule
+.—
+In conducting or supporting clinical research, the Secretary of Defense shall ensure that—
+“(1)
+ women who are members of the Armed Forces are included as subjects in each project of such research; and
+
+
+
+
+“(2)
+ members of minority groups who are members of the Armed Forces are included as subjects of such research.
+
+
+
+
+“(b)
+ 
+Waiver Authority
+.—
+The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determines that the inclusion, as subjects in the project, of women and members of minority groups, respectively—
+“(1)
+ is inappropriate with respect to the health of the subjects;
+
+
+
+
+“(2)
+ is inappropriate with respect to the purpose of the research; or
+
+
+
+
+“(3)
+ is inappropriate under such other circumstances as the Secretary of Defense may designate.
+
+
+
+
+“(c)
+ 
+Requirement for Analysis of Research
+.—
+In the case of a project of clinical research in which women or members of minority groups will under subsection (a) be included as subjects of the research, the Secretary of Defense shall ensure that the project is designed and carried out so as to provide for a valid analysis of whether the variables being tested in the research affect women or members of minority groups, as the case may be, differently than other persons who are subjects of the research.”
+
+
+“(a)
+ 
+Establishment
+.—
+The Secretary of Defense, through the Assistant Secretary of Defense for Research and Engineering, may establish a University Research Initiative Support Program.
+
+
+“(b)
+ 
+Purpose
+.—
+Under the program, the Assistant Secretary may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
+
+
+“(c)
+ 
+Eligibility
+.—
+An institution of higher education is eligible for a grant or contract under the program if the institution has received less than a total of $2,000,000 in grants and contracts from the Department of Defense in the two most recent fiscal years for which complete statistics are available when proposals are requested for such grant or contract.
+
+
+“(d)
+ 
+Competition Required
+.—
+The Assistant Secretary shall use competitive procedures in awarding grants and contracts under the program.
+
+
+“(e)
+ 
+Selection Process
+.—
+In awarding grants and contracts under the program, the Assistant Secretary shall use a merit-based selection process that is consistent with the provisions of 
+section 2361(a) of title 10
+, United States Code.
+
+
+“(f)
+ 
+Regulations
+.—
+The Assistant Secretary shall prescribe regulations for carrying out the program.
+
+
+“(g)
+ 
+Funding
+.—
+Of the amounts authorized to be appropriated under section 201 [
+107 Stat. 1583
+], $20,000,000 shall be available for the University Research Initiative Support Program.”
+
+
+“(a)
+ No part of the funds appropriated pursuant to this or any other Act for the Department of Defense or any of the Armed Forces may be used at any institution of higher learning if the Secretary of Defense or his designee determines that recruiting personnel of any of the Armed Forces of the United States are being barred by the policy of such institution from the premises of the institution: except in a case where the Secretary of the service concerned certifies to the Congress in writing that a specific course of instruction is not available at any other institution of higher learning and furnishes to the Congress the reasons why such course of instruction is of vital importance to the security of the United States.
+
+
+“(b)
+ The prohibition made by subsection (a) of this section as it applies to research and development funds shall not apply if the Secretary of Defense or his designee determines that the expenditure is a continuation or a renewal of a previous program with such institution which is likely to make a significant contribution to the defense effort.
+
+
+“(c)
+ The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act [
+Sept. 29, 1972
+] and each January 31 and June 30 thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section.”
+
+
+ Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation
+(a)
+ 
+Policy
+.—
+Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
+
+
+(b)
+ 
+Covered Officials
+.—
+Subsection (a) applies to the following officials of the Department of Defense:
+(1)
+ The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+
+
+(2)
+ The Secretary of each military department.
+
+
+
+
+(3)
+ The Director of the Defense Advanced Research Projects Agency.
+
+
+
+
+(4)
+ The directors and heads of other offices and agencies of the Department of Defense with assigned research, development, test, and evaluation responsibilities.
+
+
+
+
+“(a)
+ 
+Pilot Program
+.—
+The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, may establish and implement a pilot program, to be known as the ‘Proof of Concept Commercialization Pilot Program’, in accordance with this section.
+
+
+“(b)
+ 
+Purpose
+.—
+The purpose of the pilot program is to accelerate the commercialization of basic research innovations from qualifying institutions.
+
+
+“(c)
+ Awards.—
+“(1)
+ 
+In general
+.—
+Under the pilot program, the Secretary shall make financial awards to qualifying institutions in accordance with this subsection.
+
+
+
+
+“(2)
+ 
+Competitive, merit-based process
+.—
+An award under the pilot program shall be made using a competitive, merit-based process.
+
+
+
+
+“(3)
+ 
+Eligibility
+.—
+A qualifying institution shall be eligible for an award under the pilot program if the institution agrees to—
+“(A)
+ use funds from the award for the uses specified in paragraph (5); and
+
+
+
+
+“(B)
+ oversee the use of the funds through—
+“(i)
+ a rigorous, diverse review board comprised of experts in translational and proof of concept research, including industry, start-up, venture capital, technical, financial, and business experts and university technology transfer officials;
+
+
+
+
+“(ii)
+ technology validation milestones focused on market feasibility;
+
+
+
+
+“(iii)
+ simple reporting on program progress; and
+
+
+
+
+“(iv)
+ a process to reallocate funding from poor performing projects to those with more potential.
+
+
+
+
+
+
+
+
+“(4)
+ 
+Criteria
+.—
+An award may be made under the pilot program to a qualifying institution in accordance with the following criteria:
+“(A)
+ The extent to which a qualifying institution—
+“(i)
+ has an established and proven technology transfer or commercialization office and has a plan for engaging that office in the program’s implementation or has outlined an innovative approach to technology transfer that has the potential to increase or accelerate technology transfer outcomes and can be adopted by other qualifying institutions;
+
+
+
+
+“(ii)
+ can assemble a project management board comprised of industry, start-up, venture capital, technical, financial, and business experts;
+
+
+
+
+“(iii)
+ has an intellectual property rights strategy or office; and
+
+
+
+
+“(iv)
+ demonstrates a plan for sustainability beyond the duration of the funding from the award.
+
+
+
+
+
+
+“(B)
+ Such other criteria as the Secretary determines necessary.
+
+
+
+
+
+
+“(5)
+ Use of award.—
+“(A)
+ 
+In general
+.—
+Subject to subparagraph (B), the funds from an award may be used to evaluate the commercial potential of existing discoveries, including activities that contribute to determining a project’s commercialization path, including technical validations, market research, clarifying intellectual property rights, and investigating commercial and business opportunities.
+
+
+
+
+“(B)
+ Limitations.—
+“(i)
+ The amount of an award may not exceed $500,000 a year.
+
+
+
+
+“(ii)
+ Funds from an award may not be used for basic research, or to fund the acquisition of research equipment or supplies unrelated to commercialization activities.
+
+
+
+
+
+
+
+
+“(d)
+ 
+Report
+.—
+Not later than one year after the establishment of the pilot program, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating the effectiveness of the activities of the pilot program. The report shall include—
+“(1)
+ a detailed description of the pilot program, including incentives and activities undertaken by review board experts;
+
+
+
+
+“(2)
+ an accounting of the funds used in the pilot program;
+
+
+
+
+“(3)
+ a detailed description of the institutional selection process;
+
+
+
+
+“(4)
+ a detailed compilation of results achieved by the pilot program; and
+
+
+
+
+“(5)
+ an analysis of the program’s effectiveness, with data supporting the analysis.
+
+
+
+
+“(e)
+ 
+Qualifying Institution Defined
+.—
+In this section, the term ‘qualifying institution’ means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3703(3)
+), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3703(4)
+).
+
+
+“(f)
+ 
+Limitation
+.—
+Not more than $5,000,000 may be obligated or expended to conduct the pilot program under this section.
+
+
+“(g)
+ 
+Termination
+.—
+The pilot program conducted under this section shall terminate on 
+September 30, 2018
+.”
+
+
+“(a)
+ 
+Program Established
+.—
+The Secretary of Defense shall establish a competitive, merit-based program to accelerate the fielding of technologies developed pursuant to phase II Small Business Innovation Research Program projects, technologies developed by the defense laboratories, and other innovative technologies (including dual use technologies). The purpose of this program is to stimulate innovative technologies and reduce acquisition or lifecycle costs, address technical risks, improve the timeliness and thoroughness of test and evaluation outcomes, and rapidly insert such products directly in support of primarily major defense acquisition programs, but also other defense acquisition programs that meet critical national security needs.
+
+
+“(b)
+ 
+Guidelines
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Jan. 7, 2011
+], the Secretary shall issue guidelines for the operation of the program. At a minimum such guidance shall provide for the following:
+“(1)
+ The issuance of an annual broad agency announcement or the use of any other competitive or merit-based processes by the Department of Defense and by each military department for candidate proposals in direct support of primarily major defense acquisition programs, but also other defense acquisition programs as described in subsection (a).
+
+
+
+
+“(2)
+ The review of candidate proposals by the Department of Defense and by each military department and the merit-based selection of the most promising cost-effective proposals for funding through contracts, cooperative agreements, and other transactions for the purposes of carrying out the program.
+
+
+
+
+“(3)
+ The total amount of funding provided to any project under the program shall not exceed $3,000,000, unless the Secretary, or the Secretary’s designee, approves a larger amount of funding for the project. Any such approval shall be made on a case-by-case basis and notice of any such approval shall be submitted to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] by not later than 30 days after such approval is made.
+
+
+
+
+“(4)
+ No project shall be funded under the program for more than two years, unless the Secretary, or the Secretary’s designee, approves funding for any additional year. Any such approval shall be made on a case-by-case basis and notice of any such approval shall be submitted to the congressional defense committees by not later than 30 days after such approval is made.
+
+
+
+
+“(c)
+ 
+Treatment Pursuant to Certain Congressional Rules
+.—
+Nothing in this section shall be interpreted to require or enable any official of the Department of Defense to provide funding under this section to any earmark as defined pursuant to House Rule XXI, clause 9, or any congressionally directed spending item as defined pursuant to Senate Rule XLIV, paragraph 5.
+
+
+“(d)
+ 
+Funding
+.—
+Subject to the availability of appropriations for such purpose, the amounts authorized to be appropriated for research, development, test, and evaluation for each of fiscal years 2011 through 2015 may be used for any such fiscal year for the program established under subsection (a).
+
+
+“(e)
+ 
+Transfer Authority
+.—
+The Secretary may transfer funds available for the program to the research, development, test, and evaluation accounts of a military department, defense agency, or the unified combatant command for special operations forces pursuant to a proposal, or any part of a proposal, that the Secretary determines would directly support the purposes of the program. The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.
+
+
+“(f)
+ 
+Report
+.—
+Not later than 60 days after the last day of a fiscal year during which the Secretary carries out a program under this section, the Secretary shall submit to the congressional defense committees a report that includes a list and description of each project funded under this section, including, for each such project, the amount of funding provided for the project, the defense acquisition program that the project supports, including the extent to which the project meets needs identified in its acquisition plan, the anticipated timeline for transition for the project, and the degree to which a competitive, merit-based process was used to evaluate and select the performers of the projects selected under this program.
+
+
+“(g)
+ 
+Termination
+.—
+The authority to carry out a program under this section shall terminate on 
+September 30, 2015
+. Any amounts made available for the program that remain available for obligation on the date the program terminates may be transferred under subsection (e) during the 180-day period beginning on the date of the termination of the program.”
+
+
+ Repealed. 
+ Defense Acquisition Challenge Program
+(a)
+ 
+Program Required
+.—
+(1)
+ The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
+
+
+
+
+(2)
+ The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the “Challenge Program”), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program.
+
+
+
+
+(b)
+ 
+Panels
+.—
+The Under Secretary shall establish one or more panels of highly qualified scientists and engineers (hereinafter in this section referred to as “Panels”) to provide preliminary evaluations of challenge proposals under subsection (c).
+
+
+(c)
+ 
+Preliminary Evaluation by Panels
+.—
+(1)
+ Under procedures prescribed by the Under Secretary, a person or activity within or outside the Department of Defense may submit challenge proposals to a Panel, through the unsolicited proposal process or in response to a broad agency announcement.
+
+
+
+
+(2)
+ The Under Secretary shall establish procedures pursuant to which appropriate officials of the Department of Defense may identify proposals submitted through the unsolicited proposal process as challenge proposals. The procedures shall provide for the expeditious referral of such proposals to a Panel for preliminary evaluation under this subsection.
+
+
+
+
+(3)
+ The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs that will be given priority in the evaluation of challenge proposals.
+
+
+
+
+(4)
+(A)
+ The Under Secretary shall establish procedures for the prompt issuance of a solicitation for challenge proposals addressing—
+(i)
+ any acquisition program for which, since the last such announcement, the Secretary concerned has determined under 
+section 2433(d) of this title
+ that the program’s acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a “critical cost growth threshold breach”); and
+
+
+
+
+(ii)
+ any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by 
+section 2433(e)(2)(A) of this title
+, that have contributed significantly to the cost growth of such program.
+
+
+
+
+
+
+(B)
+ A solicitation under this paragraph may be included in a broad agency announcement issued pursuant to paragraph (3) as long as the broad agency announcement is released in an expeditious manner following the determination of the Secretary concerned that a critical cost growth threshold breach has occurred with respect to a major defense acquisition program.
+
+
+
+
+
+
+(5)
+ Under procedures established by the Under Secretary, a Panel shall carry out a preliminary evaluation of each challenge proposal submitted in response to a broad agency announcement, or submitted through the unsolicited proposal process and identified as a challenge proposal in accordance with paragraph (2), to determine each of the following:
+(A)
+ Whether the challenge proposal has merit.
+
+
+
+
+(B)
+ Whether the challenge proposal is likely to result in improvements in performance, affordability, manufacturability, or operational capability at the component, subsystem, or system level of an acquisition program.
+
+
+
+
+(C)
+ Whether the challenge proposal could be implemented in the acquisition program rapidly, at an acceptable cost, and without unacceptable disruption to the acquisition program.
+
+
+
+
+
+
+(6)
+ The Under Secretary—
+(A)
+ may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit; and
+
+
+
+
+(B)
+ may establish procedures to ensure that the Challenge Program establishes appropriate priorities for proposals from businesses that are not major contractors with the Department of Defense.
+
+
+
+
+
+
+(7)
+ If a Panel determines that a challenge proposal satisfies each of the criteria specified in paragraph (5), the person or activity submitting that challenge proposal shall be provided an opportunity to submit such challenge proposal for a full review and evaluation under subsection (d).
+
+
+
+
+(d)
+ 
+Full Review and Evaluation
+.—
+(1)
+ Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
+
+
+
+
+(2)
+ The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
+(A)
+ an assessment of the cost of adopting the challenge proposal and implementing it in the acquisition program; and
+
+
+
+
+(B)
+ consideration of any intellectual property issues associated with the challenge proposal.
+
+
+
+
+
+
+(e)
+ 
+Action Upon Favorable Full Review and Evaluation
+.—
+(1)
+ Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
+
+
+
+
+(2)
+ The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
+
+
+
+
+(3)
+ In the case of a challenge proposal submitted in response to a solicitation issued as a result of a critical cost growth threshold breach that is determined under full review and evaluation to satisfy each of the criteria specified in subsection (c)(5), the Under Secretary shall establish guidelines for covering the costs of the challenge proposal. If appropriate, such guidelines shall not be restricted to funding provided by the Defense Acquisition Challenge Program, but shall also consider alternative funding sources, such as the acquisition program with respect to which the breach occurred.
+
+
+
+
+(f)
+ 
+Action Upon Unfavorable Full Review and Evaluation
+.—
+Under procedures prescribed by the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
+(1)
+ The office carrying out the full review and evaluation shall provide to the Panel that conducted the preliminary evaluation a statement containing a summary of the rationale for the unfavorable evaluation.
+
+
+
+
+(2)
+ If the Panel disagrees with the rationale provided under paragraph (1), the Panel may return the challenge proposal to the office for further consideration.
+
+
+
+
+(g)
+ 
+Access to Technical Resources
+.—
+(1)
+ Under procedures established by the Under Secretary, the technical resources of the laboratories, research, development, and engineering centers, test and evaluation activities, and other elements of the Department may be called upon to support the activities of the Challenge Program.
+
+
+
+
+(2)
+ Funds available to carry out this program may be used to compensate such laboratories, centers, activities, and elements for technical assistance provided to a Panel pursuant to paragraph (1).
+
+
+
+
+(h)
+ 
+Conflicts of Interest and Confidentiality
+.—
+In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term “Federal Government” includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
+
+
+(i)
+ 
+Limitation on Use of Funds
+.—
+Funds made available for the Challenge Program may be used only for activities authorized by this section, and not for implementation of challenge proposals.
+
+
+(j)
+ 
+System Defined
+.—
+In this section, the term “system”—
+(1)
+ means—
+(A)
+ the organization of hardware, software, material, facilities, personnel, data, and services needed to perform a designated function with specified results (such as the gathering of specified data, its processing, and its delivery to users); or
+
+
+
+
+(B)
+ a combination of two or more interrelated pieces (or sets) of equipment arranged in a functional package to perform an operational function or to satisfy a requirement; and
+
+
+
+
+
+
+(2)
+ includes a major system (as defined in 
+section 2302(5) of this title
+).
+
+
+
+
+(k)
+ Pilot Program for Programs Other Than Major Defense Acquisition Programs.—
+(1)
+ 
+In general
+.—
+The Under Secretary of Defense for Acquisition, Technology, and Logistics shall carry out a pilot program to expand the use of the authority provided in this section to provide opportunities for the introduction of innovative and cost-saving approaches to programs other than major defense acquisition programs through the submission, review, and implementation, where appropriate, of qualifying proposals.
+
+
+
+
+(2)
+ 
+Qualifying proposals
+.—
+For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—
+(A)
+ is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procured under a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
+
+
+
+
+(B)
+ is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
+
+
+
+
+
+
+(3)
+ 
+Review procedures
+.—
+The Under Secretary shall adopt modifications as may be needed to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
+
+
+
+
+(4)
+ 
+Definitions
+.—
+In this subsection:
+(A)
+ 
+Nondevelopmental item
+.—
+The term “nondevelopmental item” has the meaning given that term in section 4 
+1
+1
+ See References in Text note below.
+ of the Office of Federal Procurement Policy Act (
+41 U.S.C. 403
+).
+
+
+
+
+(B)
+ 
+Covered acquisition program
+.—
+The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (
+15 U.S.C. 631
+ et seq.).
+
+
+
+
+(C)
+ 
+Level of performance
+.—
+The term “level of performance”, with respect to a nondevelopmental item, means the extent to which the item demonstrates required item functional characteristics.
+
+
+
+
+
+
+(5)
+ 
+Sunset
+.—
+The authority to carry out the pilot program under this subsection shall terminate on 
+January 7, 2016
+.
+
+
+
+
+ Research and development laboratories: contracts for services of university students
+(a)
+ Subject to the availability of appropriations for such purpose, the Secretary of Defense may procure by contract under the authority of this section the temporary or intermittent services of students at institutions of higher learning for the purpose of providing technical support at defense research and development laboratories. Such contracts may be made directly with such students or with nonprofit organizations employing such students.
+
+
+(b)
+ Students providing services pursuant to a contract made under subsection (a) shall be considered to be employees for the purposes of chapter 81 of title 5, relating to compensation for work injuries, and to be employees of the government for the purposes of chapter 171 of title 28, relating to tort claims. Such students who are not otherwise employed by the Federal Government shall not be considered to be Federal employees for any other purpose.
+
+
+(c)
+ The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall include definitions for the purposes of this section of the terms “student”, “institution of higher learning”, and “nonprofit organization”.
+
+
+ Award of grants and contracts to colleges and universities: requirement of competition
+(a)
+ The Secretary of Defense may not make a grant or award a contract to a college or university for the performance of research and development, or for the construction of any research or other facility, unless—
+(1)
+ in the case of a grant, the grant is made using competitive procedures; and
+
+
+
+
+(2)
+ in the case of a contract, the contract is awarded in accordance with 
+section 2304 of this title
+ (other than pursuant to subsection (c)(5) of that section).
+
+
+
+
+(b)
+(1)
+ A provision of law may not be construed as modifying or superseding the provisions of subsection (a), or as requiring funds to be made available by the Secretary of Defense to a particular college or university by grant or contract, unless that provision of law—
+(A)
+ specifically refers to this section;
+
+
+
+
+(B)
+ specifically states that such provision of law modifies or supersedes the provisions of this section; and
+
+
+
+
+(C)
+ specifically identifies the particular college or university involved and states that the grant to be made or the contract to be awarded, as the case may be, pursuant to such provision of law is being made or awarded in contravention of subsection (a).
+
+
+
+
+
+
+(2)
+ A grant may not be made, or a contract awarded, pursuant to a provision of law that authorizes or requires the making of the grant, or the awarding of the contract, in a manner that is inconsistent with subsection (a) until—
+(A)
+ the Secretary of Defense submits to Congress a notice in writing of the intent to make the grant or award the contract; and
+
+
+
+
+(B)
+ a period of 180 days has elapsed after the date on which the notice is received by Congress.
+
+
+
+
+
+
+ Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education
+(a)
+ 
+Program Established
+.—
+(1)
+ The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
+
+
+
+
+(2)
+ The Secretary of Defense may not delegate or transfer to an individual outside the Office of the Secretary of Defense the authority regarding the programming or budgeting of the program established by this section that is carried out by the Assistant Secretary of Defense for Research and Engineering.
+
+
+
+
+(b)
+ 
+Program Objective
+.—
+The objective of the program established by subsection (a)(1) is to enhance defense-related research and education at covered educational institutions. Such objective shall be accomplished through initiatives designed to—
+(1)
+ enhance the research and educational capabilities of such institutions in areas of importance to national defense, as determined by the Secretary;
+
+
+
+
+(2)
+ encourage the participation of such institutions in the research, development, testing, and evaluation programs and activities of the Department of Defense;
+
+
+
+
+(3)
+ increase the number of graduates from such institutions engaged in disciplines important to the national security functions of the Department of Defense, as determined by the Secretary; and
+
+
+
+
+(4)
+ encourage research and educational collaborations between such institutions and other institutions of higher education, Government defense organizations, and the defense industry.
+
+
+
+
+(c)
+ 
+Assistance Provided
+.—
+Under the program established by subsection (a)(1), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
+(1)
+ Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants, cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
+
+
+
+
+(2)
+ Support to assist in the attraction and retention of faculty in scientific disciplines important to the national security functions of the Department of Defense.
+
+
+
+
+(3)
+ Establishing partnerships between such institutions and defense laboratories, Government defense organizations, the defense industry, and other institutions of higher education in research, development, testing, and evaluation in areas important to the national security functions of the Department of Defense.
+
+
+
+
+(4)
+ Other such non-monetary assistance as the Secretary finds appropriate to enhance defense-related research, development, testing, and evaluation activities at such institutions.
+
+
+
+
+(d)
+ 
+Priority for Funding
+.—
+The Secretary of Defense may establish procedures under which the Secretary may give priority in providing funding under this section to institutions that have not otherwise received a significant amount of funding from the Department of Defense for research, development, testing, and evaluation programs supporting the national security functions of the Department.
+
+
+(e)
+ 
+Definition of Covered Educational Institution
+.—
+In this section the term “covered educational institution” means—
+(1)
+ an institution of higher education eligible for assistance under title III or V of the Higher Education Act of 1965 (
+20 U.S.C. 1051
+ et seq.); or
+
+
+
+
+(2)
+ an accredited postsecondary minority institution.
+
+
+
+
+ Repealed. 
+ Coordination and communication of defense research activities
+(a)
+ 
+Coordination of Department of Defense Technological Data
+.—
+The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
+(1)
+ among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
+
+
+
+
+(2)
+ among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters.
+
+
+
+
+(b)
+ 
+Functions of Defense Research Facilities
+.—
+The Secretary of Defense shall ensure, to the maximum extent practicable—
+(1)
+ that Defense research facilities are assigned broad mission requirements rather than specific hardware needs;
+
+
+
+
+(2)
+ that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;
+
+
+
+
+(3)
+ that the managers of such facilities have broad latitude to choose research and development projects;
+
+
+
+
+(4)
+ that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
+
+
+
+
+(5)
+ that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
+
+
+
+
+(c)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
+(A)
+ basic research; or
+
+
+
+
+(B)
+ applied research known as exploratory development.
+
+
+
+
+
+
+(2)
+ The term “acquisition program decision” has the meaning prescribed by the Secretary of Defense in regulations.”
+
+
+
+
+“(a)
+ 
+Purpose
+.—
+The purpose of this section is to strengthen coordination among Department of Defense research facilities and other organizations in the Department of Defense.
+
+
+“(b)
+ 
+Findings
+.—
+The Congress finds that centralized coordination of the collection and dissemination of technological data among research facilities and other organizations within the Department of Defense is necessary—
+“(1)
+ to ensure that personnel of the Department are currently informed about emerging technology for defense systems; and
+
+
+
+
+“(2)
+ to avoid unnecessary and costly duplication of research staffs and projects.”
+
+
+
+
+ Global Research Watch Program
+(a)
+ 
+Program
+.—
+The Assistant Secretary of Defense for Research and Engineering shall carry out a Global Research Watch program in accordance with this section.
+
+
+(b)
+ 
+Program Goals
+.—
+The goals of the program are as follows:
+(1)
+ To monitor and analyze the basic and applied research activities and capabilities of foreign nations in areas of military interest, including allies and competitors.
+
+
+
+
+(2)
+ To provide standards for comparison and comparative analysis of research capabilities of foreign nations in relation to the research capabilities of the United States.
+
+
+
+
+(3)
+ To assist Congress and Department of Defense officials in making investment decisions for research in technical areas where the United States may not be the global leader.
+
+
+
+
+(4)
+ To identify areas where significant opportunities for cooperative research may exist.
+
+
+
+
+(5)
+ To coordinate and promote the international cooperative research and analysis activities of each of the armed forces and Defense Agencies.
+
+
+
+
+(6)
+ To establish and maintain an electronic database on international research capabilities, comparative assessments of capabilities, cooperative research opportunities, and ongoing cooperative programs.
+
+
+
+
+(c)
+ 
+Focus of Program
+.—
+The program shall be focused on research and technologies at a technical maturity level equivalent to Department of Defense basic and applied research programs.
+
+
+(d)
+ 
+Coordination
+.—
+(1)
+ The Assistant Secretary shall coordinate the program with the international cooperation and analysis activities of the military departments and Defense Agencies.
+
+
+
+
+(2)
+ The Secretaries of the military departments and the directors of the Defense Agencies shall provide the Assistant Secretary of Defense for Research and Engineering such assistance as the Assistant Secretary may require for purposes of the program.
+
+
+
+
+(3)
+(A)
+ Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Assistant Secretary certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
+
+
+
+
+(B)
+ The limitation in subparagraph (A) shall not be construed to alter or effect the availability to a military department of funds for intelligence activities.
+
+
+
+
+
+
+(e)
+ 
+Classification of Database Information
+.—
+Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Assistant Secretary, in classified form in such databases.
+
+
+(f)
+ 
+Termination
+.—
+The requirement to carry out the program under this section shall terminate on 
+September 30, 2015
+.
+
+
+ Major systems and munitions programs: survivability testing and lethality testing required before full-scale production
+(a)
+ 
+Requirements
+.—
+(1)
+ The Secretary of Defense shall provide that—
+(A)
+ a covered system may not proceed beyond low-rate initial production until realistic survivability testing of the system is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and
+
+
+
+
+(B)
+ a major munition program or a missile program may not proceed beyond low-rate initial production until realistic lethality testing of the program is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection.
+
+
+
+
+
+
+(2)
+ The Secretary of Defense shall provide that a covered product improvement program may not proceed beyond low-rate initial production until—
+(A)
+ in the case of a product improvement to a covered system, realistic survivability testing is completed in accordance with this section; and
+
+
+
+
+(B)
+ in the case of a product improvement to a major munitions program or a missile program, realistic lethality testing is completed in accordance with this section.
+
+
+
+
+
+
+(b)
+ 
+Test Guidelines
+.—
+(1)
+ Survivability and lethality tests required under subsection (a) shall be carried out sufficiently early in the development phase of the system or program (including a covered product improvement program) to allow any design deficiency demonstrated by the testing to be corrected in the design of the system, munition, or missile (or in the product modification or upgrade to the system, munition, or missile) before proceeding beyond low-rate initial production.
+
+
+
+
+(2)
+ The costs of all tests required under that subsection shall be paid from funds available for the system being tested.
+
+
+
+
+(c)
+ 
+Waiver Authority
+.—
+(1)
+ The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary determines that live-fire testing of such system or program would be unreasonably expensive and impractical and submits a certification of that determination to Congress—
+(A)
+ before Milestone B approval for the system or program; or
+
+
+
+
+(B)
+ in the case of a system or program initiated at—
+(i)
+ Milestone B, as soon as is practicable after the Milestone B approval; or
+
+
+
+
+(ii)
+ Milestone C, as soon as is practicable after the Milestone C approval.
+
+
+
+
+
+
+
+
+(2)
+ In the case of a covered system (or covered product improvement program for a covered system), the Secretary may waive the application of the survivability and lethality tests of this section to such system or program and instead allow testing of the system or program in combat by firing munitions likely to be encountered in combat at components, subsystems, and subassemblies, together with performing design analyses, modeling and simulation, and analysis of combat data. Such alternative testing may not be carried out in the case of any covered system (or covered product improvement program for a covered system) unless the Secretary certifies to Congress, before the system or program enters system development and demonstration, that the survivability and lethality testing of such system or program otherwise required by this section would be unreasonably expensive and impracticable.
+
+
+
+
+(3)
+ The Secretary shall include with any certification under paragraph (1) or (2) a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.
+
+
+
+
+(4)
+ In time of war or mobilization, the President may suspend the operation of any provision of this section.
+
+
+
+
+(d)
+ 
+Reporting to Congress
+.—
+(1)
+ At the conclusion of survivability or lethality testing under subsection (a), the Secretary of Defense shall submit a report on the testing to the congressional defense committees. Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary’s overall assessment of the testing.
+
+
+
+
+(2)
+ If a decision is made within the Department of Defense to proceed to operational use of a system, or to make procurement funds available for a system, before Milestone C approval of that system, the Secretary of Defense shall submit to the congressional defense committees, as soon as practicable after such decision, the following:
+(A)
+ A report describing the status of survivability and live fire testing of that system.
+
+
+
+
+(B)
+ The report required under paragraph (1).
+
+
+
+
+
+
+(e)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “covered system” means—
+(A)
+ a vehicle, weapon platform, or conventional weapon system that—
+(i)
+ includes features designed to provide some degree of protection to users in combat; and
+
+
+
+
+(ii)
+ is a major system as defined in 
+section 2302(5) of this title
+; or
+
+
+
+
+
+
+(B)
+ any other system or program designated by the Secretary of Defense for purposes of this section.
+
+
+
+
+
+
+(2)
+ The term “major munitions program” means—
+(A)
+ a munition program for which more than 1,000,000 rounds are planned to be acquired; or
+
+
+
+
+(B)
+ a conventional munitions program that is a major system within the meaning of that term in 
+section 2302(5) of this title
+.
+
+
+
+
+
+
+(3)
+ The term “realistic survivability testing” means, in the case of a covered system (or a covered product improvement program for a covered system), testing for vulnerability of the system in combat by firing munitions likely to be encountered in combat (or munitions with a capability similar to such munitions) at the system configured for combat, with the primary emphasis on testing vulnerability with respect to potential user casualties and taking into equal consideration the susceptibility to attack and combat performance of the system.
+
+
+
+
+(4)
+ The term “realistic lethality testing” means, in the case of a major munitions program or a missile program (or a covered product improvement program for such a program), testing for lethality by firing the munition or missile concerned at appropriate targets configured for combat.
+
+
+
+
+(5)
+ The term “configured for combat”, with respect to a weapon system, platform, or vehicle, means loaded or equipped with all dangerous materials (including all flammables and explosives) that would normally be on board in combat.
+
+
+
+
+(6)
+ The term “covered product improvement program” means a program under which—
+(A)
+ a modification or upgrade will be made to a covered system which (as determined by the Secretary of Defense) is likely to affect significantly the survivability of such system; or
+
+
+
+
+(B)
+ a modification or upgrade will be made to a major munitions program or a missile program which (as determined by the Secretary of Defense) is likely to affect significantly the lethality of the munition or missile produced under the program.
+
+
+
+
+
+
+(7)
+ The term “Milestone B approval” means a decision to enter into system development and demonstration pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+
+
+
+
+(8)
+ The term “Milestone C approval” means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+
+
+
+
+ Major defense acquisition programs: certification required before Milestone A approval
+(a)
+ 
+Certification
+.—
+A major defense acquisition program may not receive Milestone A approval or otherwise be initiated prior to Milestone B approval until the Milestone Decision Authority certifies, after consultation with the Joint Requirements Oversight Council on matters related to program requirements and military needs—
+(1)
+ that the program fulfills an approved initial capabilities document;
+
+
+
+
+(2)
+ that the program is being executed by an entity with a relevant function as identified by the Secretary of Defense under 
+section 118b of this title
+;
+
+
+
+
+(3)
+ if the program duplicates a capability already provided by an existing system, the duplication provided by such program is necessary and appropriate;
+
+
+
+
+(4)
+ that a determination of applicability of core logistics capabilities requirements has been made;
+
+
+
+
+(5)
+ that an analysis of alternatives has been performed consistent with study guidance developed by the Director of Cost Assessment and Program Evaluation; and
+
+
+
+
+(6)
+ that a cost estimate for the program has been submitted, with the concurrence of the Director of Cost Assessment and Program Evaluation, and that the level of resources required to develop, procure, and sustain the program is consistent with the priority level assigned by the Joint Requirements Oversight Council.
+
+
+
+
+(b)
+ 
+Notification
+.—
+(1)
+ With respect to a major defense acquisition program certified by the Milestone Decision Authority under subsection (a) or a designated major subprogram of such program, if the projected cost of the program or subprogram, at any time prior to Milestone B approval, exceeds the cost estimate for the program submitted at the time of the certification by at least 25 percent, or the program manager determines that the period of time required for the delivery of an initial operational capability is likely to exceed the schedule objective established pursuant to 
+section 181(b)(5) of this title
+ by more than 25 percent, the program manager for the program concerned shall notify the Milestone Decision Authority. The Milestone Decision Authority, in consultation with the Joint Requirements Oversight Council on matters related to program requirements and military needs, shall determine whether the level of resources required to develop and procure the program remains consistent with the priority level assigned by the Joint Requirements Oversight Council. The Milestone Decision Authority may withdraw the certification concerned or rescind Milestone A approval if the Milestone Decision Authority determines that such action is in the interest of national defense.
+
+
+
+
+(2)
+ Not later than 30 days after a program manager submits a notification to the Milestone Decision Authority pursuant to paragraph (1) with respect to a major defense acquisition program or designated major subprogram, the Milestone Decision Authority shall submit to the congressional defense committees a report that—
+(A)
+ identifies the root causes of the cost or schedule growth in accordance with applicable policies, procedures, and guidance;
+
+
+
+
+(B)
+ identifies appropriate acquisition performance measures for the remainder of the development of the program; and
+
+
+
+
+(C)
+ includes one of the following:
+(i)
+ A written certification (with a supporting explanation) stating that—
+(I)
+ the program is essential to national security;
+
+
+
+
+(II)
+ there are no alternatives to the program that will provide acceptable military capability at less cost;
+
+
+
+
+(III)
+ new estimates of the development cost or schedule, as appropriate, are reasonable; and
+
+
+
+
+(IV)
+ the management structure for the program is adequate to manage and control program development cost and schedule.
+
+
+
+
+
+
+(ii)
+ A plan for terminating the development of the program or withdrawal of Milestone A approval if the Milestone Decision Authority determines that such action is in the interest of national defense.
+
+
+
+
+
+
+
+
+(c)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “major defense acquisition program” has the meaning provided in 
+section 2430 of this title
+.
+
+
+
+
+(2)
+ The term “designated major subprogram” means a major subprogram of a major defense acquisition program designated under 
+section 2430a(a)(1) of this title
+.
+
+
+
+
+(3)
+ The term “initial capabilities document” means any capabilities requirement document approved by the Joint Requirements Oversight Council that establishes the need for a materiel approach to resolve a capability gap.
+
+
+
+
+(4)
+ The term “technology development program” means a coordinated effort to assess technologies and refine user performance parameters to fulfill a capability gap identified in an initial capabilities document.
+
+
+
+
+(5)
+ The term “entity” means an entity listed in 
+section 118b(c)(3) of this title
+.
+
+
+
+
+(6)
+ The term “Milestone B approval” has the meaning provided that term in 
+section 2366(e)(7) of this title
+.
+
+
+
+
+(7)
+ The term “core logistics capabilities” means the core logistics capabilities identified under 
+section 2464(a) of this title
+.
+
+
+
+
+ Major defense acquisition programs: certification required before Milestone B approval
+(a)
+ 
+Certification
+.—
+A major defense acquisition program may not receive Milestone B approval until the milestone decision authority—
+(1)
+ has received a business case analysis and certifies on the basis of the analysis that—
+(A)
+ the program is affordable when considering the ability of the Department of Defense to accomplish the program’s mission using alternative systems;
+
+
+
+
+(B)
+ appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
+
+
+
+
+(C)
+ reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program; and
+
+
+
+
+(D)
+ funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
+
+
+
+
+
+
+(2)
+ has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
+
+
+
+
+(3)
+ further certifies that—
+(A)
+ appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
+
+
+
+
+(B)
+ the Department of Defense has completed an analysis of alternatives with respect to the program;
+
+
+
+
+(C)
+ the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to 
+section 181(b) of this title
+, including an analysis of the operational requirements for the program;
+
+
+
+
+(D)
+ the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
+
+
+
+
+(E)
+ life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
+
+
+
+
+(F)
+ an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
+
+
+
+
+(G)
+ there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired; and
+
+
+
+
+(H)
+ the program complies with all relevant policies, regulations, and directives of the Department of Defense; and
+
+
+
+
+
+
+(4)
+ in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after 
+December 31, 2019
+.
+
+
+
+
+(b)
+ 
+Changes to Certification
+.—
+(1)
+ The program manager for a major defense acquisition program that has received certification under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
+(A)
+ alter the substantive basis for the certification of the milestone decision authority relating to any component of such certification specified in paragraph (1) or (2) of subsection (a); or
+
+
+
+
+(B)
+ otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certification.
+
+
+
+
+
+
+(2)
+ Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescind Milestone B approval if the milestone decision authority determines that such certification or approval is no longer valid.
+
+
+
+
+(c)
+ 
+Submission to Congress
+.—
+(1)
+ The certification required under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under 
+section 2432 of this title
+ after completion of the certification.
+
+
+
+
+(2)
+ A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under 
+section 2432 of this title
+ after receipt of such information by the milestone decision authority.
+
+
+
+
+(d)
+ 
+Waiver for National Security
+.—
+(1)
+ The milestone decision authority may, at the time of Milestone B approval or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
+
+
+
+
+(2)
+ Whenever the milestone decision authority makes such a determination and authorizes such a waiver—
+(A)
+ the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized; and
+
+
+
+
+(B)
+ the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification components specified in paragraphs (1), (2), and (3) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification components.
+
+
+
+
+
+
+(3)
+ The requirement in paragraph (2)(B) shall not apply to a program for which a certification was required pursuant to 
+section 2433a(c) of this title
+ if the milestone decision authority—
+(A)
+ determines in writing that—
+(i)
+ the program has reached a stage in the acquisition process at which it would not be practicable to meet the certification component that was waived; and
+
+
+
+
+(ii)
+ the milestone decision authority has taken appropriate alternative actions to address the underlying purposes of such certification component; and
+
+
+
+
+
+
+(B)
+ submits the written determination, and an explanation of the basis for the determination, to the congressional defense committees.
+
+
+
+
+
+
+(e)
+ 
+Designation of Certification Status in Budget Documentation
+.—
+Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification components.
+
+
+(f)
+ 
+Nondelegation
+.—
+The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).
+
+
+(g)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “major defense acquisition program” means a Department of Defense acquisition program that is a major defense acquisition program for purposes of 
+section 2430 of this title
+.
+
+
+
+
+(2)
+ The term “designated major subprogram” means a major subprogram of a major defense acquisition program designated under 
+section 2430a(a)(1) of this title
+.
+
+
+
+
+(3)
+ The term “milestone decision authority”, with respect to a major defense acquisition program, means the individual within the Department of Defense designated with overall responsibility for the program.
+
+
+
+
+(4)
+ The term “Milestone B approval” has the meaning provided that term in 
+section 2366(e)(7) of this title
+.
+
+
+
+
+(5)
+ The term “core logistics capabilities” means the core logistics capabilities identified under 
+section 2464(a) of this title
+.
+
+
+
+
+ Use of federally funded research and development centers
+(a)
+ 
+Limitation on Use of Centers
+.—
+Except as provided in subsection (b), the Secretary of Defense may not place work with a federally funded research and development center unless such work is within the purpose, mission, and general scope of effort of such center as established in the sponsoring agreement of the Department of Defense with such center.
+
+
+(b)
+ 
+Exception for Applied Scientific Research
+.—
+This section does not apply to a federally funded research and development center that performs applied scientific research under laboratory conditions.
+
+
+(c)
+ 
+Limitation on Creation of New Centers
+.—
+(1)
+ The head of an agency may not obligate or expend amounts appropriated to the Department of Defense for purposes of operating a federally funded research center that was not in existence before 
+June 2, 1986
+, until—
+(A)
+ the head of the agency submits to Congress a report with respect to such center that describes the purpose, mission, and general scope of effort of the center; and
+
+
+
+
+(B)
+ a period of 60 days beginning on the date such report is received by Congress has elapsed.
+
+
+
+
+
+
+(2)
+ In this subsection, the term “head of an agency” has the meaning given such term in 
+section 2302(1) of this title
+.
+
+
+
+
+(d)
+ 
+Identification to Congress of FFRDC Workload Effort
+.—
+After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
+
+
+ Repealed. 
+ Repealed. 
+ Repealed. 
+ Repealed. 
+ Research projects: transactions other than contracts and grants
+(a)
+ 
+Additional Forms of Transactions Authorized
+.—
+The Secretary of Defense and the Secretary of each military department may enter into transactions (other than contracts, cooperative agreements, and grants) under the authority of this subsection in carrying out basic, applied, and advanced research projects. The authority under this subsection is in addition to the authority provided in 
+section 2358 of this title
+ to use contracts, cooperative agreements, and grants in carrying out such projects.
+
+
+(b)
+ 
+Exercise of Authority by Secretary of Defense
+.—
+In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
+
+
+(c)
+ 
+Advance Payments
+.—
+The authority provided under subsection (a) may be exercised without regard to 
+section 3324 of title 31
+.
+
+
+(d)
+ 
+Recovery of Funds
+.—
+(1)
+ A cooperative agreement for performance of basic, applied, or advanced research authorized by 
+section 2358 of this title
+ and a transaction authorized by subsection (a) may include a clause that requires a person or other entity to make payments to the Department of Defense or any other department or agency of the Federal Government as a condition for receiving support under the agreement or other transaction.
+
+
+
+
+(2)
+ The amount of any payment received by the Federal Government pursuant to a requirement imposed under paragraph (1) may be credited, to the extent authorized by the Secretary of Defense, to the appropriate account established under subsection (f). Amounts so credited shall be merged with other funds in the account and shall be available for the same purposes and the same period for which other funds in such account are available.
+
+
+
+
+(e)
+ 
+Conditions
+.—
+(1)
+ The Secretary of Defense shall ensure that—
+(A)
+ to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
+
+
+
+
+(B)
+ to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
+
+
+
+
+
+
+(2)
+ A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+
+
+
+
+(f)
+ 
+Support Accounts
+.—
+There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+
+
+(g)
+ 
+Regulations
+.—
+The Secretary of Defense shall prescribe regulations to carry out this section.
+
+
+(h)
+ 
+Annual Report
+.—
+(1)
+ Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use by the Department of Defense during such fiscal year of—
+(A)
+ cooperative agreements authorized under 
+section 2358 of this title
+ that contain a clause under subsection (d); and
+
+
+
+
+(B)
+ transactions authorized by subsection (a).
+
+
+
+
+
+
+(2)
+ The report shall include, with respect to the cooperative agreements and other transactions covered by the report, the following:
+(A)
+ The technology areas in which research projects were conducted under such agreements or other transactions.
+
+
+
+
+(B)
+ The extent of the cost-sharing among Federal Government and non-Federal sources.
+
+
+
+
+(C)
+ The extent to which the use of the cooperative agreements and other transactions—
+(i)
+ has contributed to a broadening of the technology and industrial base available for meeting Department of Defense needs; and
+
+
+
+
+(ii)
+ has fostered within the technology and industrial base new relationships and practices that support the national security of the United States.
+
+
+
+
+
+
+(D)
+ The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
+
+
+
+
+
+
+(3)
+ No report is required under this subsection for a fiscal year after fiscal year 2006.
+
+
+
+
+(i)
+ 
+Protection of Certain Information From Disclosure
+.—
+(1)
+ Disclosure of information described in paragraph (2) is not required, and may not be compelled, under 
+section 552 of title 5
+ for five years after the date on which the information is received by the Department of Defense.
+
+
+
+
+(2)
+(A)
+ Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Department of Defense if the information was submitted to the Department in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by 
+section 2358 of this title
+ or another transaction authorized by subsection (a).
+
+
+
+
+(B)
+ The information referred to in subparagraph (A) is the following:
+(i)
+ A proposal, proposal abstract, and supporting documents.
+
+
+
+
+(ii)
+ A business plan submitted on a confidential basis.
+
+
+
+
+(iii)
+ Technical information submitted on a confidential basis.
+
+
+
+
+
+
+
+
+“(a)
+ 
+Authority
+.—
+(1)
+ Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of 
+section 2371 of title 10
+, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+
+
+
+
+“(2)
+ The authority of this section—
+“(A)
+ may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act [former] (
+41 U.S.C. 414(c)
+) [now 
+41 U.S.C. 1702(c)
+] or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+“(i)
+ the requirements of subsection (d) will be met; and
+
+
+
+
+“(ii)
+ the use of the authority of this section is essential to promoting the success of the prototype project; and
+
+
+
+
+
+
+“(B)
+ may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 (including all options) only if—
+“(i)
+ the Under Secretary of Defense for Acquisition, Technology, and Logistics determines in writing that—
+“(I)
+ the requirements of subsection (d) will be met; and
+
+
+
+
+“(II)
+ the use of the authority of this section is essential to meet critical national security objectives; and
+
+
+
+
+
+
+“(ii)
+ the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] are notified in writing at least 30 days before such authority is exercised.
+
+
+
+
+
+
+
+
+“(3)
+ The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
+
+
+
+
+“(b)
+ 
+Exercise of Authority
+.—
+(1)
+ Subsections (e)(1)(B) and (e)(2) of such section 2371 shall not apply to projects carried out under subsection (a).
+
+
+
+
+“(2)
+ To the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under subsection (a).
+
+
+
+
+“(c)
+ 
+Comptroller General Review
+.—
+(1)
+ Each agreement entered into by an official referred to in subsection (a) to carry out a project under that subsection that provides for payments in a total amount in excess of $5,000,000 shall include a clause that provides for the Comptroller General, in the discretion of the Comptroller General, to examine the records of any party to the agreement or any entity that participates in the performance of the agreement.
+
+
+
+
+“(2)
+ The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that has not entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
+
+
+
+
+“(3)
+(A)
+ The right provided to the Comptroller General in a clause of an agreement under paragraph (1) is limited as provided in subparagraph (B) in the case of a party to the agreement, an entity that participates in the performance of the agreement, or a subordinate element of that party or entity if the only agreements or other transactions that the party, entity, or subordinate element entered into with Government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under this section or 
+section 2371 of title 10
+, United States Code.
+
+
+
+
+“(B)
+ The only records of a party, other entity, or subordinate element referred to in subparagraph (A) that the Comptroller General may examine in the exercise of the right referred to in that subparagraph are records of the same type as the records that the Government has had the right to examine under the audit access clauses of the previous agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
+
+
+
+
+
+
+“(4)
+ The head of the contracting activity that is carrying out the agreement may waive the applicability of the requirement in paragraph (1) to the agreement if the head of the contracting activity determines that it would not be in the public interest to apply the requirement to the agreement. The waiver shall be effective with respect to the agreement only if the head of the contracting activity transmits a notification of the waiver to Congress and the Comptroller General before entering into the agreement. The notification shall include the rationale for the determination.
+
+
+
+
+“(5)
+ The Comptroller General may not examine records pursuant to a clause included in an agreement under paragraph (1) more than three years after the final payment is made by the United States under the agreement.
+
+
+
+
+“(d)
+ 
+Appropriate Use of Authority
+.—
+(1)
+ The Secretary of Defense shall ensure that no official of an agency enters into a transaction (other than a contract, grant, or cooperative agreement) for a prototype project under the authority of this section unless—
+“(A)
+ there is at least one nontraditional defense contractor participating to a significant extent in the prototype project; or
+
+
+
+
+“(B)
+ no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
+“(i)
+ At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
+
+
+
+
+“(ii)
+ The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act ([former] 
+41 U.S.C. 414(3)
+)) [see 
+41 U.S.C. 1702(c)
+] determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+
+
+
+
+
+
+
+
+“(2)
+(A)
+ Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
+
+
+
+
+“(B)
+ Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
+“(i)
+ the party incurred the costs in anticipation of entering into the transaction; and
+
+
+
+
+“(ii)
+ it was appropriate for the party to incur the costs before the transaction became effective in order to ensure the successful implementation of the transaction.
+
+
+
+
+
+
+
+
+“(e)
+ 
+Pilot Program for Transition to Follow-on Contracts
+.—
+(1)
+ The Secretary of Defense is authorized to carry out a pilot program for follow-on contracting for the production of items or processes developed under prototype projects carried out under this section or research projects carried out pursuant to 
+section 2371 of title 10
+, United States Code.
+
+
+
+
+“(2)
+ Under the pilot program—
+“(A)
+ a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act ([former] 
+41 U.S.C. 403(12)
+) [see 
+41 U.S.C. 103
+]; and
+
+
+
+
+“(B)
+ the item or process may be treated as an item or process, respectively, that is developed in part with Federal funds and in part at private expense for the purposes of 
+section 2320 of title 10
+, United States Code.
+
+
+
+
+
+
+“(3)
+ For the purposes of the pilot program, a qualifying contract or subcontract is a contract or subcontract, respectively, with a nontraditional defense contractor that—
+“(A)
+ does not exceed $50,000,000 (including all options); and
+
+
+
+
+“(B)
+ is either—
+“(i)
+ a firm, fixed-price contract or subcontract; or
+
+
+
+
+“(ii)
+ a fixed-price contract or subcontract with economic price adjustment.
+
+
+
+
+
+
+
+
+“(4)
+ The authority to conduct a pilot program under this subsection shall terminate on 
+September 30, 2010
+. The termination of the authority shall not affect the validity of contracts or subcontracts that are awarded or modified during the period of the pilot program, without regard to whether the contracts or subcontracts are performed during the period.
+
+
+
+
+“(f)
+ 
+Nontraditional Defense Contractor Defined
+.—
+In this section, the term ‘nontraditional defense contractor’ has the meaning provided by 
+section 2302(9) of title 10
+, United States Code.
+
+
+“(g)
+ 
+Follow-On Production Contracts
+.—
+(1)
+ A transaction entered into under this section for a prototype project that satisfies the conditions set forth in subsection (d)(1)(B)(i) may provide for the award of a follow-on production contract to the participants in the transaction for a specific number of units at specific target prices. The number of units specified in the transaction shall be determined on the basis of a balancing of the level of the investment made in the project by the participants other than the Federal Government with the interest of the Federal Government in having competition among sources in the acquisition of the product or products prototyped under the project.
+
+
+
+
+“(2)
+ A follow-on production contract provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of 
+section 2304 of title 10
+, United States Code, if—
+“(A)
+ competitive procedures were used for the selection of parties for participation in the transaction;
+
+
+
+
+“(B)
+ the participants in the transaction successfully completed the prototype project provided for in the transaction;
+
+
+
+
+“(C)
+ the number of units provided for in the follow-on production contract does not exceed the number of units specified in the transaction for such a follow-on production contract; and
+
+
+
+
+“(D)
+ the prices established in the follow-on production contract do not exceed the target prices specified in the transaction for such a follow-on production contract.
+
+
+
+
+
+
+“(h)
+ 
+Applicability of Procurement Ethics Requirements
+.—
+An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of section 27 of the Office of Federal Procurement Policy Act ([former] 
+41 U.S.C. 423
+) [now 
+41 U.S.C. 2101
+ et seq.].
+
+
+“(i)
+ 
+Period of Authority
+.—
+The authority to carry out projects under subsection (a) shall terminate at the end of 
+September 30, 2018
+.”
+
+
+ Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980
+The Secretary of Defense, in carrying out research projects through the Defense Advanced Research Projects Agency, and the Secretary of each military department, in carrying out research projects, may permit the director of any federally funded research and development center to enter into cooperative research and development agreements with any person, any agency or instrumentality of the United States, any unit of State or local government, and any other entity under the authority granted by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+ Independent research and development and bid and proposal costs: payments to contractors
+(a)
+ 
+Regulations
+.—
+The Secretary of Defense shall prescribe regulations governing the payment, by the Department of Defense, of expenses incurred by contractors for independent research and development and bid and proposal costs.
+
+
+(b)
+ 
+Costs Allowable as Indirect Expenses
+.—
+The regulations prescribed pursuant to subsection (a) shall provide that independent research and development and bid and proposal costs shall be allowable as indirect expenses on covered contracts to the extent that those costs are allocable, reasonable, and not otherwise unallowable by law or under the Federal Acquisition Regulation.
+
+
+(c)
+ 
+Additional Controls
+.—
+Subject to subsection (f), the regulations prescribed pursuant to subsection (a) may include the following provisions:
+(1)
+ A limitation on the allowability of independent research and development and bid and proposal costs to work which the Secretary of Defense determines is of potential interest to the Department of Defense.
+
+
+
+
+(2)
+ For each of fiscal years 1993 through 1995, a limitation in the case of major contractors that the total amount of the independent research and development and bid and proposal costs that are allowable as expenses of the contractor’s covered segments may not exceed the contractor’s adjusted maximum reimbursement amount.
+
+
+
+
+(3)
+ Implementation of regular methods for transmission—
+(A)
+ from the Department of Defense to contractors, in a reasonable manner, of timely and comprehensive information regarding planned or expected Department of Defense future needs; and
+
+
+
+
+(B)
+ from contractors to the Department of Defense, in a reasonable manner, of information regarding progress by the contractor on the contractor’s independent research and development programs.
+
+
+
+
+
+
+(d)
+ 
+Adjusted Maximum Reimbursement Amount
+.—
+For purposes of subsection (c)(2), the adjusted maximum reimbursement amount for a major contractor for a fiscal year is the sum of—
+(1)
+ the total amount of the allowable independent research and development and bid and proposal costs incurred by the contractor during the preceding fiscal year;
+
+
+
+
+(2)
+ 5 percent of the amount referred to in paragraph (1); and
+
+
+
+
+(3)
+ if the projected total amount of the independent research and development and bid and proposal costs incurred by the contractor for such fiscal year is greater than the total amount of the independent research and development and bid and proposal costs incurred by the contractor for the preceding fiscal year, the amount that is determined by multiplying the amount referred to in paragraph (1) by the lesser of—
+(A)
+ the percentage by which the projected total amount of such incurred costs for such fiscal year exceeds the total amount of the incurred costs of the contractor for the preceding fiscal year; or
+
+
+
+
+(B)
+ the estimated percentage rate of inflation from the end of the preceding fiscal year to the end of the fiscal year for which the amount of the limitation is being computed.
+
+
+
+
+
+
+(e)
+ 
+Waiver of Adjusted Maximum Reimbursement Amount
+.—
+The Secretary of Defense may waive the applicability of any limitation prescribed under subsection (c)(2) to any contractor for a fiscal year to the extent that the Secretary determines that allowing the contractor to exceed the contractor’s adjusted maximum reimbursement amount for such year—
+(1)
+ is necessary to reimburse such contractor at least to the extent that would have been allowed under regulations as in effect on 
+December 4, 1991
+; or
+
+
+
+
+(2)
+ is otherwise in the best interest of the Government.
+
+
+
+
+(f)
+ 
+Limitations on Regulations
+.—
+Regulations prescribed pursuant to subsection (c) may not include provisions that would infringe on the independence of a contractor to choose which technologies to pursue in its independent research and development program.
+
+
+(g)
+ 
+Encouragement of Certain Contractor Activities
+.—
+The regulations under subsection (a) shall encourage contractors to engage in research and development activities of potential interest to the Department of Defense, including activities intended to accomplish any of the following:
+(1)
+ Enabling superior performance of future United States weapon systems and components.
+
+
+
+
+(2)
+ Reducing acquisition costs and life-cycle costs of military systems.
+
+
+
+
+(3)
+ Strengthening the defense industrial base and the technology base of the United States.
+
+
+
+
+(4)
+ Enhancing the industrial competitiveness of the United States.
+
+
+
+
+(5)
+ Promoting the development of technologies identified as critical under 
+section 2506 of this title
+.
+
+
+
+
+(6)
+ Increasing the development and promotion of efficient and effective applications of dual-use technologies.
+
+
+
+
+(7)
+ Providing efficient and effective technologies for achieving such environmental benefits as improved environmental data gathering, environmental cleanup and restoration, pollution reduction in manufacturing, environmental conservation, and environmentally safe management of facilities.
+
+
+
+
+(h)
+ 
+Major Contractors
+.—
+A contractor shall be considered to be a major contractor for the purposes of subsection (c) for any fiscal year if for the preceding fiscal year the contractor’s covered segments allocated to Department of Defense contracts a total of more than $10,000,000 in independent research and development and bid and proposal costs.
+
+
+(i)
+ 
+Definitions
+.—
+In this section:
+(1)
+ 
+Covered contract
+.—
+The term “covered contract” has the meaning given that term in section 2324(
+l
+) of this title.
+
+
+
+
+(2)
+ 
+Covered segment
+.—
+The term “covered segment”, with respect to a contractor, means a product division of the contractor that allocated more than $1,000,000 in independent research and development and bid and proposal costs to Department of Defense contracts during the preceding fiscal year. In the case of a contractor that has no product divisions, such term means the contractor as a whole.
+
+
+
+
+ Procurement for experimental purposes
+(a)
+ 
+Authority
+.—
+The Secretary of Defense and the Secretaries of the military departments may each buy ordnance, signal, chemical activity, and aeronautical supplies, including parts and accessories, and designs thereof, that the Secretary of Defense or the Secretary concerned considers necessary for experimental or test purposes in the development of the best supplies that are needed for the national defense.
+
+
+(b)
+ 
+Procedures
+.—
+Purchases under this section may be made inside or outside the United States and by contract or otherwise. Chapter 137 of this title applies only when such purchases are made in quantity.
+
+
+ Merit-based award of grants for research and development
+(a)
+ It is the policy of Congress that an agency named in 
+section 2303(a) of this title
+ should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be awarded through merit-based selection procedures.
+
+
+(b)
+ A provision of law may not be construed as requiring a new grant to be awarded to a specified non-Federal Government entity unless that provision of law—
+(1)
+ specifically refers to this subsection;
+
+
+
+
+(2)
+ specifically identifies the particular non-Federal Government entity involved; and
+
+
+
+
+(3)
+ specifically states that the award to that entity is required by such provision of law in contravention of the policy set forth in subsection (a).
+
+
+
+
+(c)
+ For purposes of this section, a grant is a new grant unless the work provided for in the grant is a continuation of the work performed by the specified entity under a preceding grant.
+
+
+(d)
+ This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in 
+section 2303(a) of this title
+ and to report on such matters to the Congress or any agency of the Federal Government.
+
+
+ Prizes for advanced technology achievements
+(a)
+ 
+Authority
+.—
+The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the service acquisition executive for each military department, may carry out programs to award cash prizes in recognition of outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
+
+
+(b)
+ 
+Competition Requirements
+.—
+Each program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
+
+
+(c)
+ 
+Limitations
+.—
+(1)
+ The total amount made available for award of cash prizes in a fiscal year may not exceed $10,000,000.
+
+
+
+
+(2)
+ No prize competition may result in the award of more than $1,000,000 in cash prizes without the approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+
+
+
+(d)
+ 
+Relationship to Other Authority
+.—
+A program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of an official referred to in that subsection to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects.
+
+
+(e)
+ Annual Report.—
+(1)
+ 
+In general
+.—
+Not later than March 1 of each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (a).
+
+
+
+
+(2)
+ 
+Information included
+.—
+The report for a fiscal year under this subsection shall include, for each program under subsection (a), the following:
+(A)
+ A description of the proposed goals of the competitions established under the program, including the areas of research, technology development, or prototype development to be promoted by such competitions and the relationship of such areas to the military missions of the Department of Defense.
+
+
+
+
+(B)
+ An analysis of why the utilization of the authority in subsection (a) was the preferable method of achieving the goals described in subparagraph (A) as opposed to other authorities available to the Department, such as contracts, grants, and cooperative agreements.
+
+
+
+
+(C)
+ The total amount of cash prizes awarded under the program, including a description of the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the Department for recording as obligations and expenditures.
+
+
+
+
+(D)
+ The methods used for the solicitation and evaluation of submissions under the program, together with an assessment of the effectiveness of such methods.
+
+
+
+
+(E)
+ A description of the resources, including personnel and funding, used in the execution of the program, together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the Department for recording as obligations and expenditures.
+
+
+
+
+(F)
+ A description of any plans to transition the technologies or prototypes developed as a result of the program into an acquisition program of the Department.
+
+
+
+
+
+
+(3)
+ 
+Suspension of authority for failure to include information
+.—
+For each program under subsection (a), the authority to obligate or expend funds under that program is suspended as of the date specified in paragraph (1) if the Secretary does not, by that date, submit a report that includes, for that program, all the information required by paragraph (2). As of the date on which the Secretary does submit a report that includes, for that program, all the information required by paragraph (2), the suspension is lifted.
+
+
+
+
+(f)
+ 
+Period of Authority
+.—
+The authority to award prizes under subsection (a) shall terminate at the end of 
+September 30, 2018
+.
+
+
+ Repealed. 

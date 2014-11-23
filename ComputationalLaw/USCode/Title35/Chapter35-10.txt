@@ -1,0 +1,417 @@
+
+Chapter 10
+PATENTABILITY OF INVENTIONS
+ Definitions
+(a)
+ The term “invention” means invention or discovery.
+
+
+(b)
+ The term “process” means process, art or method, and includes a new use of a known process, machine, manufacture, composition of matter, or material.
+
+
+(c)
+ The terms “United States” and “this country” mean the United States of America, its territories and possessions.
+
+
+(d)
+ The word “patentee” includes not only the patentee to whom the patent was issued but also the successors in title to the patentee.
+
+
+(e)
+ The term “third-party requester” means a person requesting ex parte reexamination under section 302 who is not the patent owner.
+
+
+(f)
+ The term “inventor” means the individual or, if a joint invention, the individuals collectively who invented or discovered the subject matter of the invention.
+
+
+(g)
+ The terms “joint inventor” and “coinventor” mean any 1 of the individuals who invented or discovered the subject matter of a joint invention.
+
+
+(h)
+ The term “joint research agreement” means a written contract, grant, or cooperative agreement entered into by 2 or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.
+
+
+(i)
+(1)
+ The term “effective filing date” for a claimed invention in a patent or application for patent means—
+(A)
+ if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or
+
+
+
+
+(B)
+ the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).
+
+
+
+
+
+
+(2)
+ The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.
+
+
+
+
+(j)
+ The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.
+
+
+“(a)
+ 
+In General
+.—
+The amendments made by this title [enacting part V of this title and amending this section and sections 102, 111, 115, 120, 154, 173, 365, and 366 of this title] shall take effect on the later of—
+“(1)
+ the date that is 1 year after the date of the enactment of this Act [
+Dec. 18, 2012
+]; or
+
+
+
+
+“(2)
+ the date of entry into force of the treaty with respect to the United States.
+
+
+
+
+“(b)
+ Applicability of Amendments.—
+“(1)
+ 
+In general
+.—
+Subject to paragraph (2), the amendments made by this title shall apply only to international design applications, international applications, and national applications filed on and after the effective date set forth in subsection (a), and patents issuing thereon.
+
+
+
+
+“(2)
+ 
+Exception
+.—
+Sections 100(i) and 102(d) of title 35, United States Code, as amended by this title, shall not apply to an application, or any patent issuing thereon, unless it is described in section 3(n)(1) of the Leahy-Smith America Invents Act [
+Pub. L. 112–29
+] (
+35 U.S.C. 100
+ note).
+
+
+
+
+“(c)
+ 
+Definitions
+.—
+For purposes of this section—
+“(1)
+ the terms ‘treaty’ and ‘international design application’ have the meanings given those terms in 
+section 381 of title 35
+, United States Code, as added by this title;
+
+
+
+
+“(2)
+ the term ‘international application’ has the meaning given that term in 
+section 351(c) of title 35
+, United States Code; and
+
+
+
+
+“(3)
+ the term ‘national application’ means ‘national application’ within the meaning of chapter 38 of title 35, United States Code, as added by this title.”
+
+
+
+
+ Inventions patentable
+Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title.
+“(a)
+ 
+Limitation
+.—
+Notwithstanding any other provision of law, no patent may issue on a claim directed to or encompassing a human organism.
+
+
+“(b)
+ Effective Date.—
+“(1)
+ 
+In general
+.—
+Subsection (a) shall apply to any application for patent that is pending on, or filed on or after, the date of the enactment of this Act [
+Sept. 16, 2011
+].
+
+
+
+
+“(2)
+ 
+Prior applications
+.—
+Subsection (a) shall not affect the validity of any patent issued on an application to which paragraph (1) does not apply.”
+
+
+
+
+ Conditions for patentability; novelty
+(a)
+ 
+Novelty; Prior Art
+.—
+A person shall be entitled to a patent unless—
+(1)
+ the claimed invention was patented, described in a printed publication, or in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention; or
+
+
+
+
+(2)
+ the claimed invention was described in a patent issued under section 151, or in an application for patent published or deemed published under section 122(b), in which the patent or application, as the case may be, names another inventor and was effectively filed before the effective filing date of the claimed invention.
+
+
+
+
+(b)
+ Exceptions.—
+(1)
+ 
+Disclosures made 1 year or less before the effective filing date of the claimed invention
+.—
+A disclosure made 1 year or less before the effective filing date of a claimed invention shall not be prior art to the claimed invention under subsection (a)(1) if—
+(A)
+ the disclosure was made by the inventor or joint inventor or by another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor; or
+
+
+
+
+(B)
+ the subject matter disclosed had, before such disclosure, been publicly disclosed by the inventor or a joint inventor or another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor.
+
+
+
+
+
+
+(2)
+ 
+Disclosures appearing in applications and patents
+.—
+A disclosure shall not be prior art to a claimed invention under subsection (a)(2) if—
+(A)
+ the subject matter disclosed was obtained directly or indirectly from the inventor or a joint inventor;
+
+
+
+
+(B)
+ the subject matter disclosed had, before such subject matter was effectively filed under subsection (a)(2), been publicly disclosed by the inventor or a joint inventor or another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor; or
+
+
+
+
+(C)
+ the subject matter disclosed and the claimed invention, not later than the effective filing date of the claimed invention, were owned by the same person or subject to an obligation of assignment to the same person.
+
+
+
+
+
+
+(c)
+ 
+Common Ownership Under Joint Research Agreements
+.—
+Subject matter disclosed and a claimed invention shall be deemed to have been owned by the same person or subject to an obligation of assignment to the same person in applying the provisions of subsection (b)(2)(C) if—
+(1)
+ the subject matter disclosed was developed and the claimed invention was made by, or on behalf of, 1 or more parties to a joint research agreement that was in effect on or before the effective filing date of the claimed invention;
+
+
+
+
+(2)
+ the claimed invention was made as a result of activities undertaken within the scope of the joint research agreement; and
+
+
+
+
+(3)
+ the application for patent for the claimed invention discloses or is amended to disclose the names of the parties to the joint research agreement.
+
+
+
+
+(d)
+ 
+Patents and Published Applications Effective as Prior Art
+.—
+For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectively filed, with respect to any subject matter described in the patent or application—
+(1)
+ if paragraph (2) does not apply, as of the actual filing date of the patent or the application for patent; or
+
+
+
+
+(2)
+ if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
+
+
+
+
+“(a)
+ 
+In General
+.—
+For purposes of evaluating an invention under section 102 or 103 of title 35, United States Code, any strategy for reducing, avoiding, or deferring tax liability, whether known or unknown at the time of the invention or application for patent, shall be deemed insufficient to differentiate a claimed invention from the prior art.
+
+
+“(b)
+ 
+Definition
+.—
+For purposes of this section, the term ‘tax liability’ refers to any liability for a tax under any Federal, State, or local law, or the law of any foreign jurisdiction, including any statute, rule, regulation, or ordinance that levies, imposes, or assesses such tax liability.
+
+
+“(c)
+ 
+Exclusions
+.—
+This section does not apply to that part of an invention that—
+“(1)
+ is a method, apparatus, technology, computer program product, or system, that is used solely for preparing a tax or information return or other tax filing, including one that records, transmits, transfers, or organizes data related to such filing; or
+
+
+
+
+“(2)
+ is a method, apparatus, technology, computer program product, or system used solely for financial management, to the extent that it is severable from any tax strategy or does not limit the use of any tax strategy by any taxpayer or tax advisor.
+
+
+
+
+“(d)
+ 
+Rule of Construction
+.—
+Nothing in this section shall be construed to imply that other business methods are patentable or that other business method patents are valid.
+
+
+“(e)
+ 
+Effective Date; Applicability
+.—
+This section shall take effect on the date of the enactment of this Act [
+Sept. 16, 2011
+] and shall apply to any patent application that is pending on, or filed on or after, that date, and to any patent that is issued on or after that date.”
+
+
+ Conditions for patentability; non-obvious subject matter
+A patent for a claimed invention may not be obtained, notwithstanding that the claimed invention is not identically disclosed as set forth in section 102, if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains. Patentability shall not be negated by the manner in which the invention was made.
+“(a)
+ 
+In General
+.—
+The amendments made by this Act [amending this section] shall apply to any patent granted on or after the date of the enactment of this Act [
+Dec. 10, 2004
+].
+
+
+“(b)
+ 
+Special Rule
+.—
+The amendments made by this Act shall not affect any final decision of a court or the United States Patent and Trademark Office rendered before the date of the enactment of this Act, and shall not affect the right of any party in any action pending before the United States Patent and Trademark Office or a court on the date of the enactment of this Act to have that party’s rights determined on the basis of the provisions of title 35, United States Code, in effect on the day before the date of the enactment of this Act.”
+
+
+“(a)
+ Subject to subsections (b), (c), (d), and (e) of this section, the amendments made by this Act [probably should be “this title”, meaning title I of 
+Pub. L. 98–622
+, enacting 
+section 157 of this title
+, amending this section and sections 116, 120, 135, and 271 of this title, and enacting a provision set out as a note under 
+section 157 of this title
+] shall apply to all United States patents granted before, on, or after the date of enactment of this Act [
+Nov. 8, 1984
+], and to all applications for United States patents pending on or filed after the date of enactment.
+
+
+“(b)
+ The amendments made by this Act shall not affect any final decision made by the court or the Patent and Trademark Office before the date of enactment of this Act [
+Nov. 8, 1984
+], with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
+
+
+“(c)
+ 
+Section 271(f) of title 35
+, United States Code, added by section 101 of this Act shall apply only to the supplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act [
+Nov. 8, 1984
+].
+
+
+“(d)
+ No United States patent granted before the date of enactment of this Act [
+Nov. 8, 1984
+] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act [amending this section and sections 116 and 120 of this title] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
+
+
+“(e)
+ The amendments made by this Act shall not affect the right of any party in any case pending in court on the date of enactment [
+Nov. 8, 1984
+] to have their rights determined on the basis of the substantive law in effect prior to the date of enactment.”
+
+
+ Repealed. 
+ Inventions in outer space
+(a)
+ Any invention made, used or sold in outer space on a space object or component thereof under the jurisdiction or control of the United States shall be considered to be made, used or sold within the United States for the purposes of this title, except with respect to any space object or component thereof that is specifically identified and otherwise provided for by an international agreement to which the United States is a party, or with respect to any space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space.
+
+
+(b)
+ Any invention made, used or sold in outer space on a space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space, shall be considered to be made, used or sold within the United States for the purposes of this title if specifically so agreed in an international agreement between the United States and the state of registry.
+
+
+“(a)
+ 
+Effective Date
+.—
+Subject to subsections (b), (c), and (d) of this section, the amendments made by the first section of this Act [enacting this section] shall apply to all United States patents granted before, on, or after the date of enactment of this Act [
+Nov. 15, 1990
+], and to all applications for United States patents pending on or filed on or after such date of enactment.
+
+
+“(b)
+ 
+Final Decisions
+.—
+The amendments made by the first section of this Act [enacting this section] shall not affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this Act [
+Nov. 15, 1990
+] with respect to a patent or an application for a patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
+
+
+“(c)
+ 
+Pending Cases
+.—
+The amendments made by the first section of this Act [enacting this section] shall not affect the right of any party in any case pending in a court on the date of enactment of this Act [
+Nov. 15, 1990
+] to have the party’s rights determined on the basis of the substantive law in effect before such date of enactment.
+
+
+“(d)
+ 
+Non-Applicability
+.—
+The amendments made by the first section of this Act [enacting this section] shall not apply to any process, machine, article of manufacture, or composition of matter, an embodiment of which was launched prior to the date of enactment of this Act [
+Nov. 15, 1990
+].”
+
+

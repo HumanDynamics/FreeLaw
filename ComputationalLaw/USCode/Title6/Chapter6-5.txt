@@ -1,0 +1,279 @@
+
+Chapter 5
+BORDER INFRASTRUCTURE AND TECHNOLOGY MODERNIZATION
+ Definitions
+ Port of Entry Infrastructure Assessment Study
+(a)
+ Requirement to update
+Not later than January 31 of every other year, the Commissioner, in consultation with the Administrator of General Services shall—
+(1)
+ review—
+(A)
+ the Port of Entry Infrastructure Assessment Study prepared by the United States Customs Service, the Immigration and Naturalization Service, and the General Services Administration in accordance with the matter relating to the ports of entry infrastructure assessment set forth in the joint explanatory statement on page 67 of conference report 106–319, accompanying 
+Public Law 106–58
+; and
+
+
+
+
+(B)
+ the nationwide strategy to prioritize and address the infrastructure needs at the land ports of entry prepared by the Department of Homeland Security and the General Services Administration in accordance with the committee recommendations on page 22 of Senate report 108–86, accompanying 
+Public Law 108–90
+;
+
+
+
+
+
+
+(2)
+ update the assessment of the infrastructure needs of all United States land ports of entry; and
+
+
+
+
+(3)
+ submit an updated assessment of land port of entry infrastructure needs to the Committees on Appropriations of the Senate and the House of Representatives, the Senate Committee on Environment and Public Works, the Senate Committee on Homeland Security and Governmental Affairs, the House Committee on Transportation and Infrastructure, and the House Committee on Homeland Security.
+
+
+
+
+(b)
+ Consultation
+In preparing the updated studies required under subsection (a), the Commissioner and the Administrator of General Services shall consult with the Director of the Office of Management and Budget, the Secretary, and affected State and local agencies on the northern and southern borders of the United States.
+
+
+
+
+(c)
+ Content
+Each updated study required in subsection (a) shall—
+(1)
+ identify port of entry infrastructure and technology improvement projects that would enhance border security and facilitate the flow of legitimate commerce if implemented;
+
+
+
+
+(2)
+ include the projects identified in the National Land Border Security Plan required by 
+section 1403 of this title
+; and
+
+
+
+
+(3)
+ prioritize the projects described in paragraphs (1) and (2) based on the ability of a project—
+(A)
+ to enhance the ability of U.S. Customs and Border Protection to achieve its mission and to support operations;
+
+
+
+
+(B)
+ to fulfill security requirements; and
+
+
+
+
+(C)
+ facilitate trade across the borders of the United States.
+
+
+
+
+
+
+(d)
+ Project implementation
+The Commissioner, as appropriate, shall—
+(1)
+ implement the infrastructure and technology improvement projects described in subsection (c) in the order of priority assigned to each project under subsection (c)(3); or
+
+
+
+
+(2)
+ forward the prioritized list of infrastructure and technology improvement projects to the Administrator of General Services for implementation in the order of priority assigned to each project under subsection (c)(3).
+
+
+
+
+(e)
+ Divergence from priorities
+The Commissioner may diverge from the priority order if the Commissioner determines that significantly changed circumstances, including immediate security needs, changes in infrastructure in Mexico or Canada, or similar concerns, compellingly alter the need for a project in the United States.
+
+
+
+
+ National Land Border Security Plan
+(a)
+ Requirement for plan
+Not later than January 31 of every other year, the Secretary, acting through the Commissioner, shall prepare a National Land Border Security Plan and submit such plan to the Committees on Appropriations of the Senate and the House of Representatives, the Senate Committee on Environment and Public Works, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on the Judiciary, the House Committee on Transportation and Infrastructure, the House Committee on Homeland Security, and the House Committee on the Judiciary.
+
+
+
+
+(b)
+ Consultation
+In preparing the plan required under subsection (a), the Commissioner shall consult with other appropriate Federal agencies, State and local law enforcement agencies, and private entities that are involved in international trade across the northern or southern border.
+
+
+
+
+(c)
+ Vulnerability assessment
+(1)
+ In general
+The plan required under subsection (a) shall include a vulnerability, risk, and threat assessment of each port of entry located on the northern border or the southern border.
+
+
+
+
+
+
+(2)
+ Port security coordinators
+The Secretary, acting through the Commissioner, may establish one or more port security coordinators at each port of entry located on the northern border or the southern border—
+(A)
+ to assist in conducting a vulnerability assessment at such port; and
+
+
+
+
+(B)
+ to provide other assistance with the preparation of the plan required under subsection (a).
+
+
+
+
+
+
+(d)
+ Coordination with the Secure Border Initiative
+The plan required under subsection (a) shall include a description of activities undertaken during the previous year as part of the Secure Border Initiative and actions planned for the coming year as part of the Secure Border Initiative.
+
+
+
+
+ Port of entry technology demonstration program
+(a)
+ Establishment
+The Secretary, acting through the Commissioner, shall carry out a technology demonstration program to test and evaluate new port of entry technologies, refine port of entry technologies and operational concepts, and train personnel under realistic conditions.
+
+
+
+
+(b)
+ Technology tested
+Under the demonstration program, the Commissioner shall test technologies that enhance port of entry operations, including those related to inspections, communications, port tracking, identification of persons and cargo, sensory devices, personal detection, decision support, and the detection and identification of weapons of mass destruction.
+
+
+
+
+(c)
+ Demonstration sites
+(1)
+ Number
+The Commissioner shall carry out the demonstration program at not less than three sites and not more than five sites.
+
+
+
+
+
+
+(2)
+ Location
+Of the sites selected under subsection (c)— 
+1
+1
+ So in original. Probably should be “paragraph (1)—”.
+(A)
+ at least one shall be located on the northern border of the United States; and
+
+
+
+
+(B)
+ at least one shall be located on the southern border of the United States.
+
+
+
+
+
+
+(3)
+ Selection criteria
+To ensure that one of the facilities selected as a port of entry demonstration site for the demonstration program has the most up-to-date design, contains sufficient space to conduct the demonstration program, has a traffic volume low enough to easily incorporate new technologies without interrupting normal processing activity, and can efficiently carry out demonstration and port of entry operations, one port of entry selected as a demonstration site may—
+(A)
+ have been established not more than 15 years before 
+December 26, 2007
+;
+
+
+
+
+(B)
+ consist of not less than 65 acres, with the possibility of expansion onto not less than 25 adjacent acres; and
+
+
+
+
+(C)
+ have serviced an average of not more than 50,000 vehicles per month during the 12 months preceding 
+December 26, 2007
+.
+
+
+
+
+
+
+(d)
+ Relationship with other agencies
+The Secretary, acting through the Commissioner, shall permit personnel from appropriate Federal agencies to utilize a demonstration site described in subsection (c) to test technologies that enhance port of entry operations, including those related to inspections, communications, port tracking, identification of persons and cargo, sensory devices, personal detection, decision support, and the detection and identification of weapons of mass destruction.
+
+
+
+
+(e)
+ Report
+(1)
+ Requirement
+Not later than 1 year after 
+December 26, 2007
+, and annually thereafter, the Secretary shall submit to the Committees on Appropriations of the Senate and the House of Representatives, the Senate Committee on Environment and Public Works, the Senate Committee on Homeland Security and Governmental Affairs, the House Committee on Transportation and Infrastructure, and the House Committee on Homeland Security a report on the activities carried out at each demonstration site under the technology demonstration program established under this section.
+
+
+
+
+
+
+(2)
+ Content
+The report shall include an assessment by the Commissioner of the feasibility of incorporating any demonstrated technology for use throughout U.S. Customs and Border Protection.
+
+
+
+
+
+
+ Authorization of appropriations
+(a)
+ In general
+In addition to any funds otherwise available, there are authorized to be appropriated such sums as may be necessary to carry out this chapter for fiscal years 2009 through 2013.
+
+
+
+
+(b)
+ International agreements
+Funds authorized to be appropriated under this chapter may be used for the implementation of projects described in the Declaration on Embracing Technology and Cooperation to Promote the Secure and Efficient Flow of People and Commerce across our Shared Border between the United States and Mexico, agreed to 
+March 22, 2002
+, Monterrey, Mexico (commonly known as the Border Partnership Action Plan) or the Smart Border Declaration between the United States and Canada, agreed to 
+December 12, 2001
+, Ottawa, Canada that are consistent with the provisions of this chapter.
+
+
+
+

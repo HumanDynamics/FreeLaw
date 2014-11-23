@@ -1,0 +1,5349 @@
+
+Chapter 134
+ENERGY POLICY
+ “Secretary” defined
+For purposes of this Act, the term “Secretary” means the Secretary of Energy.
+ Definitions
+ Minimum Federal fleet requirement
+(a)
+ General requirements
+(1)
+ The Federal Government shall acquire at least—
+(A)
+ 5,000 light duty alternative fueled vehicles in fiscal year 1993;
+
+
+
+
+(B)
+ 7,500 light duty alternative fueled vehicles in fiscal year 1994; and
+
+
+
+
+(C)
+ 10,000 light duty alternative fueled vehicles in fiscal year 1995.
+
+
+
+
+
+
+(2)
+ The Secretary shall allocate the acquisitions necessary to meet the requirements under paragraph (1).
+
+
+
+
+(b)
+ Percentage requirements
+(1)
+ Of the total number of vehicles acquired by a Federal fleet, at least—
+(A)
+ 25 percent in fiscal year 1996;
+
+
+
+
+(B)
+ 33 percent in fiscal year 1997;
+
+
+
+
+(C)
+ 50 percent in fiscal year 1998; and
+
+
+
+
+(D)
+ 75 percent in fiscal year 1999 and thereafter,
+
+
+
+
+
+shall be alternative fueled vehicles.
+
+
+
+
+(2)
+ The Secretary, in consultation with the Administrator of General Services where appropriate, may permit a Federal fleet to acquire a smaller percentage than is required in paragraph (1), so long as the aggregate percentage acquired by all Federal fleets is at least equal to the required percentage.
+
+
+
+
+(3)
+ For purposes of this subsection, the term “Federal fleet” means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
+(A)
+ motor vehicles held for lease or rental to the general public;
+
+
+
+
+(B)
+ motor vehicles used for motor vehicle manufacturer product evaluations or tests;
+
+
+
+
+(C)
+ law enforcement vehicles;
+
+
+
+
+(D)
+ emergency vehicles;
+
+
+
+
+(E)
+ motor vehicles acquired and used for military purposes that the Secretary of Defense has certified to the Secretary must be exempt for national security reasons; or
+
+
+
+
+(F)
+ nonroad vehicles, including farm and construction vehicles.
+
+
+
+
+
+
+(c)
+ Allocation of incremental costs
+The General Services Administration and any other Federal agency that procures motor vehicles for distribution to other Federal agencies shall allocate the incremental cost of alternative fueled vehicles over the cost of comparable gasoline vehicles across the entire fleet of motor vehicles distributed by such agency.
+
+
+
+
+(d)
+ Application of requirements
+The provisions of 
+section 6374 of this title
+ relating to the Federal acquisition of alternative fueled vehicles shall apply to the acquisition of vehicles pursuant to this section.
+
+
+
+
+(e)
+ Resale
+The Administrator of General Services shall take all feasible steps to ensure that all alternative fueled vehicles sold by the Federal Government shall remain alternative fueled vehicles at time of sale.
+
+
+
+
+(f)
+ Vehicle emission requirements
+(1)
+ Definitions
+In this subsection:
+(A)
+ Federal agency
+The term “Federal agency” does not include any office of the legislative branch, except that it does include the House of Representatives with respect to an acquisition described in paragraph (2)(C).
+
+
+
+
+
+
+(B)
+ Medium duty passenger vehicle
+The term “medium duty passenger vehicle” has the meaning given that term 
+1
+1
+ So in original. The word “in” probably should appear after “term”.
+ section 523.2 of title 49 of the Code of Federal Regulations, as in effect on 
+December 19, 2007
+.
+
+
+
+
+
+
+(C)
+ Member’s Representational Allowance
+The term “Member’s Representational Allowance” means the allowance described in 
+section 5341(a) of title 2
+.
+
+
+
+
+
+
+
+
+(2)
+ Prohibition
+(A)
+ In general
+Except as provided in subparagraph (B), no Federal agency shall acquire a light duty motor vehicle or medium duty passenger vehicle that is not a low greenhouse gas emitting vehicle.
+
+
+
+
+
+
+(B)
+ Exception
+The prohibition in subparagraph (A) shall not apply to acquisition of a vehicle if the head of the agency certifies in writing, in a separate certification for each individual vehicle purchased, either—
+(i)
+ that no low greenhouse gas emitting vehicle is available to meet the functional needs of the agency and details in writing the functional needs that could not be met with a low greenhouse gas emitting vehicle; or
+
+
+
+
+(ii)
+ that the agency has taken specific alternative more cost-effective measures to reduce petroleum consumption that—
+(I)
+ have reduced a measured and verified quantity of greenhouse gas emissions equal to or greater than the quantity of greenhouse gas reductions that would have been achieved through acquisition of a low greenhouse gas emitting vehicle over the lifetime of the vehicle; or
+
+
+
+
+(II)
+ will reduce each year a measured and verified quantity of greenhouse gas emissions equal to or greater than the quantity of greenhouse gas reductions that would have been achieved each year through acquisition of a low greenhouse gas emitting vehicle.
+
+
+
+
+
+
+
+
+(C)
+ Special rule for vehicles provided by funds contained in Members’ Representational Allowance
+This paragraph shall apply to the acquisition of a light duty motor vehicle or medium duty passenger vehicle using any portion of a Member’s Representational Allowance, including an acquisition under a long-term lease.
+
+
+
+
+
+
+
+
+(3)
+ Guidance
+(A)
+ In general
+Each year, the Administrator of the Environmental Protection Agency shall issue guidance identifying the makes and model numbers of vehicles that are low greenhouse gas emitting vehicles.
+
+
+
+
+
+
+(B)
+ Consideration
+In identifying vehicles under subparagraph (A), the Administrator shall take into account the most stringent standards for vehicle greenhouse gas emissions applicable to and enforceable against motor vehicle manufacturers for vehicles sold anywhere in the United States.
+
+
+
+
+
+
+(C)
+ Requirement
+The Administrator shall not identify any vehicle as a low greenhouse gas emitting vehicle if the vehicle emits greenhouse gases at a higher rate than such standards allow for the manufacturer’s fleet average grams per mile of carbon dioxide-equivalent emissions for that class of vehicle, taking into account any emissions allowances and adjustment factors such standards provide.
+
+
+
+
+
+
+
+
+(g)
+ Authorization of appropriations
+There are authorized to be appropriated for carrying out this section, such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
+
+
+
+
+ Refueling
+(a)
+ In general
+Federal agencies shall, to the maximum extent practicable, arrange for the fueling of alternative fueled vehicles acquired under 
+section 13212 of this title
+ at commercial fueling facilities that offer alternative fuels for sale to the public. If publicly available fueling facilities are not convenient or accessible to the location of Federal alternative fueled vehicles purchased under 
+section 13212 of this title
+, Federal agencies are authorized to enter into commercial arrangements for the purposes of fueling Federal alternative fueled vehicles, including, as appropriate, purchase, lease, contract, construction, or other arrangements in which the Federal Government is a participant.
+
+
+
+
+(b)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
+
+
+
+
+ Federal agency promotion, education, and coordination
+(a)
+ Promotion and education
+The Secretary, in cooperation with the Administrator of General Services, shall promote programs and educate officials and employees of Federal agencies on the merits of alternative fueled vehicles. The Secretary, in cooperation with the Administrator of General Services, shall provide and disseminate information to Federal agencies on—
+(1)
+ the location of refueling and maintenance facilities available to alternative fueled vehicles in the Federal fleet;
+
+
+
+
+(2)
+ the range and performance capabilities of alternative fueled vehicles;
+
+
+
+
+(3)
+ State and local government and commercial alternative fueled vehicle programs;
+
+
+
+
+(4)
+ Federal alternative fueled vehicle purchases and placements;
+
+
+
+
+(5)
+ the operation and maintenance of alternative fueled vehicles in accordance with the manufacturer’s standards and recommendations; and
+
+
+
+
+(6)
+ incentive programs established pursuant to sections 13215 and 13216 of this title.
+
+
+
+
+(b)
+ Assistance in procurement and placement
+The Secretary, in cooperation with the Administrator of General Services, shall provide guidance, coordination and technical assistance to Federal agencies in the procurement and geographic location of alternative fueled vehicles purchased through the Administrator of General Services. The procurement and geographic location of such vehicles shall comply with the purchase requirements under 
+section 13212 of this title
+.
+
+
+
+
+ Agency incentives program
+(a)
+ Reduction in rates
+To encourage and promote use of alternative fueled vehicles in Federal agencies, the Administrator of General Services may offer a reduction in fees charged to agencies for the lease of alternative fueled vehicles below those fees charged for the lease of comparable conventionally fueled motor vehicles.
+
+
+
+
+(b)
+ Sunset provision
+This section shall cease to be effective 3 years after 
+October 24, 1992
+.
+
+
+
+
+ Recognition and incentive awards program
+(a)
+ Awards program
+The Administrator of General Services shall establish annual awards program to recognize those Federal employees who demonstrate the strongest commitment to the use of alternative fuels and fuel conservation in Federal motor vehicles.
+
+
+
+
+(b)
+ Criteria
+The Administrator of General Services shall provide annual awards to Federal employees who best demonstrate a commitment—
+(1)
+ to the success of the Federal alternative fueled vehicle program through—
+(A)
+ exemplary promotion of alternative fueled vehicle use within Federal agencies;
+
+
+
+
+(B)
+ proper alternative fueled vehicle care and maintenance;
+
+
+
+
+(C)
+ coordination with Federal, State, and local efforts;
+
+
+
+
+(D)
+ innovative alternative fueled vehicle procurement, refueling, and maintenance arrangements with commercial entities;
+
+
+
+
+(E)
+ making regular requests for alternative fueled vehicles for agency use; and
+
+
+
+
+(F)
+ maintaining a high number of alternative fueled vehicles used relative to comparable conventionally fueled motor vehicles used; and
+
+
+
+
+
+
+(2)
+ to fuel efficiency in Federal motor vehicle use through the promotion of such measures as increased use of fuel-efficient vehicles, carpooling, ride-sharing, regular maintenance, and other conservation and awareness measures.
+
+
+
+
+(c)
+ Authorization of appropriations
+There are authorized to be appropriated for the purpose of carrying out this section not more than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+
+
+
+
+ Measurement of alternative fuel use
+The Administrator of General Services shall use such means as may be necessary to measure the percentage of alternative fuel use in dual-fueled vehicles procured by the Administrator of General Services. Not later than one year after 
+ Reports
+(a)
+ Omitted
+
+
+(b)
+ Compliance report
+(1)
+ In general
+Not later than 
+February 15, 2006
+, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
+(A)
+ summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
+
+
+
+
+(B)
+ includes a plan of compliance that contains specific dates for achieving compliance using reasonable means.
+
+
+
+
+
+
+(2)
+ Contents
+(A)
+ In general
+Each report submitted under paragraph (1) shall include—
+(i)
+ any information on any failure to meet statutory requirements or requirements under Executive Order No. 13031;
+
+
+
+
+(ii)
+(I)
+ any plan of compliance that the agency head is required to submit under Executive Order No. 13031; or
+
+
+
+
+(II)
+ if a plan of compliance referred to in subclause (I) does not contain specific dates by which the Federal agency is to achieve compliance, a revised plan of compliance that contains specific dates for achieving compliance; and
+
+
+
+
+
+
+(iii)
+ any related information the agency head is required to submit to the Director of the Office of Management and Budget under Executive Order No. 13031.
+
+
+
+
+
+
+(B)
+ Penultimate report
+The penultimate report submitted under paragraph (1) shall include an announcement that the report for the next year shall be the final report submitted under paragraph (1).
+
+
+
+
+
+
+
+
+(3)
+ Public dissemination of report
+Each report submitted under paragraph (1) shall be made public, including—
+(A)
+ placing such report on a publicly available website on the Internet; and
+
+
+
+
+(B)
+ publishing the availability of the report, including such website address, in the Federal Register.
+
+
+
+
+
+
+ United States Postal Service
+(a)
+ Omitted
+
+
+(b)
+ Coordination
+To the maximum extent practicable, the Postmaster General shall coordinate the Postal Service’s alternative fueled vehicle procurement, placement, refueling, and maintenance programs with those at the Federal, State, and local level. The Postmaster General shall communicate, share, and disseminate, on a regular basis, information on such programs with the Secretary, the Administrator of General Services, and heads of appropriate Federal agencies.
+
+
+
+
+(c)
+ Program criteria
+The Postmaster General shall consider the following criteria in the procurement and placement of alternative fueled vehicles:
+(1)
+ The procurement plans of State and local governments and other public and private institutions.
+
+
+
+
+(2)
+ The current and future availability of refueling and repair facilities.
+
+
+
+
+(3)
+ The reduction in emissions of the Postal fleet.
+
+
+
+
+(4)
+ Whether the vehicle is to be used in a nonattainment area as specified in the Clean Air Act Amendments of 1990.
+
+
+
+
+(5)
+ The operational requirements of the Postal fleet.
+
+
+
+
+(6)
+ The contribution to the reduction in the consumption of oil in the transportation sector.
+
+
+
+
+ Biodiesel fuel use credits
+(a)
+ Allocation of credits
+(1)
+ In general
+The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodiesel component of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
+
+
+
+
+
+
+(2)
+ Exceptions
+No credits shall be allocated under paragraph (1) for a purchase of biodiesel—
+(A)
+ for use in alternative fueled vehicles; or
+
+
+
+
+(B)
+ that is required by Federal or State law.
+
+
+
+
+
+
+(3)
+ Authority to modify percentage
+The Secretary may, by rule, lower the 20 percent biodiesel volume requirement in paragraph (1) for reasons related to cold start, safety, or vehicle function considerations.
+
+
+
+
+
+
+(4)
+ Documentation
+A fleet or covered person seeking a credit under this section shall provide written documentation to the Secretary supporting the allocation of a credit to such fleet or covered person under paragraph (1).
+
+
+
+
+
+
+(b)
+ Use of credits
+(1)
+ In general
+At the request of a fleet or covered person allocated a credit under subsection (a) of this section, the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II of this chapter, or subchapter III of this chapter.
+
+
+
+
+
+
+(2)
+ Limitation
+Credits allocated under subsection (a) of this section may not be used to satisfy more than 50 percent of the alternative fueled vehicle requirements of a fleet or covered person under this subchapter, subchapter II of this chapter, and subchapter III of this chapter. This paragraph shall not apply to a fleet or covered person that is a biodiesel alternative fuel provider described in 
+section 13251(a)(2)(A) of this title
+.
+
+
+
+
+
+
+(c)
+ Credit not a section 13258 credit
+A credit under this section shall not be considered a credit under 
+section 13258 of this title
+.
+
+
+
+
+(d)
+ Issuance of rule
+The Secretary shall, before 
+January 1, 1999
+, issue a rule establishing procedures for the implementation of this section.
+
+
+
+
+(e)
+ Collection of data
+The Secretary shall collect such data as are required to make a determination described in subsection (f)(2)(B) of this section.
+
+
+
+
+(f)
+ Definitions
+For purposes of this section—
+(1)
+ the term “biodiesel”—
+(A)
+ means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under 
+section 7545 of this title
+;
+
+
+
+
+(B)
+ includes biodiesel derived from—
+(i)
+ animal wastes, including poultry fats and poultry wastes, and other waste materials; or
+
+
+
+
+(ii)
+ municipal solid waste and sludges and oils derived from wastewater and the treatment of wastewater; and
+
+
+
+
+
+
+
+
+(2)
+ the term “qualifying volume” means—
+(A)
+ 450 gallons; or
+
+
+
+
+(B)
+ if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
+
+
+
+
+
+
+ Public information program
+The Secretary, in consultation with appropriate Federal agencies and individuals and organizations with practical experience in the production and use of alternative fuels and alternative fueled vehicles, shall, for the purposes of promoting the use of alternative fuels and alternative fueled vehicles, establish a public information program on the benefits and costs of the use of alternative fuels in motor vehicles. Within 18 months after 
+ Labeling requirements
+(a)
+ Establishment of requirements
+The Federal Trade Commission, in consultation with the Secretary, the Administrator of the Environmental Protection Agency, and the Secretary of Transportation, shall, within 18 months after 
+October 24, 1992
+, issue a notice of proposed rulemaking for a rule to establish uniform labeling requirements, to the greatest extent practicable, for alternative fuels and alternative fueled vehicles, including requirements for appropriate information with respect to costs and benefits, so as to reasonably enable the consumer to make choices and comparisons. Required labeling under the rule shall be simple and, where appropriate, consolidated with other labels providing information to the consumer. In formulating the rule, the Federal Trade Commission shall give consideration to the problems associated with developing and publishing useful and timely cost and benefit information, taking into account lead time, costs, the frequency of changes in costs and benefits that may occur, and other relevant factors. The Commission shall obtain the views of affected industries, consumer organizations, Federal and State agencies, and others in formulating the rule. A final rule shall be issued within 1 year after the notice of proposed rulemaking is issued. Such rule shall be updated periodically to reflect the most recent available information.
+
+
+
+
+(b)
+ Technical assistance and coordination
+The Secretary shall provide technical assistance to the Federal Trade Commission in developing labeling requirements under subsection (a) of this section. The Secretary shall coordinate activities under this section with activities under 
+section 13231 of this title
+.
+
+
+
+
+ Data acquisition program
+(a)
+ Not later than one year after 
+October 24, 1992
+, the Secretary, through the Energy Information Administration, and in cooperation with appropriate State, regional, and local authorities, shall establish a data collection program to be conducted in at least 5 geographically and climatically diverse regions of the United States for the purpose of collecting data which would be useful to persons seeking to manufacture, convert, sell, own, or operate alternative fueled vehicles or alternative fueling facilities. Such data shall include—
+(1)
+ identification of the number and types of motor vehicle trips made daily and miles driven per trip, including commuting, business, and recreational trips;
+
+
+
+
+(2)
+ the projections of the Secretary as to the most likely combination of alternative fueled vehicle use and other forms of transit, including rail and other forms of mass transit;
+
+
+
+
+(3)
+ cost, performance, environmental, energy, and safety data on alternative fuels and alternative fueled vehicles; and
+
+
+
+
+(4)
+ other appropriate demographic information and consumer preferences.
+
+
+
+
+(b)
+ The Secretary shall consult with interested parties, including other appropriate Federal agencies, manufacturers, public utilities, owners and operators of fleets of light duty motor vehicles, and State or local governmental entities, to determine the types of data to be collected and analyzed under subsection (a) of this section.
+
+
+ Federal Energy Regulatory Commission authority to approve recovery of certain expenses in advance
+(a)
+ Natural gas motor vehicles
+The Federal Energy Regulatory Commission may, under 
+section 717c of title 15
+, allow recovery of expenses in advance by natural-gas companies for research, development, and demonstration activities by the Gas Research Institute for projects on the use of natural gas, including fuels derived from natural gas, for transportation, and projects on the use of natural gas to control pollutants and to control emissions from the combustion of other fuels, if the Commission finds that the benefits, including environmental benefits, to existing and future ratepayers resulting from such activities exceed all direct costs to existing and future ratepayers. To the maximum extent practicable, through the establishment of cofunding requirements applicable to such projects, the Commission shall ensure that the costs of such activities shall be provided in part, through contributions of cash, personnel, services, equipment, and other resources, by sources other than the recovery of expenses pursuant to this section.
+
+
+
+
+(b)
+ Electric motor vehicles
+The Federal Energy Regulatory Commission may, under 
+section 824d of title 16
+, allow recovery of expenses in advance by electric utilities for research, development, and demonstration activities by the Electric Power Research Institute for projects on electric motor vehicles, if the Commission finds that the benefits, including environmental benefits, to existing and future ratepayers resulting from such activities exceed all direct costs to existing and future ratepayers. To the maximum extent practicable, through the establishment of cofunding requirements applicable to each project, the costs of such activities shall be provided, in part, through contributions of cash, personnel, services, equipment, and other resources, by sources other than the recovery of expenses pursuant to this section.
+
+
+
+
+ State and local incentives programs
+(a)
+ Establishment of program
+(1)
+ The Secretary shall, within one year after 
+October 24, 1992
+, issue regulations establishing guidelines for comprehensive State alternative fuels and alternative fueled vehicle incentives and program plans designed to accelerate the introduction and use of such fuels and vehicles. Such guideline 
+1
+1
+ So in original. Probably should be “guidelines”.
+ shall address the development, modification, and implementation of such State plans and shall describe those program elements, as described in paragraph (3), to be addressed in such plans.
+
+
+
+
+(2)
+ The Secretary, after consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall invite the Governor of each State to submit to the Secretary a State plan within one year after the effective date of the regulations issued under paragraph (1). Such plan shall include—
+(A)
+ provisions designed to result in scheduled progress toward, and achievement of, the goal of introducing substantial numbers of alternative fueled vehicles in such State by the year 2000; and
+
+
+
+
+(B)
+ a detailed description of the requirements, including the estimated cost of implementation, of such plan.
+
+
+
+
+
+
+(3)
+ Each proposed State plan, in order to be eligible for Federal assistance under this section, shall describe the manner in which coordination shall be achieved with Federal and local governmental entities in implementing such plan, and shall include an examination of—
+(A)
+ exemption from State sales tax or other State or local taxes or surcharges (other than such taxes or surcharges which are dedicated for transportation purposes) with respect to alternative fueled vehicles, alternative fuels, or alternative fueling facilities;
+
+
+
+
+(B)
+ the introduction of alternative fueled vehicles into State-owned or operated motor vehicle fleets;
+
+
+
+
+(C)
+ special parking at public buildings and airport and transportation facilities;
+
+
+
+
+(D)
+ programs of public education to promote the use of alternative fueled vehicles;
+
+
+
+
+(E)
+ the treatment of sales of alternative fuels for use in alternative fueled vehicles;
+
+
+
+
+(F)
+ methods by which State and local governments might facilitate—
+(i)
+ the availability of alternative fuels; and
+
+
+
+
+(ii)
+ the ability to recharge electric motor vehicles at public locations;
+
+
+
+
+
+
+(G)
+ allowing public utilities to include in rates the incremental cost of—
+(i)
+ new alternative fueled vehicles;
+
+
+
+
+(ii)
+ converting conventional vehicles to operate on alternative fuels; and
+
+
+
+
+(iii)
+ installing alternative fuel fueling facilities,
+
+
+
+
+
+but only to the extent that the inclusion of such costs in rates would not create competitive disadvantages for other market participants, and taking into consideration the effect inclusion of such costs would have on rates, service, and reliability to other utility customers;
+
+
+
+
+(H)
+ such other programs and incentives as the State may describe;
+
+
+
+
+(I)
+ whether accomplishing any of the goals in this subsection would require amendment to State law or regulation, including traffic safety prohibitions;
+
+
+
+
+(J)
+ services provided by municipal, county, and regional transit authorities; and
+
+
+
+
+(K)
+ effects of such plan on programs authorized by the Intermodal Surface Transportation Efficiency Act of 1991 and amendments made by that Act.
+
+
+
+
+
+
+(b)
+ Federal assistance to States
+(1)
+ Upon request of the Governor of any State with a plan approved under this section, the Secretary may provide to such State—
+(A)
+ information and technical assistance, including model State laws and proposed regulations relating to alternative fueled vehicles;
+
+
+
+
+(B)
+ grants of Federal financial assistance for the purpose of assisting such State in the implementation of such plan or any part thereof; and
+
+
+
+
+(C)
+ grants of Federal financial assistance for the acquisition of alternative fueled vehicles.
+
+
+
+
+
+
+(2)
+ In determining whether to approve a State plan submitted under subsection (a) of this section, and in determining the amount of Federal financial assistance, if any, to be provided to any State under this subsection, the Secretary shall take into account—
+(A)
+ the energy-related and environmental-related impacts, on a life cycle basis, of the introduction and use of alternative fueled vehicles included in the plan compared to conventional motor vehicles;
+
+
+
+
+(B)
+ the number of alternative fueled vehicles likely to be introduced by the year 2000, as a result of successful implementation of the plan; and
+
+
+
+
+(C)
+ such other factors as the Secretary considers appropriate.
+
+
+
+
+
+
+(3)
+ The Secretary, in consultation with the Administrator of General Services, shall provide assistance to States in procuring alternative fueled vehicles, including coordination with Federal procurements of such vehicles.
+
+
+
+
+(4)
+ The Secretary may not approve a State plan submitted under subsection (a) of this section unless the State agrees to provide at least 20 percent of the cost of activities for which assistance is provided under paragraph (1).
+
+
+
+
+(c)
+ General provisions
+(1)
+ In carrying out this section, the Secretary shall consult with the Secretary of Transportation on matters relating to transportation and with other appropriate Federal and State departments and agencies.
+
+
+
+
+(2)
+ The Secretary shall report annually to the President and the Congress, and shall furnish copies of such report to the Governor of each State participating in the program, on the operation of the program under this section. Such report shall include—
+(A)
+ an estimate of the number of alternative fueled vehicles in use in each State;
+
+
+
+
+(B)
+ the degree of each State’s participation in the program;
+
+
+
+
+(C)
+ a description of Federal, State, and local programs undertaken in the various States, whether pursuant to a State plan under this section or not, to provide incentives for introduction of alternative fueled vehicles;
+
+
+
+
+(D)
+ an estimate of the energy and environmental benefits of the program; and
+
+
+
+
+(E)
+ the recommendations of the Secretary, if any, for additional action by the Federal Government.
+
+
+
+
+
+
+(d)
+ Definitions
+For the purposes of this section, the following definitions apply:
+(1)
+ Governor
+The term “Governor” means the chief executive of a State.
+
+
+
+
+
+
+(2)
+ State
+The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other Commonwealth, territory, or possession of the United States.
+
+
+
+
+
+
+(e)
+ Authorization of appropriations
+There are authorized to be appropriated for carrying out this section, $10,000,000 for each of the 5 fiscal years beginning after 
+October 24, 1992
+.
+
+
+
+
+ Alternative fuel bus program
+(a)
+ Cooperative agreements and joint ventures
+(1)
+ The Secretary of Transportation, in consultation with the Secretary, may enter into cooperative agreements and joint ventures proposed by any municipal, county, or regional transit authority in an urban area with a population over 100,000 (according to latest available census information) to demonstrate the feasibility of commercial application, including safety of specific vehicle design, of using alternative fuels for urban buses and other motor vehicles used for mass transit.
+
+
+
+
+(2)
+ The cooperative agreements and joint ventures under paragraph (1) may include interested or affected private firms willing to provide assistance in cash, or in kind, for any such demonstration.
+
+
+
+
+(3)
+ Federal assistance provided under cooperative agreements and joint ventures entered into under paragraph (1) to demonstrate the feasibility of commercial application of using alternative fuels for urban buses shall be in addition to Federal assistance provided under any other law for such purpose.
+
+
+
+
+(b)
+ Limitations
+(1)
+ The Secretary of Transportation may not enter into cooperative agreement or joint venture under subsection (a) of this section with any municipal, county, or regional transit authority, unless such government body agrees to provide 20 percent of the costs of such demonstration.
+
+
+
+
+(2)
+ The Secretary of Transportation may grant such priority under this section to any entity that demonstrates that the use of alternative fuels for transportation would have a significant beneficial effect on the environment.
+
+
+
+
+(c)
+ School buses
+The Secretary of Transportation may also provide, in accordance with such rules as he may prescribe, financial assistance to any agency, municipality, or political subdivision in an urban area referred to in subsection (a) of this section, of any State or the District of Columbia for the purpose of meeting the incremental costs of school buses that are dedicated vehicles and used regularly for such transportation during the school term. Such costs may include the purchase and installation of alternative fuel refueling facilities to be used for school bus refueling, and the conversion of school buses to dedicated vehicles. The Secretary of Transportation may provide such assistance directly to a person who is a contractor of such agency, municipality, or political subdivision, upon the request of the agency, municipality, or political subdivision, and who, under such contract, provides for such transportation. Any conversion under this subsection shall comply with the warranty and safety requirements for alternative fuel conversions contained in section 7587 
+1
+1
+ See References in Text note below.
+ of this title.
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated not more than $30,000,000 for each of the fiscal years 1993, 1994, and 1995 for purposes of this section.
+
+
+
+
+ Certification of training programs
+The Secretary shall ensure that the Federal Government establishes and carries out a program for the certification of training programs for technicians who are responsible for motor vehicle installation of equipment that converts gasoline or diesel-fueled motor vehicles into dedicated vehicles or dual fueled vehicles, and for the maintenance of such converted motor vehicles. A training program shall not be certified under the program established under this section unless it provides technicians with instruction on the proper and safe installation procedures and techniques, adherence to specifications (including original equipment manufacturer specifications), motor vehicle operating procedures, emissions testing, and other appropriate mechanical concerns applicable to these motor vehicle conversions. The Secretary shall ensure that, in the development of the program required under this section, original equipment manufacturers, fuel suppliers, companies that convert conventional vehicles to use alternative fuels, and other affected persons are consulted.
+ Alternative fuel use in nonroad vehicles and engines
+(a)
+ Nonroad vehicles and engines
+(1)
+ The Secretary shall conduct a study to determine whether the use of alternative fuels in nonroad vehicles and engines would contribute substantially to reduced reliance on imported energy sources. Such study shall be completed, and the results thereof reported to Congress, within 2 years after 
+October 24, 1992
+.
+
+
+
+
+(2)
+ The study shall assess the potential of nonroad vehicles and engines to run on alternative fuels. Taking into account the nonroad vehicles and engines for which running on alternative fuels is feasible, the study shall assess the potential reduction in reliance on foreign energy sources that could be achieved if such vehicles were to run on alternative fuels.
+
+
+
+
+(3)
+ The report required under paragraph (1) may include the Secretary’s recommendations for encouraging or requiring nonroad vehicles and engines which can feasibly be run on alternative fuels, to utilize such alternative fuels.
+
+
+
+
+(b)
+ Definition of nonroad vehicles and engines
+Nonroad vehicles and engines, for purposes of this section, shall include nonroad vehicles and engines used for surface transportation or principally for industrial or commercial purposes, vehicles used for rail transportation, vehicles used at airports, vehicles or engines used for marine purposes, and other vehicles or engines at the discretion of the Secretary.
+
+
+
+
+(c)
+ Designation
+Upon completion of the study required pursuant to subsection (a) of this section, the Secretary may designate such vehicles and engines as qualifying for loans pursuant to 
+section 13239 of this title
+.
+
+
+
+
+ Low interest loan program
+(a)
+ Establishment
+Within 1 year after 
+October 24, 1992
+, the Secretary shall establish a program for making low interest loans, giving preference to small businesses that own or operate fleets, for—
+(1)
+ the conversion of motor vehicles to operation on alternative fuels;
+
+
+
+
+(2)
+ covering the incremental costs of the purchase of motor vehicles which operate on alternative fuels, when compared with purchase costs of comparable conventionally fueled motor vehicles; or
+
+
+
+
+(3)
+ covering the incremental costs of purchase of non-road vehicles and engines designated by the Secretary pursuant to 
+section 13238(c) of this title
+.
+
+
+
+
+(b)
+ Loan terms
+The Secretary, to the extent practicable, shall establish reasonable terms for loans made under this subsection, with preference given to repayment schedules that enable such loans to be repaid by the borrower from the cost differential between gasoline and the alternative fuel on which the motor vehicle operates.
+
+
+
+
+(c)
+ Criteria
+In deciding to whom loans shall be made under this subsection, the Secretary shall consider—
+(1)
+ the financial need of the applicant;
+
+
+
+
+(2)
+ the goal of assisting the greatest number of applicants; and
+
+
+
+
+(3)
+ the ability of an applicant to repay the loan, taking into account the fuel cost savings likely to accrue to the applicant.
+
+
+
+
+(d)
+ Priorities
+Priority shall be given under this section to fleets where the use of alternative fuels would have a significant beneficial effect on energy security and the environment.
+
+
+
+
+(e)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this section, $25,000,000 for each of the fiscal years 1993, 1994, and 1995.
+
+
+
+
+ Mandate for alternative fuel providers
+(a)
+ In general
+(1)
+ The Secretary shall, before 
+January 1, 1994
+, issue regulations requiring that of the new light duty motor vehicles acquired by a covered person described in paragraph (2), the following percentages shall be alternative fueled vehicles for the following model years:
+(A)
+ 30 percent for model year 1996.
+
+
+
+
+(B)
+ 50 percent for model year 1997.
+
+
+
+
+(C)
+ 70 percent for model year 1998.
+
+
+
+
+(D)
+ 90 percent for model year 1999 and thereafter.
+
+
+
+
+
+
+(2)
+ For purposes of this section, a person referred to in paragraph (1) is—
+(A)
+ a covered person whose principal business is producing, storing, refining, processing, transporting, distributing, importing, or selling at wholesale or retail any alternative fuel other than electricity;
+
+
+
+
+(B)
+ a non-Federal covered person whose principal business is generating, transmitting, importing, or selling at wholesale or retail electricity; or
+
+
+
+
+(C)
+ a covered person—
+(i)
+ who produces, imports, or produces and imports in combination, an average of 50,000 barrels per day or more of petroleum; and
+
+
+
+
+(ii)
+ a substantial portion of whose business is producing alternative fuels.
+
+
+
+
+
+
+
+
+(3)
+(A)
+ In the case of a covered person described in paragraph (2) with more than one affiliate, division, or other business unit, only an affiliate, division, or business unit which is substantially engaged in the alternative fuels business (as determined by the Secretary by rule) shall be subject to this subsection.
+
+
+
+
+(B)
+ No covered person or affiliate, division, or other business unit of such person whose principal business is—
+(i)
+ transforming alternative fuels into a product that is not an alternative fuel; or
+
+
+
+
+(ii)
+ consuming alternative fuels as a feedstock or fuel in the manufacture of a product that is not an alternative fuel,
+
+
+
+
+
+shall be subject to this subsection.
+
+
+
+
+
+
+(4)
+ The vehicles purchased pursuant to this section shall be operated solely on alternative fuels except when operating in an area where the appropriate alternative fuel is unavailable.
+
+
+
+
+(5)
+ Regulations issued under paragraph (1) shall provide for the prompt exemption by the Secretary, through a simple and reasonable process, from the requirements of paragraph (1) of any covered person, in whole or in part, if such person demonstrates to the satisfaction of the Secretary that—
+(A)
+ alternative fueled vehicles that meet the normal requirements and practices of the principal business of that person are not reasonably available for acquisition; or
+
+
+
+
+(B)
+ alternative fuels that meet the normal requirements and practices of the principal business of that person are not available in the area in which the vehicles are to be operated.
+
+
+
+
+
+
+(b)
+ Revisions and extensions
+With respect to model years 1997 and thereafter, the Secretary may—
+(1)
+ revise the percentage requirements under subsection (a)(1) of this section downward, except that under no circumstances shall the percentage requirement for a model year be less than 20 percent; and
+
+
+
+
+(2)
+ extend the time under subsection (a)(1) of this section for up to 2 model years.
+
+
+
+
+(c)
+ Option for electric utilities
+The Secretary shall, within 1 year after 
+October 24, 1992
+, issue regulations requiring that, in the case of a covered person whose principal business is generating, transmitting, importing, or selling at wholesale or retail electricity, the requirements of subsection (a)(1) of this section shall not apply until after 
+December 31, 1997
+, with respect to electric motor vehicles. Any covered person described in this subsection which plans to acquire electric motor vehicles to comply with the requirements of this section shall so notify the Secretary before 
+January 1, 1996
+.
+
+
+
+
+(d)
+ Report to Congress
+The Secretary shall, before 
+January 1, 1998
+, submit a report to the Congress providing detailed information on actions taken to carry out this section, and the progress made and problems encountered thereunder.
+
+
+
+
+ Replacement fuel supply and demand program
+(a)
+ Establishment of program
+The Secretary shall establish a program to promote the development and use in light duty motor vehicles of domestic replacement fuels. Such program shall promote the replacement of petroleum motor fuels with replacement fuels to the maximum extent practicable. Such program shall, to the extent practicable, ensure the availability of those replacement fuels that will have the greatest impact in reducing oil imports, improving the health of our Nation’s economy and reducing greenhouse gas emissions.
+
+
+
+
+(b)
+ Development plan and production goals
+Under the program established under subsection (a) of this section, the Secretary, before 
+October 1, 1993
+, in consultation with the Administrator, the Secretary of Transportation, the Secretary of Agriculture, the Secretary of Commerce, and the heads of other appropriate agencies, shall review appropriate information and—
+(1)
+ estimate the domestic and nondomestic production capacity for replacement fuels and alternative fueled vehicles needed to implement this section;
+
+
+
+
+(2)
+ determine the technical and economic feasibility of achieving the goals of producing sufficient replacement fuels to replace, on an energy equivalent basis—
+(A)
+ at least 10 percent by the year 2000; and
+
+
+
+
+(B)
+ at least 30 percent by the year 2010,
+
+
+
+
+
+of the projected consumption of motor fuel in the United States for each such year, with at least one half of such replacement fuels being domestic fuels;
+
+
+
+
+(3)
+ determine the most suitable means and methods of developing and encouraging the production, distribution, and use of replacement fuels and alternative fueled vehicles in a manner that would meet the program goals described in subsection (a) of this section;
+
+
+
+
+(4)
+ identify ways to encourage the development of reliable replacement fuels and alternative fueled vehicle industries in the United States, and the technical, economic, and institutional barriers to such development; and
+
+
+
+
+(5)
+ determine the greenhouse gas emission implications of increasing the use of replacement fuels, including an estimate of the maximum feasible reduction in such emissions from the use of replacement fuels.
+
+
+
+
+
+The Secretary shall publish in the Federal Register the results of actions taken under this subsection, and provide for an opportunity for public comment.
+
+
+ Replacement fuel demand estimates and supply information
+(a)
+ Estimates
+Not later than 
+October 1, 1993
+, and annually thereafter, the Secretary, in consultation with the Administrator, the Secretary of Transportation, and other appropriate State and Federal officials, shall estimate for the following calendar year—
+(1)
+ the number of each type of alternative fueled vehicle likely to be in use in the United States;
+
+
+
+
+(2)
+ the probable geographic distribution of such vehicles;
+
+
+
+
+(3)
+ the amount and distribution of each type of replacement fuel; and
+
+
+
+
+(4)
+ the greenhouse gas emissions likely to result from replacement fuel use.
+
+
+
+
+(b)
+ Information
+Beginning on 
+October 1, 1994
+, the Secretary shall annually require—
+(1)
+ fuel suppliers to report to the Secretary on the amount of each type of replacement fuel that such supplier—
+(A)
+ has supplied in the previous calendar year; and
+
+
+
+
+(B)
+ plans to supply for the following calendar year;
+
+
+
+
+
+
+(2)
+ suppliers of alternative fueled vehicles to report to the Secretary on the number of each type of alternative fueled vehicle that such supplier—
+(A)
+ has made available in the previous calendar year; and
+
+
+
+
+(B)
+ plans to make available for the following calendar year; and
+
+
+
+
+
+
+(3)
+ such fuel suppliers to provide the Secretary information necessary to determine the greenhouse gas emissions from the replacement fuels used, taking into account the entire fuel cycle.
+
+
+
+
+(c)
+ Protection of information
+Information provided to the Secretary under subsection (b) of this section shall be subject to applicable provisions of law protecting the confidentiality of trade secrets and business and financial information, including 
+section 1905 of title 18
+.
+
+
+
+
+ Modification of goals; additional rulemaking authority
+(a)
+ Examination of goals
+Within 3 years after 
+October 24, 1992
+, and periodically thereafter, the Secretary shall examine the goals established under 
+section 13252(b)(2) of this title
+, in the context of the program goals stated under 
+section 13252(a) of this title
+, to determine if the goals under 
+section 13252(b)(2) of this title
+, including the applicable percentage requirements and dates, should be modified under this section. The Secretary shall publish in the Federal Register the results of each examination under this subsection and provide an opportunity for public comment.
+
+
+
+
+(b)
+ Modification of goals
+If, after analysis of information obtained in connection with carrying out subsection (a) of this section or 
+section 13252 of this title
+, or other information, and taking into account the determination of technical and economic feasibility made under 
+section 13252(b)(2) of this title
+, the Secretary determines that goals described in 
+section 13252(b)(2) of this title
+, including the percentage requirements or dates, are not achievable, the Secretary, in consultation with appropriate Federal agencies, shall, by rule, establish goals that are achievable, for purposes of this subchapter. The modification of goals under this section may include changing the target dates specified in 
+section 13252(b)(2) of this title
+.
+
+
+
+
+(c)
+ Additional rulemaking authority
+If the Secretary determines that the achievement of goals described in 
+section 13252(b)(2) of this title
+ would result in a significant and correctable failure to meet the program goals described in 
+section 13252(a) of this title
+, the Secretary shall issue such additional regulations as are necessary to remedy such failure. The Secretary shall have no authority under this Act to mandate the production of alternative fueled vehicles or to specify, as applicable, the models, lines, or types of, or marketing or pricing practices, policies, or strategies for, vehicles subject to this Act. Nothing in this Act shall be construed to give the Secretary authority to mandate marketing or pricing practices, policies, or strategies for alternative fuels or to mandate the production or delivery of such fuels.
+
+
+
+
+ Voluntary supply commitments
+ Technical and policy analysis
+(a)
+ Requirement
+Not later than 
+March 1, 1995
+, and 
+March 1, 1997
+, the Secretary shall prepare and transmit to the President and the Congress a technical and policy analysis under this section. The Secretary shall utilize the analytical capability and authorities of the Energy Information Administration and such other offices of the Department of Energy as the Secretary considers appropriate.
+
+
+
+
+(b)
+ Purposes
+The technical and policy analysis prepared under this section shall be based on the best available data and information obtainable by the Secretary under 
+section 13253 of this title
+, or otherwise, and on experience under this subchapter and other provisions of law in the development and use of replacement fuels and alternative fueled vehicles, and shall evaluate—
+(1)
+ progress made in achieving the goals described in 
+section 13252(b)(2) of this title
+, as modified under 
+section 13254 of this title
+;
+
+
+
+
+(2)
+ the actual and potential role of replacement fuels and alternative fueled vehicles in significantly reducing United States reliance on imported oil to the extent of the goals referred to in paragraph (1); and
+
+
+
+
+(3)
+ the actual and potential availability of various domestic replacement fuels and dedicated vehicles and dual fueled vehicles.
+
+
+
+
+(c)
+ Publication
+The Secretary shall publish a proposed version of each analysis under this section in the Federal Register for public comment before transmittal to the President and the Congress. Public comment received in response to such publication shall be preserved for use in rulemaking proceedings under 
+section 13257 of this title
+.
+
+
+
+
+ Fleet requirement program
+(a)
+ Fleet program purchase goals
+(1)
+ Except as provided in paragraph (2), the following percentages of new light duty motor vehicles acquired in each model year for a fleet, other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person subject to 
+section 13251 of this title
+, shall be alternative fueled vehicles:
+(A)
+ 20 percent of the motor vehicles acquired in model years 1999, 2000, and 2001;
+
+
+
+
+(B)
+ 30 percent of the motor vehicles acquired in model year 2002;
+
+
+
+
+(C)
+ 40 percent of the motor vehicles acquired in model year 2003;
+
+
+
+
+(D)
+ 50 percent of the motor vehicles acquired in model year 2004;
+
+
+
+
+(E)
+ 60 percent of the motor vehicles acquired in model year 2005; and
+
+
+
+
+(F)
+ 70 percent of the motor vehicles acquired in model year 2006 and thereafter.
+
+
+
+
+
+
+(2)
+ The Secretary may not establish percentage requirements higher than those described in paragraph (1). The Secretary may, if appropriate, and pursuant to a rule under subsection (b) of this section, establish a lesser percentage requirement for any model year. The Secretary may, by rule, establish a date later than 1998 (or model year 1999) for initiating the fleet requirements under paragraph (1).
+
+
+
+
+(3)
+ The Secretary shall publish an advance notice of proposed rulemaking for the purpose of—
+(A)
+ evaluating the progress toward achieving the goals of replacement fuel use described in 
+section 13252(b)(2) of this title
+, as modified under 
+section 13254 of this title
+;
+
+
+
+
+(B)
+ identifying the problems associated with achieving those goals;
+
+
+
+
+(C)
+ assessing the adequacy and practicability of those goals; and
+
+
+
+
+(D)
+ considering all actions needed to achieve those goals.
+
+
+
+
+
+The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
+
+
+
+
+(4)
+ After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b) of this section, and shall provide for a public comment period, with hearings, of not less than 90 days.
+
+
+
+
+(b)
+ Early rulemaking
+(1)
+ Not earlier than 1 year after 
+October 24, 1992
+, and after carrying out the requirements of subsection (a) of this section, the Secretary shall initiate a rulemaking to determine whether a fleet requirement program to begin in calendar year 1998 (when model year 1999 begins), or such other later date as he may select pursuant to subsection (a) of this section, is necessary under this section. Such rule, consistent with subsection (a)(1) of this section, shall establish the annual applicable model year percentage. No rule under this subsection may be promulgated after 
+December 15, 1996
+, and be enforceable. A fleet requirement program shall be considered necessary and a rule therefor shall be promulgated if the Secretary finds that—
+(A)
+ the goal of replacement fuel use described in 
+section 13252(b)(2)(B) of this title
+, as modified under 
+section 13254 of this title
+, is not expected to be actually achieved by 2010, or such other date as is established under 
+section 13254 of this title
+, by voluntary means or pursuant to this subchapter or any other law without such a fleet requirement program, taking into consideration the status of the achievement of the interim goal described in 
+section 13252(b)(2)(A) of this title
+, as modified under 
+section 13254 of this title
+;
+
+
+
+
+(B)
+ such goal is practicable and actually achievable within periods specified in 
+section 13252(b)(2) of this title
+, as modified under 
+section 13254 of this title
+, through implementation of such a fleet requirement program in combination with voluntary means and the application of other programs relevant to achieving such goals; and
+
+
+
+
+(C)
+ by 1998 (when model year 1999 begins) or the date specified by the Secretary in such rule for initiating a fleet requirement program—
+(i)
+ there exists sufficient evidence to ensure that the fuel and the needed infrastructure, including the supply and deliverability systems, will be installed and located at convenient places in the fleet areas subject to the rule and will be fully operational when the rule is effective to offer a reliable and timely supply of the applicable alternative fuel at reasonable costs (as compared to conventional fuels) to meet the fleet requirement program, as demonstrated through use of the provisions of 
+section 13255(1) of this title
+ regarding voluntary commitments or other adequate, reliable, and convincing forms of agreements, arrangements, or representations that such fuels and infrastructure are in existence or will exist when the rule is effective and will be expanded as the percentages increase annually;
+
+
+
+
+(ii)
+ there will be a sufficient number of new alternative fueled vehicles from original equipment manufacturers that comply with all applicable requirements of the Clean Air Act [
+42 U.S.C. 7401
+ et seq.] and chapter 301 of title 49;
+
+
+
+
+(iii)
+ such new vehicles will meet the applicable non-Federal and non-State fleet performance requirements of such fleets (including range, passenger or cargo-carrying capacity, reliability, refueling capability, vehicle mix, and economical operation and maintenance); and
+
+
+
+
+(iv)
+ establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
+
+
+
+
+
+
+
+
+(2)
+ The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
+
+
+
+
+(3)
+ If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary’s findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
+
+
+
+
+(c)
+ Advance notice of proposed rulemaking
+Not later than 
+April 1, 1998
+, the Secretary shall publish an advance notice of proposed rulemaking for the purpose of—
+(1)
+ evaluating the progress toward achieving the goals of replacement fuel use described in 
+section 13252(b)(2) of this title
+, as modified under 
+section 13254 of this title
+;
+
+
+
+
+(2)
+ identifying the problems associated with achieving those goals;
+
+
+
+
+(3)
+ assessing the adequacy and practicability of those goals; and
+
+
+
+
+(4)
+ considering all actions needed to achieve those goals.
+
+
+
+
+
+The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
+
+
+(d)
+ Proposed rule
+Before 
+May 1, 1999
+, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (g) of this section, and shall provide for a public comment period, with hearings, of not less than 90 days.
+
+
+
+
+(e)
+ Determination
+(1)
+ Not later than 
+January 1, 2000
+, the Secretary shall, through the rule required under subsection (g) of this section, determine whether a fleet requirement program is necessary under this section. Such a program shall be considered necessary and a rule therefor shall be promulgated if the Secretary finds that—
+(A)
+ the goal of replacement fuel use described in 
+section 13252(b)(2)(B) of this title
+, as modified under 
+section 13254 of this title
+, is not expected to be actually achieved by 2010, or such other date as is established under 
+section 13254 of this title
+, by voluntary means or pursuant to this subchapter or any other law without such a fleet requirement program, taking into consideration the status of the achievement of the interim goal described in 
+section 13252(b)(2)(A) of this title
+, as modified under 
+section 13254 of this title
+; and
+
+
+
+
+(B)
+ such goal is practicable and actually achievable within periods specified in 
+section 13252(b)(2) of this title
+, as modified under 
+section 13254 of this title
+, through implementation of such a fleet requirement program in combination with voluntary means and the application of other programs relevant to achieving such goals.
+
+
+
+
+
+
+(2)
+ The rule under subsection (b) or (g) of this section shall also modify the goal described in 
+section 13252(b)(2)(B) of this title
+ and establish a revised goal pursuant to 
+section 13254 of this title
+ if the Secretary determines, based on the proceeding required under subsection (a) or (c) of this section, that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) of this section and the minimum percentage stated in subsection (a)(2) or (g)(2) of this section shall be not less than 10 percent.
+
+
+
+
+(f)
+ Explanation of determination that fleet requirement program is not necessary
+If the Secretary determines, based on findings under subsection (b) or (e) of this section, that a fleet requirement program under this section is not necessary, the Secretary shall—
+(1)
+ by 
+December 15, 1996
+, with respect to a rulemaking under subsection (b) of this section; and
+
+
+
+
+(2)
+ by 
+January 1, 2000
+, with respect to a rulemaking under subsection (e) of this section,
+
+
+
+
+
+publish such determination in the Federal Register as a final agency action, including an explanation of the findings on which such determination is made and the basis for the determination.
+
+
+(g)
+ Fleet requirement program
+(1)
+ If the Secretary determines under subsection (e) of this section that a fleet requirement program is necessary, the Secretary shall, by 
+January 1, 2000
+, by rule require that, except as provided in paragraph (2), of the total number of new light duty motor vehicles acquired for a fleet, other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person under 
+section 13251 of this title
+—
+(A)
+ 20 percent of the motor vehicles acquired in model year 2002;
+
+
+
+
+(B)
+ 40 percent of the motor vehicles acquired in model year 2003;
+
+
+
+
+(C)
+ 60 percent of the motor vehicles acquired in model year 2004; and
+
+
+
+
+(D)
+ 70 percent of the motor vehicles acquired in model year 2005 and thereafter,
+
+
+
+
+
+shall be alternative fueled vehicles.
+
+
+
+
+(2)
+ The Secretary may not establish percentage requirements higher than those described in paragraph (1). The Secretary may, if appropriate, and pursuant to a rule under subsection (g) of this section, establish a lesser percentage requirement for any model year. The Secretary may, by rule, establish a date later than 2002 (when model year 2003 begins) for initiating the fleet requirements under paragraph (1).
+
+
+
+
+(3)
+ Nothing in this subchapter shall be construed as requiring any fleet to acquire alternative fueled vehicles or alternative fuels that do not meet the normal business requirements and practices and needs of that fleet.
+
+
+
+
+(4)
+ A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act [
+42 U.S.C. 7401
+ et seq.] shall not be considered an alternative fueled vehicle under subsection (b) of this section or this subsection, except that the Secretary, as part of the rule under subsection (b) of this section or this subsection, may determine that such vehicle should be treated as an alternative fueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act [
+42 U.S.C. 7581
+ et seq.], taking into consideration the impact on energy security and the goals stated in 
+section 13252(a) of this title
+.
+
+
+
+
+(h)
+ Extension of deadlines
+The Secretary may, by notice published in the Federal Register, extend the deadlines established under subsections (e), (f)(2), and (g) of this section for an additional 90 days if the Secretary is unable to meet such deadlines. Such extension shall not be reviewable.
+
+
+
+
+(i)
+ Exemptions
+(1)
+ A rule issued under subsection (b), (g), or (
+o
+) of this section shall provide for the prompt exemption by the Secretary, through a simple and reasonable process, of any fleet from the requirements of subsection (b), (g), or (
+o
+) of this section, in whole or in part, if it is demonstrated to the satisfaction of the Secretary that—
+(A)
+ alternative fueled vehicles that meet the normal requirements and practices of the principal business of the fleet owner are not reasonably available for acquisition;
+
+
+
+
+(B)
+ alternative fuels that meet the normal requirements and practices of the principal business of the fleet owner are not available in the area in which the vehicles are to be operated; or
+
+
+
+
+(C)
+ in the case of State and local government entities, the application of such requirements would pose an unreasonable financial hardship.
+
+
+
+
+
+
+(2)
+ In the case of private fleets, if the motor vehicles, when under normal operations, are garaged at personal residences at night, such motor vehicles shall be exempt from the requirements of subsections (b) and (g).
+
+
+
+
+(j)
+ Conversions
+Nothing in this subchapter or the amendments made by this subchapter shall require a fleet owner to acquire conversion vehicles.
+
+
+
+
+(k)
+ Inclusion of law enforcement vehicles and urban buses
+(1)
+ If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in 
+section 13252(b)(2)(B) of this title
+, as modified under 
+section 13254 of this title
+, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
+
+
+
+
+(2)
+ If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act [
+42 U.S.C. 7521
+ et seq.], in a fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in 
+section 13252(b)(2)(B) of this title
+, as modified under 
+section 13254 of this title
+, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
+
+
+
+
+(3)
+ Rulemakings under paragraph (1) or (2) shall be separate from a rulemaking under subsection (g) of this section, but may not occur unless a rulemaking is carried out under subsection (g) of this section.
+
+
+
+
+(l)
+ Consideration of factors
+In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (including users of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
+
+
+
+
+(m)
+ Consultation and participation of other Federal agencies
+In carrying out this section and 
+section 13256 of this title
+, the Secretary shall consult with the Secretary of Transportation, the Administrator, and other appropriate Federal agencies. The Secretary shall provide for the participation of the Secretary of Transportation and the Administrator in the development and issuance of the rule under this section, including the public process concerning such rule.
+
+
+
+
+(n)
+ Petitions
+As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meet the needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
+
+
+
+
+(o)
+ Mandatory State fleet programs
+(1)
+ Pursuant to a rule promulgated by the Secretary, beginning in calendar year 1995 (when model year 1996 begins), the following percentages of new light duty motor vehicles acquired annually for State government fleets, including agencies thereof, but not municipal fleets, shall be alternative fueled vehicles:
+(A)
+ 10 percent of the motor vehicles acquired in model year 1996;
+
+
+
+
+(B)
+ 15 percent of the motor vehicles acquired in model year 1997;
+
+
+
+
+(C)
+ 25 percent of the motor vehicles acquired in model year 1998;
+
+
+
+
+(D)
+ 50 percent of the motor vehicles acquired in model year 1999;
+
+
+
+
+(E)
+ 75 percent of the motor vehicles acquired in model year 2000 and thereafter.
+
+
+
+
+
+
+(2)
+(A)
+ The Secretary shall within 18 months after 
+October 24, 1992
+, promulgate a rule providing that a State may submit a plan within 12 months after such promulgation containing a light duty alternative fueled vehicle plan for State fleets to meet the annual percentages established under paragraph (1) for the acquisition of light duty motor vehicles. The plan shall provide for the voluntary conversion or acquisition or combination thereof, beyond any acquisition required by this subchapter, of such motor vehicles by State, local, or private fleets, in numbers greater than or equal to the number of State alternative fueled vehicles required pursuant to paragraph (1).
+
+
+
+
+(B)
+ The plan, if approved by the Secretary, would be in lieu of the State meeting such annual percentages solely through purchases of new State-owned vehicles. All conversions or acquisitions or combinations thereof of any alternative fueled vehicles under the plan must be voluntary and must conform with the requirements of section 247 of the Clean Air Act [
+42 U.S.C. 7587
+] and must comply with applicable safety requirements. The Secretary of Transportation shall within 3 years after enactment promulgate rules setting forth safety standards in accordance with chapter 301 of title 49 applicable to all conversions.
+
+
+
+
+
+
+ Credits
+(a)
+ Definitions
+In this section:
+(1)
+ Fuel cell electric vehicle
+The term “fuel cell electric vehicle” means an on-road or non-road vehicle that uses a fuel cell (as defined in 
+section 16152 of this title
+).
+
+
+
+
+
+
+(2)
+ Hybrid electric vehicle
+The term “hybrid electric vehicle” means a new qualified hybrid motor vehicle (as defined in 
+section 30B(d)(3) of title 26
+).
+
+
+
+
+
+
+(3)
+ Medium- or heavy-duty electric vehicle
+The term “medium- or heavy-duty electric vehicle” means an electric, hybrid electric, or plug-in hybrid electric vehicle with a gross vehicle weight of more than 8,501 pounds.
+
+
+
+
+
+
+(4)
+ Neighborhood electric vehicle
+The term “neighborhood electric vehicle” means a 4-wheeled on-road or nonroad vehicle that—
+(A)
+ has a top attainable speed in 1 mile of more than 20 mph and not more than 25 mph on a paved level surface; and
+
+
+
+
+(B)
+ is propelled by an electric motor and on-board, rechargeable energy storage system that is rechargeable using an off-board source of electricity.
+
+
+
+
+
+
+(5)
+ Plug-in electric drive vehicle
+The term “plug-in electric drive vehicle” means a vehicle that—
+(A)
+ draws motive power from a battery with a capacity of at least 4 kilowatt-hours;
+
+
+
+
+(B)
+ can be recharged from an external source of electricity for motive power; and
+
+
+
+
+(C)
+ is a light-, medium-, or heavy duty motor vehicle or nonroad vehicle (as those terms are defined in 
+section 7550 of this title
+).
+
+
+
+
+
+
+(b)
+ In general
+(1)
+ Allocation
+The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternative fueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter.
+
+
+
+
+
+
+(2)
+ Electric vehicles
+Not later than 
+January 31, 2009
+, the Secretary shall—
+(A)
+ allocate credit in an amount to be determined by the Secretary for—
+(i)
+ acquisition of—
+(I)
+ a hybrid electric vehicle;
+
+
+
+
+(II)
+ a plug-in electric drive vehicle;
+
+
+
+
+(III)
+ a fuel cell electric vehicle;
+
+
+
+
+(IV)
+ a neighborhood electric vehicle; or
+
+
+
+
+(V)
+ a medium- or heavy-duty electric vehicle; and
+
+
+
+
+
+
+(ii)
+ investment in qualified alternative fuel infrastructure or nonroad equipment, as determined by the Secretary; and
+
+
+
+
+
+
+(B)
+ allocate more than 1, but not to exceed 5, credits for investment in an emerging technology relating to any vehicle described in subparagraph (A) to encourage—
+(i)
+ a reduction in petroleum demand;
+
+
+
+
+(ii)
+ technological advancement; and
+
+
+
+
+(iii)
+ a reduction in vehicle emissions.
+
+
+
+
+
+
+
+
+(c)
+ Allocation
+In allocating credits under subsection (b) of this section, the Secretary shall allocate one credit for each alternative fueled vehicle the fleet or covered person acquires that exceeds the number of alternative fueled vehicles that fleet or person is required to acquire under this subchapter or that is acquired before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter. In the event that a vehicle is acquired before the date otherwise required, the Secretary shall allocate one credit per vehicle for each year the vehicle is acquired before the required date. The credit shall be allocated for the same type vehicle as the excess vehicle or earlier acquired vehicle.
+
+
+
+
+(d)
+ Use of credits
+At the request of a fleet or covered person allocated a credit under this section, the Secretary shall treat the credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by that fleet or person when determining whether that fleet or person has complied with this subchapter in the year designated. A credit may be counted toward compliance for only one year.
+
+
+
+
+(e)
+ Transferability
+A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may be counted toward compliance for only one year. In the case of the alternative fuel provider program under 
+section 13251 of this title
+, a transferred credit may be counted toward compliance only if the requirement of 
+section 13251(a)(4) of this title
+ is met.
+
+
+
+
+(f)
+ Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2013.
+
+
+
+
+ Secretary’s recommendations to Congress
+(a)
+ Recommendations to require availability or acquisition
+If the Secretary determines, under 
+section 13257(f) of this title
+, that a fleet requirement program under 
+section 13257 of this title
+ is not necessary, the Secretary shall so notify the Congress. If the Secretary so notifies the Congress, the Secretary shall, within 2 years after such notification and by rule, prepare and submit to the Congress recommendations for requirements or incentives for—
+(1)
+ fuel suppliers to make available to the public replacement fuels, including providing for the construction or availability of related fuel delivery systems;
+
+
+
+
+(2)
+ suppliers of alternative fueled vehicles to make available to the public alternative fueled vehicles and to ensure the availability of necessary related services; and
+
+
+
+
+(3)
+ motor vehicle drivers to use replacement fuels,
+
+
+
+
+
+to the extent necessary to achieve such goals of replacement fuel use and to ensure that the availability of alternative fuels and of alternative fueled vehicles are consistent with each other.
+
+
+(b)
+ Fair and equitable application
+In carrying out this section, the Secretary shall recommend the imposition of requirements proportionately on all appropriate fuel suppliers and purchasers of motor fuels and suppliers and purchasers of motor vehicles in a fair and equitable manner.
+
+
+
+
+ Effect on other laws
+(a)
+ In general
+Nothing in this Act or the amendments made by this Act shall be construed to alter, affect, or modify the provisions of the Clean Air Act [
+42 U.S.C. 7401
+ et seq.], or regulations issued thereunder.
+
+
+
+
+(b)
+ Compliance by alternative fueled vehicles
+Alternative fueled vehicles, whether dedicated vehicles or dual fueled vehicles, and the alternative fuels for operating such vehicles, shall comply with requirements of the Clean Air Act [
+42 U.S.C. 7401
+ et seq.] applicable to such vehicles and fuels.
+
+
+
+
+ Prohibited acts
+It shall be unlawful for any person to violate any provision of section 13251, 13253(b), 13257, or 13263a of this title, or any regulation issued under such sections.
+ Enforcement
+(a)
+ Violation
+Whoever violates 
+section 13261 of this title
+ shall be subject to a civil penalty of not more than $5,000 for each violation.
+
+
+
+
+(b)
+ Willful violation
+Whoever willfully violates 
+section 13261 of this title
+ shall be fined not more than $10,000 for each violation.
+
+
+
+
+(c)
+ Knowing and willful violation following prior violation and penalty
+Any person who knowingly and willfully violates 
+section 13261 of this title
+ after having been subjected to a civil penalty for a prior violation of 
+section 13261 of this title
+ shall be fined not more than $50,000.
+
+
+
+
+ Powers of Secretary
+For the purpose of carrying out subchapter I of this chapter, subchapter II of this chapter, this subchapter, and subchapter IV of this chapter, the Secretary, or the duly designated agent of the Secretary, may hold such hearings, take such testimony, sit and act at such times and places, administer such oaths, and require, by subpena, the attendance and testimony of such witnesses and the production of such books, papers, correspondence, memorandums, contracts, agreements, or other records as the Secretary of Transportation is authorized to do under 
+ Alternative compliance
+(a)
+ Application for waiver
+Any covered person subject to 
+section 13251 of this title
+ and any State subject to section 13257(
+o
+) of this title may petition the Secretary for a waiver of the applicable requirements of section 13251 or 13257(
+o
+) of this title.
+
+
+
+
+(b)
+ Grant of waiver
+The Secretary shall grant a waiver of the requirements of section 13251 or 13257(
+o
+) of this title on a showing that the fleet owned, operated, leased, or otherwise controlled by the State or covered person—
+(1)
+ will achieve a reduction in the annual consumption of petroleum fuels by the fleet equal to—
+(A)
+ the reduction in consumption of petroleum that would result from 100 percent cumulative compliance with the fuel use requirements of 
+section 13251 of this title
+; or
+
+
+
+
+(B)
+ in the case of an entity covered under section 13257(
+o
+) of this title, a reduction equal to the annual consumption by the State entity of alternative fuels if all of the cumulative alternative fuel vehicles of the State entity given credit under 
+section 13258 of this title
+ were to use alternative fuel 100 percent of the time; and
+
+
+
+
+
+
+(2)
+ is in compliance with all applicable vehicle emission standards established by the Administrator of the Environmental Protection Agency under the Clean Air Act (
+42 U.S.C. 7401
+ et seq.).
+
+
+
+
+(c)
+ Reporting requirement
+Not later than December 31 of a model year, any State or covered person granted a waiver under this section for the preceding model year shall submit to the Secretary an annual report that—
+(1)
+ certifies the quantity of the petroleum motor fuel reduction of the State or covered person during the preceding model year; and
+
+
+
+
+(2)
+ projects the baseline quantity of the petroleum motor fuel reduction of the State or covered person during the following model year.
+
+
+
+
+(d)
+ Revocation of waiver
+If a State or covered person that receives a waiver under this section fails to comply with this section, the Secretary—
+(1)
+ shall revoke the waiver; and
+
+
+
+
+(2)
+ may impose on the State or covered person a penalty under 
+section 13262 of this title
+.
+
+
+
+
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this subchapter $10,000,000 for each of the fiscal years 1993 through 1997, and such sums as may be necessary for fiscal years 1998 through 2000.
+ Definitions
+ Purposes
+ Renewable energy export technology training
+(a)
+ Establishment of program
+The Secretary, through the Agency for International Development, shall establish a program for the training of individuals from developing countries in the operation and maintenance of renewable energy and energy efficiency technologies in accordance with this section. The Secretary and the Administrator of the Agency for International Development shall, within one year after 
+October 24, 1992
+, enter into a written agreement to carry out this program.
+
+
+
+
+(b)
+ Purpose
+The purpose of the program established under this section shall be to train appropriate persons in the system design, operation, and maintenance of renewable energy and energy efficiency equipment manufactured in the United States, including equipment for water pumping, heating and purification, and the production of electric power in remote areas.
+
+
+
+
+(c)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary $6,000,000 for each of the fiscal years 1994, 1995, and 1996, to carry out this section.
+
+
+
+
+ Renewable Energy Advancement Awards
+(a)
+ Authority
+The Secretary shall make Renewable Energy Advancement Awards in recognition of developments that advance the practical application of biomass, geothermal, hydroelectric, photovoltaic, solar thermal, ocean thermal, and wind technologies to consumer, utility, or industrial uses, in accordance with this section. Except as provided in subsection (f) of this section, Renewable Energy Advancement Awards shall include a cash award.
+
+
+
+
+(b)
+ Selection criteria
+The Secretary, in consultation with the Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this section referred to as the “Advisory Committee”), under 
+section 12005 of this title
+, shall develop criteria to be applied in the selection of award recipients under this section. Such criteria shall include the following:
+(1)
+ The degree to which the technological development increases the utilization of renewable energy.
+
+
+
+
+(2)
+ The degree to which the development will have a significant impact, by benefitting a large number of people, by reducing the costs of an important industrial process or commercial product or service, or otherwise.
+
+
+
+
+(3)
+ The ingenuity of the development.
+
+
+
+
+(4)
+ Whether the application has significant export potential.
+
+
+
+
+(5)
+ The environmental soundness of the development.
+
+
+
+
+(c)
+ Selection
+Beginning in fiscal year 1994, and annually thereafter for a period of 10 years, the Secretary, in consultation with the Advisory Committee, shall select developments described in subsection (a) of this section that are worthy of receiving an award under this section, and shall make such awards.
+
+
+
+
+(d)
+ Eligibility
+Awards may be made under this section only to individuals who are United States nationals or permanent resident aliens, or to non-Federal organizations that are organized under the laws of the United States or the laws of a State of the United States.
+
+
+
+
+(e)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary $50,000 for each of the fiscal years 1994, 1995, and 1996 for carrying out this section.
+
+
+
+
+(f)
+ Awards made in absence of appropriations
+The Secretary shall make honorary awards under this section if sufficient funds are not available for financial awards in any fiscal year.
+
+
+
+
+ Study of tax and rate treatment of renewable energy projects
+(a)
+ The Secretary, in conjunction with State regulatory commissions, shall undertake a study to determine if conventional taxation and ratemaking procedures result in economic barriers to or incentives for renewable energy power plants compared to conventional power plants.
+
+
+(b)
+ Within 1 year after 
+October 24, 1992
+, the Secretary shall submit a report to the Congress on the results of the study undertaken under subsection (a) of this section.
+
+
+ Data system and energy technology evaluation
+ Innovative renewable energy technology transfer program
+(a)
+ Establishment of program
+The Secretary, through the Agency for International Development, and in consultation with the other members of the interagency working group established under 
+section 6276(d) of this title
+ (in this section referred to as the “interagency working group”), shall establish a renewable energy technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after 
+October 24, 1992
+, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+
+
+
+
+(b)
+ Purposes of program
+The purposes of the technology transfer program under this section are to—
+(1)
+ reduce the United States balance of trade deficit through the export of United States renewable energy technologies and technological expertise;
+
+
+
+
+(2)
+ retain and create manufacturing and related service jobs in the United States;
+
+
+
+
+(3)
+ encourage the export of United States renewable energy technologies, including services related thereto, to those countries that have a need for developmentally sound facilities to provide energy derived from renewable resources;
+
+
+
+
+(4)
+ develop markets for United States renewable energy technologies to be utilized in meeting the energy and environmental requirements of foreign countries;
+
+
+
+
+(5)
+ better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
+
+
+
+
+(6)
+ ensure the introduction of United States firms and expertise in foreign countries;
+
+
+
+
+(7)
+ provide financial assistance by the Federal Government to foster greater participation by United States firms in the financing, ownership, design, construction, or operation of renewable energy technology projects in foreign countries;
+
+
+
+
+(8)
+ assist foreign countries in meeting their energy needs through the use of renewable energy in an environmentally acceptable manner, consistent with sustainable development policies; and
+
+
+
+
+(9)
+ assist United States firms, especially firms that are in competition with firms in foreign countries, to obtain opportunities to transfer technologies to, or undertake projects in, foreign countries.
+
+
+
+
+(c)
+ Identification
+Pursuant to the agreements required by subsection (a) of this section, the Secretary, through the Agency for International Development, and after consultation with the interagency working group, United States firms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries, and shall identify a list of such projects within 240 days after 
+October 24, 1992
+, and periodically thereafter.
+
+
+
+
+(d)
+ Financial mechanisms
+(1)
+ Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
+(A)
+ establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies, and services related thereto, in developing countries;
+
+
+
+
+(B)
+ utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
+
+
+
+
+(C)
+ provide financial assistance to support projects.
+
+
+
+
+
+
+(2)
+ The financial assistance authorized by this section may be—
+(A)
+ provided in combination with other forms of financial assistance, including non-United States funding that is available to the project; and
+
+
+
+
+(B)
+ utilized to assist United States firms in the development of innovative financing packages for renewable energy technology projects that utilize other financial assistance programs available through the Federal Government.
+
+
+
+
+
+
+(3)
+ United States obligations under the Arrangement on Guidelines for Officially Supported Export Credits established through the Organization for Economic Cooperation and Development shall be applicable to this section.
+
+
+
+
+(e)
+ Solicitations for project proposals
+(1)
+ Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, within one year after 
+October 24, 1992
+, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States renewable energy technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
+
+
+
+
+(2)
+ The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
+
+
+
+
+(3)
+ Any solicitation made under this subsection shall include the following requirements:
+(A)
+ The United States firm that submits a proposal in response to the solicitation shall have an equity interest in the proposed project.
+
+
+
+
+(B)
+ The project shall utilize a United States renewable energy technology, including services related thereto, in meeting the applicable energy and environmental requirements of the host country.
+
+
+
+
+(C)
+ Proposals for projects shall be submitted by and undertaken with a United States firm, although a joint venture or other teaming arrangement with a non-United States manufacturer or other non-United States entity is permissible.
+
+
+
+
+
+
+(f)
+ Assistance to United States firms
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
+
+
+
+
+(g)
+ Other program requirements
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the working group, shall—
+(1)
+ establish eligibility criteria for host countries;
+
+
+
+
+(2)
+ periodically review the energy needs of such countries and export opportunities for United States firms for the development of projects in such countries;
+
+
+
+
+(3)
+ consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
+
+
+
+
+(4)
+ determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+
+
+
+
+(h)
+ Selection of projects
+(1)
+ Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
+
+
+
+
+(2)
+ In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
+(A)
+ the ability of the United States firm, in cooperation with the host country, to undertake and complete the project;
+
+
+
+
+(B)
+ the degree to which the equipment to be included in the project is designed and manufactured in the United States;
+
+
+
+
+(C)
+ the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of the United States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
+
+
+
+
+(D)
+ the extent of technical and financial involvement of the host country in the project;
+
+
+
+
+(E)
+ the extent to which the proposed project meets the purposes stated in section 13311(b) 
+1
+1
+ So in original. Probably should be section “13316(b)”.
+ of this title;
+
+
+
+
+(F)
+ the extent of technical, financial, management, and marketing capabilities of the participants in the project, and the commitment of the participants to completion of a successful project in a manner that will facilitate acceptance of the United States technology for future application; and
+
+
+
+
+(G)
+ such other criteria as may be appropriate.
+
+
+
+
+
+
+(3)
+ In selecting among proposed projects, the Secretary shall seek to ensure that, relative to otherwise comparable projects in the host country, a selected project will meet 1 or more of the following criteria:
+(A)
+ It will reduce environmental emissions to an extent greater than required by applicable provisions of law.
+
+
+
+
+(B)
+ It will make greater use of indigenous renewable energy resources.
+
+
+
+
+(C)
+ It will be a more cost-effective technological alternative, based on life cycle capital and operating costs per unit of energy produced and, where applicable, costs per unit of product produced.
+
+
+
+
+
+Priority in selection shall be given to those projects which, in the judgment of the Secretary, best meet one or more of these criteria.
+
+
+
+
+(i)
+ United States-Asia Environmental Partnership
+Activities carried out under this section shall be coordinated with the United States-Asia Environmental Partnership.
+
+
+
+
+(j)
+ Buy America
+In carrying out this section, the Secretary, through the Agency for International Development, and pursuant to the agreements under subsection (a) of this section, shall ensure—
+(1)
+ the maximum percentage, but in no case less than 50 percent, of the cost of any equipment furnished in connection with a project authorized under this section shall be attributable to the manufactured United States components of such equipment; and
+
+
+
+
+(2)
+ the maximum participation of United States firms.
+
+
+
+
+
+In determining whether the cost of United States components equals or exceeds 50 percent, the cost of assembly of such United States components in the host country shall not be considered a part of the cost of such United States component.
+
+
+(k)
+ Reports to Congress
+The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introduce renewable energy technologies into foreign countries.
+
+
+
+
+(l)
+ Definitions
+For purposes of this section—
+(1)
+ the term “host country” means a foreign country which is—
+(A)
+ the participant in or the site of the proposed renewable energy technology project; and
+
+
+
+
+(B)
+ either—
+(i)
+ classified as a country eligible to participate in development assistance programs of the Agency for International Development pursuant to applicable law or regulation; or
+
+
+
+
+(ii)
+ a developing country.
+
+
+
+
+
+
+
+
+(2)
+ the term “developing country” includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
+
+
+
+
+(m)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+
+
+
+
+ Renewable energy production incentive
+(a)
+ Incentive payments
+(1)
+ For electric energy generated and sold by a qualified renewable energy facility during the incentive period, the Secretary shall make, subject to the availability of appropriations, incentive payments to the owner or operator of such facility.
+
+
+
+
+(2)
+ The amount of such payment made to any such owner or operator shall be as determined under subsection (e) of this section.
+
+
+
+
+(3)
+ Payments under this section may only be made upon receipt by the Secretary of an incentive payment application which establishes that the applicant is eligible to receive such payment.
+
+
+
+
+(4)
+(A)
+ Subject to subparagraph (B), if there are insufficient appropriations to make full payments for electric production from all qualified renewable energy facilities for a fiscal year, the Secretary shall assign—
+(i)
+ 60 percent of appropriated funds for the fiscal year to facilities that use solar, wind, ocean (including tidal, wave, current, and thermal), geothermal, or closed-loop (dedicated energy crops) biomass technologies to generate electricity; and
+
+
+
+
+(ii)
+ 40 percent of appropriated funds for the fiscal year to other projects.
+
+
+
+
+
+
+(B)
+ After submitting to Congress an explanation of the reasons for the alteration, the Secretary may alter the percentage requirements of subparagraph (A).
+
+
+
+
+
+
+(b)
+ Qualified renewable energy facility
+For purposes of this section, a qualified renewable energy facility is a facility which is owned by a not-for-profit electric cooperative, a public utility described in 
+section 115 of title 26
+, a State, Commonwealth, territory, or possession of the United States, or the District of Columbia, or a political subdivision thereof, an Indian tribal government or subdivision thereof, or a Native Corporation (as defined in 
+section 1602 of title 43
+), and which generates electric energy for sale in, or affecting, interstate commerce using solar, wind, biomass, landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal), or geothermal energy, except that—
+(1)
+ the burning of municipal solid waste shall not be treated as using biomass energy; and
+
+
+
+
+(2)
+ geothermal energy shall not include energy produced from a dry steam geothermal reservoir which has—
+(A)
+ no mobile liquid in its natural state;
+
+
+
+
+(B)
+ steam quality of 95 percent water; and
+
+
+
+
+(C)
+ an enthalpy for the total produced fluid greater than or equal to 1200 Btu/lb (British thermal units per pound).
+
+
+
+
+
+
+(c)
+ Eligibility window
+Payments may be made under this section only for electricity generated from a qualified renewable energy facility first used before 
+October 1, 2016
+.
+
+
+
+
+(d)
+ Payment period
+A qualified renewable energy facility may receive payments under this section for a 10-fiscal year period. Such period shall begin with the fiscal year in which electricity generated from the facility is first eligible for such payments, or in which the Secretary determines that all necessary Federal and State authorizations have been obtained to begin construction of the facility.
+
+
+
+
+(e)
+ Amount of payment
+(1)
+ In general
+Incentive payments made by the Secretary under this section to the owner or operator of any qualified renewable energy facility shall be based on the number of kilowatt hours of electricity generated by the facility through the use of solar, wind, biomass, landfill gas, livestock methane, ocean (including tidal, wave, current, and thermal), or geothermal energy during the payment period referred to in subsection (d) of this section. For any facility, the amount of such payment shall be 1.5 cents per kilowatt hour, adjusted as provided in paragraph (2).
+
+
+
+
+
+
+(2)
+ Adjustments
+The amount of the payment made to any person under this subsection as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 1993 in the same manner as provided in the provisions of 
+section 29(d)(2)(B) of title 26
+,
+1
+1
+ See References in Text note below.
+ except that in applying such provisions the calendar year 1993 shall be substituted for calendar year 1979.
+
+
+
+
+
+
+(f)
+ Sunset
+No payment may be made under this section to any facility after 
+September 30, 2026
+, and no payment may be made under this section to any facility after a payment has been made with respect to such facility for a 10-fiscal year period.
+
+
+
+
+(g)
+ Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2026, to remain available until expended.
+
+
+
+
+ Report
+ Least-cost energy strategy
+(a)
+ Strategy
+The first National Energy Policy Plan (in this subchapter referred to as the “Plan”) under 
+section 7321 of this title
+ prepared and required to be submitted by the President to Congress after 
+February 1, 1993
+, and each subsequent such Plan, shall include a least-cost energy strategy prepared by the Secretary. In developing the least-cost energy strategy, the Secretary shall take into consideration the economic, energy, social, environmental, and competitive costs and benefits, including costs and benefits for jobs, of his choices. Such strategy shall also take into account the report required under 
+section 13381 of this title
+ and relevant Federal, State, and local requirements. Such strategy shall be designed to achieve to the maximum extent practicable and at least-cost to the Nation—
+(1)
+ the energy production, utilization, and energy conservation priorities of subsection (d) of this section;
+
+
+
+
+(2)
+ the stabilization and eventual reduction in the generation of greenhouse gases;
+
+
+
+
+(3)
+ an increase in the efficiency of the Nation’s total energy use by 30 percent over 1988 levels by the year 2010;
+
+
+
+
+(4)
+ an increase in the percentage of energy derived from renewable resources by 75 percent over 1988 levels by the year 2005; and
+
+
+
+
+(5)
+ a reduction in the Nation’s oil consumption from the 1990 level of approximately 40 percent of total energy use to 35 percent by the year 2005.
+
+
+
+
+(b)
+ Additional contents
+The least-cost energy strategy shall also include—
+(1)
+ a comprehensive inventory of available energy and energy efficiency resources and their projected costs, taking into account all costs of production, transportation, distribution, and utilization of such resources, including—
+(A)
+ coal, clean coal technologies, coal seam methane, and underground coal gasification;
+
+
+
+
+(B)
+ energy efficiency, including existing technologies for increased efficiency in production, transportation, distribution, and utilization of energy, and other technologies that are anticipated to be available through further research and development; and
+
+
+
+
+(C)
+ other energy resources, such as renewable energy, solar energy, nuclear fission, fusion, geothermal, biomass, fuel cells, hydropower, and natural gas;
+
+
+
+
+
+
+(2)
+ a proposed two-year program for ensuring adequate supplies of the energy and energy efficiency resources and technologies described in paragraph (1), and an identification of administrative actions that can be undertaken within existing Federal authority to ensure their adequate supply;
+
+
+
+
+(3)
+ estimates of life-cycle costs for existing energy production facilities;
+
+
+
+
+(4)
+ basecase forecasts of short-term and long-term national energy needs under low and high case assumptions of economic growth; and
+
+
+
+
+(5)
+ an identification of all applicable Federal authorities needed to achieve the purposes of this section, and of any inadequacies in those authorities.
+
+
+
+
+(c)
+ Secretarial consideration
+In developing the least-cost energy strategy, the Secretary shall give full consideration to—
+(1)
+ the relative costs of each energy and energy efficiency resource based upon a comparison of all direct and quantifiable net costs for the resource over its available life, including the cost of production, transportation, distribution, utilization, waste management, environmental compliance, and, in the case of imported energy resources, maintaining access to foreign sources of supply; and
+
+
+
+
+(2)
+ the economic, energy, social, environmental, and competitive consequences resulting from the establishment of any particular order of Federal priority as determined under subsection (d) of this section.
+
+
+
+
+(d)
+ Priorities
+The least-cost energy strategy shall identify Federal priorities, including policies that—
+(1)
+ implement standards for more efficient use of fossil fuels;
+
+
+
+
+(2)
+ increase the energy efficiency of existing technologies;
+
+
+
+
+(3)
+ encourage technologies, including clean coal technologies, that generate lower levels of greenhouse gases;
+
+
+
+
+(4)
+ promote the use of renewable energy resources, including solar, geothermal, sustainable biomass, hydropower, and wind power;
+
+
+
+
+(5)
+ affect the development and consumption of energy and energy efficiency resources and electricity through tax policy;
+
+
+
+
+(6)
+ encourage investment in energy efficient equipment and technologies; and
+
+
+
+
+(7)
+ encourage the development of energy technologies, such as advanced nuclear fission and nuclear fusion, that produce energy without greenhouse gases as a byproduct, and encourage the deployment of nuclear electric generating capacity.
+
+
+
+
+(e)
+ Assumptions
+The Secretary shall include in the least-cost energy strategy an identification of all of the assumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
+
+
+
+
+(f)
+ Preference
+When comparing an energy efficiency resource to an energy resource, a higher priority shall be assigned to the energy efficiency resource whenever all direct and quantifiable net costs for the resource over its available life are equal to the estimated cost of the energy resource.
+
+
+
+
+(g)
+ Public review and comment
+The Secretary shall provide for a period of public review and comment of the least-cost energy strategy, for a period of at least 30 days, to be completed at least 60 days before the issuance of such strategy. The Secretary shall also provide for public review and comment before the issuance of any update to the least-cost energy strategy required under this section.
+
+
+
+
+ Director of Climate Protection
+ Assessment of alternative policy mechanisms for addressing greenhouse gas emissions
+ National inventory and voluntary reporting of greenhouse gases
+(a)
+ National inventory
+Not later than one year after 
+October 24, 1992
+, the Secretary, through the Energy Information Administration, shall develop, based on data available to, and obtained by, the Energy Information Administration, an inventory of the national aggregate emissions of each greenhouse gas for each calendar year of the baseline period of 1987 through 1990. The Administrator of the Energy Information Administration shall annually update and analyze such inventory using available data. This subsection does not provide any new data collection authority.
+
+
+
+
+(b)
+ Voluntary reporting
+(1)
+ Issuance of guidelines
+Not later than 18 months after 
+October 24, 1992
+, the Secretary shall, after opportunity for public comment, issue guidelines for the voluntary collection and reporting of information on sources of greenhouse gases. Such guidelines shall establish procedures for the accurate voluntary reporting of information on—
+(A)
+ greenhouse gas emissions—
+(i)
+ for the baseline period of 1987 through 1990; and
+
+
+
+
+(ii)
+ for subsequent calendar years on an annual basis;
+
+
+
+
+
+
+(B)
+ annual reductions of greenhouse gas emissions and carbon fixation achieved through any measures, including fuel switching, forest management practices, tree planting, use of renewable energy, manufacture or use of vehicles with reduced greenhouse gas emissions, appliance efficiency, energy efficiency, methane recovery, cogeneration, chlorofluorocarbon capture and replacement, and power plant heat rate improvement;
+
+
+
+
+(C)
+ reductions in greenhouse gas emissions achieved as a result of—
+(i)
+ voluntary reductions;
+
+
+
+
+(ii)
+ plant or facility closings; and
+
+
+
+
+(iii)
+ State or Federal requirements; and
+
+
+
+
+
+
+(D)
+ an aggregate calculation of greenhouse gas emissions by each reporting entity.
+
+
+
+
+
+Such guidelines shall also establish procedures for taking into account the differential radiative activity and atmospheric lifetimes of each greenhouse gas.
+
+
+
+
+(2)
+ Reporting procedures
+The Administrator of the Energy Information Administration shall develop forms for voluntary reporting under the guidelines established under paragraph (1), and shall make such forms available to entities wishing to report such information. Persons reporting under this subsection shall certify the accuracy of the information reported.
+
+
+
+
+
+
+(3)
+ Confidentiality
+Trade secret and commercial or financial information that is privileged or confidential shall be protected as provided in 
+section 552(b)(4) of title 5
+.
+
+
+
+
+
+
+(4)
+ Establishment of data base
+Not later than 18 months after 
+October 24, 1992
+, the Secretary, through the Administrator of the Energy Information Administration, shall establish a data base comprised of information voluntarily reported under this subsection. Such information may be used by the reporting entity to demonstrate achieved reductions of greenhouse gases.
+
+
+
+
+
+
+(c)
+ Consultation
+In carrying out this section, the Secretary shall consult, as appropriate, with the Administrator of the Environmental Protection Agency.
+
+
+
+
+ Export of domestic energy resource technologies to developing countries
+The Secretary, through the Trade Promotion Coordinating Council, shall develop policies and programs to encourage the export and promotion of domestic energy resource technologies, including renewable energy, energy efficiency, and clean coal technologies, to developing countries.
+ Innovative environmental technology transfer program
+(a)
+ Establishment of program
+The Secretary, through the Agency for International Development, and in consultation with the interagency working group established under 
+section 6276(d) of this title
+ (in this section referred to as the “interagency working group”,
+1
+1
+ So in original. Probably should be preceded by a closing parenthesis.
+ shall establish a technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after 
+October 24, 1992
+, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate Federal agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+
+
+
+
+(b)
+ Purposes of program
+The purposes of the technology transfer program under this section are to—
+(1)
+ reduce the United States balance of trade deficit through the export of United States energy technologies and technological expertise;
+
+
+
+
+(2)
+ retain and create manufacturing and related service jobs in the United States;
+
+
+
+
+(3)
+ encourage the export of United States technologies, including services related thereto, to those countries that have a need for developmentally sound facilities to provide energy derived from technologies that substantially reduce environmental pollutants, including greenhouse gases;
+
+
+
+
+(4)
+ develop markets for United States technologies, including services related thereto, that substantially reduce environmental pollutants, including greenhouse gases, that meet the energy and environmental requirements of foreign countries;
+
+
+
+
+(5)
+ better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies;
+
+
+
+
+(6)
+ ensure the introduction of United States firms and expertise in foreign countries;
+
+
+
+
+(7)
+ provide financial assistance by the Federal Government to foster greater participation by United States firms in the financing, ownership, design, construction, or operation of technologies or services that substantially reduce environmental pollutants, including greenhouse gases; and
+
+
+
+
+(8)
+ assist United States firms, especially firms that are in competition with firms in foreign countries, to obtain opportunities to transfer technologies to, or undertake projects in, foreign countries.
+
+
+
+
+(c)
+ Identification
+Pursuant to the agreements required by subsection (a) of this section, the Secretary, through the Agency for International Development, and after consultation with the interagency working group, United States firms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries that substantially reduce environmental pollutants, including greenhouse gases, and shall identify a list of such projects within 240 days after 
+October 24, 1992
+, and periodically thereafter.
+
+
+
+
+(d)
+ Financial mechanisms
+(1)
+ Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
+(A)
+ establish appropriate financial mechanisms to increase the participation of United States firms in energy projects, and services related thereto, that substantially reduce environmental pollutants, including greenhouse gases in foreign countries;
+
+
+
+
+(B)
+ utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
+
+
+
+
+(C)
+ provide financial assistance to support projects.
+
+
+
+
+
+
+(2)
+ The financial assistance authorized by this section may be—
+(A)
+ provided in combination with other forms of financial assistance, including non-Federal funding that may be available for the project; and
+
+
+
+
+(B)
+ utilized in conjunction with financial assistance programs available through other Federal agencies.
+
+
+
+
+
+
+(3)
+ United States obligations under the Arrangement on Guidelines for Officially Supported Export Credits established through the Organization for Economic Cooperation and Development shall be applicable to this section.
+
+
+
+
+(e)
+ Solicitations for project proposals
+(1)
+ Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, within one year after 
+October 24, 1992
+, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States technology or service. Each solicitation under this section shall establish a closing date for receipt of proposals.
+
+
+
+
+(2)
+ The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
+
+
+
+
+(3)
+ Any solicitation made under this subsection shall include the following requirements:
+(A)
+ The United States firm that submits a proposal in response to the solicitation shall have an equity interest in the proposed project.
+
+
+
+
+(B)
+ The project shall utilize a United States technology, including services related thereto, that substantially reduce environmental pollutants, including greenhouse gases, in meeting the applicable energy and environmental requirements of the host country.
+
+
+
+
+(C)
+ Proposals for projects shall be submitted by and undertaken with a United States firm, although a joint venture or other teaming arrangement with a non-United States manufacturer or other non-United States entity is permissible.
+
+
+
+
+
+
+(f)
+ Assistance to United States firms
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
+
+
+
+
+(g)
+ Other program requirements
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall—
+(1)
+ establish eligibility criteria for countries that will host projects;
+
+
+
+
+(2)
+ periodically review the energy needs of such countries and export opportunities for United States firms for the development of projects in such countries;
+
+
+
+
+(3)
+ consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
+
+
+
+
+(4)
+ determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+
+
+
+
+(h)
+ Eligible technologies
+Not later than 6 months after 
+October 24, 1992
+, the Secretary shall prepare a list of eligible technologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
+
+
+
+
+(i)
+ Selection of projects
+(1)
+ Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
+
+
+
+
+(2)
+ In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
+(A)
+ the ability of the United States firm, in cooperation with the host country, to undertake and complete the project;
+
+
+
+
+(B)
+ the degree to which the equipment to be included in the project is designed and manufactured in the United States;
+
+
+
+
+(C)
+ the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of the United States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
+
+
+
+
+(D)
+ the extent of technical and financial involvement of the host country in the project;
+
+
+
+
+(E)
+ the extent to which the proposed project meets the purposes of this section;
+
+
+
+
+(F)
+ the extent of technical, financial, management, and marketing capabilities of the participants in the project, and the commitment of the participants to completion of a successful project in a manner that will facilitate acceptance of the United States technology or service for future application; and
+
+
+
+
+(G)
+ such other criteria as may be appropriate.
+
+
+
+
+
+
+(3)
+ In selecting among proposed projects, the Secretary shall seek to ensure that, relative to otherwise comparable projects in the host country, a selected project will meet the following criteria:
+(A)
+ It will reduce environmental emissions, including greenhouse gases, to an extent greater than required by applicable provisions of law.
+
+
+
+
+(B)
+ It will be a more cost-effective technological alternative, based on life cycle capital and operating costs per unit of energy produced and, where applicable, costs per unit of product produced.
+
+
+
+
+(C)
+ It will increase the overall efficiency of energy use.
+
+
+
+
+
+Priority in selection shall be given to those projects which, in the judgment of the Secretary, best meet these criteria.
+
+
+
+
+(j)
+ United States-Asia Environmental Partnership
+Activities carried out under this section shall be coordinated with the United States-Asia Environmental Partnership.
+
+
+
+
+(k)
+ Buy America
+In carrying out this section, the Secretary, through the Agency for International Development, and pursuant to the agreements under subsection (a) of this section, shall ensure—
+(1)
+ the maximum percentage, but in no case less than 50 percent, of the cost of any equipment furnished in connection with a project authorized under this section shall be attributable to the manufactured United States components of such equipment; and
+
+
+
+
+(2)
+ the maximum participation of United States firms.
+
+
+
+
+
+In determining whether the cost of United States components equals or exceeds 50 percent, the cost of assembly of such United States components in the host country shall not be considered a part of the cost of such United States component.
+
+
+(l)
+ Report to Congress
+The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introduce innovative energy technologies, and services related thereto, that substantially reduce environmental pollutants, including greenhouse gases, into foreign countries.
+
+
+
+
+(m)
+ Definitions
+For purposes of this section—
+(1)
+ the term “host country” means a foreign country which is—
+(A)
+ the participant in or the site of the proposed innovative energy technology project; and
+
+
+
+
+(B)
+ either—
+(i)
+ classified as a country eligible to participate in development assistance programs of the Agency for International Development pursuant to applicable law or regulation; or
+
+
+
+
+(ii)
+ a developing country; and
+
+
+
+
+
+
+
+
+(2)
+ the term “developing country” includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
+
+
+
+
+(n)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+
+
+
+
+ Global Climate Change Response Fund
+(a)
+ Establishment of Fund
+The Secretary of the Treasury, in consultation with the Secretary of State, shall establish a Global Climate Change Response Fund to act as a mechanism for United States contributions to assist global efforts in mitigating and adapting to global climate change.
+
+
+
+
+(b)
+ Restrictions on deposits
+No deposits shall be made to the Global Climate Change Response Fund until the United States has ratified the United Nations Framework Convention on Climate Change.
+
+
+
+
+(c)
+ Use of Fund
+Moneys deposited into the Fund shall be used by the President, to the extent authorized and appropriated under 
+section 2222 of title 22
+, solely for contributions to a financial mechanism negotiated pursuant to the United Nations Framework Convention on Climate Change, including all protocols or agreements related thereto.
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated for deposit in the Fund to carry out the purposes of this section, $50,000,000 for fiscal year 1994 and such sums as may be necessary for fiscal years 1995 and 1996.
+
+
+
+
+ Greenhouse gas intensity reducing strategies
+(a)
+ Definitions
+In this section:
+(1)
+ Advisory Committee
+The term “Advisory Committee” means the Climate Change Technology Advisory Committee established under subsection (f)(1) of this section.
+
+
+
+
+
+
+(2)
+ Carbon sequestration
+The term “carbon sequestration” means the capture of carbon dioxide through terrestrial, geological, biological, or other means, which prevents the release of carbon dioxide into the atmosphere.
+
+
+
+
+
+
+(3)
+ Committee
+The term “Committee” means the Committee on Climate Change Technology established under subsection (b)(1) of this section.
+
+
+
+
+
+
+(4)
+ Developing country
+The term “developing country” has the meaning given the term in 
+section 13387(m) of this title
+.
+
+
+
+
+
+
+(5)
+ Greenhouse gas
+The term “greenhouse gas” means—
+(A)
+ carbon dioxide;
+
+
+
+
+(B)
+ methane;
+
+
+
+
+(C)
+ nitrous oxide;
+
+
+
+
+(D)
+ hydrofluorocarbons;
+
+
+
+
+(E)
+ perfluorocarbons; and
+
+
+
+
+(F)
+ sulfur hexafluoride.
+
+
+
+
+
+
+(6)
+ Greenhouse gas intensity
+The term “greenhouse gas intensity” means the ratio of greenhouse gas emissions to economic output.
+
+
+
+
+
+
+(7)
+ National Laboratory
+The term “National Laboratory” has the meaning given the term in section 15801(3) 
+1
+1
+ See References in Text note below.
+ of this title.
+
+
+
+
+
+
+(b)
+ Committee on Climate Change Technology
+(1)
+ In general
+Not later than 180 days after 
+August 8, 2005
+, the President shall establish a Committee on Climate Change Technology to—
+(A)
+ integrate current Federal climate reports; and
+
+
+
+
+(B)
+ coordinate Federal climate change technology activities and programs carried out in furtherance of the strategy developed under subsection (c)(1) of this section.
+
+
+
+
+
+
+(2)
+ Membership
+The Committee shall be composed of at least 7 members, including—
+(A)
+ the Secretary, who shall chair the Committee;
+
+
+
+
+(B)
+ the Secretary of Commerce;
+
+
+
+
+(C)
+ the Chairman of the Council on Environmental Quality;
+
+
+
+
+(D)
+ the Secretary of Agriculture;
+
+
+
+
+(E)
+ the Administrator of the Environmental Protection Agency;
+
+
+
+
+(F)
+ the Secretary of Transportation;
+
+
+
+
+(G)
+ the Director of the Office of Science and Technology Policy; and
+
+
+
+
+(H)
+ other representatives as may be determined by the President.
+
+
+
+
+
+
+(3)
+ Staff
+The members of the Committee shall provide such personnel as are necessary to enable the Committee to perform its duties.
+
+
+
+
+
+
+(c)
+ National climate change technology policy
+(1)
+ In general
+Not later than 18 months after 
+August 8, 2005
+, the Committee shall, based on applicable Federal climate reports, submit to the Secretary and the President a national strategy to promote the deployment and commercialization of greenhouse gas intensity reducing technologies and practices developed through research and development programs conducted by the National Laboratories, other Federal research facilities, institutions of higher education, and the private sector.
+
+
+
+
+
+
+(2)
+ Updates
+The Committee shall—
+(A)
+ at the time of submission of the strategy to the President under paragraph (1), also make the strategy available to the public; and
+
+
+
+
+(B)
+ update the strategy every 5 years, or more frequently as the Committee determines to be necessary.
+
+
+
+
+
+
+(d)
+ Climate Change Technology Program
+Not later than 180 days after the date on which the Committee is established under subsection (b)(1) of this section, the Secretary, in consultation with the Committee, shall establish within the Department of Energy the Climate Change Technology Program to—
+(1)
+ assist the Committee in the interagency coordination of climate change technology research, development, demonstration, and deployment to reduce greenhouse gas intensity; and
+
+
+
+
+(2)
+ carry out the programs authorized under this section.
+
+
+
+
+(e)
+ Technology inventory
+(1)
+ In general
+The Secretary shall conduct and make public an inventory and evaluation of greenhouse gas intensity reducing technologies that have been developed, or are under development, by the National Laboratories, other Federal research facilities, institutions of higher education, and the private sector to determine which technologies are suitable for commercialization and deployment.
+
+
+
+
+
+
+(2)
+ Report
+Not later than 180 days after the completion of the inventory under paragraph (1), the Secretary shall submit to Congress a report that includes the results of the completed inventory and any recommendations of the Secretary.
+
+
+
+
+
+
+(3)
+ Use
+The Secretary shall use the results of the inventory as guidance in the commercialization and deployment of greenhouse gas intensity reducing technologies.
+
+
+
+
+
+
+(4)
+ Updated inventory
+The Secretary shall—
+(A)
+ periodically update the inventory under paragraph (1), including when determined necessary by the Committee; and
+
+
+
+
+(B)
+ make the updated inventory available to the public.
+
+
+
+
+
+
+(f)
+ Climate Change Technology Advisory Committee
+(1)
+ In general
+The Secretary, in consultation with the Committee, may establish under 
+section 7234 of this title
+ a Climate Change Technology Advisory Committee to identify statutory, regulatory, economic, and other barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices in the United States.
+
+
+
+
+
+
+(2)
+ Composition
+The Advisory Committee shall be composed of the following members, to be appointed by the Secretary, in consultation with the Committee:
+(A)
+ 1 representative shall be appointed from each National Laboratory.
+
+
+
+
+(B)
+ 3 members shall be representatives of energy-producing trade organizations.
+
+
+
+
+(C)
+ 3 members shall represent energy-intensive trade organizations.
+
+
+
+
+(D)
+ 3 members shall represent groups that represent end-use energy and other consumers.
+
+
+
+
+(E)
+ 3 members shall be employees of the Federal Government who are experts in energy technology, intellectual property, and tax.
+
+
+
+
+(F)
+ 3 members shall be representatives of institutions of higher education with expertise in energy technology development that are recommended by the National Academy of Engineering.
+
+
+
+
+
+
+(3)
+ Report
+Not later than 1 year after 
+August 8, 2005
+, and annually thereafter, the Advisory Committee shall submit to the Committee a report that describes—
+(A)
+ the findings of the Advisory Committee; and
+
+
+
+
+(B)
+ any recommendations of the Advisory Committee for the removal or reduction of barriers to commercialization, deployment, and increasing the use of greenhouse gas intensity reducing technologies and practices.
+
+
+
+
+
+
+(g)
+ Greenhouse gas intensity reducing technology deployment
+(1)
+ In general
+Based on the strategy developed under subsection (c)(1) of this section, the technology inventory conducted under subsection (e)(1) of this section, the greenhouse gas intensity reducing technology study report submitted under subsection (e)(2) of this section, and reports under subsection (f)(3) of this section, if any, the Committee shall develop recommendations that would provide for the removal of domestic barriers to the commercialization and deployment of greenhouse gas intensity reducing technologies and practices.
+
+
+
+
+
+
+(2)
+ Requirements
+In developing the recommendations under paragraph (1), the Committee shall consider in the aggregate—
+(A)
+ the cost-effectiveness of the technology;
+
+
+
+
+(B)
+ fiscal and regulatory barriers;
+
+
+
+
+(C)
+ statutory and other barriers; and
+
+
+
+
+(D)
+ intellectual property issues.
+
+
+
+
+
+
+(3)
+ Demonstration projects
+In developing recommendations under paragraph (1), the Committee may identify the need for climate change technology demonstration projects.
+
+
+
+
+
+
+(4)
+ Report
+Not later than 18 months after 
+August 8, 2005
+, the Committee shall submit to the President and Congress a report that—
+(A)
+ identifies, based on the report submitted under subsection (f)(3) of this section, any barriers to, and commercial risks associated with, the deployment of greenhouse gas intensity reducing technologies; and
+
+
+
+
+(B)
+ includes a plan for carrying out demonstration projects.
+
+
+
+
+
+
+(5)
+ Updates
+The Committee shall—
+(A)
+ at the time of submission of the report to Congress under paragraph (4), also make the report available to the public; and
+
+
+
+
+(B)
+ update the report every 5 years, or more frequently as the Committee determines to be necessary.
+
+
+
+
+
+
+(h)
+ Procedures for calculating, monitoring, and analyzing greenhouse gas intensity
+The Secretary, in collaboration with the Committee and the National Institute of Standards and Technology, and after public notice and opportunity for comment, shall develop standards and best practices for calculating, monitoring, and analyzing greenhouse gas intensity.
+
+
+
+
+(i)
+ Demonstration projects
+(1)
+ In general
+The Secretary shall, subject to the availability of appropriations, support demonstration projects that—
+(A)
+ increase the reduction of the greenhouse gas intensity to levels below that which would be achieved by technologies being used in the United States as of 
+August 8, 2005
+;
+
+
+
+
+(B)
+ maximize the potential return on Federal investment;
+
+
+
+
+(C)
+ demonstrate distinct roles in public-private partnerships;
+
+
+
+
+(D)
+ produce a large-scale reduction of greenhouse gas intensity if commercialization occurred; and
+
+
+
+
+(E)
+ support a diversified portfolio to mitigate the uncertainty associated with a single technology.
+
+
+
+
+
+
+(2)
+ Cost sharing
+In supporting a demonstration project under this subsection, the Secretary shall require cost-sharing in accordance with 
+section 16352 of this title
+.
+
+
+
+
+
+
+(3)
+ Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this subsection.
+
+
+
+
+
+
+(j)
+ Cooperative research and development agreements
+In carrying out greenhouse gas intensity reduction research and technology deployment activities under this subtitle,
+2
+2
+ So in original. See References in Text note below.
+ the Secretary may enter into cooperative research and development agreements under 
+section 3710a of title 15
+.
+
+
+
+
+ Goals
+ National Advanced Materials Program
+(a)
+ Program direction
+The Secretary shall establish a 5-year National Advanced Materials Program, in accordance with sections 13541 and 13542 of this title. Such program shall foster the commercialization of techniques for processing, synthesizing, fabricating, and manufacturing advanced materials and associated components. At a minimum, the Program shall expedite the private sector deployment of advanced materials for use in high performance energy efficient and renewable energy technologies in the industrial, transportation, and buildings sectors that can foster economic growth and competitiveness. The Program shall include field demonstrations of sufficient scale and number to prove technical and economic feasibility.
+
+
+
+
+(b)
+ Program plan
+Within 180 days after 
+October 24, 1992
+, the Secretary, in consultation with appropriate representatives of industry, institutions of higher education, Department of Energy national laboratories, and professional and technical societies, shall prepare and submit to the Congress a 5-year program plan to guide activities under this section. The Secretary shall biennially update and resubmit the program plan to Congress.
+
+
+
+
+(c)
+ Proposals
+(1)
+ Solicitation
+Within 1 year after 
+October 24, 1992
+, the Secretary shall solicit proposals for conducting activities consistent with the 5-year program plan. Such proposals may be submitted by one or more parties.
+
+
+
+
+
+
+(2)
+ Contents of proposals
+Proposals submitted under this subsection shall include—
+(A)
+ an explanation of how the proposal will expedite the commercialization of advanced materials in energy efficiency or renewable energy in the near-term to mid-term;
+
+
+
+
+(B)
+ evidence of consideration of whether the unique capabilities of Department of Energy national laboratories warrants collaboration with such laboratories, and the extent of such collaboration proposed;
+
+
+
+
+(C)
+ a description of the extent to which the proposal includes collaboration with relevant industry or other groups or organizations; and
+
+
+
+
+(D)
+ evidence of the ability of the proposers to undertake and complete the proposed project.
+
+
+
+
+
+
+(d)
+ General Services Administration demonstration program
+The Secretary, in consultation with the Administrator of General Services, shall establish a program to expedite the use, in goods and services acquired by the General Services Administration, of advanced materials technologies. Such program shall include a demonstration of the use of advanced materials technologies as may be necessary to establish technical and economic feasibility. The Secretary shall transfer funds to the General Services Administration for carrying out this subsection.
+
+
+
+
+(e)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from 
+section 13451(e) of this title
+ and for renewable applications from 
+section 13471(c) of this title
+, including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section, and including transferring funds to the General Services Administration.
+
+
+
+
+ National Advanced Manufacturing Technologies Program
+(a)
+ Program direction
+The Secretary shall establish a 5-year National Advanced Manufacturing Technologies Program, in accordance with sections 13541 and 13542 of this title. Such program shall foster the commercialization of advanced manufacturing technologies to improve energy efficiency and productivity in manufacturing. At a minimum, the Program shall expedite the private sector deployment of advanced manufacturing technologies to improve productivity, quality, and control in manufacturing processes that can foster economic growth, energy efficiency, and competitiveness. The program 
+1
+1
+ So in original. Probably should be capitalized.
+ shall include field demonstrations of sufficient scale and number to prove technical and economic feasibility.
+
+
+
+
+(b)
+ Program plan
+Within 180 days after 
+October 24, 1992
+, the Secretary, in consultation with appropriate representatives of industry, institutions of higher education, Department of Energy national laboratories, and professional and technical societies, shall prepare and submit to the Congress a 5-year program plan to guide activities under this section. The Secretary shall biennially update and resubmit the program plan to Congress.
+
+
+
+
+(c)
+ Proposals
+(1)
+ Solicitation
+Within 1 year after 
+October 24, 1992
+, the Secretary shall solicit proposals for conducting activities consistent with the 5-year program plan. Such proposals may be submitted by one or more parties.
+
+
+
+
+
+
+(2)
+ Contents of proposals
+Proposals submitted under this subsection shall include—
+(A)
+ an explanation of how the proposal will expedite the commercialization of advanced manufacturing technologies to improve energy efficiency in the building, industry, and transportation sectors;
+
+
+
+
+(B)
+ evidence of consideration of whether the unique capabilities of Department of Energy national laboratories warrants collaboration with such laboratories, and the extent of such collaboration proposed;
+
+
+
+
+(C)
+ a description of the extent to which the proposal includes collaboration with relevant industry or other groups or organizations; and
+
+
+
+
+(D)
+ evidence of the ability of the proposers to undertake and complete the proposed project.
+
+
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived from sums authorized under 
+section 13451(e) of this title
+, including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section.
+
+
+
+
+ Supporting research and technical analysis
+(a)
+ Basic energy sciences
+(1)
+ Program direction
+The Secretary shall continue to support a vigorous program of basic energy sciences to provide basic research support for the development of energy technologies. Such program shall focus on the efficient production and use of energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
+
+
+
+
+
+
+(2)
+ User facilities
+(A)
+ As part of the program referred to in paragraph (1), the Secretary shall carry out planning, construction, and operation of user facilities to provide special scientific and research capabilities, including technical expertise and support as appropriate, to serve the research needs of our Nation’s universities, industry, private laboratories, Federal laboratories, and others. Research institutions or individuals from other nations shall be accommodated at such user facilities in cases where reciprocal accommodations are provided to United States research institutions and individuals or where the Secretary considers such accommodation to be in the national interest.
+
+
+
+
+(B)
+ The construction of the Advanced Photon Source at the Argonne National Laboratory is hereby authorized.
+
+
+
+
+(C)
+ The Secretary shall not change the user fee practice in effect as of 
+October 1, 1991
+, with respect to user facilities unless the Secretary notifies Congress 90 days before the effective date of any change.
+
+
+
+
+(D)
+ The Secretary shall expedite the design for construction of the Advanced Neutron Source at the Oak Ridge National Laboratory, in order to provide critical research capabilities in support of our national research initiatives for advanced materials and biotechnology, as well as a broad range of research. Such action shall be consistent with the Basic Energy Sciences Advisory Committee’s Technical Evaluation of accelerator and reactor neutron source technologies. Within 90 days after 
+October 24, 1992
+, the Secretary shall submit to the Congress a plan for such design, including a schedule for construction.
+
+
+
+
+
+
+(3)
+ Cost sharing
+The Secretary shall not require cost sharing for research and development pursuant to this subsection, except—
+(A)
+ as otherwise provided for in cooperative research and development agreements or other agreements entered into under existing law;
+
+
+
+
+(B)
+ for fees for user facilities, as determined by the Secretary; or
+
+
+
+
+(C)
+ in the case of specific projects, where the Secretary determines that the benefits of such research and development accrue to a specific industry or group of industries, in which case cost sharing under 
+section 13542 of this title
+ shall apply.
+
+
+
+
+
+
+(b)
+ University and science education
+(1)
+ The Secretary shall support programs for improvements and upgrading of university research reactors and associated instrumentation and equipment. Within 1 year after 
+October 24, 1992
+, the Secretary shall submit to the Congress a report on the condition and status of university research reactors, which includes a 5-year plan for upgrading and improving such facilities, instrumentation capabilities, and related equipment.
+
+
+
+
+(2)
+ The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
+
+
+
+
+(3)
+(A)
+(i)
+ The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraph referred to as “EPSCoR”) as part of the Department of Energy’s University and Science Education Programs.
+
+
+
+
+(ii)
+ The objectives of EPSCoR shall be—
+(I)
+ to enhance the competitiveness of the peer-review process within academic institutions in eligible States; and
+
+
+
+
+(II)
+ to increase the probability of long-term growth of competitive funding to investigators at institutions from eligible States.
+
+
+
+
+
+
+(iii)
+ In order to carry out the objectives stated in clause (ii), EPSCoR shall provide for activities which may include (but not be limited to) competitive research awards and graduate traineeships.
+
+
+
+
+(iv)
+ EPSCoR shall assist those States that—
+(I)
+ historically have received relatively little Federal research and development funding; and
+
+
+
+
+(II)
+ have demonstrated a commitment to develop their research bases and improve science and engineering research and education programs at their universities and colleges.
+
+
+
+
+
+
+
+
+(B)
+ For purposes of this paragraph, the term “eligible States” means States that received a Department-EPSCoR planning or traineeship grant in fiscal year 1991 or fiscal year 1992.
+
+
+
+
+(C)
+ No more than $5,000,000 of the funds appropriated to EPSCoR in any fiscal year, through fiscal year 1997, are authorized to be appropriated for graduate traineeships.
+
+
+
+
+
+
+(c)
+ Technology transfer
+The Secretary shall support technology transfer activities conducted by the National Laboratories. Within 1 year after 
+October 24, 1992
+, the Secretary shall submit to the Congress a report on the adequacy of funding for such activities, along with a proposal recommending ways to reduce the length of time required to consummate cooperative research and development agreements.
+
+
+
+
+(d)
+ Facilities support for multiprogram energy laboratories
+(1)
+ Facility policy
+The Secretary shall develop and implement a least cost strategy for correcting facility problems, closing unneeded facilities, making facility modifications, and building new facilities at multiprogram energy laboratories.
+
+
+
+
+
+
+(2)
+ Facility plan
+Within 1 year after 
+October 24, 1992
+, the Secretary shall prepare and submit to the Congress a comprehensive plan for conducting future facility maintenance, making repairs, modifications, and new additions, and constructing new facilities at multiprogram energy laboratories. Such plan shall provide for facilities work in accordance with the following priorities, listed in descending order of priority:
+(A)
+ Providing for the safety and health of employees, visitors, and the general public with regard to correcting existing structural, mechanical, electrical, and environmental deficiencies.
+
+
+
+
+(B)
+ Providing for the repair and rehabilitation of existing facilities to keep them in use and prevent deterioration.
+
+
+
+
+(C)
+ Providing engineering design and construction services for those facilities which require modification or additions in order to meet the needs of new or expanded programs.
+
+
+
+
+
+Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy’s changing missions of the twenty-first century, including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization and consolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
+
+
+
+
+(e)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
+
+
+
+
+ Math and science education program
+(a)
+ Program
+The Secretary shall enter into contracts with existing qualified entities to conduct science and mathematics education programs that supplement the Special Programs for Students from Disadvantaged Backgrounds carried out by the Secretary of Education under sections 1070d through 1070d–1d of title 20.
+1
+1
+ See References in Text note below.
+
+
+
+
+(b)
+ Purpose
+(1)
+ The purpose of the programs shall be to provide support to Federal, State, and private programs designed to promote the participation of low-income and first generation college students as defined in 
+section 1070d of title 20
+ 
+1
+ in post-secondary science and mathematics education.
+
+
+
+
+(2)
+ Support activities may include—
+(A)
+ the development of educational materials;
+
+
+
+
+(B)
+ the training of teachers and counselors;
+
+
+
+
+(C)
+ the establishment of student internships;
+
+
+
+
+(D)
+ the development of seminars on mathematics and science;
+
+
+
+
+(E)
+ tutoring in mathematics and science;
+
+
+
+
+(F)
+ academic counseling;
+
+
+
+
+(G)
+ the development of opportunities for research; and
+
+
+
+
+(H)
+ such other activities that may promote the participation of low-income and first generation college students in post-secondary science and mathematics education.
+
+
+
+
+
+
+(c)
+ Support
+(1)
+ In carrying out the purpose of this section, the entities may provide support under subsection (b)(2) of this section to—
+(A)
+ low-income and first generation college students; and
+
+
+
+
+(B)
+ institutions of higher education, public and private agencies and organizations, and secondary and middle schools that principally benefit low-income students.
+
+
+
+
+
+
+(2)
+ The qualified entities shall, to the extent practicable, coordinate support activities under this section with the Secretary of Education and the Secretary.
+
+
+
+
+(d)
+ Cooperation with qualified entities
+The Secretary shall cooperate with qualified entities and, to the extent practicable, make available to the entities such personnel, facilities, and other resources of the Department of Energy as may be necessary to carry out the duties of the entities.
+
+
+
+
+(e)
+ Report
+Not later than October 1 of each year, the entities shall report to the Secretary, the Secretary of Education, and the Congress on—
+(1)
+ progress made to promote the participation of low-income and first generation college students in post-secondary science and mathematics education by—
+(A)
+ the qualified entities;
+
+
+
+
+(B)
+ other mathematics and science education programs of the Department of Energy; and
+
+
+
+
+(C)
+ the Special Programs for Students from Disadvantaged Backgrounds of the Department of Education; and
+
+
+
+
+
+
+(2)
+ recommendations for such additional actions as may be needed to promote the participation of low-income students in post-secondary science and mathematics education.
+
+
+
+
+(f)
+ Effect on existing programs
+The programs in this section shall supplement and be developed in cooperation with the current mathematics and science education programs of the Department of Energy and the Department of Education but shall not supplant them.
+
+
+
+
+(g)
+ “Qualified entity” defined
+For purposes of this section, the term “qualified entity” means a nonprofit corporation, association, or institution that has demonstrated special knowledge of, and experience with, the education of low-income and first generation college students and whose primary mission is the operation of national programs that focus on low-income students and provide training and other services to educators.
+
+
+
+
+(h)
+ Authorization of appropriations
+There are authorized to be appropriated such sums as may be necessary, to be derived from 
+section 13503(e) of this title
+ and the Environmental Restoration and Waste Management program, to carry out the purposes of this section.
+
+
+
+
+ Integration of research and development
+ Definitions
+ Policy on major construction projects
+(a)
+ Report and management plan
+The Secretary shall submit to the Congress a report and management plan for any major construction project involving $100,000,000 or more, prior to the expenditure of those funds.
+
+
+
+
+(b)
+ Congressional review
+Expenditure of funds for a project described in subsection (a) of this section may be made after a period of 30 calendar days (not including any day on which either House of Congress is not in session because of adjournment of more than 3 calendar days prior to a day certain) has passed after receipt of the report and management plan by Congress.
+
+
+
+
+ Energy Research, Development, Demonstration, and Commercial Application Advisory Board
+(a)
+ Establishment
+The Secretary shall establish an Energy Research, Development, Demonstration, and Commercial Application Advisory Board (hereafter in this section referred to as the “Advisory Board”).
+
+
+
+
+(b)
+ Responsibilities
+The Advisory Board shall provide impartial technical advice to the Secretary to assist in the development of energy research, development, demonstration, and commercial application plans and reports under sections 5905 and 5914 
+1
+1
+ See References in Text note below.
+ of this title, under 
+section 7321 of this title
+, and as otherwise provided in subchapters VIII through XI of this chapter. The Advisory Board shall also periodically review such plans and reports and their implementation in relation to the goals stated in 
+section 13401 of this title
+, and report the results of such review to the Secretary and the Congress. Such report shall be included as part of the report required under section 5914 
+1
+ of this title.
+
+
+
+
+(c)
+ Use of existing advisory board
+The Secretary may use an existing advisory board to carry out the responsibilities described in subsection (b) of this section.
+
+
+
+
+ Management plan
+(a)
+ Plan preparation
+The Secretary, in consultation with the Advisory Board established under 
+section 13522 of this title
+, shall prepare a management plan for the conduct of research, development, demonstration, and commercial application of energy technologies that is consistent with the goals stated in 
+section 13401 of this title
+.
+
+
+
+
+(b)
+ Contents of plan
+The management plan under subsection (a) of this section shall provide for—
+(1)
+ investigation of promising energy and energy efficiency resource technologies that have been identified as potentially significant future contributors to national energy security;
+
+
+
+
+(2)
+ development of energy and energy efficiency resource technologies that have the potential to reduce energy supply vulnerability, and to minimize adverse impacts on the environment, the global climate, and the economy; and
+
+
+
+
+(3)
+ creation of opportunities for export of energy and energy efficiency resource technologies from the United States that can enhance the Nation’s competitiveness.
+
+
+
+
+(c)
+ Energy technology inventory and status report
+As part of the management plan, the Secretary, with the advice of the Advisory Board established under 
+section 13522 of this title
+, shall develop an inventory and status report of technologies to enhance energy supply and to improve the efficiency of energy end uses. The inventory and status report shall include fossil, renewable, nuclear, and energy conservation technologies which have not yet achieved the status of fully reliable and cost-competitive commercial availability, but which the Secretary projects may become available with additional research, development, and demonstration. The inventory and status report shall provide, for each technology—
+(1)
+ an assessment of its—
+(A)
+ degree of technological maturity; and
+
+
+
+
+(B)
+ principal research, development, and demonstration issues, including—
+(i)
+ the barriers posed by capital, operating, and maintenance costs;
+
+
+
+
+(ii)
+ technical performance; and
+
+
+
+
+(iii)
+ potential environmental impacts;
+
+
+
+
+
+
+
+
+(2)
+ the projected time frame for commercial availability, specifying at a minimum whether the technology will be commercially available in the near-term, mid-term, or long-term, whether there are too many uncertainties to project availability, or whether it is unlikely that the technology will ever be commercial; and
+
+
+
+
+(3)
+ a projection of the future cost-competitiveness of the technology in comparison with alternative technologies to provide the same energy service.
+
+
+
+
+(d)
+ Public comment
+The Secretary shall publish the proposed management plan for a written public comment period of at least 90 days. The Secretary shall consider such comments and include a summary thereof in the management plan.
+
+
+
+
+(e)
+ Plan submission
+Within one year after 
+October 24, 1992
+, the Secretary shall submit the first management plan under this section to Congress. Thereafter, the Secretary shall submit a revised management plan biennially, at the time of submittal of the President’s annual budget submission to the Congress.
+
+
+
+
+ Costs related to decommissioning and storage and disposal of nuclear waste
+(a)
+ Award of contracts
+(1)
+ Prime contractors
+In awarding contracts to perform nuclear hot cell services, the Secretary, in evaluating bids for such contracts, shall exclude from consideration costs related to the decommissioning of nuclear facilities or the storage and disposal of nuclear waste, if—
+(A)
+ one or more of the parties bidding to perform such services is a United States company that is subject to such costs; and
+
+
+
+
+(B)
+ one or more of the parties bidding to perform such services is a foreign company that is not subject to comparable costs.
+
+
+
+
+
+
+(2)
+ Subcontractors
+Any person awarded a contract subject to the restrictions described in paragraph (1) who subcontracts with a person to perform the services described in such paragraph shall be subject to the same restrictions in evaluating bids among potential subcontractors, as the Secretary was subject to in evaluating bids among prime contractors.
+
+
+
+
+
+
+(b)
+ Issuance of regulations
+The Secretary shall issue regulations not later than 90 days after 
+October 24, 1992
+, to carry out the requirements of subsection (a) of this section.
+
+
+
+
+(c)
+ Definitions
+As used in this section—
+(1)
+ the term “costs related to decommissioning of nuclear facilities” means any cost associated with the compliance with regulatory requirements governing the decommissioning of nuclear facilities licensed by the Nuclear Regulatory Commission;
+
+
+
+
+(2)
+ the term “costs related to storage and disposal of nuclear waste” means any costs, whether required by regulation or incurred as a matter of prudent business practice, associated with the storage or disposal of nuclear waste;
+
+
+
+
+(3)
+ the term “nuclear hot cell services” means services related to the examination of, or performance of various operations on, nuclear fuel rods, control assemblies, or other components that are emitting large quantities of ionizing radiation; and
+
+
+
+
+(4)
+ the term “nuclear waste” means any radioactive waste material subject to regulation by the Nuclear Regulatory Commission or the Department of Energy.
+
+
+
+
+ Limits on participation by companies
+ Uncosted obligations
+(a)
+ Report
+Along with the submission of each of the President’s annual budget requests to Congress, the Secretary shall submit to Congress a report which—
+(1)
+ identifies the amount of Department of Energy funds that were, as of the end of the previous fiscal year—
+(A)
+ committed uncosted obligations; and
+
+
+
+
+(B)
+ uncommitted uncosted obligations;
+
+
+
+
+
+
+(2)
+ specifically describes the purposes for which all such funds are intended; and
+
+
+
+
+(3)
+ explains the effect that information contained in the report has had on the annual budget request for the Department of Energy being simultaneously submitted.
+
+
+
+
+(b)
+ Definitions
+Within 90 days after 
+October 24, 1992
+, the Secretary shall submit a report to the Congress containing definitions of the terms “uncosted obligation”, “committed uncosted obligation”, and “uncommitted uncosted obligation” for purposes of reports to be submitted under subsection (a) of this section.
+
+
+
+
+ Purposes
+ Authorization of program
+(a)
+ In general
+The Secretary shall carry out a program of financial assistance to—
+(1)
+ facilitate the production and generation of coal-based power, through the deployment of clean coal electric generating equipment and processes that, compared to equipment or processes that are in operation on a full scale—
+(A)
+ improve—
+(i)
+ energy efficiency; or
+
+
+
+
+(ii)
+ environmental performance consistent with relevant Federal and State clean air requirements, including those promulgated under the Clean Air Act (
+42 U.S.C. 7401
+ et seq.); and
+
+
+
+
+
+
+(B)
+ are not yet cost competitive; and
+
+
+
+
+
+
+(2)
+ facilitate the utilization of existing coal-based electricity generation plants through projects that—
+(A)
+ deploy advanced air pollution control equipment and processes; and
+
+
+
+
+(B)
+ are designed to voluntarily enhance environmental performance above current applicable obligations under the Clean Air Act and State implementation efforts pursuant to such Act.
+
+
+
+
+
+
+(b)
+ Financial criteria
+As determined by the Secretary for a particular project, financial assistance under this subchapter shall be in the form of—
+(1)
+ cost-sharing of an appropriate percentage of the total project cost, not to exceed 50 percent as calculated under 
+section 16352 of this title
+; or
+
+
+
+
+(2)
+ financial assistance, including grants, cooperative agreements, or loans as authorized under this Act or other statutory authority of the Secretary.
+
+
+
+
+ Generation projects
+(a)
+ Eligible projects
+Projects supported under 
+section 13572(a)(1) of this title
+ may include—
+(1)
+ equipment or processes previously supported by a Department of Energy program;
+
+
+
+
+(2)
+ advanced combustion equipment and processes that the Secretary determines will be cost-effective and could substantially contribute to meeting environmental or energy needs, including gasification, gasification fuel cells, gasification coproduction, oxidation combustion techniques, ultra-supercritical boilers, and chemical looping; and
+
+
+
+
+(3)
+ hybrid gasification/combustion systems, including systems integrating fuel cells with gasification or combustion units.
+
+
+
+
+(b)
+ Criteria
+The Secretary shall establish criteria for the selection of generation projects under 
+section 13572(a)(1) of this title
+. The Secretary may modify the criteria as appropriate to reflect improvements in equipment, except that the criteria shall not be modified to be less stringent. The selection criteria shall include—
+(1)
+ prioritization of projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas;
+
+
+
+
+(2)
+ prioritization of projects whose installation is likely to result in lower emission rates of pollution;
+
+
+
+
+(3)
+ prioritization of projects that result in the repowering or replacement of older, less efficient units;
+
+
+
+
+(4)
+ documented broad interest in the procurement of the equipment and utilization of the processes used in the projects by owners or operators of facilities for electricity generation;
+
+
+
+
+(5)
+ equipment and processes beginning in 2006 through 2011 that are projected to achieve a thermal efficiency of—
+(A)
+ 40 percent for coal of more than 9,000 Btu per pound based on higher heating values;
+
+
+
+
+(B)
+ 38 percent for coal of 7,000 to 9,000 Btu per pound passed on higher heating values; and
+
+
+
+
+(C)
+ 36 percent for coal of less than 7,000 Btu per pound based on higher heating values;
+
+
+
+
+
+except that energy used for coproduction or cogeneration shall not be counted in calculating the thermal efficiency under this paragraph; and
+
+
+
+
+(6)
+ equipment and processes beginning in 2012 and 2013 that are projected to achieve a thermal efficiency of—
+(A)
+ 45 percent for coal of more than 9,000 Btu per pound based on higher heating values;
+
+
+
+
+(B)
+ 44 percent for coal of 7,000 to 9,000 Btu per pound passed on higher heating values; and
+
+
+
+
+(C)
+ 40 percent for coal of less than 7,000 Btu per pound based on higher heating values;
+
+
+
+
+
+except that energy used for coproduction or cogeneration shall not be counted in calculating the thermal efficiency under this paragraph.
+
+
+
+
+(c)
+ Program balance and priority
+In carrying out the program under 
+section 13572(a)(1) of this title
+, the Secretary shall ensure, to the extent practicable, that—
+(1)
+ between 25 percent and 75 percent of the projects supported are for the sole purpose of electrical generation; and
+
+
+
+
+(2)
+ priority is given to projects that use electrical generation equipment and processes that have been developed and demonstrated and applied in actual production of electricity, but are not yet cost-competitive, and that achieve greater efficiency and environmental performance.
+
+
+
+
+(d)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out 
+section 13572(a)(1) of this title
+—
+(1)
+ $250,000,000 for fiscal year 2007;
+
+
+
+
+(2)
+ $350,000,000 for fiscal year 2008;
+
+
+
+
+(3)
+ $400,000,000 for each of fiscal years 2009 through 2012; and
+
+
+
+
+(4)
+ $300,000,000 for fiscal year 2013.
+
+
+
+
+(e)
+ Applicability
+No technology, or level of emission reduction, shall be treated as adequately demonstrated for purpose 
+1
+1
+ So in original. Probably should be “purposes”.
+ of 
+section 7411 of this title
+, achievable for purposes of 
+section 7479 of this title
+, or achievable in practice for purposes of 
+section 7501 of this title
+ solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under 
+section 13572(a)(1) of this title
+.
+
+
+
+
+ Air quality enhancement program
+(a)
+ Eligible projects
+Projects supported under 
+section 13572(a)(2) of this title
+ shall—
+(1)
+ utilize technologies that meet relevant Federal and State clean air requirements applicable to the unit or facility, including being adequately demonstrated for purposes of 
+section 7411 of this title
+, achievable for purposes of 
+section 7479 of this title
+, or achievable in practice for purposes of 
+section 7501 of this title
+; or
+
+
+
+
+(2)
+ utilize equipment or processes that exceed relevant Federal or State clean air requirements applicable to the unit or facilities included in the projects by achieving greater efficiency or environmental performance.
+
+
+
+
+(b)
+ Priority in project selection
+In making an award under 
+section 13572(a)(2) of this title
+, the Secretary shall give priority to—
+(1)
+ projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas or substantially reduce the emission level of criteria pollutants and mercury air emissions;
+
+
+
+
+(2)
+ projects for pollution control that result in the mitigation or collection of more than 1 pollutant; and
+
+
+
+
+(3)
+ projects designed to allow the use of the waste byproducts or other byproducts of the equipment.
+
+
+
+
+(c)
+ Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out 
+section 13572(a)(2) of this title
+—
+(1)
+ $300,000,000 for fiscal year 2007;
+
+
+
+
+(2)
+ $100,000,000 for fiscal year 2008;
+
+
+
+
+(3)
+ $40,000,000 for fiscal year 2009;
+
+
+
+
+(4)
+ $30,000,000 for fiscal year 2010; and
+
+
+
+
+(5)
+ $30,000,000 for fiscal year 2011.
+
+
+
+
+(d)
+ Applicability
+No technology, or level of emission reduction under subsection (a)(2) of this section shall be treated as adequately demonstrated for purpose of Section 
+1
+1
+ So in original. Probably should be “purposes of section”.
+ 7411 of this title, achievable for purposes of 
+section 7479 of this title
+, or achievable in practice for purposes of 
+section 7501 of this title
+ solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under 
+section 13572(a)(2) of this title
+.
+
+
+
+

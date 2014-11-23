@@ -1,0 +1,905 @@
+
+Chapter 96
+ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE
+ General rule of validity
+(a)
+ In general
+Notwithstanding any statute, regulation, or other rule of law (other than this subchapter and subchapter II of this chapter), with respect to any transaction in or affecting interstate or foreign commerce—
+(1)
+ a signature, contract, or other record relating to such transaction may not be denied legal effect, validity, or enforceability solely because it is in electronic form; and
+
+
+
+
+(2)
+ a contract relating to such transaction may not be denied legal effect, validity, or enforceability solely because an electronic signature or electronic record was used in its formation.
+
+
+
+
+(b)
+ Preservation of rights and obligations
+This subchapter does not—
+(1)
+ limit, alter, or otherwise affect any requirement imposed by a statute, regulation, or rule of law relating to the rights and obligations of persons under such statute, regulation, or rule of law other than a requirement that contracts or other records be written, signed, or in nonelectronic form; or
+
+
+
+
+(2)
+ require any person to agree to use or accept electronic records or electronic signatures, other than a governmental agency with respect to a record other than a contract to which it is a party.
+
+
+
+
+(c)
+ Consumer disclosures
+(1)
+ Consent to electronic records
+Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided or made available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
+(A)
+ the consumer has affirmatively consented to such use and has not withdrawn such consent;
+
+
+
+
+(B)
+ the consumer, prior to consenting, is provided with a clear and conspicuous statement—
+(i)
+ informing the consumer of (I) any right or option of the consumer to have the record provided or made available on paper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties’ relationship), or fees in the event of such withdrawal;
+
+
+
+
+(ii)
+ informing the consumer of whether the consent applies (I) only to the particular transaction which gave rise to the obligation to provide the record, or (II) to identified categories of records that may be provided or made available during the course of the parties’ relationship;
+
+
+
+
+(iii)
+ describing the procedures the consumer must use to withdraw consent as provided in clause (i) and to update information needed to contact the consumer electronically; and
+
+
+
+
+(iv)
+ informing the consumer (I) how, after the consent, the consumer may, upon request, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
+
+
+
+
+
+
+(C)
+ the consumer—
+(i)
+ prior to consenting, is provided with a statement of the hardware and software requirements for access to and retention of the electronic records; and
+
+
+
+
+(ii)
+ consents electronically, or confirms his or her consent electronically, in a manner that reasonably demonstrates that the consumer can access information in the electronic form that will be used to provide the information that is the subject of the consent; and
+
+
+
+
+
+
+(D)
+ after the consent of a consumer in accordance with subparagraph (A), if a change in the hardware or software requirements needed to access or retain electronic records creates a material risk that the consumer will not be able to access or retain a subsequent electronic record that was the subject of the consent, the person providing the electronic record—
+(i)
+ provides the consumer with a statement of (I) the revised hardware and software requirements for access to and retention of the electronic records, and (II) the right to withdraw consent without the imposition of any fees for such withdrawal and without the imposition of any condition or consequence that was not disclosed under subparagraph (B)(i); and
+
+
+
+
+(ii)
+ again complies with subparagraph (C).
+
+
+
+
+
+
+
+
+(2)
+ Other rights
+(A)
+ Preservation of consumer protections
+Nothing in this subchapter affects the content or timing of any disclosure or other record required to be provided or made available to any consumer under any statute, regulation, or other rule of law.
+
+
+
+
+
+
+(B)
+ Verification or acknowledgment
+If a law that was enacted prior to this chapter expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
+
+
+
+
+
+
+
+
+(3)
+ Effect of failure to obtain electronic consent or confirmation of consent
+The legal effectiveness, validity, or enforceability of any contract executed by a consumer shall not be denied solely because of the failure to obtain electronic consent or confirmation of consent by that consumer in accordance with paragraph (1)(C)(ii).
+
+
+
+
+
+
+(4)
+ Prospective effect
+Withdrawal of consent by a consumer shall not affect the legal effectiveness, validity, or enforceability of electronic records provided or made available to that consumer in accordance with paragraph (1) prior to implementation of the consumer’s withdrawal of consent. A consumer’s withdrawal of consent shall be effective within a reasonable period of time after receipt of the withdrawal by the provider of the record. Failure to comply with paragraph (1)(D) may, at the election of the consumer, be treated as a withdrawal of consent for purposes of this paragraph.
+
+
+
+
+
+
+(5)
+ Prior consent
+This subsection does not apply to any records that are provided or made available to a consumer who has consented prior to the effective date of this subchapter to receive such records in electronic form as permitted by any statute, regulation, or other rule of law.
+
+
+
+
+
+
+(6)
+ Oral communications
+An oral communication or a recording of an oral communication shall not qualify as an electronic record for purposes of this subsection except as otherwise provided under applicable law.
+
+
+
+
+
+
+(d)
+ Retention of contracts and records
+(1)
+ Accuracy and accessibility
+If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
+(A)
+ accurately reflects the information set forth in the contract or other record; and
+
+
+
+
+(B)
+ remains accessible to all persons who are entitled to access by statute, regulation, or rule of law, for the period required by such statute, regulation, or rule of law, in a form that is capable of being accurately reproduced for later reference, whether by transmission, printing, or otherwise.
+
+
+
+
+
+
+(2)
+ Exception
+A requirement to retain a contract or other record in accordance with paragraph (1) does not apply to any information whose sole purpose is to enable the contract or other record to be sent, communicated, or received.
+
+
+
+
+
+
+(3)
+ Originals
+If a statute, regulation, or other rule of law requires a contract or other record relating to a transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
+
+
+
+
+
+
+(4)
+ Checks
+If a statute, regulation, or other rule of law requires the retention of a check, that requirement is satisfied by retention of an electronic record of the information on the front and back of the check in accordance with paragraph (1).
+
+
+
+
+
+
+(e)
+ Accuracy and ability to retain contracts and other records
+Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be in writing, the legal effect, validity, or enforceability of an electronic record of such contract or other record may be denied if such electronic record is not in a form that is capable of being retained and accurately reproduced for later reference by all parties or persons who are entitled to retain the contract or other record.
+
+
+
+
+(f)
+ Proximity
+Nothing in this subchapter affects the proximity required by any statute, regulation, or other rule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.
+
+
+
+
+(g)
+ Notarization and acknowledgment
+If a statute, regulation, or other rule of law requires a signature or record relating to a transaction in or affecting interstate or foreign commerce to be notarized, acknowledged, verified, or made under oath, that requirement is satisfied if the electronic signature of the person authorized to perform those acts, together with all other information required to be included by other applicable statute, regulation, or rule of law, is attached to or logically associated with the signature or record.
+
+
+
+
+(h)
+ Electronic agents
+A contract or other record relating to a transaction in or affecting interstate or foreign commerce may not be denied legal effect, validity, or enforceability solely because its formation, creation, or delivery involved the action of one or more electronic agents so long as the action of any such electronic agent is legally attributable to the person to be bound.
+
+
+
+
+(i)
+ Insurance
+It is the specific intent of the Congress that this subchapter and subchapter II of this chapter apply to the business of insurance.
+
+
+
+
+(j)
+ Insurance agents and brokers
+An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
+(1)
+ the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
+
+
+
+
+(2)
+ the agent or broker was not involved in the development or establishment of such electronic procedures; and
+
+
+
+
+(3)
+ the agent or broker did not deviate from such procedures.
+
+
+
+
+“(a)
+ 
+In General
+.—
+Except as provided in subsection (b), this title [enacting this subchapter] shall be effective on 
+October 1, 2000
+.
+
+
+“(b)
+ Exceptions.—
+“(1)
+ Record retention.—
+“(A)
+ 
+In general
+.—
+Subject to subparagraph (B), this title [enacting this subchapter] shall be effective on 
+March 1, 2001
+, with respect to a requirement that a record be retained imposed by—
+“(i)
+ a Federal statute, regulation, or other rule of law, or
+
+
+
+
+“(ii)
+ a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency.
+
+
+
+
+
+
+“(B)
+ 
+Delayed effect for pending rulemakings
+.—
+If on 
+March 1, 2001
+, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) [
+15 U.S.C. 7004(b)(3)
+] with respect to a requirement described in subparagraph (A), this title shall be effective on 
+June 1, 2001
+, with respect to such requirement.
+
+
+
+
+
+
+“(2)
+ 
+Certain guaranteed and insured loans
+.—
+With regard to any transaction involving a loan guarantee or loan guarantee commitment (as those terms are defined in section 502 of the Federal Credit Reform Act of 1990 [
+2 U.S.C. 661a
+]), or involving a program listed in the Federal Credit Supplement, Budget of the United States, FY 2001, this title applies only to such transactions entered into, and to any loan or mortgage made, insured, or guaranteed by the United States Government thereunder, on and after one year after the date of enactment of this Act [
+June 30, 2000
+].
+
+
+
+
+“(3)
+ 
+Student loans
+.—
+With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 [
+20 U.S.C. 1070
+ et seq., 
+42 U.S.C. 2751
+ et seq.], section 101(c) of this Act [
+15 U.S.C. 7001(c)
+] shall not apply until the earlier of—
+“(A)
+ such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 [
+20 U.S.C. 1082(m)
+]; or
+
+
+
+
+“(B)
+ one year after the date of enactment of this Act [
+June 30, 2000
+].”
+
+
+
+
+
+
+ Exemption to preemption
+(a)
+ In general
+A State statute, regulation, or other rule of law may modify, limit, or supersede the provisions of 
+section 7001 of this title
+ with respect to State law only if such statute, regulation, or rule of law—
+(1)
+ constitutes an enactment or adoption of the Uniform Electronic Transactions Act as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 1999, except that any exception to the scope of such Act enacted by a State under section 3(b)(4) of such Act shall be preempted to the extent such exception is inconsistent with this subchapter or subchapter II of this chapter, or would not be permitted under paragraph (2)(A)(ii) of this subsection; or
+
+
+
+
+(2)
+(A)
+ specifies the alternative procedures or requirements for the use or acceptance (or both) of electronic records or electronic signatures to establish the legal effect, validity, or enforceability of contracts or other records, if—
+(i)
+ such alternative procedures or requirements are consistent with this subchapter and subchapter II of this chapter; and
+
+
+
+
+(ii)
+ such alternative procedures or requirements do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures; and
+
+
+
+
+
+
+(B)
+ if enacted or adopted after 
+June 30, 2000
+, makes specific reference to this chapter.
+
+
+
+
+
+
+(b)
+ Exceptions for actions by States as market participants
+Subsection (a)(2)(A)(ii) of this section shall not apply to the statutes, regulations, or other rules of law governing procurement by any State, or any agency or instrumentality thereof.
+
+
+
+
+(c)
+ Prevention of circumvention
+Subsection (a) of this section does not permit a State to circumvent this subchapter or subchapter II of this chapter through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.
+
+
+
+
+ Specific exceptions
+(a)
+ Excepted requirements
+The provisions of 
+section 7001 of this title
+ shall not apply to a contract or other record to the extent it is governed by—
+(1)
+ a statute, regulation, or other rule of law governing the creation and execution of wills, codicils, or testamentary trusts;
+
+
+
+
+(2)
+ a State statute, regulation, or other rule of law governing adoption, divorce, or other matters of family law; or
+
+
+
+
+(3)
+ the Uniform Commercial Code, as in effect in any State, other than sections 1–107 and 1–206 and Articles 2 and 2A.
+
+
+
+
+(b)
+ Additional exceptions
+The provisions of 
+section 7001 of this title
+ shall not apply to—
+(1)
+ court orders or notices, or official court documents (including briefs, pleadings, and other writings) required to be executed in connection with court proceedings;
+
+
+
+
+(2)
+ any notice of—
+(A)
+ the cancellation or termination of utility services (including water, heat, and power);
+
+
+
+
+(B)
+ default, acceleration, repossession, foreclosure, or eviction, or the right to cure, under a credit agreement secured by, or a rental agreement for, a primary residence of an individual;
+
+
+
+
+(C)
+ the cancellation or termination of health insurance or benefits or life insurance benefits (excluding annuities); or
+
+
+
+
+(D)
+ recall of a product, or material failure of a product, that risks endangering health or safety; or
+
+
+
+
+
+
+(3)
+ any document required to accompany any transportation or handling of hazardous materials, pesticides, or other toxic or dangerous materials.
+
+
+
+
+(c)
+ Review of exceptions
+(1)
+ Evaluation required
+The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) of this section to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after 
+June 30, 2000
+, the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
+
+
+
+
+
+
+(2)
+ Determinations
+If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of 
+section 7001 of this title
+ to the exceptions identified in such finding.
+
+
+
+
+
+
+ Applicability to Federal and State governments
+(a)
+ Filing and access requirements
+Subject to subsection (c)(2) of this section, nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
+
+
+
+
+(b)
+ Preservation of existing rulemaking authority
+(1)
+ Use of authority to interpret
+Subject to paragraph (2) and subsection (c) of this section, a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret 
+section 7001 of this title
+ with respect to such statute through—
+(A)
+ the issuance of regulations pursuant to a statute; or
+
+
+
+
+(B)
+ to the extent such agency is authorized by statute to issue orders or guidance, the issuance of orders or guidance of general applicability that are publicly available and published (in the Federal Register in the case of an order or guidance issued by a Federal regulatory agency).
+
+
+
+
+
+This paragraph does not grant any Federal regulatory agency or State regulatory agency authority to issue regulations, orders, or guidance pursuant to any statute that does not authorize such issuance.
+
+
+
+
+(2)
+ Limitations on interpretation authority
+Notwithstanding paragraph (1), a Federal regulatory agency shall not adopt any regulation, order, or guidance described in paragraph (1), and a State regulatory agency is preempted by 
+section 7001 of this title
+ from adopting any regulation, order, or guidance described in paragraph (1), unless—
+(A)
+ such regulation, order, or guidance is consistent with 
+section 7001 of this title
+;
+
+
+
+
+(B)
+ such regulation, order, or guidance does not add to the requirements of such section; and
+
+
+
+
+(C)
+ such agency finds, in connection with the issuance of such regulation, order, or guidance, that—
+(i)
+ there is a substantial justification for the regulation, order, or guidance;
+
+
+
+
+(ii)
+ the methods selected to carry out that purpose—
+(I)
+ are substantially equivalent to the requirements imposed on records that are not electronic records; and
+
+
+
+
+(II)
+ will not impose unreasonable costs on the acceptance and use of electronic records; and
+
+
+
+
+
+
+(iii)
+ the methods selected to carry out that purpose do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures.
+
+
+
+
+
+
+
+
+(3)
+ Performance standards
+(A)
+ Accuracy, record integrity, accessibility
+Notwithstanding paragraph (2)(C)(iii), a Federal regulatory agency or State regulatory agency may interpret 
+section 7001(d) of this title
+ to specify performance standards to assure accuracy, record integrity, and accessibility of records that are required to be retained. Such performance standards may be specified in a manner that imposes a requirement in violation of paragraph (2)(C)(iii) if the requirement (i) serves an important governmental objective; and (ii) is substantially related to the achievement of that objective. Nothing in this paragraph shall be construed to grant any Federal regulatory agency or State regulatory agency authority to require use of a particular type of software or hardware in order to comply with 
+section 7001(d) of this title
+.
+
+
+
+
+
+
+(B)
+ Paper or printed form
+Notwithstanding subsection (c)(1) of this section, a Federal regulatory agency or State regulatory agency may interpret 
+section 7001(d) of this title
+ to require retention of a record in a tangible printed or paper form if—
+(i)
+ there is a compelling governmental interest relating to law enforcement or national security for imposing such requirement; and
+
+
+
+
+(ii)
+ imposing such requirement is essential to attaining such interest.
+
+
+
+
+
+
+
+
+(4)
+ Exceptions for actions by government as market participant
+Paragraph (2)(C)(iii) shall not apply to the statutes, regulations, or other rules of law governing procurement by the Federal or any State government, or any agency or instrumentality thereof.
+
+
+
+
+
+
+(c)
+ Additional limitations
+(1)
+ Reimposing paper prohibited
+Nothing in subsection (b) of this section (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+
+
+
+
+
+
+(2)
+ Continuing obligation under Government Paperwork Elimination Act
+Nothing in subsection (a) or (b) of this section relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of 
+Public Law 105–277
+).
+
+
+
+
+
+
+(d)
+ Authority to exempt from consent provision
+(1)
+ In general
+A Federal regulatory agency may, with respect to matter within its jurisdiction, by regulation or order issued after notice and an opportunity for public comment, exempt without condition a specified category or type of record from the requirements relating to consent in 
+section 7001(c) of this title
+ if such exemption is necessary to eliminate a substantial burden on electronic commerce and will not increase the material risk of harm to consumers.
+
+
+
+
+
+
+(2)
+ Prospectuses
+Within 30 days after 
+June 30, 2000
+, the Securities and Exchange Commission shall issue a regulation or order pursuant to paragraph (1) exempting from 
+section 7001(c) of this title
+ any records that are required to be provided in order to allow advertising, sales literature, or other information concerning a security issued by an investment company that is registered under the Investment Company Act of 1940 [
+15 U.S.C. 80a–1
+ et seq.], or concerning the issuer thereof, to be excluded from the definition of a prospectus under 
+section 77b(a)(10)(A) of this title
+.
+
+
+
+
+
+
+(e)
+ Electronic letters of agency
+The Federal Communications Commission shall not hold any contract for telecommunications service or letter of agency for a preferred carrier change, that otherwise complies with the Commission’s rules, to be legally ineffective, invalid, or unenforceable solely because an electronic record or electronic signature was used in its formation or authorization.
+
+
+
+
+ Studies
+(a)
+ Delivery
+Within 12 months after 
+June 30, 2000
+, the Secretary of Commerce shall conduct an inquiry regarding the effectiveness of the delivery of electronic records to consumers using electronic mail as compared with delivery of written records via the United States Postal Service and private express mail services. The Secretary shall submit a report to the Congress regarding the results of such inquiry by the conclusion of such 12-month period.
+
+
+
+
+(b)
+ Study of electronic consent
+Within 12 months after 
+June 30, 2000
+, the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by 
+section 7001(c)(1)(C)(ii) of this title
+; any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by 
+section 7001(c)(1)(C)(ii) of this title
+ would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.
+
+
+
+
+ Definitions
+ Transferable records
+(a)
+ Definitions
+For purposes of this section:
+(1)
+ Transferable record
+The term “transferable record” means an electronic record that—
+(A)
+ would be a note under Article 3 of the Uniform Commercial Code if the electronic record were in writing;
+
+
+
+
+(B)
+ the issuer of the electronic record expressly has agreed is a transferable record; and
+
+
+
+
+(C)
+ relates to a loan secured by real property.
+
+
+
+
+
+A transferable record may be executed using an electronic signature.
+
+
+
+
+(2)
+ Other definitions
+The terms “electronic record”, “electronic signature”, and “person” have the same meanings provided in 
+section 7006 of this title
+.
+
+
+
+
+
+
+(b)
+ Control
+A person has control of a transferable record if a system employed for evidencing the transfer of interests in the transferable record reliably establishes that person as the person to which the transferable record was issued or transferred.
+
+
+
+
+(c)
+ Conditions
+A system satisfies subsection (b) of this section, and a person is deemed to have control of a transferable record, if the transferable record is created, stored, and assigned in such a manner that—
+(1)
+ a single authoritative copy of the transferable record exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;
+
+
+
+
+(2)
+ the authoritative copy identifies the person asserting control as—
+(A)
+ the person to which the transferable record was issued; or
+
+
+
+
+(B)
+ if the authoritative copy indicates that the transferable record has been transferred, the person to which the transferable record was most recently transferred;
+
+
+
+
+
+
+(3)
+ the authoritative copy is communicated to and maintained by the person asserting control or its designated custodian;
+
+
+
+
+(4)
+ copies or revisions that add or change an identified assignee of the authoritative copy can be made only with the consent of the person asserting control;
+
+
+
+
+(5)
+ each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and
+
+
+
+
+(6)
+ any revision of the authoritative copy is readily identifiable as authorized or unauthorized.
+
+
+
+
+(d)
+ Status as holder
+Except as otherwise agreed, a person having control of a transferable record is the holder, as defined in section 1–201(20) of the Uniform Commercial Code, of the transferable record and has the same rights and defenses as a holder of an equivalent record or writing under the Uniform Commercial Code, including, if the applicable statutory requirements under section 3–302(a), 9–308, or revised section 9–330 of the Uniform Commercial Code are satisfied, the rights and defenses of a holder in due course or a purchaser, respectively. Delivery, possession, and endorsement are not required to obtain or exercise any of the rights under this subsection.
+
+
+
+
+(e)
+ Obligor rights
+Except as otherwise agreed, an obligor under a transferable record has the same rights and defenses as an equivalent obligor under equivalent records or writings under the Uniform Commercial Code.
+
+
+
+
+(f)
+ Proof of control
+If requested by a person against which enforcement is sought, the person seeking to enforce the transferable record shall provide reasonable proof that the person is in control of the transferable record. Proof may include access to the authoritative copy of the transferable record and related business records sufficient to review the terms of the transferable record and to establish the identity of the person having control of the transferable record.
+
+
+
+
+(g)
+ UCC references
+For purposes of this subsection, all references to the Uniform Commercial Code are to the Uniform Commercial Code as in effect in the jurisdiction the law of which governs the transferable record.
+
+
+
+
+ Principles governing the use of electronic signatures in international transactions
+(a)
+ Promotion of electronic signatures
+(1)
+ Required actions
+The Secretary of Commerce shall promote the acceptance and use, on an international basis, of electronic signatures in accordance with the principles specified in paragraph (2) and in a manner consistent with 
+section 7001 of this title
+. The Secretary of Commerce shall take all actions necessary in a manner consistent with such principles to eliminate or reduce, to the maximum extent possible, the impediments to commerce in electronic signatures, for the purpose of facilitating the development of interstate and foreign commerce.
+
+
+
+
+
+
+(2)
+ Principles
+The principles specified in this paragraph are the following:
+(A)
+ Remove paper-based obstacles to electronic transactions by adopting relevant principles from the Model Law on Electronic Commerce adopted in 1996 by the United Nations Commission on International Trade Law.
+
+
+
+
+(B)
+ Permit parties to a transaction to determine the appropriate authentication technologies and implementation models for their transactions, with assurance that those technologies and implementation models will be recognized and enforced.
+
+
+
+
+(C)
+ Permit parties to a transaction to have the opportunity to prove in court or other proceedings that their authentication approaches and their transactions are valid.
+
+
+
+
+(D)
+ Take a nondiscriminatory approach to electronic signatures and authentication methods from other jurisdictions.
+
+
+
+
+
+
+(b)
+ Consultation
+In conducting the activities required by this section, the Secretary shall consult with users and providers of electronic signature products and services and other interested persons.
+
+
+
+
+(c)
+ Definitions
+As used in this section, the terms “electronic record” and “electronic signature” have the same meanings provided in 
+section 7006 of this title
+.
+
+
+
+

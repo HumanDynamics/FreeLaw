@@ -1,0 +1,2116 @@
+
+Chapter 9
+DEFENSE BUDGET MATTERS
+ Future-years defense program: submission to Congress; consistency in budgeting
+(a)
+ The Secretary of Defense shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress that year under 
+section 1105(a) of title 31
+, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
+
+
+(b)
+(1)
+ The Secretary of Defense shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
+
+
+
+
+(2)
+ Amounts referred to in paragraph (1) are the following:
+(A)
+ The amounts specified in program and budget information submitted to Congress by the Secretary in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under 
+section 1105(a) of title 31
+ for any fiscal year, as shown in the future-years defense program submitted pursuant to subsection (a).
+
+
+
+
+(B)
+ The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included pursuant to paragraph (5) of 
+section 1105(a) of title 31
+ in the budget submitted to Congress under that section for any fiscal year.
+
+
+
+
+
+
+(c)
+ Nothing in this section shall be construed to prohibit the inclusion in the future-years defense program of amounts for management contingencies, subject to the requirements of subsection (b).
+
+
+“(a)
+ 
+Project Codes for Budget Submissions
+.—
+In the budget submitted by the President to Congress under 
+section 1105 of title 31
+, United States Code, for fiscal year 2015 and each subsequent fiscal year, each capability component within the distributed common ground system program shall be set forth as a separate project code within the program element line, and each covered official shall submit supporting justification for the project code within the program element descriptive summary.
+
+
+“(b)
+ Analysis.—
+“(1)
+ 
+Requirement
+.—
+The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct an analysis of capability components that are compliant with the intelligence community data standards and could be used to meet the requirements of the distributed common ground system program.
+
+
+
+
+“(2)
+ 
+Elements
+.—
+The analysis required under paragraph (1) shall include the following:
+“(A)
+ Revalidation of the distributed common ground system program requirements based on current program needs, recent operational experience, and the requirement for nonproprietary solutions that adhere to open-architecture principles.
+
+
+
+
+“(B)
+ Market research of current commercially available tools to determine whether any such tools could potentially satisfy the requirements described in subparagraph (A).
+
+
+
+
+“(C)
+ Analysis of the competitive acquisition options for any tools identified in subparagraph (B).
+
+
+
+
+
+
+“(3)
+ 
+Submission
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Dec. 26, 2013
+], the Under Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the results of the analysis conducted under paragraph (1).
+
+
+
+
+“(c)
+ 
+Covered Official Defined
+.—
+In this section, the term ‘covered official’ means the following:
+“(1)
+ The Secretary of the Army, with respect to matters concerning the Army.
+
+
+
+
+“(2)
+ The Secretary of the Navy, with respect to matters concerning the Navy.
+
+
+
+
+“(3)
+ The Secretary of the Air Force, with respect to matters concerning the Air Force.
+
+
+
+
+“(4)
+ The Commandant of the Marine Corps, with respect to matters concerning the Marine Corps.
+
+
+
+
+“(5)
+ The Commander of the United States Special Operations Command, with respect to matters concerning the United States Special Operations Command.”
+
+
+
+
+“(a)
+ 
+In General
+.—
+In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to 
+section 1105 of title 31
+, United States Code, of the budget for fiscal year 2013, and each subsequent fiscal year, the Secretary shall ensure that a separate, dedicated procurement line item is designated for each covered module that includes the quantity and cost of each such module requested.
+
+
+“(b)
+ 
+Form
+.—
+The Secretary shall ensure that any classified components of covered modules not included in a procurement line item under subsection (a) shall be included in a classified annex.
+
+
+“(c)
+ 
+Covered Module
+.—
+In this section, the term ‘covered module’ means, with respect to mission modules of the Littoral Combat Ship, the following modules:
+“(1)
+ Surface warfare.
+
+
+
+
+“(2)
+ Mine countermeasures.
+
+
+
+
+“(3)
+ Anti-submarine warfare.”
+
+
+
+
+“(a)
+ 
+Submission With Annual Budget Justification Documents
+.—
+For fiscal year 2013 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under 
+section 1105(a) of title 31
+, United States Code, a budget justification display that covers all programs and activities associated with the procurement of organizational clothing and individual equipment.
+
+
+“(b)
+ 
+Requirements for Budget Display
+.—
+The budget justification display under subsection (a) for a fiscal year shall include the following:
+“(1)
+ The funding requirements in each budget activity and for each Armed Force for organizational clothing and individual equipment.
+
+
+
+
+“(2)
+ The amount in the budget for each of the Armed Forces for organizational clothing and equipment for that fiscal year.
+
+
+
+
+“(c)
+ 
+Definition
+.—
+In this section, the term ‘organizational clothing and individual equipment’ means an item of organizational clothing or equipment prescribed for wear or use with the uniform.”
+
+
+“(a)
+ 
+Guidance on Budget Justification Materials
+.—
+The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to 
+section 1105(a) of title 31
+, United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
+“(1)
+ Operation.
+
+
+
+
+“(2)
+ Sustainment.
+
+
+
+
+“(3)
+ Investment and modernization.
+
+
+
+
+“(4)
+ Government personnel.
+
+
+
+
+“(5)
+ Contractor personnel.
+
+
+
+
+“(b)
+ 
+Applicability
+.—
+The guidance issued under subsection (a) shall apply with respect to budgets of the President for fiscal years after fiscal year 2010.
+
+
+“(c)
+ 
+Major Range and Test Facility Base Defined
+.—
+In this section, the term ‘Major Range and Test Facility Base’ has the meaning given that term in 
+section 196(h) of title 10
+, United States Code.”
+
+
+“(a)
+ 
+Submission With Annual Budget Justification Documents
+.—
+For fiscal year 2010 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for consideration by the President for inclusion with the budget materials submitted to Congress under 
+section 1105(a) of title 31
+, United States Code, a consolidated budget justification display that covers all programs and activities of the Air Sovereignty Alert mission of the Air Force.
+
+
+“(b)
+ 
+Requirements for Budget Display
+.—
+The budget display under subsection (a) for a fiscal year shall include for such fiscal year the following:
+“(1)
+ The funding requirements for the Air Sovereignty Alert mission, and the associated Command and Control mission, including such requirements for—
+“(A)
+ military personnel costs;
+
+
+
+
+“(B)
+ flying hours; and
+
+
+
+
+“(C)
+ any other associated mission costs.
+
+
+
+
+
+
+“(2)
+ The amount in the budget for the Air Force for each of the items referred to in paragraph (1).
+
+
+
+
+“(3)
+ The amount in the budget for the Air National Guard for each such item.”
+
+
+
+
+“(a)
+ 
+Operations in Iraq and Afghanistan
+.—
+In any annual or supplemental budget request for the Department of Defense that is submitted to Congress after the date of the enactment of this Act [
+Oct. 14, 2008
+], the Secretary of Defense shall set forth separately any funding requested in such budget request for—
+“(1)
+ operations of the Department of Defense in Afghanistan; and
+
+
+
+
+“(2)
+ operations of the Department of Defense in Iraq.
+
+
+
+
+“(b)
+ 
+Specificity of Display
+.—
+Each budget request covered by subsection (a) shall, for any funding requested for operations in Iraq or Afghanistan—
+“(1)
+ clearly display the amount of such funding at the appropriation account level and at the program, project, or activity level; and
+
+
+
+
+“(2)
+ include a detailed description of the assumptions underlying the funding for the period covered by the budget request, including the anticipated troop levels, the operations intended to be carried out, and the equipment reset requirements necessary to support such operations.”
+
+
+
+
+“(a)
+ 
+Report
+.—
+If the President submits to Congress the budget for a fiscal year under 
+section 1105 of title 31
+, United States Code, and the aggregate amount included in that budget for the Department of Defense for health care for such fiscal year is less than the aggregate amount provided by Congress for the Department for health care for the preceding fiscal year, and, in the case of the Department, the total allocation from the Defense Health Program to any military department is less than the total of such allocation in the preceding fiscal year, the President shall submit to Congress a report on—
+“(1)
+ the reasons for the determination that inclusion of a lesser aggregate amount or allocation to any military department is in the national interest; and
+
+
+
+
+“(2)
+ the anticipated effects of the inclusion of such lesser aggregate amount or allocation to any military department on the access to and delivery of medical and support services to members of the Armed Forces and their family members.
+
+
+
+
+“(b)
+ 
+Termination
+.—
+The section shall not be in effect after 
+December 31, 2017
+.”
+
+
+“(a)
+ 
+Program Elements Specified
+.—
+Effective for the budget of the President submitted to Congress under 
+section 1105(a) of title 31
+, United States Code, for fiscal year 2008 and each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated program element is assigned to each of the following systems development and demonstration projects of the Armored Systems Modernization program:
+“(1)
+ Manned Ground Vehicles.
+
+
+
+
+“(2)
+ Systems of Systems Engineering and Program Management.
+
+
+
+
+“(3)
+ Future Combat Systems Reconnaissance Platforms and Sensors.
+
+
+
+
+“(4)
+ Future Combat Systems Unmanned Ground Vehicles.
+
+
+
+
+“(5)
+ Unattended Sensors.
+
+
+
+
+“(6)
+ Sustainment.
+
+
+
+
+“(b)
+ 
+Early Commencement of Display in Budget Justification Materials
+.—
+As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for the systems development and demonstration projects of the Armored Systems Modernization program identified in subsection (a) as if the projects were already separate program elements.
+
+
+“(c)
+ Technology Insertion to Current Force.—
+“(1)
+ 
+Report on establishment of additional program element
+.—
+Not later than 
+June 1, 2006
+, the Secretary of the Army shall submit a report to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] describing the manner in which the costs of integrating Future Combat Systems capabilities into current force programs could be assigned to a separate, dedicated program element and any management issues that would be raised as a result of establishing such a program element.
+
+
+
+
+“(2)
+ 
+Display in budget justification materials
+.—
+As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007 and each fiscal year thereafter, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for technology insertion to the current force under the Armored Systems Modernization program.”
+
+
+
+
+“(a)
+ 
+Requirement To Submit Information
+.—
+Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to 
+section 1105 of title 31
+, United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
+“(1)
+ Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $32,000,000 or an estimated total cost for the future-years defense program for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $378,000,000, for all expenditures, for all increments, regardless of the appropriation and fund source, directly related to the assets definition, design, development, deployment, sustainment, and disposal.
+
+
+
+
+“(2)
+ Information technology capital assets not covered by paragraph (1) that have been determined by the Chief Information Officer of the Department of Defense to be significant investments.
+
+
+
+
+“(b)
+ 
+Required Information For High-Threshold Assets
+.—
+With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
+“(1)
+ The name and identifying acronym of the information technology capital asset.
+
+
+
+
+“(2)
+ The date of initiation of the asset.
+
+
+
+
+“(3)
+ A summary of performance measurements and metrics.
+
+
+
+
+“(4)
+ The total amount of funds, by appropriation account, appropriated and obligated for prior fiscal years, with a specific breakout of such information for the two preceding fiscal years.
+
+
+
+
+“(5)
+ The funds, by appropriation account, requested for the next fiscal year.
+
+
+
+
+“(6)
+ The name of each prime contractor and the work to be performed.
+
+
+
+
+“(7)
+ Program management and management oversight information.
+
+
+
+
+“(8)
+ The original baseline cost and most current baseline information.
+
+
+
+
+“(9)
+ Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 (
+Public Law 103–62
+; 
+107 Stat. 285
+) [see Short Title of 1993 Amendment note under 
+31 U.S.C. 1101
+] and the Clinger–Cohen Act of 1996 (divisions D and E of 
+Public Law 104–106
+; 
+110 Stat. 642
+) [§§ 5001–5703 and §§ 4001–4402, see Tables for classification].
+
+
+
+
+“(c)
+ 
+Required Information for Significant Investments
+.—
+With respect to each information technology capital asset not covered by paragraph (1) of subsection (a), but covered by paragraph (2) of that subsection, the Secretary of Defense shall include such information in a format that is appropriate to the current status of such asset.
+
+
+“(d)
+ 
+Total Cost Determinations
+.—
+In estimating the total cost for a fiscal year or total cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
+
+
+“(e)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘information technology’ has the meaning given that term in 
+section 11101 of title 40
+, United States Code.
+
+
+
+
+“(2)
+ The term ‘capital asset’ has the meaning given that term in Office of Management and Budget Circular A–11.
+
+
+
+
+“(3)
+ The term ‘national security system’ has the meaning given that term in 
+section 11103 of title 40
+, United States Code.”
+
+
+
+
+“(a)
+ 
+Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
+.—
+In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2003, the amount requested for environmental restoration, waste management, and environmental compliance activities in such fiscal year with respect to military installations approved for closure or realignment under the base closure laws shall accurately reflect the anticipated cost of such activities in such fiscal year.
+
+
+“(b)
+ 
+Base Closure Laws Defined
+.—
+In this section, the term ‘base closure laws’ means the following:
+“(1)
+ 
+Section 2687 of title 10
+, United States Code.
+
+
+
+
+“(2)
+ The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of 
+Public Law 101–510
+; 
+10 U.S.C. 2687
+ note).
+
+
+
+
+“(3)
+ Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (
+Public Law 100–526
+; 
+10 U.S.C. 2687
+ note).”
+
+
+
+
+ Future-years mission budget
+(a)
+ 
+Future-Years Mission Budget
+.—
+The Secretary of Defense shall submit to Congress for each fiscal year a future-years mission budget for the military programs of the Department of Defense. That budget shall be submitted for any fiscal year with the future-years defense program submitted under 
+section 221 of this title
+.
+
+
+(b)
+ 
+Consistency With Future-Years Defense Program
+.—
+The future-years mission budget shall be consistent with the future-years defense program required under 
+section 221 of this title
+. In the future-years mission budget, the military programs of the Department of Defense shall be organized on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to 
+section 118b of this title
+.
+
+
+(c)
+ 
+Relationship to Other Defense Budget Formats
+.—
+The requirement in subsection (a) is in addition to the requirements in any other provision of law regarding the format for the presentation regarding military programs of the Department of Defense in the budget submitted pursuant to 
+section 1105 of title 31
+ for any fiscal year.
+
+
+ Ballistic missile defense programs: program elements
+(a)
+ 
+Program Elements Specified by President
+.—
+In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under 
+section 1105(a) of title 31
+), the amount requested for activities of the Missile Defense Agency shall be set forth in accordance with such program elements as the President may specify.
+
+
+(b)
+ 
+Separate Program Elements for Programs Entering Engineering and Manufacturing Development
+.—
+(1)
+ The Secretary of Defense shall ensure that each ballistic missile defense program that enters engineering and manufacturing development is assigned a separate, dedicated program element.
+
+
+
+
+(2)
+ In this subsection, the term “engineering and manufacturing development” means the period in the course of an acquisition program during which the primary objectives are to—
+(A)
+ translate the most promising design approach into a stable, interoperable, producible, supportable, and cost-effective design;
+
+
+
+
+(B)
+ validate the manufacturing or production process; and
+
+
+
+
+(C)
+ demonstrate system capabilities through testing.
+
+
+
+
+
+
+(c)
+ 
+Management and Support
+.—
+The amount requested for a fiscal year for any program element specified for that fiscal year pursuant to subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
+
+
+“(a)
+ 
+Revised Budget Structure
+.—
+The budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2009 (as submitted with the budget of the President under 
+section 1105(a) of title 31
+, United States Code) shall set forth separately amounts requested for the Missile Defense Agency for each of the following:
+“(1)
+ Research, development, test, and evaluation.
+
+
+
+
+“(2)
+ Procurement.
+
+
+
+
+“(3)
+ Operation and maintenance.
+
+
+
+
+“(4)
+ Military construction.
+
+
+
+
+“(b)
+ 
+Revised Budget Structure for Fiscal Year
+ 2009.—
+The budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2009 (as submitted with the budget of the President under 
+section 1105(a) of title 31
+, United States Code) shall—
+“(1)
+ identify all known and estimated operation and support costs; and
+
+
+
+
+“(2)
+ set forth separately amounts requested for the Missile Defense Agency for each of the following:
+“(A)
+ Research, development, test, and evaluation.
+
+
+
+
+“(B)
+ Procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+
+
+
+
+“(C)
+ Military construction.
+
+
+
+
+
+
+“(c)
+ 
+Availability of RDT&E Funds for Fiscal Year
+ 2009.—
+Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
+“(1)
+ may be used for the fielding of ballistic missile defense capabilities approved previously by Congress; and
+
+
+
+
+“(2)
+ may not be used for—
+“(A)
+ military construction activities; or
+
+
+
+
+“(B)
+ procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+
+
+
+
+
+
+“(d)
+ 
+Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years
+ 2009 
+and
+ 2010.—
+In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an ‘incremental’ basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a ‘full funding’ basis.
+
+
+“(e)
+ 
+Relationship to Other Law
+.—
+Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (
+Public Law 108–375
+; 
+118 Stat. 1837
+; 
+10 U.S.C. 2431
+ note).
+
+
+“(f)
+ 
+Plan Required
+.—
+Not later than 
+March 1, 2008
+, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.”
+
+
+“(a)
+ 
+Requirement for New Program Element
+.—
+The Secretary of Defense shall establish a program element for the Missile Defense Agency, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
+
+
+“(b)
+ 
+Authority for Exceptions
+.—
+The Secretary of Defense may exclude from the program element established pursuant to subsection (a) any international cooperative ballistic missile defense program of the Department of Defense that after the date of the enactment of this Act [
+Nov. 18, 1997
+] is designated by the Secretary of Defense (pursuant to applicable Department of Defense acquisition regulations and policy) to be managed as a separate acquisition program.
+
+
+“(c)
+ 
+Relationship to Other Program Elements
+.—
+The program element established pursuant to subsection (a) is in addition to the program elements for activities of the Missile Defense Agency required under section 251 of the National Defense Authorization Act for Fiscal Year 1996 (
+Public Law 104–106
+; 
+110 Stat. 233
+; [former] 
+10 U.S.C. 221
+ note).”
+
+
+ Ballistic missile defense programs: procurement
+(a)
+ 
+Budget Justification Materials
+.—
+In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under 
+section 1105(a) of title 31
+), the Secretary of Defense shall specify, for each ballistic missile defense system element for which the Missile Defense Agency is engaged in planning for production and initial fielding, the following information:
+(1)
+ The production rate capabilities of the production facilities planned to be used for production of that element.
+
+
+
+
+(2)
+ The potential date of availability of that element for initial fielding.
+
+
+
+
+(3)
+ The estimated date on which the administration of the acquisition of that element is to be transferred from the Director of the Missile Defense Agency to the Secretary of a military department.
+
+
+
+
+(b)
+ 
+Future-Years Defense Program
+.—
+The Secretary of Defense shall include in the future-years defense program submitted to Congress each year under 
+section 221 of this title
+ an estimate of the amount necessary for procurement for each ballistic missile defense system element, together with a discussion of the underlying factors and reasoning justifying the estimate.
+
+
+(c)
+ 
+Performance Criteria
+.—
+The Director of the Missile Defense Agency shall include in the performance criteria prescribed for planned development phases of the ballistic missile defense system and its elements a description of the intended effectiveness of each such phase against foreign adversary capabilities.
+
+
+(d)
+ 
+Testing Progress
+.—
+The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).
+
+
+ Ballistic missile defense programs: display of amounts for research, development, test, and evaluation
+(a)
+ 
+Requirement
+.—
+Any amount in the budget submitted to Congress under 
+section 1105 of title 31
+ for any fiscal year for research, development, test, and evaluation for the integration of a ballistic missile defense element into the overall ballistic missile defense architecture shall be set forth under the account of the Department of Defense for Defense-wide research, development, test, and evaluation and, within that account, under the subaccount (or other budget activity level) for the Missile Defense Agency.
+
+
+(b)
+ 
+Transfer Criteria
+.—
+(1)
+ The Secretary of Defense shall establish criteria for the transfer of responsibility for a ballistic missile defense program from the Director of the Missile Defense Agency to the Secretary of a military department. The criteria established for such a transfer shall, at a minimum, address the following:
+(A)
+ The technical maturity of the program.
+
+
+
+
+(B)
+ The availability of facilities for production.
+
+
+
+
+(C)
+ The commitment of the Secretary of the military department concerned to procurement funding for that program, as shown by funding through the future-years defense program and other defense planning documents.
+
+
+
+
+
+
+(2)
+ The Secretary shall submit the criteria established, and any modifications to those criteria, to the congressional defense committees.
+
+
+
+
+(c)
+ 
+Notification of Transfer
+.—
+Before responsibility for a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, the Secretary of Defense shall submit to the congressional defense committees notice in writing of the Secretary’s intent to make that transfer. The Secretary shall include with such notice a certification that the program has met the criteria established under subsection (b) for such a transfer. The transfer may then be carried out after the end of the 60-day period beginning on the date of such notice.
+
+
+(d)
+ 
+Conforming Budget and Planning Transfers
+.—
+When a ballistic missile defense program is transferred from the Missile Defense Agency to the Secretary of a military department in accordance with this section, the Secretary of Defense shall ensure that all appropriate conforming changes are made to proposed or projected funding allocations in the future-years defense program under 
+section 221 of this title
+ and other Department of Defense program, budget, and planning documents.
+
+
+(e)
+ 
+Follow-on Research, Development, Test, and Evaluation
+.—
+The Secretary of Defense shall ensure that, before a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly delineated.
+
+
+ Acquisition accountability reports on the ballistic missile defense system
+(a)
+ 
+Baselines Required
+.—
+(1)
+ In accordance with paragraph (2), the Director of the Missile Defense Agency shall establish and maintain an acquisition baseline for—
+(A)
+ each program element of the ballistic missile defense system, as specified in 
+section 223 of this title
+; and
+
+
+
+
+(B)
+ each designated major subprogram of such program elements.
+
+
+
+
+
+
+(2)
+ The Director shall establish an acquisition baseline required by paragraph (1) before the date on which the program element or major subprogram enters—
+(A)
+ engineering and manufacturing development (or its equivalent); and
+
+
+
+
+(B)
+ production and deployment.
+
+
+
+
+
+
+(3)
+ Except as provided by subsection (d), the Director may not adjust or revise an acquisition baseline established under this section.
+
+
+
+
+(b)
+ 
+Elements of Baselines
+.—
+Each acquisition baseline required by subsection (a) for a program element or major subprogram shall include the following:
+(1)
+ A comprehensive schedule, including—
+(A)
+ research and development milestones;
+
+
+
+
+(B)
+ acquisition milestones, including design reviews and key decision points;
+
+
+
+
+(C)
+ key test events, including ground and flight tests and ballistic missile defense system tests;
+
+
+
+
+(D)
+ delivery and fielding schedules;
+
+
+
+
+(E)
+ quantities of assets planned for acquisition and delivery in total and by fiscal year; and
+
+
+
+
+(F)
+ planned contract award dates.
+
+
+
+
+
+
+(2)
+ A detailed technical description of—
+(A)
+ the capability to be developed, including hardware and software;
+
+
+
+
+(B)
+ system requirements, including performance requirements;
+
+
+
+
+(C)
+ how the proposed capability satisfies a capability identified by the commanders of the combatant commands on a prioritized capabilities list;
+
+
+
+
+(D)
+ key knowledge points that must be achieved to permit continuation of the program and to inform production and deployment decisions; and
+
+
+
+
+(E)
+ how the Director plans to improve the capability over time.
+
+
+
+
+
+
+(3)
+ A cost estimate, including—
+(A)
+ a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, military construction, operations and sustainment, and disposal;
+
+
+
+
+(B)
+ program acquisition unit costs for the program element;
+
+
+
+
+(C)
+ average procurement unit costs and program acquisition costs for the program element; and
+
+
+
+
+(D)
+ an identification of when the document regarding the program joint cost analysis requirements description is scheduled to be approved.
+
+
+
+
+
+
+(4)
+ A test baseline summarizing the comprehensive test program for the program element or major subprogram outlined in the integrated master test plan.
+
+
+
+
+(c)
+ 
+Annual Reports on Acquisition Baselines
+.—
+(1)
+ Not later than February 15 of each year, the Director shall submit to the congressional defense committees a report on the acquisition baselines required by subsection (a).
+
+
+
+
+(2)
+(A)
+ The first report under paragraph (1) shall set forth each acquisition baseline required by subsection (a) for a program element or major subprogram.
+
+
+
+
+(B)
+ Each subsequent report under paragraph (1) shall include—
+(i)
+ any new acquisition baselines required by subsection (a) for a program element or major subprogram; and
+
+
+
+
+(ii)
+ with respect to an acquisition baseline that was previously included in a report under paragraph (1), an identification of any changes or variances made to the elements described in subsection (b) for such acquisition baseline, as compared to—
+(I)
+ the initial acquisition baseline for such program element or major subprogram; and
+
+
+
+
+(II)
+ the acquisition baseline for such program element or major subprogram that was submitted in the report during the previous year.
+
+
+
+
+
+
+
+
+
+
+(3)
+ Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+
+
+
+(d)
+ 
+Exception to Limitation on Revision
+.—
+The Director may adjust or revise an acquisition baseline established under this section if the Director submits to the congressional defense committees notification of—
+(1)
+ a justification for such adjustment or revision;
+
+
+
+
+(2)
+ the specific adjustments or revisions made to the acquisition baseline, including to the elements described in subsection (b); and
+
+
+
+
+(3)
+ the effective date of the adjusted or revised acquisition baseline.
+
+
+
+
+(e)
+ 
+Operations and Sustainment Cost Estimates
+.—
+The Director shall ensure that each life-cycle cost estimate included in an acquisition baseline pursuant to subsection (b)(3)(A) includes—
+(1)
+ all of the operations and sustainment costs for which the Director is responsible; and
+
+
+
+
+(2)
+ a description of the operations and sustainment functions and costs for which a military department is responsible.
+
+
+
+
+ Repealed. 
+ Repealed. 
+ Biannual reports on allocation of funds within operation and maintenance budget subactivities
+(a)
+ 
+Biannual Report
+.—
+The Secretary of Defense shall submit to the congressional defense committees a biannual report on the allocation of appropriations to O&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the two fiscal-year quarters to which the report pertains.
+
+
+(b)
+ 
+Matters To Be Included
+.—
+Each such report shall set forth the following for each subactivity of the O&M budget activities:
+(1)
+ The amount of budget authority appropriated for that subactivity in the most recent regular Department of Defense Appropriations Act.
+
+
+
+
+(2)
+ The amount of budget authority actually made available for that subactivity, taking into consideration supplemental appropriations, rescissions, and other adjustments required by law or made pursuant to law.
+
+
+
+
+(3)
+ The amount programmed to be expended from such subactivity.
+
+
+
+
+(c)
+ 
+Identification of Certain Fluctuations
+.—
+If, in the report under this section for the second two fiscal-year quarters of a fiscal year, an amount shown under subsection (b) for a subactivity is different by more than $15,000,000 from the corresponding amount for that subactivity in the report for the first two fiscal-year quarters of that fiscal year, the Secretary shall include in the report notice of that difference.
+
+
+(d)
+ 
+Report on Fluctuations
+.—
+If a report under this section includes a notice under subsection (c), the Secretary shall include in the report with each such notice the following:
+(1)
+ The reasons for the reallocations of funds resulting in the inclusion of that notice in the report.
+
+
+
+
+(2)
+ Each budget subactivity involved in those reallocations.
+
+
+
+
+(3)
+ The effect of those reallocations on the operation and maintenance activities funded through the subactivity with respect to which the notice is included in the report.
+
+
+
+
+(e)
+ O&M 
+Budget Activity Defined
+.—
+In this section, the term “O&M budget activity” means a budget activity within an operation and maintenance appropriation of the Department of Defense for a fiscal year.
+
+
+ Programs for combating terrorism: display of budget information
+(a)
+ 
+Submission With Annual Budget Justification Documents
+.—
+The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President’s annual budget for the Department of Defense, a consolidated budget justification display, in classified and unclassified form, that includes all programs and activities of the Department of Defense combating terrorism program.
+
+
+(b)
+ 
+Requirements for Budget Display
+.—
+The budget display under subsection (a) shall include—
+(1)
+ the amount requested, by appropriation and functional area, for each of the program elements, projects, and initiatives that support the Department of Defense combating terrorism program, with supporting narrative descriptions and rationale for the funding levels requested; and
+
+
+
+
+(2)
+ a summary, to the program element and project level of detail, of estimated expenditures for the current year, funds requested for the budget year, and budget estimates through the completion of the current future-years defense plan for the Department of Defense combating terrorism program.
+
+
+
+
+(c)
+ 
+Explanation of Inconsistencies
+.—
+As part of the budget display under subsection (a) for any fiscal year, the Secretary shall identify and explain—
+(1)
+ any inconsistencies between (A) the information submitted under subsection (b) for that fiscal year, and (B) the information provided to the Director of the Office of Management and Budget in support of the annual report of the President to Congress on funding for executive branch counterterrorism and antiterrorism programs and activities for that fiscal year in accordance with section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998 (
+31 U.S.C. 1113
+ note); and
+
+
+
+
+(2)
+ any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
+
+
+
+
+(d)
+ 
+Semiannual Reports on Obligations and Expenditures
+.—
+The Secretary shall submit to the congressional defense committees a semiannual report on the obligation and expenditure of funds for the Department of Defense combating terrorism program. Such reports shall be submitted not later than April 15 each year, with respect to the first half of a fiscal year, and not later than November 15 each year, with respect to the second half of a fiscal year. Each such report shall compare the amounts of those obligations and expenditures to the amounts authorized and appropriated for the Department of Defense combating terrorism program for that fiscal year, by budget activity, sub-budget activity, and program element or line item. The second report for a fiscal year shall show such information for the second half of the fiscal year and cumulatively for the whole fiscal year. The report shall be submitted in unclassified form, but may have a classified annex.
+
+
+(e)
+ 
+Department of Defense Combating Terrorism Program
+.—
+In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
+
+
+“(a)
+ 
+Prioritization of Funds
+.—
+The Secretary of Defense shall take such steps as may be necessary through the planning, programming, budgeting, and execution systems of the Department of Defense to ensure that financial resources are provided for each fiscal year as necessary to enable—
+“(1)
+ the Secretary of each military department to meet the requirements of that military department for that fiscal year for the repair, recapitalization, and replacement of equipment used in overseas contingency operations; and
+
+
+
+
+“(2)
+ the Secretary of the Army to meet the requirements of the Army, and the Secretary of the Navy to meet the requirements of the Marine Corps, for that fiscal year, in addition to the requirements under paragraph (1), for the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the policy or strategy implemented under the guidelines in 
+section 2229 of title 10
+, United States Code.
+
+
+
+
+“(b)
+ Submission of Budget Information.—
+“(1)
+ 
+Submission of information
+.—
+As part of the budget justification materials submitted to Congress in support of the President’s budget for a fiscal year or a request for supplemental appropriations, the Secretary of Defense shall include the following:
+“(A)
+ The information described in paragraph (2) for the fiscal year for which the budget justification materials are submitted, the fiscal year during which the materials are submitted, and the preceding fiscal year.
+
+
+
+
+“(B)
+ The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program.
+
+
+
+
+“(C)
+ A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B).
+
+
+
+
+
+
+“(2)
+ 
+Information described
+.—
+The information described in this paragraph is information that clearly and separately identifies, by appropriations account, budget activity, activity group, sub-activity group, and program element or line item, the amounts requested for the programs, projects, and activities of—
+“(A)
+ each of the military departments for the repair, recapitalization, or replacement of equipment used in overseas contingency operations; and
+
+
+
+
+“(B)
+ the Army and the Marine Corps for the reconstitution of equipment and materiel in prepositioned stocks.
+
+
+
+
+
+
+“(c)
+ 
+Contingency Operation Defined
+.—
+In this section, the term ‘contingency operation’ has the meaning given that term in 
+section 101(a)(13) of title 10
+, United States Code.”
+
+
+ Repealed. 
+ Budgeting for construction of naval vessels: annual plan and certification
+(a)
+ 
+Annual Naval Vessel Construction Plan and Certification
+.—
+The Secretary of Defense shall include with the defense budget materials for a fiscal year—
+(1)
+ a plan for the construction of combatant and support vessels for the Navy developed in accordance with this section; and
+
+
+
+
+(2)
+ a certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under 
+section 221 of this title
+ provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
+
+
+
+
+(b)
+ 
+Annual Naval Vessel Construction Plan
+.—
+(1)
+ The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (
+50 U.S.C. 404a
+),
+1
+1
+ See References in Text note below.
+ except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent quadrennial defense review.
+
+
+
+
+(2)
+ Each such naval vessel construction plan shall include the following:
+(A)
+ A detailed program for the construction of combatant and support vessels for the Navy over the next 30 fiscal years.
+
+
+
+
+(B)
+ A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+
+
+
+
+(C)
+ The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+
+
+
+
+(D)
+ The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
+
+
+
+
+
+
+(c)
+ 
+Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements
+.—
+If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under 
+section 179 of this title
+.
+
+
+(d)
+ 
+CBO Evaluation
+.—
+Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under 
+section 221 of this title
+.
+
+
+(e)
+ 
+Limitation on Availability of Funds for Fiscal Years Without Plan and Certification
+.—
+(1)
+ If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
+
+
+
+
+(2)
+ The funds described in this paragraph are funds made available to the Secretary of the Navy for operation and maintenance, Navy, for emergencies and extraordinary expenses.
+
+
+
+
+(f)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under 
+section 1105(a) of title 31
+.
+
+
+
+
+(2)
+ The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+
+
+
+(3)
+ The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under 
+section 118 of this title
+.
+
+
+
+
+ Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification
+(a)
+ 
+Annual Aircraft Procurement Plan and Certification
+.—
+Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees—
+(1)
+ a plan for the procurement of the aircraft specified in subsection (b) for the Department of the Navy, the Department of the Army, and the Department of the Air Force developed in accordance with this section; and
+
+
+
+
+(2)
+ a certification by the Secretary that both the budget for such fiscal year and the future-years defense program submitted to Congress in relation to such budget under 
+section 221 of this title
+ provide for funding of the procurement of aircraft at a level that is sufficient for the procurement of the aircraft provided for in the plan under paragraph (1) on the schedule provided in the plan.
+
+
+
+
+(b)
+ 
+Covered Aircraft
+.—
+The aircraft specified in this subsection are the aircraft as follows:
+(1)
+ Fighter aircraft.
+
+
+
+
+(2)
+ Attack aircraft.
+
+
+
+
+(3)
+ Bomber aircraft.
+
+
+
+
+(4)
+ Intertheater lift aircraft.
+
+
+
+
+(5)
+ Intratheater lift aircraft.
+
+
+
+
+(6)
+ Intelligence, surveillance, and reconnaissance aircraft.
+
+
+
+
+(7)
+ Tanker aircraft.
+
+
+
+
+(8)
+ Remotely piloted aircraft.
+
+
+
+
+(9)
+ Rotary-wing aircraft.
+
+
+
+
+(10)
+ Operational support and executive lift aircraft.
+
+
+
+
+(11)
+ Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
+
+
+
+
+(c)
+ 
+Annual Aircraft Procurement Plan
+.—
+(1)
+ The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (
+50 U.S.C. 404a
+),
+1
+1
+ See References in Text note below.
+ except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
+
+
+
+
+(2)
+ Each annual aircraft procurement plan shall include the following:
+(A)
+ A detailed program for the procurement of the aircraft specified in subsection (b) for each of the Department of the Navy, the Department of the Army, and the Department of the Air Force over the next 30 fiscal years.
+
+
+
+
+(B)
+ A description of the necessary aviation force structure to meet the requirements of the national military strategy of the United States or the most recent Quadrennial Defense Review, whichever is applicable under paragraph (1).
+
+
+
+
+(C)
+ The estimated levels of annual investment funding necessary to carry out each aircraft program, together with a discussion of the procurement strategies on which such estimated levels of annual investment funding are based, set forth in aggregate for the Department of Defense and in aggregate for each military department.
+
+
+
+
+(D)
+ The estimated level of annual funding necessary to operate, maintain, sustain, and support each aircraft program throughout the life-cycle of the program, set forth in aggregate for the Department of Defense and in aggregate for each military department.
+
+
+
+
+(E)
+ For each of the cost estimates required by subparagraphs (C) and (D)—
+(i)
+ a description of whether the cost estimate is derived from the cost estimate position of the military department or derived from the cost estimate position of the Cost Analysis and Program Evaluation office of the Secretary of Defense;
+
+
+
+
+(ii)
+ if the cost estimate position of the military department and the cost estimate position of the Cost Analysis and Program Evaluation office differ by more than .5 percent for any aircraft program, an annotated cost estimate difference and sufficient rationale to explain the difference; and
+
+
+
+
+(iii)
+ the confidence or certainty level associated with the cost estimate for each aircraft program.
+
+
+
+
+
+
+(F)
+ An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Navy, the Department of the Army, and the Department of the Air Force meet the national security requirements of the United States.
+
+
+
+
+
+
+(3)
+ For any cost estimate required by paragraph (2)(C) or (D), for any aircraft program for which the Secretary is required to include in a report under 
+section 2432 of this title
+, the source of the cost information used to prepare the annual aircraft plan, shall be sourced from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft plan is prepared.
+
+
+
+
+(4)
+ The annual aircraft procurement plan shall be submitted in unclassified form and shall contain a classified annex.
+
+
+
+
+(d)
+ 
+Assessment When Aircraft Procurement Budget Is Insufficient To Meet Applicable Requirements
+.—
+If the budget for a fiscal year provides for funding of the procurement of aircraft for either the Department of the Navy, the Department of the Army, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
+
+
+(e)
+ 
+Annual Report on Aircraft Inventory
+.—
+(1)
+ As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense. Each such report shall include the following, for the year covered by the report:
+(A)
+ The total number of aircraft in the inventory.
+
+
+
+
+(B)
+ The total number of the aircraft in the inventory that are active, stated in the following categories (with appropriate subcategories for mission aircraft, training aircraft, dedicated test aircraft, and other aircraft):
+(i)
+ Primary aircraft.
+
+
+
+
+(ii)
+ Backup aircraft.
+
+
+
+
+(iii)
+ Attrition and reconstitution reserve aircraft.
+
+
+
+
+
+
+(C)
+ The total number of the aircraft in the inventory that are inactive, stated in the following categories:
+(i)
+ Bailment aircraft.
+
+
+
+
+(ii)
+ Drone aircraft.
+
+
+
+
+(iii)
+ Aircraft for sale or other transfer to foreign governments.
+
+
+
+
+(iv)
+ Leased or loaned aircraft.
+
+
+
+
+(v)
+ Aircraft for maintenance training.
+
+
+
+
+(vi)
+ Aircraft for reclamation.
+
+
+
+
+(vii)
+ Aircraft in storage.
+
+
+
+
+
+
+(D)
+ The aircraft inventory requirements approved by the Joint Chiefs of Staff.
+
+
+
+
+
+
+(2)
+ Each report submitted under this subsection shall set forth each item described in paragraph (1) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
+
+
+
+
+(f)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under 
+section 1105(a) of title 31
+.
+
+
+
+
+(2)
+ The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under 
+section 118 of this title
+.
+
+
+
+
+ Repealed. 
+ Operation and maintenance budget presentation
+(a)
+ 
+Identification of Baseline Amounts in O&M Justification Documents
+.—
+In any case in which the amount requested in the President’s budget for a fiscal year for a Department of Defense operation and maintenance program, project, or activity is different from the amount appropriated for that program, project, or activity for the current year, the O&M justification documents supporting that budget shall identify that appropriated amount and the difference between that amount and the amount requested in the budget, stated as an amount and as a percentage.
+
+
+(b)
+ 
+Navy for Ship Depot Maintenance and for Intermediate Ship Maintenance
+.—
+In the O&M justification documents for the Navy for any fiscal year, amounts requested for ship depot maintenance and amounts requested for intermediate ship maintenance shall be identified and distinguished.
+
+
+(c)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The term “O&M justification documents” means Department of Defense budget justification documents with respect to accounts for operation and maintenance submitted to the congressional defense committees in support of the Department of Defense component of the President’s budget for any fiscal year.
+
+
+
+
+(2)
+ The term “President’s budget” means the budget of the President submitted to Congress under 
+section 1105 of title 31
+ for any fiscal year.
+
+
+
+
+(3)
+ The term “current year” means the fiscal year during which the President’s budget is submitted in any year.
+
+
+
+
+ POW/MIA activities: display of budget information
+(a)
+ 
+Submission With Annual Budget Justification Documents
+.—
+The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for a fiscal year, a consolidated budget justification display, in classified and unclassified form, that covers all programs and activities of Department of Defense POW/MIA accounting and recovery organizations.
+
+
+(b)
+ 
+Requirements for Budget Display
+.—
+The budget display under subsection (a) for a fiscal year shall include for each such organization the following:
+(1)
+ A statement of what percentage of the requirements originally requested by the organization in the budget review process that the budget requests funds for.
+
+
+
+
+(2)
+ A summary of actual or estimated expenditures by that organization for the fiscal year during which the budget is submitted and for the fiscal year preceding that year.
+
+
+
+
+(3)
+ The amount in the budget for that organization.
+
+
+
+
+(4)
+ A detailed explanation of the shortfalls, if any, in the funding of any requirement shown pursuant to paragraph (1), when compared to the amount shown pursuant to paragraph (3).
+
+
+
+
+(5)
+ The budget estimate for that organization for the five fiscal years after the fiscal year for which the budget is submitted.
+
+
+
+
+(c)
+ 
+Department of Defense POW/MIA Accounting and Recovery Organizations
+.—
+In this section, the term “Department of Defense POW/MIA accounting and recovery organization” means any of the following (and any successor organization):
+(1)
+ The Defense Prisoner of War/Missing Personnel Office (DPMO).
+
+
+
+
+(2)
+ The Joint POW/MIA Accounting Command (JPAC).
+
+
+
+
+(3)
+ The Armed Forces DNA Identification Laboratory (AFDIL).
+
+
+
+
+(4)
+ The Life Sciences Equipment Laboratory (LSEL) of the Air Force.
+
+
+
+
+(5)
+ Any other element of the Department of Defense the mission of which (as designated by the Secretary of Defense) involves the accounting for and recovery of members of the armed forces who are missing in action or prisoners of war or who are unaccounted for.
+
+
+
+
+(d)
+ 
+Other Definitions
+.—
+In this section:
+(1)
+ The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+
+
+
+(2)
+ The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under 
+section 1105(a) of title 31
+.
+
+
+
+
+ Procurement of contract services: specification of amounts requested in budget
+(a)
+ 
+Submission With Annual Budget Justification Materials
+.—
+In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under 
+section 1105(a) of title 31
+), the Secretary of Defense shall include the information described in subsection (b) with respect to the procurement of contract services.
+
+
+(b)
+ 
+Information Provided
+.—
+For each budget account, the materials submitted shall clearly and separately identify—
+(1)
+ the amount requested for the procurement of contract services for each Department of Defense component, installation, or activity; and
+
+
+
+
+(2)
+ the number of full-time contractor employees (or the equivalent of full-time in the case of part-time contractor employees) projected and justified for each Department of Defense component, installation, or activity based on the inventory of contracts for services required by subsection (c) of 
+section 2330a of this title
+ and the review required by subsection (e) of such section.
+
+
+
+
+(c)
+ 
+Contract Services Defined
+.—
+In this section, the term “contract services”—
+(1)
+ means services from contractors; but
+
+
+
+
+(2)
+ excludes services relating to research and development and services relating to military construction.
+
+
+
+
+ Personal protection equipment procurement: display of budget information
+(a)
+ 
+Budget Justification Display
+.—
+The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for each fiscal year after fiscal year 2014, a consolidated budget justification display that covers all programs and activities associated with the procurement of personal protection equipment during the period covered by the future-years defense program submitted in that fiscal year under section 221.
+
+
+(b)
+ 
+Requirements for Budget Display
+.—
+The consolidated budget justification display under subsection (a) for a fiscal year shall include the following:
+(1)
+ The amount for personal protection equipment included in both the base budget of the President and any overseas contingency operations budget of the President.
+
+
+
+
+(2)
+ A brief description of each category of personal protection equipment for each military department planned to be procured and developed.
+
+
+
+
+(3)
+ For each category planned to be procured using funds made available for operation and maintenance (whether under the base budget or any overseas contingency operations budget)—
+(A)
+ the relevant appropriations account, budget activity, and subactivity group for the category; and
+
+
+
+
+(B)
+ the funding profile for the fiscal year as requested, including cost and quantities, and an estimate of projected investments or procurements for each of the subsequent five fiscal years.
+
+
+
+
+
+
+(4)
+ For each category planned to be developed using funds made available for research, development, test, and evaluation (whether under the base budget or any overseas contingency operations budget)—
+(A)
+ the relevant appropriations account, program, project or activity; program element number, and line number; and
+
+
+
+
+(B)
+ the funding profile for the fiscal year as requested and an estimate of projected investments for each of the subsequent five fiscal years.
+
+
+
+
+
+
+(c)
+ 
+Definitions
+.—
+In this section:
+(1)
+ The terms “budget” and “defense budget materials” have the meaning given those terms in 
+section 234 of this title
+.
+
+
+
+
+(2)
+ The term “category of personal protection equipment” means the following:
+(A)
+ Body armor components.
+
+
+
+
+(B)
+ Combat helmets.
+
+
+
+
+(C)
+ Combat protective eyewear.
+
+
+
+
+(D)
+ Other items as determined appropriate by the Secretary.
+
+
+
+
+
+
+ Embedded mental health providers of the reserve components: display of budget information
+The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President’s annual budget for the Department of Defense, a budget justification display with respect to embedded mental health providers within each reserve component, including the amount requested for each such component.

@@ -1,0 +1,2236 @@
+
+Chapter 67
+AQUATIC NUISANCE PREVENTION AND CONTROL
+ Findings and purposes
+(a)
+ Findings
+The Congress finds that—
+(1)
+ the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductions of nonindigenous species to fresh, brackish, and saltwater environments;
+
+
+
+
+(2)
+ when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carry diseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
+
+
+
+
+(3)
+ the zebra mussel was unintentionally introduced into the Great Lakes and has infested—
+(A)
+ waters south of the Great Lakes, into a good portion of the Mississippi River drainage;
+
+
+
+
+(B)
+ waters west of the Great Lakes, into the Arkansas River in Oklahoma; and
+
+
+
+
+(C)
+ waters east of the Great Lakes, into the Hudson River and Lake Champlain;
+
+
+
+
+
+
+(4)
+ the potential economic disruption to communities affected by the zebra mussel due to its colonization of water pipes, boat hulls and other hard surfaces has been estimated at $5,000,000,000 by the year 2000, and the potential disruption to the diversity and abundance of native fish and other species by the zebra mussel and ruffe, round goby, and other nonindigenous species could be severe;
+
+
+
+
+(5)
+ the zebra mussel was discovered on Lake Champlain during 1993 and the opportunity exists to act quickly to establish zebra mussel controls before Lake Champlain is further infested and management costs escalate;
+
+
+
+
+(6)
+ in 1992, the zebra mussel was discovered at the northernmost reaches of the Chesapeake Bay watershed;
+
+
+
+
+(7)
+ the zebra mussel poses an imminent risk of invasion in the main waters of the Chesapeake Bay;
+
+
+
+
+(8)
+ since the Chesapeake Bay is the largest recipient of foreign ballast water on the East Coast, there is a risk of further invasions of other nonindigenous species;
+
+
+
+
+(9)
+ the zebra mussel is only one example of thousands of nonindigenous species that have become established in waters of the United States and may be causing economic and ecological degradation with respect to the natural resources of waters of the United States;
+
+
+
+
+(10)
+ since their introduction in the early 1980’s in ballast water discharges, ruffe—
+(A)
+ have caused severe declines in populations of other species of fish in Duluth Harbor (in Minnesota and Wisconsin);
+
+
+
+
+(B)
+ have spread to Lake Huron; and
+
+
+
+
+(C)
+ are likely to spread quickly to most other waters in North America if action is not taken promptly to control their spread;
+
+
+
+
+
+
+(11)
+ examples of nonindigenous species that, as of 
+October 26, 1996
+, infest coastal waters of the United States and that have the potential for causing adverse economic and ecological effects include—
+(A)
+ the mitten crab (Eriocher sinensis) that has become established on the Pacific Coast;
+
+
+
+
+(B)
+ the green crab (Carcinus maenas) that has become established in the coastal waters of the Atlantic Ocean;
+
+
+
+
+(C)
+ the brown mussel (Perna perna) that has become established along the Gulf of Mexico; and
+
+
+
+
+(D)
+ certain shellfish pathogens;
+
+
+
+
+
+
+(12)
+ many aquatic nuisance vegetation species, such as Eurasian watermilfoil, hydrilla, water hyacinth, and water chestnut, have been introduced to waters of the United States from other parts of the world causing or having a potential to cause adverse environmental, ecological, and economic effects;
+
+
+
+
+(13)
+ if preventive management measures are not taken nationwide to prevent and control unintentionally introduced nonindigenous aquatic species in a timely manner, further introductions and infestations of species that are as destructive as, or more destructive than, the zebra mussel or the ruffe infestations may occur;
+
+
+
+
+(14)
+ once introduced into waters of the United States, aquatic nuisance species are unintentionally transported and introduced into inland lakes and rivers by recreational boaters, commercial barge traffic, and a variety of other pathways; and
+
+
+
+
+(15)
+ resolving the problems associated with aquatic nuisance species will require the participation and cooperation of the Federal Government and State governments, and investment in the development of prevention technologies.
+
+
+
+
+(b)
+ Purposes
+The purposes of this chapter are—
+(1)
+ to prevent unintentional introduction and dispersal of nonindigenous species into waters of the United States through ballast water management and other requirements;
+
+
+
+
+(2)
+ to coordinate federally conducted, funded or authorized research, prevention 
+1
+1
+ So in original. Probably should be followed by a comma.
+ control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
+
+
+
+
+(3)
+ to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
+
+
+
+
+(4)
+ to understand and minimize economic and ecological impacts of nonindigenous aquatic nuisance species that become established, including the zebra mussel; and
+
+
+
+
+(5)
+ to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.
+
+
+
+
+ Definitions
+ Aquatic nuisance species in waters of United States
+(a)
+ Great Lakes guidelines
+(1)
+ In general
+Not later than 6 months after 
+November 29, 1990
+, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the exchange of ballast water of vessels prior to entering those waters.
+
+
+
+
+
+
+(2)
+ Content of guidelines
+The guidelines issued under this subsection shall—
+(A)
+ ensure to the maximum extent practicable that ballast water containing aquatic nuisance species is not discharged into the Great Lakes;
+
+
+
+
+(B)
+ protect the safety of—
+(i)
+ each vessel; and
+
+
+
+
+(ii)
+ the crew and passengers of each vessel;
+
+
+
+
+
+
+(C)
+ take into consideration different vessel operating conditions; and
+
+
+
+
+(D)
+ be based on the best scientific information available.
+
+
+
+
+
+
+(b)
+ Regulations
+(1)
+ In general
+Not later than 2 years after 
+November 29, 1990
+, the Secretary, in consultation with the Task Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
+
+
+
+
+
+
+(2)
+ Content of regulations
+The regulations issued under this subsection shall—
+(A)
+ apply to all vessels equipped with ballast water tanks that enter a United States port on the Great Lakes after operating on the waters beyond the exclusive economic zone;
+
+
+
+
+(B)
+ require a vessel to—
+(i)
+ carry out exchange of ballast water on the waters beyond the exclusive economic zone prior to entry into any port within the Great Lakes;
+
+
+
+
+(ii)
+ carry out an exchange of ballast water in other waters where the exchange does not pose a threat of infestation or spread of aquatic nuisance species in the Great Lakes and other waters of the United States, as recommended by the Task Force under 
+section 4712(a)(1) of this title
+; or
+
+
+
+
+(iii)
+ use environmentally sound alternative ballast water management methods if the Secretary determines that such alternative methods are as effective as ballast water exchange in preventing and controlling infestations of aquatic nuisance species;
+
+
+
+
+
+
+(C)
+ not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (
+33 U.S.C. 1251
+ et seq.);
+
+
+
+
+(D)
+ provide for sampling procedures to monitor compliance with the requirements of the regulations;
+
+
+
+
+(E)
+ prohibit the operation of a vessel in the Great Lakes if the master of the vessel has not certified to the Secretary or the Secretary’s designee by not later than the departure of that vessel from the first lock in the St. Lawrence Seaway that the vessel has complied with the requirements of the regulations;
+
+
+
+
+(F)
+ protect the safety of—
+(i)
+ each vessel; and
+
+
+
+
+(ii)
+ the crew and passengers of each vessel;
+
+
+
+
+
+
+(G)
+ take into consideration different operating conditions; and
+
+
+
+
+(H)
+ be based on the best scientific information available.
+
+
+
+
+
+
+(3)
+ Additional regulations
+In addition to promulgating regulations under paragraph (1), the Secretary, in consultation with the Task Force, shall, not later than 
+November 4, 1994
+, issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through ballast water carried on vessels that enter a United States port on the Hudson River north of the George Washington Bridge.
+
+
+
+
+
+
+(4)
+ Education and technical assistance programs
+The Secretary may carry out education and technical assistance programs and other measures to promote compliance with the regulations issued under this subsection.
+
+
+
+
+
+
+(c)
+ Voluntary national guidelines
+(1)
+ In general
+Not later than 1 year after 
+October 26, 1996
+, and after providing notice and an opportunity for public comment, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of nonindigenous species in waters of the United States by ballast water operations and other operations of vessels equipped with ballast water tanks.
+
+
+
+
+
+
+(2)
+ Content of guidelines
+The voluntary guidelines issued under this subsection shall—
+(A)
+ ensure to the maximum extent practicable that aquatic nuisance species are not discharged into waters of the United States from vessels;
+
+
+
+
+(B)
+ apply to all vessels equipped with ballast water tanks that operate in waters of the United States;
+
+
+
+
+(C)
+ protect the safety of—
+(i)
+ each vessel; and
+
+
+
+
+(ii)
+ the crew and passengers of each vessel;
+
+
+
+
+
+
+(D)
+ direct a vessel that is carrying ballast water into waters of the United States after operating beyond the exclusive economic zone to—
+(i)
+ carry out the exchange of ballast water of the vessel in waters beyond the exclusive economic zone;
+
+
+
+
+(ii)
+ exchange the ballast water of the vessel in other waters where the exchange does not pose a threat of infestation or spread of nonindigenous species in waters of the United States, as recommended by the Task Force under 
+section 4712(a)(1) of this title
+; or
+
+
+
+
+(iii)
+ use environmentally sound alternative ballast water management methods, including modification of the vessel ballast water tanks and intake systems, if the Secretary determines that such alternative methods are at least as effective as ballast water exchange in preventing and controlling infestations of aquatic nuisance species;
+
+
+
+
+
+
+(E)
+ direct vessels to carry out management practices that the Secretary determines to be necessary to reduce the probability of unintentional nonindigenous species transfer resulting from—
+(i)
+ ship operations other than ballast water discharge; and
+
+
+
+
+(ii)
+ ballasting practices of vessels that enter waters of the United States with no ballast water on board;
+
+
+
+
+
+
+(F)
+ provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i) of this section, in order to enable the Secretary to determine compliance with the guidelines, including—
+(i)
+ with respect to each ballast water exchange referred to in clause (ii), reporting on the precise location and thoroughness of the exchange; and
+
+
+
+
+(ii)
+ any other information that the Secretary considers necessary to assess the rate of effective compliance with the guidelines;
+
+
+
+
+
+
+(G)
+ provide for sampling procedures to monitor compliance with the guidelines;
+
+
+
+
+(H)
+ take into consideration—
+(i)
+ vessel types;
+
+
+
+
+(ii)
+ variations in the characteristics of point of origin and receiving water bodies;
+
+
+
+
+(iii)
+ variations in the ecological conditions of waters and coastal areas of the United States; and
+
+
+
+
+(iv)
+ different operating conditions;
+
+
+
+
+
+
+(I)
+ be based on the best scientific information available;
+
+
+
+
+(J)
+ not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (
+33 U.S.C. 1251
+ et seq.); and
+
+
+
+
+(K)
+ provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
+
+
+
+
+(L)
+ not apply to crude oil tankers engaged in the coastwise trade.
+
+
+
+
+
+
+(3)
+ Education and technical assistance programs
+Not later than 1 year after 
+October 26, 1996
+, the Secretary shall carry out education and technical assistance programs and other measures to encourage compliance with the guidelines issued under this subsection.
+
+
+
+
+
+
+(d)
+ Report to Congress
+Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
+
+
+
+
+(e)
+ Periodic review and revision
+(1)
+ In general
+Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c) of this section, and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
+(A)
+ assess the compliance by vessels with the voluntary guidelines issued under subsection (c) of this section and the regulations promulgated under this chapter;
+
+
+
+
+(B)
+ establish the rate of compliance that is based on the assessment under subparagraph (A);
+
+
+
+
+(C)
+ assess the effectiveness of the voluntary guidelines and regulations referred to in subparagraph (A) in reducing the introduction and spread of aquatic nuisance species by vessels; and
+
+
+
+
+(D)
+ as necessary, on the basis of the best scientific information available—
+(i)
+ revise the guidelines and regulations referred to in subparagraph (A);
+
+
+
+
+(ii)
+ promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+
+
+
+
+(iii)
+ carry out each of clauses (i) and (ii).
+
+
+
+
+
+
+
+
+(2)
+ Special review and revision
+Not later than 90 days after the Task Force makes a request to the Secretary for a special review and revision for coastal and inland waterways designated by the Task Force, the Secretary shall—
+(A)
+ conduct a special review of guidelines and regulations applicable to those waterways in accordance with the review procedures under paragraph (1); and
+
+
+
+
+(B)
+ as necessary, in the same manner as provided under paragraph (1)(D)—
+(i)
+ revise those guidelines;
+
+
+
+
+(ii)
+ promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+
+
+
+
+(iii)
+ carry out each of clauses (i) and (ii).
+
+
+
+
+
+
+
+
+(3)
+ Criteria for effectiveness
+Not later than 18 months after 
+October 26, 1996
+, the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c) of this section.
+
+
+
+
+
+
+(f)
+ Authority of Secretary
+(1)
+ General regulations
+If, on the basis of a periodic review conducted under subsection (e)(1) of this section or a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
+(A)
+ the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) of this section is inadequate; or
+
+
+
+
+(B)
+ the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2) of this section,
+
+
+
+
+
+the Secretary shall promptly promulgate regulations that meet the requirements of paragraph (2).
+
+
+
+
+(2)
+ Requirements for regulations
+The regulations promulgated by the Secretary under paragraph (1)—
+(A)
+ shall—
+(i)
+ not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d) of this section;
+
+
+
+
+(ii)
+ make mandatory the requirements included in the voluntary guidelines issued under subsection (c) of this section; and
+
+
+
+
+(iii)
+ provide for the enforcement of the regulations; and
+
+
+
+
+
+
+(B)
+ may be regional in scope.
+
+
+
+
+
+
+(3)
+ International regulations
+The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
+
+
+
+
+
+
+(g)
+ Sanctions
+(1)
+ Civil penalties
+Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
+
+
+
+
+
+
+(2)
+ Criminal penalties
+Any person who knowingly violates the regulations promulgated under subsection (b) or (f) of this section is guilty of a class C felony.
+
+
+
+
+
+
+(3)
+ Revocation of clearance
+Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by 
+section 60105 of title 46
+, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
+
+
+
+
+
+
+(4)
+ Exception to sanctions
+This subsection does not apply to a failure to exchange ballast water if—
+(A)
+ the master of a vessel, acting in good faith, decides that the exchange of ballast water will threaten the safety or stability of the vessel, its crew, or its passengers; and
+
+
+
+
+(B)
+ the recordkeeping and reporting requirements of this chapter are complied with.
+
+
+
+
+
+
+(h)
+ Coordination with other agencies
+In carrying out the programs under this section, the Secretary is encouraged to use, to the maximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
+
+
+
+
+(i)
+ Consultation with Canada, Mexico, and other foreign governments
+In developing the guidelines issued and regulations promulgated under this section, the Secretary is encouraged to consult with the Government of Canada, the Government of Mexico, and any other government of a foreign country that the Secretary, in consultation with the Task Force, determines to be necessary to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
+
+
+
+
+(j)
+ International cooperation
+The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
+
+
+
+
+(k)
+ Safety exemption
+(1)
+ Master discretion
+The master of a vessel is not required to conduct a ballast water exchange if the master decides that the exchange would threaten the safety or stability of the vessel, its crew, or its passengers because of adverse weather, vessel architectural design, equipment failure, or any other extraordinary conditions.
+
+
+
+
+
+
+(2)
+ Other requirements
+(A)
+ In general
+Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
+
+
+
+
+
+
+(B)
+ Great Lakes
+Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b) of this section.
+
+
+
+
+
+
+
+
+(3)
+ Crude oil tanker ballast facility study
+(A)
+ Within 60 days of 
+October 26, 1996
+,
+1
+1
+ See Codification note below.
+ the Secretary of the department in which the Coast Guard is operating, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
+
+
+
+
+(B)
+ The study required under subparagraph (A) shall be submitted to the Congress by no later than 
+October 1, 1997
+.
+
+
+
+
+
+
+(l)
+ Non-discrimination
+The Secretary shall ensure that vessels registered outside of the United States do not receive more favorable treatment than vessels registered in the United States when the Secretary performs studies, reviews compliance, determines effectiveness, establishes requirements, or performs any other responsibilities under this chapter.
+
+
+
+
+ National ballast water management information
+(a)
+ Studies on introduction of aquatic nuisance species by vessels
+(1)
+ Ballast exchange study
+The Task Force, in cooperation with the Secretary, shall conduct a study—
+(A)
+ to assess the environmental effects of ballast water exchange on the diversity and abundance of native species in receiving estuarine, marine, and fresh waters of the United States; and
+
+
+
+
+(B)
+ to identify areas within the waters of the United States and the exclusive economic zone, if any, where the exchange of ballast water does not pose a threat of infestation or spread of aquatic nuisance species in the Great Lakes and other waters of the United States.
+
+
+
+
+
+
+(2)
+ Biological study
+The Task Force, in cooperation with the Secretary, shall conduct a study to determine whether aquatic nuisance species threaten the ecological characteristics and economic uses of Lake Champlain and other waters of the United States other than the Great Lakes.
+
+
+
+
+
+
+(3)
+ Shipping study
+The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other than the Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquatic nuisance species in those waters. The study shall include an examination of—
+(A)
+ the degree to which shipping may be a major pathway of transmission of aquatic nuisance species in those waters;
+
+
+
+
+(B)
+ possible alternatives for controlling introduction of those species through shipping; and
+
+
+
+
+(C)
+ the feasibility of implementing regional versus national control measures.
+
+
+
+
+
+
+(b)
+ Ecological and ballast water discharge surveys
+(1)
+ Ecological surveys
+(A)
+ In general
+The Task Force, in cooperation with the Secretary, shall conduct ecological surveys of the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
+(i)
+ to be highly susceptible to invasion by aquatic nuisance species resulting from ballast water operations and other operations of vessels; and
+
+
+
+
+(ii)
+ to require further study.
+
+
+
+
+
+
+(B)
+ Requirements for surveys
+In conducting the surveys under this paragraph, the Task Force shall, with respect to each such survey—
+(i)
+ examine the attributes and patterns of invasions of aquatic nuisance species; and
+
+
+
+
+(ii)
+ provide an estimate of the effectiveness of ballast water management and other vessel management guidelines issued and regulations promulgated under this subchapter in abating invasions of aquatic nuisance species in the waters that are the subject of the survey.
+
+
+
+
+
+
+
+
+(2)
+ Ballast water discharge surveys
+(A)
+ In general
+The Secretary, in cooperation with the Task Force, shall conduct surveys of ballast water discharge rates and practices in the waters referred to in paragraph (1)(A) on the basis of the criteria under clauses (i) and (ii) of such paragraph.
+
+
+
+
+
+
+(B)
+ Requirements for surveys
+In conducting the surveys under this paragraph, the Secretary shall—
+(i)
+ examine the rate of, and trends in, ballast water discharge in the waters that are the subject of the survey; and
+
+
+
+
+(ii)
+ assess the effectiveness of voluntary guidelines issued, and regulations promulgated, under this subchapter in altering ballast water discharge practices to reduce the probability of accidental introductions of aquatic nuisance species.
+
+
+
+
+
+
+
+
+(3)
+ Columbia River
+The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
+
+
+
+
+
+
+(c)
+ Reports
+(1)
+ Ballast exchange
+Not later than 18 months after 
+November 29, 1990
+, and prior to the effective date of the regulations issued under 
+section 4711(b) of this title
+, the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) of this section and makes recommendations with respect to such regulations.
+
+
+
+
+
+
+(2)
+ Biological and shipping studies
+Not later than 18 months after 
+November 29, 1990
+, the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a) of this section.
+
+
+
+
+
+
+(d)
+ Negotiations
+The Secretary, working through the International Maritime Organization, is encouraged to enter into negotiations with the governments of foreign countries concerning the planning and implementation of measures aimed at the prevention and control of unintentional introductions of aquatic nuisance species in coastal waters.
+
+
+
+
+(e)
+ Regional research grants
+Out of amounts appropriated to carry out this subsection for a fiscal year, the Under Secretary may—
+(1)
+ make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the Chesapeake Bay through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
+
+
+
+
+(2)
+ make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control in the Gulf of Mexico through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
+
+
+
+
+(3)
+ make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Pacific Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
+
+
+
+
+(4)
+ make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Atlantic Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions; and
+
+
+
+
+(5)
+ make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the San Francisco Bay-Delta Estuary through grants, to be competitively awarded and subject to peer review, to universities and research institutions.
+
+
+
+
+(f)
+ National ballast information clearinghouse
+(1)
+ In general
+The Secretary shall develop and maintain, in consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), a clearinghouse of national data concerning—
+(A)
+ ballasting practices;
+
+
+
+
+(B)
+ compliance with the guidelines issued pursuant to 
+section 4711(c) of this title
+; and
+
+
+
+
+(C)
+ any other information obtained by the Task Force under subsection (b) of this section.
+
+
+
+
+
+
+(2)
+ Report
+In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+(A)
+ ballast water delivery and management; and
+
+
+
+
+(B)
+ invasions of aquatic nuisance species resulting from ballast water.
+
+
+
+
+
+
+ Armed services ballast water programs
+(a)
+ Department of Defense vessels
+Subject to operational conditions, the Secretary of Defense, in consultation with the Secretary, the Task Force, and the International Maritime Organization, shall implement a ballast water management program for seagoing vessels of the Department of Defense to minimize the risk of introduction of nonindigenous species from releases of ballast water.
+
+
+
+
+(b)
+ Coast Guard vessels
+Subject to operational conditions, the Secretary, in consultation with the Task Force and the International Maritime Organization, shall implement a ballast water management program for seagoing vessels of the Coast Guard to minimize the risk of introduction of nonindigenous species from releases of ballast water.
+
+
+
+
+ Ballast water management demonstration program
+(a)
+ “Technologies and practices” defined
+For purposes of this section, the term “technologies and practices” means those technologies and practices that—
+(1)
+ may be retrofitted—
+(A)
+ on existing vessels or incorporated in new vessel designs; and
+
+
+
+
+(B)
+ on existing land-based ballast water treatment facilities;
+
+
+
+
+
+
+(2)
+ may be designed into new water treatment facilities;
+
+
+
+
+(3)
+ are operationally practical;
+
+
+
+
+(4)
+ are safe for a vessel and crew;
+
+
+
+
+(5)
+ are environmentally sound;
+
+
+
+
+(6)
+ are cost-effective;
+
+
+
+
+(7)
+ a vessel operator is capable of monitoring; and
+
+
+
+
+(8)
+ are effective against a broad range of aquatic nuisance species.
+
+
+
+
+(b)
+ Demonstration program
+(1)
+ In general
+During the 18-month period beginning on the date that funds are made available by appropriations pursuant to 
+section 4741(e) of this title
+, the Secretary of the Interior and the Secretary of Commerce, with the concurrence of and in cooperation with the Secretary, shall conduct a ballast water management demonstration program to demonstrate technologies and practices to prevent aquatic nonindigenous species from being introduced into and spread through ballast water in the Great Lakes and other waters of the United States.
+
+
+
+
+
+
+(2)
+ Location
+The installation and construction of the technologies and practices used in the demonstration program conducted under this subsection shall be performed in the United States.
+
+
+
+
+
+
+(3)
+ Vessel selection
+In demonstrating technologies and practices on vessels under this subsection, the Secretary of the Interior and the Secretary of Commerce, shall—
+(A)
+ use only vessels that—
+(i)
+ are approved by the Secretary;
+
+
+
+
+(ii)
+ have ballast water systems conducive to testing aboard-vessel or land-based technologies and practices applicable to a significant number of merchant vessels; and
+
+
+
+
+(iii)
+ are—
+(I)
+ publicly or privately owned; and
+
+
+
+
+(II)
+ in active use for trade or other cargo shipment purposes during the demonstration;
+
+
+
+
+
+
+
+
+(B)
+ select vessels for participation in the program by giving priority consideration—
+(i)
+ first, to vessels documented under chapter 121 of title 46;
+
+
+
+
+(ii)
+ second, to vessels that are a majority owned by citizens of the United States, as determined by the Secretary; and
+
+
+
+
+(iii)
+ third, to any other vessels that regularly call on ports in the United States; and
+
+
+
+
+
+
+(C)
+ seek to use a variety of vessel types, including vessels that—
+(i)
+ call on ports in the United States and on the Great Lakes; and
+
+
+
+
+(ii)
+ are operated along major coasts of the United States and inland waterways, including the San Francisco Bay and Chesapeake Bay.
+
+
+
+
+
+
+
+
+(4)
+ Selection of technologies and practices
+In selecting technologies and practices for demonstration under this subsection, the Secretary of the Interior and the Secretary of Commerce shall give priority consideration to technologies and practices identified as promising by the National Research Council Marine Board of the National Academy of Sciences in its report on ships’ ballast water operations issued in July 1996.
+
+
+
+
+
+
+(5)
+ Report
+Not later than 3 years after 
+October 26, 1996
+, the Secretary of the Interior and the Secretary of Commerce shall prepare and submit a report to the Congress on the demonstration program conducted pursuant to this section. The report shall include findings and recommendations of the Secretary of the Interior and the Secretary of Commerce concerning technologies and practices.
+
+
+
+
+
+
+(c)
+ Authorities; consultation and cooperation with International Maritime Organization and Task Force
+(1)
+ Authorities
+In conducting the demonstration program under subsection (b) of this section, the Secretary of the Interior may—
+(A)
+ enter into cooperative agreements with appropriate officials of other agencies of the Federal Government, agencies of States and political subdivisions thereof, and private entities;
+
+
+
+
+(B)
+ accept funds, facilities, equipment, or personnel from other Federal agencies; and
+
+
+
+
+(C)
+ accept donations of property and services.
+
+
+
+
+
+
+(2)
+ Consultation and cooperation
+The Secretary of the Interior shall consult and cooperate with the International Maritime Organization and the Task Force in carrying out this section.
+
+
+
+
+
+
+ Establishment of Task Force
+(a)
+ Task Force
+There is hereby established an “Aquatic Nuisance Species Task Force”.
+
+
+
+
+(b)
+ Membership
+Membership of the Task Force shall consist of—
+(1)
+ the Director;
+
+
+
+
+(2)
+ the Under Secretary;
+
+
+
+
+(3)
+ the Administrator of the Environmental Protection Agency;
+
+
+
+
+(4)
+ the Commandant of the United States Coast Guard;
+
+
+
+
+(5)
+ the Assistant Secretary;
+
+
+
+
+(6)
+ the Secretary of Agriculture; and
+
+
+
+
+(7)
+ the head of any other Federal agency that the chairpersons designated under subsection (d) of this section deem appropriate.
+
+
+
+
+(c)
+ Ex officio members
+The chairpersons designated under subsection (d) of this section shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
+
+
+
+
+(d)
+ Chairpersons
+The Director and the Under Secretary shall serve as co-chairpersons of the Task Force and shall be jointly responsible, and are authorized to undertake such activities as may be necessary, for carrying out this subchapter in consultation and cooperation with the other members of the Task Force.
+
+
+
+
+(e)
+ Memorandum of understanding
+Within six months of 
+November 29, 1990
+, the Director and the Under Secretary shall develop a memorandum of understanding that describes the role of each in jointly carrying out this subchapter.
+
+
+
+
+(f)
+ Coordination
+Each Task Force member shall coordinate any action to carry out this subchapter with any such action by other members of the Task Force, and regional, State and local entities.
+
+
+
+
+ Aquatic nuisance species program
+(a)
+ In general
+The Task Force shall develop and implement a program for waters of the United States to prevent introduction and dispersal of aquatic nuisance species; to monitor, control and study such species; and to disseminate related information.
+
+
+
+
+(b)
+ Content
+The program developed under subsection (a) of this section shall—
+(1)
+ identify the goals, priorities, and approaches for aquatic nuisance species prevention, monitoring, control, education and research to be conducted or funded by the Federal Government;
+
+
+
+
+(2)
+ describe the specific prevention, monitoring, control, education and research activities to be conducted by each Task Force member;
+
+
+
+
+(3)
+ coordinate aquatic nuisance species programs and activities of Task Force members and affected State agencies;
+
+
+
+
+(4)
+ describe the role of each Task Force member in implementing the elements of the program as set forth in this subchapter;
+
+
+
+
+(5)
+ include recommendations for funding to implement elements of the program; and
+
+
+
+
+(6)
+ develop a demonstration program of prevention, monitoring, control, education and research for the zebra mussel, to be implemented in the Great Lakes and any other waters infested, or likely to become infested in the near future, by the zebra mussel.
+
+
+
+
+(c)
+ Prevention
+(1)
+ In general
+The Task Force shall establish and implement measures, within the program developed under subsection (a) of this section, to minimize the risk of introduction of aquatic nuisance species to waters of the United States, including—
+(A)
+ identification of pathways by which aquatic organisms are introduced to waters of the United States;
+
+
+
+
+(B)
+ assessment of the risk that an aquatic organism carried by an identified pathway may become an aquatic nuisance species; and
+
+
+
+
+(C)
+ evaluation of whether measures to prevent introductions of aquatic nuisance species are effective and environmentally sound.
+
+
+
+
+
+
+(2)
+ Implementation
+Whenever the Task Force determines that there is a substantial risk of unintentional introduction of an aquatic nuisance species by an identified pathway and that the adverse consequences of such an introduction are likely to be substantial, the Task Force shall, acting through the appropriate Federal agency, and after an opportunity for public comment, carry out cooperative, environmentally sound efforts with regional, State and local entities to minimize the risk of such an introduction.
+
+
+
+
+
+
+(d)
+ Monitoring
+The Task Force shall establish and implement monitoring measures, within the program developed under subsection (a) of this section, to—
+(1)
+ detect unintentional introductions of aquatic nuisance species;
+
+
+
+
+(2)
+ determine the dispersal of aquatic nuisance species after introduction; and
+
+
+
+
+(3)
+ provide for the early detection and prevention of infestations of aquatic nuisance species in unaffected drainage basins.
+
+
+
+
+(e)
+ Control
+(1)
+ In general
+The Task Force may develop cooperative efforts, within the program established under subsection (a) of this section, to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication of infestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best available scientific information and shall be conducted in an environmentally sound manner.
+
+
+
+
+
+
+(2)
+ Decisions
+The Task Force or any other affected agency or entity may recommend that the Task Force initiate a control effort. In determining whether a control program is warranted, the Task Force shall evaluate the need for control (including the projected consequences of no control and less than full control); the technical and biological feasibility and cost-effectiveness of alternative control strategies and actions; whether the benefits of control, including costs avoided, exceed the costs of the program; the risk of harm to non-target organisms and ecosystems, public health and welfare; and such other considerations the Task Force determines appropriate. The Task Force shall also determine the nature and extent of control of target aquatic nuisance species that is feasible and desirable.
+
+
+
+
+
+
+(3)
+ Programs
+If the Task Force determines in accordance with paragraph (2) that control of an aquatic nuisance species is warranted, the Task Force shall develop a proposed control program to achieve the target level of control. A notice summarizing the proposed action and soliciting comments shall be published in the Federal Register, in major newspapers in the region affected, and in principal trade publications of the industries affected. Within 180 days of proposing a control program, and after consultation with affected governmental and other appropriate entities and taking into consideration other comments received, the Task Force shall complete development of the proposed control program.
+
+
+
+
+
+
+(f)
+ Research
+(1)
+ Priorities
+The Task Force shall, within the program developed under subsection (a) of this section, conduct research concerning—
+(A)
+ the environmental and economic risks and impacts associated with the introduction of aquatic nuisance species into the waters of the United States;
+
+
+
+
+(B)
+ the principal pathways by which aquatic nuisance species are introduced and dispersed;
+
+
+
+
+(C)
+ possible methods for the prevention, monitoring and control of aquatic nuisance species; and
+
+
+
+
+(D)
+ the assessment of the effectiveness of prevention, monitoring and control methods.
+
+
+
+
+
+
+(2)
+ Protocol
+Within 90 days of 
+November 29, 1990
+, the Task Force shall establish and follow a protocol to ensure that research activities carried out under this subchapter do not result in the introduction of aquatic nuisance species to waters of the United States.
+
+
+
+
+
+
+(3)
+ Grants for research
+The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquatic nuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
+
+
+
+
+
+
+(g)
+ Technical assistance
+The Task Force shall, within the program developed under subsection (a) of this section, provide technical assistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
+
+
+
+
+(h)
+ Education
+The Task Force shall, with the program developed under subsection (a) of this section, establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
+
+
+
+
+(i)
+ Zebra mussel demonstration program
+(1)
+ Zebra mussel
+(A)
+ In general
+The Task Force shall, within the program developed under subsection (a) of this section, undertake a program of prevention, monitoring, control, education and research for the zebra mussel to be implemented in the Great Lakes and any other waters of the United States infested or likely to become infested by the zebra mussel, including—
+(i)
+ research and development concerning the species life history, environmental tolerances and impacts on fisheries and other ecosystem components, and the efficacy of control mechanisms and means of avoiding or minimizing impacts;
+
+
+
+
+(ii)
+ tracking the dispersal of the species and establishment of an early warning system to alert likely areas of future infestations;
+
+
+
+
+(iii)
+ development of control plans in coordination with regional, State and local entities; and
+
+
+
+
+(iv)
+ provision of technical assistance to regional, State and local entities to carry out this section.
+
+
+
+
+
+
+(B)
+ Public facility research and development
+The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities. The Assistant Secretary shall collect and make available, through publications and other appropriate means, information pertaining to such control methods.
+
+
+
+
+
+
+(C)
+ Voluntary guidelines
+Not later than 1 year after 
+October 26, 1996
+, the Task Force shall develop and submit to the Secretary voluntary guidelines for controlling the spread of the zebra mussel and, if appropriate, other aquatic nuisance species through recreational activities, including boating and fishing. Not later than 4 months after the date of such submission, and after providing notice and an opportunity for public comment, the Secretary shall issue voluntary guidelines that are based on the guidelines developed by the Task Force under this subparagraph.
+
+
+
+
+
+
+
+
+(2)
+ Dispersal containment analysis
+(A)
+ Research
+The Administrator of the Environmental Protection Agency, in cooperation with the National Science Foundation and the Task Force, shall provide research grants on a competitive basis for projects that—
+(i)
+ identify environmentally sound methods for controlling the dispersal of aquatic nuisance species, such as the zebra mussel; and
+
+
+
+
+(ii)
+ adhere to research protocols developed pursuant to subsection (f)(2) of this section.
+
+
+
+
+
+
+(B)
+ Authorization of appropriations
+There are authorized to be appropriated to the Environmental Protection Agency to carry out this paragraph, $500,000.
+
+
+
+
+
+
+
+
+(3)
+ Dispersal barrier demonstration
+(A)
+ In general
+The Assistant Secretary, in consultation with the Task Force, shall investigate and identify environmentally sound methods for preventing and reducing the dispersal of aquatic nuisance species between the Great Lakes-Saint Lawrence drainage and the Mississippi River drainage through the Chicago River Ship and Sanitary Canal, including any of those methods that could be incorporated into the operation or construction of the lock system of the Chicago River Ship and Sanitary Canal.
+
+
+
+
+
+
+(B)
+ Report
+Not later than 18 months after 
+October 26, 1996
+, the Assistant Secretary shall issue a report to the Congress that includes recommendations concerning—
+(i)
+ which of the methods that are identified under the study conducted under this paragraph are most promising with respect to preventing and reducing the dispersal of aquatic nuisance species; and
+
+
+
+
+(ii)
+ ways to incorporate those methods into ongoing operations of the United States Army Corps of Engineers that are conducted at the Chicago River Ship and Sanitary Canal.
+
+
+
+
+
+
+(C)
+ Authorization of appropriations
+There are authorized to be appropriated to the Department of the Army such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph.
+
+
+
+
+
+
+
+
+(4)
+ Contributions
+To the extent allowable by law, in carrying out the studies under paragraphs (2) and (3), the Administrator of the Environmental Protection Agency and the Secretary of the Army may enter into an agreement with an interested party under which that party provides in kind or monetary contributions for the study.
+
+
+
+
+
+
+(5)
+ Technical assistance
+The Great Lakes Environmental Research Laboratory of the National Oceanic and Atmospheric Administration shall provide technical assistance to appropriate entities to assist in the research conducted pursuant to this subsection.
+
+
+
+
+
+
+(j)
+ Implementation
+(1)
+ Regulations
+The Director, the Secretary, and the Under Secretary may issue such rules and regulations as may be necessary to implement this section.
+
+
+
+
+
+
+(2)
+ Participation of others
+The Task Force shall provide opportunities for affected Federal agencies which are not part of the Task Force, State and local government agencies, and regional and other entities with the necessary expertise to participate in control programs. If these other agencies or entities have sufficient authority or jurisdiction and expertise and where this will be more efficient or effective, responsibility for implementing all or a portion of a control program may be delegated to such agencies or entities.
+
+
+
+
+
+
+(k)
+ Reports
+(1)
+ Not later than 12 months after 
+November 29, 1990
+, the Task Force shall submit a report describing the program developed under subsection (a) of this section, including the research protocol required under subsection (f)(2) of this section, to the Congress.
+
+
+
+
+(2)
+ On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
+
+
+
+
+ Regional coordination
+(a)
+ Great Lakes panel
+(1)
+ In general
+Not later than 30 days following 
+November 29, 1990
+, the Task Force shall request that the Great Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of 
+July 24, 1968
+, 
+P.L. 90–419
+) convene a panel of Great Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
+(A)
+ identify priorities for the Great Lakes region with respect to aquatic nuisance species;
+
+
+
+
+(B)
+ make recommendations to the Task Force regarding programs to carry out 
+section 4722(i) of this title
+;
+
+
+
+
+(C)
+ assist the Task Force in coordinating Federal aquatic nuisance species program activities in the Great Lakes region;
+
+
+
+
+(D)
+ coordinate, where possible, aquatic nuisance species program activities in the Great Lakes region that are not conducted pursuant to this chapter;
+
+
+
+
+(E)
+ provide advice to public and private individuals and entities concerning methods of controlling aquatic nuisance species; and
+
+
+
+
+(F)
+ submit annually a report to the Task Force describing activities within the Great Lakes region related to aquatic nuisance species prevention, research,
+1
+1
+ So in original. Probably should be followed by “and”.
+ control.
+
+
+
+
+
+
+(2)
+ Consultation
+The Task Force shall request that the Great Lakes Fishery Commission provide information to the panel convened under this subsection on technical and policy matters related to the international fishery resources of the Great Lakes.
+
+
+
+
+
+
+(3)
+ Canadian participation
+The panel convened under this subsection is encourage 
+2
+2
+ So in original. Probably should be “encouraged”.
+ to invite representatives from the Federal, provincial or territorial governments of Canada to participate as observers.
+
+
+
+
+
+
+(b)
+ Western regional panel
+Not later than 30 days after 
+October 26, 1996
+, the Task Force shall request a Western regional panel, comprised of Western region representatives from Federal, State, and local agencies and from private environmental and commercial interests, to—
+(1)
+ identify priorities for the Western region with respect to aquatic nuisance species;
+
+
+
+
+(2)
+ make recommendations to the Task Force regarding an education, monitoring (including inspection), prevention, and control program to prevent the spread of the zebra mussel west of the 100th Meridian pursuant to 
+section 4722(i) of this title
+;
+
+
+
+
+(3)
+ coordinate, where possible, other aquatic nuisance species program activities in the Western region that are not conducted pursuant to this chapter;
+
+
+
+
+(4)
+ develop an emergency response strategy for Federal, State, and local entities for stemming new invasions of aquatic nuisance species in the region;
+
+
+
+
+(5)
+ provide advice to public and private individuals and entities concerning methods of preventing and controlling aquatic nuisance species infestations; and
+
+
+
+
+(6)
+ submit annually a report to the Task Force describing activities within the Western region related to aquatic nuisance species prevention, research, and control.
+
+
+
+
+(c)
+ Additional regional panels
+The Task Force shall—
+(1)
+ encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b) of this section; and
+
+
+
+
+(2)
+ cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).
+
+
+
+
+ State aquatic nuisance species management plans
+(a)
+ State or interstate invasive species management plans
+(1)
+ In general
+After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
+(A)
+ a comprehensive management plan to the Task Force for approval which identifies those areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) is needed to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
+
+
+
+
+(B)
+ a public facility management plan to the Assistant Secretary for approval which is limited solely to identifying those public facilities within the State or within the interstate region involved for which technical and financial assistance is needed to reduce infestations of zebra mussels.
+
+
+
+
+
+
+(2)
+ Content
+Each plan shall, to the extent possible, identify the management practices and measures that will be undertaken to reduce infestations of aquatic nuisance species. Each plan shall—
+(A)
+ identify and describe State and local programs for environmentally sound prevention and control of the target aquatic nuisance species;
+
+
+
+
+(B)
+ identify Federal activities that may be needed for environmentally sound prevention and control of aquatic nuisance species and a description of the manner in which those activities should be coordinated with State and local government activities;
+
+
+
+
+(C)
+ identify any authority that the State (or any State or Indian tribe involved in the interstate organization) does not have at the time of the development of the plan that may be necessary for the State (or any State or Indian tribe involved in the interstate organization) to protect public health, property, and the environment from harm by aquatic nuisance species; and
+
+
+
+
+(D)
+ a schedule of implementing the plan, including a schedule of annual objectives, and enabling legislation.
+
+
+
+
+
+
+(3)
+ Consultation
+(A)
+ In developing and implementing a management plan, the State or interstate organization should, to the maximum extent practicable, involve local governments and regional entities, Indian tribes, and public and private organizations that have expertise in the control of aquatic nuisance species.
+
+
+
+
+(B)
+ Upon the request of a State or the appropriate official of an interstate organization, the Task Force or the Assistant Secretary, as appropriate under paragraph (1), may provide technical assistance in developing and implementing a management plan.
+
+
+
+
+
+
+(4)
+ Plan approval
+Within 90 days after the submission of a management plan, the Task Force or the Assistant Secretary in consultation with the Task Force, as appropriate under paragraph (1), shall review the proposed plan and approve it if it meets the requirements of this subsection or return the plan to the Governor or the interstate organization with recommended modifications.
+
+
+
+
+
+
+(b)
+ Grant program
+(1)
+ State grants
+The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) of this section for the implementation of those plans.
+
+
+
+
+
+
+(2)
+ Application
+An application for a grant under this subsection shall include an identification and description of the best management practices and measures which the State proposes to utilize in implementing an approved management plan with any Federal assistance to be provided under the grant.
+
+
+
+
+
+
+(3)
+ Federal share
+(A)
+ The Federal share of the cost of each comprehensive management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 75 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.
+
+
+
+
+(B)
+ The Federal share of the cost of each public facility management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 50 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.
+
+
+
+
+
+
+(4)
+ Adminisrative 
+1
+1
+ So in original. Probably should be “Administrative”.
+ costs
+For the purposes of this section, administrative costs for activities and programs carried out with a grant in any fiscal year shall not exceed 5 percent of the amount of the grant in that year.
+
+
+
+
+
+
+(5)
+ In-kind contributions
+In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
+
+
+
+
+
+
+(c)
+ Enforcement assistance
+Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with 
+section 141 of title 14
+, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+
+
+
+
+ Relationship to other laws
+All actions taken by Federal agencies in implementing the provisions of 
+ International cooperation
+(a)
+ Advice
+The Task Force shall provide timely advice to the Secretary of State concerning aquatic nuisance species that infest waters shared with other countries.
+
+
+
+
+(b)
+ Negotiations
+The Secretary of State, in consultation with the Task Force, is encouraged to initiate negotiations with the governments of foreign countries concerning the planning and implementation of prevention, monitoring, research, education, and control programs related to aquatic nuisance species infesting shared water resources.
+
+
+
+
+ Intentional introductions policy review
+Within one year of 
+ Brown tree snake control program
+The Task Force shall, within the program developed under subsection (a),
+ Authorization of appropriations
+(a)
+ Prevention of unintentional introductions
+There are authorized to be appropriated to develop and implement the provisions of subchapter II of this chapter—
+(1)
+ $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 and 4712(a)(3) of this title;
+
+
+
+
+(2)
+ $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 
+1
+1
+ So in original. Probably should be followed by a closing parenthesis.
+ of this title;
+
+
+
+
+(3)
+ to the Secretary to carry out 
+section 4711 of this title
+—
+(A)
+ $2,000,000 for each of fiscal years 1997 and 1998; and
+
+
+
+
+(B)
+ $3,000,000 for each of fiscal years 1999 through 2002;
+
+
+
+
+
+
+(4)
+ for each of fiscal years 1997 through 2002, to carry out paragraphs (1) and (2) of 
+section 4712(b) of this title
+—
+(A)
+ $1,000,000 to the Department of the Interior, to be used by the Director; and
+
+
+
+
+(B)
+ $1,000,000 to the Secretary; and
+
+
+
+
+
+
+(5)
+ for each of fiscal years 1997 through 2002—
+(A)
+ $3,000,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to the Under Secretary to carry out 
+section 4712(e) of this title
+; and
+
+
+
+
+(B)
+ $500,000 to the Secretary to carry out 
+section 4712(f) of this title
+.
+
+
+
+
+
+
+(b)
+ Task Force and aquatic nuisance species program
+There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III of this chapter—
+(1)
+ $6,000,000 to the Department of the Interior, to be used by the Director to carry out sections 4722 and 4728 of this title;
+
+
+
+
+(2)
+ $1,000,000 to the Department of Commerce, to be used by the Under Secretary to carry out 
+section 4722 of this title
+;
+
+
+
+
+(3)
+ $1,625,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to fund aquatic nuisance species prevention and control research under 
+section 4722(i) of this title
+ at the Great Lakes Environmental Research Laboratory of the National Oceanic and Atmospheric Administration, of which $500,000 shall be made available for grants, to be competitively awarded and subject to peer review, for research relating to Lake Champlain;
+
+
+
+
+(4)
+ $5,000,000 for competitive grants for university research on aquatic nuisance species under 
+section 4722(f)(3) of this title
+ as follows:
+(A)
+ $2,800,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to fund grants under 
+section 1124 of title 33
+;
+
+
+
+
+(B)
+ $1,200,000 to fund grants to colleges for the benefit of agriculture and the mechanic arts referred to in 
+section 322 of title 7
+; and
+
+
+
+
+(C)
+ $1,000,000 to fund grants through the Cooperative Fisheries and Wildlife Research Unit Program of the United States Fish and Wildlife Service;
+
+
+
+
+
+
+(5)
+ $3,000,000 to the Department of the Army, to be used by the Assistant Secretary to carry out 
+section 4722(i)(1)(B) of this title
+; and
+
+
+
+
+(6)
+ $300,000 to the Department of the Interior, to be used by the Director to fund regional panels and similar entities under 
+section 4723 of this title
+, of which $100,000 shall be used to fund activities of the Great Lakes Commission.
+
+
+
+
+(c)
+ Grants for State management programs
+There are authorized to be appropriated for each of fiscal years 1997 through 2002 $4,000,000 to the Department of the Interior, to be used by the Director for making grants under 
+section 4724 of this title
+, of which $1,500,000 shall be used by the Director, in consultation with the Assistant Secretary, for management of aquatic nuisance vegetation species.
+
+
+
+
+(d)
+ Intentional introductions policy review
+There are authorized to be appropriated for fiscal year 1991, $500,000 to the Director and the Under Secretary to conduct the intentional introduction policy review under 
+section 4727 of this title
+.
+
+
+
+
+(e)
+ Ballast water management demonstration program
+There are authorized to be appropriated $2,500,000 to carry out 
+section 4714 of this title
+.
+
+
+
+
+(f)
+ Research
+There are authorized to be appropriated to the Director $1,000,000 to carry out research on the prevention, monitoring, and control of aquatic nuisance species in Narragansett Bay, Rhode Island. The funds shall be made available for use by the Department of Environmental Management of the State of Rhode Island.
+
+
+
+
+ Environmental impact analyses
+The Secretary of State, in consultation with the Council on Environmental Quality, is encouraged to enter into negotiations with the governments of Canada and Mexico to provide for reciprocal cooperative environmental impact analysis of major Federal actions which have significant transboundary effects on the quality of the human environment in the United States, Canada, and Mexico.

@@ -1,0 +1,5354 @@
+
+Chapter 80
+GENERAL RULES
+ Authority of Department of the Treasury
+(a)
+ Powers and duties of Secretary
+(1)
+ In general
+Except as otherwise expressly provided by law, the administration and enforcement of this title shall be performed by or under the supervision of the Secretary of the Treasury.
+
+
+
+
+
+
+(2)
+ Administration and enforcement of certain provisions by Attorney General
+(A)
+ In general
+The administration and enforcement of the following provisions of this title shall be performed by or under the supervision of the Attorney General; and the term “Secretary” or “Secretary of the Treasury” shall, when applied to those provisions, mean the Attorney General; and the term “internal revenue officer” shall, when applied to those provisions, mean any officer of the Bureau of Alcohol, Tobacco, Firearms, and Explosives so designated by the Attorney General:
+(i)
+ Chapter 53.
+
+
+
+
+(ii)
+ Chapters 61 through 80, to the extent such chapters relate to the enforcement and administration of the provisions referred to in clause (i).
+
+
+
+
+
+
+(B)
+ Use of existing rulings and interpretations
+Nothing in this Act 
+1
+1
+ So in original.
+ alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
+
+
+
+
+
+
+
+
+[(b)
+ Repealed. 
+Pub. L. 97–258, § 5(b)
+, 
+Sept. 13, 1982
+, 
+96 Stat. 1068
+, 1078]
+
+
+(c)
+ Functions of Department of Justice unaffected
+Nothing in this section or 
+section 301(f) of title 31
+ shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on 
+May 10, 1934
+.
+
+
+
+
+“(a)
+ Except as otherwise provided in this Act, the amendments made by this Act [amending this section] shall take effect on the date of the enactment of this Act [
+Sept. 22, 1959
+].
+
+
+“(b)
+ The amendments made by section 2 of this Act [amending sections 7452 and 8023 of this title] shall take effect when the Chief Counsel for the Internal Revenue Service first appointed pursuant to the amendment made by section 1 of this Act [amending this section] qualifies and takes office.”
+
+
+“(a)
+ 
+In General
+.—
+Not later than 
+April 15, 2000
+, the Secretary of the Treasury shall establish an interactive program on an Internet website where any taxpayer may generate an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer’s total tax payments among the major expenditure categories.
+
+
+“(b)
+ 
+Information Necessary To Generate Receipt
+.—
+For purposes of generating an itemized receipt under subsection (a), the interactive program—
+“(1)
+ shall only require the input of the taxpayer’s total tax payments; and
+
+
+
+
+“(2)
+ shall not require any identifying information relating to the taxpayer.
+
+
+
+
+“(c)
+ 
+Total Tax Payments
+.—
+For purposes of this section, total tax payments of an individual for any taxable year are—
+“(1)
+ the tax imposed by subtitle A of the Internal Revenue Code of 1986 for such taxable year (as shown on his return); and
+
+
+
+
+“(2)
+ the tax imposed by section 3101 of such Code on wages received during such taxable year.
+
+
+
+
+“(d)
+ Content of Tax Receipt.—
+“(1)
+ 
+Major expenditure categories
+.—
+For purposes of subsection (a), the major expenditure categories are:
+“(A)
+ National defense.
+
+
+
+
+“(B)
+ International affairs.
+
+
+
+
+“(C)
+ Medicaid.
+
+
+
+
+“(D)
+ Medicare.
+
+
+
+
+“(E)
+ Means-tested entitlements.
+
+
+
+
+“(F)
+ Domestic discretionary.
+
+
+
+
+“(G)
+ Social Security.
+
+
+
+
+“(H)
+ Interest payments.
+
+
+
+
+“(I)
+ All other.
+
+
+
+
+
+
+“(2)
+ Other items on receipt.—
+“(A)
+ 
+In general
+.—
+In addition, the tax receipt shall include selected examples of more specific expenditure items, including the items listed in subparagraph (B), either at the budget function, subfunction, or program, project, or activity levels, along with any other information deemed appropriate by the Secretary of the Treasury and the Director of the Office of Management and Budget to enhance taxpayer understanding of the Federal budget.
+
+
+
+
+“(B)
+ 
+Listed items
+.—
+The expenditure items listed in this subparagraph are as follows:
+“(i)
+ Public schools funding programs.
+
+
+
+
+“(ii)
+ Student loans and college aid.
+
+
+
+
+“(iii)
+ Low-income housing programs.
+
+
+
+
+“(iv)
+ supplemental [sic] nutrition assistance program benefits and welfare programs.
+
+
+
+
+“(v)
+ Law enforcement, including the Federal Bureau of Investigation, law enforcement grants to the States, and other Federal law enforcement personnel.
+
+
+
+
+“(vi)
+ Infrastructure, including roads, bridges, and mass transit.
+
+
+
+
+“(vii)
+ Farm subsidies.
+
+
+
+
+“(viii)
+ Congressional Member and staff salaries.
+
+
+
+
+“(ix)
+ Health research programs.
+
+
+
+
+“(x)
+ Aid to the disabled.
+
+
+
+
+“(xi)
+ Veterans health care and pension programs.
+
+
+
+
+“(xii)
+ Space programs.
+
+
+
+
+“(xiii)
+ Environmental cleanup programs.
+
+
+
+
+“(xiv)
+ United States embassies.
+
+
+
+
+“(xv)
+ Military salaries.
+
+
+
+
+“(xvi)
+ Foreign aid.
+
+
+
+
+“(xvii)
+ Contributions to the North Atlantic Treaty Organization.
+
+
+
+
+“(xviii)
+ Amtrak.
+
+
+
+
+“(xix)
+ United States Postal Service.
+
+
+
+
+
+
+
+
+“(e)
+ 
+Cost
+.—
+No charge shall be imposed to cover any cost associated with the production or distribution of the tax receipt.
+
+
+“(f)
+ 
+Regulations
+.—
+The Secretary of the Treasury may prescribe such regulations as may be necessary to carry out this section.”
+
+
+“(a)
+ 
+In General
+.—
+The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—
+“(1)
+ supersede any organization or reorganization of the Internal Revenue Service based on any statute or reorganization plan applicable on the effective date of this section;
+
+
+
+
+“(2)
+ eliminate or substantially modify the existing organization of the Internal Revenue Service which is based on a national, regional, and district structure;
+
+
+
+
+“(3)
+ establish organizational units serving particular groups of taxpayers with similar needs; and
+
+
+
+
+“(4)
+ ensure an independent appeals function within the Internal Revenue Service, including the prohibition in the plan of ex parte communications between appeals officers and other Internal Revenue Service employees to the extent that such communications appear to compromise the independence of the appeals officers.
+
+
+
+
+“(b)
+ Savings Provisions.—
+“(1)
+ 
+Preservation of specific tax rights and remedies
+.—
+Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internal revenue district, or the Secretary, shall be deemed to refer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law.
+
+
+
+
+“(2)
+ 
+Continuing effect of legal documents
+.—
+All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+“(A)
+ which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of any function transferred or affected by the reorganization of the Internal Revenue Service or any other administrative unit of the Department of the Treasury under this section; and
+
+
+
+
+“(B)
+ which are in effect at the time this section takes effect, or were final before the effective date of this section and are to become effective on or after the effective date of this section,
+
+
+
+
+
+shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of the Treasury, the Commissioner of Internal Revenue, or other authorized official, a court of competent jurisdiction, or by operation of law.
+
+
+
+
+“(3)
+ 
+Proceedings not affected
+.—
+The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) at the time this section takes effect, with respect to functions transferred or affected by the reorganization under this section but such proceedings and applications shall continue. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
+
+
+
+
+“(4)
+ 
+Suits not affected
+.—
+The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted.
+
+
+
+
+“(5)
+ 
+Nonabatement of actions
+.—
+No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section.
+
+
+
+
+“(6)
+ 
+Administrative actions relating to promulgation of regulations
+.—
+Any administrative action relating to the preparation or promulgation of a regulation by the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) relating to a function transferred or affected by the reorganization under this section may be continued by the Department of the Treasury through any appropriate administrative unit of the Department, including the Internal Revenue Service with the same effect as if this section had not been enacted.
+
+
+
+
+“(c)
+ 
+Effective Date
+.—
+This section shall take effect on the date of the enactment of this Act [
+July 22, 1998
+].”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [
+July 22, 1998
+], establish procedures to clearly alert married taxpayers of their joint and several liabilities on all appropriate publications and instructions.
+
+
+“(b)
+ 
+Right To Limit Liability
+.—
+The procedures under subsection (a) shall include requirements that notice of an individual’s right to relief under section 6015 of the Internal Revenue Code of 1986 shall be included in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights [
+Pub. L. 100–647
+, set out below] (Internal Revenue Service Publication No. 1) and in any collection-related notices.”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [
+July 22, 1998
+], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights [
+Pub. L. 100–647
+, set out below] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
+
+
+“(b)
+ 
+Transmission to Committees of Congress
+.—
+The Secretary shall transmit drafts of the statement required under subsection (a) (or proposed revisions to any such statement) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the same day.”
+
+
+“(a)
+ 
+Notice
+.—
+The Secretary of the Treasury or the Secretary’s delegate shall provide that—
+“(1)
+ any manually generated correspondence received by a taxpayer from the Internal Revenue Service shall include in a prominent manner the name, telephone number, and unique identifying number of an Internal Revenue Service employee the taxpayer may contact with respect to the correspondence;
+
+
+
+
+“(2)
+ any other correspondence or notice received by a taxpayer from the Internal Revenue Service shall include in a prominent manner a telephone number that the taxpayer may contact; and
+
+
+
+
+“(3)
+ an Internal Revenue Service employee shall give a taxpayer during a telephone or personal contact the employee’s name and unique identifying number.
+
+
+
+
+“(b)
+ 
+Single Contact
+.—
+The Secretary of the Treasury or the Secretary’s delegate shall develop a procedure under which, to the extent practicable and if advantageous to the taxpayer, one Internal Revenue Service employee shall be assigned to handle a taxpayer’s matter until it is resolved.
+
+
+“(c)
+ 
+Telephone Helpline in Spanish
+.—
+The Secretary of the Treasury or the Secretary’s delegate shall provide, in appropriate circumstances, that taxpayer questions on telephone helplines of the Internal Revenue Service are answered in Spanish.
+
+
+“(d)
+ 
+Other Telephone Helpline Options
+.—
+The Secretary of the Treasury or the Secretary’s delegate shall provide, in appropriate circumstances, on telephone helplines of the Internal Revenue Service an option for any taxpayer to talk to an Internal Revenue Service employee during normal business hours. The person shall direct phone questions of the taxpayer to other Internal Revenue Service personnel who can provide assistance to the taxpayer.
+
+
+“(e)
+ Effective Dates.—
+“(1)
+ 
+In general
+.—
+Except as otherwise provided in this subsection, this section shall take effect 60 days after the date of the enactment of this Act [
+July 22, 1998
+].
+
+
+
+
+“(2)
+ 
+Subsection
+ (c).—
+Subsection (c) shall take effect on 
+January 1, 2000
+.
+
+
+
+
+“(3)
+ 
+Subsection
+ (d).—
+Subsection (d) shall take effect on 
+January 1, 2000
+.
+
+
+
+
+“(4)
+ 
+Unique identifying number
+.—
+Any requirement under this section to provide a unique identifying number shall take effect 6 months after the date of the enactment of this Act [
+July 22, 1998
+].”
+
+
+
+
+“(a)
+ 
+Findings
+.—
+The Congress finds the following:
+“(1)
+ While the budget for the Internal Revenue Service (hereafter referred to as the ‘IRS’) has risen from $2.5 billion in fiscal year 1979 to $7.3 billion in fiscal year 1996, tax returns processing has not become significantly faster, tax collection rates have not significantly increased, and the accuracy and timeliness of taxpayer assistance has not significantly improved.
+
+
+
+
+“(2)
+ To date, the Tax Systems Modernization (TSM) program has cost the taxpayers $2.5 billion, with an estimated cost of $8 billion. Despite this investment, modernization efforts were recently described by the GAO as ‘chaotic’ and ‘ad hoc’.
+
+
+
+
+“(3)
+ While the IRS maintains that TSM will increase efficiency and thus revenues, Congress has had to appropriate additional funds in recent years for compliance initiatives in order to increase tax revenues.
+
+
+
+
+“(4)
+ Because TSM has not been implemented, the IRS continues to rely on paper returns, processing a total of 14 billion pieces of paper every tax season. This results in an extremely inefficient system.
+
+
+
+
+“(5)
+ This lack of efficiency reduces the level of customer service and impedes the ability of the IRS to collect revenue.
+
+
+
+
+“(6)
+ The present status of the IRS shows the need for the establishment of a Commission which will examine the organization of IRS and recommend actions to expedite the implementation of TSM and improve service to taxpayers.
+
+
+
+
+“(b)
+ Composition of the Commission.—
+“(1)
+ 
+Establishment
+.—
+To carry out the purposes of this section, there is established a National Commission on Restructuring the Internal Revenue Service (in this section referred to as the ‘Commission’).
+
+
+
+
+“(2)
+ 
+Composition
+.—
+The Commission shall be composed of seventeen members, as follows:
+“(A)
+ Five members appointed by the President, two from the executive branch of the Government, two from private life, and one from an organization that represents a substantial number of Internal Revenue Service employees.
+
+
+
+
+“(B)
+ Four members appointed by the Majority Leader of the Senate, one from Members of the Senate and three from private life.
+
+
+
+
+“(C)
+ Two members appointed by the Minority Leader of the Senate, one from Members of the Senate and one from private life.
+
+
+
+
+“(D)
+ Four members appointed by the Speaker of the House of Representatives, one from Members of the House of Representatives and three from private life.
+
+
+
+
+“(E)
+ Two members appointed by the Minority Leader of the House of Representatives, one from Members of the House of Representatives and one from private life.
+“The Commissioner of the Internal Revenue Service shall be an ex officio member of the Commission.
+
+
+
+
+
+
+
+
+“(3)
+ 
+Co-Chairs
+.—
+The Commission shall elect Co-Chairs from among its members.
+
+
+
+
+“(4)
+ 
+Meeting; quorum; vacancies
+.—
+After its initial meeting, the Commission shall meet upon the call of the Co-Chairs or a majority of its members. Nine members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
+
+
+
+
+“(5)
+ Appointment; initial meeting.—
+“(A)
+ 
+Appointment
+.—
+It is the sense of the Congress that members of the Committee [Commission] should be appointed not more than 60 days after the date of the enactment of this section [
+Nov. 19, 1995
+].
+
+
+
+
+“(B)
+ 
+Initial meeting
+.—
+If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet and select Co-Chairs who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
+
+
+
+
+
+
+“(c)
+ Functions of Commission.—
+“(1)
+ 
+In general
+.—
+The functions of the Commission shall be—
+“(A)
+ to conduct, for a period of not to exceed 15 months from the date of its first meeting, the review described in paragraph (2), and
+
+
+
+
+“(B)
+ to submit to the Congress a final report of the results of the review, including recommendations for restructuring the IRS.
+
+
+
+
+
+
+“(2)
+ 
+Review
+.—
+The Commission shall review—
+“(A)
+ the present practices of the IRS, especially with respect to—
+“(i)
+ its organizational structure;
+
+
+
+
+“(ii)
+ its paper processing and return processing activities;
+
+
+
+
+“(iii)
+ its infrastructure; and
+
+
+
+
+“(iv)
+ the collection process;
+
+
+
+
+
+
+“(B)
+ requirements for improvement in the following areas:
+“(i)
+ making returns processing ‘paperless’;
+
+
+
+
+“(ii)
+ modernizing IRS operations;
+
+
+
+
+“(iii)
+ improving the collections process without major personnel increases or increased funding;
+
+
+
+
+“(iv)
+ improving taxpayer accounts management;
+
+
+
+
+“(v)
+ improving the accuracy of information requested by taxpayers in order to file their returns; and
+
+
+
+
+“(vi)
+ changing the culture of the IRS to make the organization more efficient, productive, and customer-oriented;
+
+
+
+
+
+
+“(C)
+ whether the IRS could be replaced with a quasi-governmental agency with tangible incentives and internally managing its programs and activities and for modernizing its activities, and
+
+
+
+
+“(D)
+ whether the IRS could perform other collection, information, and financial service functions of the Federal Government.
+
+
+
+
+
+
+“(d)
+ Powers of the Commission.—
+“(1)
+ 
+In general
+.—
+(A)
+ The Commission or, on the authorization of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out the provisions of this section—
+“(i)
+ hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths, and
+
+
+
+
+“(ii)
+ require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
+
+
+
+
+
+
+“(B)
+ Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (
+2 U.S.C. 192–194
+) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+
+
+
+
+
+
+“(2)
+ 
+Contracting
+.—
+The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this section.
+
+
+
+
+“(3)
+ 
+Information from federal agencies
+.—
+The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this section. Each such department, bureau, agency, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Co-Chairs.
+
+
+
+
+“(4)
+ 
+Assistance from federal agencies
+.—
+(A)
+ The Secretary of the Treasury is authorized on a nonreimbursable basis to provide the Commission with administrative services, funds, facilities, staff, and other support services for the performance of the Commission’s functions.
+
+
+
+
+“(B)
+ The Administrator of General Services shall provide to the Commission on a nonreimbursable basis such administrative support services as the Commission may request.
+
+
+
+
+“(C)
+ In addition to the assistance set forth in subparagraphs (A) and (B), departments and agencies of the United States are authorized to provide to the Commission such services, funds, facilities, staff, and other support services as they may deem advisable and as may be authorized by law.
+
+
+
+
+
+
+“(5)
+ 
+Postal services
+.—
+The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+
+
+
+
+“(6)
+ 
+Gifts
+.—
+The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this section.
+
+
+
+
+“(e)
+ Staff of the Commission.—
+“(1)
+ 
+In general
+.—
+The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under 
+section 5316 of title 5
+, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+
+
+
+
+“(2)
+ 
+Consultant services
+.—
+The Commission is authorized to procure the services of experts and consultants in accordance with 
+section 3109 of title 5
+, United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under 
+section 5315 of title 5
+, United States Code.
+
+
+
+
+“(f)
+ Compensation and Travel Expenses.—
+“(1)
+ 
+Compensation
+.—
+(A)
+ Except as provided in subparagraph (B), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under 
+section 5315 of title 5
+, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
+
+
+
+
+“(B)
+ Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay on account of their service on the Commission.
+
+
+
+
+
+
+“(2)
+ 
+Travel expenses
+.—
+While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under 
+section 5703(b) of title 5
+, United States Code.
+
+
+
+
+“(g)
+ Final Report of Commission; Termination.—
+“(1)
+ 
+Final report
+.—
+Not later than 15 months after the date of the first meeting of the Commission, the Commission shall submit to the Congress its final report, as described in subsection (c)(2).
+
+
+
+
+“(2)
+ 
+Termination
+.—
+(A)
+ The Commission, and all the authorities of this section, shall terminate on the date which is 60 days after the date on which a final report is required to be transmitted under paragraph (1).
+
+
+
+
+“(B)
+ The Commission may use the 60-day period referred to in subparagraph (A) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its final report and disseminating that report.
+
+
+
+
+
+
+“(h)
+ 
+Authorization of Appropriations
+.—
+Such sums as may be necessary are authorized to be appropriated for the activities of the Commission.
+
+
+“(i)
+ 
+Appropriations
+.—
+Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
+
+
+“(a)
+ 
+In General
+.—
+The Secretary of the Treasury shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [
+Nov. 10, 1988
+], prepare a statement which sets forth in simple and nontechnical terms—
+“(1)
+ the rights of a taxpayer and the obligations of the Internal Revenue Service (hereinafter in this section referred to as the ‘Service’) during an audit;
+
+
+
+
+“(2)
+ the procedures by which a taxpayer may appeal any adverse decision of the Service (including administrative and judicial appeals);
+
+
+
+
+“(3)
+ the procedures for prosecuting refund claims and filing of taxpayer complaints; and
+
+
+
+
+“(4)
+ the procedures which the Service may use in enforcing the internal revenue laws (including assessment, jeopardy assessment, levy and distraint, and enforcement of liens).
+
+
+
+
+“(b)
+ 
+Transmission to Committees of Congress
+.—
+The Secretary of the Treasury shall transmit drafts of the statement required under subsection (a) (or proposed revisions of any such statement) to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation on the same day.
+
+
+“(c)
+ 
+Distribution
+.—
+The statement prepared in accordance with subsections (a) and (b) shall be distributed by the Secretary of the Treasury to all taxpayers the Secretary contacts with respect to the determination or collection of any tax (other than by providing tax forms). The Secretary shall take such actions as the Secretary deems necessary to ensure that such distribution does not result in multiple statements being sent to any one taxpayer.”
+
+
+ Internal Revenue Service Oversight Board
+(a)
+ Establishment
+There is established within the Department of the Treasury the Internal Revenue Service Oversight Board (hereafter in this subchapter referred to as the “Oversight Board”).
+
+
+
+
+(b)
+ Membership
+(1)
+ Composition
+The Oversight Board shall be composed of nine members, as follows:
+(A)
+ six members shall be individuals who are not otherwise Federal officers or employees and who are appointed by the President, by and with the advice and consent of the Senate.
+
+
+
+
+(B)
+ one member shall be the Secretary of the Treasury or, if the Secretary so designates, the Deputy Secretary of the Treasury.
+
+
+
+
+(C)
+ one member shall be the Commissioner of Internal Revenue.
+
+
+
+
+(D)
+ one member shall be an individual who is a full-time Federal employee or a representative of employees and who is appointed by the President, by and with the advice and consent of the Senate.
+
+
+
+
+
+
+(2)
+ Qualifications and terms
+(A)
+ Qualifications
+Members of the Oversight Board described in paragraph (1)(A) shall be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areas:
+(i)
+ Management of large service organizations.
+
+
+
+
+(ii)
+ Customer service.
+
+
+
+
+(iii)
+ Federal tax laws, including tax administration and compliance.
+
+
+
+
+(iv)
+ Information technology.
+
+
+
+
+(v)
+ Organization development.
+
+
+
+
+(vi)
+ The needs and concerns of taxpayers.
+
+
+
+
+(vii)
+ The needs and concerns of small businesses.
+
+
+
+
+
+In the aggregate, the members of the Oversight Board described in paragraph (1)(A) should collectively bring to bear expertise in all of the areas described in the preceding sentence.
+
+
+
+
+(B)
+ Terms
+Each member who is described in subparagraph (A) or (D) of paragraph (1) shall be appointed for a term of 5 years, except that of the members first appointed under paragraph (1)(A)—
+(i)
+ two members shall be appointed for a term of 3 years,
+
+
+
+
+(ii)
+ two members shall be appointed for a term of 4 years, and
+
+
+
+
+(iii)
+ two members shall be appointed for a term of 5 years.
+
+
+
+
+
+
+(C)
+ Reappointment
+An individual who is described in subparagraph (A) or (D) of paragraph (1) may be appointed to no more than two 5-year terms on the Oversight Board.
+
+
+
+
+
+
+(D)
+ Vacancy
+Any vacancy on the Oversight Board shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed for the remainder of that term.
+
+
+
+
+
+
+
+
+(3)
+ Ethical considerations
+(A)
+ Financial disclosure
+During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+
+
+
+
+
+
+(B)
+ Restrictions on post-employment
+For purposes of 
+section 207(c) of title 18
+, United States Code, an individual appointed under subparagraph (A) or (D) of paragraph (1) shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Board, except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
+
+
+
+
+
+
+(C)
+ Members who are special Government employees
+If an individual appointed under subparagraph (A) or (D) of paragraph (1) is a special Government employee, the following additional rules apply for purposes of chapter 11 of title 18, United States Code:
+(i)
+ Restriction on representation
+In addition to any restriction under 
+section 205(c) of title 18
+, United States Code, except as provided in subsections (d) through (i) of section 205 of such title, such individual (except in the proper discharge of official duties) shall not, with or without compensation, represent anyone to or before any officer or employee of—
+(I)
+ the Oversight Board or the Internal Revenue Service on any matter;
+
+
+
+
+(II)
+ the Department of the Treasury on any matter involving the internal revenue laws or involving the management or operations of the Internal Revenue Service; or
+
+
+
+
+(III)
+ the Department of Justice with respect to litigation involving a matter described in subclause (I) or (II).
+
+
+
+
+
+
+(ii)
+ Compensation for services provided by another
+For purposes of section 203 of such title—
+(I)
+ such individual shall not be subject to the restrictions of subsection (a)(1) thereof for sharing in compensation earned by another for representations on matters covered by such section, and
+
+
+
+
+(II)
+ a person shall not be subject to the restrictions of subsection (a)(2) thereof for sharing such compensation with such individual.
+
+
+
+
+
+
+
+
+(D)
+ Waiver
+The President may, only at the time the President nominates the member of the Oversight Board described in paragraph (1)(D), waive for the term of the member any appropriate provision of chapter 11 of title 18, United States Code, to the extent such waiver is necessary to allow such member to participate in the decisions of the Board while continuing to serve as a full-time Federal employee or a representative of employees. Any such waiver shall not be effective unless a written intent of waiver to exempt such member (and actual waiver language) is submitted to the Senate with the nomination of such member.
+
+
+
+
+
+
+
+
+(4)
+ Quorum
+Five members of the Oversight Board shall constitute a quorum. A majority of members present and voting shall be required for the Oversight Board to take action.
+
+
+
+
+
+
+(5)
+ Removal
+(A)
+ In general
+Any member of the Oversight Board appointed under subparagraph (A) or (D) of paragraph (1) may be removed at the will of the President.
+
+
+
+
+
+
+(B)
+ Secretary and Commissioner
+An individual described in subparagraph (B) or (C) of paragraph (1) shall be removed upon termination of service in the office described in such subparagraph.
+
+
+
+
+
+
+
+
+(6)
+ Claims
+(A)
+ In general
+Members of the Oversight Board who are described in subparagraph (A) or (D) of paragraph (1) shall have no personal liability under Federal law with respect to any claim arising out of or resulting from an act or omission by such member within the scope of service as a member.
+
+
+
+
+
+
+(B)
+ Effect on other law
+This paragraph shall not be construed—
+(i)
+ to affect any other immunities and protections that may be available to such member under applicable law with respect to such transactions;
+
+
+
+
+(ii)
+ to affect any other right or remedy against the United States under applicable law; or
+
+
+
+
+(iii)
+ to limit or alter in any way the immunities that are available under applicable law for Federal officers and employees.
+
+
+
+
+
+
+
+
+(c)
+ General responsibilities
+(1)
+ Oversight
+(A)
+ In general
+The Oversight Board shall oversee the Internal Revenue Service in its administration, management, conduct, direction, and supervision of the execution and application of the internal revenue laws or related statutes and tax conventions to which the United States is a party.
+
+
+
+
+
+
+(B)
+ Mission of IRS
+As part of its oversight functions described in subparagraph (A), the Oversight Board shall ensure that the organization and operation of the Internal Revenue Service allows it to carry out its mission.
+
+
+
+
+
+
+(C)
+ Confidentiality
+The Oversight Board shall ensure that appropriate confidentiality is maintained in the exercise of its duties.
+
+
+
+
+
+
+
+
+(2)
+ Exceptions
+The Oversight Board shall have no responsibilities or authority with respect to—
+(A)
+ the development and formulation of Federal tax policy relating to existing or proposed internal revenue laws, related statutes, and tax conventions,
+
+
+
+
+(B)
+ specific law enforcement activities of the Internal Revenue Service, including specific compliance activities such as examinations, collection activities, and criminal investigations,
+
+
+
+
+(C)
+ specific procurement activities of the Internal Revenue Service, or
+
+
+
+
+(D)
+ except as provided in subsection (d)(3), specific personnel actions.
+
+
+
+
+
+
+(d)
+ Specific responsibilities
+The Oversight Board shall have the following specific responsibilities:
+(1)
+ Strategic plans
+To review and approve strategic plans of the Internal Revenue Service, including the establishment of—
+(A)
+ mission and objectives, and standards of performance relative to either, and
+
+
+
+
+(B)
+ annual and long-range strategic plans.
+
+
+
+
+
+
+(2)
+ Operational plans
+To review the operational functions of the Internal Revenue Service, including—
+(A)
+ plans for modernization of the tax system,
+
+
+
+
+(B)
+ plans for outsourcing or managed competition, and
+
+
+
+
+(C)
+ plans for training and education.
+
+
+
+
+
+
+(3)
+ Management
+To—
+(A)
+ recommend to the President candidates for appointment as the Commissioner of Internal Revenue and recommend to the President the removal of the Commissioner;
+
+
+
+
+(B)
+ review the Commissioner’s selection, evaluation, and compensation of Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service; and
+
+
+
+
+(C)
+ review and approve the Commissioner’s plans for any major reorganization of the Internal Revenue Service.
+
+
+
+
+
+
+(4)
+ Budget
+To—
+(A)
+ review and approve the budget request of the Internal Revenue Service prepared by the Commissioner;
+
+
+
+
+(B)
+ submit such budget request to the Secretary of the Treasury; and
+
+
+
+
+(C)
+ ensure that the budget request supports the annual and long-range strategic plans.
+
+
+
+
+
+
+(5)
+ Taxpayer protection
+To ensure the proper treatment of taxpayers by the employees of the Internal Revenue Service.
+
+
+
+
+
+
+
+The Secretary shall submit the budget request referred to in paragraph (4)(B) for any fiscal year to the President who shall submit such request, without revision, to Congress together with the President’s annual budget request for the Internal Revenue Service for such fiscal year.
+
+
+(e)
+ Board personnel matters
+(1)
+ Compensation of members
+(A)
+ In general
+Each member of the Oversight Board who—
+(i)
+ is described in subsection (b)(1)(A); or
+
+
+
+
+(ii)
+ is described in subsection (b)(1)(D) and is not otherwise a Federal officer or employee,
+
+
+
+
+
+shall be compensated at a rate of $30,000 per year. All other members shall serve without compensation for such service.
+
+
+
+
+(B)
+ Chairperson
+In lieu of the amount specified in subparagraph (A), the Chairperson of the Oversight Board shall be compensated at a rate of $50,000 per year.
+
+
+
+
+
+
+
+
+(2)
+ Travel expenses
+(A)
+ In general
+The members of the Oversight Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, to attend meetings of the Oversight Board and, with the advance approval of the Chairperson of the Oversight Board, while otherwise away from their homes or regular places of business for purposes of duties as a member of the Oversight Board.
+
+
+
+
+
+
+(B)
+ Report
+The Oversight Board shall include in its annual report under subsection (f)(3)(A) information with respect to the travel expenses allowed for members of the Oversight Board under this paragraph.
+
+
+
+
+
+
+
+
+(3)
+ Staff
+(A)
+ In general
+The Chairperson of the Oversight Board may appoint and terminate any personnel that may be necessary to enable the Board to perform its duties.
+
+
+
+
+
+
+(B)
+ Detail of Government employees
+Upon request of the Chairperson of the Oversight Board, a Federal agency shall detail a Federal Government employee to the Oversight Board without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
+
+
+
+
+
+
+
+
+(4)
+ Procurement of temporary and intermittent services
+The Chairperson of the Oversight Board may procure temporary and intermittent services under 
+section 3109(b) of title 5
+, United States Code.
+
+
+
+
+
+
+(f)
+ Administrative matters
+(1)
+ Chair
+(A)
+ Term
+The members of the Oversight Board shall elect for a 2-year term a chairperson from among the members appointed under subsection (b)(1)(A).
+
+
+
+
+
+
+(B)
+ Powers
+Except as otherwise provided by a majority vote of the Oversight Board, the powers of the Chairperson shall include—
+(i)
+ establishing committees;
+
+
+
+
+(ii)
+ setting meeting places and times;
+
+
+
+
+(iii)
+ establishing meeting agendas; and
+
+
+
+
+(iv)
+ developing rules for the conduct of business.
+
+
+
+
+
+
+
+
+(2)
+ Meetings
+The Oversight Board shall meet at least quarterly and at such other times as the Chairperson determines appropriate.
+
+
+
+
+
+
+(3)
+ Reports
+(A)
+ Annual
+The Oversight Board shall each year report with respect to the conduct of its responsibilities under this title to the President, the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
+
+
+
+
+
+
+(B)
+ Additional report
+Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+
+
+
+
+
+
+
+ Commissioner of Internal Revenue; other officials
+(a)
+ Commissioner of Internal Revenue
+(1)
+ Appointment
+(A)
+ In general
+There shall be in the Department of the Treasury a Commissioner of Internal Revenue who shall be appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from individuals who, among other qualifications, have a demonstrated ability in management.
+
+
+
+
+
+
+(B)
+ Term
+The term of the Commissioner of Internal Revenue shall be a 5-year term, beginning with a term to commence on 
+November 13, 1997
+. Each subsequent term shall begin on the day after the date on which the previous term expires.
+
+
+
+
+
+
+(C)
+ Vacancy
+Any individual appointed as Commissioner of Internal Revenue during a term as defined in subparagraph (B) shall be appointed for the remainder of that term.
+
+
+
+
+
+
+(D)
+ Removal
+The Commissioner may be removed at the will of the President.
+
+
+
+
+
+
+(E)
+ Reappointment
+The Commissioner may be appointed to serve more than one term.
+
+
+
+
+
+
+
+
+(2)
+ Duties
+The Commissioner shall have such duties and powers as the Secretary may prescribe, including the power to—
+(A)
+ administer, manage, conduct, direct, and supervise the execution and application of the internal revenue laws or related statutes and tax conventions to which the United States is a party; and
+
+
+
+
+(B)
+ recommend to the President a candidate for appointment as Chief Counsel for the Internal Revenue Service when a vacancy occurs, and recommend to the President the removal of such Chief Counsel.
+
+
+
+
+
+If the Secretary determines not to delegate a power specified in subparagraph (A) or (B), such determination may not take effect until 30 days after the Secretary notifies the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
+
+
+
+
+(3)
+ Consultation with Board
+The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
+
+
+
+
+
+
+(b)
+ Chief Counsel for the Internal Revenue Service
+(1)
+ Appointment
+There shall be in the Department of the Treasury a Chief Counsel for the Internal Revenue Service who shall be appointed by the President, by and with the consent of the Senate.
+
+
+
+
+
+
+(2)
+ Duties
+The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shall perform such duties as may be prescribed by the Secretary, including the duty—
+(A)
+ to be legal advisor to the Commissioner and the Commissioner’s officers and employees;
+
+
+
+
+(B)
+ to furnish legal opinions for the preparation and review of rulings and memoranda of technical advice;
+
+
+
+
+(C)
+ to prepare, review, and assist in the preparation of proposed legislation, treaties, regulations, and Executive orders relating to laws which affect the Internal Revenue Service;
+
+
+
+
+(D)
+ to represent the Commissioner in cases before the Tax Court; and
+
+
+
+
+(E)
+ to determine which civil actions should be litigated under the laws relating to the Internal Revenue Service and prepare recommendations for the Department of Justice regarding the commencement of such actions.
+
+
+
+
+
+If the Secretary determines not to delegate a power specified in subparagraph (A), (B), (C), (D), or (E), such determination may not take effect until 30 days after the Secretary notifies the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
+
+
+
+
+(3)
+ Persons to whom Chief Counsel reports
+The Chief Counsel shall report directly to the Commissioner of Internal Revenue, except that—
+(A)
+ the Chief Counsel shall report to both the Commissioner and the General Counsel for the Department of the Treasury with respect to—
+(i)
+ legal advice or interpretation of the tax law not relating solely to tax policy;
+
+
+
+
+(ii)
+ tax litigation; and
+
+
+
+
+
+
+(B)
+ the Chief Counsel shall report to the General Counsel with respect to legal advice or interpretation of the tax law relating solely to tax policy.
+
+
+
+
+
+If there is any disagreement between the Commissioner and the General Counsel with respect to any matter jointly referred to them under subparagraph (A), such matter shall be submitted to the Secretary or Deputy Secretary for resolution.
+
+
+
+
+(4)
+ Chief Counsel personnel
+All personnel in the Office of Chief Counsel shall report to the Chief Counsel.
+
+
+
+
+
+
+(c)
+ Office of the Taxpayer Advocate
+(1)
+ Establishment
+(A)
+ In general
+There is established in the Internal Revenue Service an office to be known as the “Office of the Taxpayer Advocate”.
+
+
+
+
+
+
+(B)
+ National Taxpayer Advocate
+(i)
+ In general
+The Office of the Taxpayer Advocate shall be under the supervision and direction of an official to be known as the “National Taxpayer Advocate”. The National Taxpayer Advocate shall report directly to the Commissioner of Internal Revenue and shall be entitled to compensation at the same rate as the highest rate of basic pay established for the Senior Executive Service under 
+section 5382 of title 5
+, United States Code, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title.
+
+
+
+
+
+
+(ii)
+ Appointment
+The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and the Oversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
+
+
+
+
+
+
+(iii)
+ Qualifications
+An individual appointed under clause (ii) shall have—
+(I)
+ a background in customer service as well as tax law; and
+
+
+
+
+(II)
+ experience in representing individual taxpayers.
+
+
+
+
+
+
+(iv)
+ Restriction on employment
+An individual may be appointed as the National Taxpayer Advocate only if such individual was not an officer or employee of the Internal Revenue Service during the 2-year period ending with such appointment and such individual agrees not to accept any employment with the Internal Revenue Service for at least 5 years after ceasing to be the National Taxpayer Advocate. Service as an officer or employee of the Office of the Taxpayer Advocate shall not be taken into account in applying this clause.
+
+
+
+
+
+
+
+
+
+
+(2)
+ Functions of office
+(A)
+ In general
+It shall be the function of the Office of the Taxpayer Advocate to—
+(i)
+ assist taxpayers in resolving problems with the Internal Revenue Service;
+
+
+
+
+(ii)
+ identify areas in which taxpayers have problems in dealings with the Internal Revenue Service;
+
+
+
+
+(iii)
+ to the extent possible, propose changes in the administrative practices of the Internal Revenue Service to mitigate problems identified under clause (ii); and
+
+
+
+
+(iv)
+ identify potential legislative changes which may be appropriate to mitigate such problems.
+
+
+
+
+
+
+(B)
+ Annual reports
+(i)
+ Objectives
+Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
+
+
+
+
+
+
+(ii)
+ Activities
+Not later than December 31 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the activities of the Office of the Taxpayer Advocate during the fiscal year ending during such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information, and shall—
+(I)
+ identify the initiatives the Office of the Taxpayer Advocate has taken on improving taxpayer services and Internal Revenue Service responsiveness;
+
+
+
+
+(II)
+ contain recommendations received from individuals with the authority to issue Taxpayer Assistance Orders under section 7811;
+
+
+
+
+(III)
+ contain a summary of at least 20 of the most serious problems encountered by taxpayers, including a description of the nature of such problems;
+
+
+
+
+(IV)
+ contain an inventory of the items described in subclauses (I), (II), and (III) for which action has been taken and the result of such action;
+
+
+
+
+(V)
+ contain an inventory of the items described in subclauses (I), (II), and (III) for which action remains to be completed and the period during which each item has remained on such inventory;
+
+
+
+
+(VI)
+ contain an inventory of the items described in subclauses (I), (II), and (III) for which no action has been taken, the period during which each item has remained on such inventory, the reasons for the inaction, and identify any Internal Revenue Service official who is responsible for such inaction;
+
+
+
+
+(VII)
+ identify any Taxpayer Assistance Order which was not honored by the Internal Revenue Service in a timely manner, as specified under section 7811(b);
+
+
+
+
+(VIII)
+ contain recommendations for such administrative and legislative action as may be appropriate to resolve problems encountered by taxpayers;
+
+
+
+
+(IX)
+ identify areas of the tax law that impose significant compliance burdens on taxpayers or the Internal Revenue Service, including specific recommendations for remedying these problems;
+
+
+
+
+(X)
+ identify the 10 most litigated issues for each category of taxpayers, including recommendations for mitigating such disputes; and
+
+
+
+
+(XI)
+ include such other information as the National Taxpayer Advocate may deem advisable.
+
+
+
+
+
+
+(iii)
+ Report to be submitted directly
+Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget.
+
+
+
+
+
+
+(iv)
+ Coordination with report of Treasury Inspector General for Tax Administration
+To the extent that information required to be reported under clause (ii) is also required to be reported under paragraph (1) or (2) of subsection (d) by the Treasury Inspector General for Tax Administration, the National Taxpayer Advocate shall not contain such information in the report submitted under such clause.
+
+
+
+
+
+
+
+
+(C)
+ Other responsibilities
+The National Taxpayer Advocate shall—
+(i)
+ monitor the coverage and geographic allocation of local offices of taxpayer advocates;
+
+
+
+
+(ii)
+ develop guidance to be distributed to all Internal Revenue Service officers and employees outlining the criteria for referral of taxpayer inquiries to local offices of taxpayer advocates;
+
+
+
+
+(iii)
+ ensure that the local telephone number for each local office of the taxpayer advocate is published and available to taxpayers served by the office; and
+
+
+
+
+(iv)
+ in conjunction with the Commissioner, develop career paths for local taxpayer advocates choosing to make a career in the Office of the Taxpayer Advocate.
+
+
+
+
+
+
+(D)
+ Personnel actions
+(i)
+ In general
+The National Taxpayer Advocate shall have the responsibility and authority to—
+(I)
+ appoint local taxpayer advocates and make available at least 1 such advocate for each State; and
+
+
+
+
+(II)
+ evaluate and take personnel actions (including dismissal) with respect to any employee of any local office of a taxpayer advocate described in subclause (I).
+
+
+
+
+
+
+(ii)
+ Consultation
+The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate’s responsibilities under this subparagraph.
+
+
+
+
+
+
+
+
+
+
+(3)
+ Responsibilities of Commissioner
+The Commissioner shall establish procedures requiring a formal response to all recommendations submitted to the Commissioner by the National Taxpayer Advocate within 3 months after submission to the Commissioner.
+
+
+
+
+
+
+(4)
+ Operation of local offices
+(A)
+ In general
+Each local taxpayer advocate—
+(i)
+ shall report to the National Taxpayer Advocate or delegate thereof;
+
+
+
+
+(ii)
+ may consult with the appropriate supervisory personnel of the Internal Revenue Service regarding the daily operation of the local office of the taxpayer advocate;
+
+
+
+
+(iii)
+ shall, at the initial meeting with any taxpayer seeking the assistance of a local office of the taxpayer advocate, notify such taxpayer that the taxpayer advocate offices operate independently of any other Internal Revenue Service office and report directly to Congress through the National Taxpayer Advocate; and
+
+
+
+
+(iv)
+ may, at the taxpayer advocate’s discretion, not disclose to the Internal Revenue Service contact with, or information provided by, such taxpayer.
+
+
+
+
+
+
+(B)
+ Maintenance of independent communications
+Each local office of the taxpayer advocate shall maintain a separate phone, facsimile, and other electronic communication access, and a separate post office address.
+
+
+
+
+
+
+
+
+(d)
+ Additional duties of the Treasury Inspector General for Tax Administration
+(1)
+ Annual reporting
+The Treasury Inspector General for Tax Administration shall include in one of the semiannual reports under section 5 of the Inspector General Act of 1978—
+(A)
+ an evaluation of the compliance of the Internal Revenue Service with—
+(i)
+ restrictions under section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998 on the use of enforcement statistics to evaluate Internal Revenue Service employees;
+
+
+
+
+(ii)
+ restrictions under section 7521 on directly contacting taxpayers who have indicated that they prefer their representatives be contacted;
+
+
+
+
+(iii)
+ required procedures under section 6320 upon the filing of a notice of a lien;
+
+
+
+
+(iv)
+ required procedures under subchapter D of chapter 64 for seizure of property for collection of taxes, including required procedures under section 6330 regarding levies; and
+
+
+
+
+(v)
+ restrictions under section 3707 of the Internal Revenue Service Restructuring and Reform Act of 1998 on designation of taxpayers;
+
+
+
+
+
+
+(B)
+ a review and a certification of whether or not the Secretary is complying with the requirements of section 6103(e)(8) to disclose information to an individual filing a joint return on collection activity involving the other individual filing the return;
+
+
+
+
+(C)
+ information regarding extensions of the statute of limitations for assessment and collection of tax under section 6501 and the provision of notice to taxpayers regarding requests for such extension;
+
+
+
+
+(D)
+ an evaluation of the adequacy and security of the technology of the Internal Revenue Service;
+
+
+
+
+(E)
+ any termination or mitigation under section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998;
+
+
+
+
+(F)
+ information regarding improper denial of requests for information from the Internal Revenue Service identified under paragraph (3)(A); and
+
+
+
+
+(G)
+ information regarding any administrative or civil actions with respect to violations of the fair debt collection provisions of section 6304, including—
+(i)
+ a summary of such actions initiated since the date of the last report; and
+
+
+
+
+(ii)
+ a summary of any judgments or awards granted as a result of such actions.
+
+
+
+
+
+
+
+
+(2)
+ Semiannual reports
+(A)
+ 
+In general
+.—
+The Treasury Inspector General for Tax Administration shall include in each semiannual report under section 5 of the Inspector General Act of 1978—
+(i)
+ the number of taxpayer complaints during the reporting period;
+
+
+
+
+(ii)
+ the number of employee misconduct and taxpayer abuse allegations received by the Internal Revenue Service or the Inspector General during the period from taxpayers, Internal Revenue Service employees, and other sources;
+
+
+
+
+(iii)
+ a summary of the status of such complaints and allegations; and
+
+
+
+
+(iv)
+ a summary of the disposition of such complaints and allegations, including the outcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
+
+
+
+
+
+
+(B)
+ Clauses (iii) and (iv) of subparagraph (A) shall only apply to complaints and allegations of serious employee misconduct.
+
+
+
+
+
+
+(3)
+ Other responsibilities
+The Treasury Inspector General for Tax Administration shall—
+(A)
+ conduct periodic audits of a statistically valid sample of the total number of determinations made by the Internal Revenue Service to deny written requests to disclose information to taxpayers on the basis of 
+section 6103 of this title
+ or 
+section 552(b)(7) of title 5
+, United States Code;
+
+
+
+
+(B)
+ establish and maintain a toll-free telephone number for taxpayers to use to confidentially register complaints of misconduct by Internal Revenue Service employees and incorporate the telephone number in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights (Internal Revenue Service Publication No. 1); and
+
+
+
+
+(C)
+ not later than 
+December 31, 2010
+, submit a written report to Congress on the implementation of section 6103(k)(10).
+
+
+
+
+
+
+ Other personnel
+(a)
+ Appointment and supervision
+Unless otherwise prescribed by the Secretary, the Commissioner of Internal Revenue is authorized to employ such number of persons as the Commissioner deems proper for the administration and enforcement of the internal revenue laws, and the Commissioner shall issue all necessary directions, instructions, orders, and rules applicable to such persons.
+
+
+
+
+(b)
+ Posts of duty of employees in field service or traveling
+Unless otherwise prescribed by the Secretary—
+(1)
+ Designation of post of duty
+The Commissioner shall determine and designate the posts of duty of all such persons engaged in field work or traveling on official business outside of the District of Columbia.
+
+
+
+
+
+
+(2)
+ Detail of personnel from field service
+The Commissioner may order any such person engaged in field work to duty in the District of Columbia, for such periods as the Commissioner may prescribe, and to any designated post of duty outside the District of Columbia upon the completion of such duty.
+
+
+
+
+
+
+(c)
+ Delinquent Internal Revenue officers and employees
+If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+
+
+
+
+“(a)
+ 
+In General
+.—
+Subject to subsection (c), the Commissioner of Internal Revenue shall terminate the employment of any employee of the Internal Revenue Service if there is a final administrative or judicial determination that such employee committed any act or omission described under subsection (b) in the performance of the employee’s official duties. Such termination shall be a removal for cause on charges of misconduct.
+
+
+“(b)
+ 
+Acts or Omissions
+.—
+The acts or omissions referred to under subsection (a) are—
+“(1)
+ willful failure to obtain the required approval signatures on documents authorizing the seizure of a taxpayer’s home, personal belongings, or business assets;
+
+
+
+
+“(2)
+ providing a false statement under oath with respect to a material matter involving a taxpayer or taxpayer representative;
+
+
+
+
+“(3)
+ with respect to a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service, the violation of—
+“(A)
+ any right under the Constitution of the United States; or
+
+
+
+
+“(B)
+ any civil right established under—
+“(i)
+ title VI or VII of the Civil Rights Act of 1964 [
+42 U.S.C. 2000d
+ et seq., 2000e et seq.];
+
+
+
+
+“(ii)
+ title IX of the Education Amendments of 1972 [
+20 U.S.C. 1681
+ et seq.];
+
+
+
+
+“(iii)
+ the Age Discrimination in Employment Act of 1967 [
+29 U.S.C. 621
+ et seq.];
+
+
+
+
+“(iv)
+ the Age Discrimination Act of 1975 [
+42 U.S.C. 6101
+ et seq.];
+
+
+
+
+“(v)
+ section 501 or 504 of the Rehabilitation Act of 1973 [
+29 U.S.C. 791
+, 794]; or
+
+
+
+
+“(vi)
+ title I of the Americans with Disabilities Act of 1990 [
+42 U.S.C. 12111
+ et seq.];
+
+
+
+
+
+
+
+
+“(4)
+ falsifying or destroying documents to conceal mistakes made by any employee with respect to a matter involving a taxpayer or taxpayer representative;
+
+
+
+
+“(5)
+ assault or battery on a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service, but only if there is a criminal conviction, or a final judgment by a court in a civil case, with respect to the assault or battery;
+
+
+
+
+“(6)
+ violations of the Internal Revenue Code of 1986, Department of Treasury regulations, or policies of the Internal Revenue Service (including the Internal Revenue Manual) for the purpose of retaliating against, or harassing, a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service;
+
+
+
+
+“(7)
+ willful misuse of the provisions of section 6103 of the Internal Revenue Code of 1986 for the purpose of concealing information from a congressional inquiry;
+
+
+
+
+“(8)
+ willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or before the date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect;
+
+
+
+
+“(9)
+ willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and
+
+
+
+
+“(10)
+ threatening to audit a taxpayer for the purpose of extracting personal gain or benefit.
+
+
+
+
+“(c)
+ Determination of Commissioner.—
+“(1)
+ 
+In general
+.—
+The Commissioner of Internal Revenue may take a personnel action other than termination for an act or omission under subsection (a).
+
+
+
+
+“(2)
+ 
+Discretion
+.—
+The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not be delegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
+
+
+
+
+“(3)
+ 
+No appeal
+.—
+Any determination of the Commissioner of Internal Revenue under this subsection may not be appealed in any administrative or judicial proceeding.
+
+
+
+
+“(d)
+ 
+Definition
+.—
+For purposes of the provisions described in clauses (i), (ii), and (iv) of subsection (b)(3)(B), references to a program or activity receiving Federal financial assistance or an education program or activity receiving Federal financial assistance shall include any program or activity conducted by the Internal Revenue Service for a taxpayer.
+
+
+“(e)
+ 
+Individuals Performing Services Under a Qualified Tax Collection Contract
+.—
+An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
+
+
+“(a)
+ 
+In General
+.—
+Not later than 180 days after the date of the enactment of this Act [
+July 22, 1998
+], the Commissioner of Internal Revenue shall implement an employee training program and shall submit an employee training plan to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
+
+
+“(b)
+ 
+Contents
+.—
+The plan submitted under subsection (a) shall—
+“(1)
+ detail a comprehensive employee training program to ensure adequate customer service training;
+
+
+
+
+“(2)
+ detail a schedule for training and the fiscal years during which the training will occur;
+
+
+
+
+“(3)
+ detail the funding of the program and relevant information to demonstrate the priority and commitment of resources to the plan;
+
+
+
+
+“(4)
+ review the organizational design of customer service;
+
+
+
+
+“(5)
+ provide for the implementation of a performance development system; and
+
+
+
+
+“(6)
+ provide for at least 16 hours of conflict management training during fiscal year 1999 for employees conducting collection activities.”
+
+
+
+
+“(a)
+ 
+In General
+.—
+Any employee of the Internal Revenue Service may use a pseudonym only if—
+“(1)
+ adequate justification for the use of a pseudonym is provided by the employee, including protection of personal safety; and
+
+
+
+
+“(2)
+ such use is approved by the employee’s supervisor before the pseudonym is used.
+
+
+
+
+“(b)
+ 
+Effective Date
+.—
+Subsection (a) shall apply to requests made after the date of the enactment of this Act [
+July 22, 1998
+].”
+
+
+“(a)
+ 
+In General
+.—
+The Internal Revenue Service shall not use records of tax enforcement results—
+“(1)
+ to evaluate employees; or
+
+
+
+
+“(2)
+ to impose or suggest production quotas or goals with respect to such employees.
+
+
+
+
+“(b)
+ 
+Taxpayer Service
+.—
+The Internal Revenue Service shall use the fair and equitable treatment of taxpayers by employees as one of the standards for evaluating employee performance.
+
+
+“(c)
+ 
+Certification
+.—
+Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
+
+
+“(d)
+ 
+Technical and Conforming Amendment
+.—
+[Repealed 
+section 6231 of Pub. L. 100–647
+, set out below.]
+
+
+“(e)
+ 
+Effective Date
+.—
+This section shall apply to evaluations conducted on or after the date of the enactment of this Act [
+July 22, 1998
+].”
+
+
+“(a)
+ 
+Findings
+.—
+The Congress hereby finds that—
+“(1)
+ the Internal Revenue Service estimates that the amount of taxes owed for 1986 will exceed the amount of taxes collected for such year by $100 billion;
+
+
+
+
+“(2)
+ the current taxpayer compliance rate stands at 81.5 percent;
+
+
+
+
+“(3)
+ the tax gap can be significantly reduced by enhancing taxpayer assistance services and enforcement; and
+
+
+
+
+“(4)
+ the Appropriations Committee of the House of Representatives, in its fiscal year 1988 Internal Revenue Service appropriation, took a step in the direction of providing additional funding for taxpayer assistance and enforcement efforts.
+
+
+
+
+“(b)
+ It is the sense of the Congress that:
+“(1)
+ The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year 1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
+
+
+
+
+“(2)
+ The Internal Revenue Service offer improved taxpayer assistance and enforcement efforts by using the aforementioned outlays in areas recommended by, or consistent with the recommendations of, the ‘Dorgan Task Force Report’. Taxpayer assistance efforts would include providing expanded taxpayer education programs, instituting pilot programs of taxmobiles in rural areas, and upgrading the quality of telephone assistance. Taxpayer enforcement efforts would include raising the audit rate from 1.1 percent toward 2.5 percent, restoring resources to criminal investigations, and the collection of delinquent accounts.
+
+
+
+
+“(3)
+ The Congress should undertake an experimental multiyear authorization and 2-year appropriation for the Internal Revenue Service consistent with the recommendations in 
+Public Law 100–119
+, section 201 (Increasing the Statutory Limit on the Public Debt) [
+2 U.S.C. 621
+ note].
+
+
+
+
+“(4)
+ Increased funding should be provided for compilation and analysis of statistics of income and research.
+
+
+
+
+
+The Internal Revenue Service must issue a report on the extent of the tax gap and the measures that could be undertaken to decrease the tax gap. The report must utilize more current data than has been utilized recently. The report must be issued by 
+April 15, 1989
+. The Internal Revenue Service must also report annually on the improvements being made in the audit rate, taxpayer assistance, and enforcement efforts.”
+
+
+“(a)
+ Training and Technical Assistance.—
+“(1)
+ 
+Agreements
+.—
+The Secretary, through the Internal Revenue Service, is authorized to enter into agreements with private or public nonprofit agencies or organizations for the purpose of providing training and technical assistance to prepare volunteers to provide tax counseling assistance for elderly individuals in the preparation of their Federal income tax returns.
+
+
+
+
+“(2)
+ 
+Other assistance
+.—
+In addition to any other forms of technical assistance provided under this section, the Secretary may provide—
+“(A)
+ preferential access to Internal Revenue Service taxpayer service representatives for the purpose of making available technical information needed during the course of the volunteers’ work;
+
+
+
+
+“(B)
+ material to be used in making elderly persons aware of the availability of assistance under volunteer taxpayer assistance programs under this section; and
+
+
+
+
+“(C)
+ technical materials and publications to be used by such volunteers.
+
+
+
+
+
+
+“(b)
+ 
+Powers of the Secretary
+.—
+In carrying out his responsibilities under this section, the Secretary is authorized—
+“(1)
+ to provide assistance to organizations which demonstrate, to the satisfaction of the Secretary, that their volunteers are adequately trained and competent to render effective tax counseling to the elderly;
+
+
+
+
+“(2)
+ to provide for the training of such volunteers, and to assist in such training, to insure that such volunteers are qualified to provide tax counseling assistance to elderly individuals;
+
+
+
+
+“(3)
+ to provide reimbursement to volunteers through such organizations for transportation, meals, and other expenses incurred by them in training or providing tax counseling assistance under this section, and such other support and assistance as he determines to be appropriate in carrying out the provisions of this section;
+
+
+
+
+“(4)
+ to provide for the use of services, personnel, and facilities of Federal executive agencies and of State and local public agencies with their consent, with or without reimbursement therefor; and
+
+
+
+
+“(5)
+ to prescribe such rules and regulations as he deems necessary to carry out the provisions of this section.
+
+
+
+
+“(c)
+ Employment of Volunteers.—
+“(1)
+ 
+In general
+.—
+Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of 
+section 1905 of title 18
+, United States Code, shall apply to volunteers as if they were employees of the United States.
+
+
+
+
+“(2)
+ 
+Expenses
+.—
+Amounts received by volunteers serving in any program carried out under this section as reimbursement for expenses are exempt from taxation under chapters 1 and 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].
+
+
+
+
+“(d)
+ 
+Publicity Relating to Income Tax Provisions Particularly Important to the Elderly
+.—
+The Secretary shall, from time to time, undertake to direct the attention of elderly individuals to those provisions of the Internal Revenue Code of 1986 which are particularly important to taxpayers who are elderly individuals, such as the provisions of section 37 (relating to credit for the elderly) and section 121 (relating to one-time exclusion of gain from sale of principal residence) of the Internal Revenue Code of 1986.
+
+
+“(e)
+ 
+Definitions
+.—
+For purposes of this section—
+“(1)
+ The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
+
+
+
+
+“(2)
+ The term ‘elderly individual’ means an individual who has attained the age of 60 years as of the close of his taxable year.
+
+
+
+
+“(3)
+ The term ‘Federal income tax return’ means any return required under chapter 61 of the Internal Revenue Code of 1986 with respect to the tax imposed on an individual under chapter 1 of such Code.
+
+
+
+
+“(f)
+ 
+Authorization of Appropriations
+.—
+There are authorized to be appropriated for the purpose of carrying out the provisions of this section $2,500,000 for the fiscal year ending 
+September 30, 1979
+, and $3,500,000 for the fiscal year ending 
+September 30, 1980
+.”
+
+
+ Rules and regulations
+(a)
+ Authorization
+Except where such authority is expressly given by this title to any person other than an officer or employee of the Treasury Department, the Secretary shall prescribe all needful rules and regulations for the enforcement of this title, including all rules and regulations as may be necessary by reason of any alteration of law in relation to internal revenue.
+
+
+
+
+(b)
+ Retroactivity of regulations
+(1)
+ In general
+Except as otherwise provided in this subsection, no temporary, proposed, or final regulation relating to the internal revenue laws shall apply to any taxable period ending before the earliest of the following dates:
+(A)
+ The date on which such regulation is filed with the Federal Register.
+
+
+
+
+(B)
+ In the case of any final regulation, the date on which any proposed or temporary regulation to which such final regulation relates was filed with the Federal Register.
+
+
+
+
+(C)
+ The date on which any notice substantially describing the expected contents of any temporary, proposed, or final regulation is issued to the public.
+
+
+
+
+
+
+(2)
+ Exception for promptly issued regulations
+Paragraph (1) shall not apply to regulations filed or issued within 18 months of the date of the enactment of the statutory provision to which the regulation relates.
+
+
+
+
+
+
+(3)
+ Prevention of abuse
+The Secretary may provide that any regulation may take effect or apply retroactively to prevent abuse.
+
+
+
+
+
+
+(4)
+ Correction of procedural defects
+The Secretary may provide that any regulation may apply retroactively to correct a procedural defect in the issuance of any prior regulation.
+
+
+
+
+
+
+(5)
+ Internal regulations
+The limitation of paragraph (1) shall not apply to any regulation relating to internal Treasury Department policies, practices, or procedures.
+
+
+
+
+
+
+(6)
+ Congressional authorization
+The limitation of paragraph (1) may be superseded by a legislative grant from Congress authorizing the Secretary to prescribe the effective date with respect to any regulation.
+
+
+
+
+
+
+(7)
+ Election to apply retroactively
+The Secretary may provide for any taxpayer to elect to apply any regulation before the dates specified in paragraph (1).
+
+
+
+
+
+
+(8)
+ Application to rulings
+The Secretary may prescribe the extent, if any, to which any ruling (including any judicial decision or any administrative determination other than by regulation) relating to the internal revenue laws shall be applied without retroactive effect.
+
+
+
+
+
+
+(c)
+ Preparation and distribution of regulations, forms, stamps, and other matters
+The Secretary shall prepare and distribute all the instructions, regulations, directions, forms, blanks, stamps, and other matters pertaining to the assessment and collection of internal revenue.
+
+
+
+
+(d)
+ Manner of making elections prescribed by Secretary
+Except to the extent otherwise provided by this title, any election under this title shall be made at such time and in such manner as the Secretary shall prescribe.
+
+
+
+
+(e)
+ Temporary regulations
+(1)
+ Issuance
+Any temporary regulation issued by the Secretary shall also be issued as a proposed regulation.
+
+
+
+
+
+
+(2)
+ 3-year duration
+Any temporary regulation shall expire within 3 years after the date of issuance of such regulation.
+
+
+
+
+
+
+(f)
+ Review of impact of regulations on small business
+(1)
+ Submissions to Small Business Administration
+After publication of any proposed or temporary regulation by the Secretary, the Secretary shall submit such regulation to the Chief Counsel for Advocacy of the Small Business Administration for comment on the impact of such regulation on small business. Not later than the date 4 weeks after the date of such submission, the Chief Counsel for Advocacy shall submit comments on such regulation to the Secretary.
+
+
+
+
+
+
+(2)
+ Consideration of comments
+In prescribing any final regulation which supersedes a proposed or temporary regulation which had been submitted under this subsection to the Chief Counsel for Advocacy of the Small Business Administration—
+(A)
+ the Secretary shall consider the comments of the Chief Counsel for Advocacy on such proposed or temporary regulation, and
+
+
+
+
+(B)
+ the Secretary shall discuss any response to such comments in the preamble of such final regulation.
+
+
+
+
+
+
+(3)
+ Submission of certain final regulations
+In the case of the promulgation by the Secretary of any final regulation (other than a temporary regulation) which does not supersede a proposed regulation, the requirements of paragraphs (1) and (2) shall apply; except that—
+(A)
+ the submission under paragraph (1) shall be made at least 4 weeks before the date of such promulgation, and
+
+
+
+
+(B)
+ the consideration (and discussion) required under paragraph (2) shall be made in connection with the promulgation of such final regulation.
+
+
+
+
+
+
+ Construction of title
+(a)
+ Cross references
+The cross references in this title to other portions of the title, or other provisions of law, where the word “see” is used, are made only for convenience, and shall be given no legal effect.
+
+
+
+
+(b)
+ Arrangement and classification
+No inference, implication, or presumption of legislative construction shall be drawn or made by reason of the location or grouping of any particular section or provision or portion of this title, nor shall any table of contents, table of cross references, or similar outline, analysis, or descriptive matter relating to the contents of this title be given any legal effect. The preceding sentence also applies to the sidenotes and ancillary tables contained in the various prints of this Act before its enactment into law.
+
+
+
+
+ Rules in effect upon enactment of this title
+(a)
+ Interim provision for administration of title
+Until regulations are promulgated under any provision of this title which depends for its application upon the promulgation of regulations (or which is to be applied in such manner as may be prescribed by regulations) all instructions, rules or regulations which are in effect immediately prior to the enactment of this title shall, to the extent such instructions, rules, or regulations could be prescribed as regulations under authority of such provision, be applied as if promulgated as regulations under such provision.
+
+
+
+
+(b)
+ Provisions of this title corresponding to prior internal revenue laws
+(1)
+ Reference to law applicable to prior period
+Any provision of this title which refers to the application of any portion of this title to a prior period (or which depends upon the application to a prior period of any portion of this title) shall, when appropriate and consistent with the purpose of such provision, be deemed to refer to (or depend upon the application of) the corresponding provision of the Internal Revenue Code of 1939 or of such other internal revenue laws as were applicable to the prior period.
+
+
+
+
+
+
+(2)
+ Elections or other acts
+If an election or other act under the provisions of the Internal Revenue Code of 1939 would, if this title had not been enacted, be given effect for a period subsequent to the date of enactment of this title, and if corresponding provisions are contained in this title, such election or other act shall be given effect under the corresponding provisions of this title.
+
+
+
+
+
+
+ Depositaries for collections
+The Secretary is authorized to designate one or more depositaries in each State for the deposit and safe-keeping of the money collected by virtue of the internal revenue laws; and the receipt of the proper officer of such depositary to the proper officer or employee of the Treasury Department for the money deposited by him shall be a sufficient voucher for such Treasury officer or employee in the settlement of his accounts.
+ Deposit of collections
+(a)
+ General rule
+Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
+
+
+
+
+(b)
+ Deposit funds
+In accordance with instructions of the Secretary, there shall be deposited with the Treasurer of the United States in a deposit fund account—
+(1)
+ Sums offered in compromise
+Sums offered in compromise under the provisions of section 7122;
+
+
+
+
+
+
+(2)
+ Sums offered for purchase of real estate
+Sums offered for the purchase of real estate under the provisions of section 7506;
+
+
+
+
+
+
+(3)
+ Surplus proceeds in sales under levy
+Surplus proceeds in any sale under levy, after making allowance for the amount of the tax, interest, penalties, and additions thereto, and for costs and charges of the levy and sale; and
+
+
+
+
+
+
+(4)
+ Surplus proceeds in sales of redeemed property
+Surplus proceeds in any sale under section 7506 of real property redeemed by the United States, after making allowance for the amount of the tax, interest, penalties, and additions thereto, and for the costs of sale.
+
+
+
+
+
+
+
+Upon the acceptance of such offer in compromise or offer for the purchase of such real estate, the amount so accepted shall be withdrawn from such deposit fund account and deposited in the Treasury of the United States as internal revenue collections. Upon the rejection of any such offer, the Secretary shall refund to the maker of such offer the amount thereof.
+
+
+(c)
+ Deposit of certain receipts
+Moneys received in payment for—
+(1)
+ Work 
+1
+1
+ So in original. Probably should not be capitalized.
+ or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
+
+
+
+
+(2)
+ work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
+
+
+
+
+(3)
+ other work or services performed for a State or a department or agency of the Federal Government (subject to all provisions of law and regulations governing disclosure of information) in supplying copies of, or data from, returns, statements, or other documents filed under authority of this title or records maintained in connection with the administration and enforcement of this title; and
+
+
+
+
+(4)
+ work or services performed (including materials supplied) pursuant to section 6110 (relating to public inspection of written determinations),
+
+
+
+
+
+shall be deposited in a separate account which may be used to reimburse appropriations which bore all or part of the costs of such work or services, or to refund excess sums when necessary.
+
+
+(d)
+ Deposit of funds for law enforcement agency account
+(1)
+ In general
+In the case of any amounts recovered as the result of information provided to the Internal Revenue Service by State and local law enforcement agencies which substantially contributed to such recovery, an amount equal to 10 percent of such amounts shall be deposited in a separate account which shall be used to make the reimbursements required under section 7624.
+
+
+
+
+
+
+(2)
+ Deposit in Treasury as internal revenue collections
+If any amounts remain in such account after payment of any qualified costs incurred under section 7624, such amounts shall be withdrawn from such account and deposited in the Treasury of the United States as internal revenue collections.
+
+
+
+
+
+
+ Revolving fund for redemption of real property
+(a)
+ Establishment of fund
+There is established a revolving fund, under the control of the Secretary, which shall be available without fiscal year limitation for all expenses necessary for the redemption (by the Secretary) of real property as provided in section 7425(d) and 
+section 2410 of title 28
+ of the United States Code. There are authorized to be appropriated from time to time such sums (not to exceed $10,000,000 in the aggregate) as may be necessary to carry out the purposes of this section.
+
+
+
+
+(b)
+ Reimbursement of fund
+The fund shall be reimbursed from the proceeds of a subsequent sale of real property redeemed by the United States in an amount equal to the amount expended out of such fund for such redemption.
+
+
+
+
+(c)
+ System of accounts
+The Secretary shall maintain an adequate system of accounts for such fund and prepare annual reports on the basis of such accounts.
+
+
+
+
+ Taxpayer Assistance Orders
+(a)
+ Authority to issue
+(1)
+ In general
+Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the National Taxpayer Advocate may issue a Taxpayer Assistance Order if—
+(A)
+ the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary; or
+
+
+
+
+(B)
+ the taxpayer meets such other requirements as are set forth in regulations prescribed by the Secretary.
+
+
+
+
+
+
+(2)
+ Determination of hardship
+For purposes of paragraph (1), a significant hardship shall include—
+(A)
+ an immediate threat of adverse action;
+
+
+
+
+(B)
+ a delay of more than 30 days in resolving taxpayer account problems;
+
+
+
+
+(C)
+ the incurring by the taxpayer of significant costs (including fees for professional representation) if relief is not granted; or
+
+
+
+
+(D)
+ irreparable injury to, or a long-term adverse impact on, the taxpayer if relief is not granted.
+
+
+
+
+
+
+(3)
+ Standard where administrative guidance not followed
+In cases where any Internal Revenue Service employee is not following applicable published administrative guidance (including the Internal Revenue Manual), the National Taxpayer Advocate shall construe the factors taken into account in determining whether to issue a Taxpayer Assistance Order in the manner most favorable to the taxpayer.
+
+
+
+
+
+
+(b)
+ Terms of a Taxpayer Assistance Order
+The terms of a Taxpayer Assistance Order may require the Secretary within a specified time period—
+(1)
+ to release property of the taxpayer levied upon, or
+
+
+
+
+(2)
+ to cease any action, take any action as permitted by law, or refrain from taking any action, with respect to the taxpayer under—
+(A)
+ chapter 64 (relating to collection),
+
+
+
+
+(B)
+ subchapter B of chapter 70 (relating to bankruptcy and receiverships),
+
+
+
+
+(C)
+ chapter 78 (relating to discovery of liability and enforcement of title), or
+
+
+
+
+(D)
+ any other provision of law which is specifically described by the National Taxpayer Advocate in such order.
+
+
+
+
+
+
+(c)
+ Authority to modify or rescind
+Any Taxpayer Assistance Order issued by the National Taxpayer Advocate under this section may be modified or rescinded—
+(1)
+ only by the National Taxpayer Advocate, the Commissioner of Internal Revenue, or the Deputy Commissioner of Internal Revenue, and
+
+
+
+
+(2)
+ only if a written explanation of the reasons for the modification or rescission is provided to the National Taxpayer Advocate.
+
+
+
+
+(d)
+ Suspension of running of period of limitation
+The running of any period of limitation with respect to any action described in subsection (b) shall be suspended for—
+(1)
+ the period beginning on the date of the taxpayer’s application under subsection (a) and ending on the date of the National Taxpayer Advocate’s decision with respect to such application, and
+
+
+
+
+(2)
+ any period specified by the National Taxpayer Advocate in a Taxpayer Assistance Order issued pursuant to such application.
+
+
+
+
+(e)
+ Independent action of National Taxpayer Advocate
+Nothing in this section shall prevent the National Taxpayer Advocate from taking any action in the absence of an application under subsection (a).
+
+
+
+
+(f)
+ National Taxpayer Advocate
+For purposes of this section, the term “National Taxpayer Advocate” includes any designee of the National Taxpayer Advocate.
+
+
+
+
+(g)
+ Application to persons performing services under a qualified tax collection contract
+Any order issued or action taken by the National Taxpayer Advocate pursuant to this section shall apply to persons performing services under a qualified tax collection contract (as defined in section 6306(b)) to the same extent and in the same manner as such order or action applies to the Secretary.
+
+
+
+
+ Applicability of revenue laws
+(a)
+ General rules
+Except as otherwise provided in any section of this title—
+(1)
+ Subtitle A
+(A)
+ Chapters 1, 2, 4,
+1
+1
+ See References in Text note below.
+ and 6 of this title shall apply only with respect to taxable years beginning after 
+December 31, 1953
+, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1 (except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
+
+
+
+
+(B)
+ Chapters 3 and 5 
+1
+ of this title shall apply with respect to payments and transfers occurring after 
+December 31, 1954
+, and as to such payments and transfers sections 143 and 144 and chapter 7 of the Internal Revenue Code of 1939 are hereby repealed.
+
+
+
+
+(C)
+ Any provision of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after 
+December 31, 1953
+), or in terms of taxable years ending after a specific date (occurring after 
+December 31, 1953
+), shall apply to taxable years ending after such specific date. Each such provision shall, in the case of a taxable year subject to the Internal Revenue Code of 1939, be deemed to be included in the Internal Revenue Code of 1939, but shall be applicable only to taxable years ending after such specific date. The provisions of the Internal Revenue Code of 1939 superseded by provisions of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after 
+December 31, 1953
+) shall be deemed to be included in subtitle A of this title, but shall be applicable only to the period prior to the taking effect of the corresponding provision of subtitle A.
+
+
+
+
+(D)
+ Effective with respect to taxable years ending after 
+March 31, 1954
+, and subject to tax under chapter 1 of the Internal Revenue Code of 1939—
+(i)
+ Sections 13(b)(3), 26(b)(2)(C), 26(h) (1)(C) (including the comma and the word “and” immediately preceding such section), 26(i)(3), 108(k), 207(a)(1)(C), 207(a)(3)(C), and the last sentence of section 362(b)(3) of such Code are hereby repealed; and
+
+
+
+
+(ii)
+ Sections 13(b)(2), 26(b)(2)(B), 26(h) (1)(B), 26(i)(2), 207(a)(1)(B), 207(a)(3)(B), 421(a)(1)(B), and the second sentence of section 362(b)(3) of such Code are hereby amended by striking out “and before 
+April 1, 1954
+” (and any accompanying punctuation) wherever appearing therein.
+
+
+
+
+
+
+
+
+(2)
+ Subtitle B
+(A)
+ Chapter 11 of this title shall apply with respect to estates of decedents dying after the date of enactment of this title, and with respect to such estates chapter 3 of the Internal Revenue Code of 1939 is hereby repealed.
+
+
+
+
+(B)
+ Chapter 12 of this title shall apply with respect to the calendar year 1955 and all calendar years thereafter, and with respect to such years chapter 4 of the Internal Revenue Code of 1939 is hereby repealed.
+
+
+
+
+
+
+(3)
+ Subtitle C
+Subtitle C of this title shall apply only with respect to remuneration paid after 
+December 31, 1954
+, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after 
+December 31, 1954
+, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after 
+December 31, 1954
+, except that subchapter B of such chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after 
+December 31, 1954
+, for services performed on or before such date.
+
+
+
+
+
+
+(4)
+ Subtitle D
+Subtitle D of this title shall take effect on 
+January 1, 1955
+. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective 
+January 1, 1955
+. Provisions having the same effect as section 6416(b)(2)(H),
+1
+ and so much of section 4082(c) 
+1
+ as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of 
+May 1, 1954
+. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on 
+April 1, 1954
+, and ending on 
+December 31, 1954
+.
+
+
+
+
+
+
+(5)
+ Subtitle E
+Subtitle E shall take effect on 
+January 1, 1955
+, except that the provisions in section 5411 permitting the use of a brewery under regulations prescribed by the Secretary for the purpose of producing and bottling soft drinks, section 5554, and chapter 53 shall take effect on the day after the date of enactment of this title. Subchapter B of chapter 25, and part VIII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective on the day after the date of enactment of this title. Chapters 15 and 26, and part VII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective 
+January 1, 1955
+.
+
+
+
+
+
+
+(6)
+ Subtitle F
+(A)
+ General rule
+The provisions of subtitle F shall take effect on the day after the date of enactment of this title and shall be applicable with respect to any tax imposed by this title. The provisions of subtitle F shall apply with respect to any tax imposed by the Internal Revenue Code of 1939 only to the extent provided in subparagraphs (B) and (C) of this paragraph.
+
+
+
+
+
+
+(B)
+ Assessment, collection, and refunds
+Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37 (except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until 
+January 1, 1955
+, and shall also be applicable to the taxes imposed by this title. On and after 
+January 1, 1955
+, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Code of 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
+
+
+
+
+
+
+(C)
+ Taxes imposed under the 1939 Code
+After the date of enactment of this title, the following provisions of subtitle F shall apply to the taxes imposed by the Internal Revenue Code of 1939, notwithstanding any contrary provisions of such code:
+(i)
+ Chapter 73, relating to bonds.
+
+
+
+
+(ii)
+ Chapter 74, relating to closing agreements and compromises.
+
+
+
+
+(iii)
+ Chapter 75, relating to crimes and other offenses, but only insofar as it relates to offenses committed after the date of enactment of this title, and in the case of such offenses, section 6531, relating to periods of limitation on criminal prosecution, shall be applicable. The penalties (other than penalties which may be assessed) provided by the Internal Revenue Code of 1939 shall not apply to offenses, committed after the date of enactment of this title, to which chapter 75 of this title is applicable.
+
+
+
+
+(iv)
+ Chapter 76, relating to judicial proceedings.
+
+
+
+
+(v)
+ Chapter 77, relating to miscellaneous provisions, except that section 7502 shall apply only if the mailing occurs after the date of enactment of this title, and section 7503 shall apply only if the last date referred to therein occurs after the date of enactment of this title.
+
+
+
+
+(vi)
+ Chapter 78, relating to discovery of liability and enforcement of title.
+
+
+
+
+(vii)
+ Chapter 79, relating to definitions.
+
+
+
+
+(viii)
+ Chapter 80, relating to application of internal revenue laws, effective date, and related provisions.
+
+
+
+
+
+
+(D)
+ Chapter 28 and subtitle D of 1939 Code
+Except as otherwise provided in subparagraphs (B) and (C), the provisions of chapter 28 and of subtitle D of the Internal Revenue Code of 1939 shall remain in effect with respect to taxes imposed by the Internal Revenue Code of 1939.
+
+
+
+
+
+
+
+
+(7)
+ Other provisions
+If the effective date of any provision of the Internal Revenue Code of 1986 is not otherwise provided in this section or in any other section of this title, such provision shall take effect on the day after the date of enactment of this title. If the repeal of any provision of the Internal Revenue Code of 1939 is not otherwise provided by this section or by any other section of this title, such provision is hereby repealed effective on the day after the date of enactment of this title.
+
+
+
+
+
+
+(b)
+ Effect of repeal of Internal Revenue Code of 1939
+(1)
+ Existing rights and liabilities
+The repeal of any provision of the Internal Revenue Code of 1939 shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause, before such repeal; but all rights and liabilities under such code shall continue, and may be enforced in the same manner, as if such repeal had not been made.
+
+
+
+
+
+
+(2)
+ Existing offices
+The repeal of any provision of the Internal Revenue Code of 1939 shall not abolish, terminate, or otherwise change—
+(A)
+ any internal revenue district,
+
+
+
+
+(B)
+ any office, position, board, or committee, or
+
+
+
+
+(C)
+ the appointment or employment of any officer or employee,
+
+
+
+
+
+existing immediately preceding the enactment of this title, the continuance of which is not manifestly inconsistent with any provision of this title, but the same shall continue unless and until changed by lawful authority.
+
+
+
+
+(3)
+ Existing delegations of authority
+Any delegation of authority made pursuant to the provisions of Reorganization Plan Numbered 26 of 1950 or Reorganization Plan Numbered 1 of 1952, including any redelegation of authority made pursuant to any such delegation of authority, and in effect under the Internal Revenue Code of 1939 immediately preceding the enactment of this title shall, notwithstanding the repeal of such code, remain in effect for purposes of this title, unless distinctly inconsistent or manifestly incompatible with the provisions of this title. The preceding sentence shall not be construed as limiting in any manner the power to amend, modify, or revoke any such delegation or redelegation of authority.
+
+
+
+
+
+
+(c)
+ Crimes and forfeitures
+All offenses committed, and all penalties or forfeitures incurred, under any provision of law hereby repealed, may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.
+
+
+
+
+(d)
+ Periods of limitation
+All periods of limitation, whether applicable to civil causes and proceedings, or to the prosecution of offenses, or for the recovery of penalties or forfeitures, hereby repealed shall not be affected thereby, but all suits, proceedings, or prosecutions, whether civil or criminal, for causes arising, or acts done or committed, prior to said repeal, may be commenced and prosecuted within the same time as if this title had not been enacted.
+
+
+
+
+(e)
+ Reference to other provisions
+For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
+
+
+
+
+ Other applicable rules
+(a)
+ Separability clause
+If any provision of this title, or the application thereof to any person or circumstances, is held invalid, the remainder of the title, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+
+
+
+
+(b)
+ Reference in other laws to Internal Revenue Code of 1939
+Any reference in any other law of the United States or in any Executive order to any provision of the Internal Revenue Code of 1939 shall, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, be deemed also to refer to the corresponding provision of this title.
+
+
+
+
+(c)
+ Items not to be twice included in income or deducted therefrom
+Except as otherwise distinctly expressed or manifestly intended, the same item (whether of income, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
+
+
+
+
+(d)
+ Treaty obligations
+(1)
+ In general
+For purposes of determining the relationship between a provision of a treaty and any law of the United States affecting revenue, neither the treaty nor the law shall have preferential status by reason of its being a treaty or law.
+
+
+
+
+
+
+(2)
+ Savings clause for 1954 treaties
+No provision of this title (as in effect without regard to any amendment thereto enacted after 
+August 16, 1954
+) shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on 
+August 16, 1954
+.
+
+
+
+
+
+
+(e)
+ Privacy Act of 1974
+The provisions of subsections (d)(2), (3), and (4), and (g) of 
+section 552a of title 5
+, United States Code, shall not be applied, directly or indirectly, to the determination of the existence or possible existence of liability (or the amount thereof) of any person for any tax, penalty, interest, fine, forfeiture, or other imposition or offense to which the provisions of this title apply.
+
+
+
+
+ Indian tribal governments treated as States for certain purposes
+(a)
+ General rule
+An Indian tribal government shall be treated as a State—
+(1)
+ for purposes of determining whether and in what amount any contribution or transfer to or for the use of such government (or a political subdivision thereof) is deductible under—
+(A)
+ section 170 (relating to income tax deduction for charitable, etc., contributions and gifts),
+
+
+
+
+(B)
+ sections 2055 and 2106(a)(2) (relating to estate tax deduction for transfers of public, charitable, and religious uses), or
+
+
+
+
+(C)
+ section 2522 (relating to gift tax deduction for charitable and similar gifts);
+
+
+
+
+
+
+(2)
+ subject to subsection (b), for purposes of any exemption from, credit or refund of, or payment with respect to, an excise tax imposed by—
+(A)
+ chapter 31 (relating to tax on special fuels),
+
+
+
+
+(B)
+ chapter 32 (relating to manufacturers excise taxes),
+
+
+
+
+(C)
+ subchapter B of chapter 33 (relating to communications excise tax), or
+
+
+
+
+(D)
+ subchapter D of chapter 36 (relating to tax on use of certain highway vehicles);
+
+
+
+
+
+
+(3)
+ for purposes of section 164 (relating to deduction for taxes);
+
+
+
+
+(4)
+ subject to subsection (c), for purposes of section 103 (relating to State and local bonds);
+
+
+
+
+(5)
+ for purposes of section 511(a)(2)(B) (relating to the taxation of colleges and universities which are agencies or instrumentalities of governments or their political subdivisions);
+
+
+
+
+(6)
+ for purposes of—
+(A)
+ section 105(e) (relating to accident and health plans),
+
+
+
+
+(B)
+ section 403(b)(1)(A)(ii) (relating to the taxation of contributions of certain employers for employee annuities), and
+
+
+
+
+(C)
+ section 454(b)(2) (relating to discount obligations); and
+
+
+
+
+
+
+(7)
+ for purposes of—
+(A)
+ chapter 41 (relating to tax on excess expenditures to influence legislation), and
+
+
+
+
+(B)
+ subchapter A of chapter 42 (relating to private foundations).
+
+
+
+
+
+
+(b)
+ Additional requirements for excise tax exemptions
+Paragraph (2) of subsection (a) shall apply with respect to any transaction only if, in addition to any other requirement of this title applicable to similar transactions involving a State or political subdivision thereof, the transaction involves the exercise of an essential governmental function of the Indian tribal government.
+
+
+
+
+(c)
+ Additional requirements for tax-exempt bonds
+(1)
+ In general
+Subsection (a) of section 103 shall apply to any obligation (not described in paragraph (2)) issued by an Indian tribal government (or subdivision thereof) only if such obligation is part of an issue substantially all of the proceeds of which are to be used in the exercise of any essential governmental function.
+
+
+
+
+
+
+(2)
+ No exemption for private activity bonds
+Except as provided in paragraph (3), subsection (a) of section 103 shall not apply to any private activity bond (as defined in section 141(a)) issued by an Indian tribal government (or subdivision thereof).
+
+
+
+
+
+
+(3)
+ Exception for certain private activity bonds
+(A)
+ In general
+In the case of an obligation to which this paragraph applies—
+(i)
+ paragraph (2) shall not apply,
+
+
+
+
+(ii)
+ such obligation shall be treated for purposes of this title as a qualified small issue bond, and
+
+
+
+
+(iii)
+ section 146 shall not apply.
+
+
+
+
+
+
+(B)
+ Obligations to which paragraph applies
+This paragraph shall apply to any obligation issued as part of an issue if—
+(i)
+ 95 percent or more of the net proceeds of the issue are to be used for the acquisition, construction, reconstruction, or improvement of property which is of a character subject to the allowance for depreciation and which is part of a manufacturing facility (as defined in section 144(a)(12)(C)),
+
+
+
+
+(ii)
+ such issue is issued by an Indian tribal government or a subdivision thereof,
+
+
+
+
+(iii)
+ 95 percent or more of the net proceeds of the issue are to be used to finance property which—
+(I)
+ is to be located on land which, throughout the 5-year period ending on the date of issuance of such issue, is part of the qualified Indian lands of the issuer, and
+
+
+
+
+(II)
+ is to be owned and operated by such issuer,
+
+
+
+
+
+
+(iv)
+ such obligation would not be a private activity bond without regard to subparagraph (C),
+
+
+
+
+(v)
+ it is reasonably expected (at the time of issuance of the issue) that the employment requirement of subparagraph (D)(i) will be met with respect to the facility to be financed by the net proceeds of the issue, and
+
+
+
+
+(vi)
+ no principal user of such facility will be a person (or group of persons) described in section 144(a)(6)(B).
+
+
+
+
+
+For purposes of clause (iii), section 150(a)(5) shall apply.
+
+
+
+
+(C)
+ Private activity bond rules to apply
+An obligation to which this paragraph applies (other than an obligation described in paragraph (1)) shall be treated for purposes of this title as a private activity bond.
+
+
+
+
+
+
+(D)
+ Employment requirements
+(i)
+ In general
+The employment requirements of this subparagraph are met with respect to a facility financed by the net proceeds of an issue if, as of the close of each calendar year in the testing period, the aggregate face amount of all outstanding tax-exempt private activity bonds issued to provide financing for the establishment which includes such facility is not more than 20 times greater than the aggregate wages (as defined by section 3121(a)) paid during the preceding calendar year to individuals (who are enrolled members of the Indian tribe of the issuer or the spouse of any such member) for services rendered at such establishment.
+
+
+
+
+
+
+(ii)
+ Failure to meet requirements
+(I)
+ In general
+If, as of the close of any calendar year in the testing period, the requirements of this subparagraph are not met with respect to an establishment, section 103 shall cease to apply to interest received or accrued (on all private activity bonds issued to provide financing for the establishment) after the close of such calendar year.
+
+
+
+
+
+
+(II)
+ Exception
+Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender 
+1
+1
+ So in original. Probably should be “calendar”.
+ year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+
+
+
+
+
+
+
+
+(iii)
+ Testing period
+For purposes of this subparagraph, the term “testing period” means, with respect to an issue, each calendar year which begins more than 2 years after the date of issuance of the issue (or, in the case of a refunding obligation, the date of issuance of the original issue).
+
+
+
+
+
+
+
+
+(E)
+ Definitions
+For purposes of this paragraph—
+(i)
+ Qualified Indian lands
+The term “qualified Indian lands” means land which is held in trust by the United States for the benefit of an Indian tribe.
+
+
+
+
+
+
+(ii)
+ Indian tribe
+The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+
+
+
+
+
+(iii)
+ Net proceeds
+The term “net proceeds” has the meaning given such term by section 150(a)(3).
+
+
+
+
+
+
+
+
+
+
+(d)
+ Treatment of subdivisions of Indian tribal governments as political subdivisions
+For the purposes specified in subsection (a), a subdivision of an Indian tribal government shall be treated as a political subdivision of a State if (and only if) the Secretary determines (after consultation with the Secretary of the Interior) that such subdivision has been delegated the right to exercise one or more of the substantial governmental functions of the Indian tribal government.
+
+
+
+
+(e)
+ Essential governmental function
+For purposes of this section, the term “essential governmental function” shall not include any function which is not customarily performed by State and local governments with general taxing powers.
+
+
+
+
+(f)
+ Tribal economic development bonds
+(1)
+ Allocation of limitation
+(A)
+ In general
+The Secretary shall allocate the national tribal economic development bond limitation among the Indian tribal governments in such manner as the Secretary, in consultation with the Secretary of the Interior, determines appropriate.
+
+
+
+
+
+
+(B)
+ National limitation
+There is a national tribal economic development bond limitation of $2,000,000,000.
+
+
+
+
+
+
+
+
+(2)
+ Bonds treated as exempt from tax
+In the case of a tribal economic development bond—
+(A)
+ notwithstanding subsection (c), such bond shall be treated for purposes of this title in the same manner as if such bond were issued by a State,
+
+
+
+
+(B)
+ the Indian tribal government issuing such bond and any instrumentality of such Indian tribal government shall be treated as a State for purposes of section 141, and
+
+
+
+
+(C)
+ section 146 shall not apply.
+
+
+
+
+
+
+(3)
+ Tribal economic development bond
+(A)
+ In general
+For purposes of this section, the term “tribal economic development bond” means any bond issued by an Indian tribal government—
+(i)
+ the interest on which would be exempt from tax under section 103 if issued by a State or local government, and
+
+
+
+
+(ii)
+ which is designated by the Indian tribal government as a tribal economic development bond for purposes of this subsection.
+
+
+
+
+
+
+(B)
+ Exceptions
+Such term shall not include any bond issued as part of an issue if any portion of the proceeds of such issue are used to finance—
+(i)
+ any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
+
+
+
+
+(ii)
+ any facility located outside the Indian reservation (as defined in section 168(j)(6)).
+
+
+
+
+
+
+(C)
+ Limitation on amount of bonds designated
+The maximum aggregate face amount of bonds which may be designated by any Indian tribal government under subparagraph (A) shall not exceed the amount of national tribal economic development bond limitation allocated to such government under paragraph (1).
+
+
+
+
+
+
+
+
+ Treatment of loans with below-market interest rates
+(a)
+ Treatment of gift loans and demand loans
+(1)
+ In general
+For purposes of this title, in the case of any below-market loan to which this section applies and which is a gift loan or a demand loan, the forgone interest shall be treated as—
+(A)
+ transferred from the lender to the borrower, and
+
+
+
+
+(B)
+ retransferred by the borrower to the lender as interest.
+
+
+
+
+
+
+(2)
+ Time when transfers made
+Except as otherwise provided in regulations prescribed by the Secretary, any forgone interest attributable to periods during any calendar year shall be treated as transferred (and retransferred) under paragraph (1) on the last day of such calendar year.
+
+
+
+
+
+
+(b)
+ Treatment of other below-market loans
+(1)
+ In general
+For purposes of this title, in the case of any below-market loan to which this section applies and to which subsection (a)(1) does not apply, the lender shall be treated as having transferred on the date the loan was made (or, if later, on the first day on which this section applies to such loan), and the borrower shall be treated as having received on such date, cash in an amount equal to the excess of—
+(A)
+ the amount loaned, over
+
+
+
+
+(B)
+ the present value of all payments which are required to be made under the terms of the loan.
+
+
+
+
+
+
+(2)
+ Obligation treated as having original issue discount
+For purposes of this title—
+(A)
+ In general
+Any below-market loan to which paragraph (1) applies shall be treated as having original issue discount in an amount equal to the excess described in paragraph (1).
+
+
+
+
+
+
+(B)
+ Amount in addition to other original issue discount
+Any original issue discount which a loan is treated as having by reason of subparagraph (A) shall be in addition to any other original issue discount on such loan (determined without regard to subparagraph (A)).
+
+
+
+
+
+
+
+
+(c)
+ Below-market loans to which section applies
+(1)
+ In general
+Except as otherwise provided in this subsection and subsection (g), this section shall apply to—
+(A)
+ Gifts
+Any below-market loan which is a gift loan.
+
+
+
+
+
+
+(B)
+ Compensation-related loans
+Any below-market loan directly or indirectly between—
+(i)
+ an employer and an employee, or
+
+
+
+
+(ii)
+ an independent contractor and a person for whom such independent contractor provides services.
+
+
+
+
+
+
+(C)
+ Corporation-shareholder loans
+Any below-market loan directly or indirectly between a corporation and any shareholder of such corporation.
+
+
+
+
+
+
+(D)
+ Tax avoidance loans
+Any below-market loan 1 of the principal purposes of the interest arrangements of which is the avoidance of any Federal tax.
+
+
+
+
+
+
+(E)
+ Other below-market loans
+To the extent provided in regulations, any below-market loan which is not described in subparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
+
+
+
+
+
+
+(F)
+ Loans to qualified continuing care facilities
+Any loan to any qualified continuing care facility pursuant to a continuing care contract.
+
+
+
+
+
+
+
+
+(2)
+ $10,000 de minimis exception for gift loans between individuals
+(A)
+ In general
+In the case of any gift loan directly between individuals, this section shall not apply to any day on which the aggregate outstanding amount of loans between such individuals does not exceed $10,000.
+
+
+
+
+
+
+(B)
+ De minimis exception not to apply to loans attributable to acquisition of income-producing assets
+Subparagraph (A) shall not apply to any gift loan directly attributable to the purchase or carrying of income-producing assets.
+
+
+
+
+
+
+(C)
+ Cross reference
+For limitation on amount treated as interest where loans do not exceed $100,000, see subsection (d)(1).
+
+
+
+
+
+
+
+
+(3)
+ $10,000 de minimis exception for compensation-related and corporate-shareholder loans
+(A)
+ In general
+In the case of any loan described in subparagraph (B) or (C) of paragraph (1), this section shall not apply to any day on which the aggregate outstanding amount of loans between the borrower and lender does not exceed $10,000.
+
+
+
+
+
+
+(B)
+ Exception not to apply where 1 of principal purposes is tax avoidance
+Subparagraph (A) shall not apply to any loan the interest arrangements of which have as 1 of their principal purposes the avoidance of any Federal tax.
+
+
+
+
+
+
+
+
+(d)
+ Special rules for gift loans
+(1)
+ Limitation on interest accrual for purposes of income taxes where loans do not exceed $100,000
+(A)
+ In general
+For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower’s net investment income for such year.
+
+
+
+
+
+
+(B)
+ Limitation not to apply where 1 of principal purposes is tax avoidance
+Subparagraph (A) shall not apply to any loan the interest arrangements of which have as 1 of their principal purposes the avoidance of any Federal tax.
+
+
+
+
+
+
+(C)
+ Special rule where more than 1 gift loan outstanding
+For purposes of subparagraph (A), in any case in which a borrower has outstanding more than 1 gift loan, the net investment income of such borrower shall be allocated among such loans in proportion to the respective amounts which would be treated as retransferred by the borrower without regard to this paragraph.
+
+
+
+
+
+
+(D)
+ Limitation not to apply where aggregate amount of loans exceed $100,000
+This paragraph shall not apply to any loan made by a lender to a borrower for any day on which the aggregate outstanding amount of loans between the borrower and lender exceeds $100,000.
+
+
+
+
+
+
+(E)
+ Net investment income
+For purposes of this paragraph—
+(i)
+ In general
+The term “net investment income” has the meaning given such term by section 163(d)(4).
+
+
+
+
+
+
+(ii)
+ De minimis rule
+If the net investment income of any borrower for any year does not exceed $1,000, the net investment income of such borrower for such year shall be treated as zero.
+
+
+
+
+
+
+(iii)
+ Additional amounts treated as interest
+In determining the net investment income of a person for any year, any amount which would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
+
+
+
+
+
+
+(iv)
+ Deferred payment obligations
+The term “deferred payment obligation” includes any market discount bond, short-term obligation, United States savings bond, annuity, or similar obligation.
+
+
+
+
+
+
+
+
+
+
+(2)
+ Special rule for gift tax
+In the case of any gift loan which is a term loan, subsection (b)(1) (and not subsection (a)) shall apply for purposes of chapter 12.
+
+
+
+
+
+
+(e)
+ Definitions of below-market loan and forgone interest
+For purposes of this section—
+(1)
+ Below-market loan
+The term “below-market loan” means any loan if—
+(A)
+ in the case of a demand loan, interest is payable on the loan at a rate less than the applicable Federal rate, or
+
+
+
+
+(B)
+ in the case of a term loan, the amount loaned exceeds the present value of all payments due under the loan.
+
+
+
+
+
+
+(2)
+ Forgone interest
+The term “forgone interest” means, with respect to any period during which the loan is outstanding, the excess of—
+(A)
+ the amount of interest which would have been payable on the loan for the period if interest accrued on the loan at the applicable Federal rate and were payable annually on the day referred to in subsection (a)(2), over
+
+
+
+
+(B)
+ any interest payable on the loan properly allocable to such period.
+
+
+
+
+
+
+(f)
+ Other definitions and special rules
+For purposes of this section—
+(1)
+ Present value
+The present value of any payment shall be determined in the manner provided by regulations prescribed by the Secretary—
+(A)
+ as of the date of the loan, and
+
+
+
+
+(B)
+ by using a discount rate equal to the applicable Federal rate.
+
+
+
+
+
+
+(2)
+ Applicable Federal rate
+(A)
+ Term loans
+In the case of any term loan, the applicable Federal rate shall be the applicable Federal rate in effect under section 1274(d) (as of the day on which the loan was made), compounded semiannually.
+
+
+
+
+
+
+(B)
+ Demand loans
+In the case of a demand loan, the applicable Federal rate shall be the Federal short-term rate in effect under section 1274(d) for the period for which the amount of forgone interest is being determined, compounded semiannually.
+
+
+
+
+
+
+
+
+(3)
+ Gift loan
+The term “gift loan” means any below-market loan where the forgoing of interest is in the nature of a gift.
+
+
+
+
+
+
+(4)
+ Amount loaned
+The term “amount loaned” means the amount received by the borrower.
+
+
+
+
+
+
+(5)
+ Demand loan
+The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To the extent provided in regulations, such term also includes any loan with an indefinite maturity.
+
+
+
+
+
+
+(6)
+ Term loan
+The term “term loan” means any loan which is not a demand loan.
+
+
+
+
+
+
+(7)
+ Husband and wife treated as 1 person
+A husband and wife shall be treated as 1 person.
+
+
+
+
+
+
+(8)
+ Loans to which section 483, 643(i), or 1274 applies
+This section shall not apply to any loan to which section 483, 643(i), or 1274 applies.
+
+
+
+
+
+
+(9)
+ No withholding
+No amount shall be withheld under chapter 24 with respect to—
+(A)
+ any amount treated as transferred or retransferred under subsection (a), and
+
+
+
+
+(B)
+ any amount treated as received under subsection (b).
+
+
+
+
+
+
+(10)
+ Special rule for term loans
+If this section applies to any term loan on any day, this section shall continue to apply to such loan notwithstanding paragraphs (2) and (3) of subsection (c). In the case of a gift loan, the preceding sentence shall only apply for purposes of chapter 12.
+
+
+
+
+
+
+(11)
+ Time for determining rate applicable to employee relocation loans
+(A)
+ In general
+In the case of any term loan made by an employer to an employee the proceeds of which are used by the employee to purchase a principal residence (within the meaning of section 121), the determination of the applicable Federal rate shall be made as of the date the written contract to purchase such residence was entered into.
+
+
+
+
+
+
+(B)
+ Paragraph only to apply to cases to which section 217 applies
+Subparagraph (A) shall only apply to the purchase of a principal residence in connection with the commencement of work by an employee or a change in the principal place of work of an employee to which section 217 applies.
+
+
+
+
+
+
+
+
+(g)
+ Exception for certain loans to qualified continuing care facilities
+(1)
+ In general
+This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facility pursuant to a continuing care contract if the lender (or the lender’s spouse) attains age 65 before the close of such year.
+
+
+
+
+
+
+(2)
+ $90,000 limit
+Paragraph (1) shall apply only to the extent that the aggregate outstanding amount of any loan to which such paragraph applies (determined without regard to this paragraph), when added to the aggregate outstanding amount of all other previous loans between the lender (or the lender’s spouse) and any qualified continuing care facility to which paragraph (1) applies, does not exceed $90,000.
+
+
+
+
+
+
+(3)
+ Continuing care contract
+For purposes of this section, the term “continuing care contract” means a written contract between an individual and a qualified continuing care facility under which—
+(A)
+ the individual or individual’s spouse may use a qualified continuing care facility for their life or lives,
+
+
+
+
+(B)
+ the individual or individual’s spouse—
+(i)
+ will first—
+(I)
+ reside in a separate, independent living unit with additional facilities outside such unit for the providing of meals and other personal care, and
+
+
+
+
+(II)
+ not require long-term nursing care, and
+
+
+
+
+
+
+(ii)
+ then will be provided long-term and skilled nursing care as the health of such individual or individual’s spouse requires, and
+
+
+
+
+
+
+(C)
+ no additional substantial payment is required if such individual or individual’s spouse requires increased personal care services or long-term and skilled nursing care.
+
+
+
+
+
+
+(4)
+ Qualified continuing care facility
+(A)
+ In general
+For purposes of this section, the term “qualified continuing care facility” means 1 or more facilities—
+(i)
+ which are designed to provide services under continuing care contracts, and
+
+
+
+
+(ii)
+ substantially all of the residents of which are covered by continuing care contracts.
+
+
+
+
+
+
+(B)
+ Substantially all facilities must be owned or operated by borrower
+A facility shall not be treated as a qualified continuing care facility unless substantially all facilities which are used to provide services which are required to be provided under a continuing care contract are owned or operated by the borrower.
+
+
+
+
+
+
+(C)
+ Nursing homes excluded
+The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+
+
+
+
+
+
+
+
+(5)
+ Adjustment of limit for inflation
+(A)
+ In general
+In the case of any loan made during any calendar year after 1986 to which paragraph (1) applies, the dollar amount in paragraph (2) shall be increased by the inflation adjustment for such calendar year. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
+
+
+
+
+
+
+(B)
+ Inflation adjustment
+For purposes of subparagraph (A), the inflation adjustment for any calendar year is the percentage (if any) by which—
+(i)
+ the CPI for the preceding calendar year exceeds
+
+
+
+
+(ii)
+ the CPI for calendar year 1985.
+
+
+
+
+
+For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.
+
+
+
+
+
+
+(6)
+ Suspension of application
+Paragraph (1) shall not apply for any calendar year to which subsection (h) applies.
+
+
+
+
+
+
+(h)
+ Exception for loans to qualified continuing care facilities
+(1)
+ In general
+This section shall not apply for any calendar year to any below-market loan owed by a facility which on the last day of such year is a qualified continuing care facility, if such loan was made pursuant to a continuing care contract and if the lender (or the lender’s spouse) attains age 62 before the close of such year.
+
+
+
+
+
+
+(2)
+ Continuing care contract
+For purposes of this section, the term “continuing care contract” means a written contract between an individual and a qualified continuing care facility under which—
+(A)
+ the individual or individual’s spouse may use a qualified continuing care facility for their life or lives,
+
+
+
+
+(B)
+ the individual or individual’s spouse will be provided with housing, as appropriate for the health of such individual or individual’s spouse—
+(i)
+ in an independent living unit (which has additional available facilities outside such unit for the provision of meals and other personal care), and
+
+
+
+
+(ii)
+ in an assisted living facility or a nursing facility, as is available in the continuing care facility, and
+
+
+
+
+
+
+(C)
+ the individual or individual’s spouse will be provided assisted living or nursing care as the health of such individual or individual’s spouse requires, and as is available in the continuing care facility.
+
+
+
+
+
+The Secretary shall issue guidance which limits such term to contracts which provide only facilities, care, and services described in this paragraph.
+
+
+
+
+(3)
+ Qualified continuing care facility
+(A)
+ In general
+For purposes of this section, the term “qualified continuing care facility” means 1 or more facilities—
+(i)
+ which are designed to provide services under continuing care contracts,
+
+
+
+
+(ii)
+ which include an independent living unit, plus an assisted living or nursing facility, or both, and
+
+
+
+
+(iii)
+ substantially all of the independent living unit residents of which are covered by continuing care contracts.
+
+
+
+
+
+
+(B)
+ Nursing homes excluded
+The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+
+
+
+
+
+
+
+
+(i)
+ Regulations
+(1)
+ In general
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
+(A)
+ regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender’s or borrower’s interest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
+
+
+
+
+(B)
+ regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
+
+
+
+
+(C)
+ regulations exempting from the application of this section any class of transactions the interest arrangements of which have no significant effect on any Federal tax liability of the lender or the borrower.
+
+
+
+
+
+
+(2)
+ Estate tax coordination
+Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
+
+
+
+
+
+
+“(a)
+ 
+Section
+ 201.—
+“(1)
+ 
+In general
+.—
+The amendments made by section 201 [amending this section] shall apply with respect to loans made after the date of enactment of this Act [
+Oct. 11, 1985
+].
+
+
+
+
+“(2)
+ 
+Section 7872 not to apply to certain loans
+.—
+Section 7872 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall not apply to loans made on or before the date of the enactment of this Act [
+Oct. 11, 1985
+] to any qualified continuing care facility pursuant to a continuing care contract. For purposes of this paragraph, the terms ‘qualified continuing care facility’ and ‘continuing care contract’ have the meanings given such terms by section 7872(g) of such Code (as added by section 201).
+
+
+
+
+“(b)
+ 
+Section
+ 202.—
+The amendment made by section 202 [amending this section] shall apply to contracts entered into after 
+June 30, 1985
+, in taxable years ending after such date.”
+
+
+ Income derived by Indians from exercise of fishing rights
+(a)
+ In general
+(1)
+ Income and self-employment taxes
+No tax shall be imposed by subtitle A on income derived—
+(A)
+ by a member of an Indian tribe directly or through a qualified Indian entity, or
+
+
+
+
+(B)
+ by a qualified Indian entity,
+
+
+
+
+
+from a fishing rights-related activity of such tribe.
+
+
+
+
+(2)
+ Employment taxes
+No tax shall be imposed by subtitle C on remuneration paid for services performed in a fishing rights-related activity of an Indian tribe by a member of such tribe for another member of such tribe or for a qualified Indian entity.
+
+
+
+
+
+
+(b)
+ Definitions
+For purposes of this section—
+(1)
+ Fishing rights-related activity
+The term “fishing rights-related activity” means, with respect to an Indian tribe, any activity directly related to harvesting, processing, or transporting fish harvested in the exercise of a recognized fishing right of such tribe or to selling such fish but only if substantially all of such harvesting was performed by members of such tribe.
+
+
+
+
+
+
+(2)
+ Recognized fishing rights
+The term “recognized fishing rights” means, with respect to an Indian tribe, fishing rights secured as of 
+March 17, 1988
+, by a treaty between such tribe and the United States or by an Executive order or an Act of Congress.
+
+
+
+
+
+
+(3)
+ Qualified Indian entity
+(A)
+ In general
+The term “qualified Indian entity” means, with respect to an Indian tribe, any entity if—
+(i)
+ such entity is engaged in a fishing rights-related activity of such tribe,
+
+
+
+
+(ii)
+ all of the equity interests in the entity are owned by qualified Indian tribes, members of such tribes, or their spouses,
+
+
+
+
+(iii)
+ except as provided in regulations, in the case of an entity which engages to any extent in any substantial processing or transporting of fish, 90 percent or more of the annual gross receipts of the entity is derived from fishing rights-related activities of one or more qualified Indian tribes each of which owns at least 10 percent of the equity interests in the entity, and
+
+
+
+
+(iv)
+ substantially all of the management functions of the entity are performed by members of qualified Indian tribes.
+
+
+
+
+
+For purposes of clause (iii), equity interests owned by a member (or the spouse of a member) of a qualified Indian tribe shall be treated as owned by the tribe.
+
+
+
+
+(B)
+ Qualified indian tribe
+For purposes of subparagraph (A), an Indian tribe is a qualified Indian tribe with respect to an entity if such entity is engaged in a fishing rights-related activity of such tribe.
+
+
+
+
+
+
+
+
+(c)
+ Special rules
+(1)
+ Distributions from qualified Indian entity
+For purposes of this section, any distribution with respect to an equity interest in a qualified Indian entity of an Indian tribe to a member of such tribe shall be treated as derived by such member from a fishing rights-related activity of such tribe to the extent such distribution is attributable to income derived by such entity from a fishing rights-related activity of such tribe.
+
+
+
+
+
+
+(2)
+ De minimis unrelated amounts may be excluded
+If, but for this paragraph, all but a de minimis amount—
+(A)
+ derived by a qualified Indian tribal entity, or by an individual through such an entity, is entitled to the benefits of paragraph (1) of subsection (a), or
+
+
+
+
+(B)
+ paid to an individual for services is entitled to the benefits of paragraph (2) of subsection (a),
+
+
+
+
+
+then the entire amount shall be entitled to the benefits of such paragraph.
+
+
+
+
+“(a)
+ 
+Effective Date
+.—
+The amendments made by this subtitle [subtitle E (§§ 3041–3044) of title III of 
+Pub. L. 100–647
+, enacting this section and amending sections 1402 and 3121 of this title, 
+section 71 of Title 25
+, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare] shall apply to all periods beginning before, on, or after the date of the enactment of this Act [
+Nov. 10, 1988
+].
+
+
+“(b)
+ 
+No Inference Created
+.—
+Nothing in the amendments made by this subtitle shall create any inference as to the existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of 
+March 17, 1988
+, by any treaty, law, or Executive Order.”
+
+
+ Rules relating to expatriated entities and their foreign parents
+(a)
+ Tax on inversion gain of expatriated entities
+(1)
+ In general
+The taxable income of an expatriated entity for any taxable year which includes any portion of the applicable period shall in no event be less than the inversion gain of the entity for the taxable year.
+
+
+
+
+
+
+(2)
+ Expatriated entity
+For purposes of this subsection—
+(A)
+ In general
+The term “expatriated entity” means—
+(i)
+ the domestic corporation or partnership referred to in subparagraph (B)(i) with respect to which a foreign corporation is a surrogate foreign corporation, and
+
+
+
+
+(ii)
+ any United States person who is related (within the meaning of section 267(b) or 707(b)(1)) to a domestic corporation or partnership described in clause (i).
+
+
+
+
+
+
+(B)
+ Surrogate foreign corporation
+A foreign corporation shall be treated as a surrogate foreign corporation if, pursuant to a plan (or a series of related transactions)—
+(i)
+ the entity completes after 
+March 4, 2003
+, the direct or indirect acquisition of substantially all of the properties held directly or indirectly by a domestic corporation or substantially all of the properties constituting a trade or business of a domestic partnership,
+
+
+
+
+(ii)
+ after the acquisition at least 60 percent of the stock (by vote or value) of the entity is held—
+(I)
+ in the case of an acquisition with respect to a domestic corporation, by former shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
+
+
+
+
+(II)
+ in the case of an acquisition with respect to a domestic partnership, by former partners of the domestic partnership by reason of holding a capital or profits interest in the domestic partnership, and
+
+
+
+
+
+
+(iii)
+ after the acquisition the expanded affiliated group which includes the entity does not have substantial business activities in the foreign country in which, or under the law of which, the entity is created or organized, when compared to the total business activities of such expanded affiliated group.
+
+
+
+
+
+An entity otherwise described in clause (i) with respect to any domestic corporation or partnership trade or business shall be treated as not so described if, on or before 
+March 4, 2003
+, such entity acquired directly or indirectly more than half of the properties held directly or indirectly by such corporation or more than half of the properties constituting such partnership trade or business, as the case may be.
+
+
+
+
+
+
+(3)
+ Coordination with subsection (b)
+A corporation which is treated as a domestic corporation under subsection (b) shall not be treated as a surrogate foreign corporation for purposes of paragraph (2)(A).
+
+
+
+
+
+
+(b)
+ Inverted corporations treated as domestic corporations
+Notwithstanding section 7701(a)(4), a foreign corporation shall be treated for purposes of this title as a domestic corporation if such corporation would be a surrogate foreign corporation if subsection (a)(2) were applied by substituting “80 percent” for “60 percent”.
+
+
+
+
+(c)
+ Definitions and special rules
+(1)
+ Expanded affiliated group
+The term “expanded affiliated group” means an affiliated group as defined in section 1504(a) but without regard to section 1504(b)(3), except that section 1504(a) shall be applied by substituting “more than 50 percent” for “at least 80 percent” each place it appears.
+
+
+
+
+
+
+(2)
+ Certain stock disregarded
+There shall not be taken into account in determining ownership under subsection (a)(2)(B)(ii)—
+(A)
+ stock held by members of the expanded affiliated group which includes the foreign corporation, or
+
+
+
+
+(B)
+ stock of such foreign corporation which is sold in a public offering related to the acquisition described in subsection (a)(2)(B)(i).
+
+
+
+
+
+
+(3)
+ Plan deemed in certain cases
+If a foreign corporation acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is 2 years before the ownership requirements of subsection (a)(2)(B)(ii) are met, such actions shall be treated as pursuant to a plan.
+
+
+
+
+
+
+(4)
+ Certain transfers disregarded
+The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
+
+
+
+
+
+
+(5)
+ Special rule for related partnerships
+For purposes of applying subsection (a)(2)(B)(ii) to the acquisition of a trade or business of a domestic partnership, except as provided in regulations, all partnerships which are under common control (within the meaning of section 482) shall be treated as 1 partnership.
+
+
+
+
+
+
+(6)
+ Regulations
+The Secretary shall prescribe such regulations as may be appropriate to determine whether a corporation is a surrogate foreign corporation, including regulations—
+(A)
+ to treat warrants, options, contracts to acquire stock, convertible debt interests, and other similar interests as stock, and
+
+
+
+
+(B)
+ to treat stock as not stock.
+
+
+
+
+
+
+(d)
+ Other definitions
+For purposes of this section—
+(1)
+ Applicable period
+The term “applicable period” means the period—
+(A)
+ beginning on the first date properties are acquired as part of the acquisition described in subsection (a)(2)(B)(i), and
+
+
+
+
+(B)
+ ending on the date which is 10 years after the last date properties are acquired as part of such acquisition.
+
+
+
+
+
+
+(2)
+ Inversion gain
+The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
+(A)
+ as part of the acquisition described in subsection (a)(2)(B)(i), or
+
+
+
+
+(B)
+ after such acquisition if the transfer or license is to a foreign related person.
+
+
+
+
+
+Subparagraph (B) shall not apply to property described in section 1221(a)(1) in the hands of the expatriated entity.
+
+
+
+
+(3)
+ Foreign related person
+The term “foreign related person” means, with respect to any expatriated entity, a foreign person which—
+(A)
+ is related (within the meaning of section 267(b) or 707(b)(1)) to such entity, or
+
+
+
+
+(B)
+ is under the same common control (within the meaning of section 482) as such entity.
+
+
+
+
+
+
+(e)
+ Special rules
+(1)
+ Credits not allowed against tax on inversion gain
+Credits (other than the credit allowed by section 901) shall be allowed against the tax imposed by this chapter on an expatriated entity for any taxable year described in subsection (a) only to the extent such tax exceeds the product of—
+(A)
+ the amount of the inversion gain for the taxable year, and
+
+
+
+
+(B)
+ the highest rate of tax specified in section 11(b)(1).
+
+
+
+
+
+For purposes of determining the credit allowed by section 901, inversion gain shall be treated as from sources within the United States.
+
+
+
+
+(2)
+ Special rules for partnerships
+In the case of an expatriated entity which is a partnership—
+(A)
+ subsection (a)(1) shall apply at the partner rather than the partnership level,
+
+
+
+
+(B)
+ the inversion gain of any partner for any taxable year shall be equal to the sum of—
+(i)
+ the partner’s distributive share of inversion gain of the partnership for such taxable year, plus
+
+
+
+
+(ii)
+ gain recognized for the taxable year by the partner by reason of the transfer during the applicable period of any partnership interest of the partner in such partnership to the surrogate foreign corporation, and
+
+
+
+
+
+
+(C)
+ the highest rate of tax specified in the rate schedule applicable to the partner under this chapter shall be substituted for the rate of tax referred to in paragraph (1).
+
+
+
+
+
+
+(3)
+ Coordination with section 172 and minimum tax
+Rules similar to the rules of paragraphs (3) and (4) of section 860E(a) shall apply for purposes of subsection (a).
+
+
+
+
+
+
+(4)
+ Statute of limitations
+(A)
+ In general
+The statutory period for the assessment of any deficiency attributable to the inversion gain of any taxpayer for any pre-inversion year shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of the acquisition described in subsection (a)(2)(B)(i) to which such gain relates and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+
+
+
+
+
+
+(B)
+ Pre-inversion year
+For purposes of subparagraph (A), the term “pre-inversion year” means any taxable year if—
+(i)
+ any portion of the applicable period is included in such taxable year, and
+
+
+
+
+(ii)
+ such year ends before the taxable year in which the acquisition described in subsection (a)(2)(B)(i) is completed.
+
+
+
+
+
+
+
+
+(f)
+ Special rule for treaties
+Nothing in section 894 or 7852(d) or in any other provision of law shall be construed as permitting an exemption, by reason of any treaty obligation of the United States heretofore or hereafter entered into, from the provisions of this section.
+
+
+
+
+(g)
+ Regulations
+The Secretary shall provide such regulations as are necessary to carry out this section, including regulations providing for such adjustments to the application of this section as are necessary to prevent the avoidance of the purposes of this section, including the avoidance of such purposes through—
+(1)
+ the use of related persons, pass-through or other noncorporate entities, or other intermediaries, or
+
+
+
+
+(2)
+ transactions designed to have persons cease to be (or not become) members of expanded affiliated groups or related persons.
+
+
+
+

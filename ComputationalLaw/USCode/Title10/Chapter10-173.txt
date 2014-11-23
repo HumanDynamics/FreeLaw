@@ -1,0 +1,1882 @@
+
+Chapter 173
+ENERGY SECURITY
+ Energy performance goals and master plan for the Department of Defense
+(a)
+ 
+Energy Performance Goals
+.—
+(1)
+ The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
+
+
+
+
+(2)
+ The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under 
+section 1105 of title 31
+ and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
+
+
+
+
+(b)
+ 
+Energy Performance Master Plan
+.—
+(1)
+ The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
+
+
+
+
+(2)
+ The master plan shall include the following:
+(A)
+ A separate master plan, developed by each military department and Defense Agency, for the achievement of energy performance goals.
+
+
+
+
+(B)
+ The use of a baseline standard for the measurement of energy consumption by transportation systems, support systems, utilities, and facilities and infrastructure that is consistent for all of the military departments.
+
+
+
+
+(C)
+ A method of measurement of reductions or conservation in energy consumption that provides for the taking into account of changes in the current size of fleets, number of facilities, and overall square footage of facility plants.
+
+
+
+
+(D)
+ Metrics to track annual progress in meeting energy performance goals.
+
+
+
+
+(E)
+ A description of specific requirements, and proposed investments, in connection with the achievement of energy performance goals reflected in the budget of the President for each fiscal year (as submitted to Congress under 
+section 1105(a) of title 31
+).
+
+
+
+
+(F)
+ The up-to date list of energy-efficient products maintained under 
+section 2915(e)(2) of this title
+.
+
+
+
+
+
+
+(3)
+ Not later than 30 days after the date on which the budget of the President is submitted to Congress for a fiscal year under 
+section 1105(a) of title 31
+, the Secretary shall submit the current version of the master plan to Congress.
+
+
+
+
+(c)
+ 
+Special Considerations
+.—
+For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
+(1)
+ Opportunities to reduce the current rate of consumption of energy.
+
+
+
+
+(2)
+ Opportunities to reduce the future demand and the requirements for the use of energy.
+
+
+
+
+(3)
+ Opportunities to implement conservation measures to improve the efficient use of energy.
+
+
+
+
+(4)
+ Opportunities to pursue alternative energy initiatives, including the use of alternative fuels and hybrid-electric drive in military vehicles and equipment.
+
+
+
+
+(5)
+ Opportunities for the high-performance construction, lease, operation, and maintenance of buildings.
+
+
+
+
+(6)
+ Cost effectiveness, cost savings, and net present value of alternatives.
+
+
+
+
+(7)
+ The value of diversification of types and sources of energy used.
+
+
+
+
+(8)
+ The value of economies-of-scale associated with fewer energy types used.
+
+
+
+
+(9)
+ The value of the use of renewable energy sources.
+
+
+
+
+(10)
+ The value of incorporating electric, hybrid-electric, and high efficiency vehicles into vehicle fleets.
+
+
+
+
+(11)
+ The potential for an action to serve as an incentive for members of the armed forces and civilian personnel to reduce energy consumption or adopt an improved energy performance measure.
+
+
+
+
+(12)
+ Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
+
+
+
+
+(d)
+ 
+Selection of Energy Conservation Measures
+.—
+For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
+(1)
+ are readily available;
+
+
+
+
+(2)
+ demonstrate an economic return on the investment;
+
+
+
+
+(3)
+ are consistent with the energy performance goals and energy performance master plan for the Department; and
+
+
+
+
+(4)
+ are supported by the special considerations specified in subsection (c).
+
+
+
+
+(e)
+ 
+Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs
+.—
+(1)
+ It shall be the goal of the Department of Defense—
+(A)
+ to produce or procure not less than 25 percent of the total quantity of facility energy it consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
+
+
+
+
+(B)
+ to produce or procure facility energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
+
+
+
+
+
+
+(2)
+ To help ensure that the goal specified in paragraph (1)(A) regarding the use of renewable energy by the Department of Defense is achieved, the Secretary of Defense shall establish an interim goal for fiscal year 2018 for the production or procurement of facility energy from renewable energy sources.
+
+
+
+
+(3)
+(A)
+ The Secretary of Defense shall establish a policy to maximize savings for the bulk purchase of replacement renewable energy certificates in connection with the development of facility energy projects using renewable energy sources.
+
+
+
+
+(B)
+ Under the policy required by subparagraph (A), the Secretary of a military department shall submit requests for the purchase of replacement renewable energy certificates to a centralized purchasing authority maintained by such department or the Defense Logistics Agency with expertise regarding—
+(i)
+ the market for renewable energy certificates;
+
+
+
+
+(ii)
+ the procurement of renewable energy certificates; and
+
+
+
+
+(iii)
+ obtaining the best value for the military department by maximizing the purchase of renewable energy certificates from projects placed into service before 
+January 1, 1999
+.
+
+
+
+
+
+
+(C)
+ The centralized purchasing authority shall solicit industry for the most competitive offer for replacement renewable energy certificates, to include a combination of renewable energy certificates from new projects and projects placed into service before 
+January 1, 1999
+.
+
+
+
+
+(D)
+ Subparagraph (B) does not prohibit the Secretary of a military department from entering into an agreement outside of the centralized purchasing authority if the Secretary will obtain the best value by bundling the renewable energy certificates with the facility energy project through a power purchase agreement or other contractual mechanism at the installation.
+
+
+
+
+(E)
+ Nothing in this paragraph shall be construed to authorize the purchase of renewable energy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
+
+
+
+
+(F)
+ This policy does not make the purchase of renewable energy certificates mandatory, but the policy shall apply whenever original renewable energy certificates are proposed to be swapped for replacement renewable energy certificates.
+
+
+
+
+
+
+“(a)
+ 
+Guidance on Use of Available Financing Approaches
+.—
+“(1)
+ 
+Issuance
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Jan. 2, 2013
+], the Secretary of Defense shall—
+“(A)
+ issue guidance about the use of available financing approaches for financing renewable energy projects; and
+
+
+
+
+“(B)
+ direct the Secretaries of the military departments to update their military department-wide guidance accordingly.
+
+
+
+
+
+
+“(2)
+ 
+Elements
+.—
+The guidance issued pursuant to paragraph (1) should describe the requirements and restrictions applicable to the underlying authorities and any Department of Defense-specific guidelines for using appropriated funds and alternative-financing approaches for renewable energy projects to maximize cost savings and energy efficiency for the Department of Defense.
+
+
+
+
+“(b)
+ 
+Guidance on Use of Business Case Analyses
+.—
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance that establishes and clearly describes the processes used by the military departments to select financing approaches for renewable energy projects to ensure that business case analyses are completed to maximize cost savings and energy efficiency and mitigate drawbacks and risks associated with different financing approaches.
+
+
+“(c)
+ 
+Information Sharing
+.—
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall develop a formalized communications process, such as a shared Internet website, that will enable officials at military installations to have timely access on an ongoing basis to information related to financing renewable energy projects on other installations, including best practices and lessons that officials at other installations have learned from their experiences in financing renewable energy projects.
+
+
+“(d)
+ 
+Consultation
+.—
+The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Deputy Under Secretary of Defense for Installations and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
+
+
+“(a)
+ 
+Energy Performance Master Plan
+.—
+The energy performance master plan for the Department of Defense developed under 
+section 2911 of title 10
+, United States Code, shall specifically address the application of energy-efficient or energy reduction technologies or processes meeting the requirements of subsection (b) in logistics support contracts for contingency operations. In accordance with the requirements of such section, the plan shall include goals, metrics, and incentives for achieving energy efficiency in such contracts.
+
+
+“(b)
+ 
+Requirements for Energy Technologies and Processes
+.—
+Energy-efficient and energy reduction technologies or processes described in subsection (a) are technologies or processes that meet the following criteria:
+“(1)
+ The technology or process achieves long-term savings for the Government by reducing overall demand for fuel and other sources of energy in contingency operations.
+
+
+
+
+“(2)
+ The technology or process does not disrupt the mission, the logistics, or the core requirements in the contingency operation concerned.
+
+
+
+
+“(3)
+ The technology or process is able to integrate seamlessly into the existing infrastructure in the contingency operation concerned.
+
+
+
+
+“(d)
+ [So in original. No subsec. (c) has been enacted.]
+ 
+Regulations and Guidance
+.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
+
+
+“(e)
+ 
+Report
+.—
+The annual report required by 
+section 2925(b) of title 10
+, United States Code, shall include information on the progress in the implementation of this section, including savings achieved by the Department resulting from such implementation.
+
+
+“(f)
+ 
+Definitions
+.—
+In this section:
+“(1)
+ The term ‘defense logistics support contract’ means a contract for services, or a task order under such a contract, awarded by the Department of Defense to provide logistics support during times of military mobilizations, including contingency operations, in any amount greater than the simplified acquisition threshold.
+
+
+
+
+“(2)
+ The term ‘contingency operation’ has the meaning provided in 
+section 101(a)(13) of title 10
+, United States Code.”
+
+
+
+
+“(a)
+ 
+Establishment of Training Policy
+.—
+The Secretary of Defense shall establish a training policy for Department of Defense energy managers designated for military installations in order to—
+“(1)
+ improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contracting options, local renewable portfolio standards, current renewable energy technology options, energy auditing, and options to reduce energy consumption;
+
+
+
+
+“(2)
+ improve consistency among energy managers throughout the Department in the performance of their responsibilities;
+
+
+
+
+“(3)
+ create opportunities and forums for energy managers to exchange ideas and lessons learned within each military department, as well as across the Department of Defense; and
+
+
+
+
+“(4)
+ collaborate with the Department of Energy regarding energy manager training.
+
+
+
+
+“(b)
+ 
+Issuance of Policy
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Dec. 31, 2011
+], the Secretary of Defense shall issue the training policy for Department of Defense energy managers. In creating the policy, the Secretary shall consider the best practices and certifications available in either the military services or in the private sector.
+
+
+“(c)
+ 
+Briefing Requirement
+.—
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, or designated representatives of the Secretary, shall brief the Committees on Armed Services of the Senate and House of Representatives regarding the details of the energy manager policy.”
+
+
+“(a)
+ 
+Pilot Program
+.—
+The Secretary of Defense, in coordination with the Secretary of Energy, may carry out a collaborative energy security pilot program involving one or more partnerships between one military installation and one national laboratory, for the purpose of evaluating and validating secure, salable microgrid components and systems for deployment.
+
+
+“(b)
+ 
+Selection of Military Installation and National Laboratory
+.—
+If the Secretary of Defense carries out a pilot program under this section, the Secretary of Defense and the Secretary of Energy shall jointly select a military installation and a national laboratory for the purpose of carrying out the pilot program. In making such selections, the Secretaries shall consider each of the following:
+“(1)
+ A commitment to participate made by a military installation being considered for selection.
+
+
+
+
+“(2)
+ The findings and recommendations of relevant energy security assessments of military installations being considered for selection.
+
+
+
+
+“(3)
+ The availability of renewable energy sources at a military installation being considered for selection.
+
+
+
+
+“(4)
+ Potential synergies between the expertise and capabilities of a national laboratory being considered for selection and the infrastructure, interests, or other energy security needs of a military installation being considered for selection.
+
+
+
+
+“(5)
+ The effects of any utility tariffs, surcharges, or other considerations on the feasibility of enabling any excess electricity generated on a military installation being considered for selection to be sold or otherwise made available to the local community near the installation.
+
+
+
+
+“(c)
+ 
+Program Elements
+.—
+A pilot program under this section shall be carried out as follows:
+“(1)
+ Under the pilot program, the Secretaries shall evaluate and validate the performance of new energy technologies that may be incorporated into operating environments.
+
+
+
+
+“(2)
+ The pilot program shall involve collaboration with the Office of Electricity Delivery and Energy Reliability of the Department of Energy and other offices and agencies within the Department of Energy, as appropriate, and the Environmental Security Technical Certification Program of the Department of Defense.
+
+
+
+
+“(3)
+ Under the pilot program, the Secretary of Defense shall investigate opportunities for any excess electricity created for the military installation to be sold or otherwise made available to the local community near the installation.
+
+
+
+
+“(4)
+ The Secretary of Defense shall use the results of the pilot program as the basis for informing key performance parameters and validating energy components and designs that could be implemented in various military installations across the country and at forward operating bases.
+
+
+
+
+“(5)
+ The pilot program shall support the effort of the Secretary of Defense to use the military as a test bed to demonstrate innovative energy technologies.
+
+
+
+
+“(d)
+ 
+Implementation and Duration
+.—
+If the Secretary of Defense carries out a pilot program under this section, such pilot program shall begin by not later than 
+July 1, 2011
+, and shall be not less than three years in duration.
+
+
+“(e)
+ Reports.—
+“(1)
+ 
+Initial report
+.—
+If the Secretary of Defense carries out a pilot program under this section, the Secretary shall submit to the appropriate congressional committees by not later than 
+October 1, 2011
+, an initial report that provides an update on the implementation of the pilot program, including an identification of the selected military installation and national laboratory partner and a description of technologies under evaluation.
+
+
+
+
+“(2)
+ 
+Final report
+.—
+Not later than 90 days after completion of a pilot program under this section, the Secretary shall submit to the appropriate congressional committees a report on the pilot program, including any findings and recommendations of the Secretary.
+
+
+
+
+“(f)
+ 
+Definitions
+.—
+For purposes of this section:
+“(1)
+ The term ‘appropriate congressional committees’ means—
+“(A)
+ the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Science and Technology [now Committee on Science, Space, and Technology] of the House of Representatives; and
+
+
+
+
+“(B)
+ the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+
+
+
+
+
+“(2)
+ The term ‘microgrid’ means an integrated energy system consisting of interconnected loads and distributed energy resources (including generators, energy storage devices, and smart controls) that can operate with the utility grid or in an intentional islanding mode.
+
+
+
+
+“(3)
+ The term ‘national laboratory’ means—
+“(A)
+ a national laboratory (as defined in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+)); or
+
+
+
+
+“(B)
+ a national security laboratory (as defined in section 3281 of the National Nuclear Security Administration Act (
+50 U.S.C. 2471
+)).”
+
+
+
+
+
+
+“(a)
+ Plan for Energy Security Required.—
+“(1)
+ 
+In general
+.—
+Not later than 180 days after the date of the enactment of this Act [
+Oct. 28, 2009
+], the Secretary of Defense shall develop a plan for identifying and addressing areas in which the electricity needed to carry out critical military missions on Department of Defense installations is vulnerable to disruption.
+
+
+
+
+“(2)
+ 
+Elements
+.—
+The plan developed under paragraph (1) shall include, at a minimum, the following:
+“(A)
+ An identification of the areas of vulnerability as described in paragraph (1), and an identification of priorities in addressing such areas of vulnerability.
+
+
+
+
+“(B)
+ A schedule for the actions to be taken by the Department to address such areas of vulnerability.
+
+
+
+
+“(C)
+ A strategy for working with other public or private sector entities to address such areas of vulnerability that are beyond the control of the Department.
+
+
+
+
+“(D)
+ An estimate of and consideration for the costs to the Department associated with implementation of the strategy.
+
+
+
+
+
+
+“(b)
+ 
+Work With Non-Department of Defense Entities
+.—
+The Secretary of Defense shall work with other Federal entities, and with State and local government entities, to develop any regulations or other mechanisms needed to require or encourage actions to address areas of vulnerability identified pursuant to the plan developed under subsection (a) that are beyond the control of the Department of Defense.”
+
+
+“(a)
+ 
+Planning
+.—
+In the case of analyses and force planning processes that are used to establish capability requirements and inform acquisition decisions, the Secretary of Defense shall require that analyses and force planning processes consider the requirements for, and vulnerability of, fuel logistics.
+
+
+“(b)
+ 
+Capability Requirements Development Process
+.—
+The Secretary of Defense shall develop and implement a methodology to enable the implementation of a fuel efficiency key performance parameter in the requirements development process for the modification of existing or development of new fuel consuming systems.
+
+
+“(c)
+ 
+Acquisition Process
+.—
+The Secretary of Defense shall require that the life-cycle cost analysis for new capabilities include the fully burdened cost of fuel during analysis of alternatives and evaluation of alternatives and acquisition program design trades.
+
+
+“(d)
+ 
+Implementation Plan
+.—
+The Secretary of Defense shall prepare a plan for implementing the requirements of this section. The plan shall be completed not later than 180 days after the date of the enactment of this Act [
+Oct. 14, 2008
+] and provide for the implementation of the requirements by not later than three years after the date of the enactment of this Act.
+
+
+“(e)
+ 
+Progress Report
+.—
+Not later than two years after the date of the enactment of this Act [
+Oct. 14, 2008
+], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report describing progress made to implement the requirements of this section, including an assessment of whether the implementation plan required by subsection (d) is being carried out on schedule.
+
+
+“(f)
+ 
+Notification of Compliance
+.—
+As soon as practicable during the three-year period beginning on the date of the enactment of this Act [
+Oct. 14, 2008
+], the Secretary of Defense shall notify the congressional defense committees that the Secretary has complied with the requirements of this section. If the Secretary is unable to provide the notification, the Secretary shall submit to the congressional defense committees at the end of the three-year period a report containing—
+“(1)
+ an explanation of the reasons why the requirements, or portions of the requirements, have not been implemented; and
+
+
+
+
+“(2)
+ a revised plan under subsection (d) to complete implementation or a rationale regarding why portions of the requirements cannot or should not be implemented.
+
+
+
+
+“(g)
+ 
+Fully Burdened Cost of Fuel Defined
+.—
+In this section, the term ‘fully burdened cost of fuel’ means the commodity price for fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.”
+
+
+“(a)
+ 
+Risk Assessment
+.—
+The Secretary of Defense shall conduct a comprehensive technical and operational risk assessment of the risks posed to mission critical installations, facilities, and activities of the Department of Defense by extended power outages resulting from failure of the commercial electricity supply or grid and related infrastructure.
+
+
+“(b)
+ Risk Mitigation Plans.—
+“(1)
+ 
+In general
+.—
+The Secretary of Defense shall develop integrated prioritized plans to eliminate, reduce, or mitigate significant risks identified in the risk assessment under subsection (a).
+
+
+
+
+“(2)
+ 
+Additional considerations
+.—
+In developing the risk mitigation plans under paragraph (1), the Secretary of Defense shall—
+“(A)
+ prioritize the mission critical installations, facilities, and activities that are subject to the greatest and most urgent risks; and
+
+
+
+
+“(B)
+ consider the cost effectiveness of risk mitigation options.
+
+
+
+
+
+
+“(c)
+ Annual Report.—
+“(1)
+ 
+In general
+.—
+The Secretary of Defense shall submit a report on the efforts of the Department of Defense to mitigate the risks described in subsection (a) as part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2010 and each fiscal year thereafter (as submitted with the budget of the President under 
+section 1105(a) of title 31
+, United States Code).
+
+
+
+
+“(2)
+ 
+Content
+.—
+Each report submitted under paragraph (1) shall describe the integrated prioritized plans developed under subsection (b) and the progress made toward achieving the goals established under such subsection.”
+
+
+
+
+“(a)
+ 
+Construction and Alteration of Buildings
+.—
+Each building constructed or significantly altered by the Secretary of Defense or the Secretary of a military department shall be equipped, to the maximum extent feasible as determined by the Secretary concerned, with lighting fixtures and bulbs that are energy efficient.
+
+
+“(b)
+ 
+Maintenance of Buildings
+.—
+Each lighting fixture or bulb that is replaced in the normal course of maintenance of buildings under the jurisdiction of the Secretary of Defense or the Secretary of a military department shall be replaced, to the maximum extent feasible as determined by the Secretary concerned, with a lighting fixture or bulb that is energy efficient.
+
+
+“(c)
+ 
+Considerations
+.—
+In making a determination under this section concerning the feasibility of installing a lighting fixture or bulb that is energy efficient, the Secretary of Defense or the Secretary of a military department shall consider—
+“(1)
+ the life cycle cost effectiveness of the fixture or bulb;
+
+
+
+
+“(2)
+ the compatibility of the fixture or bulb with existing equipment;
+
+
+
+
+“(3)
+ whether use of the fixture or bulb could result in interference with productivity;
+
+
+
+
+“(4)
+ the aesthetics relating to use of the fixture or bulb; and
+
+
+
+
+“(5)
+ such other factors as the Secretary concerned determines appropriate.
+
+
+
+
+“(d)
+ 
+Energy Star
+.—
+A lighting fixture or bulb shall be treated as being energy efficient for purposes of this section if—
+“(1)
+ the fixture or bulb is certified under the Energy Star program established by section 324A of the Energy Policy and Conservation Act (
+42 U.S.C. 6294a
+); or
+
+
+
+
+“(2)
+ the Secretary of Defense or the Secretary of a military department has otherwise determined that the fixture or bulb is energy efficient.
+
+
+
+
+“(e)
+ 
+Significant Alterations
+.—
+A building shall be treated as being significantly altered for purposes of subsection (a) if the alteration is subject to congressional authorization under 
+section 2802 of title 10
+, United States Code.
+
+
+“(f)
+ 
+Waiver Authority
+.—
+The Secretary of Defense may waive the requirements of this section if the Secretary determines that such a waiver is necessary to protect the national security interests of the United States.
+
+
+“(g)
+ 
+Effective Date
+.—
+The requirements of subsections (a) and (b) shall take effect one year after the date of the enactment of this Act [
+Jan. 28, 2008
+].”
+
+
+“(a)
+ 
+Sense of Congress
+.—
+It is the sense of Congress that the Secretary of Defense should work to implement fuel efficiency reforms that allow for investment decisions based on the true cost of delivered fuel, strengthen the linkage between warfighting capability and fuel logistics requirements, provide high-level leadership encouraging fuel efficiency, target fuel efficiency improvements through science and technology investment, and include fuel efficiency in requirements and acquisition processes.
+
+
+“(b)
+ 
+Energy Efficiency Program
+.—
+The Secretary shall carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010. The Secretary shall designate a senior official of the Department of Defense to be responsible for managing the program for the Department and a senior official of each military department to be responsible for managing the program for such department.
+
+
+“(c)
+ 
+Energy Efficiency Goals
+.—
+The goal of the energy efficiency program shall be to achieve reductions in energy consumption by facilities of the Department of Defense as follows:
+“(1)
+ In the case of industrial and laboratory facilities, reductions in the average energy consumption per square foot of such facilities, per unit of production or other applicable unit, relative to energy consumption in 1990—
+“(A)
+ by 20 percent by 2005; and
+
+
+
+
+“(B)
+ by 25 percent by 2010.
+
+
+
+
+
+
+“(2)
+ In the case of other facilities, reductions in average energy consumption per gross square foot of such facilities, relative to energy consumption per gross square foot in 1985—
+“(A)
+ by 30 percent by 2005; and
+
+
+
+
+“(B)
+ by 35 percent by 2010.
+
+
+
+
+
+
+“(d)
+ 
+Strategies for Improving Energy Efficiency
+.—
+In order to achieve the goals set forth in subsection (c), the Secretary shall, to the maximum extent practicable—
+“(1)
+ purchase energy-efficient products, as so designated by the Environmental Protection Agency and the Department of Energy, and other products that are energy-efficient;
+
+
+
+
+“(2)
+ utilize energy savings performance contracts, utility energy-efficiency service contracts, and other contracts designed to achieve energy conservation;
+
+
+
+
+“(3)
+ use life-cycle cost analysis, including assessment of life-cycle energy costs, in making decisions about investments in products, services, construction, and other projects;
+
+
+
+
+“(4)
+ conduct energy efficiency audits for approximately 10 percent of all Department of Defense facilities each year;
+
+
+
+
+“(5)
+ explore opportunities for energy efficiency in industrial facilities for steam systems, boiler operation, air compressor systems, industrial processes, and fuel switching; and
+
+
+
+
+“(6)
+ retire inefficient equipment on an accelerated basis where replacement results in lower life-cycle costs.
+
+
+
+
+“(e)
+ 
+Reporting Requirements
+.—
+Not later than 
+January 1, 2002
+, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; [former] 
+42 U.S.C. 8251
+ note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
+
+
+ Availability and use of energy cost savings
+(a)
+ 
+Availability
+.—
+An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under 
+section 2913 of this title
+, shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
+
+
+(b)
+ 
+Use
+.—
+The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under 
+section 2916(b)(2) of this title
+ shall be used as follows:
+(1)
+ One-half of the amount shall be used for the implementation of additional energy conservation and energy security measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
+
+
+
+
+(2)
+ One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
+(A)
+ improvements to existing military family housing units;
+
+
+
+
+(B)
+ any unspecified minor construction project that will enhance the quality of life of personnel; or
+
+
+
+
+(C)
+ any morale, welfare, or recreation facility or service.
+
+
+
+
+
+
+(c)
+ 
+Treatment of Certain Financial Incentives
+.—
+Financial incentives received from gas or electric utilities under 
+section 2913 of this title
+ shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
+
+
+(d)
+ 
+Congressional Notification
+.—
+The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to 
+section 1105 of title 31
+ a separate statement of the amounts available for obligation under this section in that fiscal year.
+
+
+ Energy savings contracts and activities
+(a)
+ 
+Shared Energy Savings Contracts
+.—
+(1)
+ The Secretary of Defense shall develop a simplified method of contracting for shared energy savings contract services that will accelerate the use of these contracts with respect to military installations and will reduce the administrative effort and cost on the part of the Department of Defense as well as the private sector.
+
+
+
+
+(2)
+ In carrying out paragraph (1), the Secretary of Defense may—
+(A)
+ request statements of qualifications (as prescribed by the Secretary of Defense), including financial and performance information, from firms engaged in providing shared energy savings contracting;
+
+
+
+
+(B)
+ designate from the statements received, with an update at least annually, those firms that are presumptively qualified to provide shared energy savings services;
+
+
+
+
+(C)
+ select at least three firms from the qualifying list to conduct discussions concerning a particular proposed project, including requesting a technical and price proposal from such selected firms for such project; and
+
+
+
+
+(D)
+ select from such firms the most qualified firm to provide shared energy savings services pursuant to a contractual arrangement that the Secretary determines is fair and reasonable, taking into account the estimated value of the services to be rendered and the scope and nature of the project.
+
+
+
+
+
+
+(3)
+ In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving the department, agency, or instrumentality concerned.
+
+
+
+
+(b)
+ 
+Participation in Gas or Electric Utility Programs
+.—
+The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by any gas or electric utility for the management of energy demand or for energy conservation.
+
+
+(c)
+ 
+Acceptance of Financial Incentive, Goods, or Services
+.—
+The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
+
+
+(d)
+ 
+Agreements With Gas or Electric Utilities
+.—
+(1)
+ The Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into agreements with gas or electric utilities to design and implement cost-effective demand and conservation incentive programs (including energy management services, facilities alterations, and the installation and maintenance of energy saving devices and technologies by the utilities) to address the requirements and circumstances of the installation.
+
+
+
+
+(2)
+ If an agreement under this subsection provides for a utility to advance financing costs for the design or implementation of a program referred to in that paragraph to be repaid by the United States, the cost of such advance may be recovered by the utility under terms no less favorable than those applicable to its most favored customer.
+
+
+
+
+(3)
+ Subject to the availability of appropriations, repayment of costs advanced under paragraph (2) shall be made from funds available to a military department for the purchase of utility services.
+
+
+
+
+(4)
+ An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
+
+
+
+
+ Energy conservation construction projects
+(a)
+ 
+Projects Authorized
+.—
+The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+
+
+(b)
+ 
+Congressional Notification
+.—
+When a decision is made to carry out a project under this section, the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to 
+section 480 of this title
+.
+
+
+ Facilities: use of renewable forms of energy and energy efficient products
+(a)
+ 
+Use of Renewable Forms of Energy Encouraged
+.—
+The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under 
+section 2911 of this title
+ and supported by the special considerations specified in subsection (c) of such section.
+
+
+(b)
+ 
+Consideration During Design Phase of Projects
+.—
+(1)
+ The Secretary concerned shall require that the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—
+(A)
+ is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under 
+section 2911 of this title
+; and
+
+
+
+
+(B)
+ supported by the special considerations specified in subsection (c) of such section.
+
+
+
+
+
+
+(2)
+ The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
+
+
+
+
+(c)
+ 
+Determination of Cost Effectiveness
+.—
+(1)
+ For the purposes of this section, an energy system using solar energy or other renewable forms of energy for a facility shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system for the facility with such a system, and (B) the original investment cost of the energy system for the facility without such a system can be recovered over the expected life of the facility.
+
+
+
+
+(2)
+ A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a facility shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (
+42 U.S.C. 8254(a)
+).
+
+
+
+
+(d)
+ 
+Exception to Square Feet and Cost Per Square Foot Limitations
+.—
+In order to equip a military construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
+
+
+(e)
+ 
+Use of Energy Efficient Products in Facilities
+.—
+(1)
+ The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under 
+section 2911 of this title
+ and supported by the special considerations specified in subsection (c) of such section.
+
+
+
+
+(2)
+(A)
+ The Secretary of Defense shall prescribe a definition of the term “energy-efficient product” for purposes of this subsection and establish and maintain a list of products satisfying the definition. The definition and list shall be developed in consultation with the Secretary of Energy to ensure, to the maximum extent practicable, consistency with definitions of the term used by other Federal agencies.
+
+
+
+
+(B)
+ The Secretary shall modify the definition and list of energy-efficient products as necessary to account for emerging or changing technologies.
+
+
+
+
+(C)
+ The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to 
+section 2911(b)(2) of this title
+.
+
+
+
+
+
+
+(3)
+ In determining the energy efficiency of products, the Secretary shall consider products that—
+(A)
+ meet or exceed Energy Star specifications; or
+
+
+
+
+(B)
+ are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
+
+
+
+
+
+
+ Sale of electricity from alternate energy and cogeneration production facilities
+(a)
+ The Secretary of a military department may sell, contract to sell, or authorize the sale by a contractor to a public or private utility company of electrical energy generated from alternate energy or cogeneration type production facilities which are under the jurisdiction (or produced on land which is under the jurisdiction) of the Secretary concerned. The sale of such energy shall be made under such regulations, for such periods, and at such prices as the Secretary concerned prescribes consistent with the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2601
+ et seq.).
+
+
+(b)
+(1)
+ Proceeds from sales under subsection (a) shall be credited to the appropriation account currently available to the military department concerned for the supply of electrical energy.
+
+
+
+
+(2)
+ Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under 
+section 2911(b) of this title
+, including minor military construction projects authorized under 
+section 2805 of this title
+ that are designed to increase energy conservation.
+
+
+
+
+(c)
+ Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress in writing of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 21-day period beginning on the date the notification is received by Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to 
+section 480 of this title
+.
+
+
+ Development of geothermal energy on military lands
+(a)
+ 
+Development Authorized
+.—
+The Secretary of a military department may develop, or authorize the development of, any geothermal energy resource within lands under the Secretary’s jurisdiction, including public lands, for the use or benefit of the Department of Defense if that development is in the public interest, as determined by the Secretary concerned, and will not deter commercial development and use of other portions of such resource if offered for leasing.
+
+
+(b)
+ 
+Consideration of Energy Security
+.—
+The development of a geothermal energy project under subsection (a) should include consideration of energy security in the design and development of the project.
+
+
+ Fuel sources for heating systems; prohibition on converting certain heating facilities
+(a)
+(1)
+ The Secretary of the military department concerned shall provide that the primary fuel source to be used in any new heating system constructed on lands under the jurisdiction of the military department is the most cost effective fuel for that heating system over the life cycle of the system.
+
+
+
+
+(2)
+ The Secretary of Defense shall prescribe regulations for the determination of the life-cycle cost effectiveness of a fuel for the purposes of paragraph (1).
+
+
+
+
+(b)
+ The Secretary of a military department may not convert a heating facility at a United States military installation in Europe from a coal-fired facility to an oil-fired facility, or to any other energy source facility, unless the Secretary determines that the conversion—
+(1)
+ is required by the government of the country in which the facility is located; or
+
+
+
+
+(2)
+ is cost-effective over the life cycle of the facility.
+
+
+
+
+ Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods
+(a)
+ 
+Participation in Demand Response or Load Management Programs
+.—
+The Secretary of Defense, the Secretaries of the military departments, the heads of the Defense Agencies, and the heads of other instrumentalities of the Department of Defense are authorized to participate in demand response programs for the management of energy demand or the reduction of energy usage during peak periods conducted by any of the following parties:
+(1)
+ An electric utility.
+
+
+
+
+(2)
+ An independent system operator.
+
+
+
+
+(3)
+ A State agency.
+
+
+
+
+(4)
+ A third party entity (such as a demand response aggregator or curtailment service provider) implementing demand response programs on behalf of an electric utility, independent system operator, or State agency.
+
+
+
+
+(b)
+ 
+Treatment of Certain Financial Incentives
+.—
+Financial incentives received from an entity specified in subsection (a) shall be—
+(1)
+ received as a cost reduction in the utility bill for a facility; or
+
+
+
+
+(2)
+ deposited into the fund established under subsection (c) for use, to the extent provided for in an appropriations Act, by the military department, Defense Agency, or instrumentality receiving such financial incentive for energy management initiatives.
+
+
+
+
+(c)
+ 
+Energy Savings Financial Incentives Fund
+.—
+There is established in the Treasury a fund to be known as the “Energy Savings Financial Incentives Fund”. The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
+
+
+ Liquid fuels and natural gas: contracts for storage, handling, or distribution
+(a)
+ 
+Authority To Contract
+.—
+The Secretary of Defense and the Secretary of a military department may each contract for storage facilities for, or the storage, handling, or distribution of, liquid fuels or natural gas.
+
+
+(b)
+ 
+Period of Contract
+.—
+The period of a contract entered into under subsection (a) may not exceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 20 years.
+
+
+(c)
+ 
+Option To Purchase Facility
+.—
+A contract under this section may contain an option for the purchase by the United States of the facility covered by the contract at the expiration or termination of the contract, without regard to subsections (a) and (b) of 
+section 3324 of title 31
+, and before approval of title to the underlying land by the Attorney General.
+
+
+ Contracts for energy or fuel for military installations
+(a)
+ Subject to subsection (b), the Secretary of a military department may enter into contracts for periods of up to 30 years—
+(1)
+ under 
+section 2917 of this title
+; and
+
+
+
+
+(2)
+ for the provision and operation of energy production facilities on real property under the Secretary’s jurisdiction or on private property and the purchase of energy produced from such facilities.
+
+
+
+
+(b)
+ A contract may be made under subsection (a) only after the approval of the proposed contract by the Secretary of Defense.
+
+
+(c)
+ The costs of contracts under this section for any year may be paid from annual appropriations for that year.
+
+
+ Procurement of energy systems using renewable forms of energy
+(a)
+ In procuring energy systems the Secretary of a military department shall procure systems that use solar energy or other renewable forms of energy whenever the Secretary determines that such procurement is possible, suited to supplying the energy needs of the military department under the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under 
+section 2911 of this title
+, and supported by the special considerations specified in subsection (c) of such section.
+
+
+(b)
+ The Secretary of Defense shall from time to time study uses for solar energy and other renewable forms of energy to determine what uses of such forms of energy may be reliable in supplying the energy needs of the Department of Defense. The Secretary of Defense, based upon the results of such studies, shall from time to time issue policy guidelines to be followed by the Secretaries of the military departments in carrying out subsection (a) and 
+section 2915 of this title
+.
+
+
+ Procurement of gasohol as motor vehicle fuel
+(a)
+ 
+Other Federal Fuel Procurements
+.—
+Consistent with the vehicle management practices prescribed by the heads of affected departments and agencies of the Federal Government and consistent with Executive Order Number 12261, whenever the Secretary of Defense enters into a contract for the procurement of unleaded gasoline that is subject to tax under section 4081 of the Internal Revenue Code of 1986 for motor vehicles of a department or agency of the Federal Government other than the Department of Defense, the Secretary shall buy alcohol-gasoline blends containing at least 10 percent domestically produced alcohol in any case in which the price of such fuel is the same as, or lower than, the price of unleaded gasoline.
+
+
+(b)
+ 
+Solicitations
+.—
+Whenever the Secretary issues a solicitation for bids to procure unleaded gasoline under subsection (a), the Secretary shall expressly include in such solicitation a request for bids on alcohol-gasoline blends containing at least 10 percent domestically produced alcohol.
+
+
+ Procurement of fuel derived from coal, oil shale, and tar sands
+(a)
+ 
+Use of Fuel to Meet Department of Defense Needs
+.—
+The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
+
+
+(b)
+ 
+Authority to Procure
+.—
+The Secretary of Defense may enter into one or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meet one or more fuel requirements of the Department of Defense.
+
+
+(c)
+ 
+Clean Fuel Requirements
+.—
+A covered fuel may be procured under subsection (b) only if the covered fuel meets such standards for clean fuel produced from domestic sources as the Secretary of Defense shall establish for purposes of this section in consultation with the Department of Energy.
+
+
+(d)
+ 
+Multiyear Contract Authority
+.—
+Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or more years at the election of the Secretary of Defense.
+
+
+(e)
+ 
+Fuel Source Analysis
+.—
+In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.
+
+
+ Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority
+(a)
+ 
+Waiver Authority
+.—
+The Secretary of Defense may, for any purchase of a defined fuel source, waive the application of any provision of law prescribing procedures to be followed in the formation of contracts, prescribing terms and conditions to be included in contracts, or regulating the performance of contracts if the Secretary determines—
+(1)
+ that market conditions for the defined fuel source have adversely affected (or will in the near future adversely affect) the acquisition of that defined fuel source by the Department of Defense; and
+
+
+
+
+(2)
+ the waiver will expedite or facilitate the acquisition of that defined fuel source for Government needs.
+
+
+
+
+(b)
+ 
+Scope of Waiver
+.—
+A waiver under subsection (a) may be made with respect to a particular contract or with respect to classes of contracts. Such a waiver that is applicable to a contract for the purchase of a defined fuel source may also be made applicable to a subcontract under that contract.
+
+
+(c)
+ 
+Exchange Authority
+.—
+The Secretary of Defense may acquire a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source.
+
+
+(d)
+ 
+Authority To Sell
+.—
+The Secretary of Defense may sell a defined fuel source of the Department of Defense if the Secretary determines that the sale would be in the public interest. The proceeds of such a sale shall be credited to appropriations of the Department of Defense for the acquisition of a defined fuel source or services related to a defined fuel source. Amounts so credited shall be available for obligation for the same period as the appropriations to which the amounts are credited.
+
+
+ Preference for energy efficient electric equipment
+(a)
+ In establishing a new requirement for electric equipment referred to in subsection (b) and in procuring electric equipment referred to in that subsection, the Secretary of a military department or the head of a Defense Agency, as the case may be, shall provide a preference for the procurement of the most energy efficient electric equipment available that meets the requirement or the need for the procurement, if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under 
+section 2911 of this title
+ and supported by the special considerations specified in subsection (c) of such section.
+
+
+(b)
+ Subsection (a) applies to the following electric equipment:
+(1)
+ Electric lamps.
+
+
+
+
+(2)
+ Electric ballasts.
+
+
+
+
+(3)
+ Electric motors.
+
+
+
+
+(4)
+ Electric refrigeration equipment.
+
+
+
+
+“(b)
+ 
+Electric Lighting Demonstration Program
+.—
+(1)
+ The Secretary of Defense shall conduct a demonstration program for using energy efficient electric lighting equipment.
+
+
+
+
+“(2)
+ The Secretary shall designate 50 facilities owned or leased by the Department of Defense for participation in the demonstration program under this subsection.
+
+
+
+
+“(3)
+ The head of each facility designated pursuant to paragraph (2) and the Director of the Defense Logistics Agency shall jointly audit the electric lighting equipment at the facility in order—
+“(A)
+ to identify any potential improvements that would increase the energy efficiency of electric lighting at that facility; and
+
+
+
+
+“(B)
+ to determine the costs of, and the savings that would result from, such improvements.
+
+
+
+
+
+
+“(4)
+ Except as provided in subsection (d)(4), on the basis of the results of the audit the head of the facility shall promptly convert to the use of electric lighting equipment at the facility that is more energy efficient than the existing electric lighting equipment to the extent that the conversion is cost effective.
+
+
+
+
+“(5)
+ Energy efficient electric lighting equipment used under the demonstration program may include compact fluorescent lamps, energy efficient electric ballasts and fixtures, and other energy efficient electric lighting equipment.
+
+
+
+
+“(c)
+ 
+Refrigeration Equipment Demonstration Program
+.—
+(1)
+ The Secretary of Defense shall conduct a demonstration program for using energy efficient refrigeration equipment.
+
+
+
+
+“(2)
+ The Secretary shall designate 50 facilities owned or operated by the Department of Defense for participation in the demonstration program under this subsection.
+
+
+
+
+“(3)
+ The head of each facility designated pursuant to paragraph (2) and the Director of the Defense Logistics Agency shall jointly audit the refrigeration equipment at the facility in order—
+“(A)
+ to identify any potential improvements that would increase the energy efficiency of the refrigeration equipment at that facility; and
+
+
+
+
+“(B)
+ to determine the costs of, and the savings that would result from, such improvements.
+
+
+
+
+
+
+“(4)
+ Except as provided in subsection (d)(4), on the basis of the results of the audit the head of the facility shall promptly convert to the use of refrigeration equipment at the facility that is more energy efficient than the existing refrigeration equipment to the extent that the conversion is cost effective.
+
+
+
+
+“(d)
+ 
+General Provisions for Demonstration Programs
+.—
+(1)
+ The Secretary of Defense shall make the designations under subsections (b)(2) and (c)(2) not later than 180 days after the date of the enactment of this Act [
+Oct. 23, 1992
+].
+
+
+
+
+“(2)
+ The Secretary of Defense may designate a facility described in subsections (b)(2) and (c)(2) for participation in the demonstration program under subsection (b) and the demonstration program under subsection (c).
+
+
+
+
+“(3)
+ The audits required by subsections (b)(3) and (c)(3) shall be completed not later than 
+January 1, 1994
+.
+
+
+
+
+“(4)
+ The head of a facility may not carry out a conversion described in subsection (b)(4) or (c)(4) if the conversion prevents the head of the facility from carrying out other improvements relating to energy efficiency that are more cost effective than that conversion.”
+
+
+
+
+ Preference for motor vehicles using electric or hybrid propulsion systems
+(a)
+ 
+Preference
+.—
+In leasing or procuring motor vehicles for use by a military department or Defense Agency, the Secretary of the military department or the head of the Defense Agency shall provide a preference for the lease or procurement of motor vehicles using electric or hybrid propulsion systems, including plug-in hybrid systems, if the electric or hybrid vehicles—
+(1)
+ will meet the requirements or needs of the Department of Defense; and
+
+
+
+
+(2)
+ are commercially available at a cost, including operating cost, reasonably comparable to motor vehicles containing only an internal combustion or heat engine using combustible fuel.
+
+
+
+
+(b)
+ 
+Exception
+.—
+Subsection (a) does not apply with respect to tactical vehicles designed for use in combat.
+
+
+(c)
+ 
+Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels
+.—
+The preference required by subsection (a) does not preclude the Secretary of Defense from authorizing the Secretary of a military department or head of a Defense Agency to provide a preference for another vehicle technology that reduces the consumption of fossil fuels if the Secretary of Defense determines that the technology is consistent with the energy performance goals and plan of the Department required by 
+section 2911 of this title
+.
+
+
+ Definitions
+ Annual Department of Defense energy management reports
+(a)
+ 
+Annual Report Related to Installations Energy Management
+.—
+Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under 
+section 2911 of this title
+. Each report shall contain the following:
+(1)
+ A description of the progress made to achieve the goals of the Energy Policy Act of 2005 (
+Public Law 109–58
+), 
+section 2911(e) of this title
+, section 553 of the National Energy Conservation Policy Act (
+42 U.S.C. 8259b
+), the Energy Independence and Security Act of 2007 (
+Public Law 110–140
+), and the energy performance goals for the Department of Defense during the preceding fiscal year.
+
+
+
+
+(2)
+ A table detailing funding, by account, for all energy projects funded through appropriations.
+
+
+
+
+(3)
+ A table listing all energy projects financed through third party financing mechanisms (including energy savings performance contracts, enhanced use leases, utility energy service contracts, utility privatization agreements, and other contractual mechanisms), the duration of each such mechanism, an estimate of the financial obligation incurred through the duration of each such mechanism, whether the project incorporates energy security into its design, and the estimated payback period for each such mechanism.
+
+
+
+
+(4)
+ In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.
+
+
+
+
+(5)
+ A description of the actions taken to implement the energy performance master plan in effect under 
+section 2911 of this title
+ and carry out this chapter during the preceding fiscal year.
+
+
+
+
+(6)
+ A description of the energy savings realized from such actions.
+
+
+
+
+(7)
+ An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.
+
+
+
+
+(8)
+ A description of the types and amount of financial incentives received under 
+section 2913 of this title
+ during the preceding fiscal year and the appropriation account or accounts to which the incentives were credited.
+
+
+
+
+(9)
+ A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 (
+Public Law 110–140
+; 
+121 Stat. 1612
+).
+
+
+
+
+(10)
+ A description of steps taken to determine best practices for measuring energy consumption in Department of Defense facilities and installations, in order to use the data for better energy management.
+
+
+
+
+(11)
+ Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.
+
+
+
+
+(12)
+ A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
+
+
+
+
+(b)
+ 
+Annual Report Related to Operational Energy
+.—
+(1)
+ Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to 
+section 138c of this title
+.
+
+
+
+
+(2)
+ The annual report under this subsection shall address and include the following:
+(A)
+ Statistical information on operational energy demands, in terms of expenditures and consumption, for the preceding five fiscal years, including funding made available in regular defense appropriations Acts and any supplemental appropriation Acts.
+
+
+
+
+(B)
+ An estimate of operational energy demands for the current fiscal year and next fiscal year, including funding requested to meet operational energy demands in the budget submitted to Congress under 
+section 1105 of title 31
+ and in any supplemental requests.
+
+
+
+
+(C)
+ A description of each initiative related to the operational energy strategy and a summary of funds appropriated for each initiative in the previous fiscal year and current fiscal year and requested for each initiative for the next five fiscal years.
+
+
+
+
+(D)
+ An evaluation of progress made by the Department of Defense—
+(i)
+ in implementing the operational energy strategy, including the progress of key initiatives and technology investments related to operational energy demand and management; and
+
+
+
+
+(ii)
+ in meeting the operational energy goals set forth in the strategy.
+
+
+
+
+
+
+(E)
+ A description of the alternative fuel initiatives of the Department of Defense, including funding and expenditures by account and activity for the preceding fiscal year, including funding made available in regular defense appropriations Acts and any supplemental appropriation Acts.
+
+
+
+
+(F)
+ An evaluation of practices used in contingency operations during the previous fiscal year and potential improvements to such practices to reduce vulnerabilities associated with fuel convoys, including improvements in tent and structure efficiency, improvements in generator efficiency, and displacement of liquid fuels with on-site renewable energy generation. Such evaluation should identify challenges associated with the deployment of more efficient structures and equipment and renewable energy generation, and recommendations for overcoming such challenges.
+
+
+
+
+(G)
+ Such recommendations as the Assistant Secretary considers appropriate for additional changes in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
+
+
+
+
+
+
+(3)
+ If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
+
+
+
+

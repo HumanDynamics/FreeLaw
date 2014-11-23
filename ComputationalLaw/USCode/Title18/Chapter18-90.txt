@@ -1,0 +1,109 @@
+
+Chapter 90
+PROTECTION OF TRADE SECRETS
+ Economic espionage
+(a)
+ 
+In General
+.—
+Whoever, intending or knowing that the offense will benefit any foreign government, foreign instrumentality, or foreign agent, knowingly—
+(1)
+ steals, or without authorization appropriates, takes, carries away, or conceals, or by fraud, artifice, or deception obtains a trade secret;
+
+
+
+
+(2)
+ without authorization copies, duplicates, sketches, draws, photographs, downloads, uploads, alters, destroys, photocopies, replicates, transmits, delivers, sends, mails, communicates, or conveys a trade secret;
+
+
+
+
+(3)
+ receives, buys, or possesses a trade secret, knowing the same to have been stolen or appropriated, obtained, or converted without authorization;
+
+
+
+
+(4)
+ attempts to commit any offense described in any of paragraphs (1) through (3); or
+
+
+
+
+(5)
+ conspires with one or more other persons to commit any offense described in any of paragraphs (1) through (3), and one or more of such persons do any act to effect the object of the conspiracy,
+
+
+
+
+
+shall, except as provided in subsection (b), be fined not more than $5,000,000 or imprisoned not more than 15 years, or both.
+
+
+(b)
+ 
+Organizations
+.—
+Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
+
+
+ Theft of trade secrets
+(a)
+ Whoever, with intent to convert a trade secret, that is related to a product or service used in or intended for use in interstate or foreign commerce, to the economic benefit of anyone other than the owner thereof, and intending or knowing that the offense will, injure any owner of that trade secret, knowingly—
+(1)
+ steals, or without authorization appropriates, takes, carries away, or conceals, or by fraud, artifice, or deception obtains such information;
+
+
+
+
+(2)
+ without authorization copies, duplicates, sketches, draws, photographs, downloads, uploads, alters, destroys, photocopies, replicates, transmits, delivers, sends, mails, communicates, or conveys such information;
+
+
+
+
+(3)
+ receives, buys, or possesses such information, knowing the same to have been stolen or appropriated, obtained, or converted without authorization;
+
+
+
+
+(4)
+ attempts to commit any offense described in paragraphs (1) through (3); or
+
+
+
+
+(5)
+ conspires with one or more other persons to commit any offense described in paragraphs (1) through (3), and one or more of such persons do any act to effect the object of the conspiracy,
+
+
+
+
+
+shall, except as provided in subsection (b), be fined under this title or imprisoned not more than 10 years, or both.
+
+
+(b)
+ Any organization that commits any offense described in subsection (a) shall be fined not more than $5,000,000.
+
+
+ Exceptions to prohibitions
+ Criminal forfeiture
+Forfeiture, destruction, and restitution relating to this chapter shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+ Orders to preserve confidentiality
+In any prosecution or other proceeding under this chapter, the court shall enter such orders and take such other action as may be necessary and appropriate to preserve the confidentiality of trade secrets, consistent with the requirements of the Federal Rules of Criminal and Civil Procedure, the Federal Rules of Evidence, and all other applicable laws. An interlocutory appeal by the United States shall lie from a decision or order of a district court authorizing or directing the disclosure of any trade secret.
+ Civil proceedings to enjoin violations
+(a)
+ The Attorney General may, in a civil action, obtain appropriate injunctive relief against any violation of this chapter.
+
+
+(b)
+ The district courts of the United States shall have exclusive original jurisdiction of civil actions under this section.
+
+
+ Applicability to conduct outside the United States
+ Construction with other laws
+This chapter shall not be construed to preempt or displace any other remedies, whether civil or criminal, provided by United States Federal, State, commonwealth, possession, or territory law for the misappropriation of a trade secret, or to affect the otherwise lawful disclosure of information by any Government employee under 
+ Definitions
