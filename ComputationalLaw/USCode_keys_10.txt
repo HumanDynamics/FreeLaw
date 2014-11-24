@@ -1,0 +1,10 @@
+0	0.23627	states person united court commission 
+1	0.11361	secretary transportation subsection state administrator 
+2	0.14049	secretary member service duty officer 
+3	0.1688	united states defense department agency 
+4	0.10789	corporation loan bank federal board 
+5	0.09123	secretary lands land national states 
+6	0.14512	secretary federal program project development 
+7	0.09135	secretary state assistance services program 
+8	0.11583	subsection amount individual employee year 
+9	0.06393	secretary states united subsection food 
