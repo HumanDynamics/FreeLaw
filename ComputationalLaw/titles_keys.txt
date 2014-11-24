@@ -1,0 +1,10 @@
+0	0.1421	secretary lands state states land 
+1	0.43639	employee service agency subsection office 
+2	0.19585	secretary defense subsection department member 
+3	0.1732	corporation secretary federal bank board 
+4	0.27696	secretary state subsection services assistance 
+5	0.2937	person commission states united subsection 
+6	0.13162	tax subsection respect paragraph states 
+7	0.08297	secretary subsection state order food 
+8	0.24329	united states president foreign government 
+9	0.19264	secretary transportation state subsection federal 
