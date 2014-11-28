@@ -1,0 +1,10 @@
+0	0.09452	states court united art claims 
+1	0.2303	program definitions national programs research 
+2	0.12814	employees office duties general services 
+3	0.06858	housing loans loan federal insurance 
+4	0.10122	repealed transferred omitted agricultural food 
+5	0.21763	definitions enforcement transportation information regulations 
+6	0.09247	service officers pay members reserve 
+7	0.09023	tax funds indian payment health 
+8	0.06031	lands national land acquisition authorization 
+9	0.09073	united states foreign international vessels 

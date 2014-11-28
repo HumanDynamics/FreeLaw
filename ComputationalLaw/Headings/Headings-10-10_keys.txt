@@ -1,0 +1,10 @@
+0	0.06614	united states powers office report organization congress membership senate appropriations 
+1	0.10961	transportation vessels penalties safety foreign enforcement standards vessel motor air 
+2	0.05587	lands national land acquisition establishment appropriations authorization administration rights water 
+3	0.20402	definitions states enforcement united review actions state federal laws court 
+4	0.07462	housing loans loan federal bank credit corporation insurance banks obligations 
+5	0.25676	program authorization definitions appropriations research assistance programs national development federal 
+6	0.09119	repealed transferred omitted islands ff aa ee gg land extension 
+7	0.14635	services defense repealed department employees foreign general property personnel united 
+8	0.07748	tax funds payments indian payment tribal health care benefits claims 
+9	0.06599	officers pay service members reserve duty art active guard corps 
