@@ -1,0 +1,13 @@
+CONGRESSIONAL BUDGET OFFICE	Title:2	Chapter:17	Section:0
+ Establishment	Title:2	Chapter:17	Section:601
+ Duties and functions	Title:2	Chapter:17	Section:602
+ Public access to budget data	Title:2	Chapter:17	Section:603
+ Omitted	Title:2	Chapter:17	Section:604
+ Sale or lease of property, supplies, or services	Title:2	Chapter:17	Section:605
+ Disposition of surplus or obsolete property	Title:2	Chapter:17	Section:606
+ Lump-sum payments for annual leave to separated employees	Title:2	Chapter:17	Section:607
+ Lump-sum payments to enhance staff recruitment and to reward exceptional performance	Title:2	Chapter:17	Section:608
+ Employee training	Title:2	Chapter:17	Section:609
+ Repayment of student loan on behalf of employee	Title:2	Chapter:17	Section:610
+ Employee development program	Title:2	Chapter:17	Section:611
+ Executive exchange program	Title:2	Chapter:17	Section:612

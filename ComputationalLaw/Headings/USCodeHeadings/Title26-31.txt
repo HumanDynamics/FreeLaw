@@ -1,0 +1,10 @@
+RETAIL EXCISE TAXES	Title:26	Chapter:31	Section:0
+ Imposition of tax	Title:26	Chapter:31	Section:4001
+ 1st retail sale; uses, etc. treated as sales; determination of price	Title:26	Chapter:31	Section:4002
+ Special rules	Title:26	Chapter:31	Section:4003
+ Imposition of tax	Title:26	Chapter:31	Section:4041
+ Tax on fuel used in commercial transportation on inland waterways	Title:26	Chapter:31	Section:4042
+ Surtax on fuel used in aircraft part of a fractional ownership program	Title:26	Chapter:31	Section:4043
+ Imposition of tax on heavy trucks and trailers sold at retail	Title:26	Chapter:31	Section:4051
+ Definitions and special rules	Title:26	Chapter:31	Section:4052
+ Exemptions	Title:26	Chapter:31	Section:4053

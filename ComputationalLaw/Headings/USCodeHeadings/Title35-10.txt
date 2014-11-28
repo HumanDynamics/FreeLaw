@@ -1,0 +1,7 @@
+PATENTABILITY OF INVENTIONS	Title:35	Chapter:10	Section:0
+ Definitions	Title:35	Chapter:10	Section:100
+ Inventions patentable	Title:35	Chapter:10	Section:101
+ Conditions for patentability; novelty	Title:35	Chapter:10	Section:102
+ Conditions for patentability; non-obvious subject matter	Title:35	Chapter:10	Section:103
+ Repealed. 	Title:35	Chapter:10	Section:104
+ Inventions in outer space	Title:35	Chapter:10	Section:105

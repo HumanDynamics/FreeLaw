@@ -1,0 +1,10 @@
+ROBBERY AND BURGLARY	Title:18	Chapter:103	Section:0
+ Special maritime and territorial jurisdiction	Title:18	Chapter:103	Section:2111
+ Personal property of United States	Title:18	Chapter:103	Section:2112
+ Bank robbery and incidental crimes	Title:18	Chapter:103	Section:2113
+ Mail, money, or other property of United States	Title:18	Chapter:103	Section:2114
+ Post office	Title:18	Chapter:103	Section:2115
+ Railway or steamboat post office	Title:18	Chapter:103	Section:2116
+ Breaking or entering carrier facilities	Title:18	Chapter:103	Section:2117
+ Robberies and burglaries involving controlled substances	Title:18	Chapter:103	Section:2118
+ Motor vehicles	Title:18	Chapter:103	Section:2119

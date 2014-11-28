@@ -1,0 +1,6 @@
+BROADBAND	Title:47	Chapter:12	Section:0
+ Findings	Title:47	Chapter:12	Section:1301
+ Advanced telecommunications incentives	Title:47	Chapter:12	Section:1302
+ Improving Federal data on broadband	Title:47	Chapter:12	Section:1303
+ Encouraging State initiatives to improve broadband	Title:47	Chapter:12	Section:1304
+ Broadband Technology Opportunities Program	Title:47	Chapter:12	Section:1305

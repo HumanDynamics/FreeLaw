@@ -1,0 +1,14 @@
+STATE FISCAL STABILIZATION FUND	Title:20	Chapter:80	Section:0
+ Allocations	Title:20	Chapter:80	Section:10001
+ State uses of funds	Title:20	Chapter:80	Section:10002
+ Uses of funds by local educational agencies	Title:20	Chapter:80	Section:10003
+ Uses of funds by institutions of higher education	Title:20	Chapter:80	Section:10004
+ State applications	Title:20	Chapter:80	Section:10005
+ State incentive grants	Title:20	Chapter:80	Section:10006
+ Innovation Fund	Title:20	Chapter:80	Section:10007
+ State reports	Title:20	Chapter:80	Section:10008
+ Evaluation	Title:20	Chapter:80	Section:10009
+ Secretary’s report to Congress	Title:20	Chapter:80	Section:10010
+ Prohibition on provision of certain assistance	Title:20	Chapter:80	Section:10011
+ Fiscal relief	Title:20	Chapter:80	Section:10012
+ Definitions	Title:20	Chapter:80	Section:10013

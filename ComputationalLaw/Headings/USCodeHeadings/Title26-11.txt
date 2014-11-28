@@ -1,0 +1,21 @@
+ESTATE TAX	Title:26	Chapter:11	Section:0
+ Tax imposed	Title:26	Chapter:11	Section:2101
+ Credits against tax	Title:26	Chapter:11	Section:2102
+ Definition of gross estate	Title:26	Chapter:11	Section:2103
+ Property within the United States	Title:26	Chapter:11	Section:2104
+ Property without the United States	Title:26	Chapter:11	Section:2105
+ Taxable estate	Title:26	Chapter:11	Section:2106
+ Expatriation to avoid tax	Title:26	Chapter:11	Section:2107
+ Application of pre-1967 estate tax provisions	Title:26	Chapter:11	Section:2108
+ Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks	Title:26	Chapter:11	Section:2201
+ Repealed. 	Title:26	Chapter:11	Section:2202
+ Definition of executor	Title:26	Chapter:11	Section:2203
+ Discharge of fiduciary from personal liability	Title:26	Chapter:11	Section:2204
+ Reimbursement out of estate	Title:26	Chapter:11	Section:2205
+ Liability of life insurance beneficiaries	Title:26	Chapter:11	Section:2206
+ Liability of recipient of property over which decedent had power of appointment	Title:26	Chapter:11	Section:2207
+ Right of recovery in the case of certain marital deduction property	Title:26	Chapter:11	Section:2207A
+ Right of recovery where decedent retained interest	Title:26	Chapter:11	Section:2207B
+ Certain residents of possessions considered citizens of the United States	Title:26	Chapter:11	Section:2208
+ Certain residents of possessions considered nonresidents not citizens of the United States	Title:26	Chapter:11	Section:2209
+ Repealed. 	Title:26	Chapter:11	Section:2210

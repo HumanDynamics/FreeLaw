@@ -1,0 +1,26 @@
+SENTENCES	Title:18	Chapter:227	Section:0
+ Authorized sentences	Title:18	Chapter:227	Section:3551
+ Presentence reports	Title:18	Chapter:227	Section:3552
+ Imposition of a sentence	Title:18	Chapter:227	Section:3553
+ Order of criminal forfeiture	Title:18	Chapter:227	Section:3554
+ Order of notice to victims	Title:18	Chapter:227	Section:3555
+ Order of restitution	Title:18	Chapter:227	Section:3556
+ Review of a sentence	Title:18	Chapter:227	Section:3557
+ Implementation of a sentence	Title:18	Chapter:227	Section:3558
+ Sentencing classification of offenses	Title:18	Chapter:227	Section:3559
+ Sentence of probation	Title:18	Chapter:227	Section:3561
+ Imposition of a sentence of probation	Title:18	Chapter:227	Section:3562
+ Conditions of probation	Title:18	Chapter:227	Section:3563
+ Running of a term of probation	Title:18	Chapter:227	Section:3564
+ Revocation of probation	Title:18	Chapter:227	Section:3565
+ Implementation of a sentence of probation	Title:18	Chapter:227	Section:3566
+ Sentence of fine	Title:18	Chapter:227	Section:3571
+ Imposition of a sentence of fine and related matters	Title:18	Chapter:227	Section:3572
+ Petition of the Government for modification or remission	Title:18	Chapter:227	Section:3573
+ Implementation of a sentence of fine	Title:18	Chapter:227	Section:3574
+ Sentence of imprisonment	Title:18	Chapter:227	Section:3581
+ Imposition of a sentence of imprisonment	Title:18	Chapter:227	Section:3582
+ Inclusion of a term of supervised release after imprisonment	Title:18	Chapter:227	Section:3583
+ Multiple sentences of imprisonment	Title:18	Chapter:227	Section:3584
+ Calculation of a term of imprisonment	Title:18	Chapter:227	Section:3585
+ Implementation of a sentence of imprisonment	Title:18	Chapter:227	Section:3586

@@ -1,0 +1,5 @@
+DEFENSE ACQUISITION SYSTEM	Title:10	Chapter:149	Section:0
+ Definitions	Title:10	Chapter:149	Section:2545
+ Civilian management of the defense acquisition system	Title:10	Chapter:149	Section:2546
+ Acquisition-related functions of chiefs of the armed forces	Title:10	Chapter:149	Section:2547
+ Performance assessments of the defense acquisition system	Title:10	Chapter:149	Section:2548

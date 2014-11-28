@@ -1,0 +1,12 @@
+INTERCEPTION OF DIGITAL AND OTHER COMMUNICATIONS	Title:47	Chapter:9	Section:0
+ Definitions	Title:47	Chapter:9	Section:1001
+ Assistance capability requirements	Title:47	Chapter:9	Section:1002
+ Notices of capacity requirements	Title:47	Chapter:9	Section:1003
+ Systems security and integrity	Title:47	Chapter:9	Section:1004
+ Cooperation of equipment manufacturers and providers of telecommunications support services	Title:47	Chapter:9	Section:1005
+ Technical requirements and standards; extension of compliance date	Title:47	Chapter:9	Section:1006
+ Enforcement orders	Title:47	Chapter:9	Section:1007
+ Payment of costs of telecommunications carriers to comply with capability requirements	Title:47	Chapter:9	Section:1008
+ Authorization of appropriations	Title:47	Chapter:9	Section:1009
+ Reports	Title:47	Chapter:9	Section:1010
+ Department of Justice Telecommunications Carrier Compliance Fund	Title:47	Chapter:9	Section:1021

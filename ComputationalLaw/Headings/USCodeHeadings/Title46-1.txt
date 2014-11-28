@@ -1,0 +1,17 @@
+DEFINITIONS	Title:46	Chapter:1	Section:0
+ Agency	Title:46	Chapter:1	Section:101
+ Barge	Title:46	Chapter:1	Section:102
+ Boundary Line	Title:46	Chapter:1	Section:103
+ Citizen of the United States	Title:46	Chapter:1	Section:104
+ Consular officer	Title:46	Chapter:1	Section:105
+ Documented vessel	Title:46	Chapter:1	Section:106
+ Exclusive economic zone	Title:46	Chapter:1	Section:107
+ Fisheries	Title:46	Chapter:1	Section:108
+ Foreign commerce or trade	Title:46	Chapter:1	Section:109
+ Foreign vessel	Title:46	Chapter:1	Section:110
+ Numbered vessel	Title:46	Chapter:1	Section:111
+ State	Title:46	Chapter:1	Section:112
+ Undocumented	Title:46	Chapter:1	Section:113
+ United States	Title:46	Chapter:1	Section:114
+ Vessel	Title:46	Chapter:1	Section:115
+ Vessel of the United States	Title:46	Chapter:1	Section:116

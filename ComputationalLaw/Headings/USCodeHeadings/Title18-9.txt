@@ -1,0 +1,9 @@
+BANKRUPTCY	Title:18	Chapter:9	Section:0
+ Definition	Title:18	Chapter:9	Section:151
+ Concealment of assets; false oaths and claims; bribery	Title:18	Chapter:9	Section:152
+ Embezzlement against estate	Title:18	Chapter:9	Section:153
+ Adverse interest and conduct of officers	Title:18	Chapter:9	Section:154
+ Fee agreements in cases under title 11 and receiverships	Title:18	Chapter:9	Section:155
+ Knowing disregard of bankruptcy law or rule	Title:18	Chapter:9	Section:156
+ Bankruptcy fraud	Title:18	Chapter:9	Section:157
+ Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules	Title:18	Chapter:9	Section:158

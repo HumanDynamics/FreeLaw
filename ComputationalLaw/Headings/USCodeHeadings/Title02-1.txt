@@ -1,0 +1,14 @@
+ELECTION OF SENATORS AND REPRESENTATIVES	Title:2	Chapter:1	Section:0
+ Time for election of Senators	Title:2	Chapter:1	Section:1
+ Election to be certified by governor	Title:2	Chapter:1	Section:1a
+ Countersignature of certificate of election	Title:2	Chapter:1	Section:1b
+ Omitted	Title:2	Chapter:1	Section:2
+ Reapportionment of Representatives; time and manner; existing decennial census figures as basis; statement by President; duty of clerk	Title:2	Chapter:1	Section:2a
+ Number of Representatives from each State in 78th and subsequent Congresses	Title:2	Chapter:1	Section:2b
+ Number of Congressional Districts; number of Representatives from each District	Title:2	Chapter:1	Section:2c
+ Omitted	Title:2	Chapter:1	Section:3, 4
+ Nominations for Representatives at large	Title:2	Chapter:1	Section:5
+ Reduction of representation	Title:2	Chapter:1	Section:6
+ Time of election	Title:2	Chapter:1	Section:7
+ Vacancies	Title:2	Chapter:1	Section:8
+ Voting for Representatives	Title:2	Chapter:1	Section:9

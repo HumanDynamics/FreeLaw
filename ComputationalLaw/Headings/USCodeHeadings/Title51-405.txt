@@ -1,0 +1,6 @@
+BIOMEDICAL RESEARCH IN SPACE	Title:51	Chapter:405	Section:0
+ Biomedical research joint working group	Title:51	Chapter:405	Section:40501
+ Biomedical research grants	Title:51	Chapter:405	Section:40502
+ Biomedical research fellowships	Title:51	Chapter:405	Section:40503
+ Establishment of electronic data archive	Title:51	Chapter:405	Section:40504
+ Establishment of emergency medical service telemedicine capability	Title:51	Chapter:405	Section:40505

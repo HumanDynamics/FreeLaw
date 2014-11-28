@@ -1,0 +1,5 @@
+PROFESSIONAL MILITARY EDUCATION SCHOOLS	Title:10	Chapter:609	Section:0
+ Degree granting authority for Naval War College	Title:10	Chapter:609	Section:7101
+ Degree granting authority for Marine Corps University	Title:10	Chapter:609	Section:7102
+ Naval War College: acceptance of grants for faculty research for scientific, literary, and educational purposes	Title:10	Chapter:609	Section:7103
+ Marine Corps University: acceptance of grants for faculty research for scientific, literary, and educational purposes	Title:10	Chapter:609	Section:7104

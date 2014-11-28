@@ -1,0 +1,8 @@
+THEODORE ROOSEVELT ASSOCIATION	Title:36	Chapter:2101	Section:0
+ Organization	Title:36	Chapter:2101	Section:210101
+ Purposes	Title:36	Chapter:2101	Section:210102
+ Membership	Title:36	Chapter:2101	Section:210103
+ Governing body	Title:36	Chapter:2101	Section:210104
+ Powers	Title:36	Chapter:2101	Section:210105
+ Restrictions	Title:36	Chapter:2101	Section:210106
+ Nonapplication of audit requirements	Title:36	Chapter:2101	Section:210107

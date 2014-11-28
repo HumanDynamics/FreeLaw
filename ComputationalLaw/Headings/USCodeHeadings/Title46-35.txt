@@ -1,0 +1,9 @@
+CARRIAGE OF PASSENGERS	Title:46	Chapter:35	Section:0
+ Number of passengers	Title:46	Chapter:35	Section:3501
+ List or count of passengers	Title:46	Chapter:35	Section:3502
+ Fire-retardant materials	Title:46	Chapter:35	Section:3503
+ Notification to passengers	Title:46	Chapter:35	Section:3504
+ Prevention of departure	Title:46	Chapter:35	Section:3505
+ Copies of laws	Title:46	Chapter:35	Section:3506
+ Passenger vessel security and safety requirements	Title:46	Chapter:35	Section:3507
+ Crime scene preservation training for passenger vessel crewmembers	Title:46	Chapter:35	Section:3508

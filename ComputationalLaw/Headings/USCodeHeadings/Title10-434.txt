@@ -1,0 +1,6 @@
+ARMAMENTS INDUSTRIAL BASE	Title:10	Chapter:434	Section:0
+ Definitions	Title:10	Chapter:434	Section:4551
+ Policy	Title:10	Chapter:434	Section:4552
+ Armament Retooling and Manufacturing Support Initiative	Title:10	Chapter:434	Section:4553
+ Property management contracts and leases	Title:10	Chapter:434	Section:4554
+ ARMS Initiative loan guarantee program	Title:10	Chapter:434	Section:4555

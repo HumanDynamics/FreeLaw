@@ -1,0 +1,3 @@
+PENALTIES	Title:46	Chapter:147	Section:0
+ General violation	Title:46	Chapter:147	Section:14701
+ False statements	Title:46	Chapter:147	Section:14702

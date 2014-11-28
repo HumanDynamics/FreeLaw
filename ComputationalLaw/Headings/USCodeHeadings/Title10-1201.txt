@@ -1,0 +1,13 @@
+AUTHORIZED STRENGTHS AND DISTRIBUTION IN GRADE	Title:10	Chapter:1201	Section:0
+ Authorized strengths: reserve components	Title:10	Chapter:1201	Section:12001
+ Authorized strengths: Army and Air Force reserve components, exclusive of members on active duty	Title:10	Chapter:1201	Section:12002
+ Authorized strengths: commissioned officers in an active status	Title:10	Chapter:1201	Section:12003
+ Strength in grade: reserve general and flag officers in an active status	Title:10	Chapter:1201	Section:12004
+ Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status	Title:10	Chapter:1201	Section:12005
+ Strength limitations: authority to waive in time of war or national emergency	Title:10	Chapter:1201	Section:12006
+ Reserve officers of the Army: distribution	Title:10	Chapter:1201	Section:12007
+ Army Reserve and Air Force Reserve: warrant officers	Title:10	Chapter:1201	Section:12008
+ Army and Air Force reserve components: temporary increases	Title:10	Chapter:1201	Section:12009
+ Computations for Navy Reserve and Marine Corps Reserve: rule when fraction occurs in final result	Title:10	Chapter:1201	Section:12010
+ Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard	Title:10	Chapter:1201	Section:12011
+ Authorized strengths: senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or the National Guard	Title:10	Chapter:1201	Section:12012

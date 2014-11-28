@@ -1,0 +1,8 @@
+THURGOOD MARSHALL FEDERAL JUDICIARY BUILDING	Title:40	Chapter:65	Section:0
+ Definition	Title:40	Chapter:65	Section:6501
+ Thurgood Marshall Federal Judiciary Building	Title:40	Chapter:65	Section:6502
+ Commission for the Judiciary Office Building	Title:40	Chapter:65	Section:6503
+ Lease of building	Title:40	Chapter:65	Section:6504
+ Structural and mechanical care and security	Title:40	Chapter:65	Section:6505
+ Allocation of space	Title:40	Chapter:65	Section:6506
+ Account in Treasury	Title:40	Chapter:65	Section:6507

@@ -1,0 +1,9 @@
+EXPLORATION INITIATIVES	Title:51	Chapter:705	Section:0
+ Space shuttle follow-on	Title:51	Chapter:705	Section:70501
+ Exploration plan and programs	Title:51	Chapter:705	Section:70502
+ Ground-based analog capabilities	Title:51	Chapter:705	Section:70503
+ Stepping stone approach to exploration	Title:51	Chapter:705	Section:70504
+ Lunar outpost	Title:51	Chapter:705	Section:70505
+ Exploration technology research	Title:51	Chapter:705	Section:70506
+ Technology development	Title:51	Chapter:705	Section:70507
+ Robotic or human servicing of spacecraft	Title:51	Chapter:705	Section:70508

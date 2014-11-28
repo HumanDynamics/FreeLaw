@@ -1,0 +1,5 @@
+MAJOR AUTOMATED INFORMATION SYSTEM PROGRAMS	Title:10	Chapter:144A	Section:0
+ Definitions	Title:10	Chapter:144A	Section:2445a
+ Cost, schedule, and performance information	Title:10	Chapter:144A	Section:2445b
+ Reports: quarterly reports; reports on program changes	Title:10	Chapter:144A	Section:2445c
+ Construction with other reporting requirements	Title:10	Chapter:144A	Section:2445d

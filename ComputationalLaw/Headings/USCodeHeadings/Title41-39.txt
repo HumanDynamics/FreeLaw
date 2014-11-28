@@ -1,0 +1,7 @@
+SPECIFIC TYPES OF CONTRACTS	Title:41	Chapter:39	Section:0
+ Contracts awarded using procedures other than sealed-bid procedures	Title:41	Chapter:39	Section:3901
+ Severable services contracts for periods crossing fiscal years	Title:41	Chapter:39	Section:3902
+ Multiyear contracts	Title:41	Chapter:39	Section:3903
+ Contract authority for severable services contracts and multiyear contracts	Title:41	Chapter:39	Section:3904
+ Cost contracts	Title:41	Chapter:39	Section:3905
+ Cost-reimbursement contracts	Title:41	Chapter:39	Section:3906

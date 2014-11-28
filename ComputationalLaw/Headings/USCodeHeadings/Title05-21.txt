@@ -1,0 +1,12 @@
+DEFINITIONS	Title:5	Chapter:21	Section:0
+ Civil service; armed forces; uniformed services	Title:5	Chapter:21	Section:2101
+ The Senior Executive Service	Title:5	Chapter:21	Section:2101a
+ The competitive service	Title:5	Chapter:21	Section:2102
+ The excepted service	Title:5	Chapter:21	Section:2103
+ Officer	Title:5	Chapter:21	Section:2104
+ Employee	Title:5	Chapter:21	Section:2105
+ Member of Congress	Title:5	Chapter:21	Section:2106
+ Congressional employee	Title:5	Chapter:21	Section:2107
+ Veteran; disabled veteran; preference eligible	Title:5	Chapter:21	Section:2108
+ Treatment of certain individuals as veterans, disabled veterans, and preference eligibles	Title:5	Chapter:21	Section:2108a
+ Air traffic controller; Secretary	Title:5	Chapter:21	Section:2109

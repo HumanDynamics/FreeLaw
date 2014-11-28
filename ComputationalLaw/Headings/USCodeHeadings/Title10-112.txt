@@ -1,0 +1,8 @@
+INFORMATION SECURITY SCHOLARSHIP PROGRAM	Title:10	Chapter:112	Section:0
+ Programs; purpose	Title:10	Chapter:112	Section:2200
+ Scholarship program	Title:10	Chapter:112	Section:2200a
+ Grant program	Title:10	Chapter:112	Section:2200b
+ Centers of Academic Excellence in Information Assurance Education	Title:10	Chapter:112	Section:2200c
+ Regulations	Title:10	Chapter:112	Section:2200d
+ Definitions	Title:10	Chapter:112	Section:2200e
+ Inapplicability to Coast Guard	Title:10	Chapter:112	Section:2200f

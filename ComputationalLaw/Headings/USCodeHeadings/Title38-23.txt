@@ -1,0 +1,9 @@
+BURIAL BENEFITS	Title:38	Chapter:23	Section:0
+ Flags	Title:38	Chapter:23	Section:2301
+ Funeral expenses	Title:38	Chapter:23	Section:2302
+ Death in Department facility; plot allowance	Title:38	Chapter:23	Section:2303
+ Claims for reimbursement	Title:38	Chapter:23	Section:2304
+ Persons eligible under prior law	Title:38	Chapter:23	Section:2305
+ Headstones, markers, and burial receptacles	Title:38	Chapter:23	Section:2306
+ Death from service-connected disability	Title:38	Chapter:23	Section:2307
+ Transportation of deceased veteran to a national cemetery	Title:38	Chapter:23	Section:2308

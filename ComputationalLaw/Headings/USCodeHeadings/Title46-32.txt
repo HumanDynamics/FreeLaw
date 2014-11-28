@@ -1,0 +1,6 @@
+MANAGEMENT OF VESSELS	Title:46	Chapter:32	Section:0
+ Definitions	Title:46	Chapter:32	Section:3201
+ Application	Title:46	Chapter:32	Section:3202
+ Safety management system	Title:46	Chapter:32	Section:3203
+ Implementation of safety management system	Title:46	Chapter:32	Section:3204
+ Certification	Title:46	Chapter:32	Section:3205

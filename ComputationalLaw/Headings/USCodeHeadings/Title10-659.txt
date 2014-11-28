@@ -1,0 +1,5 @@
+NAVAL MILITIA	Title:10	Chapter:659	Section:0
+ Composition	Title:10	Chapter:659	Section:7851
+ Appointment and enlistment in reserve components	Title:10	Chapter:659	Section:7852
+ Release from Militia duty upon order to active duty in reserve components	Title:10	Chapter:659	Section:7853
+ Availability of material for Naval Militia	Title:10	Chapter:659	Section:7854

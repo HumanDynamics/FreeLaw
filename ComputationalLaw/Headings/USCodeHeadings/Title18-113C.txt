@@ -1,0 +1,4 @@
+TORTURE	Title:18	Chapter:113C	Section:0
+ Definitions	Title:18	Chapter:113C	Section:2340
+ Torture	Title:18	Chapter:113C	Section:2340A
+ Exclusive remedies	Title:18	Chapter:113C	Section:2340B

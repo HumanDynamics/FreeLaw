@@ -1,0 +1,13 @@
+TONNAGE TAXES AND LIGHT MONEY	Title:46	Chapter:603	Section:0
+ Regular tonnage taxes	Title:46	Chapter:603	Section:60301
+ Special tonnage taxes	Title:46	Chapter:603	Section:60302
+ Light money	Title:46	Chapter:603	Section:60303
+ Presidential suspension of tonnage taxes and light money	Title:46	Chapter:603	Section:60304
+ Vessels in distress	Title:46	Chapter:603	Section:60305
+ Vessels not engaged in trade	Title:46	Chapter:603	Section:60306
+ Vessels engaged in coastwise trade or the fisheries	Title:46	Chapter:603	Section:60307
+ Vessels engaged in Great Lakes trade	Title:46	Chapter:603	Section:60308
+ Passenger vessels making trips between ports of the United States and foreign ports	Title:46	Chapter:603	Section:60309
+ Vessels making daily trips on interior waters	Title:46	Chapter:603	Section:60310
+ Hospital vessels in time of war	Title:46	Chapter:603	Section:60311
+ Rights under treaties preserved	Title:46	Chapter:603	Section:60312

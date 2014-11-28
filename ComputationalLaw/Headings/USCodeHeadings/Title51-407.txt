@@ -1,0 +1,5 @@
+ENVIRONMENTALLY FRIENDLY AIRCRAFT	Title:51	Chapter:407	Section:0
+ Research and development initiative	Title:51	Chapter:407	Section:40701
+ Additional research and development initiative	Title:51	Chapter:407	Section:40702
+ Research alignment	Title:51	Chapter:407	Section:40703
+ Research program on perceived impact of sonic booms	Title:51	Chapter:407	Section:40704

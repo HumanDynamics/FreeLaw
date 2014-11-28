@@ -1,0 +1,6 @@
+NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM	Title:36	Chapter:3	Section:0
+ National anthem	Title:36	Chapter:3	Section:301
+ National motto	Title:36	Chapter:3	Section:302
+ National floral emblem	Title:36	Chapter:3	Section:303
+ National march	Title:36	Chapter:3	Section:304
+ National tree	Title:36	Chapter:3	Section:305

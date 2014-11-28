@@ -1,0 +1,94 @@
+SECURITIES EXCHANGES	Title:15	Chapter:2B	Section:0
+ Short title	Title:15	Chapter:2B	Section:78a
+ Necessity for regulation	Title:15	Chapter:2B	Section:78b
+ Definitions and application	Title:15	Chapter:2B	Section:78c
+ Swap agreements	Title:15	Chapter:2B	Section:78c–1
+ Securities-related derivatives	Title:15	Chapter:2B	Section:78c–2
+ Clearing for security-based swaps	Title:15	Chapter:2B	Section:78c–3
+ Security-based swap execution facilities	Title:15	Chapter:2B	Section:78c–4
+ Segregation of assets held as collateral in security-based swap transactions	Title:15	Chapter:2B	Section:78c–5
+ Securities and Exchange Commission	Title:15	Chapter:2B	Section:78d
+ Delegation of functions by Commission	Title:15	Chapter:2B	Section:78d–1
+ Transfer of functions with respect to assignment of personnel to chairman	Title:15	Chapter:2B	Section:78d–2
+ Appearance and practice before the Commission	Title:15	Chapter:2B	Section:78d–3
+ Additional duties of Inspector General	Title:15	Chapter:2B	Section:78d–4
+ Deadline for completing enforcement investigations and compliance examinations and inspections	Title:15	Chapter:2B	Section:78d–5
+ Report and certification of internal supervisory controls	Title:15	Chapter:2B	Section:78d–6
+ Triennial report on personnel management	Title:15	Chapter:2B	Section:78d–7
+ Annual financial controls audit	Title:15	Chapter:2B	Section:78d–8
+ Report on oversight of national securities associations	Title:15	Chapter:2B	Section:78d–9
+ Transactions on unregistered exchanges	Title:15	Chapter:2B	Section:78e
+ National securities exchanges	Title:15	Chapter:2B	Section:78f
+ Margin requirements	Title:15	Chapter:2B	Section:78g
+ Restrictions on borrowing and lending by members, brokers, and dealers	Title:15	Chapter:2B	Section:78h
+ Manipulation of security prices	Title:15	Chapter:2B	Section:78i
+ Manipulative and deceptive devices	Title:15	Chapter:2B	Section:78j
+ Audit requirements	Title:15	Chapter:2B	Section:78j–1
+ Position limits and position accountability for security-based swaps and large trader reporting	Title:15	Chapter:2B	Section:78j–2
+ Compensation committees	Title:15	Chapter:2B	Section:78j–3
+ Recovery of erroneously awarded compensation policy	Title:15	Chapter:2B	Section:78j–4
+ Trading by members of exchanges, brokers, and dealers	Title:15	Chapter:2B	Section:78k
+ National market system for securities; securities information processors	Title:15	Chapter:2B	Section:78k–1
+ Registration requirements for securities	Title:15	Chapter:2B	Section:78l
+ Applications for unlisted trading privileges deemed filed under 	Title:15	Chapter:2B	Section:78l–1
+ Periodical and other reports	Title:15	Chapter:2B	Section:78m
+ Reporting and recordkeeping for certain security-based swaps	Title:15	Chapter:2B	Section:78m–1
+ Reporting requirements regarding coal or other mine safety	Title:15	Chapter:2B	Section:78m–2
+ Proxies	Title:15	Chapter:2B	Section:78n
+ Shareholder approval of executive compensation	Title:15	Chapter:2B	Section:78n–1
+ Corporate governance	Title:15	Chapter:2B	Section:78n–2
+ Registration and regulation of brokers and dealers	Title:15	Chapter:2B	Section:78o
+ Brokers deemed to be registered	Title:15	Chapter:2B	Section:78o–1
+ Liabilities arising prior to amendment unaffected	Title:15	Chapter:2B	Section:78o–2
+ Registered securities associations	Title:15	Chapter:2B	Section:78o–3
+ Municipal securities	Title:15	Chapter:2B	Section:78o–4
+ Commission Office of Municipal Securities	Title:15	Chapter:2B	Section:78o–4a
+ Government securities brokers and dealers	Title:15	Chapter:2B	Section:78o–5
+ Securities analysts and research reports	Title:15	Chapter:2B	Section:78o–6
+ Registration of nationally recognized statistical rating organizations	Title:15	Chapter:2B	Section:78o–7
+ Universal ratings symbols	Title:15	Chapter:2B	Section:78o–8
+ Study and rulemaking on assigned credit ratings	Title:15	Chapter:2B	Section:78o–9
+ Registration and regulation of security-based swap dealers and major security-based swap participants	Title:15	Chapter:2B	Section:78o–10
+ Credit risk retention	Title:15	Chapter:2B	Section:78o–11
+ Directors, officers, and principal stockholders	Title:15	Chapter:2B	Section:78p
+ Records and reports	Title:15	Chapter:2B	Section:78q
+ National system for clearance and settlement of securities transactions	Title:15	Chapter:2B	Section:78q–1
+ Automated quotation systems for penny stocks	Title:15	Chapter:2B	Section:78q–2
+ Liability for misleading statements	Title:15	Chapter:2B	Section:78r
+ Registration, responsibilities, and oversight of self-regulatory organizations	Title:15	Chapter:2B	Section:78s
+ Liability of controlling persons and persons who aid and abet violations	Title:15	Chapter:2B	Section:78t
+ Liability to contemporaneous traders for insider trading	Title:15	Chapter:2B	Section:78t–1
+ Investigations and actions	Title:15	Chapter:2B	Section:78u
+ Civil penalties for insider trading	Title:15	Chapter:2B	Section:78u–1
+ Civil remedies in administrative proceedings	Title:15	Chapter:2B	Section:78u–2
+ Cease-and-desist proceedings	Title:15	Chapter:2B	Section:78u–3
+ Private securities litigation	Title:15	Chapter:2B	Section:78u–4
+ Application of safe harbor for forward-looking statements	Title:15	Chapter:2B	Section:78u–5
+ Securities whistleblower incentives and protection	Title:15	Chapter:2B	Section:78u–6
+ Implementation and transition provisions for whistleblower protection	Title:15	Chapter:2B	Section:78u–7
+ Hearings by Commission	Title:15	Chapter:2B	Section:78v
+ Rules, regulations, and orders; annual reports	Title:15	Chapter:2B	Section:78w
+ Public availability of information	Title:15	Chapter:2B	Section:78x
+ Court review of orders and rules	Title:15	Chapter:2B	Section:78y
+ Unlawful representations	Title:15	Chapter:2B	Section:78z
+ Jurisdiction of offenses and suits	Title:15	Chapter:2B	Section:78aa
+ Special provision relating to statute of limitations on private causes of action	Title:15	Chapter:2B	Section:78aa–1
+ Effect on existing law	Title:15	Chapter:2B	Section:78bb
+ Validity of contracts	Title:15	Chapter:2B	Section:78cc
+ Foreign securities exchanges	Title:15	Chapter:2B	Section:78dd
+ Prohibited foreign trade practices by issuers	Title:15	Chapter:2B	Section:78dd–1
+ Prohibited foreign trade practices by domestic concerns	Title:15	Chapter:2B	Section:78dd–2
+ Prohibited foreign trade practices by persons other than issuers or domestic concerns	Title:15	Chapter:2B	Section:78dd–3
+ Transaction fees	Title:15	Chapter:2B	Section:78ee
+ Penalties	Title:15	Chapter:2B	Section:78ff
+ Separability	Title:15	Chapter:2B	Section:78gg
+ Effective date	Title:15	Chapter:2B	Section:78hh
+ Effective date of certain sections	Title:15	Chapter:2B	Section:78hh–1
+ Omitted	Title:15	Chapter:2B	Section:78ii
+ Repealed. 	Title:15	Chapter:2B	Section:78jj
+ Authorization of appropriations	Title:15	Chapter:2B	Section:78kk
+ Requirements for the EDGAR system	Title:15	Chapter:2B	Section:78ll
+ General exemptive authority	Title:15	Chapter:2B	Section:78mm
+ Tennessee Valley Authority	Title:15	Chapter:2B	Section:78nn
+ Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Federal Home Loan Banks	Title:15	Chapter:2B	Section:78oo
+ Investor Advisory Committee	Title:15	Chapter:2B	Section:78pp

@@ -1,0 +1,8 @@
+ISSUE OF PATENT	Title:35	Chapter:14	Section:0
+ Issue of patent	Title:35	Chapter:14	Section:151
+ Issue of patent to assignee	Title:35	Chapter:14	Section:152
+ How issued	Title:35	Chapter:14	Section:153
+ Contents and term of patent; provisional rights	Title:35	Chapter:14	Section:154
+ Repealed. 	Title:35	Chapter:14	Section:155, 155A
+ Extension of patent term	Title:35	Chapter:14	Section:156
+ Repealed. 	Title:35	Chapter:14	Section:157

@@ -1,0 +1,12 @@
+CYBER SECURITY RESEARCH AND DEVELOPMENT	Title:15	Chapter:100	Section:0
+ Findings	Title:15	Chapter:100	Section:7401
+ Definitions	Title:15	Chapter:100	Section:7402
+ National Science Foundation research	Title:15	Chapter:100	Section:7403
+ National Science Foundation computer and network security programs	Title:15	Chapter:100	Section:7404
+ Consultation	Title:15	Chapter:100	Section:7405
+ National Institute of Standards and Technology programs	Title:15	Chapter:100	Section:7406
+ Authorization of appropriations	Title:15	Chapter:100	Section:7407
+ National Academy of Sciences study on computer and network security in critical infrastructures	Title:15	Chapter:100	Section:7408
+ Coordination of Federal cyber security research and development	Title:15	Chapter:100	Section:7409
+ Grant eligibility requirements and compliance with immigration laws	Title:15	Chapter:100	Section:7410
+ Report on grant and fellowship programs	Title:15	Chapter:100	Section:7411

@@ -1,0 +1,7 @@
+CIVIL RESERVE AIR FLEET	Title:10	Chapter:931	Section:0
+ Definitions	Title:10	Chapter:931	Section:9511
+ Civil Reserve Air Fleet contracts: payment rate	Title:10	Chapter:931	Section:9511a
+ Contracts for the inclusion or incorporation of defense features	Title:10	Chapter:931	Section:9512
+ Use of military installations by Civil Reserve Air Fleet contractors	Title:10	Chapter:931	Section:9513
+ Indemnification of Department of Transportation for losses covered by defense-related aviation insurance	Title:10	Chapter:931	Section:9514
+ Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet	Title:10	Chapter:931	Section:9515

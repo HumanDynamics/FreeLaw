@@ -1,0 +1,9 @@
+RANK AND COMMAND	Title:10	Chapter:43	Section:0
+ Rank: commissioned officers of the armed forces	Title:10	Chapter:43	Section:741
+ Rank: warrant officers	Title:10	Chapter:43	Section:742
+ Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps	Title:10	Chapter:43	Section:743
+ Physician to White House: assignment; grade	Title:10	Chapter:43	Section:744
+ Repealed. 	Title:10	Chapter:43	Section:745
+ Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join	Title:10	Chapter:43	Section:747
+ Command: commissioned officers in same grade or corresponding grades on duty at same place	Title:10	Chapter:43	Section:749
+ Command: retired officers	Title:10	Chapter:43	Section:750

@@ -1,0 +1,8 @@
+RATIONS	Title:10	Chapter:557	Section:0
+ Navy ration: persons entitled to	Title:10	Chapter:557	Section:6081
+ Rations	Title:10	Chapter:557	Section:6082
+ Fixing cost on certain vessels and stations	Title:10	Chapter:557	Section:6083
+ Enlisted members assigned to mess: basic allowance for subsistence paid to mess	Title:10	Chapter:557	Section:6084
+ Flight rations	Title:10	Chapter:557	Section:6085
+ Subsistence in hospital messes: hospital ration	Title:10	Chapter:557	Section:6086
+ Sale of meals by general messes	Title:10	Chapter:557	Section:6087

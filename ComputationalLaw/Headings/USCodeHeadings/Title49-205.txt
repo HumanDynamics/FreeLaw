@@ -1,0 +1,6 @@
+SIGNAL SYSTEMS	Title:49	Chapter:205	Section:0
+ Definition	Title:49	Chapter:205	Section:20501
+ Requirements for installation and use	Title:49	Chapter:205	Section:20502
+ Amending regulations and changing requirements	Title:49	Chapter:205	Section:20503
+ Inspection, testing, and investigation	Title:49	Chapter:205	Section:20504
+ Reports of malfunctions and accidents	Title:49	Chapter:205	Section:20505

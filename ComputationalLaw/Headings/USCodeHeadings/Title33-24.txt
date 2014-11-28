@@ -1,0 +1,9 @@
+VESSEL BRIDGE-TO-BRIDGE COMMUNICATION	Title:33	Chapter:24	Section:0
+ Statement of purpose	Title:33	Chapter:24	Section:1201
+ Definitions	Title:33	Chapter:24	Section:1202
+ Radiotelephone requirement	Title:33	Chapter:24	Section:1203
+ Radiotelephone for exclusive use of master, person in charge, or pilot; frequency listening watch; portable radiotelephone equipment	Title:33	Chapter:24	Section:1204
+ Radiotelephone capability; maintenance; restoration; consequences of loss: navigation of vessel	Title:33	Chapter:24	Section:1205
+ Exemptions; terms and conditions	Title:33	Chapter:24	Section:1206
+ Regulations	Title:33	Chapter:24	Section:1207
+ Penalties	Title:33	Chapter:24	Section:1208

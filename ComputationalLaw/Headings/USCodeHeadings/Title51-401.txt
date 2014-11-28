@@ -1,0 +1,13 @@
+AERONAUTICS	Title:51	Chapter:401	Section:0
+ Definition of institution of higher education	Title:51	Chapter:401	Section:40101
+ Governmental interest in aeronautics research and development	Title:51	Chapter:401	Section:40102
+ Cooperation with other agencies on aeronautics activities	Title:51	Chapter:401	Section:40103
+ Cooperation among Mission Directorates	Title:51	Chapter:401	Section:40104
+ Fundamental research program	Title:51	Chapter:401	Section:40111
+ Research and technology programs	Title:51	Chapter:401	Section:40112
+ Airspace systems research	Title:51	Chapter:401	Section:40113
+ Aviation safety and security research	Title:51	Chapter:401	Section:40114
+ Aviation weather research	Title:51	Chapter:401	Section:40115
+ University-based Centers for Research on Aviation Training	Title:51	Chapter:401	Section:40116
+ Aeronautics scholarships	Title:51	Chapter:401	Section:40131
+ Aviation data requests	Title:51	Chapter:401	Section:40141

@@ -1,0 +1,5 @@
+PLANT PATENTS	Title:35	Chapter:15	Section:0
+ Patents for plants	Title:35	Chapter:15	Section:161
+ Description, claim	Title:35	Chapter:15	Section:162
+ Grant	Title:35	Chapter:15	Section:163
+ Assistance of Department of Agriculture	Title:35	Chapter:15	Section:164

@@ -1,0 +1,11 @@
+UNITED STATES ATTORNEYS	Title:28	Chapter:35	Section:0
+ United States attorneys	Title:28	Chapter:35	Section:541
+ Assistant United States attorneys	Title:28	Chapter:35	Section:542
+ Special attorneys	Title:28	Chapter:35	Section:543
+ Oath of office	Title:28	Chapter:35	Section:544
+ Residence	Title:28	Chapter:35	Section:545
+ Vacancies	Title:28	Chapter:35	Section:546
+ Duties	Title:28	Chapter:35	Section:547
+ Salaries	Title:28	Chapter:35	Section:548
+ Expenses	Title:28	Chapter:35	Section:549
+ Clerical assistants, messengers, and private process servers	Title:28	Chapter:35	Section:550

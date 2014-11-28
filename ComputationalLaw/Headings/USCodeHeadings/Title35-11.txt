@@ -1,0 +1,14 @@
+APPLICATION FOR PATENT	Title:35	Chapter:11	Section:0
+ Application	Title:35	Chapter:11	Section:111
+ Specification	Title:35	Chapter:11	Section:112
+ Drawings	Title:35	Chapter:11	Section:113
+ Models, specimens	Title:35	Chapter:11	Section:114
+ Inventor’s oath or declaration	Title:35	Chapter:11	Section:115
+ Inventors	Title:35	Chapter:11	Section:116
+ Death or incapacity of inventor	Title:35	Chapter:11	Section:117
+ Filing by other than inventor	Title:35	Chapter:11	Section:118
+ Benefit of earlier filing date; right of priority	Title:35	Chapter:11	Section:119
+ Benefit of earlier filing date in the United States	Title:35	Chapter:11	Section:120
+ Divisional applications	Title:35	Chapter:11	Section:121
+ Confidential status of applications; publication of patent applications	Title:35	Chapter:11	Section:122
+ Micro entity defined	Title:35	Chapter:11	Section:123

@@ -1,0 +1,4 @@
+HOSPITALIZATION AND MEDICAL CARE	Title:10	Chapter:563	Section:0
+ Members of the naval service in other United States hospitals	Title:10	Chapter:563	Section:6201
+ Insane members of the naval service	Title:10	Chapter:563	Section:6202
+ Emergency medical treatment: reimbursement for expense	Title:10	Chapter:563	Section:6203

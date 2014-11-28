@@ -1,0 +1,8 @@
+HEADQUARTERS, MARINE CORPS	Title:10	Chapter:506	Section:0
+ Headquarters, Marine Corps: function; composition	Title:10	Chapter:506	Section:5041
+ Headquarters, Marine Corps: general duties	Title:10	Chapter:506	Section:5042
+ Commandant of the Marine Corps	Title:10	Chapter:506	Section:5043
+ Assistant Commandant of the Marine Corps	Title:10	Chapter:506	Section:5044
+ Deputy Commandants	Title:10	Chapter:506	Section:5045
+ Staff Judge Advocate to the Commandant of the Marine Corps	Title:10	Chapter:506	Section:5046
+ Legislative Assistant to the Commandant	Title:10	Chapter:506	Section:5047

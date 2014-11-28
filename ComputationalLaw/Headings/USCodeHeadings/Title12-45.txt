@@ -1,0 +1,10 @@
+PAYMENT SYSTEM RISK REDUCTION	Title:12	Chapter:45	Section:0
+ Findings and purpose	Title:12	Chapter:45	Section:4401
+ Definitions	Title:12	Chapter:45	Section:4402
+ Bilateral netting	Title:12	Chapter:45	Section:4403
+ Clearing organization netting	Title:12	Chapter:45	Section:4404
+ Preemption	Title:12	Chapter:45	Section:4405
+ Relationship to other payments systems	Title:12	Chapter:45	Section:4406
+ Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations	Title:12	Chapter:45	Section:4406a
+ National emergencies	Title:12	Chapter:45	Section:4407
+ Repealed. 	Title:12	Chapter:45	Section:4421, 4422

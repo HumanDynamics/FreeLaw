@@ -1,0 +1,13 @@
+HOMICIDE	Title:18	Chapter:51	Section:0
+ Murder	Title:18	Chapter:51	Section:1111
+ Manslaughter	Title:18	Chapter:51	Section:1112
+ Attempt to commit murder or manslaughter	Title:18	Chapter:51	Section:1113
+ Protection of officers and employees of the United States	Title:18	Chapter:51	Section:1114
+ Misconduct or neglect of ship officers	Title:18	Chapter:51	Section:1115
+ Murder or manslaughter of foreign officials, official guests, or internationally protected persons	Title:18	Chapter:51	Section:1116
+ Conspiracy to murder	Title:18	Chapter:51	Section:1117
+ Murder by a Federal prisoner	Title:18	Chapter:51	Section:1118
+ Foreign murder of United States nationals	Title:18	Chapter:51	Section:1119
+ Murder by escaped prisoners	Title:18	Chapter:51	Section:1120
+ Killing persons aiding Federal investigations or State correctional officers	Title:18	Chapter:51	Section:1121
+ Protection against the human immunodeficiency virus	Title:18	Chapter:51	Section:1122

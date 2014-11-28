@@ -1,0 +1,15 @@
+RESERVE COMPONENTS GENERALLY	Title:10	Chapter:1003	Section:0
+ Reserve components named	Title:10	Chapter:1003	Section:10101
+ Purpose of reserve components	Title:10	Chapter:1003	Section:10102
+ Basic policy for order into Federal service	Title:10	Chapter:1003	Section:10103
+ Army Reserve: composition	Title:10	Chapter:1003	Section:10104
+ Army National Guard of the United States: composition	Title:10	Chapter:1003	Section:10105
+ Army National Guard: when a component of the Army	Title:10	Chapter:1003	Section:10106
+ Army National Guard of the United States: status when not in Federal service	Title:10	Chapter:1003	Section:10107
+ Navy Reserve: administration	Title:10	Chapter:1003	Section:10108
+ Marine Corps Reserve: administration	Title:10	Chapter:1003	Section:10109
+ Air Force Reserve: composition	Title:10	Chapter:1003	Section:10110
+ Air National Guard of the United States: composition	Title:10	Chapter:1003	Section:10111
+ Air National Guard: when a component of the Air Force	Title:10	Chapter:1003	Section:10112
+ Air National Guard of the United States: status when not in Federal service	Title:10	Chapter:1003	Section:10113
+ Coast Guard Reserve	Title:10	Chapter:1003	Section:10114

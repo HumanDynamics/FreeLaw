@@ -1,0 +1,8 @@
+AMERICAN HOSPITAL OF PARIS	Title:36	Chapter:215	Section:0
+ Organization	Title:36	Chapter:215	Section:21501
+ Purpose	Title:36	Chapter:215	Section:21502
+ Governing body	Title:36	Chapter:215	Section:21503
+ Acquisition and management of property	Title:36	Chapter:215	Section:21504
+ Charges for medical services	Title:36	Chapter:215	Section:21505
+ Principal office	Title:36	Chapter:215	Section:21506
+ Nonapplication of audit requirements	Title:36	Chapter:215	Section:21507

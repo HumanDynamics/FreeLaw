@@ -1,0 +1,8 @@
+STANDARD REFERENCE DATA PROGRAM	Title:15	Chapter:7A	Section:0
+ Congressional declaration of policy	Title:15	Chapter:7A	Section:290
+ Definitions	Title:15	Chapter:7A	Section:290a
+ Collection, compilation, critical evaluation, publication and dissemination of standard reference data	Title:15	Chapter:7A	Section:290b
+ Standards, criteria, and procedures for preparation and publication of standard reference data; publication in Federal Register	Title:15	Chapter:7A	Section:290c
+ Sale of standard reference data; cost recovery; proceeds subject to National Institute of Standards and Technology	Title:15	Chapter:7A	Section:290d
+ United States copyright and renewal rights	Title:15	Chapter:7A	Section:290e
+ Authorization of appropriations	Title:15	Chapter:7A	Section:290f

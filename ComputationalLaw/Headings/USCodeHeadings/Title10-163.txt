@@ -1,0 +1,13 @@
+MILITARY CLAIMS	Title:10	Chapter:163	Section:0
+ Definition	Title:10	Chapter:163	Section:2731
+ Payment of claims: availability of appropriations	Title:10	Chapter:163	Section:2732
+ Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force	Title:10	Chapter:163	Section:2733
+ Property loss; personal injury or death: incident to noncombat activities of the armed forces; foreign countries	Title:10	Chapter:163	Section:2734
+ Property loss; personal injury or death: incident to noncombat activities of armed forces in foreign countries; international agreements	Title:10	Chapter:163	Section:2734a
+ Property loss; personal injury or death: incident to activities of armed forces of foreign countries in United States; international agreements	Title:10	Chapter:163	Section:2734b
+ Settlement: final and conclusive	Title:10	Chapter:163	Section:2735
+ Property loss; personal injury or death: advance payment	Title:10	Chapter:163	Section:2736
+ Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law	Title:10	Chapter:163	Section:2737
+ Property loss: reimbursement of members for certain losses of household effects caused by hostile action	Title:10	Chapter:163	Section:2738
+ Amounts recovered from third parties for loss or damage to personal property shipped or stored at Government expense: crediting to appropriations	Title:10	Chapter:163	Section:2739
+ Property loss: reimbursement of members and civilian employees for full replacement value of household effects when contractor reimbursement not available	Title:10	Chapter:163	Section:2740

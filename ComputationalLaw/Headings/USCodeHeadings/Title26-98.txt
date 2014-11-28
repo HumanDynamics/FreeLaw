@@ -1,0 +1,14 @@
+TRUST FUND CODE	Title:26	Chapter:98	Section:0
+ Black Lung Disability Trust Fund	Title:26	Chapter:98	Section:9501
+ Airport and Airway Trust Fund	Title:26	Chapter:98	Section:9502
+ Highway Trust Fund	Title:26	Chapter:98	Section:9503
+ Sport Fish Restoration and Boating Trust Fund	Title:26	Chapter:98	Section:9504
+ Harbor Maintenance Trust Fund	Title:26	Chapter:98	Section:9505
+ Inland Waterways Trust Fund	Title:26	Chapter:98	Section:9506
+ Hazardous Substance Superfund	Title:26	Chapter:98	Section:9507
+ Leaking Underground Storage Tank Trust Fund	Title:26	Chapter:98	Section:9508
+ Oil Spill Liability Trust Fund	Title:26	Chapter:98	Section:9509
+ Vaccine Injury Compensation Trust Fund	Title:26	Chapter:98	Section:9510
+ Patient-Centered Outcomes Research Trust Fund	Title:26	Chapter:98	Section:9511
+ Transfer of amounts	Title:26	Chapter:98	Section:9601
+ Management of Trust Funds	Title:26	Chapter:98	Section:9602

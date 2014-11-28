@@ -1,0 +1,7 @@
+SUPREME COURT	Title:28	Chapter:1	Section:0
+ Number of justices; quorum	Title:28	Chapter:1	Section:1
+ Terms of court	Title:28	Chapter:1	Section:2
+ Vacancy in office of Chief Justice; disability	Title:28	Chapter:1	Section:3
+ Precedence of associate justices	Title:28	Chapter:1	Section:4
+ Salaries of justices	Title:28	Chapter:1	Section:5
+ Records of former court of appeals	Title:28	Chapter:1	Section:6

@@ -1,0 +1,9 @@
+CONSUMER-PATIENT RADIATION HEALTH AND SAFETY	Title:42	Chapter:107	Section:0
+ Statement of findings	Title:42	Chapter:107	Section:10001
+ Statement of purpose	Title:42	Chapter:107	Section:10002
+ Definitions	Title:42	Chapter:107	Section:10003
+ Promulgation of standards	Title:42	Chapter:107	Section:10004
+ Model statute	Title:42	Chapter:107	Section:10005
+ Compliance	Title:42	Chapter:107	Section:10006
+ Federal radiation guidelines	Title:42	Chapter:107	Section:10007
+ Applicability to Federal agencies	Title:42	Chapter:107	Section:10008

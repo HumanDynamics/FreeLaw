@@ -1,0 +1,9 @@
+SPECIAL AUTHORITY	Title:5	Chapter:13	Section:0
+ Rules	Title:5	Chapter:13	Section:1301
+ Regulations	Title:5	Chapter:13	Section:1302
+ Investigations; reports	Title:5	Chapter:13	Section:1303
+ Loyalty investigations; reports; revolving fund	Title:5	Chapter:13	Section:1304
+ Administrative law judges	Title:5	Chapter:13	Section:1305
+ Oaths to witnesses	Title:5	Chapter:13	Section:1306
+ Minutes	Title:5	Chapter:13	Section:1307
+ Repealed. 	Title:5	Chapter:13	Section:1308

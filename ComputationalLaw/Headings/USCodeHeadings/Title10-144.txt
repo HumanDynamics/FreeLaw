@@ -1,0 +1,14 @@
+MAJOR DEFENSE ACQUISITION PROGRAMS	Title:10	Chapter:144	Section:0
+ Major defense acquisition program defined	Title:10	Chapter:144	Section:2430
+ Major subprograms	Title:10	Chapter:144	Section:2430a
+ Weapons development and procurement schedules	Title:10	Chapter:144	Section:2431
+ Selected Acquisition Reports	Title:10	Chapter:144	Section:2432
+ Unit cost reports	Title:10	Chapter:144	Section:2433
+ Critical cost growth in major defense acquisition programs	Title:10	Chapter:144	Section:2433a
+ Independent cost estimates; operational manpower requirements	Title:10	Chapter:144	Section:2434
+ Baseline description	Title:10	Chapter:144	Section:2435
+ Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States	Title:10	Chapter:144	Section:2436
+ Development of major defense acquisition programs: sustainment of system to be replaced	Title:10	Chapter:144	Section:2437
+ Performance assessments and root cause analyses	Title:10	Chapter:144	Section:2438
+ Repealed. 	Title:10	Chapter:144	Section:2439
+ Technology and industrial base plans	Title:10	Chapter:144	Section:2440

@@ -1,0 +1,8 @@
+FORFEITURE	Title:18	Chapter:46	Section:0
+ Civil forfeiture	Title:18	Chapter:46	Section:981
+ Criminal forfeiture	Title:18	Chapter:46	Section:982
+ General rules for civil forfeiture proceedings	Title:18	Chapter:46	Section:983
+ Civil forfeiture of fungible property	Title:18	Chapter:46	Section:984
+ Civil forfeiture of real property	Title:18	Chapter:46	Section:985
+ Subpoenas for bank records	Title:18	Chapter:46	Section:986
+ Anti-terrorist forfeiture protection	Title:18	Chapter:46	Section:987

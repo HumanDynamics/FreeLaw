@@ -1,0 +1,10 @@
+ENFORCEMENT	Title:46	Chapter:413	Section:0
+ Complaints	Title:46	Chapter:413	Section:41301
+ Investigations	Title:46	Chapter:413	Section:41302
+ Discovery and subpoenas	Title:46	Chapter:413	Section:41303
+ Hearings and orders	Title:46	Chapter:413	Section:41304
+ Award of reparations	Title:46	Chapter:413	Section:41305
+ Injunctive relief sought by complainants	Title:46	Chapter:413	Section:41306
+ Injunctive relief sought by the Commission	Title:46	Chapter:413	Section:41307
+ Enforcement of subpoenas and orders	Title:46	Chapter:413	Section:41308
+ Enforcement of reparation orders	Title:46	Chapter:413	Section:41309

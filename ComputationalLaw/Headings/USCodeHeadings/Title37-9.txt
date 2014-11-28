@@ -1,0 +1,5 @@
+LEAVE	Title:37	Chapter:9	Section:0
+ Payments for unused accrued leave	Title:37	Chapter:9	Section:501
+ Absences due to sickness, wounds, and certain other causes	Title:37	Chapter:9	Section:502
+ Absence without leave or over leave	Title:37	Chapter:9	Section:503
+ Cadets and midshipmen: chapter does not apply to	Title:37	Chapter:9	Section:504

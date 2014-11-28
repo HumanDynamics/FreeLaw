@@ -1,0 +1,10 @@
+RAILROAD RETIREMENT TAX ACT	Title:26	Chapter:22	Section:0
+ Rate of tax	Title:26	Chapter:22	Section:3201
+ Deduction of tax from compensation	Title:26	Chapter:22	Section:3202
+ Rate of tax	Title:26	Chapter:22	Section:3211
+ Determination of compensation	Title:26	Chapter:22	Section:3212
+ Rate of tax	Title:26	Chapter:22	Section:3221
+ Definitions	Title:26	Chapter:22	Section:3231
+ Court jurisdiction	Title:26	Chapter:22	Section:3232
+ Short title	Title:26	Chapter:22	Section:3233
+ Determination of tier 2 tax rate based on average account benefits ratio	Title:26	Chapter:22	Section:3241

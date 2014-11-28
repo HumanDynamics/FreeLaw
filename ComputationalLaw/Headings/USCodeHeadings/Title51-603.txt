@@ -1,0 +1,7 @@
+REMOTE SENSING	Title:51	Chapter:603	Section:0
+ Definitions	Title:51	Chapter:603	Section:60301
+ General responsibilities	Title:51	Chapter:603	Section:60302
+ Pilot projects to encourage public sector applications	Title:51	Chapter:603	Section:60303
+ Program evaluation	Title:51	Chapter:603	Section:60304
+ Data availability	Title:51	Chapter:603	Section:60305
+ Education	Title:51	Chapter:603	Section:60306

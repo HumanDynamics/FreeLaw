@@ -1,0 +1,11 @@
+SPACE PROGRAMS	Title:10	Chapter:135	Section:0
+ Management of space programs: joint program offices and officer management programs	Title:10	Chapter:135	Section:2271
+ Space science and technology strategy: coordination	Title:10	Chapter:135	Section:2272
+ Policy regarding assured access to space: national security payloads	Title:10	Chapter:135	Section:2273
+ Operationally Responsive Space Program Office	Title:10	Chapter:135	Section:2273a
+ Space situational awareness services and information: provision to non-United States Government entities	Title:10	Chapter:135	Section:2274
+ Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs	Title:10	Chapter:135	Section:2275
+ Commercial space launch cooperation	Title:10	Chapter:135	Section:2276
+ Report on foreign counter-space programs	Title:10	Chapter:135	Section:2277
+ Notification of foreign interference of national security space	Title:10	Chapter:135	Section:2278
+ Foreign commercial satellite services	Title:10	Chapter:135	Section:2279

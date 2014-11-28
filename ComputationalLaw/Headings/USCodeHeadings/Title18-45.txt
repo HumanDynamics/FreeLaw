@@ -1,0 +1,21 @@
+FOREIGN RELATIONS	Title:18	Chapter:45	Section:0
+ Agents of foreign governments	Title:18	Chapter:45	Section:951
+ Diplomatic codes and correspondence	Title:18	Chapter:45	Section:952
+ Private correspondence with foreign governments	Title:18	Chapter:45	Section:953
+ False statements influencing foreign government	Title:18	Chapter:45	Section:954
+ Financial transactions with foreign governments	Title:18	Chapter:45	Section:955
+ Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country	Title:18	Chapter:45	Section:956
+ Possession of property in aid of foreign government	Title:18	Chapter:45	Section:957
+ Commission to serve against friendly nation	Title:18	Chapter:45	Section:958
+ Enlistment in foreign service	Title:18	Chapter:45	Section:959
+ Expedition against friendly nation	Title:18	Chapter:45	Section:960
+ Strengthening armed vessel of foreign nation	Title:18	Chapter:45	Section:961
+ Arming vessel against friendly nation	Title:18	Chapter:45	Section:962
+ Detention of armed vessel	Title:18	Chapter:45	Section:963
+ Delivering armed vessel to belligerent nation	Title:18	Chapter:45	Section:964
+ Verified statements as prerequisite to vessel’s departure	Title:18	Chapter:45	Section:965
+ Departure of vessel forbidden for false statements	Title:18	Chapter:45	Section:966
+ Departure of vessel forbidden in aid of neutrality	Title:18	Chapter:45	Section:967
+ Repealed. 	Title:18	Chapter:45	Section:968
+ Repealed. 	Title:18	Chapter:45	Section:969
+ Protection of property occupied by foreign governments	Title:18	Chapter:45	Section:970

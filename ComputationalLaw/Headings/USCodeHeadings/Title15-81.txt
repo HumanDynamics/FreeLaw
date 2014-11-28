@@ -1,0 +1,18 @@
+HIGH-PERFORMANCE COMPUTING	Title:15	Chapter:81	Section:0
+ Findings	Title:15	Chapter:81	Section:5501
+ Purposes	Title:15	Chapter:81	Section:5502
+ Definitions	Title:15	Chapter:81	Section:5503
+ National High-Performance Computing Program	Title:15	Chapter:81	Section:5511
+ National Research and Education Network	Title:15	Chapter:81	Section:5512
+ Next Generation Internet	Title:15	Chapter:81	Section:5513
+ National Science Foundation activities	Title:15	Chapter:81	Section:5521
+ National Aeronautics and Space Administration activities	Title:15	Chapter:81	Section:5522
+ Department of Energy activities	Title:15	Chapter:81	Section:5523
+ Department of Commerce activities	Title:15	Chapter:81	Section:5524
+ Environmental Protection Agency activities	Title:15	Chapter:81	Section:5525
+ Role of Department of Education	Title:15	Chapter:81	Section:5526
+ Miscellaneous provisions	Title:15	Chapter:81	Section:5527
+ Fostering United States competitiveness in high-performance computing and related activities	Title:15	Chapter:81	Section:5528
+ Definitions	Title:15	Chapter:81	Section:5541
+ Department of Energy high-end computing research and development program	Title:15	Chapter:81	Section:5542
+ Authorization of appropriations	Title:15	Chapter:81	Section:5543

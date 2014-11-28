@@ -1,0 +1,7 @@
+TELEWORK	Title:5	Chapter:65	Section:0
+ Definitions	Title:5	Chapter:65	Section:6501
+ Executive agencies telework requirement	Title:5	Chapter:65	Section:6502
+ Training and monitoring	Title:5	Chapter:65	Section:6503
+ Policy and support	Title:5	Chapter:65	Section:6504
+ Telework Managing Officer	Title:5	Chapter:65	Section:6505
+ Reports	Title:5	Chapter:65	Section:6506

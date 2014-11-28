@@ -1,0 +1,9 @@
+ALTERNATIVE DISPUTE RESOLUTION	Title:28	Chapter:44	Section:0
+ Authorization of alternative dispute resolution	Title:28	Chapter:44	Section:651
+ Jurisdiction	Title:28	Chapter:44	Section:652
+ Neutrals	Title:28	Chapter:44	Section:653
+ Arbitration	Title:28	Chapter:44	Section:654
+ Arbitrators	Title:28	Chapter:44	Section:655
+ Subpoenas	Title:28	Chapter:44	Section:656
+ Arbitration award and judgment	Title:28	Chapter:44	Section:657
+ Compensation of arbitrators and neutrals	Title:28	Chapter:44	Section:658

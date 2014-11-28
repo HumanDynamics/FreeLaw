@@ -1,0 +1,7 @@
+REVIEW OF PATENT AND TRADEMARK OFFICE DECISIONS	Title:35	Chapter:13	Section:0
+ Appeal to Court of Appeals for the Federal Circuit	Title:35	Chapter:13	Section:141
+ Notice of appeal	Title:35	Chapter:13	Section:142
+ Proceedings on appeal	Title:35	Chapter:13	Section:143
+ Decision on appeal	Title:35	Chapter:13	Section:144
+ Civil action to obtain patent	Title:35	Chapter:13	Section:145
+ Civil action in case of derivation proceeding	Title:35	Chapter:13	Section:146

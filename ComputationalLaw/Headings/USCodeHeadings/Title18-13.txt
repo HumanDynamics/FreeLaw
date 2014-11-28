@@ -1,0 +1,10 @@
+CIVIL RIGHTS	Title:18	Chapter:13	Section:0
+ Conspiracy against rights	Title:18	Chapter:13	Section:241
+ Deprivation of rights under color of law	Title:18	Chapter:13	Section:242
+ Exclusion of jurors on account of race or color	Title:18	Chapter:13	Section:243
+ Discrimination against person wearing uniform of armed forces	Title:18	Chapter:13	Section:244
+ Federally protected activities	Title:18	Chapter:13	Section:245
+ Deprivation of relief benefits	Title:18	Chapter:13	Section:246
+ Damage to religious property; obstruction of persons in the free exercise of religious beliefs	Title:18	Chapter:13	Section:247
+ Freedom of access to clinic entrances	Title:18	Chapter:13	Section:248
+ Hate crime acts	Title:18	Chapter:13	Section:249

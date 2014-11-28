@@ -1,0 +1,8 @@
+PEN REGISTERS AND TRAP AND TRACE DEVICES	Title:18	Chapter:206	Section:0
+ General prohibition on pen register and trap and trace device use; exception	Title:18	Chapter:206	Section:3121
+ Application for an order for a pen register or a trap and trace device	Title:18	Chapter:206	Section:3122
+ Issuance of an order for a pen register or a trap and trace device	Title:18	Chapter:206	Section:3123
+ Assistance in installation and use of a pen register or a trap and trace device	Title:18	Chapter:206	Section:3124
+ Emergency pen register and trap and trace device installation	Title:18	Chapter:206	Section:3125
+ Reports concerning pen registers and trap and trace devices	Title:18	Chapter:206	Section:3126
+ Definitions for chapter	Title:18	Chapter:206	Section:3127

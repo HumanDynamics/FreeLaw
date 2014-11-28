@@ -1,0 +1,87 @@
+COMMODITY EXCHANGES	Title:7	Chapter:1	Section:0
+ Short title	Title:7	Chapter:1	Section:1
+ Definitions	Title:7	Chapter:1	Section:1a
+ Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”	Title:7	Chapter:1	Section:1b
+ Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate commerce	Title:7	Chapter:1	Section:2
+ Transferred	Title:7	Chapter:1	Section:2a to 4a
+ Findings and purpose	Title:7	Chapter:1	Section:5
+ Regulation of futures trading and foreign transactions	Title:7	Chapter:1	Section:6
+ Excessive speculation	Title:7	Chapter:1	Section:6a
+ Contracts designed to defraud or mislead	Title:7	Chapter:1	Section:6b
+ Enforcement authority	Title:7	Chapter:1	Section:6b–1
+ Prohibited transactions	Title:7	Chapter:1	Section:6c
+ Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; conflict-of-interest systems and procedures; Chief Compliance Officer; rules to avoid duplicative regulations; swap requirements; portfolio margining accounts	Title:7	Chapter:1	Section:6d
+ Dealings by unregistered floor trader or broker prohibited	Title:7	Chapter:1	Section:6e
+ Registration and financial requirements; risk assessment	Title:7	Chapter:1	Section:6f
+ Reporting and recordkeeping	Title:7	Chapter:1	Section:6g
+ False self-representation as registered entity member prohibited	Title:7	Chapter:1	Section:6h
+ Reports of deals equal to or in excess of trading limits; books and records; cash and controlled transactions	Title:7	Chapter:1	Section:6i
+ Restrictions on dual trading in security futures products on designated contract markets and registered derivatives transaction execution facilities	Title:7	Chapter:1	Section:6j
+ Registration of associates of futures commission merchants, commodity pool operators, and commodity trading advisors; required disclosure of disqualifications; exemptions for associated persons	Title:7	Chapter:1	Section:6k
+ Commodity trading advisors and commodity pool operators; Congressional finding	Title:7	Chapter:1	Section:6l
+ Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law	Title:7	Chapter:1	Section:6m
+ Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account	Title:7	Chapter:1	Section:6n
+ Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons	Title:7	Chapter:1	Section:6o
+ Transferred	Title:7	Chapter:1	Section:6o–1
+ Standards and examinations	Title:7	Chapter:1	Section:6p
+ Special procedures to encourage and facilitate bona fide hedging by agricultural producers	Title:7	Chapter:1	Section:6q
+ Reporting and recordkeeping for uncleared swaps	Title:7	Chapter:1	Section:6r
+ Registration and regulation of swap dealers and major swap participants	Title:7	Chapter:1	Section:6s
+ Large swap trader reporting	Title:7	Chapter:1	Section:6t
+ Designation of boards of trade as contract markets	Title:7	Chapter:1	Section:7
+ Repealed. 	Title:7	Chapter:1	Section:7a
+ Derivatives clearing organizations	Title:7	Chapter:1	Section:7a–1
+ Common provisions applicable to registered entities	Title:7	Chapter:1	Section:7a–2
+ Repealed. 	Title:7	Chapter:1	Section:7a–3
+ Suspension or revocation of designation as registered entity	Title:7	Chapter:1	Section:7b
+ Designation of securities exchanges and associations as contract markets	Title:7	Chapter:1	Section:7b–1
+ Privacy	Title:7	Chapter:1	Section:7b–2
+ Swap execution facilities	Title:7	Chapter:1	Section:7b–3
+ Application for designation as contract market or derivatives transaction execution facility; time; suspension or revocation of designation; hearing; review by court of appeals	Title:7	Chapter:1	Section:8
+ Prohibition regarding manipulation and false information	Title:7	Chapter:1	Section:9
+ Assessment of money penalties	Title:7	Chapter:1	Section:9a
+ Rules prohibiting deceptive and other abusive telemarketing acts or practices	Title:7	Chapter:1	Section:9b
+ Notice of investigations and enforcement actions	Title:7	Chapter:1	Section:9c
+ Repealed. 	Title:7	Chapter:1	Section:10
+ Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by association	Title:7	Chapter:1	Section:10a
+ Vacation on request of designation or registration as “registered entity”; redesignation or reregistration	Title:7	Chapter:1	Section:11
+ Public disclosure	Title:7	Chapter:1	Section:12
+ Omitted	Title:7	Chapter:1	Section:12–1 to 12–3
+ Registration of commodity dealers and associated persons; regulation of registered entities	Title:7	Chapter:1	Section:12a
+ Trading ban violations; prohibition	Title:7	Chapter:1	Section:12b
+ Disciplinary actions	Title:7	Chapter:1	Section:12c
+ Commission action for noncompliance with export sales reporting requirements	Title:7	Chapter:1	Section:12d
+ Repealed. 	Title:7	Chapter:1	Section:12e
+ Violations generally; punishment; costs of prosecution	Title:7	Chapter:1	Section:13
+ Violations, prohibition against dealings in motion picture box office receipts or onion futures; punishment	Title:7	Chapter:1	Section:13–1
+ Nonenforcement of rules of government or other violations; cease and desist orders; fines and penalties; imprisonment; misdemeanor; separate offenses	Title:7	Chapter:1	Section:13a
+ Enjoining or restraining violations	Title:7	Chapter:1	Section:13a–1
+ Jurisdiction of States	Title:7	Chapter:1	Section:13a–2
+ Manipulations or other violations; cease and desist orders against persons other than registered entities; punishment	Title:7	Chapter:1	Section:13b
+ Responsibility as principal; minor violations	Title:7	Chapter:1	Section:13c
+ Repealed. 	Title:7	Chapter:1	Section:14
+ Omitted	Title:7	Chapter:1	Section:15
+ Repealed. 	Title:7	Chapter:1	Section:15a
+ Cotton futures contracts	Title:7	Chapter:1	Section:15b
+ Commission operations	Title:7	Chapter:1	Section:16
+ Service fees and National Futures Association study	Title:7	Chapter:1	Section:16a
+ Separability	Title:7	Chapter:1	Section:17
+ Separability of 1936 amendment	Title:7	Chapter:1	Section:17a
+ Separability of 1968 amendment	Title:7	Chapter:1	Section:17b
+ Complaints against registered persons	Title:7	Chapter:1	Section:18
+ Consideration of costs and benefits and antitrust laws	Title:7	Chapter:1	Section:19
+ Market reports	Title:7	Chapter:1	Section:20
+ Registered futures associations	Title:7	Chapter:1	Section:21
+ Research and information programs; reports to Congress	Title:7	Chapter:1	Section:22
+ Standardized contracts for certain commodities	Title:7	Chapter:1	Section:23
+ Customer property with respect to commodity broker debtors; definitions	Title:7	Chapter:1	Section:24
+ Swap data repositories	Title:7	Chapter:1	Section:24a
+ Private rights of action	Title:7	Chapter:1	Section:25
+ Commodity whistleblower incentives and protection	Title:7	Chapter:1	Section:26
+ Definitions	Title:7	Chapter:1	Section:27
+ Exclusion of identified banking product	Title:7	Chapter:1	Section:27a
+ Repealed. 	Title:7	Chapter:1	Section:27b
+ Exclusion of certain other identified banking products	Title:7	Chapter:1	Section:27c
+ Administration of the predominance test	Title:7	Chapter:1	Section:27d
+ Repealed. 	Title:7	Chapter:1	Section:27e
+ Contract enforcement	Title:7	Chapter:1	Section:27f

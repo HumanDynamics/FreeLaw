@@ -1,0 +1,5 @@
+PRIVACY AND CIVIL LIBERTIES PROTECTION AND OVERSIGHT	Title:42	Chapter:21E	Section:0
+ Privacy and Civil Liberties Oversight Board	Title:42	Chapter:21E	Section:2000ee
+ Privacy and civil liberties officers	Title:42	Chapter:21E	Section:2000ee–1
+ Privacy and data protection policies and procedures	Title:42	Chapter:21E	Section:2000ee–2
+ Federal agency data mining reporting	Title:42	Chapter:21E	Section:2000ee–3

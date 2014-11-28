@@ -1,0 +1,6 @@
+ORGANIZATION	Title:5	Chapter:1	Section:0
+ Executive departments	Title:5	Chapter:1	Section:101
+ Military departments	Title:5	Chapter:1	Section:102
+ Government corporation	Title:5	Chapter:1	Section:103
+ Independent establishment	Title:5	Chapter:1	Section:104
+ Executive agency	Title:5	Chapter:1	Section:105

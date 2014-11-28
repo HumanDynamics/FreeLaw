@@ -1,0 +1,24 @@
+DEFINITIONS	Title:41	Chapter:1	Section:0
+ Administrator	Title:41	Chapter:1	Section:101
+ Commercial component	Title:41	Chapter:1	Section:102
+ Commercial item	Title:41	Chapter:1	Section:103
+ Commercially available off-the-shelf item	Title:41	Chapter:1	Section:104
+ Component	Title:41	Chapter:1	Section:105
+ Federal Acquisition Regulation	Title:41	Chapter:1	Section:106
+ Full and open competition	Title:41	Chapter:1	Section:107
+ Item and item of supply	Title:41	Chapter:1	Section:108
+ Major system	Title:41	Chapter:1	Section:109
+ Nondevelopmental item	Title:41	Chapter:1	Section:110
+ Procurement	Title:41	Chapter:1	Section:111
+ Procurement system	Title:41	Chapter:1	Section:112
+ Responsible source	Title:41	Chapter:1	Section:113
+ Standards	Title:41	Chapter:1	Section:114
+ Supplies	Title:41	Chapter:1	Section:115
+ Technical data	Title:41	Chapter:1	Section:116
+ Acquisition	Title:41	Chapter:1	Section:131
+ Competitive procedures	Title:41	Chapter:1	Section:132
+ Executive agency	Title:41	Chapter:1	Section:133
+ Simplified acquisition threshold	Title:41	Chapter:1	Section:134
+ Agency head	Title:41	Chapter:1	Section:151
+ Competitive procedures	Title:41	Chapter:1	Section:152
+ Simplified acquisition threshold for contract in support of humanitarian or peacekeeping operation	Title:41	Chapter:1	Section:153

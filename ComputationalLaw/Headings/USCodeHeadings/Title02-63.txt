@@ -1,0 +1,13 @@
+SENATE MEMBERS	Title:2	Chapter:63	Section:0
+ Senators’ salaries	Title:2	Chapter:63	Section:6301
+ Salaries of Senators	Title:2	Chapter:63	Section:6302
+ Organizational expenses of Senator-elect	Title:2	Chapter:63	Section:6311
+ Clerks to Senators-elect	Title:2	Chapter:63	Section:6312
+ Senators’ Official Personnel and Office Expense Account	Title:2	Chapter:63	Section:6313
+ Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators	Title:2	Chapter:63	Section:6314
+ Telecommunications services for Senators; payment of costs out of contingent fund	Title:2	Chapter:63	Section:6315
+ United States Code Annotated or United States Code Service; procurement for Senators	Title:2	Chapter:63	Section:6316
+ Home State office space for Senators; lease of office space	Title:2	Chapter:63	Section:6317
+ Additional home State office space for Senators; declaration of disaster or emergency	Title:2	Chapter:63	Section:6318
+ Transportation of official records and papers to a Senator’s State	Title:2	Chapter:63	Section:6319
+ Purchase of office equipment or furnishings by Senators	Title:2	Chapter:63	Section:6320

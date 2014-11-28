@@ -1,0 +1,9 @@
+INTEREST	Title:26	Chapter:67	Section:0
+ Interest on underpayment, nonpayment, or extensions of time for payment, of tax	Title:26	Chapter:67	Section:6601
+ Interest on erroneous refund recoverable by suit	Title:26	Chapter:67	Section:6602
+ Deposits made to suspend running of interest on potential underpayments, etc.	Title:26	Chapter:67	Section:6603
+ Interest on overpayments	Title:26	Chapter:67	Section:6611
+ Cross references	Title:26	Chapter:67	Section:6612
+ Determination of rate of interest	Title:26	Chapter:67	Section:6621
+ Interest compounded daily	Title:26	Chapter:67	Section:6622
+ Notice requirements	Title:26	Chapter:67	Section:6631

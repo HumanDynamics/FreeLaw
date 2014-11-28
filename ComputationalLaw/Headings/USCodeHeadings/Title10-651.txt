@@ -1,0 +1,7 @@
+SHIPS’ STORES AND COMMISSARY STORES	Title:10	Chapter:651	Section:0
+ Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons	Title:10	Chapter:651	Section:7601
+ Sales: members of Army and Air Force; prices	Title:10	Chapter:651	Section:7602
+ Sales: veterans under treatment	Title:10	Chapter:651	Section:7603
+ Ships’ stores: sale of goods and services	Title:10	Chapter:651	Section:7604
+ Acceptance of Government checks outside the United States	Title:10	Chapter:651	Section:7605
+ Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices	Title:10	Chapter:651	Section:7606

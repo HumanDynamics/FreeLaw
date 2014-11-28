@@ -1,0 +1,7 @@
+SMALL VESSEL MANNING	Title:46	Chapter:89	Section:0
+ Freight vessels	Title:46	Chapter:89	Section:8901
+ Small passenger vessels	Title:46	Chapter:89	Section:8902
+ Self-propelled, uninspected passenger vessels	Title:46	Chapter:89	Section:8903
+ Towing vessels	Title:46	Chapter:89	Section:8904
+ Exemptions	Title:46	Chapter:89	Section:8905
+ Penalty	Title:46	Chapter:89	Section:8906

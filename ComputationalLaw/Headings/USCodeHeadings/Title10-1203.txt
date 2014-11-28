@@ -1,0 +1,9 @@
+ENLISTED MEMBERS	Title:10	Chapter:1203	Section:0
+ Definition	Title:10	Chapter:1203	Section:12101
+ Reserve components: qualifications	Title:10	Chapter:1203	Section:12102
+ Reserve components: terms	Title:10	Chapter:1203	Section:12103
+ Reserve components: transfers	Title:10	Chapter:1203	Section:12104
+ Army Reserve and Air Force Reserve: transfer from Guard components	Title:10	Chapter:1203	Section:12105
+ Army and Air Force Reserve: transfer to upon withdrawal as member of National Guard	Title:10	Chapter:1203	Section:12106
+ Army National Guard of United States; Air National Guard of the United States: enlistment in	Title:10	Chapter:1203	Section:12107
+ Enlisted members: discharge or retirement for years of service or for age	Title:10	Chapter:1203	Section:12108
