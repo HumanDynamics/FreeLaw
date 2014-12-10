@@ -43,6 +43,7 @@ for uniqueTitleNumber in titleList:
             return str1<str2
 
     chaptersFound = []
+    
     for chapter in chapterList:
         counter += 1
         output = ""
