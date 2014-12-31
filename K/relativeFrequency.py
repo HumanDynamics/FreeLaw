@@ -43,7 +43,7 @@ class FrequencySummarizer:
         from simplejson import loads
         y = loads(x)['label']
         result = {'pos':'positive','neutral':'neutral','neg':'negative'}[y]+" "+str(loads(x)['probability'][y])
-        return result
+        return result,str(loads(x))
 
     def frequency(self,word):
         """Returns the fraction of sentences that contain this word. Autocaches."""

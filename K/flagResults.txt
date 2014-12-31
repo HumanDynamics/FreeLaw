@@ -1,0 +1,10 @@
+http://www.law.cornell.edu/uscode/text/4/3
+
+Subjectivity
+
+neutral: 0.3
+polar: 0.7
+Polarity
+
+pos: 0.7
+neg: 0.3
