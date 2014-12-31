@@ -1,0 +1,5 @@
+http://www.law.cornell.edu/uscode/text/51/20302
+Subjectivity
+
+neutral: 0.9
+polar: 0.1
