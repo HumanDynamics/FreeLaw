@@ -5,11 +5,14 @@ The purpose of this script is to parse the mapping of Public Law sections to U.S
 This file parses HTML files such as http://uscode.house.gov/table3/111_148.htm
 The output is a list of references, currently printing to standard output.
 @author: Pablo, @williampli
+Modified lightly by Keller, because most of the function is very useful, but
+some modifications were made because I am too much of a functional programmer
+to like side effects and because I wanted more of the data than was being
+supplied.
 """
 
 from __future__ import division
 from bs4 import BeautifulSoup
-import re
 import sys
 
 def parseTable(filename):
