@@ -1,10 +1,10 @@
 #!/usr/bin/python
-import os, sys 
+import os
+import sys 
 import httplib2
 from lxml import etree
 from StringIO import StringIO
 import re
-import simplejson
 
 # Table Three Scraper http://uscode.house.gov/table3/table3years.htm
 # The scrapers grab the URLs for each year from 1789 to 2011, go one directory 
@@ -21,7 +21,7 @@ import simplejson
 years = { 1950 }
 
 # Specify if you want to combine into a single directory
-combine=False
+combine=True
 # for testing purposes, the number of files downloaded can be limited.
 LIMIT_SUBSUBRELEASES = False
 LIMIT = 5
@@ -94,7 +94,7 @@ def add_subsubrelease(url): #function to grab sub, sub page data
     # print content
     return url, content
 
-def addYear(y,flatten):
+def add_year(y,flatten):
     dataset = []
     x = add_release("http://uscode.house.gov/table3/table3years.htm",y)
       #Could also use "/alltable3statutesatlargevolumes.html"
@@ -113,7 +113,7 @@ def addYear(y,flatten):
             #sys.stderr.write( "Wrote %s\n" % ( final_pagename ) )
 def main():
     for year in years:
-        addYear(year,combine)
+        add_year(year,combine)
 
 if __name__ == '__main__':
     main()

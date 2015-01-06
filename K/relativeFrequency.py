@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from nltk.tokenize import sent_tokenize,word_tokenize
 from nltk.corpus import stopwords
 from collections import defaultdict
@@ -7,8 +8,6 @@ class FrequencySummarizer:
     def __init__(self, text, low_thresh=0.2, high_thresh=0.7):
         """
          Initialize the text summarizer.
-         Words that have a frequency term lower than low_thresh 
-         or higer than high_thresh will be ignored.
         """
         ignore = ['fig','figure','ibid', 'et al','cf','NB','N.B.']
         
@@ -55,19 +54,19 @@ class FrequencySummarizer:
                 del self._frequencies[word]
         return self._frequencies[word]
 
-    def jointFrequency(self,wordList,suppressWarnings=0):
-        """Returns the number of sentences in which all words in wordList.
-        wordList functions best if handed a list of strings."""
+    def jointFrequency(self,wordList,warnings=1):
+        """
+        Returns the number of sentences in which all words in wordList 
+        appear. jointFrequency functions best if wordList is a list of strings.
+        """
         total = 0
         # This function makes liberal abuse of the fact that 0 is false.
-        if not len(wordList) and not suppressWarnings:
+        if not len(wordList) and warnings:
             print("Warning: wordList is empty.")
         for sent in self.sents():
-            # Forgive me Guido, for I have used a for-else loop.
             total=total+1 if all(word.lower() in sent.lower() for word in wordList) else total
-            
         if not total and not suppressWarnings:
-            print("Warning:"+wordList+"is not found in any sentences.")
+            print("Warning:"+str(wordList)+"is not found in any sentences.")
         return total/len(sents)
 
     def PMI(self,firstWord,secondWord):
