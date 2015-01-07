@@ -4,6 +4,8 @@ Everything before 1926 has sections that have been changed all over the place re
 
 The revised statutes: "R.S. — Revised Statutes of 1878; where “R.S.” followed by a section number appears, the provision was restated in the cited section of the Revised Statutes of 1878 (locations in the Code where sections of the Revised Statutes of 1878 can be found are included in Table II, which is a separate table for the Code)" http://uscode.house.gov/tables/usctable2.htm
 
+If you just want to run the code, fileShifter.primary is the function you want, and it has reasonably sensible defaults.
+
 The basic flow is as follows:
 	table3_scraper.main() will fetch a large number of files. This program takes a long time to run.
 	import parseAllTables as pat

@@ -86,4 +86,6 @@ def all_years(f):
 
 if __name__ == "__main__":
     #print(target_changes(title_mods(directory_to_changesList("years/1958"))))
-    s#print(all_years(lambda x:(title_mods(directory_to_changesList(x)))))
+    #print(all_years(lambda x:(title_mods(directory_to_changesList(x)))))
+    pass
+    
