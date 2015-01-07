@@ -3,13 +3,14 @@ import json
 from collections import defaultdict
 def primary(
         startYear=1927,endYear=2013,
-        jsonFileName="tempFile.json",csvFileName="tempFile.csv",
+        jsonFileName="products/tempFile.json",
+        csvFileName="products/tempFile.csv",
         optionsDict={}):
     import parseAllTables as pat
     #This is a long fucking line to execute, but that's OK.
     full_list = pat.all_years(lambda x:(pat.title_mods(
         pat.directory_to_changes_list(x))))
-    full_dict=titles_list_to_dict(full_list)
+    full_dict=full_list_to_dict(full_list)
     dict_to_json_file(full_dict,jsonFileName)
     changes_json_to_CSV(jsonFileName,csvFileName,startYear,endYear)
 
@@ -17,7 +18,8 @@ def full_list_to_dict(l):
     """Takes in a list.
     The sample list would be
     import parseAllTables as p
-    p.all_years(lambda x:(p.title_mods(p.directory_to_changes_list(x)))
+    p.all_years(lambda x:(p.title_mods(p.directory_to_changes_list(x))))
+    Something else could certainly work, but that's the core idea.
     """
 
     #Sets up the keys for the dictionary.

@@ -12,3 +12,6 @@ The basic flow is as follows:
 	pat.all_years(lambda x:(pat.title_mods(pat.directory_to_changes_list(x)))) will get you the full dictionaries.
 	fileShifter.dict_to_json_file will take that and give a json file, and from there fileShifter.changes_json_to_csv is good.
 
+Folders:
+	
+

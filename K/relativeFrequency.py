@@ -8,12 +8,16 @@ class FrequencySummarizer:
     def __init__(self, text, low_thresh=0.2, high_thresh=0.7):
         """
          Initialize the text summarizer.
+         Credit goes to Rebecca Morgan for initial development.
         """
         ignore = ['fig','figure','ibid', 'et al','cf','NB','N.B.']
         
         self._low_thresh = low_thresh
         self._high_thresh = high_thresh 
-        self._stopwords = set(stopwords.words('english') + list(punctuation) + ignore)
+        self._stopwords = set(
+                stopwords.words('english') + 
+                list(punctuation) + 
+                ignore)
         self.text = unicode(text, errors='ignore')
         self.sents = sent_tokenize(self.text)
         self._frequencies = {}

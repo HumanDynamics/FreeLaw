@@ -81,11 +81,10 @@ def all_years(f):
     Will apply the function f to every year recorded, and return the
     results.
     """
-    d = os.curdir+"/years"
-    return [f("years/"+i) for i in sorted(os.listdir(d))]
+    d = os.curdir+"/table3_pages"
+    return [f("table3_pages/"+i) for i in sorted(os.listdir(d))]
 
 if __name__ == "__main__":
-    #print(target_changes(title_mods(directory_to_changesList("years/1958"))))
+    #print(target_changes(title_mods(directory_to_changesList("table3_pages/1958"))))
     #print(all_years(lambda x:(title_mods(directory_to_changesList(x)))))
     pass
-    
