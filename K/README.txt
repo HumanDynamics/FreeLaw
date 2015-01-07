@@ -13,5 +13,8 @@ The basic flow is as follows:
 	fileShifter.dict_to_json_file will take that and give a json file, and from there fileShifter.changes_json_to_csv is good.
 
 Folders:
-	
-
+----products contains everything you have as an output from your analysis.
+----jsonFrequencies has files for each year, and each year has a json file roughly equivalent to a dict.
+----crosslaws contains additional information on the table3 analysis from sunlight labs, and it's very handy.
+----yearlyChanges is just the written forms of python lists containing all the information about each change. It's totally lossless relative to what ParseTable would give you, and much faster because you won't have to wade through html.
+----table3_pages is only to be used in emergencies, as it will take minutes to parse through.
