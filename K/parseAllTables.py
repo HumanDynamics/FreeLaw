@@ -9,7 +9,7 @@ titleDict = {
     7: "Agriculture", 8: "Aliens and Nationality", 9: "Arbitration",
     10:"Armed Forces", 11:"Bankruptcy", 12:"Banks and Banking",13:"Census",
     14:"Coast Guard", 15:"Commerce and Trade", 16:"Conservation", 
-    17:"Copyrights",18:"Crimes and Criminal Procedure", 19:"Customes Duties",
+    17:"Copyrights",18:"Crimes and Criminal Procedure", 19:"Customs Duties",
     20:"Education",21:"Food and Drugs", 
     22:"Foreign Relations and Intercourse",23:"Highways",
     24:"Hospitals and Asylums", 25:"Indians",26:"Internal Revenue Code",
@@ -31,7 +31,7 @@ econTitles=['7','11','12','15','21','27','30','31','35','45','46','47','49']
 defenseTitles=[]
 strictEconTitles=[]
 
-def directoryToChangesList(directoryName):
+def directory_to_changes_list(directoryName):
     "Given a directory to target, extracts all relevant information on tables."
     files=[f for f in sorted(os.listdir(directoryName))]
     results = [parseTable(os.path.join(directoryName,f)) for f in files]
@@ -39,11 +39,15 @@ def directoryToChangesList(directoryName):
     return final
 
 
-def titleMods(changesList,focus=2):
+def title_mods(changesList,focus=2,onlyInclude=0):
     """
-    Takes in a list of changes, and returns the number of changes in a given
-    title by default. If you set focus to 4, it can instead grab the number of
-    additions(null string), eliminations, revisions, and other types of change.
+    Takes in a list of changes, and returns the number of changes in a
+    given title by default. If you set focus to 4, it can instead grab
+    the number of additions(null string), eliminations, revisions, and
+    other types of change. Return a dict where keys are titles and the
+    values are each lists containing the number of results found to be
+    acceptable in a given year. Unless onlyInclude is modified, that's
+    going to be all of them.
     """
     #Structure
     #changesList[change][0] = Section
@@ -51,32 +55,35 @@ def titleMods(changesList,focus=2):
     #changesList[change][2] = USCodeTitle
     #changesList[change][3] = USCodeSection
     #changesList[change][4] = USCodeStatus
+        #
     from collections import defaultdict
     d = defaultdict(int)
-    for change in changesList:
-        d[change[2]] +=1
+    if not onlyInclude:
+        for change in changesList:
+            d[change[2]] +=1
+    else:
+        for change in changesList:
+            if change[4] in onlyInclude:
+                d[change[2]]+=1
     return d
 
 
-def targetChanges(titleMods,targetTitles=econTitles):
+def target_changes(titleMods,targetTitles=econTitles):
     """
-    Returns the number of changes that were about economic titles by default.
-    You can set your own, different, target if you prefer.
+    Returns the number of changes that were about economic titles by 
+    default. You can set your own, different, target if you prefer.
     """
     return sum(titleMods[key] for key in titleMods if key in targetTitles)
 
 
-def allYears(f):
+def all_years(f):
     """
-    Will apply the function f to every year recorded, and return the results.
+    Will apply the function f to every year recorded, and return the
+    results.
     """
     d = os.curdir+"/years"
     return [f("years/"+i) for i in sorted(os.listdir(d))]
 
-
-def changesListTofile(changesList,newFileName):
-    pass
-
-
 if __name__ == "__main__":
-    print(targetChanges(titleMods(directoryToChangesList("years/1958"))))
+    #print(target_changes(title_mods(directory_to_changesList("years/1958"))))
+    s#print(all_years(lambda x:(title_mods(directory_to_changesList(x)))))
