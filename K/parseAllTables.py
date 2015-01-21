@@ -29,6 +29,7 @@ titleDict = {
     }
 econTitles=['7','11','12','15','21','27','30','31','35','45','46','47','49']
 defenseTitles=[]
+<<<<<<< Updated upstream
 strictEconTitles=[]
 
 def directory_to_changes_list(directoryName):
@@ -49,12 +50,24 @@ def title_mods(changesList,focus=2,onlyInclude=0):
     acceptable in a given year. Unless onlyInclude is modified, that's
     going to be all of them.
     """
+=======
+def directoryToChangesList(directoryName):
+    files=[f for f in os.listdir(directoryName) if os.path.isfile(
+        os.path.join(directoryName,f))]
+    results = [parseTable(os.path.join(directoryName,f)) for f in files]
+    final=[item for sublist in results for item in sublist]
+    return final
+def titleMods(changesList,conditions=0):
+    #Has been tested and seems like it works. 
+    #At the moment, not tossing errors, at least.
+>>>>>>> Stashed changes
     #Structure
     #changesList[change][0] = Section
     #changesList[change][1] = Statue Page
     #changesList[change][2] = USCodeTitle
     #changesList[change][3] = USCodeSection
     #changesList[change][4] = USCodeStatus
+<<<<<<< Updated upstream
         #
     from collections import defaultdict
     d = defaultdict(int)
@@ -88,3 +101,22 @@ if __name__ == "__main__":
     #print(target_changes(title_mods(directory_to_changesList("table3_pages/1958"))))
     #print(all_years(lambda x:(title_mods(directory_to_changesList(x)))))
     pass
+=======
+    from collections import defaultdict
+    d = defaultdict(int)
+    for change in changesList:
+        if not conditions:
+            d[change[2]] +=1
+        else:
+            if d[change][4] in conditions:
+                d[change[2]]+=1
+    return d
+def titleAdds(changesList):
+    return titleMods(changesList,"")
+def sections(titleMods):
+    pass
+def changesListTofile(changesList,newFileName):
+    pass
+if __name__ == "__main__":
+    pass
+>>>>>>> Stashed changes
