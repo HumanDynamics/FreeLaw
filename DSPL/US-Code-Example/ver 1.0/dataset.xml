@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dspl xmlns="http://schemas.google.com/dspl/2010"
+    xmlns:geo="http://www.google.com/publicdata/dataset/google/geo"
+    xmlns:geo_usa="http://www.google.com/publicdata/dataset/google/geo/us"
+    xmlns:time="http://www.google.com/publicdata/dataset/google/time"
+    xmlns:quantity="http://www.google.com/publicdata/dataset/google/quantity"
+    xmlns:entity="http://www.google.com/publicdata/dataset/google/entity">
+
+  <import namespace="http://www.google.com/publicdata/dataset/google/time"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/quantity"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/entity"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/geo"/>
+  
+  <info>
+    <name>
+      <value>My legal data</value>
+    </name>
+    <description>
+      <value>Some very interesting trends about legal data</value>
+    </description>
+    <url>
+      <value>TBD</value>
+    </url>
+  </info>
+
+  <provider>
+    <name>
+      <value>MIT Human Dynamics</value>
+    </name>
+    <url>
+      <value>TBD</value>
+    </url>
+  </provider>
+
+  <topics>
+    <topic id="title_indicator">
+      <info>
+        <name><value>title trends</value></name>
+      </info>
+    </topic>
+  </topics>
+
+  <concepts>
+    <!-- As noted in the tutorial, this concept should extend quantity:amount.-->
+    <concept id="changes">
+      <info>
+        <name>
+          <value>changes</value>
+        </name>
+        <description>
+          <value>The annual changes made to every title of the US laws.</value>
+        </description>
+      </info>
+      <topic ref="change_indicators"/>
+      <type ref="integer"/>
+    </concept>
+
+    <!-- This country concept is defined for educational purposes only. A country
+    concept exists in the Google geo dataset. See:
+    
+    http://code.google.com/apis/publicdata/docs/canonical/geo.html --> 
+    <concept id="title">
+      <info>
+        <name>
+          <value>title</value>
+        </name>
+        <description>
+          <value>Every title of the US laws.</value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <property id="name">
+        <info>
+          <name><value>Title names</value></name>
+          <description>
+            <value>The official names of the titles</value>
+          </description>
+        </info>
+        <type ref="string"/>
+      </property>
+      <table ref="title_table"/>
+    </concept>
+
+  </concepts>
+
+  <slices>
+    <slice id="title_slice">
+      <dimension concept="title"/>
+      <dimension concept="time:year"/>
+      <metric concept="changes"/>
+      <table ref="title_table"/>
+    </slice>
+
+  </slices>
+
+  <tables>
+    <table id="title_table">
+      <column id="title" type="string"/>
+      <column id="year" type="date" format="yyyy"/>
+      <column id="changes" type="integer"/>
+      <data>
+        <file format="csv" encoding="utf-8">title_slice.csv</file>
+      </data>
+    </table>
+  </tables>
+
+</dspl>
