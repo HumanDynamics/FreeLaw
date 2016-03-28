@@ -12,7 +12,3 @@ descriptions.
 Users simply drag-and-drop and fill in prompts to create their
 contracts, and hit Go. Their contracts are automatically deployed onto
 the Ethereum blockchain, no coding knowledge required.
-
-## Other projects in this space
-- [Docracy](http://www.docracy.com/)
-
